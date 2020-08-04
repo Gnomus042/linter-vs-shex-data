@@ -1,1187 +1,397 @@
-[
-    {
-        "1.json": ""
-    },
-    {
-        "10.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "100.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1000.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1001.json": "property schema:url: Object _:b2() not compatible with rangeIncludes (schema:URL)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1002.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1003.json": "property schema:thumbnailURL: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1004.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1005.json": "property schema:cookTime: Object \"\\n N/A\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"\\n 10 minutes\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:prepTime: Object \"\\n 10 minutes\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"\\n N/A\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1006.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1007.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1008.json": "property schema:totalTime: Object \"1 h. 10 min.\"@sk not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1009.json": "property schema:totalTime: Object \"1 h. 15 min.\"@pl not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "101.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1010.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1011.json": "property schema:dateCreated: Object \"04/21/2012\"@en not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:dateModified: Object \"01/30/2015\"@en not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1012.json": "property schema:container: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1013.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1014.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1015.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1016.json": ""
-    },
-    {
-        "1017.json": "property schema:fatContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:proteinContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:carbohydrateContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:fiberContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:sodiumContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:cholesterolContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)"
-    },
-    {
-        "1018.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1019.json": "property schema:container: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "102.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1020.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1021.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1022.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1023.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object _:b1() not compatible with rangeIncludes (schema:URL)\nproperty schema:itemreviewed: No property definition found"
-    },
-    {
-        "1024.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object _:b1() not compatible with rangeIncludes (schema:URL)\nproperty schema:itemreviewed: No property definition found"
-    },
-    {
-        "1025.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"25 min.\"@en not compatible with rangeIncludes (schema:Duration)"
-    },
-    {
-        "1026.json": "property schema:totalTime: Object \" 01:00 Hr\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1027.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:carbs: No property definition found"
-    },
-    {
-        "1028.json": ""
-    },
-    {
-        "1029.json": "property schema:recipeSubCategory: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "103.json": "property schema:commentcount: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1030.json": "property schema:datePublished: Object \"\\n Opublikowany: 03.01.2014\\n \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1031.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1032.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1033.json": ""
-    },
-    {
-        "1035.json": "property schema:dateCreated: Object \"12/07/2004\"@en not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:dateModified: Object \"10/22/2018\"@en not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1036.json": "property schema:cookTime: Object \"2019-11-23T00:00:00+00:00\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"2019-11-23T00:00:00+00:00\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"2019-11-23T00:30:00+00:00\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1037.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1038.json": "property schema:embedURL: No property definition found\nproperty schema:thumbnailURL: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1039.json": "property schema:totalTime: Object \"5 Min\"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "104.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1040.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1041.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1042.json": "property schema:datePublished: Object \"\\n24 febrero, 2015\"@es not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1043.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1044.json": "property schema:cookTime: Object \"20 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"25 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"5 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"20 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:reviewCount: Object \"Null\"@en-us not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1045.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1046.json": "property schema:datePublished: Object \"\\n Opublikowany: 17.12.2013\\n \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1047.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1048.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:reviewCount: Object \"Null\"@lt-lt not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1049.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "105.json": ""
-    },
-    {
-        "1050.json": "property schema:cookTime: Object \"40 min\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"40 min\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:url: Object _:b1() not compatible with rangeIncludes (schema:URL)"
-    },
-    {
-        "1051.json": "property schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1052.json": "property schema:fatContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:proteinContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:carbohydrateContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:fiberContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:sodiumContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:cholesterolContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)"
-    },
-    {
-        "1053.json": ""
-    },
-    {
-        "1054.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:contentURL: No property definition found"
-    },
-    {
-        "1055.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1056.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object \"node/399\"@en not compatible with rangeIncludes (schema:URL)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "106.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1068.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "107.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1071.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1072.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1073.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1074.json": "property schema:cookTime: Object \"01 h 43 min\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"01 h 43 min\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:prepTime: Object \"20 min\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1075.json": "property schema:datePublished: Object \"\\n Opublikowany: 18.09.2019\\n \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1076.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1077.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1078.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1079.json": "property schema:datePublished: Object \"\\n24 febrero, 2015\"@es not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "108.json": "property schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:isFamilyFriendly: Object \"Null\" not compatible with rangeIncludes (schema:Boolean)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1080.json": "property schema:datePublished: Object \"\\n24 febrero, 2015\"@es not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1081.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1082.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1083.json": "property schema:totalTime: Object \"1 \u0447 30 \u043c\u0438\u043d\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1084.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1085.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1086.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1087.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1088.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1089.json": "error NoMethodError: undefined method `pname' for #<RDF::Literal:0xd2050(\"Gebak\")>"
-    },
-    {
-        "109.json": "property schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:isFamilyFriendly: Object \"Null\" not compatible with rangeIncludes (schema:Boolean)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1090.json": ""
-    },
-    {
-        "1091.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1092.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1093.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1094.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1095.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1096.json": "property schema:cookTime: Object \"25 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"35 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"15 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"25 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:reviewCount: Object \"Null\"@en-us not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1097.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1098.json": "property schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:totaltime: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1099.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "11.json": ""
-    },
-    {
-        "110.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1100.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1101.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1102.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1103.json": "property schema:dateCreated: Object \"Null\" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:dateModified: Object \"Null\" not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1104.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1108.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "111.json": "class schema:schema.orgAggregateRating: No class definition found\nproperty schema:cookTime: Object \"15min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"25min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:aggregateRating: Object _:b0(schema:schema.orgAggregateRating,rdfs:Resource) not compatible with rangeIncludes (schema:AggregateRating)\nproperty schema:bestRating: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Rating)\nproperty schema:prepTime: Object \"10min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"15min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:ratingValue: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Rating)\nproperty schema:ratingCount: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:AggregateRating)"
-    },
-    {
-        "1110.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1111.json": "class ogc:url: No class definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1112.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1114.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1117.json": ""
-    },
-    {
-        "1118.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object _:b12() not compatible with rangeIncludes (schema:URL)"
-    },
-    {
-        "1119.json": "property schema:datePublished: Object \"\\n\\n\\n \\n Sa\u0142atka z kurczakiem, kukurydza i fasolk\u0105 \\n\\n\\n\\n\\n\\n\\n\\n\\n \\n \\n \u00ab poprz.\\n \\n \\n nast. \u00bb\\n \\n \\n \\n 15860\\n com_content.article\\n \\n \\n \\n  \\n 1\\n 2\\n 3\\n 4\\n 5\\n \\n (Oddano 22 g\u0142os\u00f3w z \u015bredni\u0105 4.18 z 5)Sa\u0142atka z kurczakiem, kukurydza i fasolk\u0105 4.18 out of 5\"@pl-pl not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:reviewCount: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:AggregateRating)\nproperty schema:itemreviewed: No property definition found"
-    },
-    {
-        "112.json": ""
-    },
-    {
-        "1120.json": ""
-    },
-    {
-        "1121.json": ""
-    },
-    {
-        "1122.json": ""
-    },
-    {
-        "1123.json": ""
-    },
-    {
-        "1124.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1125.json": "property schema:totalTime: Object \"1 h 15 min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1126.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1127.json": ""
-    },
-    {
-        "1128.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1129.json": "property schema:datePublished: Object \"\\n 26.07.2010 \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:dateModified: Object \"\\n \u0420\u0435\u0446\u0435\u043f\u0442 \u0438\u0437\u043c\u0435\u043d\u0435\u043d: 24.03.2016\" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:resultPhoto: No property definition found"
-    },
-    {
-        "113.json": "property schema:cookTime: Object \"35 min \"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"50 min \"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"15 min \"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"35 min \"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1130.json": ""
-    },
-    {
-        "1131.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1132.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1133.json": "property schema:datePublished: Object \"June 11, 2015\"@en-us not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:post: No property definition found"
-    },
-    {
-        "1134.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1135.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1136.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1137.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1138.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1139.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object \"/desery-przepisy/kokosowy-sen-pod-brzoskwiniowa-kolderka/s8rr09xl-ccf12-234910-cfcd2-4sdad5g5\" not compatible with rangeIncludes (schema:URL)"
-    },
-    {
-        "114.json": ""
-    },
-    {
-        "1140.json": "property schema:recipeSubCategory: No property definition found\nproperty schema:resultPhoto: No property definition found\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1141.json": "property schema:dateCreated: Object \"03/31/2003\"@en not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:dateModified: Object \"12/22/2015\"@en not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1142.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1143.json": ""
-    },
-    {
-        "1144.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1145.json": "property schema:datePublished: Object \"\\n24 febrero, 2015\"@es not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1146.json": "property schema:datePublished: Object \"\\n Opublikowany: 08.01.2014\\n \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1147.json": "property schema:datePublished: Object \"\\n Opublikowany: 03.03.2015\\n \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1148.json": ""
-    },
-    {
-        "1149.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "115.json": "property schema:totalTime: Object \"20 minuten\"@nl-nl not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1150.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1151.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1152.json": ""
-    },
-    {
-        "1153.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1154.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1155.json": ""
-    },
-    {
-        "1156.json": "property schema:datePublished: Object \"October 28th, 2015\"@en-us not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1158.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "116.json": "property schema:datePublished: Object \" 07 \u0414\u0435\u043a\u0430\u0431\u0440\u044c 2015 \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:resultPhoto: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1162.json": ""
-    },
-    {
-        "1173.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1174.json": "property schema:cookTime: Object \"35 \u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"35 \u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"10 \u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1175.json": "property schema:cookTime: Object \"10 \u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"10 \u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"15 \u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1176.json": ""
-    },
-    {
-        "1177.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1178.json": "property schema:cookTime: Object \"cook time: 50 M\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"total time: 60 M\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object _:b1() not compatible with rangeIncludes (schema:URL)\nproperty schema:prepTime: Object \"prep time: 10 M\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"cook time: 50 M\" not compatible with rangeIncludes (schema:Duration)"
-    },
-    {
-        "1179.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)"
-    },
-    {
-        "1180.json": "property schema:totalTime: Object \"10 min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1184.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1185.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1186.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1187.json": "property schema:totalTime: Object \"25 min \"@es-es not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"25 min \"@es-es not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:reviewCount: Object \"Null\"@es-es not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1188.json": ""
-    },
-    {
-        "1189.json": ""
-    },
-    {
-        "119.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)"
-    },
-    {
-        "1190.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1191.json": "property schema:totalTime: Object \"\u010das priprave: 60\u201390 min.\" not compatible with rangeIncludes (schema:Duration)"
-    },
-    {
-        "1193.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object \"node/286\"@en not compatible with rangeIncludes (schema:URL)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1195.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1196.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1197.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1198.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1199.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "12.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1200.json": "property schema:datePublished: Object \"01.05.2018 10:39\"@ru-ru not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:totalTime: Object \"60 \u043c\u0438\u043d\u0443\u0442\"@ru-ru not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:resultPhoto: No property definition found"
-    },
-    {
-        "1201.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1202.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1203.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1204.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1205.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1206.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1207.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1208.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1209.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:reviewCount: Object \"6 \"@bg-bg not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1210.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1211.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1212.json": "property schema:recipeSubCategory: No property definition found\nproperty schema:resultPhoto: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1213.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1214.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1215.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1216.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1217.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1218.json": ""
-    },
-    {
-        "1219.json": "class schema:aggregateRating: No class definition found\nproperty schema:aggregateRating: Object _:b0(schema:aggregateRating,rdfs:Resource) not compatible with rangeIncludes (schema:AggregateRating)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ratingCount: Subject _:b0(schema:aggregateRating,rdfs:Resource) not compatible with domainIncludes (schema:AggregateRating)\nproperty schema:bestRating: Subject _:b0(schema:aggregateRating,rdfs:Resource) not compatible with domainIncludes (schema:Rating)\nproperty schema:ratingValue: Subject _:b0(schema:aggregateRating,rdfs:Resource) not compatible with domainIncludes (schema:Rating)"
-    },
-    {
-        "1220.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1221.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1231.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1236.json": "property schema:totalTime: Object \"20 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1237.json": "property schema:totalTime: Object \"35 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1238.json": "property schema:recipeSubCategory: No property definition found\nproperty schema:resultPhoto: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1239.json": ""
-    },
-    {
-        "1240.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1241.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1242.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1243.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)"
-    },
-    {
-        "1244.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1245.json": ""
-    },
-    {
-        "1246.json": ""
-    },
-    {
-        "1247.json": ""
-    },
-    {
-        "1248.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1249.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1250.json": "property schema:duration: Object \"P240S\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object \"\uce74\uc9c0\ub178\uc0ac\uc774\ud2b8\u27a2-\ud638\ud154\uce74\uc9c0\ub178-\u21d6\ub9c8\uce74\uc624 \ubc14\uce74\ub77c \ud6c4\uae30\ufe5b\ubb34\ub8cc \uc2ac\ub86f \uba38\uc2e0 \uac8c\uc784\ufe5c\u25b6\uff08\ub9b4 \uac8c\uc784 \ud669\uae08\uc131\uff09\u25e5\ud30c\ub77c\ub2e4\uc774\uc2a4 \uac8c\uc784\u262f\uc778\ud130\ub137\ubc14\ub451\uc774\uac8c\uc784\u03c7\uce74\uc9c0\ub178 \ub8f0\ub81b \uc804\ub7b5\u260e\ubc14\uce74\ub77c \uc608\uce21 \ud504\ub85c\uadf8\ub7a8\u254c\uce74\uc9c0\ub178 \uba39\ud280\"@en not compatible with rangeIncludes (schema:URL)\nproperty schema:reviewCount: Object \"\\n 4\\n \"@en not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1251.json": "property schema:cookTime: Object \"15min\"@it not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"15min\"@it not compatible with rangeIncludes (schema:Duration)\nproperty schema:prepTime: Object \"5min\"@it not compatible with rangeIncludes (schema:Duration)"
-    },
-    {
-        "1252.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1253.json": ""
-    },
-    {
-        "1254.json": "property schema:datePublished: Object \"February 14th, 2018\"@en-us not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1255.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:reviewCount: Object \"Null\"@en-us not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1256.json": "property schema:reviews: Term is superseded by schema:review\nproperty schema:resultPhoto: No property definition found"
-    },
-    {
-        "1257.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1258.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1260.json": "property schema:datePublished: Object \"11/12/2015 \" not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1272.json": "property schema:datePublished: Object \"12/28/2016 \" not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1281.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1282.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1283.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1284.json": "property schema:step: Object _:b1(schema:ItemList,schema:Thing,schema:Intangible,rdfs:Resource) not compatible with rangeIncludes (schema:CreativeWork,schema:HowToSection,schema:HowToStep,schema:Text)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1285.json": "property schema:totalTime: Object \"Null\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:Step: No property definition found"
-    },
-    {
-        "1286.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1287.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1288.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1289.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1290.json": "property schema:recipeAuthor: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1291.json": ""
-    },
-    {
-        "1292.json": "class schema:schema.orgAggregateRating: No class definition found\nproperty schema:aggregateRating: Object _:b0(schema:schema.orgAggregateRating,rdfs:Resource) not compatible with rangeIncludes (schema:AggregateRating)\nproperty schema:reviewCount: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:AggregateRating)\nproperty schema:ratingValue: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Rating)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1293.json": "property schema:cookTime: Object \"Null\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"Null\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"Null\"@en not compatible with rangeIncludes (schema:Duration)"
-    },
-    {
-        "1294.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1295.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1296.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1297.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)"
-    },
-    {
-        "13.json": "property schema:cookTime: Object \"12 - 15 minutes\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"12 - 15 minutes\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"20 - 30 minutes\"@en not compatible with rangeIncludes (schema:Duration)"
-    },
-    {
-        "1304.json": "class ogc:url: No class definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1310.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1311.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)"
-    },
-    {
-        "1316.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1320.json": ""
-    },
-    {
-        "1321.json": "property schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1322.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1323.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1324.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1325.json": "property schema:datePublished: Object \"\\n\u064a\u0648\u0644\u064a\u0648 24th, 2016\"@ar not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1326.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1327.json": "property schema:datePublished: Object \"\\nnovembre 8th, 2019\"@fr-fr not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1328.json": "property schema:cookTime: Object \"20 minutes\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"20 minutes\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1329.json": "property schema:cookTime: Object \"Null\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"Null\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:calories: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:prepTime: Object \"60mins\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1330.json": "property schema:datePublished: Object \"\\n\\n\\n \\n Jab\u0142ka nadziewane sa\u0142atk\u0105 \u015bledziow\u0105 \\n\\n\\n\\n\\n\\n\\n\\n\\n \\n \\n \u00ab poprz.\\n \\n \\n nast. \u00bb\\n \\n \\n \\n 257\\n com_content.article\\n \\n \\n \\n  \\n 1\\n 2\\n 3\\n 4\\n 5\\n \\n (Oddano 261 g\u0142os\u00f3w z \u015bredni\u0105 4.43 z 5)Jab\u0142ka nadziewane sa\u0142atk\u0105 \u015bledziow\u01054.43 out of 5\"@pl-pl not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:reviewCount: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:AggregateRating)\nproperty schema:itemreviewed: No property definition found"
-    },
-    {
-        "1331.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1332.json": "property schema:cookTime: Object \"45 minutes\"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"45 minutes\"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1333.json": "property schema:totalTime: Object \"\\n40 min \"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1334.json": ""
-    },
-    {
-        "1335.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1336.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1337.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1338.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1339.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1340.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)"
-    },
-    {
-        "1341.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1345.json": ""
-    },
-    {
-        "1346.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1347.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1348.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1349.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1350.json": ""
-    },
-    {
-        "1351.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1352.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1353.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1354.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1355.json": "property schema:cookTime: Object \"1 \u0447\u0430\u0441\"@ru not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"1 \u0447\u0430\u0441\"@ru not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1356.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)"
-    },
-    {
-        "1357.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1362.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1366.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"30 minutes\"@fr-fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1370.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1377.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1386.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1387.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1388.json": ""
-    },
-    {
-        "1389.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)"
-    },
-    {
-        "1390.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1391.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1392.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1393.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1394.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1395.json": "property schema:datePublished: Object \"Null\" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1396.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1397.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1398.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1399.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "14.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1400.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1401.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1402.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:itemreviewed: No property definition found"
-    },
-    {
-        "1403.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1404.json": "property schema:datePublished: Object \"\\n\u043c\u0430\u0440\u0442 6, 2019\"@ru-ru not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1405.json": "property schema:datePublished: Object \"\\n\u043d\u043e\u044f\u0431\u0440\u044c 26, 2018\"@ru-ru not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1406.json": "property schema:datePublished: Object \"\\nOktyabr 10, 2017\"@az-az not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1407.json": "property schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1408.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1409.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1410.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1411.json": "class schema:schema.orgAggregateRating: No class definition found\nproperty schema:aggregateRating: Object _:b0(schema:schema.orgAggregateRating,rdfs:Resource) not compatible with rangeIncludes (schema:AggregateRating)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:bestRating: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Rating)\nproperty schema:ratingValue: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Rating)\nproperty schema:ratingCount: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:AggregateRating)"
-    },
-    {
-        "1412.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1413.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1414.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1415.json": "property schema:thumbnailURL: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1416.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1417.json": "property schema:cookTime: Object \"30 min\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"1 hr\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"30 min\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"30 min\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1418.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1419.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1420.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1421.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1422.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)"
-    },
-    {
-        "1423.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1425.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1426.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1427.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1428.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)"
-    },
-    {
-        "1429.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1430.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1431.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1432.json": "property schema:datePublished: Object \"06.11.2019\" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:totalTime: Object \"Null\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1433.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1434.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1435.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1436.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1437.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:reviewCount: Object \"Null\"@nb-no not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1438.json": ""
-    },
-    {
-        "1439.json": "property schema:cookTime: Object \"20 \u043c\u0438\u043d.\"@ru-ru not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"40 \u043c\u0438\u043d.\"@ru-ru not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"20 \u043c\u0438\u043d.\"@ru-ru not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:performTime: Object \"20 \u043c\u0438\u043d.\"@ru-ru not compatible with rangeIncludes (schema:Duration)"
-    },
-    {
-        "1444.json": ""
-    },
-    {
-        "1453.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1454.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1455.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1456.json": "property schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1457.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1458.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1459.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1460.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1461.json": "property schema:nutrition.calories: No property definition found\nproperty schema:prepTime: Object \"P\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1462.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1463.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1464.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1465.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1466.json": "property schema:cookTime: Object \"10 mins\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"10 mins\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:prepTime: Object \"15 mins\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1467.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1468.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1469.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1470.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1471.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1472.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1473.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1474.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1475.json": ""
-    },
-    {
-        "1476.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1477.json": ""
-    },
-    {
-        "1478.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1479.json": "property schema:cookTime: Object \"15 min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"15 min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:prepTime: Object \"15 min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1480.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1481.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1482.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1483.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1484.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1485.json": "property schema:totalTime: Object \"Null\"@ro not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1486.json": ""
-    },
-    {
-        "1487.json": "property schema:cookTime: Object \"10\u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:cookTime: Object \"00\u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"10\u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"00\u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:calories: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:prepTime: Object \"10\u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1488.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)"
-    },
-    {
-        "1489.json": "property schema:datePublished: Object \"July 13, 2018\"@en-us not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1490.json": "property schema:datePublished: Object \"\\n24 febrero, 2015\"@es not compatible with rangeIncludes (schema:Date,schema:DateTime)"
-    },
-    {
-        "1491.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1492.json": ""
-    },
-    {
-        "1493.json": "property schema:publisher: Subject _:b0(schema:AggregateRating,schema:Thing,schema:Intangible,schema:Rating,rdfs:Resource) not compatible with domainIncludes (schema:CreativeWork)\nproperty schema:datePublished: Subject _:b0(schema:AggregateRating,schema:Thing,schema:Intangible,schema:Rating,rdfs:Resource) not compatible with domainIncludes (schema:CreativeWork)\nproperty schema:headline: Subject _:b0(schema:AggregateRating,schema:Thing,schema:Intangible,schema:Rating,rdfs:Resource) not compatible with domainIncludes (schema:CreativeWork)\nproperty schema:dateModified: Subject _:b0(schema:AggregateRating,schema:Thing,schema:Intangible,schema:Rating,rdfs:Resource) not compatible with domainIncludes (schema:CreativeWork,schema:DataFeedItem)"
-    },
-    {
-        "1494.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1495.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"Prep time 15 min.\\n\"@en not compatible with rangeIncludes (schema:Duration)"
-    },
-    {
-        "1496.json": ""
-    },
-    {
-        "1497.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "1498.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:reviewCount: Object \"12 \"@es-es not compatible with rangeIncludes (schema:Integer)"
-    },
-    {
-        "1499.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    },
-    {
-        "15.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)"
-    },
-    {
-        "1500.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
-    }
-]
+{
+    "1.json": "",
+    "10.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "100.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1000.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1001.json": "property schema:url: Object _:b2() not compatible with rangeIncludes (schema:URL)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1002.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1003.json": "property schema:thumbnailURL: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1004.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1005.json": "property schema:cookTime: Object \"\\n N/A\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"\\n 10 minutes\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:prepTime: Object \"\\n 10 minutes\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"\\n N/A\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1006.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1007.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1008.json": "property schema:totalTime: Object \"1 h. 10 min.\"@sk not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1009.json": "property schema:totalTime: Object \"1 h. 15 min.\"@pl not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "101.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1010.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1011.json": "property schema:dateCreated: Object \"04/21/2012\"@en not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:dateModified: Object \"01/30/2015\"@en not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1012.json": "property schema:container: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1013.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1014.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1015.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1016.json": "",
+    "1017.json": "property schema:fatContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:proteinContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:carbohydrateContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:fiberContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:sodiumContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:cholesterolContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)",
+    "1018.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1019.json": "property schema:container: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "102.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1020.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1021.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1022.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1023.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object _:b1() not compatible with rangeIncludes (schema:URL)\nproperty schema:itemreviewed: No property definition found",
+    "1024.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object _:b1() not compatible with rangeIncludes (schema:URL)\nproperty schema:itemreviewed: No property definition found",
+    "1025.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"25 min.\"@en not compatible with rangeIncludes (schema:Duration)",
+    "1026.json": "property schema:totalTime: Object \" 01:00 Hr\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1027.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:carbs: No property definition found",
+    "1028.json": "",
+    "1029.json": "property schema:recipeSubCategory: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "103.json": "property schema:commentcount: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1030.json": "property schema:datePublished: Object \"\\n Opublikowany: 03.01.2014\\n \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1031.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1032.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1033.json": "",
+    "1035.json": "property schema:dateCreated: Object \"12/07/2004\"@en not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:dateModified: Object \"10/22/2018\"@en not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1036.json": "property schema:cookTime: Object \"2019-11-23T00:00:00+00:00\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"2019-11-23T00:00:00+00:00\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"2019-11-23T00:30:00+00:00\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1037.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1038.json": "property schema:embedURL: No property definition found\nproperty schema:thumbnailURL: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1039.json": "property schema:totalTime: Object \"5 Min\"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "104.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1040.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1041.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1042.json": "property schema:datePublished: Object \"\\n24 febrero, 2015\"@es not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1043.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1044.json": "property schema:cookTime: Object \"20 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"25 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"5 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"20 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:reviewCount: Object \"Null\"@en-us not compatible with rangeIncludes (schema:Integer)",
+    "1045.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1046.json": "property schema:datePublished: Object \"\\n Opublikowany: 17.12.2013\\n \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1047.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1048.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:reviewCount: Object \"Null\"@lt-lt not compatible with rangeIncludes (schema:Integer)",
+    "1049.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "105.json": "",
+    "1050.json": "property schema:cookTime: Object \"40 min\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"40 min\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:url: Object _:b1() not compatible with rangeIncludes (schema:URL)",
+    "1051.json": "property schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1052.json": "property schema:fatContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:proteinContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:carbohydrateContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:fiberContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:sodiumContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:cholesterolContent: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)",
+    "1053.json": "",
+    "1054.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:contentURL: No property definition found",
+    "1055.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1056.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object \"node/399\"@en not compatible with rangeIncludes (schema:URL)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "106.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1068.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "107.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1071.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1072.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1073.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1074.json": "property schema:cookTime: Object \"01 h 43 min\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"01 h 43 min\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:prepTime: Object \"20 min\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1075.json": "property schema:datePublished: Object \"\\n Opublikowany: 18.09.2019\\n \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1076.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1077.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1078.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1079.json": "property schema:datePublished: Object \"\\n24 febrero, 2015\"@es not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "108.json": "property schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:isFamilyFriendly: Object \"Null\" not compatible with rangeIncludes (schema:Boolean)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1080.json": "property schema:datePublished: Object \"\\n24 febrero, 2015\"@es not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1081.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1082.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1083.json": "property schema:totalTime: Object \"1 \u0447 30 \u043c\u0438\u043d\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1084.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1085.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1086.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1087.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1088.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1089.json": "error NoMethodError: undefined method `pname' for #<RDF::Literal:0xd2050(\"Gebak\")>",
+    "109.json": "property schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:isFamilyFriendly: Object \"Null\" not compatible with rangeIncludes (schema:Boolean)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1090.json": "",
+    "1091.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1092.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1093.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1094.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1095.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1096.json": "property schema:cookTime: Object \"25 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"35 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"15 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"25 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:reviewCount: Object \"Null\"@en-us not compatible with rangeIncludes (schema:Integer)",
+    "1097.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1098.json": "property schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:totaltime: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1099.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "11.json": "",
+    "110.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1100.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1101.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1102.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1103.json": "property schema:dateCreated: Object \"Null\" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:dateModified: Object \"Null\" not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1104.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1108.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "111.json": "class schema:schema.orgAggregateRating: No class definition found\nproperty schema:cookTime: Object \"15min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"25min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:aggregateRating: Object _:b0(schema:schema.orgAggregateRating,rdfs:Resource) not compatible with rangeIncludes (schema:AggregateRating)\nproperty schema:bestRating: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Rating)\nproperty schema:prepTime: Object \"10min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"15min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:ratingValue: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Rating)\nproperty schema:ratingCount: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:AggregateRating)",
+    "1110.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1111.json": "class ogc:url: No class definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1112.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1114.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1117.json": "",
+    "1118.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object _:b12() not compatible with rangeIncludes (schema:URL)",
+    "1119.json": "property schema:datePublished: Object \"\\n\\n\\n \\n Sa\u0142atka z kurczakiem, kukurydza i fasolk\u0105 \\n\\n\\n\\n\\n\\n\\n\\n\\n \\n \\n \u00ab poprz.\\n \\n \\n nast. \u00bb\\n \\n \\n \\n 15860\\n com_content.article\\n \\n \\n \\n  \\n 1\\n 2\\n 3\\n 4\\n 5\\n \\n (Oddano 22 g\u0142os\u00f3w z \u015bredni\u0105 4.18 z 5)Sa\u0142atka z kurczakiem, kukurydza i fasolk\u0105 4.18 out of 5\"@pl-pl not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:reviewCount: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:AggregateRating)\nproperty schema:itemreviewed: No property definition found",
+    "112.json": "",
+    "1120.json": "",
+    "1121.json": "",
+    "1122.json": "",
+    "1123.json": "",
+    "1124.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1125.json": "property schema:totalTime: Object \"1 h 15 min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1126.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1127.json": "",
+    "1128.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1129.json": "property schema:datePublished: Object \"\\n 26.07.2010 \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:dateModified: Object \"\\n \u0420\u0435\u0446\u0435\u043f\u0442 \u0438\u0437\u043c\u0435\u043d\u0435\u043d: 24.03.2016\" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:resultPhoto: No property definition found",
+    "113.json": "property schema:cookTime: Object \"35 min \"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"50 min \"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"15 min \"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"35 min \"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1130.json": "",
+    "1131.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1132.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1133.json": "property schema:datePublished: Object \"June 11, 2015\"@en-us not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:post: No property definition found",
+    "1134.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1135.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1136.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1137.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1138.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1139.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object \"/desery-przepisy/kokosowy-sen-pod-brzoskwiniowa-kolderka/s8rr09xl-ccf12-234910-cfcd2-4sdad5g5\" not compatible with rangeIncludes (schema:URL)",
+    "114.json": "",
+    "1140.json": "property schema:recipeSubCategory: No property definition found\nproperty schema:resultPhoto: No property definition found\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1141.json": "property schema:dateCreated: Object \"03/31/2003\"@en not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:dateModified: Object \"12/22/2015\"@en not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1142.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1143.json": "",
+    "1144.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1145.json": "property schema:datePublished: Object \"\\n24 febrero, 2015\"@es not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1146.json": "property schema:datePublished: Object \"\\n Opublikowany: 08.01.2014\\n \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1147.json": "property schema:datePublished: Object \"\\n Opublikowany: 03.03.2015\\n \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1148.json": "",
+    "1149.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "115.json": "property schema:totalTime: Object \"20 minuten\"@nl-nl not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1150.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1151.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1152.json": "",
+    "1153.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1154.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1155.json": "",
+    "1156.json": "property schema:datePublished: Object \"October 28th, 2015\"@en-us not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1158.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "116.json": "property schema:datePublished: Object \" 07 \u0414\u0435\u043a\u0430\u0431\u0440\u044c 2015 \" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:resultPhoto: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1162.json": "",
+    "1173.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1174.json": "property schema:cookTime: Object \"35 \u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"35 \u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"10 \u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1175.json": "property schema:cookTime: Object \"10 \u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"10 \u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"15 \u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1176.json": "",
+    "1177.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1178.json": "property schema:cookTime: Object \"cook time: 50 M\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"total time: 60 M\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object _:b1() not compatible with rangeIncludes (schema:URL)\nproperty schema:prepTime: Object \"prep time: 10 M\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"cook time: 50 M\" not compatible with rangeIncludes (schema:Duration)",
+    "1179.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)",
+    "1180.json": "property schema:totalTime: Object \"10 min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1184.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1185.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1186.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1187.json": "property schema:totalTime: Object \"25 min \"@es-es not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"25 min \"@es-es not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:reviewCount: Object \"Null\"@es-es not compatible with rangeIncludes (schema:Integer)",
+    "1188.json": "",
+    "1189.json": "",
+    "119.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)",
+    "1190.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1191.json": "property schema:totalTime: Object \"\u010das priprave: 60\u201390 min.\" not compatible with rangeIncludes (schema:Duration)",
+    "1193.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object \"node/286\"@en not compatible with rangeIncludes (schema:URL)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1195.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1196.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1197.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1198.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1199.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "12.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1200.json": "property schema:datePublished: Object \"01.05.2018 10:39\"@ru-ru not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:totalTime: Object \"60 \u043c\u0438\u043d\u0443\u0442\"@ru-ru not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:resultPhoto: No property definition found",
+    "1201.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1202.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1203.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1204.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1205.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1206.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1207.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1208.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1209.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:reviewCount: Object \"6 \"@bg-bg not compatible with rangeIncludes (schema:Integer)",
+    "1210.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1211.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1212.json": "property schema:recipeSubCategory: No property definition found\nproperty schema:resultPhoto: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1213.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1214.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1215.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1216.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1217.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1218.json": "",
+    "1219.json": "class schema:aggregateRating: No class definition found\nproperty schema:aggregateRating: Object _:b0(schema:aggregateRating,rdfs:Resource) not compatible with rangeIncludes (schema:AggregateRating)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ratingCount: Subject _:b0(schema:aggregateRating,rdfs:Resource) not compatible with domainIncludes (schema:AggregateRating)\nproperty schema:bestRating: Subject _:b0(schema:aggregateRating,rdfs:Resource) not compatible with domainIncludes (schema:Rating)\nproperty schema:ratingValue: Subject _:b0(schema:aggregateRating,rdfs:Resource) not compatible with domainIncludes (schema:Rating)",
+    "1220.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1221.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1231.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1236.json": "property schema:totalTime: Object \"20 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1237.json": "property schema:totalTime: Object \"35 min \"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1238.json": "property schema:recipeSubCategory: No property definition found\nproperty schema:resultPhoto: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1239.json": "",
+    "1240.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1241.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1242.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1243.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)",
+    "1244.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1245.json": "",
+    "1246.json": "",
+    "1247.json": "",
+    "1248.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1249.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1250.json": "property schema:duration: Object \"P240S\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:url: Object \"\uce74\uc9c0\ub178\uc0ac\uc774\ud2b8\u27a2-\ud638\ud154\uce74\uc9c0\ub178-\u21d6\ub9c8\uce74\uc624 \ubc14\uce74\ub77c \ud6c4\uae30\ufe5b\ubb34\ub8cc \uc2ac\ub86f \uba38\uc2e0 \uac8c\uc784\ufe5c\u25b6\uff08\ub9b4 \uac8c\uc784 \ud669\uae08\uc131\uff09\u25e5\ud30c\ub77c\ub2e4\uc774\uc2a4 \uac8c\uc784\u262f\uc778\ud130\ub137\ubc14\ub451\uc774\uac8c\uc784\u03c7\uce74\uc9c0\ub178 \ub8f0\ub81b \uc804\ub7b5\u260e\ubc14\uce74\ub77c \uc608\uce21 \ud504\ub85c\uadf8\ub7a8\u254c\uce74\uc9c0\ub178 \uba39\ud280\"@en not compatible with rangeIncludes (schema:URL)\nproperty schema:reviewCount: Object \"\\n 4\\n \"@en not compatible with rangeIncludes (schema:Integer)",
+    "1251.json": "property schema:cookTime: Object \"15min\"@it not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"15min\"@it not compatible with rangeIncludes (schema:Duration)\nproperty schema:prepTime: Object \"5min\"@it not compatible with rangeIncludes (schema:Duration)",
+    "1252.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1253.json": "",
+    "1254.json": "property schema:datePublished: Object \"February 14th, 2018\"@en-us not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1255.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:reviewCount: Object \"Null\"@en-us not compatible with rangeIncludes (schema:Integer)",
+    "1256.json": "property schema:reviews: Term is superseded by schema:review\nproperty schema:resultPhoto: No property definition found",
+    "1257.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1258.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1260.json": "property schema:datePublished: Object \"11/12/2015 \" not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1272.json": "property schema:datePublished: Object \"12/28/2016 \" not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1281.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1282.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1283.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1284.json": "property schema:step: Object _:b1(schema:ItemList,schema:Thing,schema:Intangible,rdfs:Resource) not compatible with rangeIncludes (schema:CreativeWork,schema:HowToSection,schema:HowToStep,schema:Text)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1285.json": "property schema:totalTime: Object \"Null\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:Step: No property definition found",
+    "1286.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1287.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1288.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1289.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1290.json": "property schema:recipeAuthor: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1291.json": "",
+    "1292.json": "class schema:schema.orgAggregateRating: No class definition found\nproperty schema:aggregateRating: Object _:b0(schema:schema.orgAggregateRating,rdfs:Resource) not compatible with rangeIncludes (schema:AggregateRating)\nproperty schema:reviewCount: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:AggregateRating)\nproperty schema:ratingValue: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Rating)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1293.json": "property schema:cookTime: Object \"Null\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"Null\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"Null\"@en not compatible with rangeIncludes (schema:Duration)",
+    "1294.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1295.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1296.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1297.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)",
+    "13.json": "property schema:cookTime: Object \"12 - 15 minutes\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"12 - 15 minutes\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"20 - 30 minutes\"@en not compatible with rangeIncludes (schema:Duration)",
+    "1304.json": "class ogc:url: No class definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1310.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1311.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)",
+    "1316.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1320.json": "",
+    "1321.json": "property schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1322.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1323.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1324.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1325.json": "property schema:datePublished: Object \"\\n\u064a\u0648\u0644\u064a\u0648 24th, 2016\"@ar not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1326.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1327.json": "property schema:datePublished: Object \"\\nnovembre 8th, 2019\"@fr-fr not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1328.json": "property schema:cookTime: Object \"20 minutes\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"20 minutes\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1329.json": "property schema:cookTime: Object \"Null\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"Null\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:calories: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:prepTime: Object \"60mins\"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1330.json": "property schema:datePublished: Object \"\\n\\n\\n \\n Jab\u0142ka nadziewane sa\u0142atk\u0105 \u015bledziow\u0105 \\n\\n\\n\\n\\n\\n\\n\\n\\n \\n \\n \u00ab poprz.\\n \\n \\n nast. \u00bb\\n \\n \\n \\n 257\\n com_content.article\\n \\n \\n \\n  \\n 1\\n 2\\n 3\\n 4\\n 5\\n \\n (Oddano 261 g\u0142os\u00f3w z \u015bredni\u0105 4.43 z 5)Jab\u0142ka nadziewane sa\u0142atk\u0105 \u015bledziow\u01054.43 out of 5\"@pl-pl not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:reviewCount: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:AggregateRating)\nproperty schema:itemreviewed: No property definition found",
+    "1331.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1332.json": "property schema:cookTime: Object \"45 minutes\"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"45 minutes\"@en-us not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1333.json": "property schema:totalTime: Object \"\\n40 min \"@en not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1334.json": "",
+    "1335.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1336.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1337.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1338.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1339.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1340.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)",
+    "1341.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1345.json": "",
+    "1346.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1347.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1348.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1349.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1350.json": "",
+    "1351.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1352.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1353.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1354.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1355.json": "property schema:cookTime: Object \"1 \u0447\u0430\u0441\"@ru not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"1 \u0447\u0430\u0441\"@ru not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1356.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)",
+    "1357.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1362.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1366.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"30 minutes\"@fr-fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1370.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1377.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1386.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1387.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1388.json": "",
+    "1389.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)",
+    "1390.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1391.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1392.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1393.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1394.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1395.json": "property schema:datePublished: Object \"Null\" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1396.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:ratingCount: Object \"Null\"@ru not compatible with rangeIncludes (schema:Integer)",
+    "1397.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1398.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1399.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "14.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1400.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1401.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1402.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:itemreviewed: No property definition found",
+    "1403.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1404.json": "property schema:datePublished: Object \"\\n\u043c\u0430\u0440\u0442 6, 2019\"@ru-ru not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1405.json": "property schema:datePublished: Object \"\\n\u043d\u043e\u044f\u0431\u0440\u044c 26, 2018\"@ru-ru not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1406.json": "property schema:datePublished: Object \"\\nOktyabr 10, 2017\"@az-az not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1407.json": "property schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1408.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1409.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1410.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1411.json": "class schema:schema.orgAggregateRating: No class definition found\nproperty schema:aggregateRating: Object _:b0(schema:schema.orgAggregateRating,rdfs:Resource) not compatible with rangeIncludes (schema:AggregateRating)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:bestRating: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Rating)\nproperty schema:ratingValue: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Rating)\nproperty schema:ratingCount: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:AggregateRating)",
+    "1412.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1413.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1414.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1415.json": "property schema:thumbnailURL: No property definition found\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1416.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1417.json": "property schema:cookTime: Object \"30 min\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"1 hr\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"30 min\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"30 min\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1418.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1419.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1420.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1421.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1422.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)",
+    "1423.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1425.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1426.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1427.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1428.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)",
+    "1429.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1430.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1431.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1432.json": "property schema:datePublished: Object \"06.11.2019\" not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:totalTime: Object \"Null\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:interactionCount: Term is superseded by schema:interactionStatistic\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1433.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1434.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1435.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1436.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1437.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:reviewCount: Object \"Null\"@nb-no not compatible with rangeIncludes (schema:Integer)",
+    "1438.json": "",
+    "1439.json": "property schema:cookTime: Object \"20 \u043c\u0438\u043d.\"@ru-ru not compatible with rangeIncludes (schema:Duration)\nproperty schema:totalTime: Object \"40 \u043c\u0438\u043d.\"@ru-ru not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"20 \u043c\u0438\u043d.\"@ru-ru not compatible with rangeIncludes (schema:Duration)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:performTime: Object \"20 \u043c\u0438\u043d.\"@ru-ru not compatible with rangeIncludes (schema:Duration)",
+    "1444.json": "",
+    "1453.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1454.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1455.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1456.json": "property schema:ingredients: Term is superseded by schema:recipeIngredient\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1457.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1458.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1459.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1460.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1461.json": "property schema:nutrition.calories: No property definition found\nproperty schema:prepTime: Object \"P\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1462.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1463.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1464.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1465.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1466.json": "property schema:cookTime: Object \"10 mins\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"10 mins\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:prepTime: Object \"15 mins\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1467.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1468.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1469.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1470.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1471.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1472.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1473.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1474.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1475.json": "",
+    "1476.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1477.json": "",
+    "1478.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1479.json": "property schema:cookTime: Object \"15 min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"15 min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:prepTime: Object \"15 min\"@fr not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1480.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1481.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1482.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1483.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1484.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1485.json": "property schema:totalTime: Object \"Null\"@ro not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1486.json": "",
+    "1487.json": "property schema:cookTime: Object \"10\u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:cookTime: Object \"00\u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"10\u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:performTime: Object \"00\u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:calories: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:NutritionInformation)\nproperty schema:prepTime: Object \"10\u043c\u0438\u043d.\" not compatible with rangeIncludes (schema:Duration)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1488.json": "property schema:articleBody: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Article)",
+    "1489.json": "property schema:datePublished: Object \"July 13, 2018\"@en-us not compatible with rangeIncludes (schema:Date,schema:DateTime)\nproperty schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1490.json": "property schema:datePublished: Object \"\\n24 febrero, 2015\"@es not compatible with rangeIncludes (schema:Date,schema:DateTime)",
+    "1491.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1492.json": "",
+    "1493.json": "property schema:publisher: Subject _:b0(schema:AggregateRating,schema:Thing,schema:Intangible,schema:Rating,rdfs:Resource) not compatible with domainIncludes (schema:CreativeWork)\nproperty schema:datePublished: Subject _:b0(schema:AggregateRating,schema:Thing,schema:Intangible,schema:Rating,rdfs:Resource) not compatible with domainIncludes (schema:CreativeWork)\nproperty schema:headline: Subject _:b0(schema:AggregateRating,schema:Thing,schema:Intangible,schema:Rating,rdfs:Resource) not compatible with domainIncludes (schema:CreativeWork)\nproperty schema:dateModified: Subject _:b0(schema:AggregateRating,schema:Thing,schema:Intangible,schema:Rating,rdfs:Resource) not compatible with domainIncludes (schema:CreativeWork,schema:DataFeedItem)",
+    "1494.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1495.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:prepTime: Object \"Prep time 15 min.\\n\"@en not compatible with rangeIncludes (schema:Duration)",
+    "1496.json": "",
+    "1497.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:brand: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Organization,schema:Person,schema:Product,schema:Service)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "1498.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:reviewCount: Object \"12 \"@es-es not compatible with rangeIncludes (schema:Integer)",
+    "1499.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient",
+    "15.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)",
+    "1500.json": "property schema:instrument: Subject <http://example.org/recipe> not compatible with domainIncludes (schema:Action)\nproperty schema:ingredients: Term is superseded by schema:recipeIngredient"
+}
