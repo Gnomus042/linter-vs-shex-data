@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Madhur Phadnis"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT1H"
+    },
+    "description": {
+        "@language": "en",
+        "@value": " Rainy days! This weather made me lazy one the afternoon. It was already lunch time but no lunch! I started in my fridge to see what I can make to uplift my mood! Suddenly bright orange carrots caught my attention. This impromptu soup turned out delicious and definitely added sunshine to a dark and gloomy day!\nIt\u2019s simple and quick and easy to make!! I am sure you will love it. Carrots soup can be made in different ways and this my rendition.   "
+    },
+    "image": {
+        "@id": "http://www.deliciousjourney.in/easy-and-healthy-carrot-soup/Null"
+    },
+    "name": {
+        "@language": "en",
+        "@value": " \n Easy and Healthy Carrot Soup \n"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT20M"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "Salt \u2013 as per taste"
+        },
+        {
+            "@language": "en",
+            "@value": "Olive Oil \u2013 2 Tsp "
+        },
+        {
+            "@language": "en",
+            "@value": "Chopped Spring Onions \u2013 2-3"
+        },
+        {
+            "@language": "en",
+            "@value": "Large Carrots slices \u2013 2 nos"
+        },
+        {
+            "@language": "en",
+            "@value": "Water \u2013 \u00bd cup"
+        },
+        {
+            "@language": "en",
+            "@value": "Pepper \u2013 as per taste"
+        },
+        {
+            "@language": "en",
+            "@value": "Garlic minced \u2013 2 to 3 cloves"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\nStep by Step process for carrot soup (images below):"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": " 2 person "
+    },
+    "@id": "http://example.org/recipe"
+}

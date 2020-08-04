@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Tim Wiegel"
+    },
+    "image": {
+        "@id": "http://cocktailcaviar.com/wp-content/uploads/2017/05/SG-Bar-300x300.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "Fresh lime juice"
+        },
+        {
+            "@value": "A splash of lemonade"
+        },
+        {
+            "@value": "Blueberry puree"
+        },
+        {
+            "@value": "Lime wedge"
+        },
+        {
+            "@value": "Blueberry & Wildflower Cocktail Caviar"
+        },
+        {
+            "@value": "Cointreau"
+        },
+        {
+            "@value": "Agave nectar"
+        },
+        {
+            "@value": "Casa Noble Tequila"
+        }
+    ],
+    "name": {
+        "@value": "Blueberry Caviar Margarita"
+    },
+    "recipeCategory": {
+        "@value": "Cocktail"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Also uses a Cocktail Caviar cocktail-stirrer spoon"
+        },
+        {
+            "@value": "Served on the rocks with a lime wedge and Blueberry & Wildflower Cocktail Caviar."
+        }
+    ],
+    "recipeYield": {
+        "@value": "1"
+    },
+    "@id": "http://example.org/recipe"
+}

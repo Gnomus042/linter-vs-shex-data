@@ -1,0 +1,58 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "en",
+        "@value": "http://www.hulettssugar.co.za/sites/default/files//files/images/seasons_Ghotaab.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "150g flour"
+        },
+        {
+            "@language": "en",
+            "@value": "100g cooking oil"
+        },
+        {
+            "@language": "en",
+            "@value": "one t baking powder"
+        },
+        {
+            "@language": "en",
+            "@value": "150g fine Huletts Castor sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "2 medium eggs"
+        },
+        {
+            "@language": "en",
+            "@value": "250g almonds"
+        },
+        {
+            "@language": "en",
+            "@value": "1 T cardamom powder"
+        },
+        {
+            "@language": "en",
+            "@value": "100g yoghurt"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": " Ghotaab - Iran  "
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n      Separate egg-yolks and mix well with baking powder, cooking oil and yogurt.Add flour gradually while stirring the mix. Pour the dough in a plastic bag and leave for 1-2 hours.Peel and ground almonds. Mix well with sugar and cardamom powder.Spread some flour on a table-top. Make orange-sized balls from the dough. Flatten the ball on the table-top to a thickness of 0.5cm using a roller.Cut circles into the dough with a pastry cutter.Place some of the almond-sugar mix at the centre of each circle. Bring the edges of the circle together and press to close completely.Fry in pre-heated oil until colour changes. Drain the excess oil, then roll in fine sugar.    "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Serves 4"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "www.hulettssugar.co.za/step_into_our_kitchen_ghotaab_iran_seasons_recipes"
+    },
+    "@id": "http://example.org/recipe"
+}

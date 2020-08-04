@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Keith"
+        }
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "February 14th, 2018"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n                                                                    Every day, doctors in America are combatting cancer, diabetes, heart disease and so many other illnesses directly linked to diet and that is, perhaps, the saddest fact of all. However, there are ways to promote healthier diets and one of the ways in which you can play a significant role is to pursue a Nutritional Science degree.\nIf you are asking what you can do with my degree, you can do anything from working as a dietitian to educating consumers on better eating habits (perhaps through blogging?) and you can certainly work within the agricultural and food industries to provide safer, healthier products free from dangerous chemicals and lower in fats and sugars. With all that being said, here are a couple sad facts about the American diet.\nIt Is a Common Practice to Hide Sugar Content with Alternate Names\nLet\u2019s look at diabetes and obesity for an example of how lethal hidden sugars can be. While we know there is a direct link between obesity and diabetes due to overconsumption of sugars, many people don\u2019t realize that they are eating more than is healthy to do. Hidden names for sugar include:\n\nHigh fructose\nDextrose\nCorn syrup\nEvaporated cane juice\nCane crystals\nAgave nectar\nFruit juice concentrate\n\nWhile some of those sugars are far better for the average person than others, they can be lethal to a diabetic. By now, most people know what those labels are, but there are still those who have never had reason to look at alternate names for sugar. They think only to avoid refined sugar, which is a grave mistake.\nTraces of Pesticides and BPA Can Be Found in Some Foods\nThere are very good reasons why the American consumer is now looking for organic foods. Chemicals such as common pesticides and BPA have been directly linked to cancer and infertility. While the FDA has stipulated that these chemicals should be omitted from foodstuffs, trace amounts are still found in many of the foods we eat. This is a terribly sad fact about the American diet and one which can be prevented with a little help from a nutritional scientist. From growing your own organic foods to learning to research what foods are safe, there is nothing like an educated society to help people understand what to look for.\nHere\u2019s What You Can Do to Help\nIt\u2019s a sad state of affairs to think that the United States ranks #12 out of 195 countries around the world in obesity, with 36.2 percent of the population being obese. This figure doesn\u2019t account for the number of overweight people with a BMI close to obesity and soon to be over the threshold. Even taking into account the number of third-world countries where food is scarce, that places at least 90 percent of the world at healthier weight limits.\nThat truly is a sad statistic. While we tend to be a couch potato population, even exercise can\u2019t make up for the fact that we eat too much of the wrong foods. What you can do to help is educate yourself with a Nutritional Science degree and then help educate the rest of the country.\n                                                                                                    \n                        \n                                                    \n                                    \n                \n                            "
+    },
+    "image": {
+        "@id": "https://expertsinfocus.com/wp-content/uploads/2018/02/1-800x500.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Sad Facts About the American Diet and What You Can Do to Help"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Business, DIETS, NUTRITION"
+    },
+    "@id": "http://example.org/recipe"
+}

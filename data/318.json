@@ -1,0 +1,69 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://recipes-secure-graphics.grocerywebsite.com/0_GraphicsRecipes/1417_400.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Blueberry Cheesecake Bread"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "granulated sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "butter, melted"
+        },
+        {
+            "@language": "en",
+            "@value": "chopped nuts"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\tFilling:"
+        },
+        {
+            "@language": "en",
+            "@value": "almond extract"
+        },
+        {
+            "@language": "en",
+            "@value": "(8 oz.) cream cheese, softened"
+        },
+        {
+            "@language": "en",
+            "@value": "Null"
+        },
+        {
+            "@language": "en",
+            "@value": "cinnamon"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\tStreusel Topping:"
+        },
+        {
+            "@language": "en",
+            "@value": "lemon juice"
+        },
+        {
+            "@language": "en",
+            "@value": "flour"
+        },
+        {
+            "@language": "en",
+            "@value": "(16.5 to 18.25 oz.)  Blueberry Muffin Mix (prepare as directed on package)"
+        },
+        {
+            "@language": "en",
+            "@value": "egg"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Muffin Mix:  Prepare muffin mix as directed on package, including adding the blueberries.  Pour half of the batter into a greased 9 x 5-inch loaf pan.    Filling:  In a separate mixing bowl, beat together cream cheese, almond extract, sugar, lemon juice and egg until smooth.  Spread the cream cheese filling over the layer of muffin batter in the pan.  Pour the remaining batter on top of the filling.    Streusel Topping:Stir together melted butter, flour, sugar, chopped nuts and cinnamon.  Sprinkle streusel topping over the top of the batter.  Bake at 375 degrees F.  for 35 to 45 minutes or until toothpick inserted into middle comes out clean.  Cool, then refrigerate before serving.      "
+    },
+    "@id": "http://example.org/recipe"
+}

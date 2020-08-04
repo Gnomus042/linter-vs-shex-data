@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "vi-vn",
+        "@value": "truongdaycho.com"
+    },
+    "datePublished": {
+        "@language": "vi-vn",
+        "@value": "2015-10-10"
+    },
+    "image": {
+        "@id": "http://truongdaycho.com/tin-tuc/xu-huong-chon-thuc-an-tai-truong-huan-luyen-cho-nvsg-24h.html//mediaroot/media/userfiles/useruploads/838/image/LOGO/LOGO%20111.jpg"
+    },
+    "name": {
+        "@language": "vi-vn",
+        "@value": "Tr\u01b0\u1eddng d\u1ea1y ch\u00f3"
+    },
+    "@id": "http://example.org/recipe"
+}

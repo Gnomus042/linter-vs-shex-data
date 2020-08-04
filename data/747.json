@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@id": "http://www.skuhaj.si/recept/priloga/ocvrte-cajote/ref/fb//chef/5823/ana-kristanc"
+    },
+    "dateCreated": {
+        "@value": "2012-01-09"
+    },
+    "dateModified": {
+        "@value": "2012-01-10"
+    },
+    "datePublished": {
+        "@value": "2012-01-10"
+    },
+    "image": {
+        "@id": "http://www.skuhaj.si/recept/priloga/ocvrte-cajote/ref/fb//upload/recipe/2/4995_21136_313x203.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "500  g rastlinske masti"
+        },
+        {
+            "@value": "\u0161\u010depec  soli in popra"
+        },
+        {
+            "@value": "1  \u010dajota"
+        },
+        {
+            "@value": "1  kro\u017enik moke"
+        },
+        {
+            "@value": "1  kro\u017enik drobtin"
+        }
+    ],
+    "interactionCount": {
+        "@value": "UserComments:0"
+    },
+    "isFamilyFriendly": {
+        "@value": "Null"
+    },
+    "name": {
+        "@value": "Ocvrte \u010dajote"
+    },
+    "recipeInstructions": {
+        "@value": "\n            Navodila za pripravo\u010cajoto najprej olupite. Nato jo nare\u017eite na \u010detrtine in na pribli\u017eno 2-3mm debele ko\u0161\u010dke. Ko\u0161\u010dke nato posolite in popoprate. V manj\u0161o posodo polo\u017eite 500 g rastlinke masti in po\u010dakajte da se stopi in dobro segreje, nato pa vro\u010dino zmanj\u0161ajte iz recimo 9 na 7. Medtem ko se mast segreva, pripravite 3 kro\u017enike. V enega stresite moko, v drugega drobtine in v tretjem stepite jajca. Ko\u0161\u010dke bu\u010dk nato najprej povaljajte po moki, nato v jajca in nazadnje \u0161e v drobtine. To ponavljajte dokler ne zmanjka ko\u0161\u010dkov.\n  Ko je olje dovolj segreto ( vanj vrzite malo drobtin in \u010de za\u010dne cvr\u010dati je dovolj segreto ) Ko\u0161\u010dke cvrite toliko \u010dasa da postanejo lepo rjave barve  (vsaj 1minuto na eni in eno minuto na drugi strani ). Ocvrte ko\u0161\u010dke nato polo\u017eite na pladenj oblo\u017een s papirnatimi brisa\u010dkami, da vpijejo odve\u010dno ma\u0161\u010dobo. Zraven lahko postre\u017eete tatarsko omako. - recept zanjo najdete tukaj.\n\n DOBER TEK!           \n                        "
+    },
+    "recipeYield": {
+        "@value": "1"
+    },
+    "totalTime": {
+        "@value": "PT20M"
+    },
+    "@id": "http://example.org/recipe"
+}

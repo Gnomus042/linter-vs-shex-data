@@ -1,0 +1,39 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "es-ES",
+            "@value": "4.8"
+        },
+        "reviewCount": {
+            "@language": "es-ES",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "es-ES",
+        "@value": "Blog de cuina de la dolorss."
+    },
+    "cookTime": {
+        "@language": "es-ES",
+        "@value": "1 hora. "
+    },
+    "description": {
+        "@language": "es-ES",
+        "@value": "Vosotros no s\u00e9, pero en casa y en muchas de\nlas que conozco, se consume cordero, mayormente para celebraciones y d\u00edas de\nfiesta.\nDisfrutamos con un ternasco un redondo relleno, unas chuletas a la brasa, \u2026 eso\nsi, siempre en d\u00edas de fiesta o vacaciones. \n\u00bfPor qu\u00e9 no lo empleamos en d\u00edas de diario? \nEl pasado mi\u00e9rcoles d\u00eda 8 asist\u00ed en Barcelona a\nuna jornada de formaci\u00f3n de Carne de cordero\u00a0\n\nSigue leyendo la Receta: Rollitos de filetes de pierna de cordero con salsa de escalivada , yogur y menta\u2026.\n\nLee entera esta receta y comenta en el BLOG:\nBlog de cuina  de la dolorss\n\u2026\n"
+    },
+    "name": {
+        "@language": "es-ES",
+        "@value": "Rollitos de filetes de pierna de cordero con salsa de escalivada , yogur y menta."
+    },
+    "prepTime": {
+        "@language": "es-ES",
+        "@value": "30 min. "
+    },
+    "recipeYield": {
+        "@language": "es-ES",
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

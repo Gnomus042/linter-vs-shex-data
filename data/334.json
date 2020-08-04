@@ -1,0 +1,59 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://ricette.pourfemme.it/articolo/pastina-con-formaggino-per-bambini/33133//utenti/carmela1986/"
+    },
+    "calories": {
+        "@language": "es",
+        "@value": "185\u00a0Kcal/100gr"
+    },
+    "description": {
+        "@language": "es",
+        "@value": "\nRicetta e preparazione\n\nLa ricetta \u00e8 molto semplice e veloce da realizzare. Per prima cosa mettete un pentolino d'acqua sul fuoco. Quando l\u2019acqua bolle, se i bambini hanno un et\u00e0 superiore al 12 mesi potete aggiungere un pizzichino di sale, altrimenti calate direttamente la pasta e aspettate che cuocia. \n\n\nIntanto in un piatto mettete i due formaggini e mezzo cucchiaino di parmigiano. Aggiungete un mestolino di acqua di cottura e iniziate ad amalgamare fino a creare una cremina densa ed omogenea. Quando la pasta \u00e8 pronta, scolatela e mescolatela alla crema.  \n\n\nUna volta che la pastina si sar\u00e0 ben amalgamata con la crema di formaggino, servitela aggiungendo prima l\u2019altro mezzo cucchiaino di parmigiano e poi versate dell\u2019olio extravergine d\u2019oliva a crudo e a filo sul piatto per donare un pizzico di sapore in pi\u00f9. Foto di Kim\n\n\n\n                                                                \nConsigli\nEsistono tantissime varianti di questa ricetta: potete aggiungere del prosciutto cotto in modo da realizzare un piatto unico oppure un passato di verdure. Quando i bambini raggiungono i 4-5 anni una variante \u00e8 la sostituzione del formaggino con la Philadelphia.\n"
+    },
+    "image": {
+        "@id": "https://static.pourfemme.it/pp/850x480/ricette/pourfemme/it/img/pastina-con-formaggino-per-bambini.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "es",
+            "@value": "Formaggini: 2 "
+        },
+        {
+            "@language": "es",
+            "@value": "Pastina: 3-4 cucchiai "
+        },
+        {
+            "@language": "es",
+            "@value": "Sale q.b "
+        },
+        {
+            "@language": "es",
+            "@value": "Parmigiano grattugiato: un cucchiaino "
+        },
+        {
+            "@language": "es",
+            "@value": "Olio q.b "
+        }
+    ],
+    "name": {
+        "@language": "es",
+        "@value": "Pastina con formaggino per bambini"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@language": "es",
+        "@value": "10 min"
+    },
+    "publisher": {
+        "@language": "es",
+        "@value": "NanoPress"
+    },
+    "recipeYield": {
+        "@language": "es",
+        "@value": "1 Persone"
+    },
+    "@id": "http://example.org/recipe"
+}

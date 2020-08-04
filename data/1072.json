@@ -1,0 +1,94 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Vegetarian Times Editors"
+    },
+    "dateModified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2017-05-01"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2006-05-03"
+    },
+    "description": {
+        "@value": "Null"
+    },
+    "headline": {
+        "@value": "Indian Spinach Dip"
+    },
+    "image": {
+        "@value": "https://www.vegetariantimes.com/.image/t_share/MTQ1NjI0ODYwMjI1ODQxMDcy/indian-spinach-dip.jpg"
+    },
+    "inLanguage": {
+        "@value": "en"
+    },
+    "keywords": [
+        {
+            "@value": "Appetizers & Snacks"
+        },
+        {
+            "@value": "Vegan Appetizers and Snacks"
+        }
+    ],
+    "name": {
+        "@value": "Indian Spinach Dip"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "102"
+        },
+        "carbohydrateContent": {
+            "@value": "8\u00a0g"
+        },
+        "fatContent": {
+            "@value": "8\u00a0g"
+        },
+        "fiberContent": {
+            "@value": "5\u00a0g"
+        },
+        "proteinContent": {
+            "@value": "2\u00a0g"
+        },
+        "saturatedFatContent": {
+            "@value": "1\u00a0g"
+        },
+        "sodiumContent": {
+            "@value": "321\u00a0mg"
+        }
+    },
+    "recipeCategory": {
+        "@id": "https://www.vegetariantimes.com/recipes/indian-spinach-dip//recipes/recipe-category/appetizers-snacks"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 small clove garlic, peeled"
+        },
+        {
+            "@value": "1 large avocado"
+        },
+        {
+            "@value": "1/2 tsp. low-sodium seasoned salt (such as Herbamare)"
+        },
+        {
+            "@value": "1/8 tsp. minced fresh ginger"
+        },
+        {
+            "@value": "1/4 tsp. curry powder"
+        },
+        {
+            "@value": "1/2 Tbs. lemon juice"
+        },
+        {
+            "@value": "4 cups spinach (about 6 to 7 oz.)"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "Blend all ingredients in food processor until smooth, and serve."
+    },
+    "recipeYield": {
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

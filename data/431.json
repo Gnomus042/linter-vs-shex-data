@@ -1,0 +1,158 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": [
+        {
+            "@id": "_:N52ac3aee2d054da2a23d3d0431c263f2"
+        },
+        {
+            "@id": "_:Nc069d019efc44e9aa4869b5792344839"
+        },
+        {
+            "@id": "_:Na5ac4e45bbda4bfa93165459c1fc677a"
+        },
+        {
+            "@id": "_:N1a45fa222b1142359f8bb521ea85f59f"
+        },
+        {
+            "@id": "_:Nb8ab5162827d4b818011c64d6d62363c"
+        },
+        {
+            "@id": "_:N6b997f9ff5b24f89a3398763fb4b8ac3"
+        },
+        {
+            "@id": "_:N3abf6572a0b44bd3b27b119eef07d7b4"
+        },
+        {
+            "@id": "_:Nd58ebecf27e7434ebb03b84ab2b2ed17"
+        },
+        {
+            "@id": "_:Ne69103ae31f347458a0de5cc87ab52d6"
+        },
+        {
+            "@id": "_:N01e65e9060b14df896f582f549af658e"
+        },
+        {
+            "@id": "_:N974eea0b9dba4b439bb8f5af6d66acd3"
+        },
+        {
+            "@id": "_:Na33e8a498e384260827103ee517b0b1c"
+        },
+        {
+            "@id": "_:Nfa66cddd11d14dafa36cb438745eb220"
+        },
+        {
+            "@id": "_:Nc735a5b69865425496f55d3805e1ab7a"
+        },
+        {
+            "@id": "_:Ned3d8ec0f9a94ef497636368b146a135"
+        },
+        {
+            "@id": "_:N70c37822fa3340eab17d838d8138389b"
+        },
+        {
+            "@id": "_:N35dcd608608f418c9b312298a952f8f0"
+        },
+        {
+            "@id": "_:N0edf999a99ca458b8cb01b6eb8a71304"
+        },
+        {
+            "@id": "_:N1607c1972aa041d091f6057148091c54"
+        },
+        {
+            "@id": "_:N51260ac8fd2f4e4ba8dea784f0e6a0fd"
+        },
+        {
+            "@id": "_:N95826a3973044f4e9b325762bf9a3002"
+        },
+        {
+            "@id": "_:N1da1c050c7a94350a3a5d3d1244fe709"
+        },
+        {
+            "@id": "_:N4fadce8cb1824fb2b0cfac04c4acf785"
+        },
+        {
+            "@id": "_:N39f01995df814242a694f8edd23cc790"
+        },
+        {
+            "@id": "_:N8f4a1de0a01641c885a399242df201af"
+        }
+    ],
+    "author": {
+        "@value": "THERMOMIX \u00ae REZEPT"
+    },
+    "dateModified": {
+        "@value": "2014-10-07"
+    },
+    "datePublished": {
+        "@value": "2014-10-07"
+    },
+    "description": {
+        "@value": "\n                                                                        Teig\n                                    \n                                                                                                            \n                                                                                    \n                                    Alle Zutaten in den Mixtopf\u00a0 geben und 2 Minuten / Den Teig auf ein mit Backpapier ausgelegtes Backblech kippen. mit einem L\u00f6ffel den Teig sch\u00f6n verteilen und bei 150 Grad Ober /Unterhitze 20 - 25 backenkurzetwas abk\u00fchlen lassen\n                                \n                                                                                                                                                                Zuckerguss\n                                    \n                                                                                                            \n                                                                                    \n                                    Den Zucker in den Mixtopf geben und auf 40 Sekunden auf Stufe 10 pulverisieren.Saft und Wasser hinzugeben und 15 Sekunden auf Stufer 3 - 4 verr\u00fchren.Zuckerguss auf den Kuchen geben, verteilen und die bunten Zuckerstreusel dr\u00fcber streuen\n                                \n                                                                                                            "
+    },
+    "image": {
+        "@id": "https://de.rc-cdn.community.thermomix.com/recipeimage/veqyj7d2-6f13e-603985-cfcd2-wdrbra2y/2111db16-08f5-4842-be72-0234ec8b9912/main/jana-fanta-kuchen.jpg"
+    },
+    "keywords": {
+        "@value": "deutsch,"
+    },
+    "name": {
+        "@value": "Jana - Fanta - Kuchen"
+    },
+    "performTime": {
+        "@value": "PT5M"
+    },
+    "recipeCategory": {
+        "@id": "https://www.rezeptwelt.de/backen-suess-rezepte/jana-fanta-kuchen/veqyj7d2-6f13e-603985-cfcd2-wdrbra2y//kategorien/backen-su%C3%9F"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n                                    250\n                                                    g\n                                                    Zucker                                            "
+        },
+        {
+            "@value": "\n                                    1\n                                                    Flasche\n                                                    Zitronenaroma                                            "
+        },
+        {
+            "@value": "\n                                    360\n                                                    g\n                                                    Mehl                                            "
+        },
+        {
+            "@value": "\n                                    1\n                                                    P\u00e4ckchen\n                                                    Backpulver                                            "
+        },
+        {
+            "@value": "\n                                    120\n                                                    g\n                                                    \u00d6l                                            "
+        },
+        {
+            "@value": "\n                                    20\n                                                    g\n                                                    Zitronensaft                                            "
+        },
+        {
+            "@value": "\n                                                                    bunte Zuckerstreusel                                            "
+        },
+        {
+            "@value": "\n                                    400\n                                                    g\n                                                    Zucker                                            "
+        },
+        {
+            "@value": "\n                                    4\n                                                                    Eier                                            "
+        },
+        {
+            "@value": "\n                                    140\n                                                    g\n                                                    Fanta,                                                     Oder andere Limonade\n                            "
+        },
+        {
+            "@value": "\n                                    40\n                                                    g\n                                                    Wasser                                            "
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        \n                        5\n                                            Zubereitung\n        \n                                                                        Teig\n                                    \n                                                                                                            \n                                                                                    \n                                    Alle Zutaten in den Mixtopf\u00a0 geben und 2 Minuten / Den Teig auf ein mit Backpapier ausgelegtes Backblech kippen. mit einem L\u00f6ffel den Teig sch\u00f6n verteilen und bei 150 Grad Ober /Unterhitze 20 - 25 backenkurzetwas abk\u00fchlen lassen\n                                \n                                                                                                                                                                Zuckerguss\n                                    \n                                                                                                            \n                                                                                    \n                                    Den Zucker in den Mixtopf geben und auf 40 Sekunden auf Stufe 10 pulverisieren.Saft und Wasser hinzugeben und 15 Sekunden auf Stufer 3 - 4 verr\u00fchren.Zuckerguss auf den Kuchen geben, verteilen und die bunten Zuckerstreusel dr\u00fcber streuen\n                                \n                                                                                                            \n                        "
+    },
+    "recipeYield": {
+        "@value": "\n     12 Portion/en\n"
+    },
+    "tool": {
+        "@value": "Spatel"
+    },
+    "totalTime": {
+        "@value": "PT30M"
+    },
+    "url": {
+        "@value": "/backen-suess-rezepte/jana-fanta-kuchen/veqyj7d2-6f13e-603985-cfcd2-wdrbra2y"
+    },
+    "@id": "http://example.org/recipe"
+}

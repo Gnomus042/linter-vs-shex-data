@@ -1,0 +1,162 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4.3"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "happyzhangbo @ recipeland"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT0H3M"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "2019-11-15"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2009-02-04"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\tYou can use blueberry, or other your favorite frutis to make this parfait, or a fruits combination, they are good too. Enjoy it!\t\t\t"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://c.recipeland.com/images/r/954/28a3dc91acbc4911f7c8_300.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "vanilla yogurt"
+        },
+        {
+            "@language": "en",
+            "@value": "ginger"
+        },
+        {
+            "@language": "en",
+            "@value": "chocolate"
+        },
+        {
+            "@language": "en",
+            "@value": "walnuts"
+        },
+        {
+            "@language": "en",
+            "@value": "blueberries"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Blueberry Parfait"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "72"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "8.67"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "3"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "3"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "8"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "64 grams"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "40"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "8"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H5M"
+    },
+    "recipeCategory": [
+        {
+            "@id": "https://recipeland.com/recipe/v/blueberry-parfait-48585//recipes/for/dessert_46"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/blueberry-parfait-48585//recipes/for/parfaits_199"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/blueberry-parfait-48585//recipes/for/quick-and-easy_135"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/blueberry-parfait-48585//recipes/for/blueberries_460"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/blueberry-parfait-48585//recipes/for/yogurt_276"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/blueberry-parfait-48585//recipes/for/easy_130"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/blueberry-parfait-48585//recipes/for/walnuts_348"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/blueberry-parfait-48585//recipes/for/chocolate_154"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\nLayer yogurt and blueberries in 2 wine glasses.\n\nTop with chopped walnuts.\n\nSprinkle grated chocolate and diced crystallized ginger, if desired. \n"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "2"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT0H8M"
+    },
+    "@id": "http://example.org/recipe"
+}

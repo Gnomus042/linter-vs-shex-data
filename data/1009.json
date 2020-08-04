@@ -1,0 +1,142 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "pl",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "pl",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "pl",
+            "@value": "2"
+        }
+    },
+    "author": {
+        "@language": "pl",
+        "@value": "Dada"
+    },
+    "datePublished": {
+        "@language": "pl",
+        "@value": "2016-09-22"
+    },
+    "description": {
+        "@language": "pl",
+        "@value": "Smaczny g\u0119sty gulasz. Podajemy z chlebem."
+    },
+    "image": {
+        "@id": "https://www.swiatwemnie.pl/_site_media/com_strava/mod_recepty/recipe/00001491/img_pl/gulasz-z-fasola_thumb.jpg"
+    },
+    "keywords": {
+        "@language": "pl",
+        "@value": "przepis,fotoprzepis,\u0142opatka wieprzowa,pomidory,czerwona fasola w puszce,Wieprzowina,Bezglutenowe,Bezlaktozowe"
+    },
+    "name": {
+        "@language": "pl",
+        "@value": "Gulasz z fasol\u0105"
+    },
+    "recipeCategory": {
+        "@language": "pl",
+        "@value": "Wieprzowina"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "pl",
+            "@value": "czerwona fasola w puszce"
+        },
+        {
+            "@language": "pl",
+            "@value": "woda"
+        },
+        {
+            "@language": "pl",
+            "@value": "przyprawa do gulaszu"
+        },
+        {
+            "@language": "pl",
+            "@value": "ziemniaki"
+        },
+        {
+            "@language": "pl",
+            "@value": "cebula"
+        },
+        {
+            "@language": "pl",
+            "@value": "zielona papryka"
+        },
+        {
+            "@language": "pl",
+            "@value": "\u0142opatka wieprzowa"
+        },
+        {
+            "@language": "pl",
+            "@value": "czosnek"
+        },
+        {
+            "@language": "pl",
+            "@value": "pomidory"
+        },
+        {
+            "@language": "pl",
+            "@value": "s\u00f3l"
+        },
+        {
+            "@language": "pl",
+            "@value": "smalec"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "pl",
+            "@value": "Dodajemy, oczyszczon\u0105, umyt\u0105 i na cienkie paseczki pokrojon\u0105 papryk\u0119. Dusimy do mi\u0119kko\u015bci."
+        },
+        {
+            "@language": "pl",
+            "@value": "Dodajemy s\u00f3l i przyprawy, mieszamy ..."
+        },
+        {
+            "@language": "pl",
+            "@value": "Cebul\u0119 kroimy i sma\u017cymy na smalcu."
+        },
+        {
+            "@language": "pl",
+            "@value": "Do ugotowanego gulaszu dodajemy odcedzon\u0105 fasol\u0119 ..."
+        },
+        {
+            "@language": "pl",
+            "@value": "... i zalewamy wod\u0105. Gotujemy pod pokrywk\u0105, cz\u0119sto mieszaj\u0105c, 35-40 minut."
+        },
+        {
+            "@language": "pl",
+            "@value": "... i przeci\u015bni\u0119ty czosnek. Doprowadzamy do wrzenia i mo\u017cemy podawa\u0107."
+        },
+        {
+            "@language": "pl",
+            "@value": "Mi\u0119so myjemy, kroimy i dodajemy do papryki i cebuli."
+        },
+        {
+            "@language": "pl",
+            "@value": "Pomidory zalewamy wrz\u0105c\u0105 wod\u0105, odstawiamy na chwil\u0119, wyci\u0105gamy z wody, obieramy i kroimy. Obieramy czosnek."
+        },
+        {
+            "@language": "pl",
+            "@value": "Ziemniaki obieramy, myjemy i kroimy na ma\u0142e kostki."
+        },
+        {
+            "@language": "pl",
+            "@value": "Ziemniaki i pomidory dodajemy do prawie ugotowanego mi\u0119sa. Mieszamy i gotujemy do mi\u0119kko\u015bci ziemniak\u00f3w."
+        }
+    ],
+    "recipeYield": {
+        "@language": "pl",
+        "@value": "6"
+    },
+    "totalTime": {
+        "@language": "pl",
+        "@value": "1 h. 15 min."
+    },
+    "@id": "http://example.org/recipe"
+}

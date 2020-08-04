@@ -1,0 +1,62 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "stevenwyles"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2013-06-18"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Individual Cheesy Lasagnas"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "Easy"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Mini Mascarpone Lasagnas"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Italian"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Bring a large pot of salted water to a boil over high heat. Add the pasta and cook until tender, stirring occasionally, about 8 minutes. Drain. Using 2 cooked lasagna sheets in an \"x\" shape, line each ramekin, pushing the sheets gently into the bottom of the ramekins, allowing any excess pasta to overhang on the sides."
+        },
+        {
+            "@language": "en",
+            "@value": "Spoon any remaining filling on top of the pasta. Sprinkle the tops with the remaining Mozzerella and drizzle with olive oil. Arrange the ramekins on a baking sheet and bake until the tops are golden brown and the filling is bubbling, about 25 to 30 minutes. Cool for 10 minutes."
+        },
+        {
+            "@language": "en",
+            "@value": "Arrange an oven rack in the center of the oven. Preheat the oven to 190 degrees. Butter 6 small ramekins. Set aside."
+        },
+        {
+            "@language": "en",
+            "@value": "Run a knife around the edge of the ramekins to loosen the lasagnas. Unmold the lasagnas onto serving plates and serve."
+        },
+        {
+            "@language": "en",
+            "@value": "In a food processor, blend the sweetcorn, cream and garlic until chunky. Add the mascarpone, 120g of the Mozzerella cheese, the lemon zest, salt, and pepper. Blend until smooth. Add the basil and pulse until just combined. Spoon 2 desert spoons of filling into the bottom of each ramekin and sprinkle with 2 tablespoons of the Mozzerella. Fold 2 overhanging pieces of pasta over the filling, (trim the ends of the pasta with scissors, if necessary). Add another desert spoon of filling to each ramekin and top with another 2 tablespoons Mozzerella. Fold over the 2 remaining overhanging pieces of pasta."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Serves 6 "
+    },
+    "sourceOrganization": {
+        "@language": "en",
+        "@value": "BBC Good Food"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT40M"
+    },
+    "@id": "http://example.org/recipe"
+}

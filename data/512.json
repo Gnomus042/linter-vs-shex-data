@@ -1,0 +1,91 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://www.recipes-to-remember.com/wp-content/uploads/2018/10/Baked-Sole-with-Cream-and-Parmesan.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-CA",
+            "@value": "240ml (8 fl oz) double cream/whipping or heavy cream (1 cup)"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "1 garlic clove, peeled and finely chopped"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Ingredients"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "85g (3 oz) Parmesan cheese, coarsely grated (\u00be cup)"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "1 lemon, juice only"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "8 small or 4 large sole fillets (or other flat fish), 675g (1 lb 8 oz), skinned"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "You will also need a 27 x 20 cm (11 x 8 inches) ovenproof dish."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Cooking time: 15 minutes"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "2 tbsp flat-leaf parsley, finely chopped"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Preparation time: 20 minutes"
+        }
+    ],
+    "name": {
+        "@language": "en-CA",
+        "@value": "Baked Sole with Cream and Parmesan"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-CA",
+            "@value": "Null"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Grease the ovenproof dish with butter, then lay the fish in a single layer in the dish with their thin ends tucked under so the fish will cook evenly."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "In a separate bowl or jug, combine the cream, garlic and parsley. Pour evenly over the fish."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Now spoon the lemon juice over the fish."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Bake in the oven for 15 minutes until the top is starting to brown and the fish is cooked through."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Method"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Preheat the oven to 220\u00b0C (425\u00b0F) (gas 7)"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Top with the Parmesan, sprinkling it over so it completely covers the fish and cream."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-CA",
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

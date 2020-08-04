@@ -1,0 +1,62 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@value": "Sweet shrimp and crab and a creamy custard in a deep-dish pie."
+    },
+    "image": [
+        {
+            "@id": "http://pgoarelish2.files.wordpress.com/2011/01/seafood_quiche2.jpg?w=260&h=180&crop=1"
+        },
+        {
+            "@id": "http://pgoarelish2.files.wordpress.com/2011/01/seafood_quiche2.jpg?w=670&h=405&crop=1"
+        }
+    ],
+    "ingredients": [
+        {
+            "@value": "1/2 cup small peeled shrimp (about 4 ounces), uncooked"
+        },
+        {
+            "@value": "2/3 cup half-and-half"
+        },
+        {
+            "@value": "1 9-inch deep-dish unbaked piecrust"
+        },
+        {
+            "@value": "1/8 teaspoon cayenne pepper"
+        },
+        {
+            "@value": "4 eggs"
+        },
+        {
+            "@value": "1/2 teaspoon salt"
+        },
+        {
+            "@value": "1/2 cup lump crabmeat (about 5 ounces)"
+        },
+        {
+            "@value": "1 package (10-pounce) frozen chopped spinach, thawed and drained"
+        },
+        {
+            "@value": "1 cup shredded Swiss cheese (4 ounces)"
+        },
+        {
+            "@value": "1 cup heavy cream"
+        }
+    ],
+    "name": {
+        "@value": "Seafood Quiche"
+    },
+    "recipeCategory": {
+        "@value": "Part of\n\t\t\t\tAppetizer, Breakfast, Classic/Traditional, Dinner, Easter, French, Healthy, Kid-friendly, Lunch, Main Course, Pie/Tart, Seafood, Special Occasions\t\t\t"
+    },
+    "recipeInstructions": {
+        "@value": "\n\t\t\t\tInstructions\n\t\t\t\t\n\t\t\t\t\nPreheat oven to 350F.\n\tPlace half the cheese in pie crust. Top with crab, spinach and shrimp. Top with remaining cheese.\n\tBeat eggs slightly in a large bowl. Beat in remaining ingredients. Pour over seafood and cheese.\n\tBake 15 minutes. Reduce temperature to 300F and bake 50 minutes longer, or until a knife inserted into the center comes out clean. Let stand 10 minutes before cutting into wedges.\n\u2014Recipe by Kristine Gasbarre\n\t\t\t"
+    },
+    "recipeYield": {
+        "@value": "Yield: 8 servings"
+    },
+    "totalTime": {
+        "@value": "Time to make: 75 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

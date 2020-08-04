@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "copyrightHolder": {
+        "@language": "en-US",
+        "@value": "All images copyright Normal Cooking (http://normalcooking.com)"
+    },
+    "image": {
+        "@id": "http://normalcooking.com/wp-content/uploads/2013/06/BLT-Wraps-3.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "4 burrito sized tortillas\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Dash of salt and pepper\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 ounces cream cheese, softened (reduced fat is good too)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon dijon mustard"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon mayo\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8 slices bacon, cooked and crumbled\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup grape tomatoes, quartered\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups shredded lettuce\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "BLT Wraps"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Stir BLT mixture into sauce.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a small bowl, toss quartered grape tomatoes with a dash of salt and pepper. \u00a0Add lettuce and bacon.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Roll the wrap up tightly and cut in half on a diagonal."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Divide the mixture evenly among the 4 large burrito sized tortillas. Place the mixture on the bottom 1/3 of the tortilla.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a medium sized bowl, combine softened cream cheese with mayo and dijon mustard. Mix well.\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

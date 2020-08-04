@@ -1,0 +1,11 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "pl",
+        "@value": "Bardzo lubie przygotowywac klopsiki i zawsze staram sie przygotowac je troszke inaczej. Dzis zapraszam na latwe klopsiki w sosie cebulowym, ktore moga byc ciekawa odmiana dla klopsikow w sosie pomidorowym czy smietanowym. Bardzo dobrze smakuja z ziemniaczanym puree, ryzem lub kasza. Smacznego:)Polec..."
+    },
+    "image": {
+        "@id": "https://rondel.pl/przepis,klopsiki-w-sosie-cebulowym--meatballs-in-onion-gravy.html//files/713/fb/160252.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

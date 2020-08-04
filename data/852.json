@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "de",
+        "@value": "chafer Store"
+    },
+    "brand": {
+        "@language": "de",
+        "@value": "jilson.me"
+    },
+    "image": {
+        "@language": "de",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1UBI0JhjaK1RjSZFAq6zdLFXa9/Chinesische-rustikalen-hand-stricken-bambus-kaffee-Anh\u00e4nger-Lichter-Moderne-vintage-E27-LED-lampe-f\u00fcr-veranda-parlor.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "de",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "de",
+            "@value": "32979950476"
+        }
+    ],
+    "name": {
+        "@language": "de",
+        "@value": "Chinesische rustikalen hand stricken bambus kaffee Anh\u00e4nger Lichter Moderne vintage E27 LED lampe f\u00fcr veranda & parlor & treppen & korridor LHDD028"
+    },
+    "@id": "http://example.org/recipe"
+}

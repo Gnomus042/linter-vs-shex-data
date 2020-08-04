@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "tr",
+        "@value": "Brownie Tad\u0131nda Bir Oturuma Davetlisiniz! nas\u0131l yap\u0131l\u0131r ?  Ayr\u0131ca size fikir verecek 7 yorum var. Tarifin p\u00fcf noktalar\u0131, binlerce yemek tarifi ve daha fazlas\u0131..."
+    },
+    "image": {
+        "@id": "https://mutfaksirlari.com/wp-content/uploads/2011/12/pazarlama_zirvesi_2011.jpg"
+    },
+    "name": {
+        "@language": "tr",
+        "@value": "\n\t\t\t\tBrownie Tad\u0131nda Bir Oturuma Davetlisiniz!\t\t\t"
+    },
+    "recipeCuisine": {
+        "@language": "tr",
+        "@value": "Turkish Cuisine"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,107 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Megan Olson"
+    },
+    "cookTime": {
+        "@value": "PT20M"
+    },
+    "description": {
+        "@value": "This yummy dessert is made in a skillet, making it a breeze to whip up!"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "image": {
+            "@id": "https://blog.paleohacks.com/strawberry-shortcake/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20723%20440'%3E%3C/svg%3E"
+        },
+        "url": {
+            "@id": "https://blog.paleohacks.com/wp-content/uploads/2016/06/ingredients-resized-1-2.jpg"
+        }
+    },
+    "name": {
+        "@value": "Coconut Flour Strawberry Shortcake"
+    },
+    "prepTime": {
+        "@value": "PT15M"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 T coconut sugar"
+        },
+        {
+            "@value": "1 t baking powder"
+        },
+        {
+            "@value": "3 eggs"
+        },
+        {
+            "@value": "1 lb. fresh strawberries, quartered"
+        },
+        {
+            "@value": "\u00c2\u00bc cup maple syrup (or sweetener of choice)"
+        },
+        {
+            "@value": "\u00c2\u00bc cup melted coconut oil"
+        },
+        {
+            "@value": "\u00c2\u00bd cup unsweetened coconut milk"
+        },
+        {
+            "@value": "\u00c2\u00bc t sea salt"
+        },
+        {
+            "@value": "For the Topping:"
+        },
+        {
+            "@value": "For the Shortcake:"
+        },
+        {
+            "@value": "\u00c2\u00bd cup coconut flour"
+        },
+        {
+            "@value": "1 14 oz. can coconut cream"
+        },
+        {
+            "@value": "2 T tapioca flour"
+        },
+        {
+            "@value": "\u00c2\u00bd t vanilla extract"
+        },
+        {
+            "@value": "Honey for drizzle"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "For optimal freshness, keep in the freezer, covered. "
+        },
+        {
+            "@value": "While the shortcake cools, toss the strawberries in a bowl with the coconut sugar to allow the sugar to dissolve on the berries. "
+        },
+        {
+            "@value": "When ready to make the shortcake, preheat the oven to 350\u00c2\u00baF. Prepare a skillet or baking dish by greasing it with coconut oil and then set aside."
+        },
+        {
+            "@value": "To assemble, scoop the coconut cream onto the shortcake and spread evenly. Top with strawberries and drizzle with honey as desired."
+        },
+        {
+            "@value": "In a separate larger bowl, whisk the eggs with the coconut milk, coconut oil, maple syrup and vanilla extract. Slowly fold the dry ingredients into the wet ingredients."
+        },
+        {
+            "@value": "In a small bowl, sift together the coconut flour, baking powder and salt. "
+        },
+        {
+            "@value": "Bake 20-22 minutes until edges are browned and cake is set. You should be able to insert a toothpick clean in the middle when done."
+        },
+        {
+            "@value": "Make the coconut cream 6-8 hours ahead of time by blending the coconut cream with tapioca flour and chilling. This step is important to allow the cream to thicken."
+        },
+        {
+            "@value": "Transfer the batter into the prepared skillet. It will be thick and wet. Using a spatula, spread the batter out in an even layer."
+        },
+        {
+            "@value": "Remove from the oven and cool 30 minutes to 1 hour. "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

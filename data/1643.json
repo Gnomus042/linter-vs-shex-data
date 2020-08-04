@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "nl",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "nl",
+            "@value": "1 "
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2016-06-18"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://www.dehippevegetarier.nl/wp-content/uploads/2016/06/IMG_9183.jpg"
+    },
+    "name": {
+        "@language": "nl",
+        "@value": "8 x het lekkerste cracker beleg"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "nl",
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@language": "nl",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

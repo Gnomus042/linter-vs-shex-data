@@ -1,0 +1,82 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "cs-CZ",
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@language": "cs-CZ",
+            "@value": "289"
+        }
+    },
+    "author": {
+        "@language": "cs-CZ",
+        "@value": "..."
+    },
+    "description": {
+        "@language": "cs-CZ",
+        "@value": "t\u011bstoviny s tofu, hlavn\u00ed j\u00eddla, zeleninov\u00e1 a bezmas\u00e1 j\u00eddla"
+    },
+    "image": {
+        "@id": "http://kucharka.cbmonitor.cz/recepty/testoviny-s-tofu/2822//recepty/none.png"
+    },
+    "ingredients": [
+        {
+            "@language": "cs-CZ",
+            "@value": "2 strou\u017eky \u010desneku "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "pep\u0159 "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "5 l\u017eic s\u00f3jov\u00e9 om\u00e1\u010dky "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "zelenina (syrov\u00e1 nebo mra\u017een\u00e1)s "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "t\u011bstoviny "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "1 cibule "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "olej "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "s\u016fl "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "1 tofu "
+        }
+    ],
+    "name": {
+        "@language": "cs-CZ",
+        "@value": "T\u011bstoviny s tofu"
+    },
+    "recipeCategory": [
+        {
+            "@language": "cs-CZ",
+            "@value": "zeleninov\u00e1 a bezmas\u00e1 j\u00eddla"
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "hlavn\u00ed j\u00eddla"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "cs-CZ",
+        "@value": "Recept t\u011bstoviny s tofu p\u0159iprav\u00edme takto: T\u011bstoviny uva\u0159\u00edme podle n\u00e1vodu. Tofu nakr\u00e1j\u00edme na kostky, pokapeme s\u00f3jovou om\u00e1\u010dkou a nech\u00e1me 10 minut odle\u017eet. Mezit\u00edm na oleji zp\u011bn\u00edme cibuli nakr\u00e1jenou nadrobno, po chv\u00edli p\u0159id\u00e1me rozma\u010dkan\u00fd \u010desnak a tofu a dus\u00edme pod pokli\u010dkou asi 7 minut. Potom p\u0159id\u00e1me zeleninu a za ob\u010dasn\u00e9ho m\u00edch\u00e1n\u00ed dus\u00edme je\u0161t\u011b 5 minut. Potom sm\u00edch\u00e1me s uva\u0159en\u00fdmi t\u011bstovinami a osol\u00edme a opep\u0159\u00edme podle chuti.Dal\u0161\u00ed recepty v kategorii Hlavn\u00ed j\u00eddla \u00a0 Dal\u0161\u00ed recepty v kategorii Zeleninov\u00e1 a bezmas\u00e1 j\u00eddla "
+    },
+    "@id": "http://example.org/recipe"
+}

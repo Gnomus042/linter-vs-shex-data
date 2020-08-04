@@ -1,0 +1,72 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "es-ES",
+        "@value": "T\u00edpica receta de cusc\u00fas del Magreb salteada con cordero e ingredientes mediterr\u00e1neos."
+    },
+    "image": {
+        "@language": "es-ES",
+        "@value": "https://sifu.unileversolutions.com/image/es-ES/recipe-topvisual/2/1260-709/taboulet-con-cordero-50240872.jpg"
+    },
+    "name": {
+        "@language": "es-ES",
+        "@value": "Taboulet con cordero "
+    },
+    "recipeIngredient": [
+        {
+            "@language": "es-ES",
+            "@value": "Chuletillas de cordero"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Lim\u00f3n"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Cordero (Ternasco) "
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Pistacho, pelado"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Ajo"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Cilantro"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Aceite de oliva"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Knorr Caldo l\u00edquido concentrado de Carne Sin Gluten botella 1L"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Knorr Taboule deshidratado Bote 625g"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Cebolla"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Pasas de uvas "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "es-ES",
+            "@value": "\n                        Decoraci\u00f3n \n                        \n                        \n    Racionar con la ayuda de un molde redondo y guarnecer con una chuletilla de cordero a la plancha. \n    Terminar de aderezar con un poco de cilantro picado y unas gotas de zumo de lim\u00f3n.\n\n                    "
+        },
+        {
+            "@language": "es-ES",
+            "@value": "\n                        Taboulet \n                        \n                        \n    Hidratar el Taboulet knorr con agua tibia y reservar. \n    Realizar un sofrito con el aceite, el ajo, la cebolla, los pistachos, las pasas y las aceitunas. \n    Saltear el cordero deshilachado y a\u00f1adir el CLC de Carne Knorr. \n    Retirar el cordero e incorporar el taboulet.\n\n                    "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

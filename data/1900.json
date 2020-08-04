@@ -1,0 +1,64 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.tefal.pl/przepisy/Super-ostre-krewetki-po-kreolsku/r/113989//_ui/desktop/common/img/img-defer-spinner.svg"
+    },
+    "ingredients": [
+        {
+            "@language": "pl",
+            "@value": "500 ml przecieru pomidorowego"
+        },
+        {
+            "@language": "pl",
+            "@value": "1 \u0142y\u017cka oleju ro\u015blinnego"
+        },
+        {
+            "@language": "pl",
+            "@value": "s\u00f3l, pieprz"
+        },
+        {
+            "@language": "pl",
+            "@value": "30 du\u017cych, obranych krewetek"
+        },
+        {
+            "@language": "pl",
+            "@value": "1 zielona papryka, posiekana"
+        },
+        {
+            "@language": "pl",
+            "@value": "8 drobno posiekanych z\u0105bk\u00f3w czosnku"
+        },
+        {
+            "@language": "pl",
+            "@value": "2 \u0142y\u017cki przyprawy Cajun"
+        },
+        {
+            "@language": "pl",
+            "@value": "150 g du\u017cych, posiekanych grzyb\u00f3w"
+        },
+        {
+            "@language": "pl",
+            "@value": "1 \u015brednia cebula, posiekana"
+        }
+    ],
+    "name": {
+        "@language": "pl",
+        "@value": "Super ostre krewetki po kreolsku"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "pl",
+            "@value": "\u00a0"
+        }
+    },
+    "recipeInstructions": {
+        "@language": "pl",
+        "@value": "\n\t\t\t\t\t\tPodgrza\u0107 olej na patelni ActiFry. Doda\u0107 cebul\u0119, zielon\u0105 papryk\u0119 i posiekany czosnek. Gotowa\u0107 przez 6 minut.\n\t\t\t\t\t\tDoda\u0107 przypraw\u0119 Cajun, gotowa\u0107 przez 1 minut\u0119, a nast\u0119pnie doda\u0107 przecier pomidorowy.\n\t\t\t\t\t\tGotowa\u0107 przez 15 minut. Doda\u0107 przyprawione krewetki i gotowa\u0107 przez 5 minut. Podawa\u0107 w p\u0142ytkim naczyniu z sosem powsta\u0142ym w trakcie gotowania.\n\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "pl",
+        "@value": "\n\t\t\t\t\t\t\t\t4 \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLiczba os\u00f3b\n\t\t\t\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

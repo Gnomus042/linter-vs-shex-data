@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://recipes-secure-graphics.grocerywebsite.com/0_GraphicsRecipes/4899_400.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Herb Crusted Beef Steaks"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "dried oregano"
+        },
+        {
+            "@language": "en",
+            "@value": "rib eye steaks OR strip steaks"
+        },
+        {
+            "@language": "en",
+            "@value": "olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "dried thyme"
+        },
+        {
+            "@language": "en",
+            "@value": "dried parsley flakes"
+        },
+        {
+            "@language": "en",
+            "@value": "garlic, minced"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Mix all  ingredients, except beef, in small bowl.  Rub and press mixture into steaks.  Cover and refrigerate for 2 hours or longer.  Grill beef, uncovered, for 6 to 10 minutes until desired doneness is reached, turning once."
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

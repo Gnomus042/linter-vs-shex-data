@@ -1,0 +1,23 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "it-IT",
+        "@value": "\t\nBiscotti alle mandorle con sabbia di zucchero una base per biscotti nuova sul mio blog e perfetta alternativa alla classica pasta frolla o a quella al cacao di cui facciamo grandi scorpacciate durante il periodo Natalizio.\nIl sapore della frolla \u00e8 molto delicato ma al tempo stesso vi garantisco che ha \u201ccarattere\u201d, infatti vi anticipo che tra qualche giorno la utilizzer\u00f2 per preparare la base di una crostata con frutta fresca.\nCosa ne dite?\nPotrebbe piacere anche a voi?\n\nBiscotti con farina di mandorle e sabbia di zucchero\nIngredienti:\n300 gr di farina 00\n120 di farina di mandorle\n120 gr di zucchero\n180 gr di burro freddo\n2 tuorli\n1 bacca di vaniglia\ncioccolato fondente\nsabbia di zucchero colorata\nPreparazione:\nMettiamo in una ciotola la farina 00 e aggiungiamo il burro freddo tagliato in pezzi.\nFrulliamo cos\u00ec da sabbiare il composto.\nAggiungiamo la farina di mandorle e lo zucchero insieme al pizzico di sale\nInfine aggiungiamo i tuorli e i semi della bacca di vaniglia.\nMescoliamo gli ingredienti.\nLavoriamo velocemente cos\u00ec da non riscaldare il burro e fino a quando l\u2019impasto non risulter\u00e0 omogeneo\nFormiamo quindi un panetto, lo schiacciamo con le mani e lo avvolgiamo con pellicola.\nTeniamo l\u2019impasto in frigo per un minimo di 1 ora.\nTrascorso il tempo indicato, riprendiamo l\u2019impasto, lo stendiamo su una base infarinata e facciamo una sfoglia omogenea.\nCon i taglia biscotti procediamo alla formatura, in questo caso io ho utilizzato la formina ad albero di Tescoma \nInforniamo a 180 per 6/8 minuti.\nSciogliamo il cioccolato in un pentolino a bagnomaria.\nUna volta freddi prendiamo i biscotti e li decoriamo prelevando le punte di una forchetta il cioccolato fuso e distribuendolo in modo casuale sul biscotto.\nSul cioccolato ancora caldo aggiungiamo la sabbia di zucchero a piacere.\n\u00a0ISCRIVITI AL MIO CANALE YOU TUBE \u2013 CLICCA\u00a0 QUI\n \nPuoi provare anche la frolla al cacao per realizzare golose STELLE. CLICCA QUI\n\n\n\n\n"
+    },
+    "image": {
+        "@id": "https://www.mieledilavanda.it/wp-content/uploads/2017/12/Biscotti-con-farina-di-mandorle-e-sabbia-di-zucchero_s.jpeg"
+    },
+    "ingredients": {
+        "@language": "it-IT",
+        "@value": "\n\n\n    \n\t\n \n\t\n\t \n\n\t\n  \n\n \n\n\n\n\nCategoria Ricetta :Dolci, Ricette di Natale\n\n Ingredient : pasta di mandorle\n\n\n\n\n"
+    },
+    "name": {
+        "@language": "it-IT",
+        "@value": "Biscotti con farina di mandorle e sabbia di zucchero"
+    },
+    "recipeInstructions": {
+        "@language": "it-IT",
+        "@value": "\n  \n\n \n\n\n\n\nCategoria Ricetta :Dolci, Ricette di Natale\n\n Ingredient : pasta di mandorle\n\n\n\n"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,59 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Drizzle"
+    },
+    "description": {
+        "@value": "1SP per \u00be cup"
+    },
+    "image": {
+        "@id": "https://drizzlemeskinny.com/wp-content/uploads/2019/09/DSCN0802.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1 tsp cinnamon"
+        },
+        {
+            "@value": "1 tsp vanilla"
+        },
+        {
+            "@value": "\u00bd tsp all spice"
+        },
+        {
+            "@value": "2 lbs fresh peaches, peeled and cut *approx 7 peaches depending on size"
+        },
+        {
+            "@value": "2 Tbsp brown sugar"
+        },
+        {
+            "@value": "2 large apples, peeled and cut *I used granny smith but any is fine"
+        },
+        {
+            "@value": "\u00bc cup water"
+        }
+    ],
+    "name": {
+        "@value": "Peach apple butter"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Recipe made 3 cups, the butter will store well in the fridge for up to 2 weeks, you can also freeze it. Store in a mason jar or sealed container."
+        },
+        {
+            "@value": "Transfer to a blender or use an immersion blender and blend till smooth, similar to an applesauce texture."
+        },
+        {
+            "@value": "The only points in the recipe is 4SP from the brown sugar, making \u00be cup 1SP, if you just use a few tablespoons on some toast then it will be zero points. Note *If you count blended fruit then feel free to use the nutritional info to determine points."
+        },
+        {
+            "@value": "Peel and cut both the peaches and apples and place in crock pot, add in spices, sugar, water and vanilla and cook on high 3-4 hours or low 7-8 hours. You want both the apples and peaches to easily be pierced with a fork."
+        },
+        {
+            "@value": "There are so many different ways to enjoy this delicous butter/jam, use it on toast or crackers, enjoy it on pancakes or ice cream, any muffin recipe that calls for applesauce you can swap out for this peach apple butter, the possibilities are endless!"
+        }
+    ],
+    "recipeYield": {
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

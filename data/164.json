@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "th",
+        "@value": "Abby Abby's shop"
+    },
+    "brand": {
+        "@language": "th",
+        "@value": "afrg.us"
+    },
+    "image": {
+        "@language": "th",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1xBiahlmWBuNkSndVq6AsApXan/X-10D-DIY\u0e2b\u0e25\u0e2d\u0e14\u0e44\u0e02-\u0e1a-\u0e1f.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "th",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "th",
+            "@value": "32868660154"
+        }
+    ],
+    "name": {
+        "@language": "th",
+        "@value": "X-10D DIY\u0e2b\u0e25\u0e2d\u0e14\u0e44\u0e02\u0e49\u0e1a\u0e31\u0e1f"
+    },
+    "@id": "http://example.org/recipe"
+}

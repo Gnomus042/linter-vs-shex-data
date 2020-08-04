@@ -1,0 +1,127 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "pt-BR",
+        "@value": "Receitas Prediletas"
+    },
+    "description": {
+        "@language": "pt-BR",
+        "@value": "Procurando id\u00e9ias de como preparar seu camar\u00e3o? Ent\u00e3o veja em nossa dica de hoje como preparar um bob\u00f3 de camar\u00e3o incr\u00edvel que voc\u00ea vai adorar:"
+    },
+    "image": [
+        {
+            "@id": "http://receitasprediletas.com/wp-content/uploads/2016/11/bob\u00f3-de-camar\u00e3o-1-448x380.jpg"
+        },
+        {
+            "@id": "http://receitasprediletas.com/wp-content/uploads/2016/11/bob\u00f3-de-camar\u00e3o-3-215x180.jpg"
+        },
+        {
+            "@id": "http://receitasprediletas.com/wp-content/uploads/2016/11/bob\u00f3-de-camar\u00e3o-2-215x180.jpg"
+        }
+    ],
+    "name": {
+        "@language": "pt-BR",
+        "@value": "Bob\u00f3 de camar\u00e3o"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "pt-BR",
+            "@value": "2 latas de molho pronto de tomate (pomarola)"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Sal"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "1 kg de camar\u00e3o fresco"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Pimenta-do-reino"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "3 cebolas (1 cortada em rodelas e 2 raladas)"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "1 kg de mandioca (prefira as que j\u00e1 vem embaladas e descascadas, \u00e9 mais pr\u00e1tico)"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "1 ma\u00e7o de cheiro-verde picado"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "2 colheres (sopa) de azeite de dend\u00ea"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "2 piment\u00f5es verdes bem picadinhos"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "2 vidros de leite de coco"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "3 dentes de alho picados e amassados"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "6 colheres (sopa) de azeite de oliva"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Suco de 1 lim\u00e3o"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "1 folha de louro"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "pt-BR",
+            "@value": "Acrescente os camar\u00f5es e frite"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Quando estiver mole, acrescente um vidro de leite de coco"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Adicione as 2 latas de pomarola, o cheiro-verde, o piment\u00e3o e deixe cozinhar por alguns minutos"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Lave os camar\u00f5es e tempere com sal, alho, pimenta e lim\u00e3o, deixe marinar"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Pegue uma panela com \u00e1gua e cozinhe a mandioca em pedacinhos, com louro e a cebola em rodelas"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Deixe levantar fervura e est\u00e1 pronto"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Esquente o azeite de oliva, junte a cebola ralada e deixe dourar"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Junte na mesma panela, a mandioca batida no liquidificador, outro vidro de leite de coco e o azeite de dend\u00ea"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Deixe esfriar um pouco e bata no liquidificador"
+        }
+    ],
+    "recipeYield": {
+        "@language": "pt-BR",
+        "@value": "\n8 Por\u00e7\u00f5es\t\t\t\t\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

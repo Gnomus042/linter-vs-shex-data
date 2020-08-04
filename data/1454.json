@@ -1,0 +1,103 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "pl-PL",
+        "@value": "4 porcje"
+    },
+    "image": {
+        "@id": "https://dietetykrodzinny.com/wp-content/uploads/2018/10/kurczak-tikka-masala.jpeg"
+    },
+    "ingredients": [
+        {
+            "@language": "pl-PL",
+            "@value": "1 \u0142y\u017cka koncentratu pomidorowego"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "1 bia\u0142a cebula, posiekana w pi\u00f3ra"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "4 niedu\u017ce piersi z kurczaka"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "2 \u0142y\u017ceczki przyprawy garam masala"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "3 z\u0105bki czosnku, wyci\u015bni\u0119te"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "s\u00f3l do smaku"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "2 zielone papryczki chilli pokrojone w plastry wraz z pestkami (wersja na ostro) lub bez (wersja \u0142agodna)"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "6 \u0142y\u017cek jogurtu greckiego"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "szczypiorek do posypania lub \u015bwie\u017ca kolendra"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "porcja imbiru wielko\u015bci \u00bd kciuka lub nieco wi\u0119cej, pokrojonego w plasterki"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "400 g ca\u0142ych pomidor\u00f3w z puszki bez sk\u00f3ry"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "1 \u0142y\u017ceczka suszonej s\u0142odkiej papryki lub chilli"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "1 \u0142y\u017ceczka miodu"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "1-2 \u0142y\u017cki oliwy"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "1 \u0142y\u017ceczka kurkumy"
+        }
+    ],
+    "name": {
+        "@language": "pl-PL",
+        "@value": "kurczak tikka masala"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "pl-PL",
+            "@value": "Kurczaka kroimy w pod\u0142u\u017cne cienkie plastry, pod k\u0105tem piersi, o szeroko\u015bci oko\u0142o 1 cm. Nast\u0119pnie przyprawiamy delikatnie sol\u0105 (nie za du\u017co ze wzgl\u0119du na to, \u017ce b\u0119dziemy u\u017cywa\u0107 garam masala). Do kurczaka dodajemy czosnek, imbir, suszona papryk\u0119, kurkum\u0119, garam masala i zostawiamy najlepiej na noc a minimum na 3 godziny do zamarynowania w lod\u00f3wce."
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "Serwujemy z ciep\u0142ym br\u0105zowym ry\u017cem, kasz\u0105 lub tortill\u0105."
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "Gotujemy ry\u017c, kasz\u0119 lub przygotowujemy tortill\u0119 lub chlebek pita."
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "Przyprawiamy do smaku."
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "Na patelni rozgrzewamy oliw\u0119. Wrzucamy kurczaka a\u017c zetnie si\u0119 z ka\u017cdej strony. Zdejmujemy kurczaka z patelni."
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "Rozgrzewamy 1 \u0142y\u017ck\u0119 oliwy, na kt\u00f3rej blanszujemy cebul\u0119. Po 2 minutach dodajemy czosnek, mieszamy razem przez 1 minut\u0119. Nast\u0119pnie dodajemy kurczaka, koncentrat pomidorowy, pomidory z puszki oraz jogurt. Gotujemy na patelni na ma\u0142ym ogniu przez kilka minut uwa\u017caj\u0105c aby jogurt si\u0119 nie zwa\u017cy\u0142."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

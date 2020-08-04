@@ -1,0 +1,147 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-us",
+            "@value": "0.00"
+        },
+        "reviewCount": {
+            "@language": "en-us",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "en-us",
+        "@value": "AbuMartha"
+    },
+    "description": {
+        "@language": "en-us",
+        "@value": "\n\"This cheesecake is to-die-for. A velvety, scrumptious dulce de leche cheesecake baked to perfection, ideal for serving as a dessert or with coffee among friends.\"        "
+    },
+    "image": {
+        "@id": "https://images.media-allrecipes.com/images/79591.png"
+    },
+    "mainEntityOfPage": {
+        "@language": "en-us",
+        "@value": "True"
+    },
+    "name": {
+        "@language": "en-us",
+        "@value": "Cheesecake De Dulce De Leche"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-us",
+            "@value": "477 calories;"
+        },
+        "carbohydrateContent": {
+            "@language": "en-us",
+            "@value": "40"
+        },
+        "cholesterolContent": {
+            "@language": "en-us",
+            "@value": "116 "
+        },
+        "fatContent": {
+            "@language": "en-us",
+            "@value": "32.5 "
+        },
+        "proteinContent": {
+            "@language": "en-us",
+            "@value": "8.1 "
+        },
+        "sodiumContent": {
+            "@language": "en-us",
+            "@value": "333 "
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "en-us",
+            "@value": "Cakes"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Cheesecake"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Desserts"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en-us",
+            "@value": "2 (8 ounce) packages cream cheese, softened"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/4 cup finely chopped walnuts"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Crust:"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 cups crushed digestive biscuits"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 (11.5 ounce) jar dulce de leche"
+        },
+        {
+            "@language": "en-us",
+            "@value": "3 1/2 tablespoons melted butter"
+        },
+        {
+            "@language": "en-us",
+            "@value": "4 eggs"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 tablespoons dulce de leche, or as desired"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Cheesecake:"
+        },
+        {
+            "@language": "en-us",
+            "@value": "7 ounces double cream"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 tablespoon chopped walnuts, or as desired (optional)"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2/3 cup white sugar"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-us",
+        "@value": "\n                        \n                            Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch springform pan.\n                            \n                        \n                        \n                            Combine digestive biscuits, 1/4 cup chopped walnuts, and melted butter in a bowl; mix well. Press biscuit mixture into the bottom of the prepared springform pan using the back of a spoon.\n                            \n                        \n                        \n                            Bake in the preheated oven until crust is set, about 5 minutes. Set aside to cool.\n                            \n                        \n                        \n                            Beat double cream in a bowl using an electric mixer until soft peaks form. Combine cream cheese and sugar together in a separate bowl until well mixed; add 11.5-ounce jar dulce de leche and eggs, 1 at a time and mixing well after each addition. Avoid over-mixing the cream cheese mixture. Fold double cream mixture into cream cheese mixture until well combined; spoon over the cooled crust.\n                            \n                        \n                        \n                            Bake in the oven for 1 hour 15 minutes. Do not open the oven door while baking. Cool at room temperature for 30 minutes; refrigerate until chilled, at least 3 hours to overnight.\n                            \n                        \n                        \n                            Decorate cheesecake with 2 tablespoons dulce de leche and 1 tablespoon chopped walnuts.\n                            \n                        \n            "
+    },
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "12"
+    },
+    "url": {
+        "title": {
+            "@language": "en-us",
+            "@value": "Cheesecake De Dulce De Leche Recipe - Allrecipes.com"
+        },
+        "item": [
+            {
+                "@id": "_:N2984001d9c244c169ba9e1e03bbec194"
+            },
+            {
+                "@id": "_:N2d2cb246bbe349ec97ac13c69be041c0"
+            }
+        ]
+    },
+    "@id": "http://example.org/recipe"
+}

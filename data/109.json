@@ -1,0 +1,72 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@id": "http://www.skuhaj.si/recept/mesna-jed/pecenka-s-krompirjem//chef/447/tina-jan"
+    },
+    "dateCreated": {
+        "@value": "2012-02-09"
+    },
+    "dateModified": {
+        "@value": "2012-02-09"
+    },
+    "datePublished": {
+        "@value": "2012-02-09"
+    },
+    "image": {
+        "@id": "http://www.skuhaj.si/recept/mesna-jed/pecenka-s-krompirjem//upload/recipe/2/2074_9389_313x203.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1  kos svinjske pe\u010denke"
+        },
+        {
+            "@value": "malo  pora"
+        },
+        {
+            "@value": "malo  soli"
+        },
+        {
+            "@value": "malo  poljubnih za\u010dimb"
+        },
+        {
+            "@value": "malo  olja"
+        },
+        {
+            "@value": "nekaj  strokov \u010desna"
+        },
+        {
+            "@value": "1  rde\u010do \u010debulo"
+        },
+        {
+            "@value": "4  srednje velike krompirje"
+        },
+        {
+            "@value": "malo  vode ali ju\u0161ne osnovo za zalivanje"
+        }
+    ],
+    "interactionCount": {
+        "@value": "UserComments:0"
+    },
+    "isFamilyFriendly": {
+        "@value": "Null"
+    },
+    "name": {
+        "@value": "Pe\u010denka s krompirjem"
+    },
+    "recipeInstructions": {
+        "@value": "\n            Navodila za pripravoPe\u010denko nasolimo, za\u010dinimo in damo v poma\u0161\u010den peka\u010d. Po vrhu jo nama\u017eemo z oljem in in jo obdamo z narezano \u010debulo in s stroki \u010desna, ter rezinami pora.\n\nPe\u010demo jo v pe\u010dici na 200 stopinj celzija, vmes pa jo zalivamo z vodo ali ju\u0161no osnovo. Pe\u010demo jo pribli\u017eno dve uri, oziroma toliko \u010dasa, da lepo zape\u010dena.\n\nKrompir nare\u017eemo na krhlje in ga malo pred koncem pe\u010denja pe\u010denke, poma\u017eemo z ma\u0161\u010dobo in zape\u010demo v pe\u010dici.\n\nPe\u010deno pe\u010denko in krompir serviramo na kro\u017enike in skupaj postre\u017eemo. Zraven lahko ponudimo zelenjavo, ki jo bodo jedli tudi na\u0161i otroci.\n\nPa dober tek!           \n                        "
+    },
+    "recipeYield": {
+        "@value": "1"
+    },
+    "totalTime": {
+        "@value": "PT1H"
+    },
+    "@id": "http://example.org/recipe"
+}

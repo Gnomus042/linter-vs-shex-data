@@ -1,0 +1,112 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@value": "PT0H90M"
+    },
+    "name": {
+        "@value": "Zupa dyniowa Eli z kluseczkami"
+    },
+    "recipeCategory": [
+        {
+            "@value": "Zupy"
+        },
+        {
+            "@value": "Bez jaj"
+        },
+        {
+            "@value": "Bez orzech\u00f3w"
+        },
+        {
+            "@value": "\u0141agodny"
+        },
+        {
+            "@value": "Bez cukru"
+        }
+    ],
+    "recipeCuisine": {
+        "@value": "polska"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "mleczka kokosowego "
+        },
+        {
+            "@value": "ziaren kolendry "
+        },
+        {
+            "@value": "czubate \u0142y\u017cki szpinaku mro\u017conego "
+        },
+        {
+            "@value": "Kasze"
+        },
+        {
+            "@value": "imbiru w proszku "
+        },
+        {
+            "@value": "pestki dyni upra\u017cone "
+        },
+        {
+            "@value": "Warzywa"
+        },
+        {
+            "@value": "jajka "
+        },
+        {
+            "@value": "kostka bulionowa drobiowa "
+        },
+        {
+            "@value": "g\u0119sta kwa\u015bna \u015bmietana 12 % lub 18 %"
+        },
+        {
+            "@value": "kaszy manny (w zale\u017cno\u015bci od wielko\u015bci jajek) "
+        },
+        {
+            "@value": "czosnku granulowanego "
+        },
+        {
+            "@value": "s\u00f3l "
+        },
+        {
+            "@value": " dyni (ja mia\u0142am makaronow\u0105) "
+        },
+        {
+            "@value": "pieprz \u015bwie\u017co mielony "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": " Ziarna kolendry upra\u017cy\u0107 na ma\u0142ej,suchej patelni,wrzuci\u0107 do mo\u017adzierza i rozetrze\u0107 "
+        },
+        {
+            "@value": " W szerokim,niskim garnku zagotowa\u0107 osolon\u0105 wod\u0119 i \u0142y\u017ceczk\u0105 maczan\u0105 we wrz\u0105tku wrzuca\u0107 kluseczki. Gotowa\u0107 na ma\u0142ym ogniu do mi\u0119kko\u015bci,przez oko\u0142o 10-15 minut. "
+        },
+        {
+            "@value": " Szpinak (ja mia\u0142am paczk\u0119 450 g) rozmrozi\u0107 i prze\u0142o\u017cy\u0107 na drobne sitko do ods\u0105czenia. "
+        },
+        {
+            "@value": " Do zupy doda\u0107 mleczko kokosowe,kolendr\u0119,imbir,czosnek i jeszcze raz zagotowa\u0107. "
+        },
+        {
+            "@value": " Zup\u0119 dyniow\u0105 podawa\u0107 ze szpinakowymi kluseczkami,\u015bmietanowymi kleksami i posypan\u0105 upra\u017conymi pestkami dyni. Smacznego!  "
+        },
+        {
+            "@value": " Pestki dyni upra\u017cy\u0107 na suchej patelni. "
+        },
+        {
+            "@value": " Zup\u0119 doprawi\u0107 sol\u0105 i pieprzem do smaku.Je\u017celi zupa jest za g\u0119sta mo\u017cna doda\u0107 przegotowanej wody. "
+        },
+        {
+            "@value": " Z dyni wyj\u0105\u0107 pestki i razem ze sk\u00f3rk\u0105 w\u0142o\u017cy\u0107 do piekarnika nagrzanego do 180 stopni i piec 35-45 minut w zale\u017cno\u015bci od grubo\u015bci mi\u0105\u017cszu. Upieczon\u0105 dyni\u0119 ostudzi\u0107 i wyj\u0105\u0107 \u0142y\u017ck\u0105 ze sk\u00f3rki. "
+        },
+        {
+            "@value": " Zagotowa\u0107 1.5 litra wody i wrzuci\u0107 kostk\u0119 bulionow\u0105.Do bulionu doda\u0107 dyni\u0119,chwil\u0119 pogotowa\u0107 i zmiksowa\u0107. "
+        },
+        {
+            "@value": " Jajka rozbe\u0142ta\u0107 w garnuszku,doda\u0107 3 czubate \u0142y\u017cki szpinaku (z reszty szpinaku ugotowa\u0107 zup\u0119),wymiesza\u0107,doda\u0107 kasz\u0119 mann\u0105,jeszcze raz wymiesza\u0107 i odstawi\u0107 na kilka minut,\u017ceby kasza manna nap\u0119cznia\u0142a. "
+        }
+    ],
+    "recipeYield": {
+        "@value": "5"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "es",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "es",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "es",
+            "@value": "0"
+        }
+    },
+    "datePublished": {
+        "@language": "es",
+        "@value": "16 Abril 2014"
+    },
+    "description": {
+        "@language": "es",
+        "@value": "\n\t\t\t\t\tDescripci\u00f3n\n\t\t\t\t\t\tA todos nos encantan los helados y m\u00e1s tomarlos en una tarde de verano con much\u00edsimo calor. Yo os propongo hacer un riqu\u00edsimo y delicioso queso helado. De esta manera siempre que nos apetezca, tenerlo a mano y no quedarnos con las ganas. Que delicioso y mejor, incluso, que el que podemos comprar en una helader\u00eda. \u00a1Os encantar\u00e1!\nEn primer lugar, se pone a hervir medio litro de leche con 150 gr. de az\u00facar y el pedacito de queso. Despu\u00e9s y cuando empiece a hervir se retira.\nA continuaci\u00f3n y una vez frio, se echa en un cazo sobre cuatro yemas crudas, poni\u00e9ndolo a cocer al ba\u00f1o mar\u00eda d\u00e1ndole vueltas constantemente con una cuchara de palo.\nSeguidamente y cuando veamos que empieza a hervir, lo vamos a retirar para que no se corte. Luego, ya en frio, se coloca en un molde y se mete en el frigo por 5 horas.\nFinalmente y pasado el tiempo, el queso helado ya estar\u00e1 listo para consumir.\n\u00a1Que aproveche!\nCONSEJOS:\n-Acompa\u00f1ado por una salsita fr\u00eda de frutos rojos, queda incre\u00edble.\n\t\t\t\t"
+    },
+    "image": {
+        "@id": "http://www.demoslavueltaaldia.com/sites/default/files/styles/recetas_listado/public/queso-helado.jpg?itok=LR4QpbZd"
+    },
+    "ingredient": {
+        "@type": "RecipeIngredient",
+        "name": {
+            "@language": "es",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t1/2 litro de leche\nun pedacito de queso (a elejir)\n150 grs de az\u00facar\n4 yemas\t\t\t\t\t\t\t\t\t\t\t"
+        }
+    },
+    "instructions": {
+        "@language": "es",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "es",
+        "@value": "Queso helado"
+    },
+    "@id": "http://example.org/recipe"
+}

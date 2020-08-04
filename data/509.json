@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "sv",
+        "@value": "Allas"
+    },
+    "image": {
+        "@id": "https://www.stowr.se/recept/barbecuesas-15//img/elements/defaults/default-recipe.png"
+    },
+    "name": {
+        "@language": "sv",
+        "@value": "Barbecues\u00e5s"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 msk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvin\u00e4ger\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 burk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tkrossade tomater\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 msk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tchilis\u00e5s\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 krm\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tpeppear\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1/2 tsk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsalt\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 tsk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tworcestershires\u00e5s\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 msk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsenap\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 pressad\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvitl\u00f6kssklyfta\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "sv",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t1.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBlanda alla ingredienser och v\u00e4rm dem p\u00e5 svag v\u00e4rme\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t"
+    },
+    "totalTime": {
+        "@language": "sv",
+        "@value": "5 min"
+    },
+    "@id": "http://example.org/recipe"
+}

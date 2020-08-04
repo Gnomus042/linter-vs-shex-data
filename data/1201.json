@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ja",
+        "@value": "WEIXING AUTO AC WORLD"
+    },
+    "brand": {
+        "@language": "ja",
+        "@value": "belallure.me"
+    },
+    "image": {
+        "@language": "ja",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1q_FwXDZRMeJjSspnq6AJdFXae/\u81ea\u52d5\u4ea4\u6d41\u30b3\u30f3\u30d7\u30ec\u30c3\u30b5\u30fc\u30af\u30e9\u30c3\u30c17pk\u7528\u30c8\u30e8\u30bf\u30cf\u30a4\u30e9\u30c3\u30af\u30b9vigo-rav4\u30c7\u30a3\u30fc\u30bc\u30eb12\u30dc\u30eb\u30c8447260-8020-447180-8280-447220-3393-447160-1970-447160-2820.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ja",
+            "@value": "32830171605"
+        },
+        {
+            "@language": "ja",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "ja",
+        "@value": "\u81ea\u52d5\u4ea4\u6d41\u30b3\u30f3\u30d7\u30ec\u30c3\u30b5\u30fc\u30af\u30e9\u30c3\u30c17pk\u7528\u30c8\u30e8\u30bf\u30cf\u30a4\u30e9\u30c3\u30af\u30b9vigo rav4\u30c7\u30a3\u30fc\u30bc\u30eb12\u30dc\u30eb\u30c8447260-8020 447180-8280 447220-3393 447160-1970 447160-2820"
+    },
+    "@id": "http://example.org/recipe"
+}

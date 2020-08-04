@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ja",
+        "@value": "ZysQkb Automotor Parts Store"
+    },
+    "brand": {
+        "@language": "ja",
+        "@value": "belallure.me"
+    },
+    "image": {
+        "@language": "ja",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1_ZWnl7OWBuNjSsppq6xPgpXa6/Bmw-F30-F32-F33-F20-F22-F23-F36-X1-\u30df\u30e9\u30fc-M3-M4-\u30eb\u30c3\u30af\u8868\u793a\u7528-F20-f30-F22.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ja",
+            "@value": "32863388547"
+        },
+        {
+            "@language": "ja",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "ja",
+        "@value": "Bmw F30 F32 F33 F20 F22 F23 F36 X1 \u30df\u30e9\u30fc M3 M4 \u30eb\u30c3\u30af\u8868\u793a\u7528 F20 f30 F22 F36 F23 F87 M2 \u30ab\u30fc\u30dc\u30f3\u30df\u30e9\u30fc"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,47 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "\u5927\u997c\u5c0f\u8471\u7684\u5bb6"
+        }
+    },
+    "image": {
+        "@id": "http://i1.chuimg.com/611f25f8872411e6b87c0242ac110003_490w_653h.jpg@2o_50sh_1pr_1l_660w_90q_1wh"
+    },
+    "name": {
+        "@value": "\n      \u5b5c\u7136\u98ce\u5473\u9c7c\n    "
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n                \n                  \n\n    \u76d0\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u9ec4\u82b1\u9c7c\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u82b1\u6912\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u6cb9\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u5b5c\u7136\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u6599\u9152\n\n                \n                \n                \n              "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "\n              \u9505\u5185\u6cb9\u70e7\u70ed\uff0c\u653e\u9ec4\u82b1\u9c7c\u4e24\u9762\u714e\u4e00\u4e0b\uff0c\u51fa\u9505\u88c5\u76d8\u653e\u5165\u5fae\u6ce2\u7089\u4e2d\uff08\u70e4\u7bb1\u66f4\u597d\uff09\u70e4\u5236\u5b8c\u6210\uff0c\u6d12\u4e0a\u5b5c\u7136\n              \n            "
+        },
+        {
+            "@value": "\n              \u9ec4\u82b1\u9c7c\u6e05\u6d17\u5e72\u51c0\uff0c\u53bb\u5185\u810f\n              \n            "
+        },
+        {
+            "@value": "\n              \u52a0\u76d0\u3001\u5473\u7cbe\u3001\u6599\u9152\u3001\u82b1\u6912\u3001\u814c\u523615\u523020\u5206\u949f\n              \n            "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ko",
+        "@value": "OSITAMAX Light Store"
+    },
+    "brand": {
+        "@language": "ko",
+        "@value": "atlasapp.me"
+    },
+    "image": {
+        "@language": "ko",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1V1cPXJfvK1RjSszhq6AcGFXaP/\ubbf8\ub2c8-\uc2a4\ud31f-10-w-led-\uc774\ub3d9-\ud5e4\ub4dc-\ub77c\uc774\ud2b8-gobos-\ud50c\ub808\uc774\ud2b8-\ubc0f-\uceec\ub7ec-\ud50c\ub808\uc774\ud2b8-\ub192\uc740-\ubc1d\uae30-10.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ko",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "ko",
+            "@value": "32955998411"
+        }
+    ],
+    "name": {
+        "@language": "ko",
+        "@value": "\ubbf8\ub2c8 \uc2a4\ud31f 10 w led \uc774\ub3d9 \ud5e4\ub4dc \ub77c\uc774\ud2b8 gobos \ud50c\ub808\uc774\ud2b8 \ubc0f \uceec\ub7ec \ud50c\ub808\uc774\ud2b8 \ub192\uc740 \ubc1d\uae30 10 w \ubbf8\ub2c8 led \uc774\ub3d9 \ud5e4\ub4dc \ub77c\uc774\ud2b8 dmx512"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,99 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Del Monte"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "Cook time   25 min.\n"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2015-04-09"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n                            \n\t\t\t\t\t\t\t  A smart yet simple 2-day meal plan can create two different meals from the effort of cooking once. Day 1, enjoy 30-minute braised boneless chicken breasts in a spicy tomato lime sauce and a side of cilantro rice and Day 2, turn leftovers into flavorful Chicken Chili Rice Bowls.\n\n\n\t\t\t\t\t\t"
+    },
+    "image": [
+        {
+            "@language": "en",
+            "@value": "https://www.delmonte.com/sites/default/files/zesty-tomato-lime-chicken-rice-chicken-chili-rice-bowl.jpg"
+        },
+        {
+            "@id": "https://www.delmonte.com/index.php/recipes/collections/super-weeknight-recipes/zesty-tomato-lime-chicken-rice//sites/default/files/zesty-tomato-lime-chicken-rice-chicken-chili-rice-bowl.jpg"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Zesty Tomato Lime Chicken & Rice"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "Prep time   5 min.\n"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "1 can (8 oz.) Del Monte\u00ae Tomato Sauce"
+        },
+        {
+            "@language": "en",
+            "@value": "2 Tbsp. olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "1/8 to \u00bc tsp. cayenne, to taste"
+        },
+        {
+            "@language": "en",
+            "@value": "Zest and juice of 1 lime, and 1 additional lime cut into wedges, optional"
+        },
+        {
+            "@language": "en",
+            "@value": "\nChicken"
+        },
+        {
+            "@language": "en",
+            "@value": "Cilantro Rice"
+        },
+        {
+            "@language": "en",
+            "@value": "1/3 cup chopped fresh cilantro"
+        },
+        {
+            "@language": "en",
+            "@value": "3 cans (14.5 oz. each) Del Monte\u00ae No Salt Added Diced Tomatoes, not drained\u00a0"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp. cumin"
+        },
+        {
+            "@language": "en",
+            "@value": "1 \u00bd cups uncooked long grain white rice"
+        },
+        {
+            "@language": "en",
+            "@value": "6 boneless, skinless chicken breast halves (about 2 \u00bc lb.)"
+        },
+        {
+            "@language": "en",
+            "@value": "2 to 3 tsp. chili powder, to taste"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t    Cook rice according to package directions, using chicken broth instead of water, if desired; set aside. Stir cilantro into rice before serving.\n    Meanwhile, heat oil in a deep 12-inch skillet or Dutch oven over medium-high heat. Cook chicken 3 minutes on each side or until lightly browned. Stir in diced tomatoes, tomato sauce, lime zest, lime juice, chili powder, cumin and cayenne. Continue to cook on medium-high, uncovered, 10 to 15 minutes or until chicken is no longer pink inside. Season to taste with salt and pepper, if desired.\n\n\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Serves   4\n"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://www.delmonte.com/index.php/recipes/collections/super-weeknight-recipes/zesty-tomato-lime-chicken-rice"
+    },
+    "@id": "http://example.org/recipe"
+}

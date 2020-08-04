@@ -1,0 +1,56 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "nl",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "nl",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "nl",
+            "@value": "Null"
+        }
+    },
+    "datePublished": {
+        "@language": "nl",
+        "@value": "2015-06-12 20:06:07"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Dit frisse zomerse drankje is alcoholvrij. Dat maakt het niet minder spannend en door de chiazaadjes juist heel erg gezond en fris als mocktail om je weekend mee te beginnen! "
+    },
+    "image": {
+        "@id": "https://i0.wp.com/www.bakkenzoalsoma.nl/wp-content/uploads/2015/04/Chia-Fresca-300x200.jpg?resize=300%2C200"
+    },
+    "ingredients": [
+        {
+            "@language": "nl",
+            "@value": "200 ml melk"
+        },
+        {
+            "@language": "nl",
+            "@value": "2 theelepels chiazaad"
+        },
+        {
+            "@language": "nl",
+            "@value": "1 citroen"
+        },
+        {
+            "@language": "nl",
+            "@value": "Honing naar smaak (ik ben een zoetekauw en had 3 theelepels)"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Chia Fresca"
+    },
+    "recipeInstructions": {
+        "@language": "nl",
+        "@value": "\t\t\t\tSnijd de citroen doormidden. Snijd een een plakje af voor garnering. Dit hoeft niet, maar staat wel mooi op je glas. Pers het sap uit de citroen met een citruspers. Zeef het citroensap in een glas, zodat je geen pitjes in je glas krijgt.\t\t\t\tSchenk het water erbij in het glas.\t\t\t\tDoe de honing erbij. Roer goed door.\t\t\t\tStrooi de chiazaadjes in het glas. Roer goed en laat het glas minstens 10 minuten in de koelkast staan.\t\t\t\tServeer de chia fresca met het plakje citroen op het glas. Heerlijk verfrissend op een zomerse vrijdagmiddag!\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

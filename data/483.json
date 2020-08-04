@@ -1,0 +1,173 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemReviewed": {
+            "@language": "en",
+            "@value": "Chicken Tortilla Mac 'N Cheese Casserole"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4.9"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "9"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "H-E-B"
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t20 minutes"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2017-07-18 02:10:05.503"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Heat oven to 350\u00b0F.,Coat a 3-quart baking dish with non-stick spray.,Cook macaroni in boiling water according to package directions. Drain.,Place contents of soup kit in a 3-quart saucepan with cubed cheese, garlic and chili powder. Simmer over medium heat and stir to melt cheese.,Return pasta to cooking pot and add heated chicken, soup mixture and cream and stir.,Transfer mixture to baking dish.,Top with shredded cheese and bake 20 minutes or until hot and bubbly."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images.heb.com/is/image/HEBGrocery/recipe-hm-large/chicken-tortilla-mac-n-cheese-casserole-recipe.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Chicken Tortilla Mac 'N Cheese Casserole"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "590"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "55"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "80"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "27"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "3"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "32"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "16"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "1370"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "7"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0.0"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t20 minutes"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Main Dish"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "1 Tsp chili powder"
+        },
+        {
+            "@language": "en",
+            "@value": "1 Lb easy melt cheese, cubed"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup(s) Colby Jack cheese, shredded"
+        },
+        {
+            "@language": "en",
+            "@value": "2 Tsp garlic powder"
+        },
+        {
+            "@language": "en",
+            "@value": "1 non-stick cooking spray"
+        },
+        {
+            "@language": "en",
+            "@value": "16 Oz elbow macaroni, uncooked"
+        },
+        {
+            "@language": "en",
+            "@value": "32 Oz H-E-B Tortilla Soup Kit"
+        },
+        {
+            "@language": "en",
+            "@value": "12 Oz H-E-B\u00ae Fully Cooked Chicken Breast Fajitas, heated"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup(s) heavy whipping cream"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCoat a 3-quart baking dish with non-stick spray."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHeat oven to 350\u00b0F."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlace contents of soup kit in a 3-quart saucepan with cubed cheese, garlic and chili powder. Simmer over medium heat and stir to melt cheese."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTransfer mixture to baking dish."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCook macaroni in boiling water according to package directions. Drain."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTop with shredded cheese and bake 20 minutes or until hot and bubbly."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tReturn pasta to cooking pot and add heated chicken, soup mixture and cream and stir."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t8\u00a0 People\n\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t40 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,96 @@
+{
+    "@type": "Recipe",
+    "image": [
+        {
+            "@id": "https://www.thesemisweetsisters.com/2015/01/21/chocolate-charlie-candy-recipe/?replytocom=6692/data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "@id": "https://i0.wp.com/www.thesemisweetsisters.com/wp-content/uploads/2015/01/IMG_9057.jpg?w=205"
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 cup of shredded coconut"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups of large marshmallows"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups of mini marshmallows"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd cup roasted peanuts"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pack of white almond bark 20 oz."
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup of bittersweet chocolate chips (Ghirardelli preferred)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 bag of semi-sweet chocolate chips 12 oz (Ghirardelli preferred)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Chocolate Charlie Candy Recipe"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Holly"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "dessert"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "put the almond bark and both kinds of chocolate chips in a crockpot on LOW for 45 mins."
+        },
+        {
+            "@language": "en-US",
+            "@value": "turn off crockpot and add peanuts and coconut, stir until combined"
+        },
+        {
+            "@language": "en-US",
+            "@value": "when 45 mins. is up stir until combined"
+        },
+        {
+            "@language": "en-US",
+            "@value": "line 2 pie pans with parchment paper on the bottom"
+        },
+        {
+            "@language": "en-US",
+            "@value": "add marshmallows, stir quickly and put even amounts in the two pie pans"
+        },
+        {
+            "@language": "en-US",
+            "@value": "while chocolate is melting put the shredded coconut in a food processor for about 1 min."
+        },
+        {
+            "@language": "en-US",
+            "@value": "refrigerate for 1 hour or until set"
+        },
+        {
+            "@language": "en-US",
+            "@value": "it's best at room temperature and does not need to be refrigerated, store in sealed container"
+        },
+        {
+            "@language": "en-US",
+            "@value": "tap pans on counter top to get out air bubbles"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "40"
+    },
+    "@id": "http://example.org/recipe"
+}

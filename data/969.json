@@ -1,0 +1,150 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-us",
+            "@value": "4.13"
+        },
+        "reviewCount": {
+            "@language": "en-us",
+            "@value": "110"
+        }
+    },
+    "author": {
+        "@language": "en-us",
+        "@value": "KORY"
+    },
+    "description": {
+        "@language": "en-us",
+        "@value": "\n\"A spinach recipe you will be proud to offer to others.\"        "
+    },
+    "image": {
+        "@id": "https://images.media-allrecipes.com/userphotos/250x250/211650.jpg"
+    },
+    "mainEntityOfPage": {
+        "@language": "en-us",
+        "@value": "True"
+    },
+    "name": {
+        "@language": "en-us",
+        "@value": "Cheesy Creamed Spinach Casserole"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-us",
+            "@value": "160 calories;"
+        },
+        "carbohydrateContent": {
+            "@language": "en-us",
+            "@value": "6.6"
+        },
+        "cholesterolContent": {
+            "@language": "en-us",
+            "@value": "29 "
+        },
+        "fatContent": {
+            "@language": "en-us",
+            "@value": "13.3 "
+        },
+        "proteinContent": {
+            "@language": "en-us",
+            "@value": "5.3 "
+        },
+        "sodiumContent": {
+            "@language": "en-us",
+            "@value": "388 "
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "en-us",
+            "@value": "Casseroles"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Spinach Casserole"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Side Dish"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en-us",
+            "@value": "2 (10 ounce) packages frozen chopped spinach, cooked"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 (1 ounce) package dry onion soup mix"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 cups sour cream"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 cup shredded Cheddar cheese"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-us",
+        "@value": "\n                        \n                            Preheat oven to 350 degrees F (175 degrees C).  Grease a 2 quart casserole dish.\n                            \n                        \n                        \n                            Drain spinach.  In a medium mixing bowl combine spinach, soup mix and sour cream.  Spoon into greased casserole dish and top with cheese.\n                            \n                        \n                        \n                            Bake in preheated oven about 25 minutes, or until heated through.\n                            \n                        \n            "
+    },
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "9"
+    },
+    "review": [
+        {
+            "@id": "_:N32dcc8ac79e5427897e9db8ac337b6e6"
+        },
+        {
+            "@id": "_:Nccbece96a4d54e5f9336d48a79f89a6f"
+        },
+        {
+            "@id": "_:N6a799f852bfb474b830e19b24a4b347f"
+        },
+        {
+            "@id": "_:N1b0e91c087984ac58bc4abd3ded945d2"
+        },
+        {
+            "@id": "_:N68f8eb24f62b4f7e98efa7ae392e3c20"
+        },
+        {
+            "@id": "_:Nd2ec7e06eabf47139998c564b69a1d1a"
+        },
+        {
+            "@id": "_:Nff452e61b6084baab51c515ab75fd6f7"
+        },
+        {
+            "@id": "_:N7ce7b305212e45fb947f1c3dc630fb27"
+        },
+        {
+            "@id": "_:N1c63c64e6ad74c529b332f116abf6a53"
+        },
+        {
+            "@id": "_:N3d2280231b874db88895978af549e73b"
+        },
+        {
+            "@id": "_:N67269f37b50b4b069eb925fedd1da470"
+        }
+    ],
+    "url": {
+        "title": {
+            "@language": "en-us",
+            "@value": "Cheesy Creamed Spinach Casserole Recipe - Allrecipes.com"
+        },
+        "item": [
+            {
+                "@id": "_:N7aa83ce109d041eca53159b9ea117454"
+            },
+            {
+                "@id": "_:N1035e93f1a2749728abb7ff06cc9f20a"
+            }
+        ]
+    },
+    "@id": "http://example.org/recipe"
+}

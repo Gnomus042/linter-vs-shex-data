@@ -1,0 +1,130 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "it-IT",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "it-IT",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "it-IT",
+        "@value": "Agostina Battaglia"
+    },
+    "image": {
+        "@id": "http://www.mypaneburroemarmellata.com/wp-content/uploads/2018/11/Guinness-Cake-fetta-DSC_0250-678x1024.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "it-IT",
+            "@value": "100 g di zucchero di canna a velo integrale"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "120 g di zucchero"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Per la crema"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "50 ml di olio di semi di girasole biologico"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 bustina di lievito per dolci"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "200 g di farina tipo 2"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "100 g di cacao"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "330 ml di birra scura"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 uovo biologico"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "200 g di crema spalmabile tipo Philadelphia, senza lattosio"
+        }
+    ],
+    "name": {
+        "@language": "it-IT",
+        "@value": "la Guinness Cake senza lattosio, il mio compleanno e 10 anni di blog"
+    },
+    "recipeCategory": {
+        "@language": "it-IT",
+        "@value": "Dessert"
+    },
+    "recipeCuisine": {
+        "@language": "it-IT",
+        "@value": "irlandese"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "it-IT",
+            "@value": "Una volta cotto, sfornate il dolce e lasciatelo raffreddare su una gratella."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "In una terrina montate l'uovo con lo zucchero. Unite l'olio continuando a mescolare."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Versate il composto nello stampo ed infornate per 30 - 35 minuti."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Fate comunque la prova dello stecchino, facendolo affondare nella torta a fine cottura. Se ne esce pulit, vuole dire che la torta \u00e8 cotta, alrimenti prolungate la cottura di qualche altro minuti, tenendo sempre sott'occhio il forno."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Preparate intanto la crema lavorando"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Sfornate e lasciate raffreddare su una gratella"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Appena freddo, disponete la crema sul dolce a cucchiaiate."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Miscelate insieme la farina, il lievito ed il cacao."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Preriscaldate il forno a 180\u00b0."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Imburrate (o oliate) ed infarinate uno stampo da 20 cm di diametro."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "g di crema spalmabile con 50 g di zucchero a velo di canna integrale fino ad ottenere una crema liscia e spumosa."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Unite le polveri setacciate al composto di uovo e zucchero ed unite lentamente anche la birra, sempre mescolando."
+        }
+    ],
+    "recipeYield": {
+        "@language": "it-IT",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

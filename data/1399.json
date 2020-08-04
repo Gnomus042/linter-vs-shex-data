@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ko",
+        "@value": "SZ Dimed Auto Parts Co.,Limited"
+    },
+    "brand": {
+        "@language": "ko",
+        "@value": "belallure.me"
+    },
+    "image": {
+        "@language": "ko",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1FoJmTiLaK1RjSZFxq6ymPFXas/\ub3c4\uc694\ud0c0-alphard-2015-2019-\uc790\ub3d9\ucc28-\uc561\uc138\uc11c\ub9ac-\ud6c4\uba74-\uc804\uba74-\uc548\uac1c-\ub7a8\ud504-\ub77c\uc774\ud2b8-\ud2b8\ub9bc-\ud504\ub808\uc784-\uc2a4\ud2f0\ucee4-abs-\uc678\uad00.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ko",
+            "@value": "33007756160"
+        },
+        {
+            "@language": "ko",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "ko",
+        "@value": "\ub3c4\uc694\ud0c0 alphard 2015-2019 \uc790\ub3d9\ucc28 \uc561\uc138\uc11c\ub9ac \ud6c4\uba74 \uc804\uba74 \uc548\uac1c \ub7a8\ud504 \ub77c\uc774\ud2b8 \ud2b8\ub9bc \ud504\ub808\uc784 \uc2a4\ud2f0\ucee4 abs \uc678\uad00 \uc790\ub3d9\ucc28 \uc7a5\uc2dd 2 pcs"
+    },
+    "@id": "http://example.org/recipe"
+}

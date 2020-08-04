@@ -1,0 +1,98 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "fr-FR",
+            "@value": "1"
+        },
+        "reviewCount": {
+            "@language": "fr-FR",
+            "@value": "1"
+        }
+    },
+    "cookTime": {
+        "@language": "fr-FR",
+        "@value": "15 minutes"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "700 g de lait d\u2019amande\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "11 g de poudre \u00e0 lever (ou levure chimique)\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "100 g de farine de grand \u00e9peautre complet\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "10 g de sel\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "100 g d\u2019amande en poudre\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "50 g d\u2019eau + 1 cs de graines de chia (ou 1 oeuf)\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "175 g de semoule fine (de la semoule, PAS du couscous)\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Null"
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Cr\u00eapes mille trous express \u00e0 l\u2019amande (vegan)"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "servingSize": {
+            "@language": "fr-FR",
+            "@value": "Environ 40 mini cr\u00eapes"
+        }
+    },
+    "prepTime": {
+        "@language": "fr-FR",
+        "@value": "10 minutes"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "fr-FR",
+            "@value": "Faire chauffer une cr\u00eapi\u00e8re \u00e9lectrique, huiler l\u00a0l\u00e9g\u00e8rement et verser une louche de pr\u00e9paration au centre.\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Verser l\u2019ensemble des ingr\u00e9dients restants dans un blender, ajouter le m\u00e9lange eau/chia et mixer 3 \u00e0 4 minutes jusque\u2019\u00e0 l\u2019obtention d\u2019un ensemble lisse.\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "A l\u2019aide du dos de la louche, \u00e9taler la p\u00e2te en formant des cercles, en partant du centre vers l\u2019ext\u00e9rieur.\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Une fois le dessus bien cuit, retirer les cr\u00eapes (ne les cuire que d\u2019un seul c\u00f4t\u00e9)."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Dans un bol, faire tremper l\u2019eau et les graines de chia. R\u00e9server.\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "Cr\u00eapi\u00e8re"
+    },
+    "totalTime": {
+        "@language": "fr-FR",
+        "@value": "25 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

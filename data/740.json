@@ -1,0 +1,46 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "RajshriFood"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "Cook Time:"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Learn how to make Til Ke Ladoo at home with Chef Ruchi Bharani on Rajshri Food.\n\nOn the occasion of Makar Sankranti make this Til Gud Ladoo by Chef Ruchi Bharani and share the love with your friends and family with it."
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Til Ladoo Recipe - Homemade Til Gud Ke Laddu - Makar Sankranti Special - Sesame Ladoo - Ruchi"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "Jaggery - 1 Cup (16 tbs) "
+        },
+        {
+            "@language": "en",
+            "@value": "Ghee - 1 Tablespoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Peanuts - 2 Tablespoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Sesame seeds - 1 Cup (16 tbs) "
+        },
+        {
+            "@language": "en",
+            "@value": "Water - 2 Tablespoon "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "MAKING:\n\n\n\n1. In a pan, roast sesame seeds for 5-6 minutes on low flame until they change colour. \n\n2. Remove it out on a plate and let it cool down. \n\n3. In the same pan, add ghee, jaggery, water and cook on low flame till the jaggery melts. \n\n4. Add roasted sesame, peanut, turn off the flame and start mixing them. \n\n5. Remove the mixture in a plate, wet your palms and start making balls of it.\n\n\n\nSERVING:\n\n\n\n6. Keep the ladoo's aside to cool and it's ready to eat.  Enjoy!"
+    },
+    "@id": "http://example.org/recipe"
+}

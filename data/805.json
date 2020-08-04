@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ja",
+        "@value": "bangerk QIWENBIN Store"
+    },
+    "brand": {
+        "@language": "ja",
+        "@value": "atlasapp.me"
+    },
+    "image": {
+        "@language": "ja",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1xB26x5CYBuNkHFCcq6AHtVXaI/\u30b7\u30f3\u30d7\u30eb\u3067\u30e2\u30c0\u30f3\u306a-LED-\u30da\u30f3\u30c0\u30f3\u30c8\u30e9\u30a4\u30c8\u9244\u30af\u30ea\u30a8\u30a4\u30c6\u30a3\u30d6\u5f13-HangLamp-\u5317\u6b27\u30e9\u30f3\u30d7\u30c0\u30a4\u30cb\u30f3\u30b0\u30eb\u30fc\u30e0\u306e\u7167\u660e\u30ed\u30d5\u30c8\u30c7\u30b3\u30db\u30fc\u30e0\u30da\u30f3\u30c0\u30f3\u30c8\u7167\u660e.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ja",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "ja",
+            "@value": "32901270235"
+        }
+    ],
+    "name": {
+        "@language": "ja",
+        "@value": "\u30b7\u30f3\u30d7\u30eb\u3067\u30e2\u30c0\u30f3\u306a LED \u30da\u30f3\u30c0\u30f3\u30c8\u30e9\u30a4\u30c8\u9244\u30af\u30ea\u30a8\u30a4\u30c6\u30a3\u30d6\u5f13 HangLamp \u5317\u6b27\u30e9\u30f3\u30d7\u30c0\u30a4\u30cb\u30f3\u30b0\u30eb\u30fc\u30e0\u306e\u7167\u660e\u30ed\u30d5\u30c8\u30c7\u30b3\u30db\u30fc\u30e0\u30da\u30f3\u30c0\u30f3\u30c8\u7167\u660e"
+    },
+    "@id": "http://example.org/recipe"
+}

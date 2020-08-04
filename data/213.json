@@ -1,0 +1,134 @@
+{
+    "@type": "Recipe",
+    "alternateName": {
+        "@language": "hu",
+        "@value": "Ragu alla bolognese"
+    },
+    "author": [
+        {
+            "@language": "hu",
+            "@value": "R\u00f6mer, Joachim"
+        },
+        {
+            "@language": "hu",
+            "@value": "Domin\u00e9, Andr\u00e9"
+        },
+        {
+            "@language": "hu",
+            "@value": "Ditter, Michael"
+        }
+    ],
+    "image": [
+        {
+            "@id": "https://gasztroabc.hu/recept/21539_bolognai-husmartas//kepek/OLs/bolognai-husmartas.jpg"
+        },
+        {
+            "@id": "https://gasztroabc.hu/recept/21539_bolognai-husmartas//kepek/OLt/bolognai-husmartas.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "hu",
+            "@value": "\n                10 dkg csirkem\u00e1j\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                5 dkg szalonna\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                1 sz\u00e1l s\u00e1rgar\u00e9pa\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                2 dl h\u00fasalapl\u00e9\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                \u00edzl\u00e9s szerint frissen \u0151r\u00f6lt fekete bors\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                10 dkg nyers sonka\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                10 dkg dar\u00e1lt marhah\u00fas\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                \u00edzl\u00e9s szerint s\u00f3\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                2 dl v\u00f6r\u00f6sbor\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                1 te\u00e1skan\u00e1l oreg\u00e1n\u00f3\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                2 ev\u0151kan\u00e1l vaj\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                1 kisebb fej v\u00f6r\u00f6shagyma\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                10 dkg dar\u00e1lt sert\u00e9sh\u00fas\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                1 szelet zellergum\u00f3\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                3 ev\u0151kan\u00e1l paradicsomp\u00fcr\u00e9\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                1 gerezd fokhagyma\n              "
+        }
+    ],
+    "interactionCount": {
+        "@language": "hu",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "hu",
+        "@value": "Bolognai h\u00fasm\u00e1rt\u00e1s"
+    },
+    "prepTime": {
+        "@language": "hu",
+        "@value": "40 perc"
+    },
+    "recipeCategory": {
+        "@language": "hu",
+        "@value": "M\u00e1rt\u00e1sok"
+    },
+    "recipeCuisine": [
+        {
+            "@language": "hu",
+            "@value": "mediterr\u00e1n"
+        },
+        {
+            "@language": "hu",
+            "@value": "olasz"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "hu",
+        "@value": "\n              1. A hagym\u00e1t, a fokhagym\u00e1t, a s\u00e1rgar\u00e9p\u00e1t \u00e9s a zellert megtiszt\u00edtjuk, apr\u00f3ra v\u00e1gjuk.\n\n              2. A vajat felolvasztjuk, a szalonn\u00e1t felkock\u00e1zzuk, \u00e9s a z\u00f6lds\u00e9gekkel, valamint a fokhagym\u00e1val egy\u00fctt megpir\u00edtjuk benne.\n\n              3. A sonk\u00e1t apr\u00f3ra kock\u00e1zzuk, a m\u00e1jat finomra v\u00e1gjuk, \u00e9s a h\u00fassal egy\u00fctt a z\u00f6lds\u00e9gekhez adjuk, folyamatos keverget\u00e9s k\u00f6zben megpir\u00edtjuk.\n\n              4. A bort, az alaplevet, a paradicsomp\u00fcr\u00e9t \u00e9s az oreg\u00e1n\u00f3t beletessz\u00fck. Felforraljuk, \u00e9s \u00f3vatosan s\u00f3zzuk, borsozzuk.\n\n              5. Lefedj\u00fck, \u00e9s kis l\u00e1ngon 120 percig f\u0151zz\u00fck, ha kell, ut\u00e1na\u00edzes\u00edtj\u00fck.\n            "
+    },
+    "recipeYield": {
+        "@language": "hu",
+        "@value": "1 adag"
+    },
+    "totalTime": {
+        "@language": "hu",
+        "@value": "t\u00f6bb mint 2 \u00f3ra"
+    },
+    "@id": "http://example.org/recipe"
+}

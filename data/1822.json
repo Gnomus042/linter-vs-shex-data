@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.5"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "899"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Gianni Morelli"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT2H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "See Some Of The World S Most Exciting Nature Destinations Through Exquisite Photography And Find Out How You Can Visit Them, Too From The Ice Caves Of Iceland To Diving In Mexico S Cenotes, This Stunning Book Showcases Some Of The Most Glorious Destinations And Thrilling Adventures Across The Globe Leafing Through The Inviting Images, Real And Armchair Voyagers Can Admire And Learn About Hawaii S Incredible Painted Forest, Canada S Magical Northern Lights, The Colors Of The Danakil Depression In Ethiopia, The Gorillas Of Rwanda, And Nomadic Life In Mongolia For Anyone Planning A Trip, There S Also Valuable Information And Priceless Travel Advice, As Well As In Depth Cultural Analysis And Inspirational Quotes."
+    },
+    "image": {
+        "@id": "http://cosmologychris.co.uk/wp-content/upload/2017/348ec54a8bef5d58cb605ee3a521d1e0sf560e90a910d0cfa5f891a5366cf10d7gr-assetsf560e90a910d0cfa5f891a5366cf10d7com/assets/nophoto/book/blank-133x176-8b769f39ba6687a82d2eef30bdf46977f560e90a910d0cfa5f891a5366cf10d7jpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "899"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "Encounters with Nature ,download, read online, e-pub, pdf, free, kindle ebook"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Encounters with Nature "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "[[ Reading ]] \u27bf Encounters With Nature  Author Gianni Morelli \u2013 Cosmologychris.co.uk See Some Of The World S Most Exciting Nature Destinations Through Exquisite Photography And Find Out How You Can Visit Them, Too From The Ice Caves Of Iceland To Diving In Mexico S Cenotes, This Stunn"
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT32M"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "school"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "[[ Reading ]] \u27bf Encounters With Nature  Author Gianni Morelli \u2013 Cosmologychris.co.uk See Some Of The World S Most Exciting Nature Destinations Through Exquisite Photography And Find Out How You Can Visit Them, Too From The Ice Caves Of Iceland To Diving In Mexico S Cenotes, This Stunn"
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "Encounters with Nature "
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://cosmologychris.co.uk/wp-content/upload/2017/348ec54a8bef5d58cb605ee3a521d1e0sf560e90a910d0cfa5f891a5366cf10d7gr-assetsf560e90a910d0cfa5f891a5366cf10d7com/assets/nophoto/book/blank-133x176-8b769f39ba6687a82d2eef30bdf46977f560e90a910d0cfa5f891a5366cf10d7jpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2017-02-16T08:34+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

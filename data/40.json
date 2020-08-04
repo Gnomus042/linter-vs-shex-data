@@ -1,0 +1,99 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Itsy Bitsy Foodies"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "These melt-in-your-mouth vanilla sugar cookies make a neutral base that can work with any color or flavor of Hershey's kiss, for any time of year."
+    },
+    "image": {
+        "@id": "http://itsybitsyfoodies.com/wp-content/uploads/2013/01/IMG_1519.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "2 - 2\u00bc cup flour"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp baking soda"
+        },
+        {
+            "@language": "en",
+            "@value": "1\u00bc cup powdered sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "30-35 candy cane Hershey's kisses (or Mint Truffle Kisses or Chocolate Kisses with crushed candy cane)"
+        },
+        {
+            "@language": "en",
+            "@value": "1 egg"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd tsp baking powder"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp vanilla"
+        },
+        {
+            "@language": "en",
+            "@value": "Granulated sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd cup butter, softened"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Peppermint Kiss Cookies"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Dessert"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Cream the butter and the sugar."
+        },
+        {
+            "@language": "en",
+            "@value": "Stir in the baking soda, baking powder and vanilla, and then gradually stir in the flour until the cookie dough is a consistency that can be easily rolled into smooth balls, not crumbly or sticky."
+        },
+        {
+            "@language": "en",
+            "@value": "Bake the cookies at 350 degrees 7-9 minutes until the bottom of the cookies are lightly golden."
+        },
+        {
+            "@language": "en",
+            "@value": "Remove the pan from the oven and immediately press a Hershey kiss into the center of each cookie."
+        },
+        {
+            "@language": "en",
+            "@value": "Let the cookies cool for 5 mins and then transfer them to a wire rack to cool completely."
+        },
+        {
+            "@language": "en",
+            "@value": "Place the balls on a greased baking sheet. (I made small, \u00be-inch balls)."
+        },
+        {
+            "@language": "en",
+            "@value": "While the cookies bake, remove the wrapper from the Hershey kisses."
+        },
+        {
+            "@language": "en",
+            "@value": "Beat in the egg."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "35"
+    },
+    "@id": "http://example.org/recipe"
+}

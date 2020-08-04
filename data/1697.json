@@ -1,0 +1,7 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@value": "\nTandoori Pomfret\n"
+    },
+    "@id": "http://example.org/recipe"
+}

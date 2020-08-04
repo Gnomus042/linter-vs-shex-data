@@ -1,0 +1,102 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "sk",
+            "@value": "0"
+        },
+        "ratingValue": {
+            "@language": "sk",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "sk",
+        "@value": "Palmar\u00edn"
+    },
+    "datePublished": {
+        "@language": "sk",
+        "@value": "2013-06-05"
+    },
+    "description": {
+        "@language": "sk",
+        "@value": "R\u00fdchly ovocn\u00fd kol\u00e1\u010d s pos\u00fdpkou a s fotoreceptom."
+    },
+    "image": {
+        "@id": "http://www.najpecenie.sk/data/recipes/recipe-e6e607ddec2ea763f60ac8b37848d98d-normal.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "sk",
+            "@value": "1/2 bal. kypriaci pr\u00e1\u0161ok do pe\u010diva"
+        },
+        {
+            "@language": "sk",
+            "@value": "1,5 \u0161\u00e1lka m\u00faka polohrub\u00e1 "
+        },
+        {
+            "@language": "sk",
+            "@value": "na potretie  tuk stu\u017een\u00fd "
+        },
+        {
+            "@language": "sk",
+            "@value": "1 \u0161\u00e1lka cukor pr\u00e1\u0161kov\u00fd "
+        },
+        {
+            "@language": "sk",
+            "@value": "100 g cukor kry\u0161t\u00e1lov\u00fd "
+        },
+        {
+            "@language": "sk",
+            "@value": "100 g m\u00faka hrub\u00e1"
+        },
+        {
+            "@language": "sk",
+            "@value": "1 ks vajcia"
+        },
+        {
+            "@language": "sk",
+            "@value": "100 g maslo"
+        },
+        {
+            "@language": "sk",
+            "@value": "  ovocie r\u00f4zneho druhu"
+        },
+        {
+            "@language": "sk",
+            "@value": "1 \u0161\u00e1lka jogurt biely"
+        }
+    ],
+    "name": {
+        "@language": "sk",
+        "@value": "Okr\u00fahly jogurtov\u00fd-ovocn\u00fd kol\u00e1\u010d "
+    },
+    "prepTime": {
+        "@language": "sk",
+        "@value": "PT30M"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "sk",
+            "@value": "2. Hladk\u00e9 cesto dame do pripravenej okr\u00fahlej formy, uhlad\u00edme, rozlo\u017e\u00edme\u00a0ovocie."
+        },
+        {
+            "@language": "sk",
+            "@value": "4. Po vychladnut\u00ed e\u0161te posypeme pr\u00e1\u0161kov\u00fdm cukrom a nakr\u00e1jame."
+        },
+        {
+            "@language": "sk",
+            "@value": "1. M\u00faku s pr\u00e1\u0161kom do pe\u010diva preosejeme do misky, prid\u00e1me ostatn\u00e9 suroviny a dobre vymie\u0161ame."
+        },
+        {
+            "@language": "sk",
+            "@value": "3. Z 100g masla, 100g kry\u0161t\u00e1lov\u00e9ho cukru a 100g hrubej m\u00faky si priprav\u00edme pos\u00fdpku a posypeme \u0148ou kol\u00e1\u010d. Pe\u010dieme v rozohriatej r\u00fare do ru\u017eova asi 25 min."
+        }
+    ],
+    "recipeYield": {
+        "@language": "sk",
+        "@value": "-"
+    },
+    "@id": "http://example.org/recipe"
+}

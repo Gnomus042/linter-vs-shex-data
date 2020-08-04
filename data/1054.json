@@ -1,0 +1,120 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "it",
+        "@value": "Cucina Italiana di Casa"
+    },
+    "cookTime": {
+        "@language": "it",
+        "@value": "PT60M"
+    },
+    "description": [
+        {
+            "@language": "it",
+            "@value": "\n\t\t\tUna conserva per portare in inverno la dolcezza dell'estate: la marmellata di fichi arricchita da una nota di vaniglia per esaltare i profumi: facile e molto raffinata. La ricetta \u00e8 per preparare in casa la marmellata di fichi utilizzando poco zucchero e con la pectina, grazie al fatto che i fichi sono naturalmente dolci si pu\u00f2 utilizzare meno zucchero. La marmellata di fichi con la vaniglia si presta anche ad accompagnare formaggi stagionati. Le dosi sono per 4 vasetti. Vi proponiamo anche il video per come sterilizzare i vasetti per conservare la marmellata. Provate a vedere anche la marmellata veloce di fichi interi\t\t"
+        },
+        {
+            "@language": "it",
+            "@value": "come preparare in casa la marmellata di fichi aromatizzata alla vaniglia e come sterilizzare i vasetti per la conservazione"
+        }
+    ],
+    "image": {
+        "@type": "ImageObject",
+        "contentSize": {
+            "@language": "it",
+            "@value": "38 KB"
+        },
+        "contentURL": {
+            "@language": "it",
+            "@value": "https://www.ricettadicucina.com/upload/recipe/b/3/b/0a523ee4152714c57a9f08ab62687572f9efceea.jpg"
+        },
+        "encodingFormat": {
+            "@language": "it",
+            "@value": "jpg"
+        },
+        "height": {
+            "@language": "it",
+            "@value": "446"
+        },
+        "image": {
+            "@language": "it",
+            "@value": "https://www.ricettadicucina.com/upload/recipe/b/3/b/0a523ee4152714c57a9f08ab62687572f9efceea.jpg"
+        },
+        "representativeOfPage": {
+            "@language": "it",
+            "@value": "true"
+        },
+        "thumbnailUrl": {
+            "@language": "it",
+            "@value": "https://www.ricettadicucina.com/upload/recipe/b/3/b/0a523ee4152714c57a9f08ab62687572f9efceea_s.jpg"
+        },
+        "url": {
+            "@language": "it",
+            "@value": "https://www.ricettadicucina.com/upload/recipe/b/3/b/0a523ee4152714c57a9f08ab62687572f9efceea.jpg"
+        },
+        "width": {
+            "@language": "it",
+            "@value": "623"
+        }
+    },
+    "keywords": {
+        "@language": "it",
+        "@value": "con cottura al vapore, per estate, con pectina, con zucchero, con limone, di cucina moderna, con bollitura, eleganti raffinate, con vaniglia, ricette con i fichi"
+    },
+    "name": {
+        "@language": "it",
+        "@value": "marmellata di fichi alla vaniglia"
+    },
+    "prepTime": {
+        "@language": "it",
+        "@value": "PT10M"
+    },
+    "recipeCategory": {
+        "@language": "it",
+        "@value": "di Conserve, con video, di marmellate composte"
+    },
+    "recipeCuisine": {
+        "@language": "it",
+        "@value": "cucina moderna"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "it",
+            "@value": "Pectina: 1 Busta"
+        },
+        {
+            "@language": "it",
+            "@value": "Fichi: 1200 Grammi"
+        },
+        {
+            "@language": "it",
+            "@value": "Zucchero: 300 Grammi"
+        },
+        {
+            "@language": "it",
+            "@value": "Vaniglia: 1 Baccello"
+        },
+        {
+            "@language": "it",
+            "@value": "Limone: 1"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:Nb9dead37caaf41558e1490c1ba4b3841"
+        },
+        {
+            "@language": "it",
+            "@value": "ricordatevi di sterilizzare i vasetti per la marmellata come indicato nel video qui sopra. Lavate bene i fichi con acqua fredda,pelateli come meglio potete, senza preoccuparvi se si rompono. Incidete per tutta la lunghezza il baccello di vaniglia.Mettete i fichi direttamente nella pentola, copriteli con lo zucchero e unite il baccello di vaniglia tagliato a met\u00e0 e un strisciolina di buccia di limone. Aggiungete la pectina (se la usate, altrimenti raddoppiate il tempo di cottura e lo zucchero) e fate cuocere a fuoco dolce, mescolando, fino a che non prende il bollore,aggiungete il succo del limone. Lasciate cuocere coperta, mescolando di quando in quando fino a che si sar\u00e0 addensata. Invasate la marmellata ancora calda come indicato nel video qui sopra, avendo l'accortezza di usare i vasetti che avete sterilizzato senza farli raffreddare (altrimenti scoppiano!),ricordate di pulire il bordo dei barattoli, lo zucchero altrimenti vi impedir\u00e0 di aprirli. Rimettete i vasetti a sterilizzare: in unna pentola con il cestello riempita di acqua fino a met\u00e0 dei vasetti,come nel video, oppure nella vaporiera.Fate bollire per 10 minuti, 20 nella vaporiera."
+        }
+    ],
+    "recipeYield": {
+        "@language": "it",
+        "@value": "4 persone"
+    },
+    "totalTime": {
+        "@language": "it",
+        "@value": "PT70M"
+    },
+    "@id": "http://example.org/recipe"
+}

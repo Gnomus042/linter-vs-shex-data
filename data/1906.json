@@ -1,0 +1,32 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "cs-cz",
+        "@value": "estilofina"
+    },
+    "datePublished": {
+        "@language": "cs-cz",
+        "@value": "2015-09-23 19:59:25"
+    },
+    "description": {
+        "@language": "cs-cz",
+        "@value": "\u00a0 \n\u00a0\nMo\u017en\u00e1 v\u00e1s budou zaj\u00edmat jin\u00e9\nEXKLUZ\u00cdVNI PRODUKTY LUXUSN\u00cdHO N\u00c1BYTKU \nna na\u0161\u00ed str\u00e1nce Estilofina-n\u00e1bytek.cz"
+    },
+    "image": {
+        "@language": "cs-cz",
+        "@value": "http://estilofina.sk"
+    },
+    "name": {
+        "@language": "cs-cz",
+        "@value": "404"
+    },
+    "recipeCategory": {
+        "@language": "cs-cz",
+        "@value": "uncategorized"
+    },
+    "reviewCount": {
+        "@language": "cs-cz",
+        "@value": "1"
+    },
+    "@id": "http://example.org/recipe"
+}

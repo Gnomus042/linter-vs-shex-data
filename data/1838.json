@@ -1,0 +1,118 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "ru",
+            "@value": "7"
+        },
+        "ratingValue": {
+            "@language": "ru",
+            "@value": "4.71"
+        }
+    },
+    "image": {
+        "@id": "https://rutxt.ru/node/11569//files/11569/95f030d34e.JPG"
+    },
+    "name": {
+        "@language": "ru",
+        "@value": "\u0420\u0435\u0446\u0435\u043f\u0442 \u0445\u043b\u0435\u0431\u0430 \u0441 \u0447\u0435\u0441\u043d\u043e\u043a\u043e\u043c \u0432 \u0434\u0443\u0445\u043e\u0432\u043a\u0435"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ru",
+            "@value": "\u0441\u0430\u0445\u0430\u0440 - 3 \u0447. \u043b.;"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u043c\u0430\u043a \u0434\u043b\u044f \u043f\u043e\u0441\u044b\u043f\u043a\u0438."
+        },
+        {
+            "@language": "ru",
+            "@value": "\u0414\u043b\u044f \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0433\u043e \u0445\u043b\u0435\u0431\u0430 \u0441 \u0447\u0435\u0441\u043d\u043e\u043a\u043e\u043c \u0432 \u0434\u0443\u0445\u043e\u0432\u043a\u0435 \u043f\u043e\u043d\u0430\u0434\u043e\u0431\u0438\u0442\u0441\u044f:"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u0441\u043e\u043b\u044c - 1 \u0441\u0442. \u043b.;"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u043c\u0430\u0441\u043b\u043e \u0441\u043b\u0438\u0432\u043e\u0447\u043d\u043e\u0435 - 70 \u0433;"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u0434\u0440\u043e\u0436\u0436\u0438 \u0441\u0443\u0445\u0438\u0435 - 7 \u0433;"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u043a\u043e\u0440\u0438\u0430\u043d\u0434\u0440, \u0431\u0430\u0437\u0438\u043b\u0438\u043a \u0441\u0443\u0448\u0435\u043d\u044b\u0439 - \u043f\u043e 0,5 \u0447. \u043b.;"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u043c\u0430\u0441\u043b\u043e \u043f\u043e\u0434\u0441\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0435 \u0440\u0430\u0444\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 - 30 \u0433;"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u0441\u043e\u043b\u044c - 0,5 \u0447. \u043b.;"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u044f\u0439\u0446\u043e \u043a\u0443\u0440\u0438\u043d\u043e\u0435 - 1 \u0448\u0442.;"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u043c\u0443\u043a\u0430 \u0432\u044b\u0441\u0448\u0435\u0433\u043e \u0441\u043e\u0440\u0442\u0430 - 500 \u0433;"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u0432\u043e\u0434\u0430 \u0442\u0435\u043f\u043b\u0430\u044f - 200-250 \u043c\u043b."
+        },
+        {
+            "@language": "ru",
+            "@value": "\u0414\u043b\u044f \u0447\u0435\u0441\u043d\u043e\u0447\u043d\u043e\u0433\u043e \u0441\u043e\u0443\u0441\u0430:"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u0447\u0435\u0441\u043d\u043e\u043a - 2-3 \u0437\u0443\u0431\u0447\u0438\u043a\u0430;"
+        }
+    ],
+    "recipeInstructions": {
+        "@type": "ItemList",
+        "image": [
+            {
+                "@id": "https://rutxt.ru/node/11569//files/11569/9b92c8c9fc.JPG"
+            },
+            {
+                "@id": "https://rutxt.ru/node/11569//files/11569/2ab7ef6fdc.JPG"
+            },
+            {
+                "@id": "https://rutxt.ru/node/11569//files/11569/d2d0b66f1d.JPG"
+            },
+            {
+                "@id": "https://rutxt.ru/node/11569//files/11569/cad326d835.JPG"
+            },
+            {
+                "@id": "https://rutxt.ru/node/11569//files/11569/ca5181f88f.JPG"
+            },
+            {
+                "@id": "https://rutxt.ru/node/11569//files/11569/173155dcf2.JPG"
+            },
+            {
+                "@id": "https://rutxt.ru/node/11569//files/11569/fa4e829bbc.JPG"
+            },
+            {
+                "@id": "https://rutxt.ru/node/11569//files/11569/74ecf74191.JPG"
+            },
+            {
+                "@id": "https://rutxt.ru/node/11569//files/11569/ec22e70ef8.JPG"
+            },
+            {
+                "@id": "https://rutxt.ru/node/11569//files/11569/95f030d34e.JPG"
+            },
+            {
+                "@id": "https://rutxt.ru/node/11569//files/11569/d7ad4dcbad.JPG"
+            }
+        ]
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@value": "2824"
+        },
+        "ratingValue": {
+            "@value": "9"
+        }
+    },
+    "description": {
+        "@value": "Th\u1ebb b\u00e0i, The bai"
+    },
+    "image": {
+        "@id": "http://doaiphu.com/upload/products/thumb/3_1.jpg"
+    },
+    "name": {
+        "@value": "Th\u1ebb B\u00e0i"
+    },
+    "@id": "http://example.org/recipe"
+}

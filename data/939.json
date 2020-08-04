@@ -1,0 +1,156 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-us",
+            "@value": "4.65"
+        },
+        "reviewCount": {
+            "@language": "en-us",
+            "@value": "12"
+        }
+    },
+    "author": {
+        "@language": "en-us",
+        "@value": "dacubz"
+    },
+    "description": {
+        "@language": "en-us",
+        "@value": "\n\"A delicious twist on the standard Italian variation. Adjust the heat to your preference. Quick and easy!\"        "
+    },
+    "image": {
+        "@id": "https://images.media-allrecipes.com/userphotos/560x315/4031468.jpg"
+    },
+    "mainEntityOfPage": {
+        "@language": "en-us",
+        "@value": "True"
+    },
+    "name": {
+        "@language": "en-us",
+        "@value": "Enchilada Spaghetti Squash Casserole"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-us",
+            "@value": "333 calories;"
+        },
+        "carbohydrateContent": {
+            "@language": "en-us",
+            "@value": "15.1"
+        },
+        "cholesterolContent": {
+            "@language": "en-us",
+            "@value": "83 "
+        },
+        "fatContent": {
+            "@language": "en-us",
+            "@value": "21.2 "
+        },
+        "proteinContent": {
+            "@language": "en-us",
+            "@value": "22.8 "
+        },
+        "sodiumContent": {
+            "@language": "en-us",
+            "@value": "555 "
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "en-us",
+            "@value": "Turkey"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Ground"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Meat and Poultry"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en-us",
+            "@value": "salt and ground black pepper to taste"
+        },
+        {
+            "@language": "en-us",
+            "@value": "vegetable oil cooking spray"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 spaghetti squash, halved and seeded"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 (16 ounce) can enchilada sauce, divided"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 (1 pound) package shredded Mexican cheese blend"
+        },
+        {
+            "@language": "en-us",
+            "@value": "6 ounces crumbled queso fresco (optional)"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 pound ground turkey"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-us",
+        "@value": "\n                        \n                            Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with aluminum foil.\n                            \n                        \n                        \n                            Spray insides of spaghetti squash with cooking spray. Season with salt and black pepper. Place squash, cut-side down, on the baking sheet.\n                            \n                        \n                        \n                            Bake in the preheated oven until easily pierced with a knife, about 1 hour. Flip and let cool until easily handled, about 10 minutes.\n                            \n                        \n                        \n                            Scrape insides of squash into spaghetti strands using a fork. Spread evenly into a 9x13-inch baking dish.\n                            \n                        \n                        \n                            Place turkey in a large skillet over medium heat; cook and stir until browned, 5 to 8 minutes. Stir half of the enchilada sauce into the skillet.\n                            \n                        \n                        \n                            Spread turkey mixture evenly over squash in the baking dish. Scatter queso fresco then Mexican cheese over turkey layer. Top with remaining enchilada sauce.\n                            \n                        \n                        \n                            Bake in the preheated oven until cheese is melted, about 15 minutes.\n                            \n                        \n            "
+    },
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "10"
+    },
+    "review": [
+        {
+            "@id": "_:N45e7628ef4a84780b24b848cb9d21fac"
+        },
+        {
+            "@id": "_:N634d13e99db14b33a0d7a3a78b558f4e"
+        },
+        {
+            "@id": "_:Nd9d153b0dd37499baea07af32ee97d55"
+        },
+        {
+            "@id": "_:N40129b308f644560838e843d2a7dc357"
+        },
+        {
+            "@id": "_:N20471c5661314b59bbeddbf1abef5a98"
+        },
+        {
+            "@id": "_:N43404459593a4edda7c915ab5b38074b"
+        },
+        {
+            "@id": "_:Nddcec57268ef4a62908eb5b991cb28f6"
+        },
+        {
+            "@id": "_:N687d9d450c7a42e0a30c280a3fae5119"
+        },
+        {
+            "@id": "_:N2310a19cac5b4c4e9791cf7720b5c28b"
+        }
+    ],
+    "url": {
+        "title": {
+            "@language": "en-us",
+            "@value": "Enchilada Spaghetti Squash Casserole Recipe - Allrecipes.com"
+        },
+        "item": [
+            {
+                "@id": "_:N194f1722ee104104a900e20492d6e8eb"
+            },
+            {
+                "@id": "_:Ne4030c01e2794f1f98736a08d994da90"
+            }
+        ]
+    },
+    "@id": "http://example.org/recipe"
+}

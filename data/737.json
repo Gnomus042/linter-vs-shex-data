@@ -1,0 +1,46 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@value": "10.00"
+        },
+        "worstRating": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@value": "Katarzyna Guzik"
+    },
+    "commentCount": {
+        "@value": "25"
+    },
+    "dateModified": {
+        "@value": "2016-04-19"
+    },
+    "datePublished": {
+        "@value": "2016-04-19"
+    },
+    "description": {
+        "@value": "Dzisiaj mam dla Was przepis na drugi tort urodzinowy Grzegorza. Taki to ma dobrze, prawda? :) Pierwszym by\u0142 tort czekoladowy z whisky i d\u017cemem dyniowym, na kt\u00f3ry przepis znajdziecie ju\u017c na blogu ( klik klik ). Ten"
+    },
+    "image": {
+        "@value": "http://gotujebolubie.pl/img/blog/Tort_Bananowy_Przepis_1258_original.jpg"
+    },
+    "mainEntityOfPage": {
+        "@value": "http://gotujebolubie.pl/przepis/tort-kawowo-bananowy"
+    },
+    "name": {
+        "@value": "Tort kawowo bananowy"
+    },
+    "thumbnailURL": {
+        "@value": "http://gotujebolubie.pl/img/blog/Tort_Bananowy_Przepis_1258_small.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

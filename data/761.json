@@ -1,0 +1,10 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@value": "2009-10-28T15:26:41+03:00"
+    },
+    "resultPhoto": {
+        "@id": "https://citrus-site.ru/wp-content/uploads/2009/10/liq1-340x210.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

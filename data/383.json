@@ -1,0 +1,24 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "fr-CA",
+        "@value": "Null"
+    },
+    "image": {
+        "@language": "fr-CA",
+        "@value": "Null"
+    },
+    "ingredients": {
+        "@language": "fr-CA",
+        "@value": "\n                        \n\n    \n        \n                \n    \n        \n                \n\n        \n                Me connecter pour ajouter \u00e0 ma liste d'\u00e9picerie\n            \n    \n        Ajouter \u00e0 ma liste d'\u00e9picerie\n    \n\n\n\n    \n    Les ingr\u00e9dients ont \u00e9t\u00e9 ajout\u00e9s \u00e0 votre liste avec succ\u00e8s.\n    Consulter ma liste d'\u00e9picerie\n\n\n\n    require(['jquery', 'astral/amd/membership', 'initUsercookie'], function(jQuery, membership) {\n      $(document).ready(function () {\n        if(membership.isLoggedIn){\n            $('.addGrocery>a.connected').removeClass('hidden');\n        } else {\n            $('.addGrocery>a.notconnected').removeClass('hidden');\n        }\n      });\n    });\n        \n      Ingr\u00e9dients\n              \n                              \n                        1 c. \u00e0 soupe                                          (15 ml)\n                             d'huile de tournesol            \n                                        \n                        1            poireau, parties verte et blanche, hach\u00e9            \n                                        \n                        1            pomme de terre sucr\u00e9e (d'environ 2 x 5 pouces), pel\u00e9e et coup\u00e9e en d\u00e9s            \n                                        \n                        2 tasses                                          (500 ml)\n                             de bouillon de poulet r\u00e9duit en sodium            \n                                        \n                        1/2 bo\u00eete                                          (200 ml)\n                             de lait de coco l\u00e9ger            \n                                        \n                        quelques            feuilles de persil frais            \n                                        \n                                    sel et poivre, au go\u00fbt            \n                                        \n                                                \n                                        \n                                                \n                                        \n                                                \n                                        \n                                                \n                                        \n                                                \n                            "
+    },
+    "recipeInstructions": {
+        "@language": "fr-CA",
+        "@value": "\n        Pr\u00e9paration\n                    \n\t\n\t\t\n\t\t\tDans une casserole, chauffer l'huile et le poireau hach\u00e9 \u00e0 feu moyen environ 4 minutes, pour le brunir l\u00e9g\u00e8rement.\n\t\n\t\n\t\t\n\t\t\tAjouter la pomme de terre et le bouillon, et porter \u00e0 \u00e9bullition. R\u00e9duire \u00e0 feu doux, couvrir et mijoter 15 minutes ou jusqu'\u00e0 ce que les pommes de terre soient cuites. Retirer du feu.\n\t\n\t\n\t\t\n\t\t\tAjouter le lait de coco l\u00e9ger au m\u00e9lange. Transf\u00e9rer le tout au malaxeur et r\u00e9duire en pur\u00e9e pour obtenir une texture lisse.\n\t\n\t\n\t\t\n\t\t\tGarnir de persil frais et assaissonner de sel et poivre.\n\t\n\n\n                                                                                "
+    },
+    "recipeYield": {
+        "@language": "fr-CA",
+        "@value": "Portions 4"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,151 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Pillsbury Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "07/08/2019"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "08/27/2019"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "These nutty, spiced, bite-sized cookies are a sweet addition to any Christmas cookie platter. Based on the classic European holiday cookie, our version includes Pillsbury\u2122 sugar cookie dough with the addition of spices, toasted pecans, molasses and orange zest to make a treat that's simple yet special."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/717b3652-4dad-4a7c-96f6-d6c618422236.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "pfeffern\u00fcsse cookies"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Pfeffern\u00fcsse Cookies"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "30 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "5 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "0 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "0 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "0 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "0 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "0 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Cookie "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "15 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "3 g"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H30M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Dessert"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "European"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon ground allspice\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup all-purpose flour\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoons dark molasses\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon ground cardamom\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/8\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon ground black pepper\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon orange zest\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup finely chopped pecans, toasted\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    3/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup powdered sugar\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    roll (16.5 oz) Pillsbury\u2122 refrigerated sugar cookies\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:Nf525669e2114414eaf931c4295334985"
+        },
+        {
+            "@id": "_:N41fff5c81c834b0cbce60b2282bd4e3e"
+        },
+        {
+            "@id": "_:N005cfee291ac4e3187ab402744134009"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "96"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT1H45M"
+    },
+    "@id": "http://example.org/recipe"
+}

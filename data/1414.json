@@ -1,0 +1,64 @@
+{
+    "@type": "Recipe",
+    "image": [
+        {
+            "@id": "https://lifeisfullofgoodies.com/wp-content/uploads/2016/08/Lachs-Taboul%C3%A9-4.jpg"
+        },
+        {
+            "@id": "https://lifeisfullofgoodies.com/2016/08/12/lachstaboule-aus-dem-einfachsten-kochbuch-der-welt/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20205%200'%3E%3C/svg%3E"
+        }
+    ],
+    "ingredients": [
+        {
+            "@value": "4 Essl\u00f6ffel Couscous"
+        },
+        {
+            "@value": "2 Zitronen"
+        },
+        {
+            "@value": "Salz"
+        },
+        {
+            "@value": "2 Lachsfilets ohne Haut zu je ca. 200 g"
+        },
+        {
+            "@value": "Pfeffer"
+        },
+        {
+            "@value": "4 Essl\u00f6ffel Oliven\u00f6l"
+        },
+        {
+            "@value": "20 Minzbl\u00e4tter"
+        },
+        {
+            "@value": "8 Radieschen"
+        }
+    ],
+    "name": {
+        "@value": "Lachstaboul\u00e9 aus dem einfachsten Kochbuch der Welt"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Couscous, Radieschen, Lachs, Minze und Zitronensaft samt Oliven\u00f6l mischen, salzen, pfeffern."
+        },
+        {
+            "@value": "Die Minzbl\u00e4tter waschen, trocken tupfen und fein hacken (wenn man will... Wir haben sie am St\u00fcck untergemischt)."
+        },
+        {
+            "@value": "Die Lachsfilets waschen, trocken tupfen und klein w\u00fcrfeln."
+        },
+        {
+            "@value": "Das Taboul\u00e9 im K\u00fchlschrank ca. 1 Stunde quellen lassen (bis der Couscous weich ist)."
+        },
+        {
+            "@value": "Die Zitronen auspressen."
+        },
+        {
+            "@value": "Die Radieschen waschen und in d\u00fcnne Scheiben schneiden."
+        },
+        {
+            "@value": "Gek\u00fchlt servieren."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

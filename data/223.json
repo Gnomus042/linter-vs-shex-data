@@ -1,0 +1,88 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "521"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Kay Chun"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT45M"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n                Wholesome and nutty in flavor, barley makes a superb alternative to arborio rice when making risotto, since it\u2019s a grain that\u2019s naturally plump and chewy when cooked. Make sure to use pearl barley, not hulled barley, since it cooks much faster and is more tender. The best thing about this risotto is that it\u2019s baked, taking away the pressure of constant stirring at the stove. The grated Parmesan and butter stirred in at the end release the barley\u2019s starches, creating a silky, creamy texture. White button, cremini and earthy shiitakes make a tasty, accessible combination, but any combination of oyster, king trumpet and maitake mushrooms would raise the bar. This risotto is a satisfying vegetarian weeknight dinner, but could also accompany any large roast or baked fish.\n                \n\n\n              "
+    },
+    "image": {
+        "@id": "https://static01.nyt.com/images/2019/02/12/dining/kc-barley-risotto/kc-barley-risotto-articleLarge.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\n              Baked Barley Risotto With Mushrooms and Carrots\n        "
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    5\n                  \n                  \n                    garlic cloves, thinly sliced\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    10\n                  \n                  \n                    ounces pearl barley (about 1 1/2 cups)\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bd\n                  \n                  \n                    small white or yellow onion, finely chopped (about 1/2 cup)\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    pound mixed mushrooms, such as white button, cremini and shiitakes, halved if small, quartered if large (about 7 cups total)\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bc\n                  \n                  \n                    cup chopped fresh chives\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    2\n                  \n                  \n                    tablespoons unsalted butter\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    medium carrot, very thinly sliced into rounds (about 1 cup)\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    3\n                  \n                  \n                    tablespoons extra-virgin olive oil\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Kosher salt and black pepper\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    2\n                  \n                  \n                    ounces grated Parmesan (about 1/2 cup), plus more for serving\n                  \n                "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                Heat oven to 425 degrees. In a large Dutch oven or heavy pot, heat 2 tablespoons oil over medium. Add onion and garlic, and cook, stirring occasionally, until softened, about 3 minutes. Add mushrooms and remaining 1 tablespoon oil, and season with salt and pepper. Cook, stirring occasionally, until mushrooms start to soften, about 3 minutes.\n                Stir in barley, carrot and 4 1/2 cups water, and bring to a boil over high heat. Cover, transfer to the oven and bake until barley is tender and chewy and almost all of the liquid is absorbed, about 30 minutes.\n                Stir in Parmesan and the butter until slightly thickened and creamy. Season with salt and pepper.\n                Divide among shallow bowls. Sprinkle with chives and additional Parmesan, to taste.\n              "
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

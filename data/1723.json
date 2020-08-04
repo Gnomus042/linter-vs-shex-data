@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "CANDEY"
+        }
+    },
+    "image": {
+        "@id": "http://i2.chuimg.com/ec9945c0871811e6b87c0242ac110003_500w_360h.jpg?imageView2/2/w/660/interlace/1/q/90"
+    },
+    "name": {
+        "@value": "\n      \u9bbb\u9c7c\u6c64\n    "
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n                \n                  \n\n    \u9bbb\u9c7c\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u9999\u6cb9\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u767d\u80e1\u6912\u7c89\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u51b0\u7cd6\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u918b\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u8471\u59dc\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u9171\u6cb9\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u6cb9\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u76d0\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u9999\u83dc\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u6599\u9152\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u9e21\u7cbe\n\n                \n                \n                \n              "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "\n              \u8c03\u5165\u9e21\u7cbe\uff0c\u9999\u6cb9\uff0c\u9999\u83dc\u51fa\u9505\n            "
+        },
+        {
+            "@value": "\n              \u9bbb\u9c7c\u5934\u548c\u5c3e\u653e\u5165\u6cb9\u9505\u4e2d\u70b8\u81f3\u53d8\u8272\u540e\uff0c\u76db\u51fa\n            "
+        },
+        {
+            "@value": "\n              \u9505\u4e2d\u7559\u9002\u91cf\u6cb9\uff0c\u52a0\u5165\u767d\u80e1\u6912\u7c89\uff0c\u8471\u59dc\u5757\uff0c\u7206\u9999\uff0c\u52a0\u5165\u9c7c\u5934\u9c7c\u5c3e\u548c\u8db3\u91cf\u7684\u6c34\uff0c\u8f6c\u5165\u7802\u9505\uff0c\u5927\u706b\u70e7\u5f00\u540e\u8f6c\u4e2d\u706b\u709620\u5206\u949f\u5de6\u53f3\u81f3\u6c64\u51fa\u73b0\u5976\u767d\u8272\uff0c\u918b\uff0c\u76d0\uff0c\u51b0\u7cd6\uff0c\u6599\u9152\uff0c\u4e00\u70b9\u70b9\u9171\u6cb9\uff0c\u7ee7\u7eed\u709620\u5206\u949f\n            "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,16 @@
+{
+    "@type": "Recipe",
+    "ingredients": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Kamut"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

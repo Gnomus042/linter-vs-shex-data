@@ -1,0 +1,27 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Jaishree"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-11-20"
+    },
+    "image": {
+        "@id": "https://i2.wp.com/healthyvegrecipes.com/wp-content/uploads/2013/11/IMG_6725.jpg?resize=570%2C427"
+    },
+    "ingredients": {
+        "@language": "en-US",
+        "@value": "Ingredients to make Whole wheat flour carrot cake \n\n2 cups grated carrot ( orange / red carrot)\n1 cup whole wheat flour (gheu ka atta)\n1 teaspoon baking powder\n1 teaspoon cinnamon powder (dalchini powder)\n1 teaspoon vanilla extract or essence\n2 eggs\n\u00be cup any refined oil (I used rice bran oil )\n\u00bc cup chopped almonds or walnuts\n\u00be cup sugar / sugarfree natura diet sugar / demerara sugar\u00a0\n\n"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "How to make Carrot Cake with Whole Wheat Flour | Atta Cake with carrot |"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "Step By Step Directions to make Carrot cake with whole wheat flour \n\nPreheat oven at 180 degree Celsius.\nUsing hand blender beat eggs until it becomes light .\u00a0\nAdd sugar to it and mix it with blender.\n\nAdd oil\n\nMix oil with hand blender .\n\nAdd cinnamon (dalchini )powder to it .\nNow add whole wheat flour and baking powder to it .\n\nMix it with big spoon .\nNow add grated carrot to this cake batter .\n\nMix it .\nChop the almonds (you can also add cashews or walnuts).\nAdd it in cake batter and mix it .\u00a0\nAdd \u00a0vanilla essence / extract \u00a0to the batter. mix it and pour this batter in a greased baking tin .\n\nBake it for 35 minutes on 180 degree Celsius or until the needle comes out\u00a0 clean .\nLet it cool down..Cut it and serve it at teatime snacks or in lunch box of your kid\u2026:-)\ncarrot cake\n\n"
+    },
+    "@id": "http://example.org/recipe"
+}

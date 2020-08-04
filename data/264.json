@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Lesley Smith"
+    },
+    "image": {
+        "@id": "https://scottishmum.com/2014/02/simple-valentines-day-cupcakes-recipe/#photoURL#"
+    },
+    "ingredients": [
+        {
+            "@value": "4 Medium Eggs"
+        },
+        {
+            "@value": "2 teaspoons Vanilla Flavouring"
+        },
+        {
+            "@value": "8oz Caster Sugar"
+        },
+        {
+            "@value": "8oz Self Raising Flour"
+        },
+        {
+            "@value": "8oz Butter"
+        }
+    ],
+    "name": {
+        "@value": "Basic Cupcake Cake"
+    },
+    "recipeCategory": {
+        "@value": "Baking"
+    },
+    "recipeCuisine": {
+        "@value": "Cakes"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Divide into individual cake cases. You will get 12 muffin sized cakes or 24 smaller cupcakes for decorating."
+        },
+        {
+            "@value": "The final step is simply to fold in the flour until fully mixed through and you've added air with the folding."
+        },
+        {
+            "@value": "Cream the sugar and butter and set the oven to 160 degrees c."
+        },
+        {
+            "@value": "Add in the eggs and beat or mix until smooth."
+        },
+        {
+            "@value": "Bake for 15 - 20 minutes, or until a skewer tester comes out clean."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

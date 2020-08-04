@@ -1,0 +1,23 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "tr",
+        "@value": "2012-11-27"
+    },
+    "description": {
+        "@language": "tr",
+        "@value": "\nAynen etli yaprak sarmada kulland\u0131\u011f\u0131n\u0131z i\u00e7 harc\u0131n\u0131 kullanabilirsiniz.\nMalzemeler:\n\n\u2013 6-7 dolmal\u0131k biber\n\u2013 200 gram k\u0131yma\n\u2013 1 k\u00fc\u00e7\u00fck \u00e7ay barda\u011f\u0131 pirin\u00e7\n\u2013 1 tatl\u0131 ka\u015f\u0131\u011f\u0131 domates sal\u00e7as\u0131\n\u2013 1 tatl\u0131 ka\u015f\u0131\u011f\u0131 biber sal\u00e7as\u0131\n\u2013 3 yemek ka\u015f\u0131\u011f\u0131 domates rendesi\n\u2013 1 di\u015f sar\u0131msak\n\u2013 2 orta boy kuru so\u011fan\n\u2013 Tuz, karabiber, k\u0131rm\u0131z\u0131 pul biber\nSuyu i\u00e7in malzemeler:\n\u2013 1 tatl\u0131 ka\u015f\u0131\u011f\u0131 domates sal\u00e7as\u0131\n\u2013 1 tatl\u0131 ka\u015f\u0131\u011f\u0131 biber sal\u00e7as\u0131\n\u2013 Yar\u0131m \u00e7ay barda\u011f\u0131 zeytinya\u011f\u0131\n\u2013 2 su barda\u011f\u0131 kaynar su\n\nDolmal\u0131k biberlerin kapaklar\u0131n\u0131 ve i\u00e7lerindeki \u00e7ekirdekleri, biberleri fazla h\u0131rpalamadan \u00e7\u0131kar\u0131n. K\u0131rm\u0131z\u0131 biberlerle de dolma yapabilirsiniz. Haz\u0131rlad\u0131\u011f\u0131n\u0131z har\u00e7 ile biberleri doldurun. Biberlerin a\u011f\u0131zlar\u0131n\u0131 kapatmak i\u00e7in, birer par\u00e7a domates kullanabilirsiniz. Doldurdu\u011funuz biberleri, tencereye dizin. Pi\u015firirken kullanaca\u011f\u0131n\u0131z pi\u015firme suyunun malzemelerini ufak bir tencerede veya soslukta, sal\u00e7alar eriyene kadar bir ta\u015f\u0131m kaynat\u0131n. Pi\u015firme suyunu da dolmalar\u0131n \u00fczerine d\u00f6kt\u00fckten sonra, k\u0131s\u0131k ate\u015fte pi\u015fmeye b\u0131rak\u0131n. Mutlaka, s\u0131k s\u0131k suyunu kontrol edin. E\u011fer suyunu \u00e7ektiyse, tencereye kaynar su ekleyin.\n\n\t\t"
+    },
+    "image": {
+        "@id": "http://www.hafiftarif.com/wp-content/uploads/2012/11/etli_biber_dolmasi-600x401.jpg"
+    },
+    "ingredients": {
+        "@language": "tr",
+        "@value": "\n\u2013 6-7 dolmal\u0131k biber\n\u2013 200 gram k\u0131yma\n\u2013 1 k\u00fc\u00e7\u00fck \u00e7ay barda\u011f\u0131 pirin\u00e7\n\u2013 1 tatl\u0131 ka\u015f\u0131\u011f\u0131 domates sal\u00e7as\u0131\n\u2013 1 tatl\u0131 ka\u015f\u0131\u011f\u0131 biber sal\u00e7as\u0131\n\u2013 3 yemek ka\u015f\u0131\u011f\u0131 domates rendesi\n\u2013 1 di\u015f sar\u0131msak\n\u2013 2 orta boy kuru so\u011fan\n\u2013 Tuz, karabiber, k\u0131rm\u0131z\u0131 pul biber"
+    },
+    "name": {
+        "@language": "tr",
+        "@value": "Etli Biber Dolmas\u0131 tarifi"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,66 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "3"
+        },
+        "ratingValue": {
+            "@value": "5.0"
+        }
+    },
+    "image": {
+        "@id": "https://www.gustissimo.it/articoli/ricette/torte/cheesecake-alla-ricotta.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "Burro"
+        },
+        {
+            "@value": "Ricotta di latte vaccino"
+        },
+        {
+            "@value": "More"
+        },
+        {
+            "@value": "Vanillina"
+        },
+        {
+            "@value": "Miele"
+        },
+        {
+            "@value": "Mirtilli neri"
+        },
+        {
+            "@value": "Lamponi"
+        },
+        {
+            "@value": "Fragole"
+        },
+        {
+            "@value": "Biscotti secchi"
+        },
+        {
+            "@value": "Zucchero"
+        },
+        {
+            "@value": "Panna fresca"
+        },
+        {
+            "@value": "Latte"
+        },
+        {
+            "@value": "Colla di pesce"
+        }
+    ],
+    "name": {
+        "@value": "\n                        \n                Cheesecake alla ricotta    "
+    },
+    "recipeInstructions": {
+        "@value": "\n                                     \n                                        \n                                            Preparazione\n                                            Preparate per prima cosa la base. Sbriciolate i biscotti finemente, a mano o in un mixer. Fate sciogliere 120 g di burro in un pentolino. Mettete i biscotti in una ciotola e aggiungete il burro fuso e il miele, che dar\u00e0 consistenza. Mescolate vigorosamente per ottenere un composto morbido con tante piccole briciole. Imburrate una tortiera apribile e stendete il composto, livellandolo con cura e compattandolo. Fatelo cuocere in forno a 180\u00b0C per 10 minuti massimo, poi lasciate raffreddare.Passate quindi al composto con la ricotta. Mettete in acqua fredda i fogli di colla di pesce per una decina di minuti. Intanto prendete un'insalatiera capiente con i bordi alti, in cui verserete la ricotta, lo zucchero e la vanillina. Amalgamate gli ingredienti per ottenere un impasto cremoso.  Fate sciogliere i fogli di colla di pesce, ben strizzati, in un tegame con un goccio di latte. Fate scaldare a fiamma bassa, continuando a girare con un mestolo di legno; quando la colla di pesce si sar\u00e0 sciolta, lasciate intiepidire, dopodich\u00e9 unitelo al composto di ricotta e mescolate con cura. Dovete ottenere una crema ancora abbastanza liquida.Montate la panna a mano o con le fruste elettriche, quindi aggiungetela al composto e amalgamate. Stendete la crema ottenuta sulla base di biscotto aiutandovi con una spatola, pareggiate la superficie e mettere la tortiera in frigo per 4 ore.Decorate con i frutti di bosco lavati e asciugati con cura.\n                                        \n                                     \n                                        \n                                            Accorgimenti\n                                            Fate attenzione che sia il composto con la ricotta, una volta unita la gelatina, sia la panna siano fredde prima di mescolarle tra loro. Mettetele per una decina di minuti in frigorifero se necessario.\n                                        \n                                     \n                                        \n                                            Idee e varianti\n                                            Per guarnire la torta potete anche utilizzare degli sciroppi di frutta gi\u00e0 pronti, oppure preparare a mano, in pochissimi minuti, una semplicissima salsa di lamponi: lavate e asciugate con molta attenzione e delicatezza i lamponi, metteteli in una ciotolina, unite 3 cucchiai di zucchero a velo e mescolate.\n                                        \n                                    \n                                    \n\n                                                                    "
+    },
+    "recipeYield": {
+        "@value": "1 torta"
+    },
+    "@id": "http://example.org/recipe"
+}

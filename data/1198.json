@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-US",
+        "@value": "Chocolate Wafer Icebox Cake is a delicious and simple no-bake dessert. It\u2019s always a crowd-pleaser!\n"
+    },
+    "image": {
+        "@id": "https://bakeorbreak.com/wp-content/uploads/2007/05/chociceboxA1k2-200x200.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 & 1/2 packages Nabisco chocolate wafer cookies"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 cups heavy cream"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tablespoons sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon plus 1 teaspoon vanilla extract"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Chocolate Wafer Icebox Cake"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT25M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\nCombine the cream, sugar, and vanilla in a large bowl. Whip until soft peaks form. Do not overmix.\nPlace a cookie in the center of a plate that is at least 9 inches in diameter. Arrange 6 cookies around the center one, forming a circle. Spread about 3/4 cup of the cream mixture onto the cookies.\nRepeat layers, ending with the whipped cream. Garnish if desired with chocolate shavings, nuts, cocoa, etc. Refrigerate at least 5 hours or overnight.\n\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "10 to 12 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

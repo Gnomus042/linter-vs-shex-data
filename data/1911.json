@@ -1,0 +1,34 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "sv-se",
+            "@value": "2"
+        },
+        "reviewCount": {
+            "@language": "sv-se",
+            "@value": "1"
+        }
+    },
+    "cookTime": {
+        "@language": "sv-se",
+        "@value": "PT20M"
+    },
+    "description": {
+        "@language": "sv-se",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://www.coop.se/recept/rostad-surdegsmacka-med-fikon-och-chevre///res.cloudinary.com/coopsverige/image/upload/w_800,h_800/v1472728780/160537.jpg"
+    },
+    "name": {
+        "@language": "sv-se",
+        "@value": "Rostad surdegsmacka med fikon och ch\u00e8vre"
+    },
+    "recipeInstructions": {
+        "@language": "sv-se",
+        "@value": "\n        \n                    Pensla br\u00f6dskivorna med olja p\u00e5 b\u00e5da sidor och dela ev p\u00e5 mitten. Rosta gyllene i \u00f6vre delen av ugnen, ca 5 min.\n                    L\u00e4gg delade fikon och bitar av ch\u00e8vre p\u00e5 br\u00f6dskivorna. Ringla \u00f6ver honung och str\u00f6 p\u00e5 pinjen\u00f6tter. Rosta ytterligare n\u00e5gra minuter i ugnen. Osten ska sm\u00e4lta l\u00e4tt. Smula \u00f6ver flingsalt, dra ett varv med pepparkvarnen och garnera med timjan.\n        \n    "
+    },
+    "@id": "http://example.org/recipe"
+}

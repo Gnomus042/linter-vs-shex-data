@@ -1,0 +1,52 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://devbakespace.bakespace.com/recipes/detail/Scalloped-Corn-/28532//members/profile/ann_marie_pa/5218/"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "Null"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "from a Hyvee Cookbook \n"
+    },
+    "image": {
+        "@id": "http://devbakespace.bakespace.com/recipes/detail/Scalloped-Corn-/28532//images/large/default_recipe.gif"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Scalloped Corn "
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "8 ozs. sour cream "
+        },
+        {
+            "@language": "en",
+            "@value": "1 can cream style corn \n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 box Jiffy corn bread mix \n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 egg \n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 stick margarine \n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 can whole kernel corn, undrained \n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

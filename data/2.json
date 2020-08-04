@@ -1,0 +1,12 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en",
+        "@value": "Discount Cute Carton Bear Baby Boy Girl clothes set sweatshirt T-shirt Pants Legging Outfit for Newborn Infant Kid Clothing winter Autumn Price US US $3.00"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://ae01.alicdn.com/kf/HLB1d3JiatfvK1RjSszhq6AcGFXa1/Cute-Carton-Bear-Baby-Boy-Girl-clothes-set-sweatshirt-T-shirt-Pants-Legging-Outfit-for-Newborn.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

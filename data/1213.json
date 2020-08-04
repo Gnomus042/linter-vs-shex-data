@@ -1,0 +1,49 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "en-US",
+            "@value": "528"
+        },
+        "url": {
+            "@language": "en-US",
+            "@value": "https://www.cscassets.com/recipes/large_cknew/large_60108.jpg"
+        },
+        "width": {
+            "@language": "en-US",
+            "@value": "610"
+        }
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Chocolate Marshmallow Tarts"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT20M"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "1 package (10 ounces) Pepperidge Farm\u00ae Puff Pastry Shells"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1.5 cups marshmallow cr\u00e8me"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1.5 cups chocolate pudding"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\tPrepare the pastry shells according to the package directions.Spoon 1/4 cup pudding into each pastry shell.\u00a0 Spoon the marshmallow creme into a resealable plastic bag.\u00a0 Cut off one corner of the bag.\u00a0 Pipe 1/4 cup marshmallow creme onto each pastry shell to cover the pudding.Heat the broiler.\u00a0 Place the filled pastries onto a baking sheet.\u00a0 Broil 4 inches from the heat for 1 minute or until the marshmallow creme is lightly browned.\t\t\t\t\t\t\t\t\tTips\n\n\t\t\t\t\tTip: You can substitute 1 1/2 cups miniature marshmallows for the marshmallow creme.\u00a0 In Step 2, place 1/4 cup marshmallows into each pastry shell.\u00a0 Proceed as directed above.\n\t\t\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

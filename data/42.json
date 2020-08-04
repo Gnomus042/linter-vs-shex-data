@@ -1,0 +1,82 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "cs-CZ",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "cs-CZ",
+            "@value": "267"
+        }
+    },
+    "author": {
+        "@language": "cs-CZ",
+        "@value": "..."
+    },
+    "description": {
+        "@language": "cs-CZ",
+        "@value": "treska na slanin\u011b ii, hlavn\u00ed j\u00eddla, ryby a vodn\u00ed potvory"
+    },
+    "image": {
+        "@id": "http://kucharka.cbmonitor.cz/recepty/treska-na-slanine-ii/3578//recepty/none.png"
+    },
+    "ingredients": [
+        {
+            "@language": "cs-CZ",
+            "@value": "s\u016fl "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "olej "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "1 cibule "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "4 porce tresky "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "hladk\u00e1 mouka "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "40 g slaniny "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "bobkov\u00fd list "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "nov\u00e9 ko\u0159en\u00ed "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "pep\u0159 "
+        }
+    ],
+    "name": {
+        "@language": "cs-CZ",
+        "@value": "Treska na slanin\u011b II"
+    },
+    "recipeCategory": [
+        {
+            "@language": "cs-CZ",
+            "@value": "ryby a vodn\u00ed potvory"
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "hlavn\u00ed j\u00eddla"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "cs-CZ",
+        "@value": "Recept treska na slanin\u011b p\u0159iprav\u00edme takto: Slaninu nakr\u00e1j\u00edme na kosti\u010dky, na oleji roz\u0161kva\u0159\u00edme, p\u0159id\u00e1me nakr\u00e1jenou cibuli a zp\u011bn\u00edme. Tresku osol\u00edme, obal\u00edme v mouce, p\u0159id\u00e1me ke sm\u011bsi a ope\u010deme po obou stran\u00e1ch. Pak podlijeme trochou vody, p\u0159id\u00e1me ko\u0159en\u00ed a pe\u010deme pod pokli\u010dkou. P\u0159ed koncem odkryjeme, aby se p\u0159ebyte\u010dn\u00e1 voda odpa\u0159ila.Dal\u0161\u00ed recepty v kategorii Hlavn\u00ed j\u00eddla \u00a0 Dal\u0161\u00ed recepty v kategorii Ryby a vodn\u00ed potvory "
+    },
+    "@id": "http://example.org/recipe"
+}

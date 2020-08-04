@@ -1,0 +1,134 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Kathy Schowe"
+        }
+    },
+    "image": {
+        "@id": "https://kansasmobilesolutions.loginportal.site/uploads/1/2/7/0/127022336/kkr-hatch-green-chile-cheeseburger.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Hatch Green Chile Cheeseburger"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "1 tablespoon yellow mustard"
+        },
+        {
+            "@language": "en",
+            "@value": "2 teaspoons kosher salt"
+        },
+        {
+            "@language": "en",
+            "@value": "1 teaspoon garlic powder"
+        },
+        {
+            "@language": "en",
+            "@value": "20 ounce can Hatch green chiles or 20 ounces of fresh roasted chiles"
+        },
+        {
+            "@language": "en",
+            "@value": "2 teaspoons freshly ground pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "3 tablespoons\u00a0butter"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd pound ground pork sausage"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd \u00a0red onion thinly sliced"
+        },
+        {
+            "@language": "en",
+            "@value": "1 jalapeno sliced into rings"
+        },
+        {
+            "@language": "en",
+            "@value": "2 pounds ground beef 80/20 blend"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bc\u00a0\u00a0cup\u00a0sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1\u00a0clove garlic crushed"
+        },
+        {
+            "@language": "en",
+            "@value": "salt & pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup red wine vinegar"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd yellow onion chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "1 teaspoon\u00a0worchestershire"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Add the garlic to the onions and cook for 1 minute."
+        },
+        {
+            "@language": "en",
+            "@value": "Sprinkle with sugar."
+        },
+        {
+            "@language": "en",
+            "@value": "Blend the meats, mustard, worchestershire, in a bowl with your hands, turning the meat over as you sprinkle the salt, pepper, and garlic powder. Don't over mix"
+        },
+        {
+            "@language": "en",
+            "@value": "Add in the canned green chiles and stir."
+        },
+        {
+            "@language": "en",
+            "@value": "Form into \u2153 pound patties and pat flat."
+        },
+        {
+            "@language": "en",
+            "@value": "Place the onions in a small bowl."
+        },
+        {
+            "@language": "en",
+            "@value": "Simmer for 15-20 minutes and set aside, but keep warm."
+        },
+        {
+            "@language": "en",
+            "@value": "Assemble burger with Hatch Green Chile Topping, pickled onions, and desired other toppings."
+        },
+        {
+            "@language": "en",
+            "@value": "Chill in the refrigerator for at least an hour before grilling or searing in pan."
+        },
+        {
+            "@language": "en",
+            "@value": "Melt the butter in a small pot and add the onion. Season with salt & pepper and let them cook until softened.."
+        },
+        {
+            "@language": "en",
+            "@value": "Cook to desired doneness and melt cheese on top."
+        },
+        {
+            "@language": "en",
+            "@value": "Cover with the vinegar and give a quick stir."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

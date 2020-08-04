@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "es-ES",
+        "@value": "Marta"
+    },
+    "description": {
+        "@language": "es-ES",
+        "@value": "Una cena ligera muy sabrosa."
+    },
+    "image": {
+        "@id": "https://cocinayrecetas-static.hola.com/cocinandoconmama/files/2013/10/DSCN3472.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "es-ES",
+            "@value": "Pimienta negra."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Aceite de oliva."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "8 pimientos italianos."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Sal."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "6 huevos."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "200 grms. de merluza."
+        }
+    ],
+    "name": {
+        "@language": "es-ES",
+        "@value": "Pimientos verdes fritos"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "es-ES",
+            "@value": "pocas"
+        },
+        "fatContent": {
+            "@language": "es-ES",
+            "@value": "no"
+        },
+        "fiberContent": {
+            "@language": "es-ES",
+            "@value": "s\u00ed"
+        },
+        "proteinContent": {
+            "@language": "es-ES",
+            "@value": "s\u00ed"
+        },
+        "servingSize": {
+            "@language": "es-ES",
+            "@value": "4"
+        }
+    },
+    "recipeCategory": {
+        "@language": "es-ES",
+        "@value": "Cena"
+    },
+    "recipeCuisine": {
+        "@language": "es-ES",
+        "@value": "Espa\u00f1ola"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "es-ES",
+            "@value": "Cocemos la merluza unos minutos, lo necesario para poder desmenuzarla o aprovechar restos de merluza en salsa."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Lavamos los pimientos y los secamos con papel de cocina."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Abrimos los pimientos por la parte del tallo y los rellenamos con el huevo."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Servimos reci\u00e9n hechos."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Batimos los huevos, salpimentamos y mezclamos con la merluza."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Ponemos un poco de aceite en una sart\u00e9n y cocinamos primero a fuego fuerte para que se hagan por fuera y luego a fuego suave hasta que se cuaje el huevo y se fr\u00eda bien el pimiento."
+        }
+    ],
+    "recipeYield": {
+        "@language": "es-ES",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,56 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Ruxandra Micu"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Make this chocolate blackberry smoothie for breakfast or simply as a sweet, healthy snack for both adults and kids."
+    },
+    "image": {
+        "@id": "https://gourmandelle.com/wp-content/uploads/2013/07/Smoothie-de-ciocolata-cu-banane-si-mure-Chocolate-Banana-Blackberry-Smoothie-Raw.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 ripe banana, sliced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tbsp carob powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "a handful of frozen blackberries"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 glass of water"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Chocolate Blackberry Smoothie"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "Easy peasy \u2013 throw them all in the blender and blend well. Serve right away!"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "1 serving"
+    },
+    "@id": "http://example.org/recipe"
+}

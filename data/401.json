@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "schema.orgPerson"
+    },
+    "description": {
+        "@language": "it",
+        "@value": "   (adsbygoogle=window.adsbygoogle||[]).push({});Ecco la ricetta dei\u00a0tallarines\u00a0verdes delle tate di un mio amico\u2026 diciamo che essendo da me rifatta non \u00e8 proprio uguale all\u2019originale ma al momento non ho possibilit\u00e0 di rifarla a modino!! Per realizzare questa ricetta \u00e8 infatti necessario il peperoncino Aji Amarillo, un peperoncino mediamente piccante di colore giallo\u00a0(amarillo significa appunto\u00a0giallo in spagnolo)\u00a0che diventa arancione quando \u00e8 maturo.\u00a0Tale\u00a0peperoncino, che raggiunge i 6-8 cm di lunghezza, ha un aroma particolarmente fruttato e non troppo piccante con un contenuto medio di capsaicina (il composto chimico responsabile della \u201cpiccantezza\u201d).\u00a0Il peperoncino in questione mi \u00e8 stato regalato dal mio amico Daniel e mia mamma ne ha subito approfittato per piantarne i semi con la scusa che, oltretutto, ha un fiore straordinariamente bello screziato di verde! Quindi, se mai il seme dar\u00e0 i suoi frutti, rifar\u00f2 la ricetta a modo\u2026 con il peperoncino ben frullato, con una minore quantit\u00e0 di mozzarella e una pasta maggiormente condita! ;-)Ingredienti per 4 persone:\u2013 500 gr. di taglierini o tagliatelle all\u2019uovo (vanno bene anche gli spaghetti)\n\u2013 300 gr di spinaci o spinacini\n\u2013 1 mozzarella\n\u2013 200 ml di latte\n\u2013 1 pacchettino di crackers\n\u2013 1 peperoncino aji amarillo\n\u2013 sale\n\u2013 un po\u2019 di acetoPreparazione: var ai_block_div=document.getElementsByClassName('ai-viewports');ai_insert_code(ai_block_div[ai_block_div.length-1]); Ecco il nostro aji amarillo (fate finta che non sia un po\u2019 raggrinzito da una settimana di attesa!)Mettere gli spinaci a bagno con acqua e un po\u2019 di aceto per far scaricare la terraPrendete anche il latte e una mozzarella (io avevo le mozzarelle giganti di Bufala che aveva portato mia mamma da Napoli e ne ho usata 1/4)   (adsbygoogle=window.adsbygoogle||[]).push({});Nel frattempo mettete l\u2019acqua per la pasta e, quando bolle, mettevi a bollire il peperoncino peruvianoTagliate la mozzarella a pezzettiniPreparate i crackersFrullate la mozzarella con il latte quindi aggiungete i crackersSciacquare bene gli spinaci quindi farli sgocciolareQuindi metterli nel mixer con la crema di latte, mozzarella e crackersFrullare il tutto per avere una salsa omogeneaQuando il peperoncino \u00e8 morbido mettetelo su un tagliere a raffreddareSpellatelo e apritelo per togliere i semi (se lo fate con i guanti \u00e8 meglio cos\u00ec non rischiate di irritare occhi o altre parti del corpo)Sfilettare il peperoncino a aggiungerlo alla salsa verde nel mixerFrullate nuovamente in modo da ottenere la vostra salsa verde piccante! Frullatela bene.. non fate come me\u2026 il peperoncino non si deve vedere!!!Cuocete i taglierini in abbondante acqua salata (quella in cui avete bollito il peperoncino va benissimo)Scolateli e mescolateli alla salsa verde piccante (se fosse troppo densa, usate un po\u2019 di acqua di cottura della pasta per scioglierla)Impiattare e servire!Buon appetito!Mia madre ha gradito molto la ricetta! Facebook Twitter Pinterest WhatsApp Telegram Stampa EmailRicette similariRicetta pollo alle mandorle con salsa di soiaRicetta Insalata di bulghur con seppioline, piselli e verdure al vaporeRicetta Tagliolini alla carbonara di tartufoRicetta Ravioli di carta di riso al vapore ripieni di carne macinata e cavolo cineseRicetta Tortiglioni al forno con salsiccia e tuma del Trifulau OccelliRicetta Penne con funghi porcini e tartufo"
+    },
+    "image": {
+        "@id": "https://www.ideericette.it/wp-content/uploads/2012/04/Primo-piano-tagliolini-con-salsa-verde-picante-peruviana-450x299.jpg"
+    },
+    "name": [
+        {
+            "@language": "it",
+            "@value": "Dany"
+        },
+        {
+            "@language": "it",
+            "@value": "Ricetta Taglierini verdi peruviani con spinaci e aji amarillo della Edith e della Doris"
+        }
+    ],
+    "recipeCategory": {
+        "@language": "it",
+        "@value": "Ricette Primi VariSapori dal mondo"
+    },
+    "recipeIngredient": {
+        "@language": "it",
+        "@value": "Tag: crackers, latte, mozzarella, peperoncino aji amarillo, ricetta peruviana, ricette di cucina con foto passo passo, salsa verde peruviana, spinaci, spinacino, tagliatelle, taglierini, tagliolini"
+    },
+    "url": {
+        "title": {
+            "@language": "it",
+            "@value": "Ricetta Taglierini verdi peruviani con spinaci e aji amarillo della Edith e della Doris | IdeeRicette"
+        },
+        "item": {
+            "@id": "_:N9a8d3b231b7647b49802fe8c56de4ed0"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

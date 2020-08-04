@@ -1,0 +1,149 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4.5"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Betty Crocker Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "01/01/2004"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "06/25/2015"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "A Bombayite\u2019s version of bananas Foster, this recipe stirs in highly aromatic cardamom for that quintessential flavor associated with many an Indian dessert."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/a081b338-6a06-420e-8767-7c05453c6cb2.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "red bananas with cardamom (elaichi k\u00e9la)"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Red Bananas with Cardamom (Elaichi K\u00e9la)"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "585  "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "82  g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "80  mg"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "2  g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "6  g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "15  g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Serving "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "120  mg"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H20M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Dessert"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Indian"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoons lime juice, (1 medium lime)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    quart vanilla ice cream\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup unsalted butter\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon cardamom seeds, (removed from the pods), ground\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup jaggery, chopped or 1/2 cup packed brown sugar\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    4\n                \n            \n            \n                \n                    \n                        \n                    \n                    small red bananas\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N7423a6f7aefc4613a11567cd002f1ce4"
+        },
+        {
+            "@id": "_:Naf04bc56a08842299671de9dc2d22913"
+        },
+        {
+            "@id": "_:Ne093d578f4694900bc470f4a4db9e213"
+        },
+        {
+            "@id": "_:N7ce533cbfe4945fcbcbb15c1b7365fba"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT0H25M"
+    },
+    "@id": "http://example.org/recipe"
+}

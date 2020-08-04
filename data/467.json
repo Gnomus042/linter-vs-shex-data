@@ -1,0 +1,69 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.fabulouslittlenibbles.com/wp-content/uploads/2017/08/plumpie.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Plum pie"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "pie dough"
+        },
+        {
+            "@language": "en-US",
+            "@value": "demerara sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "cream"
+        },
+        {
+            "@language": "en-US",
+            "@value": "lemon zest"
+        },
+        {
+            "@language": "en-US",
+            "@value": "flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "egg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "plums"
+        },
+        {
+            "@language": "en-US",
+            "@value": "hazelnuts"
+        },
+        {
+            "@language": "en-US",
+            "@value": "coriander"
+        },
+        {
+            "@language": "en-US",
+            "@value": "cinnammon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "bitter almon extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "cardamom"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

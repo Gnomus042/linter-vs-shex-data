@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Przez proste gotowanie"
+    },
+    "cookTime": {
+        "@value": "50 min"
+    },
+    "datePublished": {
+        "@value": "2018-02-18 10:55:34"
+    },
+    "description": {
+        "@value": "Hoy vamos a preparar algo un poco distinto, se trata de un postre, una torta, pero no una cualquiera.\nLa receta de hoy se trata de una deliciosa tarta de golosinas que seguramente ser\u00e1 una muy sabrosa para aquellos a los que les guste el chocolate.\nPara algunos que no sean muy golosos tal vez les termine resultando \"empalagosa\", pero a los ni\u00f1os y aquellos que disfrutamos de todo el sabor del chocolate quedaremos encantados con ella."
+    },
+    "image": {
+        "@id": "https://recetasdecocinafaciles.net/wp-content/uploads/2018/02/torta-chocolate-golosina.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "S\u00f3l: 1 cucharadita."
+        },
+        {
+            "@value": "Manteca: 1/4 Puchar."
+        },
+        {
+            "@value": "Jaja: 4 grandes."
+        },
+        {
+            "@value": "Polvo de hornear: 1 cucharadita."
+        },
+        {
+            "@value": "Escencia o extracto de vainilla: 1 cucharadita."
+        },
+        {
+            "@value": "Manteca: 1 Puchar."
+        },
+        {
+            "@value": "Cukier: 1 Puchar"
+        },
+        {
+            "@value": "Cukier puder: 2 kubki."
+        },
+        {
+            "@value": "Harina com\u00fan o harina todo uso: 1 Puchar."
+        },
+        {
+            "@value": "Cacao en polvo: 1/4 Puchar."
+        },
+        {
+            "@value": "Chocolates Snickers: 3 barras (z 58,7 gram\u00f3w)."
+        },
+        {
+            "@value": "Cacao en polvo: 2 \u0142y\u017cki."
+        },
+        {
+            "@value": "Suero de leche: 3 \u0142y\u017cki."
+        }
+    ],
+    "name": {
+        "@value": "Torta chocolate golosinas"
+    },
+    "prepTime": {
+        "@value": "30 min"
+    },
+    "recipeInstructions": {
+        "@value": "Antes de comenzar iremos prendiendo el horno para calentarlo a m\u00e1s de 170 stopni. Tomaremos un recipiente de unos 23 cm o similar que ser\u00e1 en el que haremos la cocci\u00f3n por lo que debe ser de aluminio y resistente.En un recipiente grande colocaremos una taza de manteca y la taza de az\u00facar. Batiremos eso con la batidora el\u00e9ctrica a velocidad media hasta lograr una mezcla esponjosa. Luego iremos agregando los 4 huevos de a uno, batiendo cada vez y por \u00faltimo agregaremos una cucharadita de extracto o escencia de vainilla.En otro recipiente m\u00e1s peque\u00f1o colocaremos la taza de harina com\u00fan, el cuarto de taza de cacao en polvo, una cucharadita de sal y 1 \u0142y\u017ceczka proszku do pieczenia. Mezclamos un poco para combinar bien todos estos ingredientes.Una vez hecho el paso anterior lo iremos vertiendo en el anterior recipiente que ten\u00eda los huevos, la manteca y dem\u00e1s. A medida que vamos haciendo esto iremos batiendo lentamente. Una vez todo este contenido traspasado a este recipiente grande mezclaremos y batiremos para lograr una mejor consistencia.Verteremos el resultado en el recipiente de aluminio que ir\u00e1 al horno.Ahora lo dejaremos en el horno de 20 do 25 minutos y controlaremos.Wskaz\u00f3wka: Para saber si est\u00e1 listo debemos insertar un utencillo en el centro (un cuchillo por ejemplo) y este debe salir limpio.Ahora nos ocuparemos del chocolate. Pondremos una cacerola no muy grande al fuego medio o bajo. Ah\u00ed colocaremos 1/4 de taza de manteca para derretirla.A\u00f1adiremos entonces 2 \u0142y\u017cki kakao w proszku, 1 Fili\u017canka cukru pudru, 3 cucharadas de suero de leche (esto no suele ser f\u00e1cil de conseguir en algunos pa\u00edses, en un pr\u00f3ximo art\u00edculo estaremos compartiendo alternativas a este ingrediente).Adem\u00e1s tiraremos las 3 barras de Snickers (puede reemplazarse con otra golosina de chocolate en barra, aunque aconsejamos esa marca) cortandola en peque\u00f1os trozos y tirandola dentro de la cacerola para dejar que se derrita.Por \u00faltimo a\u00f1adir 1 taza m\u00e1s de az\u00facar impalpable y revolver. La cantidad de toda esta mezcla de chocolate ser\u00e1 de aproximadamente una taza.Colocaremos inmediatamente este ba\u00f1o de chocolate sobre la torta reci\u00e9n sacada del horno, gor\u0105co. Es importante dejar para el final de la cocci\u00f3n de la torta la preparaci\u00f3n de este ba\u00f1o de chocolate para poder verterlo f\u00e1cilmente con una cuchara a\u00fan caliente.Una vez que se enfr\u00ede podremos cortarla en porciones cuadradas o como usted desee. Tambi\u00e9n podemos a\u00f1adir crema batida para complementar el resultado y dar una mejor presentaci\u00f3n."
+    },
+    "recipeYield": {
+        "@value": "8"
+    },
+    "totalTime": {
+        "@value": "1 HR 20 min"
+    },
+    "@id": "http://example.org/recipe"
+}

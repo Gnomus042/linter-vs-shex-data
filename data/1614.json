@@ -1,0 +1,92 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "22"
+        },
+        "ratingValue": {
+            "@value": "3.6"
+        }
+    },
+    "author": {
+        "@value": "365 Days of  Slow Cooking"
+    },
+    "image": {
+        "@id": "https://under500calories.com/recipe/cb003-slow-cooker-spaghetti-sauce-with-fresh-tomatoes//photos/1000x800/57911.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1 tsp dried basil "
+        },
+        {
+            "@value": "  lean ground beef Browned, if desired"
+        },
+        {
+            "@value": "  salt "
+        },
+        {
+            "@value": "1 tsp sugar "
+        },
+        {
+            "@value": "1/4 cup tomato paste "
+        },
+        {
+            "@value": "1 tsp salt "
+        },
+        {
+            "@value": "1 tsp dried oregano "
+        },
+        {
+            "@value": "4  tomatoes large ripe, diced"
+        },
+        {
+            "@value": "1 tbsp minced garlic packed"
+        },
+        {
+            "@value": "  pepper "
+        }
+    ],
+    "name": {
+        "@value": "Slow Cooker Spaghetti Sauce with Fresh Tomatoes"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "50"
+        },
+        "carbohydrateContent": {
+            "@value": "12g"
+        },
+        "cholesterolContent": {
+            "@value": "0mg"
+        },
+        "fatContent": {
+            "@value": "0g"
+        },
+        "fiberContent": {
+            "@value": "3g"
+        },
+        "proteinContent": {
+            "@value": "2g"
+        },
+        "saturatedFatContent": {
+            "@value": "0g"
+        },
+        "sodiumContent": {
+            "@value": "910mg"
+        },
+        "sugarContent": {
+            "@value": "7g"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@value": "Main Dishes"
+        },
+        {
+            "@value": "Condiments And Sauces"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

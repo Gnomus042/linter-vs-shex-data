@@ -1,0 +1,49 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingValue": {
+            "@value": "0.00"
+        },
+        "reviewCount": {
+            "@value": "1"
+        },
+        "worstRating": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "maryjosh"
+        }
+    },
+    "cookTime": {
+        "@value": "P0Y0M0DT0H20M0S"
+    },
+    "datePublished": {
+        "@value": "12/29/2016 "
+    },
+    "description": {
+        "@value": "Sweet Corn and Chicken Enchiladas"
+    },
+    "image": {
+        "@id": "https://storage.googleapis.com/recipesmedia/thumb/sweet-corn-and-chicken-enchiladas-r1.jpg"
+    },
+    "ingredients": {
+        "@value": "\n                        \n                            \n                                2 cups cooked and shredded chicken1 bag (11.8 oz) Green Giant\u2122 Seasoned Steamers\u2122 frozen honey roasted sweet corn2 cups shredded Mexican blend cheese2 cans (10 oz) green enchilada sauce1 package (6-inch) soft flour tortillas(Optional) salsa, sour cream, and guacamole for topping\n                            \n                        \n                    "
+    },
+    "name": {
+        "@value": "Sweet Corn and Chicken Enchiladas"
+    },
+    "prepTime": {
+        "@value": "P0Y0M0DT0H15M0S"
+    },
+    "recipeInstructions": {
+        "@value": "\n                \n                    \n                        Preheat the oven to 350 \u00b0. Spray a 13x9-inch baking dish with cooking spray.Cook corn as directed on the bag.In a medium bowl, add the chicken, corn, 1 cup of the cheese, and \u00bd cup of the enchilada sauce. Mix together well.Spoon about \u00bd cup of the mixture down the center of a tortilla. Roll it up and place seam side down in the baking dish. Repeat with the remaining tortillas.Pour the remaining enchiladas sauce on top of the tortillas. Sprinkle the remaining 1 cup of cheese on top.Bake for 15-20 minutes or until cheese has melted and enchiladas are hot.Top with salsa, sour cream, and guacamole for serving.\n                    \n                \n            "
+    },
+    "@id": "http://example.org/recipe"
+}

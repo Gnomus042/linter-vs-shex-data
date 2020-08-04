@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "es",
+        "@value": "dixie"
+    },
+    "cookingMethod": {
+        "@language": "es",
+        "@value": "fresco"
+    },
+    "datePublished": {
+        "@language": "es",
+        "@value": "2011-08-06T15:45:12"
+    },
+    "description": {
+        "@language": "es",
+        "@value": "Esta receta la encontr\u00e9 el otro d\u00eda en el Supercor cuando iba a comprar una sand\u00eda. El gazpacho nos encanta en casa, as\u00ed que decid\u00ed probarla y la verdad es que est\u00e1 muy bueno.\nSi te molestan las pepitas del tomate en el gazpacho puedes pasarlo por el chino."
+    },
+    "image": {
+        "@id": "https://www.kukers.com/receta/291/gazpacho-de-sandia//files/r/p/c/9/9/1/9e7f448d7488ff797401535c0ae301d7.1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "es",
+            "@value": "cebolla"
+        },
+        {
+            "@language": "es",
+            "@value": "ajo"
+        },
+        {
+            "@language": "es",
+            "@value": "aceite de oliva, vinagre y sal"
+        },
+        {
+            "@language": "es",
+            "@value": "sand\u00eda"
+        },
+        {
+            "@language": "es",
+            "@value": "pimiento verde"
+        },
+        {
+            "@language": "es",
+            "@value": "tomate en rama"
+        }
+    ],
+    "interactionCount": [
+        {
+            "@language": "es",
+            "@value": "UserPageVisits:2721"
+        },
+        {
+            "@language": "es",
+            "@value": "UserComments:1"
+        }
+    ],
+    "name": {
+        "@language": "es",
+        "@value": "Gazpacho de sandia"
+    },
+    "recipeCategory": {
+        "@language": "es",
+        "@value": "ensalada"
+    },
+    "recipeCuisine": {
+        "@language": "es",
+        "@value": "mediterr\u00e1nea"
+    },
+    "recipeInstructions": {
+        "@language": "es",
+        "@value": "Se comienza lavando bien los tomates la cebolla y el pimiento. Se corta la cebolla el pimiento y el tomate en varios trozos y se ponen en un bol. Se pela el diente de ajo y se echa tambi\u00e9n al bol. Se bate con la batidora hasta que quede todo bien mezclado.\nSe corta la sand\u00eda en varios trozos y se le quitan las pepitas que se pueda, sobre todo si son de las de pepita negra. Se echan los trozos de sand\u00eda al bol y se vuelve a utilizar la batidora hasta que quede todo bien mezclado y fino.\nSe a\u00f1ade un chorrito de aceite de oliva, un chorrito de vinagre y media cucharilla peque\u00f1a de sal. Se vuelve a batir durante uno o dos minutos para que mezcle bien. Se comprueba si ha quedado al gusto de aceite, vinagre y sal y se rectifica si es necesario.\nSe mete al frigor\u00edfico para que se enfr\u00ede y tomarlo bien fresquito."
+    },
+    "recipeYield": {
+        "@language": "es",
+        "@value": "4"
+    },
+    "totaltime": {
+        "@language": "es",
+        "@value": "PT15M"
+    },
+    "@id": "http://example.org/recipe"
+}

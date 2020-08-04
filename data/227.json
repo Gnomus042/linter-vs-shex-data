@@ -1,0 +1,68 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "5.0"
+        },
+        "reviewCount": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@value": "Ing. Libor Javro"
+    },
+    "description": {
+        "@value": "Toto smoothie s goji obsahuje vl\u00e1kninu a ve\u013ek\u00e9 mno\u017estvo nestr\u00e1vite\u013en\u00fdch l\u00e1tok, ktor\u00e9 napom\u00e1haj\u00fa o\u010diste \u010dreva\u2026"
+    },
+    "image": [
+        {
+            "@id": "https://fitlavia.sk/wp-content/uploads/2019/01/Neodolatelne-jablkove-smoothie-s-goji-1024x768-150x150.jpg"
+        },
+        {
+            "@id": "https://fitlavia.sk/jablkove-smoothie-s-goji/data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%20150%22%3E%3C/svg%3E"
+        }
+    ],
+    "keywords": {
+        "@value": "Neodolate\u013en\u00e9 jablkov\u00e9 smoothie s goji od Ing. Libora Javra"
+    },
+    "name": {
+        "@value": "Jablkov\u00e9 smoothie s goji"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "200 calories"
+        },
+        "fatContent": {
+            "@value": "20 grams fat"
+        }
+    },
+    "recipeCategory": {
+        "@value": "Fit recepty"
+    },
+    "recipeCuisine": {
+        "@value": "European"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "pr\u00edrodn\u00e1 voda."
+        },
+        {
+            "@value": "1 l\u00edstok m\u00e4ty,"
+        },
+        {
+            "@value": "1 cel\u00e9 jablko,"
+        },
+        {
+            "@value": "100 ml \u0161\u0165avy z goji (\u0161\u0165ava nesmie by\u0165 sceden\u00e1, mus\u00ed obsahova\u0165 \u0161upky a jadierka),"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "Postup pr\u00edpravyJablko prekrojte na polovicu, o\u010distite ho od jadierok a stonky. Jablko nakr\u00e1jajte na men\u0161ie k\u00fasky a vlo\u017ete do mix\u00e9ra spolu s l\u00edstkom m\u00e4ty.Pridajte \u0161\u0165avu z goji a vodu pod\u013ea potreby.Najemno mixujte."
+    },
+    "recipeYield": {
+        "@value": "1"
+    },
+    "@id": "http://example.org/recipe"
+}

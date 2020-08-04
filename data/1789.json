@@ -1,0 +1,94 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Joan Donogh"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Banana bread sweetened with honey."
+    },
+    "image": {
+        "@id": "https://www.nowyourecookingrecipes.com/wp-content/uploads/2014/06/banbread.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 egg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd teaspoon baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 cup butter, softened"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup chopped pecans (optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup mashed banana"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups all purpose flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd teaspoon salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 teaspoons baking powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup honey or maple syrup"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Honey Banana Bread"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Dessert"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "American"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "With a mixer, beat together the butter, egg, honey and banana."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Mix together the flour, baking powder, baking soda and salt. Add to the creamed mixture and stir until moistened. Fold in pecans if using."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour into a greased loaf pan. Bake at 350 degrees F. for 25 minutes. Turn the oven down to 300 and continue baking for around 30 minutes, or until the top springs back when lightly pressed."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "12"
+    },
+    "@id": "http://example.org/recipe"
+}

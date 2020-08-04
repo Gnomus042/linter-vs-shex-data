@@ -1,0 +1,111 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT4M"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n    Cha\u00ef Imp\u00e9rial\n\n is the perfect partner for chocolate and imparts a wonderfully rich aroma."
+    },
+    "image": {
+        "@id": "https://www.palaisdesthes.com/media/wysiwyg/gastronomie/recettes/recette-truffes-au-chocolat-et-chai-imperial-large.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Chocolate truffles & Cha\u00ef Imp\u00e9rial"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT1H"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "5 teabags or 2 tbsp (10g) \n    Cha\u00ef Imp\u00e9rial\n\n in a large filter"
+        },
+        {
+            "@language": "en",
+            "@value": "220g dark chocolate"
+        },
+        {
+            "@language": "en",
+            "@value": "60g buckwheat honey"
+        },
+        {
+            "@language": "en",
+            "@value": "18cl whipping cream"
+        },
+        {
+            "@language": "en",
+            "@value": "25g butter"
+        },
+        {
+            "@language": "en",
+            "@value": "75g cocoa powder"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\n                                    Place the truffles on a plate of cocoa powder and roll until coated in the powder.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Off the heat, add the butter in small pieces and mix gently.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Store in a sealed container in the fridge.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Cut the truffle mixture into cubes.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Place the honey and chocolate in a bowl, then slowly add the tea-flavoured cream, stirring with a wooden spatula.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Return the truffles to the fridge for 1 hour.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Bring the cream to the boil in a small saucepan.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Shape the cubes into balls, keeping your hands dusted with icing sugar.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Line the base of a rectangular baking dish with baking parchment.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Heat in a bain marie until the mixture is smooth and glossy.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Pour in the chocolate cream and chill in the fridge for 2 hours.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Slide a knife around the edges of the dish to help remove the mixture from the dish.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Rouler les truffes dedans afin de les recouvrir de cacao.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Remove from the heat, add the tea and leave to infuse for 4 minutes.\n                                "
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "40 truffles"
+    },
+    "@id": "http://example.org/recipe"
+}

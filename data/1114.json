@@ -1,0 +1,69 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Suzanne"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "A tasty dairy free variation on vegetables or crackers. Serves 6 - 8 Hummus in a whole new way!"
+    },
+    "image": {
+        "@id": "http://capizzanoco.com/wp-content/uploads/2016/09/Walnut-Green-Bean-Pate-300x196.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u00bc tsp. Makai Sea Salt to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Fresh ground pepper to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Small onion, thinly sliced (1/2 cup)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Red Bell Peppers, diced to garnish top for color"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Carrots, Celery or red pepper, sliced thinly to use for dipping"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup walnuts"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2- 3 TB UP Extra Virgin Olive Oil (I used Wild Mushroom Sage Infused EVOO)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp. white miso or 1 tsp lemon juice (I used fresh lemon juice)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Ingredients"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd pound green beans"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Walnut Green Bean Spread"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Appetizer"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Mediterranean"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,52 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "lt-LT",
+        "@value": "Tailande originaliai \u0161iam patiekalui naudojami \u017eirniniai bakla\u017eanai, kurie pas mus yra sunkiai prieinami. D\u0117l to recepte naudojami klasikiniai bakla\u017eanai. \u0160iam patiekalui taip pat puikiai tikt\u0173 ir cukinija ar moli\u016bgas."
+    },
+    "image": {
+        "@language": "lt-LT",
+        "@value": "https://sifu.unileversolutions.com/image/lt-LT/recipe-topvisual/2/1260-709/mesos-kukuliai-raudonojo-kario-padaze-su-baklazanais-50354831.jpg"
+    },
+    "name": {
+        "@language": "lt-LT",
+        "@value": "M\u0117sos kukuliai raudonojo kario pada\u017ee su bakla\u017eanais"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "lt-LT",
+            "@value": "Malta m\u0117sa"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "Kiau\u0161iniai"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "Imbieras (trintas) "
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "Hellmann's Garsty\u010dios 3 kg"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "Druska, pipirai (pagal skon\u012f)"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "lt-LT",
+            "@value": "\n                        Kukuliai\n                        \n                        \n\n    Malt\u0105 m\u0117s\u0105 i\u0161mai\u0161ykite su visais ingredientais, pagardinkite druska ir suformuokite kukulius.\n    Kukulius apkepkite riebaluose ar gruzdintuv\u0117je 170\u00b0C temperat\u016broje.\n\n                    "
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "\n                        Pada\u017eas\n                        \n                        \n\n    Raudonojo kario past\u0105 pakepkite \u012fkaitintame aliejuje, u\u017epilkite vandeniu, prid\u0117kite kokos\u0173 pieno ir virkite \u017eemoje temperat\u016broje.\n    Tuomet prid\u0117kite cukraus, \u017eali\u0173j\u0173 citrin\u0173 sul\u010di\u0173 ir pas\u016bdykite pagal skon\u012f.\n    Kai pada\u017eas bus paruo\u0161tas, prid\u0117kite bakla\u017eanus ir kukulius. Visk\u0105 trumpai pavirkite.\n    Pabaigoje pabarstykite smulkintais svog\u016bn\u0117liais ir pjaustytais aitriaisiais pipirais.\n\n                    "
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "\n                        Patiekimas\n                        \n                        \n    Patiekite su jazmin\u0173 ry\u017eiais.\n\n\n                    "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

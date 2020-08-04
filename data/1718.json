@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.foodista.com/sites/default/files/styles/recype/public/crispy-chocolate-peanut-butter-candy-bars.jpg"
+    },
+    "ingredients": {
+        "@language": "en",
+        "@value": "chocolate, peanut butter, potato chips, powdered sugar"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Crispy Chocolate Peanut Butter Candy Bars"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Pop the bars out of the mold."
+        },
+        {
+            "@language": "en",
+            "@value": "Place your chocolate candy melts in a glass microwave-safe bowl. Microwave for 30 seconds and stir. Repeat microwaving in 30 second intervals and stirring afterwards until the chocolate is completely smooth."
+        },
+        {
+            "@language": "en",
+            "@value": "Using a spatula, spread the chocolate to evenly coat the cavities. Scrape off any excess chocolate."
+        },
+        {
+            "@language": "en",
+            "@value": "Let the chocolate drive and work on the filling."
+        },
+        {
+            "@language": "en",
+            "@value": "In a medium mixing bowl, add in the crushed ripple potato chips, peanut butter, and butter. Stir until thoroughly incorporated."
+        },
+        {
+            "@language": "en",
+            "@value": "Once the chocolate has hardened, fill each cavity with the peanut butter filling. Leave a small gap at the top of the cavity to cover with more chocolate."
+        },
+        {
+            "@language": "en",
+            "@value": "Once all 9 cavities are filled, add another layer of chocolate candy melts to each cavity. If the candy melts have harden, reheat them by microwaving them for 30 seconds and stirring."
+        },
+        {
+            "@language": "en",
+            "@value": "Let the chocolate dry completely."
+        },
+        {
+            "@language": "en",
+            "@value": "Add in the powdered sugar and salt. Stir until combined. I used my hands to incorporate the powdered sugar because it was quicker."
+        },
+        {
+            "@language": "en",
+            "@value": "Add about 1 - 1\u00bd tablespoons of melted chocolate into each cavity. Spread the chocolate up the sides of the cavity and into the corners. Make sure that everything is coated well and there are no bare spots."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

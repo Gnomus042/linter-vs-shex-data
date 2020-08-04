@@ -1,0 +1,115 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en",
+        "@value": "Serve these crowd-pleasing cheesy crescent appetizers - made using Pillsbury\u00ae dinner rolls and bacon."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/cf490569-9b7c-4de0-9fcf-9b9bd38a1c3d.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "bacon-cheddar pinwheels"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Bacon-Cheddar Pinwheels"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "80 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "7 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "5 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "1 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "0 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "2 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "2 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Appetizer "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "230 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "2 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H15M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Appetizer"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup chopped green onions (4 medium)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    can (8 oz) Pillsbury\u2122 refrigerated crescent dinner rolls\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup real bacon pieces or 4 slices bacon, crisply cooked, crumbled\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoons ranch dressing\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup finely shredded Cheddar cheese (2 oz)\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:Ndff53f3367824e1f9781994880a2ca36"
+        },
+        {
+            "@id": "_:Nd6a9c2d9d1ce4ab18b197b40ebdf3f58"
+        },
+        {
+            "@id": "_:Nc20b32eb3a7b4f868770cccc0e397e84"
+        },
+        {
+            "@id": "_:Nce24a47f32df4f7f932f181f1515a700"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "16"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT0H35M"
+    },
+    "@id": "http://example.org/recipe"
+}

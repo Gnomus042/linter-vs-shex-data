@@ -1,0 +1,88 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@value": "PT0H45M"
+    },
+    "name": {
+        "@value": "Kanapki z sa\u0142atk\u0105 z kurczaka (Chicken salad sandwich)"
+    },
+    "recipeCategory": [
+        {
+            "@value": "Kanapki"
+        },
+        {
+            "@value": "Bez jaj"
+        },
+        {
+            "@value": "Dania do jedzenia dla dzieci"
+        },
+        {
+            "@value": "\u0141agodny"
+        },
+        {
+            "@value": "Bez glutenu"
+        },
+        {
+            "@value": "Sa\u0142atki"
+        }
+    ],
+    "recipeCuisine": {
+        "@value": "ameryka\u0144ska"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1/2 czerwonej cebuli"
+        },
+        {
+            "@value": "s\u00f3l i pieprz do smaku"
+        },
+        {
+            "@value": "4 kromki pe\u0142noziarnistego chleba"
+        },
+        {
+            "@value": "2 \u0142y\u017cki majonezu"
+        },
+        {
+            "@value": "1/2 puszki czerwonej fasoli"
+        },
+        {
+            "@value": "p\u0119czek szczypiorku"
+        },
+        {
+            "@value": "Dania z kurczakiem"
+        },
+        {
+            "@value": "1 l bulionu lub wody"
+        },
+        {
+            "@value": "sa\u0142ata"
+        },
+        {
+            "@value": "2 \u0142y\u017cki jogurtu naturalnego "
+        },
+        {
+            "@value": "1 filet z kurczaka (ok. 300g)"
+        },
+        {
+            "@value": "1 z\u0105bek czosnku"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": " Kromki chleba podpiec w rozgrzanym piekarniku przez oko\u0142o 2 minuty. Na po\u0142owie chleba rozsmarowa\u0107 sa\u0142atk\u0119, przykry\u0107 li\u015b\u0107mi sa\u0142aty i kolejn\u0105 kromk\u0105. Spi\u0105\u0107 kanapki przy pomocy wyka\u0142aczek. "
+        },
+        {
+            "@value": " Cebul\u0119 i szczypiorek pokroi\u0107, fasol\u0119 odcedzi\u0107. Po\u0142\u0105czy\u0107 z mi\u0119sem. "
+        },
+        {
+            "@value": " Filet op\u0142uka\u0107. Bulion lub wod\u0119 zagotowa\u0107, wrzuci\u0107 do niej filet i przykry\u0107 pokrywk\u0105. Gotowa\u0107 na ma\u0142ym ogniu przez oko\u0142o 30-40 minut. Nast\u0119pnie wyj\u0105\u0107 mi\u0119so i przy u\u017cyciu dw\u00f3ch widelc\u00f3w \"rozszarpa\u0107\" je na kawa\u0142ki. "
+        },
+        {
+            "@value": " Jogurt, majonez i przeci\u015bni\u0119ty przez prask\u0119 czosnek wymiesza\u0107. Doprawi\u0107 sol\u0105 i pieprzem. Powsta\u0142ym sosem zala\u0107 sa\u0142atk\u0119. Wymiesza\u0107 i wstawi\u0107 do lod\u00f3wki, by smaki si\u0119 przegryz\u0142y.  "
+        }
+    ],
+    "recipeYield": {
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

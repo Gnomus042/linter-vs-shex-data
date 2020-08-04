@@ -1,0 +1,67 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-GB",
+        "@value": "Hannah"
+    },
+    "description": {
+        "@language": "en-GB",
+        "@value": "There are so many different courgette muffin recipes readily available, mostly containing a lot of sugar and fats. Which to us in moderation they're ok! but I wanted to create a \"healthier\" alternative which taste just as indulgent and still has the sticky texture we just love from a chocolate cake. I hope you'll not be disappointed!! (makes 12 muffins)"
+    },
+    "image": {
+        "@id": "http://www.pennyledweaning.co.uk/wp-content/uploads/2017/08/20689974_1958559827734759_1776366499146313806_o-300x300.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-GB",
+            "@value": "80ml oil of your choice"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 egg"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 tsp vanilla extract"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "180g self raising flour"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "30g cocoa powder (the best quality you can find)"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "200g grated courgette (approx 1 average sized courgette)"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "100ml milk"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "100g caster sugars"
+        }
+    ],
+    "name": {
+        "@language": "en-GB",
+        "@value": "Courgette & Choc Muffins"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-GB",
+            "@value": "Cook at 180oc for 20 mins, approx 30 mins for a large cake."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Simply mix all the ingredients in a large bowl until thoroughly combined and then scoop into muffin cases, or a lined cake tin if you prefer."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-GB",
+        "@value": "12"
+    },
+    "@id": "http://example.org/recipe"
+}

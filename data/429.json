@@ -1,0 +1,86 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.platejoy.com/recipe/299/5///d1p41q6ie5w2bu.cloudfront.net/meals/299/mobile.jpg?1555082130"
+    },
+    "name": {
+        "@value": "Tilapia and quinoa with feta and cucumber"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "503"
+        },
+        "carbohydrateContent": {
+            "@value": "44g"
+        },
+        "fatContent": {
+            "@value": "19g"
+        },
+        "fiberContent": {
+            "@value": "5g"
+        },
+        "proteinContent": {
+            "@value": "45g"
+        },
+        "saturatedFatContent": {
+            "@value": "6g"
+        },
+        "sodiumContent": {
+            "@value": "323mg"
+        },
+        "sugarContent": {
+            "@value": "3g"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1\u00a0tsp paprika"
+        },
+        {
+            "@value": "\u00be\u00a0cup feta"
+        },
+        {
+            "@value": "1 lemon"
+        },
+        {
+            "@value": "1 cucumber"
+        },
+        {
+            "@value": "2\u00a0tbsp olive oil"
+        },
+        {
+            "@value": "1\u00a0\u00bd\u00a0lbs tilapia fillet (6\u00a0oz, 6\u00a0oz, 6\u00a0oz, 6\u00a0oz portions)"
+        },
+        {
+            "@value": "1\u00a0\u2153\u00a0cups dry quinoa"
+        },
+        {
+            "@value": "\u00bd\u00a0cup dill"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "\n\n  \n      Combine \n      quinoa\n       with twice as much water in a saucepan. Bring to a boil and simmer until \n      quinoa\n       is tender, about 15 min. Fluff with a fork.\n\n\n"
+        },
+        {
+            "@value": "\n\n  \n      Add cooked \n      quinoa\n       to \n      cucumber\n       and \n      feta\n       and stir well. Check seasoning and add more salt, pepper or \n      lemon\n       juice to taste. Serve topped with \n      tilapia\n\n\n"
+        },
+        {
+            "@value": "\n\n  \n      Pat \n      tilapia\n       dry with paper towel. Rub with \n      paprika\n       and salt to taste.\n\n\n"
+        },
+        {
+            "@value": "\n\n  \n      Dice \n      cucumber\n       and coarsely chop \n      dill\n      . Combine in a mixing bowl with crumbled \n      feta\n      , \n      lemon\n       juice, half the \n      olive oil\n       and salt and pepper to taste.\n\n\n"
+        },
+        {
+            "@value": "\n\n  \n      Heat a large nonstick skillet over medium-high and add remaining \n      olive oil\n      . Cook \n      tilapia\n       until opaque throughout, about 4 min, flipping halfway through.\n\n\n"
+        }
+    ],
+    "recipeYield": {
+        "@value": "four servings"
+    },
+    "totalTime": {
+        "@value": "35 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

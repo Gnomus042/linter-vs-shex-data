@@ -1,0 +1,37 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "6"
+        },
+        "ratingValue": {
+            "@value": "4"
+        },
+        "worstRating": {
+            "@value": "3"
+        }
+    },
+    "cookTime": {
+        "@value": "PT2M"
+    },
+    "ingredients": {
+        "@value": "2 cl. Parfait Amour\u00a01 cl. Baileys\u00a02 cl. Creme de Menthe\u00a01 cl. Room1 paar IJsblokjes1 snufje Nootmuskaat"
+    },
+    "name": {
+        "@value": "Bodil"
+    },
+    "recipeCategory": {
+        "@value": "Cocktail"
+    },
+    "recipeInstructions": {
+        "@value": "Vul de shaker met alle ingredienten en een paar ijsblokjes. Schud de shaker flink door elkaar en schenk deze mix door een strainer (barzeef) in een cocktailglas. Serveer de cocktail met een snufje nootmuskaat."
+    },
+    "totalTime": {
+        "@value": "PT2M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,100 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "2"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Little Spice Jar"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT2H30M"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "My slow cooker spinach artichoke dip is sure to be a hit at your next holiday party. And the best part is, all you had to do is add everything to the slow cooker and let it all hang out!"
+    },
+    "image": {
+        "@id": "https://littlespicejar.com/wp-content/uploads/2018/12/The-Easiest-Slow-Cooker-Spinach-Artichoke-Dip-7-300x420.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 (8-ounce) brick full fat cream cheese, cut into cubes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4-6 cloves garlic, finely minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (14-ounce) can artichoke hearts, chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 cup chopped jalape\u00f1os"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup EACH: sour cream AND mayonnaise"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup EACH: feta cheese AND shredded mozzarella\u00a0"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup grated parmesan cheese"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 smallish white onion, finely chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc teaspoon red pepper flakes (optional, add more to taste)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon red wine vinegar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (10-ounce) package of frozen spinach (defrosted, and water squeezed out)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup half and half (or milk)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "The Easiest Slow Cooker Spinach Artichoke Dip"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT10M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "PREP: Stir all the ingredients in a large mixing bowl, along with \u00bc teaspoon of salt and \u00bd teaspoon of black pepper and transfer to a 3-quart slow cooker. Spray the inside of your slow cooker insert with cooking spray to ensure nothing sticks to the sides. If your slow cooker is larger, you can actually just add all the ingredients in there and stir. Cook on slow heat for 2 \u00bd \u2013 3 hours or until the dip is warmed through and the cheese has melted, stirring every 30-45 minutes or as required.\u00a0SERVE: Transfer to a serving dish, or leave in the slow cooker on the \u2018warm\u2019 setting. Be sure to stir it often, especially if your slow cooker runs hot! Serve with tons of tortilla chips, pita chips, or toasted bread slices!\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "8-10 servings"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "PT2HAnd4"
+    },
+    "@id": "http://example.org/recipe"
+}

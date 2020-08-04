@@ -1,0 +1,99 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://i1.wp.com/www.jessfuel.com/wp-content/uploads/2014/12/Andes-Mint-Chocolate-Chunk-Cookies3.jpg?w=205&ssl=1"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u00be tsp baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp baking powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 egg yolk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 package Andes Cr\u00e8me de Menthe baking chips"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 egg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup brown sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tsp cocoa powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup unsalted butter- softened"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2\u00bc cups all-purpose flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup white sugar"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Andes Mint Chocolate Chunk Cookies"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Dessert"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Preheat oven to 350 degrees."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Using an electric or stand mixer, beat together butter and both sugars until creamy. Add egg, egg yolk, and vanilla. Beat until combined."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add in baking soda, baking powder, salt, cocoa powder and 1\u00bc cups of the flour, and beat slowly until combined. Add in last cup of flour and milk, and beat until thoroughly combined."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Bake cookies for 10 minutes. Let cool a few minutes on the baking sheets, then move to a cooling rack."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add the baking chips and mix on low a few seconds until they are incorporated into the dough."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place rounded tablespoons of dough on a baking sheet, about an inch apart."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "3 dozen"
+    },
+    "@id": "http://example.org/recipe"
+}

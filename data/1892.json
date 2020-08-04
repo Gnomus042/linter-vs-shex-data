@@ -1,0 +1,86 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "nl",
+        "@value": "Pauline's Keuken"
+    },
+    "cookingMethod": {
+        "@language": "nl",
+        "@value": "Oven"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Of het nu winter of zomer is, carrot cake is altijd lekker.\u00a0De taart is gevuld met gezonde wortelen, maar smaakt hier niet naar. Qua smaak lijkt het meer op kruidcake. De cream cheese frosting die er op zit is heerlijk en echt onmisbaar. Het maakt de taart helemaal af. Garneer de carrot cake met wat walnoten en klaar is ie! Heb jij al honger?Los van ruim een uur bakken in de oven ben je er in 20 minuutjes mee klaar.  \u00a0"
+    },
+    "image": {
+        "@language": "nl",
+        "@value": "Null"
+    },
+    "ingredients": [
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/kruiden-en-specerijen/speculaaskruiden.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/noten-zaden/walnoten.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/zuivel-en-zuivelvervangers/boter.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/gist-en-gistvervangers/bakpoeder.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/smaakmaker/basterdsuiker.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/boter-en-olie/zonnebloemolie.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/ei/ei.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/groente/wortel.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/graanproducten-en-meelsoorten/zelfrijzend-bakmeel.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/kaas/roomkaas.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/smaakmaker/poedersuiker.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/fruit/sinaasappel.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/fruit/rozijn.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/heerlijke-carrot-cake-8385.html//ingredienten/fruit/citroen.html"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Heerlijke carrot cake"
+    },
+    "recipeCategory": [
+        {
+            "@language": "nl",
+            "@value": "Taart"
+        },
+        {
+            "@language": "nl",
+            "@value": "Tussendoortje"
+        }
+    ],
+    "recipeCuisine": {
+        "@language": "nl",
+        "@value": "Fusion"
+    },
+    "recipeYield": {
+        "@language": "nl",
+        "@value": "12 personen"
+    },
+    "@id": "http://example.org/recipe"
+}

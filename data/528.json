@@ -1,0 +1,63 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.thebakerchick.com/wp-content/uploads/2013/02/nokneadcrustybread2.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1-2 tsp sea salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd-1 tsp yeast*"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 cups all-purpose flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd cups luke-warm water"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "No-Knead Crusty Artisan Bread"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "While dough is resting, put your dutch oven into the preheated oven for 30 minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Turn the dough onto a well-floured surface and with floured hands form the dough into a ball. Cover with the plastic wrap and let the dough rest."
+        },
+        {
+            "@language": "en-US",
+            "@value": "After the 30 minutes are up carefully remove the dutch oven and with floured hands place the bread dough into it. (You can put a piece of parchment under it if your dutch oven doesn't have an enamel coating.)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Replace the cover and bake for 30 minutes covered. Then remove the cover and bake for an additional 15 minutes uncovered. Bread will be golden, crusty and delicious!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "After dough is ready, preheat oven to 450 F."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cover dough with a plastic wrap and let sit in room temperature for 8-18 hours. Dough will bubble up and rise."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large bowl, stir together the flour, salt and yeast. Add the water and using a wooden spoon stir together until the mixture resembles a shaggy dough."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "1 loaf"
+    },
+    "@id": "http://example.org/recipe"
+}

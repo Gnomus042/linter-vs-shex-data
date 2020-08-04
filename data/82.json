@@ -1,0 +1,16 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "LadyCook61"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "01-24-2010"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "No knead Healthy 5 min a day bread"
+    },
+    "@id": "http://example.org/recipe"
+}

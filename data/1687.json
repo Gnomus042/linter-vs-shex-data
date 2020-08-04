@@ -1,0 +1,87 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.formaggiosvizzero.ch/ricette-ispirazioni/ricette/ravioloni-di-gruyere-al-burro-e-salvia//fileadmin/_processed_/2/4/csm_recipe_318_2a3375f854.jpg"
+    },
+    "name": {
+        "@language": "it-CH",
+        "@value": "Ravioloni di Gruy\u00e8re al burro e salvia"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "it-CH",
+            "@value": "50 g di salsiz a dadini piccoli\n"
+        },
+        {
+            "@language": "it-CH",
+            "@value": "un po' di pepe\n"
+        },
+        {
+            "@language": "it-CH",
+            "@value": "1-2 c. di foglioline di salvia tritate\n"
+        },
+        {
+            "@language": "it-CH",
+            "@value": "150 g di Gruy\u00e8re DOP grattugiato\n"
+        },
+        {
+            "@language": "it-CH",
+            "@value": "Null"
+        },
+        {
+            "@language": "it-CH",
+            "@value": "pepe\n"
+        },
+        {
+            "@language": "it-CH",
+            "@value": "salvia per guarnire"
+        },
+        {
+            "@language": "it-CH",
+            "@value": "250 g di quark mezzo grasso\n"
+        },
+        {
+            "@language": "it-CH",
+            "@value": "noce moscata\n"
+        },
+        {
+            "@language": "it-CH",
+            "@value": "50 g di burro\n"
+        },
+        {
+            "@language": "it-CH",
+            "@value": "\u00bd c.no di sale\n"
+        },
+        {
+            "@language": "it-CH",
+            "@value": "500 g di pasta per ravioli"
+        },
+        {
+            "@language": "it-CH",
+            "@value": "un po' di sale\n"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N79d2b00a25e845249ab01bb727a1fb05"
+        },
+        {
+            "@id": "_:N891b0307ae0b402a98eca5563e04c19c"
+        },
+        {
+            "@id": "_:Ne723e34d710c44e2a8ad58bc85bd2885"
+        },
+        {
+            "@id": "_:Nb9d83268e2c54d2cad967d402bfe2246"
+        }
+    ],
+    "recipeYield": {
+        "@language": "it-CH",
+        "@value": "per 4 persone"
+    },
+    "url": {
+        "@language": "it-CH",
+        "@value": "https://www.formaggiosvizzero.ch/ricette-ispirazioni/ricette/ravioloni-di-gruyere-al-burro-e-salvia"
+    },
+    "@id": "http://example.org/recipe"
+}

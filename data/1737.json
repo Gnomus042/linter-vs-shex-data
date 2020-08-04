@@ -1,0 +1,49 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingValue": {
+            "@value": "0.00"
+        },
+        "reviewCount": {
+            "@value": "1"
+        },
+        "worstRating": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "ADMIN"
+        }
+    },
+    "cookTime": {
+        "@value": "P0Y0M0DT0H20M0S"
+    },
+    "datePublished": {
+        "@value": "09/26/2007 "
+    },
+    "description": {
+        "@value": "Mo Cookies"
+    },
+    "image": {
+        "@id": "https://completerecipes.com/mo-cookies.html//static/images/noimage.gif"
+    },
+    "ingredients": {
+        "@value": "\n                        \n                            \n                                1 lb Butter (Softened)1 1/2 c  Sugar2 c  Brown Sugar3    Eggs2 ts Vanilla1 1/2 ts Salt1 1/2 ts Baking Soda6 c  Flour2 c  Chocolate Chips2 c  Nuts (Your Choice)\n                            \n                        \n                    "
+    },
+    "name": {
+        "@value": "Mo Cookies"
+    },
+    "prepTime": {
+        "@value": "P0Y0M0DT0H20M0S"
+    },
+    "recipeInstructions": {
+        "@value": "\n                \n                    \n                        Mix together butter, sugar, borwn sugar until well creamed. Add eggs,vanilla, salt and baking soda and mix well. Start adding flour a little ata time until all is in. The batter will be pretty stiff while adding thelast 2 cups!  (Using the hands is ok)  Add chips and nuts now. Dropspoonfuls onto ungreased cookie sheet. Leave room for the cookie to spreadout.  These get big.  Bake 10-12 minutes at 350 degrees. Enjoy! \n                    \n                \n            "
+    },
+    "@id": "http://example.org/recipe"
+}

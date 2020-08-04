@@ -1,0 +1,69 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "Null"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "5"
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "\n                                20 minutes                            "
+    },
+    "name": {
+        "@language": "en",
+        "@value": "\n                Chocolate-coated strawberry and avocado balls\n            "
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n                        avocado\n                        for 16 balls\n                    "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                        cashew nuts\n                        125 g\n                    "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                        milk\n                        8 tbsp\n                    "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                        strawberries\n                        16 balls\n                    "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                        dark chocolate\n                        for coating\n                    "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                        KetoDiet cereal protein bars with figs\n                        2\n                    "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                        desiccated coconut\n                        for coating\n                    "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                        KetoDiet chocolate flavour protein bars\n                        2\n                    "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n                Method\n\n                Using a coarse grater, grate the KetoDiet protein bars. Finely grind the nuts in a food processor and mix them with the grated bars. Add the milk to make a mixture. Using clean hands (otherwise the mixture will become sticky), take a strawberry or a piece of avocado and wrap them in the mixture. Coat each ball in desiccated coconut or high-percentage dark chocolate (if you have completed your diet plan). Put the balls in the fridge for at least an hour. Take out and serve.\n\n                \n                    Wishing you an enjoyable meal \u2013 the KetoDiet team.\n                \n\n                                    \n                        Suitable as:\n                        \n                                                            \n                                                                            \n                                        Meals for Step 2\n\n                                                                                                            \n                                                            \n                                                                            \n                                        Meals for Step 3\n\n                                                                                                            \n                                                            \n                                                                            \n                                        Post-diet meals\n\n                                                                                                            \n                                                    \n                    \n                \n                                    \n                        \n                            \nFacebook\n                        \n                        \n                                                        Print recipe\n                        \n                    \n                \n                \n                                            To leave a review, please log in.\n                                    \n            "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n                                3 portions\n                            "
+    },
+    "@id": "http://example.org/recipe"
+}

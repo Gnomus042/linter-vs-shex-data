@@ -1,0 +1,59 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Organization",
+        "name": {
+            "@language": "fi",
+            "@value": "Ilta-Sanomat"
+        }
+    },
+    "description": {
+        "@language": "fi",
+        "@value": "Null"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "fi",
+            "@value": "978.0"
+        },
+        "url": {
+            "@id": "https://www.is.fi/ruokala/resepti/art-2000001008938.html///is.mediadelivery.fi/img/1920/2fea0bff013843888f5ec12aa91f1e10.jpg"
+        },
+        "width": {
+            "@language": "fi",
+            "@value": "978"
+        }
+    },
+    "keywords": {
+        "@language": "fi",
+        "@value": "\n\nkasvis\n\n\nP\u00e4\u00e4ruoka\n\n"
+    },
+    "mainEntityOfPage": {
+        "@language": "fi",
+        "@value": "https://www.is.fi/ruokala/resepti/art-2000001008938.html"
+    },
+    "name": {
+        "@language": "fi",
+        "@value": "Punajuuripasta"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:N2ce69d46c2e649b4ae093a94c9950eb0"
+        },
+        "name": {
+            "@language": "fi",
+            "@value": "Ilta-Sanomat"
+        },
+        "url": {
+            "@language": "fi",
+            "@value": "https://www.is.fi/"
+        }
+    },
+    "recipeInstructions": {
+        "@language": "fi",
+        "@value": "\nAinekset4kokonaista punajuurta100 gvuohenjuustoa1 dlpunajuurimehua tai -lient\u00e41-2 tlkuivattua salviaa2 rklpunaviinietikkaa tai balsamicoatarjolle pastaasuolaa ja pippuriayrttej\u00e4 tai rucolaa koristeluunValmistusohjeetRaasta punajuuri ja paista raaste kattilassa mausteiden ja etikan kanssa kyps\u00e4ksi. Lis\u00e4\u00e4 punajuurimehu ja hauduta hetki. Keit\u00e4 sill\u00e4 v\u00e4lin pasta al dente ja murenna vuohenjuusto erilliselle lautaselle. Lis\u00e4\u00e4 kyps\u00e4 pasta punajuuren joukkoon ja sekoita hyvin sekaisin. Nosta annos lautaselle ja ripottele pinnalle vuohenjuustomurut sek\u00e4 halutessasi rucolaa. Tarjoile.  Resepti: Alex Nurmi\n"
+    },
+    "@id": "http://example.org/recipe"
+}

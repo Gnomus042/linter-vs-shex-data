@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@value": "2838"
+        },
+        "ratingValue": {
+            "@value": "9"
+        }
+    },
+    "description": {
+        "@value": "In T\u00fai Qu\u1ea7n Jean, In Tui Quan Jean"
+    },
+    "image": {
+        "@id": "http://doaiphu.com/upload/products/thumb/armani15.jpg"
+    },
+    "name": {
+        "@value": "T\u00fai Qu\u1ea7n Jean"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,128 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "cecilielykke"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2018-08-26 18:20:32"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "image": {
+        "@language": "en-US",
+        "@value": "http://lykkesliv.net/wp-content/uploads/2018/08/Billede-26-08-2018-15.14.24.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Berliner med vaniljecreme"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\t\tDessert\t\t\t\t"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\t\tBake, Bread, Cake, Donuts\t\t\t\t"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t50\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tg\n\t\t\t\t\t\t\t\t\t\tsukker\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ttsk\n\t\t\t\t\t\t\t\t\t\tkanel\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t150\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tg\n\t\t\t\t\t\t\t\t\t\tsukker\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tl\n\t\t\t\t\t\t\t\t\t\tsolsikkeolie\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tnip\n\t\t\t\t\t\t\t\t\t\tsalt\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ttsk\n\t\t\t\t\t\t\t\t\t\tvaniljesukker (eller 1/2 tsk vaniljepulver)\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tdl\n\t\t\t\t\t\t\t\t\t\tletm\u00e6lk\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t20\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tg\n\t\t\t\t\t\t\t\t\t\tg\u00e6r\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ttsk\n\t\t\t\t\t\t\t\t\t\tkardekomme\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t50\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tg \n\t\t\t\t\t\t\t\t\t\tbl\u00f8dt sm\u00f8r\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t6\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u00e6ggeblommer\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t350\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tg\n\t\t\t\t\t\t\t\t\t\tmel*\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t4\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tdl\n\t\t\t\t\t\t\t\t\t\tletm\u00e6lk\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t3\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\ttsk\n\t\t\t\t\t\t\t\t\t\thvedemel\n\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Kom alle ingredienserne i en gryde og visp sammen. Kog op under middels varme, og r\u00f8r godt rundt. Det er vigtig at blandingen ikke koger.\u00a0"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Tag bollerne op med en lille si eller andet k\u00f8kkendustyr med huller, s\u00e5 olien dryppes af og kom bollerne ned i kanelsukker-massen. Lad de herefter afk\u00f8les inden servering.\u00a0"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Smuldre g\u00e6ren i m\u00e6lken og visp sammen med sukkeret. Lad massen hvile i 5 min inden du tils\u00e6tter de t\u00f8rre ingredienserne. \u00c6lt sammen i ca 10 min ved lav hastighed, tils\u00e6t derefter sm\u00f8r og \u00e6lt i yderligere 5 min til dejen er glat og smidig. Lad den h\u00e6ve i 20 minutter."
+        },
+        {
+            "@language": "en-US",
+            "@value": "N\u00e5r den er kold, fylder du en spr\u00f8jtepose med rundt tip, stikker et hul i bollerne med et grilspyd eller lignende og fylder hullet med vaniljecreme.\u00a0"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Del dejen i stykker af ca 50 g, og l\u00e6g de p\u00e5 en bageplade med bagepapir. Lad de efterh\u00e6ve under et viskestykke over en kun fyldt med varmt vand i ca 30 min.\u00a0"
+        },
+        {
+            "@language": "en-US",
+            "@value": "N\u00e5r vaniljecremen begynder at blive tyk, r\u00f8rer der godt rundt. N\u00e5r massen h\u00e6nger fast i dit piskeris uden at dryppe ned i gryden, er den f\u00e6rdig.\u00a0"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Varm olien ved middels varme i en lille gryde, ca 2 L.\u00a0\u00a0Den er klar n\u00e5r det begynder at boble omkring en grydeske n\u00e5r du s\u00e6tter den p\u00e5 bund af gryden. Kom 3 boller ad gangen ned i olien og lad de stege i ca 2 min, inden du vender de.\u00a0Bruger du en st\u00f8rre gryde kan du med fordel bruge 2L olie, s\u00e5 vil du ogs\u00e5 kunne fritere flere boller ad gangen. Hold godt \u00f8je, bliver de for m\u00f8rke, skru ned for meget svag varme.\u00a0"
+        },
+        {
+            "@language": "en-US",
+            "@value": "K\u00f8l massen af ved, at komme gryden ned i en bagesk\u00e5l eller vask med koldt vand. Lad den afk\u00f8les helt inden servering.\u00a0"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "15 stk"
+    },
+    "@id": "http://example.org/recipe"
+}

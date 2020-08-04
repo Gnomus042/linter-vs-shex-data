@@ -1,0 +1,108 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "Friessinger-M\u00fchle"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "20-25 minutes"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "These golden muffins are full of feta and sun dried tomatoes. They are especially delicious thanks to K\u00fcchenmeister's corn flour!"
+    },
+    "headline": {
+        "@language": "en",
+        "@value": "Corn muffins with feta"
+    },
+    "image": {
+        "@id": "https://www.friessinger-muehle.de/en/recipes/muffins-cupcakes/corn-muffins-with-feta-and-tomatoes.html/files/friessinger/media/Rezepte/Muffins-Cupcakes/Maismuffins_mit_Feta_und_Tomaten/Feta_und_Tomaten_Maismuffins_2.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1250 g feta\u00a0"
+        },
+        {
+            "@language": "en",
+            "@value": "125 g K\u00fcchenmeister Wheat Flour T405"
+        },
+        {
+            "@language": "en",
+            "@value": "30 g sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "60 ml olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "235 ml milk"
+        },
+        {
+            "@language": "en",
+            "@value": "Fresh rosemary or basil"
+        },
+        {
+            "@language": "en",
+            "@value": "1 egg"
+        },
+        {
+            "@language": "en",
+            "@value": "60 g sour cream"
+        },
+        {
+            "@language": "en",
+            "@value": "9 g baking powder"
+        },
+        {
+            "@language": "en",
+            "@value": "80 g cherry tomatoes"
+        },
+        {
+            "@language": "en",
+            "@value": "120 g K\u00fcchenmeister Corn Flour"
+        },
+        {
+            "@language": "en",
+            "@value": "6 sun dried tomatoes"
+        },
+        {
+            "@language": "en",
+            "@value": "3 g salt"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Corn muffins with feta"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "15 minutes"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\nPreheat the oven (electric 200\u00b0C / convection 180\u00b0C). Line a muffin tray with muffin cups.\nIn a bowl, combine together the corn flour, flour, sugar, baking powder and salt. Beat the egg with the oil, sour cream and milk, before mixing it into the dry ingredients. Wash the rosemary or basil, and chop it into small pieces. Chop the sun dried tomatoes and feta into small chunks. Wash and cut the cherry tomatoes in half. Now fold the sun dried tomatoes, 100 g feta and the herbs into the muffin batter. Divide the muffin batter between the muffin cups. Place the halved tomatoes and remaining cheese onto the muffins. Bake the muffins for ca. 20-25 minutes. Remove the muffins from the oven, cool briefly in the pan, before removing them from the pan and enjoying!\nThe muffins taste great warm or cold!\t\t\t\t"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://www.friessinger-muehle.de/en/recipes/muffins-cupcakes/corn-muffins-with-feta-and-tomatoes.html"
+    },
+    "@id": "http://example.org/recipe"
+}

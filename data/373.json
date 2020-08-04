@@ -1,0 +1,134 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ro-RO",
+        "@value": "crockpot-romania.ro"
+    },
+    "cookTime": {
+        "@language": "ro-RO",
+        "@value": "PT"
+    },
+    "datePublished": {
+        "@language": "ro-RO",
+        "@value": "23-10-2018"
+    },
+    "description": {
+        "@language": "ro-RO",
+        "@value": "\n             Pentru inceput se seteaza Multicooker-ul Crock-Pot Express cu gatire sub presiune pe modul BROWN/SOTE pentru 10 minute si se apasa START.Pe display apare HEAT, iar in momentul in care aparatul este incalzit se va auzi un semnal sonor si pe ecran va aparea afisat timpul setat in prealabil (10 minute).Cat timp se incalzeste aparatul, se curata ceapa si se toaca marunt, se spala ardeiul gras si se curata de cotor si seminte si se taie cubulete. Nautul se scurge de apa din conserva, se clateste cu apa rece si se lasa la scurs intr-o sita.Se pune uleiul in oala, lasandu-l putin sa se incinga.Se adauga ceapa si se caleste putin, pana devine transparenta.Se adauga ardeiul gras cubulete si se lasa si el 2-3 minute la gatit.Se toarna sosul de rosii, nautul, bamele congelate si se condimenteaza cu sare, piper si chili dupa gust.Se omogenizeaza si se pune capacul pe oala de gatit.Se inchide supapa de presiune.Se seteaza Multicooker-ul Crock-Pot Express cu gatire sub presiune pe modul MEAT/STEW pentru 5 minute si se apasa START.Pe display apare HEAT, iar in momentul in care aparatul este incalzit se va auzi un semnal sonor si pe ecran va aparea afisat timpul setat in prealabil (5 minute).Dupa ce timpul de gatire s-a terminat se aude un semnal sonor si apoi aparatul intra automat pe modul KEEP WARM.Se deschide cu grija supapa de presiune ca sa se elibere aburul si apoi indeparteaza capacul de pe aparatul de gatit.Mancarea de bame cu naut este gata! Aceasta se asaza pe platou, se decoreaza cu patrunjel verde tocat si se serveste imediat.            "
+    },
+    "image": {
+        "@id": "https://www.crockpot-romania.ro/retete/vegetarian/reteta-bame-cu-naut//assets/files/thumb/900x450x2/recipe/fdb_1540284221_bame-cu-naut.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ro-RO",
+            "@value": "chili macinat dupa gust"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "250 g bame congelate"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "200 g sos de rosii"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "1 conserva naut"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "2 cepe rosii medii"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "sare si piper dupa gust"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "2-3 linguri ulei"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "1 ardei gras rosu"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "patrunjel verde tocat  pentru decor"
+        }
+    ],
+    "name": {
+        "@language": "ro-RO",
+        "@value": "Reteta - Bame cu naut by Retetele mele dragi"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ro-RO",
+            "@value": "0"
+        }
+    },
+    "recipeCategory": {
+        "@language": "ro-RO",
+        "@value": "Retete crockpot-romania.ro"
+    },
+    "recipeCuisine": {
+        "@language": "ro-RO",
+        "@value": "Romania"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ro-RO",
+            "@value": "2 cepe rosii medii"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "patrunjel verde tocat  pentru decor"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "1 conserva naut"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "250 g bame congelate"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "200 g sos de rosii"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "1 ardei gras rosu"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "2-3 linguri ulei"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "chili macinat dupa gust"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "sare si piper dupa gust"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ro-RO",
+        "@value": "Pentru inceput se seteaza Multicooker-ul Crock-Pot Express cu gatire sub presiune pe modul BROWN/SOTE pentru 10 minute si se apasa START.Pe display apare HEAT, iar in momentul in care aparatul este incalzit se va auzi un semnal sonor si pe ecran va aparea afisat timpul setat in prealabil (10 minute).Cat timp se incalzeste aparatul, se curata ceapa si se toaca marunt, se spala ardeiul gras si se curata de cotor si seminte si se taie cubulete. Nautul se scurge de apa din conserva, se clateste cu apa rece si se lasa la scurs intr-o sita.Se pune uleiul in oala, lasandu-l putin sa se incinga.Se adauga ceapa si se caleste putin, pana devine transparenta.Se adauga ardeiul gras cubulete si se lasa si el 2-3 minute la gatit.Se toarna sosul de rosii, nautul, bamele congelate si se condimenteaza cu sare, piper si chili dupa gust.Se omogenizeaza si se pune capacul pe oala de gatit.Se inchide supapa de presiune.Se seteaza Multicooker-ul Crock-Pot Express cu gatire sub presiune pe modul MEAT/STEW pentru 5 minute si se apasa START.Pe display apare HEAT, iar in momentul in care aparatul este incalzit se va auzi un semnal sonor si pe ecran va aparea afisat timpul setat in prealabil (5 minute).Dupa ce timpul de gatire s-a terminat se aude un semnal sonor si apoi aparatul intra automat pe modul KEEP WARM.Se deschide cu grija supapa de presiune ca sa se elibere aburul si apoi indeparteaza capacul de pe aparatul de gatit.Mancarea de bame cu naut este gata! Aceasta se asaza pe platou, se decoreaza cu patrunjel verde tocat si se serveste imediat."
+    },
+    "recipeYield": {
+        "@language": "ro-RO",
+        "@value": "2"
+    },
+    "totalTime": {
+        "@language": "ro-RO",
+        "@value": "PT"
+    },
+    "url": {
+        "@language": "ro-RO",
+        "@value": "https://www.crockpot-romania.ro/retete/vegetarian/reteta-bame-cu-naut"
+    },
+    "@id": "http://example.org/recipe"
+}

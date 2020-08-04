@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "carbohydrateContent": {
+        "@value": "38.7187109375"
+    },
+    "cholesterolContent": {
+        "@value": "43.75"
+    },
+    "fatContent": {
+        "@value": "6.39908072917"
+    },
+    "fiberContent": {
+        "@value": "2.1289921875"
+    },
+    "name": {
+        "@value": "Cevizli Tulum Peynirli Eri\u015fte"
+    },
+    "proteinContent": {
+        "@value": "9.99278645833"
+    },
+    "sodiumContent": {
+        "@value": "145.929166667"
+    },
+    "@id": "http://example.org/recipe"
+}

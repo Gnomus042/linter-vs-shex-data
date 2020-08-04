@@ -1,0 +1,24 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@value": "Sesame Seed Cookies Mix in a Jar"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1/4 teaspoon baking powder "
+        },
+        {
+            "@value": "1 1/2 cups brown sugar, packed "
+        },
+        {
+            "@value": "1 cup toasted sesame seeds*"
+        },
+        {
+            "@value": "1 cup all-purpose flour "
+        },
+        {
+            "@value": "1/4 teaspoon salt"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

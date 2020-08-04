@@ -1,0 +1,63 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://redkitchenette.com//wp-content/uploads/2016/10/squah-soup-1024x806.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "Salt to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pinch of ground cinnamon and nutmeg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 red apples, peeled and chopped (plus more for garnish)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 medium butternut squash, peeled and cut into cubes (approx. 4-5 cups diced)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tablespoons coconut oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 medium yellow onion, peeled and diced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 can full-fat coconut milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups low-sodium vegetable broth"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Butternut Squash & Apple Soup"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Remove from heat and puree soup in batches in a food processor or blender, or use an immersion blender in the saucepan. Return soup to the pan and season to taste with salt. Serve garnished with finely diced apples. If you like, you can also garnish with a few drops of olive oil and freshly ground black pepper."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add squash, apples, and pinch of cinnamon and nutmeg, saut\u00e9 5 minutes. Stir in coconut milk and vegetable broth, increase heat and bring to a boil. Once boil, reduce heat and simmer for 20 minutes, or until apples and squash are fork tender."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Heat oil in a saucepan over medium-low heat. Add onion and cook 7-8 minutes, or until soft and translucent."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

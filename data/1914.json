@@ -1,0 +1,128 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Delia Smith"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "This tastes authentically Indian, but with an added 'home-made' freshness that is so often lacking in Indian restaurants.\n"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://www.deliaonline.com/sites/default/files/quick_media/chicken-chicken-with-whole-spices.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "Indian, One-pot recipes, Spicy Recipes, Casseroles and Stews, Chicken, Curries, Delia, Delia Smith"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Chicken with Whole Spices"
+    },
+    "recipeCategory": [
+        {
+            "@language": "en",
+            "@value": "Chicken"
+        },
+        {
+            "@language": "en",
+            "@value": "Curries"
+        },
+        {
+            "@language": "en",
+            "@value": "Casseroles and Stews"
+        },
+        {
+            "@language": "en",
+            "@value": "One-pot recipes"
+        },
+        {
+            "@language": "en",
+            "@value": "Spicy Recipes"
+        }
+    ],
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Indian"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n2 onions, very finely chopped or minced "
+        },
+        {
+            "@language": "en",
+            "@value": "\nsalt and freshly milled black pepper  "
+        },
+        {
+            "@language": "en",
+            "@value": "\n2 level teaspoons ground turmeric "
+        },
+        {
+            "@language": "en",
+            "@value": "\n1 x 4 lb (1.8 kg) chicken, cut into 8 pieces "
+        },
+        {
+            "@language": "en",
+            "@value": "\n1 level teaspoon whole coriander seeds "
+        },
+        {
+            "@language": "en",
+            "@value": "\n1 bay leaf, crumbled "
+        },
+        {
+            "@language": "en",
+            "@value": "\n\u00bd tablespoon groundnut or other flavourless oil "
+        },
+        {
+            "@language": "en",
+            "@value": "\n5 oz (150 g) natural yoghurt, mixed with 2 fl oz (55 ml) hot water "
+        },
+        {
+            "@language": "en",
+            "@value": "\n8 whole cardamom pods "
+        },
+        {
+            "@language": "en",
+            "@value": "\n1 medium green pepper, de-seeded and finely chopped "
+        },
+        {
+            "@language": "en",
+            "@value": "\n1 oz (25 g) butter "
+        },
+        {
+            "@language": "en",
+            "@value": "\n\u00be level teaspoon whole cumin seeds "
+        },
+        {
+            "@language": "en",
+            "@value": "\n2 dried red chillies, de-seeded and very finely chopped "
+        },
+        {
+            "@language": "en",
+            "@value": "\n1\u00bd tablespoons groundnut or other flavourless oil "
+        },
+        {
+            "@language": "en",
+            "@value": "\n2 cloves garlic, crushed "
+        },
+        {
+            "@language": "en",
+            "@value": "\n1 heaped teaspoon ground ginger, or 1 level dessertspoon grated fresh root ginger\t"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Prepare the chicken a few hours before cooking.\nArrange the pieces in an oblong roasting tin. In a small bowl mix together the crushed garlic, ground ginger and turmeric with the groundnut oil. Now, with a sharp knife, make several incisions in the chicken pieces, season with salt and pepper, then coat them as evenly as possible with the oil and spice mixture. Leave in a cool place (but not in the fridge) so that the flavours penetrate.\nWhen you're ready to cook the chicken, pre-heat the oven to gas mark 6, 400\u00baF (200\u00baC). Place the tin on the highest shelf, uncovered, and cook for about 20 minutes or until the chicken pieces are a nice golden colour.\nMeanwhile, prepare the whole spices. First of all place them in a thick-based frying pan over a medium heat for about 1-2 minutes until they turn one shade darker, tossing them to keep them on the move. This warming of the spices helps to draw out all the flavour. Next grind them and crush finely, either with a pestle and mortar or in a basin using the end of a rolling pin.\nNext, melt the butter and oil together in a frying pan. Add the onion and green pepper, and cook for 5 minutes. Now add the crushed spices, chillies and crumbled bay leaf, stir and cook for a further 5 minutes. Take the pan off the heat, stir in the yoghurt and water and add a little salt.\nNow pour this mixture all over the chicken pieces, cover the tin with a double sheet of foil and bake for 30 minutes with the heat reduced to gas mark 4, 350\u00baF (180\u00baC), then remove the foil and let it cook for about a further 10 minutes.\nMenu suggestion Serve with Spiced Pilau Rice and Mango Chutney.\n"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Serves 4"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://www.deliaonline.com/recipes/international/asian/indian/chicken-with-whole-spices"
+    },
+    "@id": "http://example.org/recipe"
+}

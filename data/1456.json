@@ -1,0 +1,63 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-US",
+        "@value": "These directions are for a Cuisinart ice cream maker, but should work for any electric countertop ice cream maker."
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "pinch of salt\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd cups peeled, pitted and sliced peaches\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup whole milk\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd cups heavy cream\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2/3 cup granulated sugar\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tbsp. pure vanilla extract"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Easy Peach Ice Cream"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "servingSize": {
+            "@language": "en-US",
+            "@value": "1 cup"
+        }
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "In a medium bowl, use a hand mixer on low speed to combine the milk, sugar and salt until the sugar is dissolved. Stir in the heavy cream and vanilla. Stir in reserved peaches with all juices except the 1/4 cup.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Put the peaches into the bowl of a food processor fitted with the chopping blade. Pulse peaches until rough/finely chopped (depending on your preference). I prefer a rough chop. Remove 1/4 cup of chopped peaches. Reserve the rest of the peaches in the bowl.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Turn on the Cuisinart ice cream maker; pour the mixture into the frozen freezer bowl and let it mix until thickened, about 20 to 25 minutes. The ice cream will have a soft, creamy texture. Gently add the reserved 1/4 cup chopped peaches and mix for 5 more minutes. If a firmer consistency is desired, transfer the ice cream to an airtight container and place in freezer for about 2 hours. \n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "Approximately 4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

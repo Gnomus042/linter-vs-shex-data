@@ -1,0 +1,188 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "ro",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "ro",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "ro",
+        "@value": "mihaelar63"
+    },
+    "datePublished": {
+        "@language": "ro",
+        "@value": "2010-01-20"
+    },
+    "description": {
+        "@language": "ro",
+        "@value": "    legumele se curata, se spala si se taie in forma dorita , ceapa se pune intreaga , se pun la fiert in apa clocotita cu sare .    se fierb sub capac cam 25min .    se adauga la sfarsit salata verde taiata fideluta , patrunjel verde si piper .    "
+    },
+    "image": {
+        "@id": "https://www.bucataras.ro/retete/supa-rapida-de-legume-cu-noodles-3477.html//uploads/modules/news/3477/656x440_supa-rapida-de-legume-cu-noodles-14253.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ro",
+            "@value": "1 ardei iute"
+        },
+        {
+            "@language": "ro",
+            "@value": "2 ardei [diferit colorati]"
+        },
+        {
+            "@language": "ro",
+            "@value": "50 ml ulei"
+        },
+        {
+            "@language": "ro",
+            "@value": "2 catei usturoi"
+        },
+        {
+            "@language": "ro",
+            "@value": "sare"
+        },
+        {
+            "@language": "ro",
+            "@value": "piper"
+        },
+        {
+            "@language": "ro",
+            "@value": "1 morcov"
+        },
+        {
+            "@language": "ro",
+            "@value": "300 gr noodles [ taitei chinezesti ]"
+        },
+        {
+            "@language": "ro",
+            "@value": "1 salata verde"
+        },
+        {
+            "@language": "ro",
+            "@value": "patrunjel verde"
+        },
+        {
+            "@language": "ro",
+            "@value": "1 ceapa"
+        }
+    ],
+    "keywords": {
+        "@language": "ro",
+        "@value": "supa rapida,supa de legume,noodles,"
+    },
+    "name": {
+        "@language": "ro",
+        "@value": "Supa rapida de legume cu noodles"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ro",
+            "@value": "179"
+        }
+    },
+    "recipeCategory": {
+        "@language": "ro",
+        "@value": "Mancaruri de post"
+    },
+    "recipeCuisine": {
+        "@language": "ro",
+        "@value": "Romania"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ro",
+            "@value": "Null"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    patrunjel verde"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    50 ml ulei"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    piper"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    2 catei usturoi"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1 morcov"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1 salata verde"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    sare"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    2 ardei [diferit colorati]"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1 ardei iute"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1 ceapa"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    300 gr noodles [ taitei chinezesti ]"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ro",
+        "@value": "    legumele se curata, se spala si se taie in forma dorita , ceapa se pune intreaga , se pun la fiert in apa clocotita cu sare .    se fierb sub capac cam 25min .    se adauga la sfarsit salata verde taiata fideluta , patrunjel verde si piper .    "
+    },
+    "recipeYield": {
+        "@language": "ro",
+        "@value": "4 portii"
+    },
+    "totalTime": {
+        "@language": "ro",
+        "@value": "PT30M"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "ro",
+            "@value": "    legumele se curata, se spala si se taie in forma dorita , ceapa se pune intreaga , se pun la fiert in apa clocotita cu sare .    se fierb sub capac cam 25min .    se adauga la sfarsit salata verde taiata fideluta , patrunjel verde si piper .    "
+        },
+        "name": {
+            "@language": "ro",
+            "@value": "Supa rapida de legume cu noodles"
+        },
+        "thumbnailURL": {
+            "@language": "ro",
+            "@value": "https://www.bucataras.ro/uploads/modules/news/3477/656x440_supa-rapida-de-legume-cu-noodles-14253.jpg"
+        },
+        "uploadDate": {
+            "@language": "ro",
+            "@value": "2010-01-20 16:21:24"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

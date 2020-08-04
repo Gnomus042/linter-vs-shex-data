@@ -1,0 +1,91 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "fr",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "fr",
+            "@value": "3"
+        },
+        "ratingValue": {
+            "@language": "fr",
+            "@value": "4"
+        },
+        "worstRating": {
+            "@language": "fr",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@id": "https://www.cuisine-etudiant.fr/cuisto/11602-louize-viel"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2015-01-19"
+    },
+    "image": {
+        "@id": "https://img.cuisine-etudiant.fr/image/recette/800500/56ac1d688337e46d7280cdfb1df9ca3f518e2f8e-nouilles-chinoises-au-poulet.JPG"
+    },
+    "ingredients": [
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        1 Kube bouillon boeuf ou poulet selon la viande choisie\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        Poivrons ( soit un entier, soit un tiers rouge, un tiers jaune et un tiers vert)\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        Lait de coco\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        cr\u00e8me fra\u00eeche ( option)\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        Sauce soja\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        \u00e9pices japonaises\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        Nouille chinoise x 2 paquets\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        Citronelle ( ou quelques gouttes de citron)\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        1 Oignons\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        Morceaux de poulets/boeufs d\u00e9j\u00e0 cuits\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        Un peu de piment (ou beaucoup si vous aimez \u00e9pic\u00e9 )\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        ( 3/ 4 grammes en poudre) gingembre\n                                                    \n                                                "
+        }
+    ],
+    "name": {
+        "@language": "fr",
+        "@value": "\n        Nouilles chinoises au poulet\n    "
+    },
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n                                                                                                                Faire revenir le poivron avec l'oignon (on peut rajouter des carottes et de la courgette). \n                                                                            Ajouter la viande.\n                                                                            \u00c9picez pendant la cuisson de la viande ( \u00e7a \u00e0 plus de go\u00fbt apr\u00e8s ! ) puis ajoutez le lait de coco, le Kube, la sauce soja ( une cuill\u00e8re \u00e0 caf\u00e9 \u00e0 peine). Laissez mijotez et ajoutez le gingembre et les \u00e9pices ( encore )  + le piment . Ajoutez un peu de cr\u00e8me fra\u00eeche si le c\u0153ur vous en dit !\n                                                                            S\u00e9par\u00e9ment, faire cuire les nouilles japonaises. Selon votre choix vous pouvez soit les \u00e9gouttez soit les laisser en soupe et ajoutez la sauce . \n                                                                            Si vous les \u00e9gouttez, mettre la sauce dans un ramequin ou dans les p\u00e2tes et bon app\u00e9tit !\n                                                                    "
+    },
+    "@id": "http://example.org/recipe"
+}

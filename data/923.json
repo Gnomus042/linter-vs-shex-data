@@ -1,0 +1,213 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.9"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "182"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Angela Liddon"
+    },
+    "cookingMethod": {
+        "@language": "en-US",
+        "@value": "Bake, Blend, Stove Top"
+    },
+    "dateModified": {
+        "@language": "en-US",
+        "@value": "2019-07-19T00:45:32+00:00"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2018-08-17T14:40:13+00:00"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "These mild- to moderate-heat enchiladas will change your life! A delicious homemade Enchilada Sauce\u00a0smothers a sweet potato, roasted red pepper, sun-dried tomato, and black bean filling wrapped in soft tortillas. After baking, I top it all off with a decadent Cilanto-Lime-Garlic Cashew Cream, green onion, cilantro, red pepper flakes, and chopped avocado. This dish will blow your taste buds away, I can promise you that! Please note that the prep time includes making the enchilada sauce and cashew cream in addition to the enchiladas. Yes, it's a labour-intensive recipe for sure, but you can save time the day of by prepping the cashew cream and enchilada sauce the day before. \n"
+    },
+    "image": {
+        "@id": "https://ohsheglows.com/gs_images/2016/01/20160129-Vegan-enchiladas-with-cashew-cilantro-cream-sauce-blog-00760.jpg"
+    },
+    "inLanguage": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Next Level Vegan Enchiladas"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "320 calories"
+        },
+        "carbohydrateContent": {
+            "@language": "en-US",
+            "@value": "53 grams"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "8 grams"
+        },
+        "fiberContent": {
+            "@language": "en-US",
+            "@value": "7 grams"
+        },
+        "proteinContent": {
+            "@language": "en-US",
+            "@value": "10 grams"
+        },
+        "saturatedFatContent": {
+            "@language": "en-US",
+            "@value": "1 grams"
+        },
+        "servingSize": {
+            "@language": "en-US",
+            "@value": "1 of 6 large enchilada"
+        },
+        "sodiumContent": {
+            "@language": "en-US",
+            "@value": "660 milligrams"
+        },
+        "sugarContent": {
+            "@language": "en-US",
+            "@value": "6 grams"
+        }
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Vegan, Burrito, Enchilada, & Taco"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Vegan, Mexican"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "5 to 6 medium/large soft tortilla wraps"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon chili powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cilantro-Lime-Garlic Cashew Cream"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 medium red onion, diced (2 to 2 1/2 cups)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon plus 1 teaspoon extra-virgin olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (14-ounce/398 mL) can black beans (about 1 1/2 cups), drained and rinsed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 large garlic cloves, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups (260 g) peeled and chopped (1/2-inch dice) sweet potato"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon ground cumin"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon fresh lime juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 1/2 cups Homemade Enchilada Sauce (1 batch)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups baby spinach, roughly chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon fine sea salt, or to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup jarred roasted red pepper, drained and chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup oil-packed sun-dried tomatoes, drained and finely chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Chopped green onion, red pepper flakes, avocado, and cilantro"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "When enchiladas are ready to serve, add half of the cashew cream into a baggie, snip off the corner, and \u201cpipe\u201d the sauce all over the enchiladas. Alternatively, you can simply spread or dollop the sauce on top of each enchilada. Garnish with chopped cilantro, avocado, red pepper flakes, and green onion. Serve any remaining cashew cream on the side with a spoon."
+        },
+        {
+            "@language": "en-US",
+            "@value": " Bake the enchiladas, uncovered, at 350\u2070F for 20 to 25 minutes, until the sauce is a deep red colour and the enchiladas are heated through. "
+        },
+        {
+            "@language": "en-US",
+            "@value": " Add the chopped sweet potato into a medium pot of water and bring to a boil. Reduce heat and simmer for 9 to 15 minutes, uncovered, until fork tender. Drain and set aside. You can also steam the potatoes until tender, instead of boiling. "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Prepare the Homemade Enchilada Sauce and soak the cashews for the Cilantro-Lime-Garlic Cashew Cream before you begin. "
+        },
+        {
+            "@language": "en-US",
+            "@value": " In a large skillet, stir together the oil, onion, and garlic and saut\u00e9 over medium heat for around 3 to 5 minutes until the onion softens. Season with a pinch of salt and pepper. "
+        },
+        {
+            "@language": "en-US",
+            "@value": " Scoop 3/4 cup of the sweet potato and black bean filling onto each tortilla. Roll up the tortilla and place it, seam side down, in the casserole dish. Repeat for the rest. If you have any leftover filling, you can spread it on top of the tortillas. Spread all of the remaining enchilada sauce on top of the tortillas until they are completely covered in sauce. "
+        },
+        {
+            "@language": "en-US",
+            "@value": " Lightly grease a large rectangular baking dish (at least 8x12 inches). Set aside. "
+        },
+        {
+            "@language": "en-US",
+            "@value": " While the enchiladas are baking, prepare the Cilantro-Lime-Garlic Cashew Cream."
+        },
+        {
+            "@language": "en-US",
+            "@value": " Preheat the oven to 350\u00b0F. "
+        },
+        {
+            "@language": "en-US",
+            "@value": " Add the chopped roasted peppers, sun-dried tomatoes, cooked/drained sweet potato, spinach, and black beans. Cook for 3 to 5 minutes over medium-high heat, until the spinach is wilted. "
+        },
+        {
+            "@language": "en-US",
+            "@value": " Add 3/4 cup of Enchilada Sauce onto the bottom of your casserole dish and spread it out evenly. "
+        },
+        {
+            "@language": "en-US",
+            "@value": " Stir in 1/4 cup plus 2 tablespoons of homemade enchilada sauce, followed by the lime juice, chili powder, cumin, and salt. Adjust seasonings to taste, if desired. "
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6 large enchiladas"
+    },
+    "@id": "http://example.org/recipe"
+}

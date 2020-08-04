@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Andr\u00e9a"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Makes 3 servings."
+    },
+    "image": {
+        "@id": "http://www.proteincakery.com/wp-content/uploads/2015/06/coyo-coconut-frozen-protein-yogurt.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 packets stevia (2g)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup unsweetened shredded coconut (30g)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup unsweetened coconut milk (cartoned) (240ml)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 small container of Coyo coconut yogurt (5.3oz or 150g)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup unflavored whey protein powder (45g)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Coconut Frozen Protein Yogurt"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "259"
+        },
+        "carbohydrateContent": {
+            "@language": "en-US",
+            "@value": "10g"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "18g"
+        },
+        "fiberContent": {
+            "@language": "en-US",
+            "@value": "3g"
+        },
+        "proteinContent": {
+            "@language": "en-US",
+            "@value": "15g"
+        },
+        "servingSize": {
+            "@language": "en-US",
+            "@value": "\u2153 recipe"
+        },
+        "sugarContent": {
+            "@language": "en-US",
+            "@value": "6g"
+        }
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Enjoy!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Stir in shredded coconut."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Mix coconut yogurt, whey protein, coconut milk, and stevia until smooth."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cover the bowl and freeze for about 4 hours. Every half hour or so, take the bowl from the freezer and mix the ice cream. (Other options are to use an ice cream maker, or use the ice and salt method.)"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

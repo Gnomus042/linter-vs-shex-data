@@ -1,0 +1,131 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "5.00"
+        },
+        "reviewCount": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://images.media-allrecipes.com/userphotos/50x50/5346107.jpg"
+        },
+        "name": {
+            "@value": "EatingWell Test Kitchen"
+        }
+    },
+    "description": {
+        "@value": "Strawberries, Brie cheese, fresh basil and balsamic vinegar come together in this addictive one-bite appetizer recipe."
+    },
+    "image": {
+        "@value": "http://images.media-allrecipes.com/userphotos/960x960/3759017.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "3 ounces Brie cheese, cut into 12 small pieces (about \u00bd-by-1-inch)"
+        },
+        {
+            "@value": "2 teaspoons balsamic glaze (see Tip)"
+        },
+        {
+            "@value": "12 fresh basil leaves"
+        },
+        {
+            "@value": "12 small fresh strawberries, hulled"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "True"
+    },
+    "name": {
+        "@value": "Strawberry & Brie Bites  "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "28 calories;"
+        },
+        "carbohydrateContent": {
+            "@value": "1"
+        },
+        "cholesterolContent": {
+            "@value": "7"
+        },
+        "fatContent": {
+            "@value": "2"
+        },
+        "fiberContent": {
+            "@value": "0"
+        },
+        "proteinContent": {
+            "@value": "2"
+        },
+        "saturatedFatContent": {
+            "@value": "1"
+        },
+        "sodiumContent": {
+            "@value": "45"
+        },
+        "sugarContent": {
+            "@value": "1"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@value": "Fruit"
+        },
+        {
+            "@value": "Ingredients"
+        },
+        {
+            "@value": "Strawberry"
+        },
+        {
+            "@value": "Smoother Skin"
+        },
+        {
+            "@value": "Berries"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        Thread a strawberry, basil leaf and piece of cheese onto each of 12 toothpicks. Drizzle with balsamic glaze just before serving.\n            "
+    },
+    "recipeYield": {
+        "@value": "12"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "contentURL": {
+            "@value": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/5118192885001/3ec0aab1-f77e-4424-abf3-d637d1396f9b/10s/master.m3u8?fastly_token=NWRkYTlkNmNfNjExOTIyZThhYWU0YTAyZGNmOTlkYTJkYTlkY2Q4NDkyNmMxYTJkNmY0ODY4MDk3NzhmY2ViN2Q3NWFiYTdiMg%3D%3D"
+        },
+        "description": {
+            "@value": "Strawberry and brie cheese combine for an addictive one-bite appetizer."
+        },
+        "duration": {
+            "@value": "PT24.399S"
+        },
+        "embedUrl": {
+            "@value": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=5395927029001&autoStart=true&debuggerID="
+        },
+        "image": {
+            "@value": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5118192885001/3ec0aab1-f77e-4424-abf3-d637d1396f9b/c760bf9e-110c-4010-815d-52326882175c/1280x720/match/image.jpg"
+        },
+        "interactionCount": {
+            "@value": "246"
+        },
+        "name": {
+            "@value": "How to Make Strawberry & Brie Bites"
+        },
+        "thumbnailUrl": {
+            "@value": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5118192885001/3ec0aab1-f77e-4424-abf3-d637d1396f9b/2370f17f-4726-4da6-aeef-bb9ffd4578dc/160x90/match/image.jpg"
+        },
+        "uploadDate": {
+            "@value": "2019-08-16 18:02:31"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

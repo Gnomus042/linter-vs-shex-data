@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Valentine Berge"
+    },
+    "cookTime": {
+        "@value": "0 min"
+    },
+    "image": {
+        "@id": "https://iamhungry.s3.amazonaws.com/production/images/rect_photos/000/000/110/small/rhum-arrange-banane-1.JPG?1565550167"
+    },
+    "name": {
+        "@value": "Rhum arrang\u00e9 de la R\u00e9union"
+    },
+    "prepTime": [
+        {
+            "@value": "10 min"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t6 mois\n\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeCategory": {
+        "@value": "#<Category:0x000055d9ad19aa28>"
+    },
+    "recipeCuisine": {
+        "@value": "La R\u00e9union"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "Du sucre de canne"
+        },
+        {
+            "@value": "2 mangues + de la cannelle"
+        },
+        {
+            "@value": "20 litchis + 2 gousses de vanille"
+        },
+        {
+            "@value": "75 cl de rhum"
+        },
+        {
+            "@value": "1 ananas + 1 citron + 2 gousse de vanille"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Laisser la bouteille dans l'obscurit\u00e9 pendant encore 2 mois, en la remuant 1 fois par semaine."
+        },
+        {
+            "@value": "Une fois par semaine pendant 1 mois m\u00e9langer la bouteille. Le reste du temps, la bouteille doit rester dans l'obscurit\u00e9 (dans un placard par exemple)."
+        },
+        {
+            "@value": "Au bout d'un mois, ajouter 4 cuill\u00e8res \u00e0 soupe de sucre de canne."
+        },
+        {
+            "@value": "Pendant 2 mois laisser la bouteille dans l'obscurit\u00e9 tout en la remuant 1 fois par semaine."
+        },
+        {
+            "@value": "Mettre les bouts de fruits et d'\u00e9pices dans une bouteille d'1L de rhum."
+        },
+        {
+            "@value": "Selon le choix de rhum arrang\u00e9, couper les fruits en petits morceaux, couper les gousses de vanille dans la longueur. Ne pas laisser les noyaux des fruits."
+        },
+        {
+            "@value": "Au bout de ces 2 mois go\u00fbter votre pr\u00e9paration pour savoir si le rhum est assez sucr\u00e9. Rajouter des cuill\u00e8res de sucre si n\u00e9cessaire."
+        },
+        {
+            "@value": "Si vous avez \u00e9t\u00e9 assez patients, vous pouvez maintenant d\u00e9guster votre rhum arrang\u00e9 tant attendus sur une plage de la R\u00e9union!"
+        }
+    ],
+    "recipeYield": {
+        "@value": "10 gourmands"
+    },
+    "sameAs": [
+        {
+            "@id": "https://www.facebook.com/iamhungryfr"
+        },
+        {
+            "@id": "https://www.tipeee.com/iamhungry"
+        },
+        {
+            "@id": "https://www.pinterest.com/bergevalentine/food-food-food/"
+        },
+        {
+            "@id": "https://instagram.com/iamhungry.fr/"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

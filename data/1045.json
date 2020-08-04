@@ -1,0 +1,73 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "pl-PL",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "pl-PL",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@id": "https://www.pogotujmy.pl/author/admin"
+    },
+    "datePublished": {
+        "@language": "pl-PL",
+        "@value": "2018-08-17"
+    },
+    "description": {
+        "@language": "pl-PL",
+        "@value": "Kilka sk\u0142adnik\u00f3w, chwila wolnego czasu i ju\u017c mamy pyszn\u0105 sa\u0142atk\u0119, kt\u00f3r\u0105 zajada\u0107 mo\u017cemy si\u0119 do woli i niemal bez wyrzut\u00f3w sumienia (przymykaj\u0105c oko na zawarty ser brie);)\n"
+    },
+    "image": {
+        "@id": "https://www.pogotujmy.pl/wp-content/uploads/2018/08/DSC_9516-6-250x250.jpg"
+    },
+    "ingredients": [
+        {
+            "@id": "https://www.pogotujmy.pl/skladnik/musztarda"
+        },
+        {
+            "@id": "https://www.pogotujmy.pl/skladnik/oliwa"
+        },
+        {
+            "@id": "https://www.pogotujmy.pl/skladnik/gruszka"
+        },
+        {
+            "@id": "https://www.pogotujmy.pl/skladnik/ser-brie"
+        },
+        {
+            "@id": "https://www.pogotujmy.pl/skladnik/ocet-balsamiczny"
+        },
+        {
+            "@id": "https://www.pogotujmy.pl/skladnik/miod"
+        },
+        {
+            "@id": "https://www.pogotujmy.pl/skladnik/orzechy-wloskie"
+        },
+        {
+            "@id": "https://www.pogotujmy.pl/skladnik/sol-pieprz"
+        },
+        {
+            "@id": "https://www.pogotujmy.pl/skladnik/salata"
+        }
+    ],
+    "name": {
+        "@language": "pl-PL",
+        "@value": "Sa\u0142atka z gruszk\u0105, serem brie i orzechami"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@language": "pl-PL",
+        "@value": "PT10M"
+    },
+    "recipeInstructions": {
+        "@language": "pl-PL",
+        "@value": "\n                \nSa\u0142at\u0119 dok\u0142adnie myjemy, porywamy na mniejsze kawa\u0142ki i umieszczamy w misce. Dodajemy pokrojon\u0105 gruszk\u0119, ser brie i posiekane orzechy.\nWszystkie sk\u0142adniki dressingu dok\u0142adnie ze sob\u0105 mieszamy. Gotowym polewamy sa\u0142atk\u0119 tu\u017c przed podaniem.\n\n\n            "
+    },
+    "@id": "http://example.org/recipe"
+}

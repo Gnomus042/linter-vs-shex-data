@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://www.lericettedilara.it/wp-content/uploads/2014/12/struffoli-150x150.jpg"
+    },
+    "name": {
+        "@language": "it-IT",
+        "@value": "Struffoli"
+    },
+    "recipeYield": {
+        "@language": "it-IT",
+        "@value": "8"
+    },
+    "totalTime": {
+        "@language": "it-IT",
+        "@value": "PT120M"
+    },
+    "@id": "http://example.org/recipe"
+}

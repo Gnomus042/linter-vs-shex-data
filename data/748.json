@@ -1,0 +1,43 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@value": "3 "
+        }
+    },
+    "author": {
+        "@value": "kedvenc-receptek.hu"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2019-11-15"
+    },
+    "description": {
+        "@value": "Savany\u00fa k\u00e1poszt\u00e1b\u00f3l \u00e9s sert\u00e9sh\u00fasb\u00f3l k\u00e9sz\u00edts\u00fcnk egy finom sz\u00e9kelyguly\u00e1st, melyet \u00fagy is emlegetnek, hogy sz\u00e9kelyk\u00e1poszta. A recept k\u00e9ppel, pontos instrukci\u00f3kkal \u00e9s mennyis\u00e9gekkel olvashat\u00f3, \u00edgy k\u00f6nnyen elk\u00e9sz\u00edthet\u0151."
+    },
+    "image": [
+        {
+            "@id": "https://kedvenc-receptek.hu/levesek/szekelykaposzta/data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "@id": "https://kedvenc-receptek.hu/wp-content/uploads/2017/11/szekelykaposzta-labasban.jpg"
+        }
+    ],
+    "name": {
+        "@value": "Egyszer\u0171 sz\u00e9kelyk\u00e1poszta recept"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@value": "oladlas,cs\u00fcl\u00f6k,dagad\u00f3,tejf\u00f6l,liszt,savany\u00fak\u00e1poszta"
+    },
+    "@id": "http://example.org/recipe"
+}

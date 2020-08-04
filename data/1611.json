@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "fi",
+        "@value": "\n\t\t            Riisipuuron hautuessa uunissa on hyvin aikaa keitell\u00e4 maukas rusinakeitto. T\u00e4m\u00e4 on suorastaan klassikko!\n\n\t\t        "
+    },
+    "image": {
+        "@id": "https://www.lejos.fi/wp-content/uploads/2019/04/rusinakeitto-riisipuuro.jpg"
+    },
+    "name": {
+        "@language": "fi",
+        "@value": "Rusinakeitto ja uuniriisipuuro"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t2 tl\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tsuolaa\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t3 rkl\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tperunajauhoja\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t3 dl\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tpuuroriisi\u00e4\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t1 dl\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tsokeria\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tkanelitanko\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tvaniljatanko\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t1 pkt (250 g)\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tSun-Maid rusinoita\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t1,5 l\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tpunaista maitoa\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t1 tl\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tkanelia\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t1 rkl\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tvoita\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t1,5 l\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tvett\u00e4\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "fi",
+        "@value": "\n\t\t\t\t\tValmistusohje\n\t\t\t\t\t\nLaita ensin riisipuuro uuniin valmistumaan: Mittaa ainekset kahden litran kokoiseen voideltuun uunivuokaan. Kypsenn\u00e4 175 asteessa 1 tunti 20 minuuttia.\nSekoita 2-3 kertaa kypsennyksen ensimm\u00e4isen tunnin aikana. Anna puuron vet\u00e4yty\u00e4 10 minuuttia ennen tarjoilua.\nPuuron ollessa uunissa, valmista rusinakeitto: Laita kattilaan vesi, sokeri, kanelitanko, vaniljatanko ja rusinat.\nKeit\u00e4 noin 10 minuuttia, kunnes rusinat py\u00f6ristyv\u00e4t.\nSuurusta keitto kylm\u00e4\u00e4n vesitilkkaan sekoitetulla perunajauholla. Kaada ohuena nauhana, hitaasti sekoittaen keittoon.\nKuumenna ja anna keiton pulpahtaa kerran tai pari. Nosta pois levylt\u00e4.\nTarjoile puuro rusinakeiton kanssa ja matkaa lapsuuden jouluihin makumuistoissasi!\n\n\n\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

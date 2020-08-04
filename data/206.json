@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "nl",
+        "@value": "topmomota autoparts Store"
+    },
+    "brand": {
+        "@language": "nl",
+        "@value": "brandnewmedia.asia"
+    },
+    "image": {
+        "@language": "nl",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1mU74mnqWBKNjSZFAq6ynSpXaq/Een-stuk-gloednieuwe-veersysteem-controle-arm-schorsing-onderdelen-voor-MERCEDES-E-CLASS-W211-onderdelen-2113308107-2113302303.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "nl",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "nl",
+            "@value": "32810990327"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Een stuk gloednieuwe veersysteem controle arm schorsing onderdelen voor MERCEDES E-CLASS W211 onderdelen 2113308107 2113302303"
+    },
+    "@id": "http://example.org/recipe"
+}

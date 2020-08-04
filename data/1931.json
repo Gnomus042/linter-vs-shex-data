@@ -1,0 +1,128 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Shanna O'Hea - Academe at The Kennebunk Inn"
+    },
+    "image": [
+        {
+            "@id": "https://www.thekennebunkinn.com/recipe-coeur-a-la-creme-an-elegant-valentines-dessert-recipe/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%200'%3E%3C/svg%3E"
+        },
+        {
+            "@id": "https://www.thekennebunkinn.com/wp-content/uploads/coeur-a-la-creme-valentines-dessert-recipe.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup - Cream"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 each - Lime, juiced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon - Sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon - Vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pound - Cream Cheese, softened"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u215b cup - Milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd cup - Heavy Cream, whipped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 quart - Strawberries, raspberries, blackberries or blueberries (can also be a mixture of any or all berries)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tablespoon - Sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "5 each - Gelatin Sheets"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup - Grenadine (substitution simple syrup equal parts sugar and water, boiled until sugar dissolves)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Coeur a la Cr\u00e8me - An Elegant Valentine's Dessert Recipe"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Dessert"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "French"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Strain through fine sieve to remove seeds, discard seeds, refrigerate"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add softened gelatin sheets to cream cheese mixture, blend until incorporated"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Remove hearts from mold and invert on plate, peel off cheesecloth. Spoon coulis over heart or put in squeeze bottle and drizzle over top. Can serve with fresh berries or chiffonade of fresh mint, or grate chocolate over the top."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place cream cheese and sugar in kitchen aid with paddle attachment, blend until smooth 2-3 minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place gelatin sheets in dish with enough room temperature water to cover, let soften. (Substitution Knox gelatin powder, 1 packet diluted in room temperature water)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Use either silicone heart molds or heart cookie cutters. Cut cheesecloth into four-inch squares and place in each heart mold, one inch of cheesecloth should overlay mold. Reserve on sheet tray."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add 1\u00bd cup heavy cream in kitchen aid bowl with whisk, whip until stiff peaks. Add sugar and vanilla and slowly blend. Reserve in refrigerator."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Clean berries, half strawberries"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add \u00bd cup cream and milk until smooth"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Fold in reserved whip cream mixture with rubber spatula by hand, until just incorporated, being careful not to over mix."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spoon into cheesecloth lined heart molds, wrap remainder of cheese cloth on top and refrigerate to set for at least 2-4 hours or up to overnight"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place berries in blender with grenadine and lime juice, blend until smooth"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "16"
+    },
+    "@id": "http://example.org/recipe"
+}

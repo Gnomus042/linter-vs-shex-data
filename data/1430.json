@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "it",
+        "@value": "LY-Lightings"
+    },
+    "brand": {
+        "@language": "it",
+        "@value": "shopmeggie.com"
+    },
+    "image": {
+        "@language": "it",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB14n6VLXXXXXcxXXXXq6xXFXXXD/Luce-in-fibra-ottica-kit-in-fibra-ottica-cielo-stellato-celing-luce-rgb-18-w-led.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "it",
+            "@value": "32586408321"
+        },
+        {
+            "@language": "it",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "it",
+        "@value": "Luce in fibra ottica kit in fibra ottica cielo stellato celing luce rgb 18 w led fonte di luce + 0.75mm x 3 m x 300 pz fiber"
+    },
+    "@id": "http://example.org/recipe"
+}

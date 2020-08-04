@@ -1,0 +1,123 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t15 minutes"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2017-04-19 15:55:09.054"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Place a non stick pan over medium heat. Add sausage, crumble and cook until just starting to brown and crispy. Approximately 8 to 10 minutes. Set aside to cool.,Meanwhile, place avocados in a bowl along with green onions and lime juice. Whisk to combine until just chunky and season to taste.,To serve, toast bread and spread a layer of avocado on each followed by crumbled sausage and garnish with queso fresco.,Chef's Note: My favorite way to serve these is to garnish with chopped roasted red peppers, diced jalape\u00f1os and salsa on top."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images.heb.com/is/image/HEBGrocery/recipe-hm-large/sausage-avocado-toasts-recipe.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Sausage Avocado Toasts"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "260"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "35"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "22"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "4"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "11"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "7"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "370"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0.0"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t15 minutes"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Breakfast or Brunch"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "2 Tbsp fresh lime juice"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup(s) queso fresco, crumbled small"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup(s) green onions, diced or minced small"
+        },
+        {
+            "@language": "en",
+            "@value": "12 Oz H-E-B Mild  Breakfast Sausage"
+        },
+        {
+            "@language": "en",
+            "@value": "2 large Hass avocados, pits removed and flesh scooped out"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMeanwhile, place avocados in a bowl along with green onions and lime juice. Whisk to combine until just chunky and season to taste."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTo serve, toast bread and spread a layer of avocado on each followed by crumbled sausage and garnish with queso fresco."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tChef's Note: My favorite way to serve these is to garnish with chopped roasted red peppers, diced jalape\u00f1os and salsa on top."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlace a non stick pan over medium heat. Add sausage, crumble and cook until just starting to brown and crispy. Approximately 8 to 10 minutes. Set aside to cool."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t8\u00a0 People\n\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t30 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

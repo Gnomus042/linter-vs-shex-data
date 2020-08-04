@@ -1,0 +1,82 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "en",
+        "@value": "\n                 [1]\n      "
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "\u00be cup Brut Rose sparkling wine"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons raw, local, honey"
+        },
+        {
+            "@language": "en",
+            "@value": "4 Magret duck breasts, about 8 ounces each"
+        },
+        {
+            "@language": "en",
+            "@value": "12 small mission figs, halved "
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bc cup cold unsalted butter, cut into pieces"
+        },
+        {
+            "@language": "en",
+            "@value": "4 sprigs fresh thyme"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons chopped, toasted pecans"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd cup rendered duck fat or olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "2 teaspoons fresh thyme leaves"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd cup finely chopped shallots"
+        },
+        {
+            "@language": "en",
+            "@value": "Salt and freshly ground black pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "1 teaspoon minced garlic"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00be cup duck stock or chicken stock"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Duck Breast with Honeyed Figs and a Sparkling Rose Sauce"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT15M"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n          \n                          4 Magret duck breasts, about 8 ounces each                          Salt and freshly ground black pepper                          4 sprigs fresh thyme                          \u00bd cup rendered duck fat or olive oil                          \u00bd cup finely chopped shallots                          1 teaspoon minced garlic                          \u00be cup Brut Rose sparkling wine                          \u00be cup duck stock or chicken stock                          12 small mission figs, halved                           2 tablespoons raw, local, honey                          2 teaspoons fresh thyme leaves                          \u00bc cup cold unsalted butter, cut into pieces                          2 tablespoons chopped, toasted pecans                       \n        "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Yield:"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT45M"
+    },
+    "@id": "http://example.org/recipe"
+}

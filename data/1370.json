@@ -1,0 +1,44 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "ru-RU",
+        "@value": "2018-10-08T21:22:23+03:00"
+    },
+    "image": [
+        {
+            "@id": "https://multivari.ru/wp-content/uploads//2018/10/gorohovaya-kasha-v-multivarke5-330x200.jpg"
+        },
+        {
+            "@id": "https://multivari.ru/wp-content/uploads//2018/10/gorohovaya-kasha-v-multivarke4-330x200.jpg"
+        },
+        {
+            "@id": "https://multivari.ru/wp-content/uploads//2018/10/gorohovaya-kasha-v-multivarke3-330x200.jpg"
+        },
+        {
+            "@id": "https://multivari.ru/wp-content/uploads//2018/10/gorohovaya-kasha-v-multivarke2-330x200.jpg"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "ru-RU",
+            "@value": "\u0421\u043e\u043b\u044c\u00a0\u043f\u043e \u0432\u043a\u0443\u0441\u0443"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0412\u043e\u0434\u04304\u00a0\u0441\u0442\u0430\u043a\u0430\u043d\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u041c\u0430\u0441\u043b\u043e \u0441\u043b\u0438\u0432\u043e\u0447\u043d\u043e\u0435\u00a0\u043f\u043e \u0432\u043a\u0443\u0441\u0443"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0421\u043f\u0435\u0446\u0438\u0438 \u0438 \u041f\u0440\u0438\u043f\u0440\u0430\u0432\u044b\u00a0\u043f\u043e \u0432\u043a\u0443\u0441\u0443"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0413\u043e\u0440\u043e\u04451\u00a0\u0441\u0442\u0430\u043a\u0430\u043d"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

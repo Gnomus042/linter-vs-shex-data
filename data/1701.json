@@ -1,0 +1,126 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "3"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Vegan Insanity"
+    },
+    "image": {
+        "@id": "http://www.veganinsanity.com/wp-content/uploads/2014/08/Vegan-Broccoli-Tofu-Rice.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 tbsp cornstarch"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tbsp fresh ginger, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tbsp oil (I used avocado oil)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp coconut sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup soy sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 clove garlic, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 block extra firm tofu"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp sweet rice wine vinegar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup rice (I used basmati rice)*"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 small head broccoli, chopped small"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 small bell pepper, thinly sliced (I used yellow)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tbsp sesame oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Green onions, chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tbsp cornstarch + 2 tbsp water (mixed well)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Sesame seeds"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups water*"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Tofu Teriyaki Bowl with Broccoli & Peppers"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Entree"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Add rice to your bowls, and top with tofu, broccoli and peppers. Drizzle the teriyaki sauce on top, then sprinkle some sesame seeds and green onions on top."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Steam broccoli & sliced peppers until fork-tender. Set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Whisk together the soy sauce, sweet rice wine vinegar, sugar, sesame oil, ginger, and fresh garlic. Then add the cornstarch/water mixture. Bring to a simmer in a small pot. Simmer for 3-5 minutes, until the sauce thickens. Remove from heat and set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Mix together cornstarch and oil. Add the tofu and coat each piece evenly. Spread tofu on a large baking sheet, lined with parchment paper or a Silplat baking mat. Bake in the preheated oven for about 15 minutes, then flip and bake for another 20 minutes until browned (a nice deep brown is ideal, but not black!)."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat oven to 425F. Wrap tofu in a clean towel, add something heavy (I usually use a few heavy cookbooks), and set aside for about 15 minutes to press out some of the water in the tofu. Slice your tofu into cubes or thin squares (like I did)."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cook rice according to package directions (usually 1 cup rice to 2 cups water*). Set aside."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "2-4"
+    },
+    "@id": "http://example.org/recipe"
+}

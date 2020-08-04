@@ -1,0 +1,79 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "\n                Cook Time\n                5 minutes            "
+    },
+    "image": [
+        {
+            "@id": "https://albertamilk.com/wp-content/uploads/2018/06/Halloumi-Salad-1600-4-1600x700.jpg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "https://albertamilk.com/wp-content/uploads/2018/06/Halloumi-Salad-1600-4-1600x700.jpg"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Grilled Halloumi & Strawberry Salad"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "\n                Prep Time\n                5 minutes            "
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Dinner"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n                                            1/3 cup\n                                            (35 g)\n                                            walnut halves\n                                        "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                                            3 tbsp\n                                            (45 ml)\n                                            extra-virgin olive oil\n                                        "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                                            1 cup\n                                            (250 ml)\n                                            quartered strawberries\n                                        "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                                            2 tbsp\n                                            (30 ml)\n                                            balsamic vinegar\n                                        "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                                            3/4 pkg\n                                            (180 g)\n                                            Halloumi cheese, sliced\n                                        "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                                            6 cups\n                                            (180 g)\n                                            mixed greens\n                                        "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                                            2 tbsp\n                                            (30 ml)\n                                            thinly sliced fresh basil\n                                        "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                                            1 tbsp\n                                            (15 ml)\n                                            dijon mustard\n                                        "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                                            1 tbsp\n                                            (15 ml)\n                                            pure maple syrup\n                                        "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                    Directions\n\n                    \n                        \n                                                    \n                                                                    Preheat BBQ or indoor grill to medium-high. Add halloumi to grill, and cook until golden, about 1 minute per side.\n                                                                    Combine vinaigrette ingredients in mason jar, cover, and shake to emulsify.\n                                                                    Assemble salad. Top with warm halloumi, berries and walnuts. Serve vinaigrette on side.\n                                                                    Enjoy at your Canada Day gathering or next family BBQ. Get Joyfull Tip: For extra Canadiana, try maple-glazed walnuts! In a small frying pan, toast walnut halves on medium heat with a drizzle of pure maple syrup. Stir constantly for 5 minutes and serve warm.\n                                                            \n                        \n                                    "
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "\n                Yields\n                6            "
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "PT10M"
+    },
+    "@id": "http://example.org/recipe"
+}

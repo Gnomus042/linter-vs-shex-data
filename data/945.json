@@ -1,0 +1,166 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "63"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4.5"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Betty Crocker Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "01/01/2004"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "09/19/2017"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Inch your way into a fun celebration with an easy-to-make and fun-to-eat cake!"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/c766bfe9-fd90-4add-9aad-290f10e8b0a9.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "inchworm cake"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Inchworm Cake"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "340 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "51 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "40 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "3 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "0 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "1 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "3 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Serving "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "290 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "35 g"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "2 1/2 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H30M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Dessert"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    small pretzel sticks\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    \n                \n            \n            \n                \n                    \n                        \n                    \n                    Water, vegetable oil and eggs called for on cake mix box\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    box Betty Crocker\u2122 Super Moist\u2122 cake mix (any flavor)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    \n                \n            \n            \n                \n                    \n                        \n                    \n                    Tray or cardboard (19x14 inches), covered with wrapping paper and plastic food wrap or foil\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    5\n                \n            \n            \n                \n                    \n                        \n                    \n                    M&M's\u00ae chocolate candies\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    8\n                \n            \n            \n                \n                    \n                        \n                    \n                    drops green food color\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    vanilla wafer cookies\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1 1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    containers Betty Crocker\u2122 Rich & Creamy vanilla frosting\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    24\n                \n            \n            \n                \n                    \n                        \n                    \n                    gumdrops\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N1ee84893b5f7467e8b5049b5d5d144c8"
+        },
+        {
+            "@id": "_:N0447b030699042b4b85c5bafe0e15027"
+        },
+        {
+            "@id": "_:N9d7811d2e31d4856b73402c0b902b722"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "16"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT2H28M"
+    },
+    "@id": "http://example.org/recipe"
+}

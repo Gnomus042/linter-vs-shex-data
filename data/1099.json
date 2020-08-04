@@ -1,0 +1,92 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Deseree Kazda"
+    },
+    "description": {
+        "@value": "A mixture of shredded chicken, onions, jalapenos, black beans and guacamole sandwiched between two tortillas, topped with cheese and broiled. <div class='shareaholic-canvas' data-app='share_buttons' data-title='Chicken Tortilla Stack ' data-link='https://www.lifesambrosia.com/chicken-tortilla-stack-recipe/' data-summary='A mixture of shredded chicken, onions, jalapenos, black beans and guacamole sandwiched between two tortillas, topped with cheese and broiled.' data-app-id='27978203' data-app-id-name='post_below_content'></div>"
+    },
+    "image": {
+        "@id": "https://cdn.lifesambrosia.com/wp-content/uploads/chicken-tortilla-stack.jpg"
+    },
+    "name": {
+        "@value": "Chicken Tortilla Stack Recipe"
+    },
+    "recipeCategory": {
+        "@value": "Main Dishes"
+    },
+    "recipeCuisine": {
+        "@value": "Mexican"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1.5 pounds boneless skinless chicken breasts (about 2 cups)"
+        },
+        {
+            "@value": "2 jalapenos, diced, divided"
+        },
+        {
+            "@value": "1/2 teaspoon cumin"
+        },
+        {
+            "@value": "8 white corn tortillas"
+        },
+        {
+            "@value": "1/2 onion, diced"
+        },
+        {
+            "@value": "1-2 tablespoons vegetable oil"
+        },
+        {
+            "@value": "fresh salsa and sour cream for garnish if desired"
+        },
+        {
+            "@value": "1/2 teaspoon chili powder"
+        },
+        {
+            "@value": "2 tablespoons olive oil"
+        },
+        {
+            "@value": "1 handful cilantro, chopped"
+        },
+        {
+            "@value": "1 (14.5 ounce) can of blank beans, drained"
+        },
+        {
+            "@value": "1 cup shredded Mexican cheese blend"
+        },
+        {
+            "@value": "juice of 1/2 lime"
+        },
+        {
+            "@value": "kosher salt and pepper"
+        },
+        {
+            "@value": "About 1/2 cup guacamole (I made my own but you can use store bought)"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N3692b45db73f417396ddb9b85e17fa87"
+        },
+        {
+            "@id": "_:N50db4e34029f4dd99de029b79d5f839c"
+        },
+        {
+            "@id": "_:N440fde6aada645e3ac3bc6c28e093a27"
+        },
+        {
+            "@id": "_:N62c3c8b44b7d44809c559b4c70aa4cb4"
+        },
+        {
+            "@id": "_:N3dd6f1494df544eea2ca81c9eb1c51e3"
+        },
+        {
+            "@id": "_:Nb5b068b809a24139966d6f8918d72c44"
+        }
+    ],
+    "recipeYield": {
+        "@value": "Serves 4"
+    },
+    "@id": "http://example.org/recipe"
+}

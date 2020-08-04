@@ -1,0 +1,44 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "fi",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "fi",
+            "@value": "5"
+        }
+    },
+    "description": {
+        "@language": "fi",
+        "@value": "L\u00e4mmin, pehme\u00e4 ja suklainen juoma. Kuohkea kermavaahto kuorrutuksena on piste i:n p\u00e4\u00e4lle."
+    },
+    "image": {
+        "@id": "https://cdn-rdb.arla.com/Files/arla-fi/1850323628/953fafeb-cd3b-42f3-bdb3-a9ca78b374e3.jpg?crop=(0,68,0,-129)&w=1680&h=750&scale=both&ak=814e15de&hm=5d97ed44"
+    },
+    "name": {
+        "@language": "fi",
+        "@value": "L\u00e4mmin kaakao kermavaahdolla"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fi",
+            "@value": "\n                \u00bd dl vatkattua Arla kuohukermaa\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n2 tl kaakaota\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n2 tl kidesokeria\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                2 dl Arla kevytmaitoa\n\n                \n        "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

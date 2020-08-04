@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "schema.orgAggregateRating"
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Michelle G. Stradford"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT9H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n\t\t\n\t\t  Take Back Your Power, Your Glorious And Rise I M Rising Determined Confident Powerful Takes The Reader On An Emotive Journey Of Empowerment Through Life S Countless Triumphs And Tribulations Above All Else, It Inspires One To Tap Into Their Infinite Potential So They Can Overcome Any Obstacle That Appears On Their Unique Path Through Heartfelt Storytelling, Alliterative Diction, And Soul Awakening Themes, This Empathic Poetess Instills Each Reader With An Unwavering Sense Of Perseverance, Courage, And Compassion This Uplifting Book Is Than A Mere Collection Of Poetic Musings, It Serves As A Powerful Tool Of Self Love And Personal Transformation That Belongs On Every Fierce Soul S Bookshelf Or Better Yet, On Their Nightstand For Their Daily Dose Of Inspiration Each Time They Rise The Collection Offers Poems For Women And Men Urging Us To Stretch And Grow To Our Fullest Potential The Empowering Prose Offers Encouraging Words With A Call To Action To Harness Our Self Confidence To Achieve The Goals We Were Destined To Shatter Whether In Search Of A Connection, Shared Experiences, Healing Thoughts Or Encouragement, This Self Help Collection Offers Ready Salves To Our Daily Life Experiences I M Rising Is Organized Into Three Chapters Entitled Evolving, Resilience, And Rising To Aid In Finding Those Special Words Meant For Us       \t\t"
+    },
+    "image": {
+        "@id": "http://stevemiddleton.info/wp-content/upload/2017/7e7fe8e77334208ee8e68b92b6ab3b28i637f2f8fbda1ee8ec3e419f3aa0a8cc7gr-assets637f2f8fbda1ee8ec3e419f3aa0a8cc7com/images/S/compressed637f2f8fbda1ee8ec3e419f3aa0a8cc7photo637f2f8fbda1ee8ec3e419f3aa0a8cc7goodreads637f2f8fbda1ee8ec3e419f3aa0a8cc7com/books/1567504180l/48042227637f2f8fbda1ee8ec3e419f3aa0a8cc7_SY475_637f2f8fbda1ee8ec3e419f3aa0a8cc7jpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "729"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "download I'm Rising: Determined. Confident. Powerful. books, download I'm Rising: Determined. Confident. Powerful., read online I'm Rising: Determined. Confident. Powerful., kindle ebook I'm Rising: Determined. Confident. Powerful., I'm Rising: Determined. Confident. Powerful."
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "I'm Rising: Determined. Confident. Powerful."
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "download I'm Rising: Determined. Confident. Powerful. books \u2609 Take Back Your Power, Your Glorious And Rise I M Rising Determined Confident Powerful Takes The Reader On An Emotive Journey Of Empowerment Through Life S Countless Triumphs And Tribulations Above All Else, It Inspires One To Tap Into Their Infinite Potential So They Can Overcome Any Obstac."
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT54M"
+    },
+    "ratingValue": {
+        "@language": "en-US",
+        "@value": "4.4"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "multicultural literature"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "reviewCount": {
+        "@language": "en-US",
+        "@value": "729"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "download I'm Rising: Determined. Confident. Powerful. books \u2609 Take Back Your Power, Your Glorious And Rise I M Rising Determined Confident Powerful Takes The Reader On An Emotive Journey Of Empowerment Through Life S Countless Triumphs And Tribulations Above All Else, It Inspires One To Tap Into Their Infinite Potential So They Can Overcome Any Obstac."
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "I'm Rising: Determined. Confident. Powerful."
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://stevemiddleton.info/wp-content/upload/2017/7e7fe8e77334208ee8e68b92b6ab3b28i637f2f8fbda1ee8ec3e419f3aa0a8cc7gr-assets637f2f8fbda1ee8ec3e419f3aa0a8cc7com/images/S/compressed637f2f8fbda1ee8ec3e419f3aa0a8cc7photo637f2f8fbda1ee8ec3e419f3aa0a8cc7goodreads637f2f8fbda1ee8ec3e419f3aa0a8cc7com/books/1567504180l/48042227637f2f8fbda1ee8ec3e419f3aa0a8cc7_SY475_637f2f8fbda1ee8ec3e419f3aa0a8cc7jpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2017-04-11T05:11+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,27 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT30M"
+    },
+    "image": {
+        "@id": "http://www.hotchocolatehits.com/wp-content/uploads/2014/06/chocolate-cake-226x226.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "The Best Chocolate Cake "
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT30M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\nTo make the cake:\n\n \tPreheat the oven to 350 F or 180 C. Butter 2 9-inch circular baking pans (or a 9x13 inch pan), line the bottom with parchment paper and dust with flour.\n \tIn a large bowl, combine the sugar, flour, cocoa, baking powder, soda and salt- whisk until incorporated.\n \tMake a well in the center of the mixture and add in the eggs, buttermilk. Whisk to combine.\n \tAdd the coffee, oil and vanilla and continue mixing until everything is well incorporated.\n \tDivide the batter between the two pans and bake for 30-35 minutes or until a toothpick inserted comes out almost clean or with a few moist crumbs.\n \tCool the cakes completely before frosting.\n\nTo make the frosting:\n\n \tMelt the butter.\n \tAdd the cocoa powder and whisk until smooth.\n \tGradually add in the powdered sugar, alternating with the milk and continue beating until light and fluffy.\n \tStir in the vanilla and salt.\n\n\n\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "10-12 pieces"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,42 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "ricettedellanonna.net"
+    },
+    "image": {
+        "@id": "https://infrigo.it/wp-content/uploads/2018/03/Ricetta-muffin-bicolore-620x414-360x220.jpg"
+    },
+    "name": {
+        "@id": "https://infrigo.it/dolcetti/muffin-bicolore-da-ricettedellanonna/"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "Farina 00"
+        },
+        {
+            "@value": "Sale"
+        },
+        {
+            "@value": "Vanillina"
+        },
+        {
+            "@value": "Zucchero"
+        },
+        {
+            "@value": "Uova"
+        },
+        {
+            "@value": "Olio di semi di girasole"
+        },
+        {
+            "@value": "Caff\u00e8"
+        },
+        {
+            "@value": "Lievito"
+        },
+        {
+            "@value": "Latte"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

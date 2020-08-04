@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/chef/stefano-ghetta"
+    },
+    "image": {
+        "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//files/chunks/54c9f3cefb5ab97177006125/photo-max_54c9f854fb5ab96dd70006af.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "La nostra mela alla vaniglia e sambuco "
+    },
+    "recipeIngredient": [
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/stecca-di-vaniglia"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/acido-citrico"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/zucchero"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/fecola"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/acqua"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/rum-bianco"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/uova-albume"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/uova-tuorlo"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/succo-di-limone"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/mela-golden"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/mela"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/fiori-di-sambuco"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/panna-35-percent"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/mela-verde"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/la-nostra-mela-alla-vaniglia-e-sambuco//it/ingredienti/latte"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\tClafoutis: centrifugare le due mele e incorporare subito il succo di limone. In un pentolino portare a 118\u00b0C l\u2019acqua e lo zucchero, poi versare a filo sopra gli albumi precedentemente montati parzialmente e continuare a montare finch\u00e9 non ne deriva una meringa solida. Montare la panna finch\u00e9 non diventa lucida, poi unire la centrifuga e la meringa, mescolare delicatamente fino ad amalgamare il tutto. Trasferire il composto in stampini di silicone a mezza sfera e congelare a -18\u00b0C.\u00a0\nSalsa vaniglia: versare il latte in un pentolino, incidere la stecca di vaniglia e raschiare i semi neri che sono all\u2019interno con un coltellino, mettere i semi in infusione nel latte e portare a bollore. Con una frusta mescolare bene i tuorli, lo zucchero e la fecola, filtrare il latte e versarlo a filo sopra i tuorli; rimettere sul fuoco e continuando a mescolare portarlo a 83\u00b0C. Ritirare e tenere al fresco.\u00a0\nMarmellata di sambuco: tagliare le mele a pezzi, mettere in un pentola (meglio se di rame), insieme agli altri ingredienti e far cuocere per 20 minuti cos\u00ec da ottenere una marmellata, quando \u00e8 fredda frullare al Minipimer o al Thermomix.\u00a0\nMele spadellate: pelare le mele e tagliarle a dadini. In un saltiere unire le mele, l\u2019acqua lo zucchero e il rum, e rosolare il tutto per 2 minuti.Presentazione. \u00a0Togliere dallo stampo il clafutis e appoggiarlo al piatto capovolto, copparci sopra le mele spadellate e infine coprire con il semifreddo al mela verde in modo da ricreare la forma tonda. Accompagnare con delle righe di salsa vaniglia e marmellata di sambuco. \n\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,92 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Tara Noland"
+    },
+    "description": {
+        "@value": "Tofu Shirataki Noodle Buddha Bowl will take you to another level of umami delights with this fast and easy to pull together dinner that is healthy and delicious!"
+    },
+    "image": {
+        "@id": "https://noshingwiththenolands.com/wp-content/uploads/2017/04/Buddha-Shirataki-Noodle-Bowl-480x480-300x300.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1 Tbsp. honey (omit if making vegan)"
+        },
+        {
+            "@value": "1 large strip loin steak, salted and peppered"
+        },
+        {
+            "@value": "Fresh mint"
+        },
+        {
+            "@value": "Vegetables of your choice, we used matchstick carrots, sliced red peppers, sliced celery, and snap peas"
+        },
+        {
+            "@value": "Salt and pepper to taste"
+        },
+        {
+            "@value": "1\u00bd Tbsp. white miso paste"
+        },
+        {
+            "@value": "2 Tbsp. rice wine vinegar"
+        },
+        {
+            "@value": "2 House Foods pkgs. Tofu Shirataki Spaghetti Noodles"
+        },
+        {
+            "@value": "1 Tbsp. butter"
+        },
+        {
+            "@value": "1 tsp. garlic, finely minced"
+        },
+        {
+            "@value": "1 Tbsp. soy sauce (gluten free if needed)"
+        },
+        {
+            "@value": "1 tsp. sesame seeds"
+        },
+        {
+            "@value": "Chopped cashews"
+        },
+        {
+            "@value": "1 Tbsp. sesame oil"
+        },
+        {
+            "@value": "1 Tbsp. ginger root, grated or jarred"
+        },
+        {
+            "@value": "1\u00bd tsp. lime juice"
+        }
+    ],
+    "name": {
+        "@value": "Tofu Shirataki Noodle Buddha Bowl"
+    },
+    "recipeCategory": {
+        "@value": "Entree"
+    },
+    "recipeCuisine": {
+        "@value": "Asian"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "For the dressing: whisk the miso paste into the soy sauce and then add the other ingredients and whisk well. Set aside."
+        },
+        {
+            "@value": "Heat the butter in a cast iron pan over medium high heat and cook steak depending on thickness until medium rare. Ours was about 3 min. per side for a \u00be\" steak. Let rest for 5 min."
+        },
+        {
+            "@value": "Drain and rinse shirataki noodles and boil for 2-3 min. and drain, set aside to cool."
+        },
+        {
+            "@value": "Place a serving of noodles in the bottom of a bowl. Top with veggies and sliced steak. Add a bunch or two of mint leaves."
+        },
+        {
+            "@value": "Serve with the dressing and have everyone tear the mint into the buddha bowl."
+        }
+    ],
+    "recipeYield": {
+        "@value": "3-4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

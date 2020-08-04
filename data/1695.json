@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@language": "fr",
+        "@value": "Recette avocats aux crevettes"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fr",
+            "@value": "  \n2 oeufs"
+        },
+        {
+            "@language": "fr",
+            "@value": "2 Avocats"
+        },
+        {
+            "@language": "fr",
+            "@value": " \n50 cl de Mayonnaise au Citron"
+        },
+        {
+            "@language": "fr",
+            "@value": "  \n200 g de Crevettes d\u00e9cortiqu\u00e9es"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n\t\t\t\t1 On d\u00e9coupe les Avocats en deux.\n\n2 On pr\u00e9pare les oeufs durs, on les rafra\u00eechit et on les \u00e9cale, on met les jaunes de c\u00f4t\u00e9, et on \u00e9mince les blancs.\n\n3 On les m\u00e9lange avec la Mayonnaise,  et on garnit les Avocats avec cette pr\u00e9paration.\n\n4 On place les Crevettes d\u00e9cortiqu\u00e9es et cuites par dessus, on pars\u00e8me de jaune d'oeuf hach\u00e9. On d\u00e9guste le tout bien frais avec la Mayonnaise.\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

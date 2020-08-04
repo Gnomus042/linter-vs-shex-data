@@ -1,0 +1,141 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@value": "0.0"
+    },
+    "cookTime": {
+        "@value": "PT30M"
+    },
+    "description": {
+        "@value": "Rice with green peas, quick and delicious side dish. Not be amiss to submit a side dish with chicken in a spicy-honey marinade. Very tasty, hearty and fast. This dish means a lot and will complement a summer menu in the country."
+    },
+    "image": [
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2017jun/05/56/2035010_70111-300x0.jpg"
+        },
+        {
+            "@id": "https://en.edunclub.ru/recipe/141734-rice-with-green-peas-and-ham///edunclub.ru/upload/c493b4a8b2991fd5dc477590e7f919d4.jpg"
+        },
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2017jun/05/53/2035006_69942-300x0.jpg"
+        },
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2017jun/05/57/2035011_66428-300x0.jpg"
+        },
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2017jun/05/41/2035033_99611-300x0.jpg"
+        },
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2017jun/05/58/2035013_73367-300x0.jpg"
+        },
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2017jun/05/59/2035014_39237-300x0.jpg"
+        },
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2017jun/05/00/2035015_60095-300x0.jpg"
+        },
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2017jun/05/52/2035005_95946-300x0.jpg"
+        },
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2017jun/05/49/2035001_82884-300x0.jpg"
+        },
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2017jun/05/54/2035008_55648-300x0.jpg"
+        }
+    ],
+    "ingredients": {
+        "@value": "\n                \n                                    \n                                        Figure\n                                                    \n                                    \n                                        Chicken\n                                                    \n                                    \n                                        Green peas\n                                                    \n                                    \n                                        Honey\n                                                    \n                                    \n                                        Soy sauce\n                                                    \n                                    \n                                        Garlic\n                                                    \n                                    \n                                        Black pepper\n                                                    \n                                    \n                                        Paprika sweet\n                                                    \n                                    \n                                        Curry\n                                                    \n                                    \n                                        Ginger\n                                                    \n                                    \n                                        Vegetable oil\n                                                    \n                                    \n                                        Melted butter\n                                                    \n                                \n            "
+    },
+    "keywords": {
+        "@value": "Null"
+    },
+    "name": {
+        "@value": "Rice with green peas and ham"
+    },
+    "recipeCategory": [
+        {
+            "@id": "https://en.edunclub.ru/catalog/6-hot-meals/"
+        },
+        {
+            "@id": "https://en.edunclub.ru/catalog/224-cereal/"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@value": "\n                                        Ginger\n                                                    "
+        },
+        {
+            "@value": "\n                                        Melted butter\n                                                    "
+        },
+        {
+            "@value": "\n                                        Chicken\n                                                    "
+        },
+        {
+            "@value": "\n                                        Vegetable oil\n                                                    "
+        },
+        {
+            "@value": "\n                                        Soy sauce\n                                                    "
+        },
+        {
+            "@value": "\n                                        Black pepper\n                                                    "
+        },
+        {
+            "@value": "\n                                        Curry\n                                                    "
+        },
+        {
+            "@value": "\n                                        Figure\n                                                    "
+        },
+        {
+            "@value": "\n                                        Honey\n                                                    "
+        },
+        {
+            "@value": "\n                                        Green peas\n                                                    "
+        },
+        {
+            "@value": "\n                                        Paprika sweet\n                                                    "
+        },
+        {
+            "@value": "\n                                        Garlic\n                                                    "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "\n                    Quickly stirring with a whisk, allow to connect the oil with the honey, will appear here such uniform bubbles. Put in pan with chicken legs                "
+        },
+        {
+            "@value": "\n                    Fry until Golden brown, 15-17 minutes, stirring occasionally, over low heat. First, under the lid, then allow to fry.                "
+        },
+        {
+            "@value": "\n                    Prepare the necessary products                "
+        },
+        {
+            "@value": "\n                    You can take any part of the chicken, I have chicken legs. Chop them in small pieces, combine with marinade.                "
+        },
+        {
+            "@value": "\n                    Until reaching until tender legs, on a slightly heated pan put the melted butter ( you can take butter and 2 tbsp) green peas. \nWarm up a minute, stirring.                "
+        },
+        {
+            "@value": "\n                    Serve a plate of rice and roasted chicken legs. Serve with a salad of fresh vegetables. \n\nBon appetit!                "
+        },
+        {
+            "@value": "\n                    Put on fire a saucepan with 1.5 l of water. When it boils, add salt and throw two bags of rice. \nPut the timer for 25 minutes. \nMix soy sauce, paprika, pressed garlic, ground dry ginger, curry, pepper.                "
+        },
+        {
+            "@value": "\n                    Heat a little pan, pour vegetable oil 0.5 tbsp, add honey.                "
+        },
+        {
+            "@value": "\n                    Add the rice from the bags, to mix.                "
+        },
+        {
+            "@value": "\n                    Remove rice from boiling water, drain off the water.                "
+        }
+    ],
+    "recipeYield": {
+        "@value": "4"
+    },
+    "resultPhoto": {
+        "@id": "https://en.edunclub.ru/recipe/141734-rice-with-green-peas-and-ham///edunclub.ru/upload/c493b4a8b2991fd5dc477590e7f919d4.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

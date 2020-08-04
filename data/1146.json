@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "https://www.przyslijprzepis.pl/przepis/murzynek-z-masa-kokosowa//uzytkownik/fantazjesmaku"
+        }
+    },
+    "datePublished": {
+        "@value": "\n                            Opublikowany: 08.01.2014\n                        "
+    },
+    "description": {
+        "@value": "Dla wielbicieli kokosu\u2026"
+    },
+    "headline": {
+        "@value": "MURZYNEK Z MAS\u0104 KOKOSOW\u0104"
+    },
+    "image": [
+        {
+            "@id": "_:N285785c174a24ba7a7505647730412d1"
+        },
+        {
+            "@id": "_:N0cd0f1ff41df40138fffeaa744de8b7b"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "https://www.przyslijprzepis.pl/przepis/murzynek-z-masa-kokosowa"
+    },
+    "name": {
+        "@value": "MURZYNEK Z MAS\u0104 KOKOSOW\u0104"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:Nd5338f58855b484a9903f4e1a3bb2b23"
+        },
+        "name": {
+            "@value": "PrzyslijPrzepis.pl"
+        }
+    },
+    "recipeIngredient": {
+        "@value": "Sk\u0142adniki\n            6 jajek\n1 i 1/2 szkl. cukru\n1 i 1/2 szkl. m\u0105ki\n\u0142y\u017cka kakao\n12 \u0142y\u017cek oleju\n\u0142y\u017ceczka proszku do pieczenia\n        "
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,48 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@value": "34"
+        }
+    },
+    "description": {
+        "@value": "Tender and juicy white meat chicken topped with broccoli and a cheesy sauce with Ritz crackers. This Cracker Barrel copycat is easy to make and will become a family favorite. ## CLICK TO SEE FULL RECIPES ##| Casserole | Casserole Recipes | Casserole Recipes For Dinner | Casserole Recipes Healty | Casserole Dishes | Casserole Recipes Easy | Casserole Recipes Casserole | Popular Casserole Recipes | Chicken Casserole | Simple Casserole Recipes | Cowboy Casserole | Taco Casserole | #dahardulu"
+    },
+    "image": {
+        "@id": "https://3.bp.blogspot.com/-KsmvuyYKcAU/XONzlskZ1tI/AAAAAAAAJHM/JkDKHr5B0EE-DDmpwj16F4kIEoewecjOgCLcBGAs/s1600/Broccoli_Cheddar_Chicken1.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1 can cheddar cheese soup"
+        },
+        {
+            "@value": "1/2 teaspoon pepper"
+        },
+        {
+            "@value": "1 cup milk"
+        },
+        {
+            "@value": "1/2 teaspoon paprika"
+        },
+        {
+            "@value": "## CLICK TO SEE FULL RECIPES ##"
+        },
+        {
+            "@value": "1/2 teaspoon salt"
+        }
+    ],
+    "name": {
+        "@value": "Broccoli Cheddar Chicken"
+    },
+    "recipeInstructions": {
+        "@value": "Null"
+    },
+    "recipeYield": {
+        "@value": "2 Servings"
+    },
+    "@id": "http://example.org/recipe"
+}

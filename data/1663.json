@@ -1,0 +1,125 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT16M"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n                        Dress up these almond-flavored sugar cookies with a simple cooked blackberry filling spiced with cinnamon and cloves. Almond blackberry cookies taste as good as they look and are easy to package in a jar or cellophane bag tied with a ribbon for a sweet gift.\n                        \n                    "
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://driscolls.imgix.net/-/media/assets/recipes/blackberry-swirl-almond-cookies.ashx"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "\n\tHoliday GiftablesPackable SnacksPark PicnicsMothers Day\n"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Blackberry Swirl Almond Cookies"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "102.08"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "15.19 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "19.08 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "4.01 g"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": ".51 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "1.22 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "2.78 g"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "15 mg"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT20M"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n    \n    1/8\n    Tsp.\n    ground cloves\n    \n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n    \n    1/4\n    Tsp.\n    salt\n    \n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n    \n    1\n    large egg\n    \n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n    \n    2\n    Teaspoons\n    granulated sugar or sanding sugar (optional)\n    \n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n    \n    1/4\n    Tsp.\n    ground cinnamon\n    \n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n    \n    1\n    stick unsalted butter, softened\n    \n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n    \n    1/2\n    Tsp.\n    almond extract\n    \n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n    \n    1/2\n    Tsp.\n    vanilla extract\n    \n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n    \n    1\n    Tsp.\n    baking powder\n    \n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n    \n    1\n    Package\n    (6 ounce) Driscoll's Blackberries \n    \n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n    \n    3\n    Tablespoons\n    plus 3/4 cup sugar, divided\n    \n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n    \n    1 3/4\n    Cups\n    all-purpose flour\n    \n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n    \n    2\n    Tablespoons\n    water\n    \n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n        \n        \n            \n\n    \n        TEAR a sheet of parchment paper about 14 inches long. Set aside.\u00c2\u00a0PLACE blackberries, 3 tablespoons sugar, cinnamon, cloves, and water into a medium saucepan.HEAT blackberry mixture over medium-high heat just until it begins to boil WHILE STIRRING occasionally.REDUCE HEAT to medium-low.SIMMER blackberry mixture until thickened, about 10 minutes WHILE STIRRING and mashing berries occasionally with a potato masher. You should have about 1/2 cup blackberry filling.SET ASIDE blackberry filling to cool completely.BEAT butter and remaining 3/4 cup sugar with an electric mixer until very light and fluffy, 3 to 5 minutes.ADD egg, almond extract, and vanilla extract.BEAT butter mixture again until ingredients are incorporated.SET ASIDE butter mixture.WHISK TOGETHER flour, baking powder, and salt in a medium bowl.ADD flour mixture to butter mixture gradually WHILE BEATING on low speed until ingredients are incorporated. Do not over mix.POUR OUT dough onto parchment paper.ROLL OUT dough to a rectangle about 12 inches by 8 inches and \u00c2\u00bc inch thick.SPREAD blackberry filling over dough leaving 2 inches of boarder around edges.ROLL UP dough into a tight log starting from the long side using parchment paper to help lift and roll.TIGHTLY WRAP dough log in plastic wrap.REFRIGERATE dough log at least 4 hours.PREHEAT oven to 350\u00c2\u00baF.LINE 2 baking sheets with parchment paper.SLICE dough log into cookies about 1/4 inch thick.ARRANGE 12 cookies on each baking sheet leaving one inch between cookies.BAKE 13 to 15 minutes or until cookies just begin to brown.REMOVE cookies from oven and immediately SPRINKLE with granulated sugar or sanding sugar (if using).COOL cookies on baking sheets for 2 minutes.TRANSFER COOKIES to wire racks to cool completely.\n    \n    \n        \n        \n        \n    \n    \n        \n        \n    \n\n        \n    "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "24 cookies"
+    },
+    "@id": "http://example.org/recipe"
+}

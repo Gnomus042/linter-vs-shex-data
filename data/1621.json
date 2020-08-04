@@ -1,0 +1,140 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "it",
+        "@value": "Ricette di Cucina"
+    },
+    "cookTime": {
+        "@language": "it",
+        "@value": "PT240M"
+    },
+    "description": [
+        {
+            "@language": "it",
+            "@value": "come fare il rag\u00f9 per tagliatelle, cannelloni e lasagne"
+        },
+        {
+            "@language": "it",
+            "@value": "\n\t\t\tUn grande classico della cucina italiana \u2026 anche se il \u201crag\u00f9\u201d \u00e8 in origine francese: Il rag\u00f9, o ragout, \u00e8 una salsa di carne tagliata in piccoli pezzi e poi cotta a lungo per amalgamare i sapori. Il nostro famoso, e ottimo, rag\u00f9 bolognese \u00e8 una ricetta abbastanza facile da fare, ma che deve rispettare le regole di base della tradizione: ingredienti poco costosi, ma di ottima qualit\u00e0, ed una cottura lenta e lieve nella pentola di coccio: il rag\u00f9 dovr\u00e0 appena sobbollire, o come dicono i ricettari antichi, \"sospirare\" per almeno 4 ore, durante le qual dovrete solo mescolare di tanto in tanto. Il rag\u00f9 alla bolognese si accompagna tradizionalmente a tagliatelle, cannelloni e lasagne \t\t"
+        }
+    ],
+    "image": {
+        "@type": "ImageObject",
+        "contentSize": {
+            "@language": "it",
+            "@value": "429 KB"
+        },
+        "contentURL": {
+            "@language": "it",
+            "@value": "https://www.ricettadicucina.com/upload/recipe/2/d/5/fc0ac4f2c3dfc0bbcb0a3204c86376315875a164.jpg"
+        },
+        "encodingFormat": {
+            "@language": "it",
+            "@value": "jpg"
+        },
+        "height": {
+            "@language": "it",
+            "@value": "1333"
+        },
+        "image": {
+            "@language": "it",
+            "@value": "https://www.ricettadicucina.com/upload/recipe/2/d/5/fc0ac4f2c3dfc0bbcb0a3204c86376315875a164.jpg"
+        },
+        "representativeOfPage": {
+            "@language": "it",
+            "@value": "true"
+        },
+        "thumbnailUrl": {
+            "@language": "it",
+            "@value": "https://www.ricettadicucina.com/upload/recipe/2/d/5/fc0ac4f2c3dfc0bbcb0a3204c86376315875a164_s.jpg"
+        },
+        "url": {
+            "@language": "it",
+            "@value": "https://www.ricettadicucina.com/upload/recipe/2/d/5/fc0ac4f2c3dfc0bbcb0a3204c86376315875a164.jpg"
+        },
+        "width": {
+            "@language": "it",
+            "@value": "2000"
+        }
+    },
+    "keywords": {
+        "@language": "it",
+        "@value": "con carni bovine, con olio oliva, con maiale, con sedano, con cipolla, di base, con sale, con carote, con chiodi garofano, con noce moscata, di bologna, con cottura in coccio, con polpa pomodoro"
+    },
+    "name": {
+        "@language": "it",
+        "@value": "come fare il rag\u00f9 bolognese"
+    },
+    "prepTime": {
+        "@language": "it",
+        "@value": "PT15M"
+    },
+    "recipeCategory": {
+        "@language": "it",
+        "@value": "di Basi, con Carne, non stagionali, con video"
+    },
+    "recipeCuisine": {
+        "@language": "it",
+        "@value": "di Bologna"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "it",
+            "@value": "Chiodi Di Garofano: 2"
+        },
+        {
+            "@language": "it",
+            "@value": "Carote: 2"
+        },
+        {
+            "@language": "it",
+            "@value": "Olio Di Oliva: 2 Cucchiai"
+        },
+        {
+            "@language": "it",
+            "@value": "Pomodori Polpa: 400 Grammi"
+        },
+        {
+            "@language": "it",
+            "@value": "Noce Moscata: 1 Pizzico"
+        },
+        {
+            "@language": "it",
+            "@value": "Cipolla: 2"
+        },
+        {
+            "@language": "it",
+            "@value": "Sale: 1 Presa"
+        },
+        {
+            "@language": "it",
+            "@value": "Polpa Di Maiale Macinata: 250 Grammi"
+        },
+        {
+            "@language": "it",
+            "@value": "Polpa Di Manzo Macinata: 250"
+        },
+        {
+            "@language": "it",
+            "@value": "Gambi Di Sedano: 2"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N0012eb3facc84d8a82bc36aedcb311ec"
+        },
+        {
+            "@language": "it",
+            "@value": "Pulite le verdure e, con santa pazienza, riducetele a minuscoli pezzi con il coltello. Si dovranno sentire le diverse consistenze in bocca. In una pentola di coccio (sistemata sullo spandi - fiamma) o sulla piastra elettrica, aggiungete gli oli e fate rosolare le verdure,quando la pentola sar\u00e0 ben calda aggiungete la carne macinata, e i chiodi di garofano,rosolate bene e aggiungete la passata di pomodori e regolate di sale. Coprite e lasciate \"sospirare\" (cio\u00e8 bollire pianissimo) il rag\u00f9 alla bolognese per almeno 4 ore. Poi \u00e8 pronto da usare, all'ultimo minuto aggiungete la noce moscata, che ha un profumo molto volatile,a questo punto potrete usare il vostro rag\u00f9 alla bolognese "
+        }
+    ],
+    "recipeYield": {
+        "@language": "it",
+        "@value": "6 persone"
+    },
+    "totalTime": {
+        "@language": "it",
+        "@value": "PT255M"
+    },
+    "@id": "http://example.org/recipe"
+}

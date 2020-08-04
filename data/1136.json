@@ -1,0 +1,158 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "tr",
+        "@value": "Senanur Halil \u00c7."
+    },
+    "cookTime": {
+        "@language": "tr",
+        "@value": "PT15M"
+    },
+    "dateModified": {
+        "@language": "tr",
+        "@value": "2019-07-07T23:56:41+00:00"
+    },
+    "datePublished": {
+        "@language": "tr",
+        "@value": "2019-07-07T23:56:41+00:00"
+    },
+    "description": {
+        "@language": "tr",
+        "@value": "Yalanc\u0131 Profiterol (Az Malzeme \u00c7ok Porsiyon) Tarifi nas\u0131l yap\u0131l\u0131r? bu tarifin resimli anlat\u0131m\u0131 ve deneyenlerin foto\u011fraflar\u0131 burada. Yazar: Senanur Halil \u00c7."
+    },
+    "headline": {
+        "@language": "tr",
+        "@value": "Yalanc\u0131 Profiterol (Az Malzeme \u00c7ok Porsiyon)"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "tr",
+            "@value": "333"
+        },
+        "url": {
+            "@language": "tr",
+            "@value": "https://i.nefisyemektarifleri.com/2019/07/07/yalanci-profiterol-az-malzeme-cok-porsiyon-500x333.jpg"
+        },
+        "width": {
+            "@language": "tr",
+            "@value": "500"
+        }
+    },
+    "ingredients": [
+        {
+            "@language": "tr",
+            "@value": "1 su barda\u011f\u0131 \u015feker"
+        },
+        {
+            "@language": "tr",
+            "@value": "1 litre s\u00fct"
+        },
+        {
+            "@language": "tr",
+            "@value": "Muhallebinin i\u00e7ine bir paket etime\u011fi k\u0131r\u0131p ekliyoruz."
+        },
+        {
+            "@language": "tr",
+            "@value": "Ocaktan al\u0131nca tereya\u011f ekleyip eriyene kadar kar\u0131\u015ft\u0131r\u0131yoruz."
+        },
+        {
+            "@language": "tr",
+            "@value": "\u00dczeri i\u00e7in \u00e7ikolata sosu ve s\u00fct\u00fc pi\u015firiyoruz kuplar\u0131n \u00fczerlerini kapatacak \u015fekilde hepsine pay ediyoruz."
+        },
+        {
+            "@language": "tr",
+            "@value": "1 paket krem\u015fanti"
+        },
+        {
+            "@language": "tr",
+            "@value": "E\u011fer damak tad\u0131n\u0131za g\u00f6re bol \u00e7ikolatal\u0131 isterseniz t\u00fcm paketi tarife g\u00f6re yap\u0131p \u00f6yle de kullanabilirsiniz."
+        },
+        {
+            "@language": "tr",
+            "@value": "Tereya\u011f hari\u00e7 t\u00fcm malzemeleri tencereye al\u0131p, kar\u0131\u015ft\u0131rarak pi\u015firiyoruz."
+        },
+        {
+            "@language": "tr",
+            "@value": "1 su barda\u011f\u0131 un"
+        },
+        {
+            "@language": "tr",
+            "@value": "Tamamen kar\u0131\u015ft\u0131rd\u0131ktan sonra kuplara payla\u015ft\u0131r\u0131yoruz. \u0130sterseniz ayr\u0131 ayr\u0131 koymak yerine borcama da koyabilirsiniz."
+        },
+        {
+            "@language": "tr",
+            "@value": "Buzdolab\u0131nda birka\u00e7 saat dinlendirdikten sonra t\u00fcketebilirsiniz. \u015eimdiden afiyet olsun.\nNot: Kuplara muhallebiyi koyarken e\u011fer yar\u0131m paket sos yapt\u0131ysan\u0131z 1 parmak kadar bo\u015fluk b\u0131rak\u0131n. Paketin tamam\u0131n\u0131 yapt\u0131ysan\u0131z bo\u015fluk biraz daha fazla olsun. \ud83d\ude0a\ud83d\ude0a"
+        },
+        {
+            "@language": "tr",
+            "@value": "1 paket vanilya"
+        },
+        {
+            "@language": "tr",
+            "@value": "1 yemek ka\u015f\u0131\u011f\u0131 tereya\u011f"
+        },
+        {
+            "@language": "tr",
+            "@value": "1 paket etimek"
+        },
+        {
+            "@language": "tr",
+            "@value": "1 su barda\u011f\u0131 s\u00fct"
+        },
+        {
+            "@language": "tr",
+            "@value": "1/2 (yar\u0131m) paket \u00e7ikolata sos"
+        }
+    ],
+    "mainEntityOfPage": [
+        {
+            "@language": "tr",
+            "@value": "True"
+        },
+        {
+            "@language": "tr",
+            "@value": "https://www.nefisyemektarifleri.com/yalanci-profiterol-az-malzeme-cok-porsiyon/"
+        }
+    ],
+    "name": {
+        "@language": "tr",
+        "@value": "Yalanc\u0131 Profiterol (Az Malzeme \u00c7ok Porsiyon)"
+    },
+    "prepTime": {
+        "@language": "tr",
+        "@value": "PT15M"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:Ndb052d1691214a3685cb92b4ed0dec9c"
+        },
+        "name": {
+            "@language": "tr",
+            "@value": "Nefis Yemek Tarifleri"
+        },
+        "url": {
+            "@language": "tr",
+            "@value": "https://www.nefisyemektarifleri.com"
+        }
+    },
+    "recipeYield": {
+        "@language": "tr",
+        "@value": "8-10 "
+    },
+    "totalTime": {
+        "@language": "tr",
+        "@value": "PT30M"
+    },
+    "url": [
+        {
+            "@language": "tr",
+            "@value": "https://www.nefisyemektarifleri.com/yalanci-profiterol-az-malzeme-cok-porsiyon/"
+        },
+        {
+            "@id": "https://www.nefisyemektarifleri.com/yalanci-profiterol-az-malzeme-cok-porsiyon/"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

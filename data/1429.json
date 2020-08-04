@@ -1,0 +1,111 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Micheline Andrews"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Thermomix/Conventional Recipe can be doubled"
+    },
+    "image": {
+        "@id": "https://btbhlm.com/wp-content/uploads/2017/04/on-2.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 medium onions or 1 large onion (Thermomix 200g)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "up to \u00bc tsp black pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc c Olive or Macadamia oil for frying"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 c besan flour (100g) (or mill 100g dried chickpeas)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "up to \u00bc tsp chilli flakes ( I use a pinch)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp turmeric powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2tbs liquid bone broth mixed with hot water to \u00bd cup (optional or can use water) Or \u00bd tsp dried broth)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Onion Bhajis"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "In a bowl mix together with a whisk/fork the broth, flour and spices to make a batter."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Chop onion sp 5 for 3 secs."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Conventional:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Once oil is up to frying temp spoon a tbsp at a time into the frypan. Turning after approx 1 to 2 mins each side."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "This forms a batter."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Thermomix:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Without washing the bowl add the flour, broth (mixed with water to \u00bd cup) and spices."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Chop onion to consistency desired (ie chopped or sliced)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Once oil is at frying temp spoon a tbsp at a time into the frypan. Turning after approx 1 to 2 mins each side."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add in the onion."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Mix well together until all the onion coated."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add onion back to bowl and mix reverse speed 2 for 6 secs."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Mix sp 3 for 6 secs."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Heat the oil in a large frypan."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

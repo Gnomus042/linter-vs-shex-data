@@ -1,0 +1,7 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://i1.wp.com/www.upplevmat.se/wp-content/uploads/2009/09/IMG_4551.JPG?resize=1140%2C500"
+    },
+    "@id": "http://example.org/recipe"
+}

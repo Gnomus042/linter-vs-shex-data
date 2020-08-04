@@ -1,0 +1,81 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "livers1"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2013-06-18"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "This lovely pickle is a fantastic way to use various summer veg gluts, and overgrown courgettes are one of my favourites. You can alter the recipe according to what you have, and chop and change the spices to suit your taste, too."
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "Easy"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Courgette Chutney"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "British"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Make up the spice bag by tying all the spices in a square of muslin or cotton. Add the spice bag to the pan, pushing it into the middle."
+        },
+        {
+            "@language": "en",
+            "@value": "Pot up the chutney while still warm (but not boiling hot) in sterilised jars with plastic-coated screw-top lids (essential to stop the vinegar interacting with the metal). Leave to mature for at least two weeks - ideally two months - before serving.\""
+        },
+        {
+            "@language": "en",
+            "@value": "Put the vegetables and fruit in a large, heavy-based pan with the sultanas or raisins, sugar, vinegar and water, chilli flakes and salt."
+        },
+        {
+            "@language": "en",
+            "@value": "Heat the mixture gently, stirring occasionally to dissolve the sugar, and bring slowly to the boil. "
+        },
+        {
+            "@language": "en",
+            "@value": "Simmer for 2-3 hours, uncovered, stirring regularly to ensure it does not burn on the bottom of the pan. The chutney is ready when it is rich, thick and reduced, and parts to reveal the base of the pan when a wooden spoon is dragged through it. If it starts to dry out before this stage is reached, add a little boiling water."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Serves 1 - 10 Jars"
+    },
+    "sourceOrganization": {
+        "@language": "en",
+        "@value": "BBC Good Food"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT4H"
+    },
+    "@id": "http://example.org/recipe"
+}

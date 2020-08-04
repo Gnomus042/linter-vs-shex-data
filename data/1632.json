@@ -1,0 +1,34 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "sv-se",
+            "@value": "3.83"
+        },
+        "reviewCount": {
+            "@language": "sv-se",
+            "@value": "6"
+        }
+    },
+    "cookTime": {
+        "@language": "sv-se",
+        "@value": "PT25M"
+    },
+    "description": {
+        "@language": "sv-se",
+        "@value": "Kr\u00e4mig choklad, kola och knapriga n\u00f6tter ...\nKan det bli b\u00e4ttre?\nRecept av Gustav Tr\u00e4g\u00e5rdh och foto: \u00c5sa Dahlgren"
+    },
+    "image": {
+        "@id": "https://www.coop.se/recept/chokladfondant-med-kolasas-och-jordnotter///res.cloudinary.com/coopsverige/image/upload/w_800,h_800/v1486651468/187677.jpg"
+    },
+    "name": {
+        "@language": "sv-se",
+        "@value": "Chokladfondant med kolas\u00e5s och jordn\u00f6tter"
+    },
+    "recipeInstructions": {
+        "@language": "sv-se",
+        "@value": "\n        \n                    S\u00e4tt ugnen p\u00e5 200\u00b0.\nKolas\u00e5s: Sm\u00e4lt sockret tills det\nkaramelliseras och f\u00e5r lite f\u00e4rg\ni en tjockbottnad kastrull.\n                    R\u00f6r ner sm\u00f6ret. Tills\u00e4tt gr\u00e4dden. Koka\n5\u201310 min, tills s\u00e5sen tjocknat lite.\nHacka chokladen grovt. Sm\u00e4lt\nsm\u00f6ret i en kastrull och tills\u00e4tt\nchokladen. Dra fr\u00e5n v\u00e4rmen och\nr\u00f6r tills chokladen sm\u00e4lt.\n                    Sm\u00f6ra och mj\u00f6la fyra portionsformar\nsom t\u00e5l ugnsv\u00e4rme. Vispa\n\u00e4gg, \u00e4ggulor och socker till en fluffig\nsmet. Tills\u00e4tt chokladsm\u00f6ret\noch mj\u00f6l och r\u00f6r till en j\u00e4mn smet.\n                    F\u00f6rdela i formarna och gr\u00e4dda i\nnedre delen av ugnen 10 min.\nRostade n\u00f6tter: Hetta upp en\nstekpanna och l\u00e4gg i n\u00f6tter och\nsocker. Rosta tills sockret sm\u00e4lt.\n                    R\u00f6r d\u00e5 och d\u00e5. H\u00e4ll upp p\u00e5 bakpl\u00e5tspapper\natt svalna.\nStj\u00e4lp varsamt upp fondanterna\np\u00e5 assietter. Str\u00f6 \u00f6ver n\u00f6tterna\noch ringla p\u00e5 kolas\u00e5sen. Servera\nmed glass och ev bl\u00e5b\u00e4r.\n        \n    "
+    },
+    "@id": "http://example.org/recipe"
+}

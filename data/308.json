@@ -1,0 +1,79 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Hayley Parker, The Domestic Rebel"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "These Air-Fryer Pecan Hand Pies are bite-size, portable pies filled with gooey pecan pie filling and air-fried to perfection! You can make them in the oven, too - just follow the instructions at the bottom of the directions for the recipe!"
+    },
+    "image": {
+        "@id": "https://thedomesticrebel.com/wp-content/uploads/2019/10/AIR-FRYER-PECAN-HAND-PIES.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "One package (2-count) refrigerated pie crusts, at room temperature"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2154 cup dark corn syrup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 & \u00bd cups semi-finely chopped pecans (not too fine but not super chunky either)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 cup melted butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tablespoon vanilla extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 large eggs, lightly beaten"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup granulated white sugar"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Air-Fryer Pecan Hand Pies"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Pie"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "First, make your filling. Add the pecans, sugar, corn syrup, melted butter, beaten eggs and vanilla to a medium saucepan. Turn the heat to medium-high and bring to a boil, stirring constantly to prevent the eggs from scrambling. Once at a boil, reduce heat to medium-low and simmer until thickened, about 5-7 minutes. Remove from the heat and let cool COMPLETELY at room temperature until super thick and set. If needed, refrigerate briefly so it has time to firm up."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat your air fryer to 370 degrees if it has a preheat option. If oven-baking, preheat oven to 400 degrees F. If using an oven, line a baking sheet with parchment paper."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place a few pies into the basket of the air-fryer and spritz each pie lightly with butter-flavored cooking spray. Fry in the air-fryer for 7-8 minutes or until crisp and set. Please note that these pies will probably leak a little bit; that's okay. Most air fryers are nonstick inside so in between batches, just wipe down or scrape out any leaked filling. Place the pies on a wire rack to cool completely before dusting with powdered sugar, if desired."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Unroll one of the pie crusts onto a clean, flat work surface. Using a 4\" or 4.5\" biscuit cutter (I actually used the lid to a reusable tumbler) cut out circles of dough. Using a Tablespoon measuring spoon, spoon out a heaping Tablespoon or so of the pecan filling into the center/side of the circle of dough. Dip your finger in water and run it along the edges of the circle. Gently stretch one side of the dough over the filling and pinch the seams together to seal. Use a fork to crimp the seams closed. Poke a few holes in the tops of the pies to help them vent while cooking. Repeat with remaining dough and reroll the pie dough as needed to cut more circles of dough."
+        },
+        {
+            "@language": "en-US",
+            "@value": "To bake, place the pies 2\" apart on the parchment-lined baking sheet. Bake for 15-20 minutes, checking at the 15-minute mark."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "14-16"
+    },
+    "@id": "http://example.org/recipe"
+}

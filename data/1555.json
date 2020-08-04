@@ -1,0 +1,88 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@language": "en-US",
+        "@value": "Spiralized Beet Salad"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n              salt and pepper to taste\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              1 tsp honey\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              feta cheese (or goat cheese) to taste\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              2 beets\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              1 avocado\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              handful of spinach\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              2 tbsp olive oil\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              roasted pumpkin seeds to taste\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              2 tsp Sir Kensington's Mustard\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              2 cups arugula\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              1 lemon\n            "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "\n            In a bowl, combine arugula and spinach.\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n            Place one beet at a time in your spiralizer.\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n            While the beets are cooking, whisk the juice of 1 lemon, mustard, honey, olive oil, salt and pepper together.\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n            Cut the end of each beet so there is a flat surface on either side. Peel the skin off each one.\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n            Top with the dressing and toss to coat.\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n            Transfer spiralized beets to a lined baking sheet. Roast at 400 degrees for about 10 minutes.\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n            Add the roasted spiralized beets.\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n            Add avocado, feta cheese and pumpkin seeds on top.\n            "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "nb-NO",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "nb-NO",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "nb-NO",
+            "@value": "Null"
+        }
+    },
+    "datePublished": {
+        "@language": "nb-NO",
+        "@value": "2015-11-10 09:36:06"
+    },
+    "image": {
+        "@id": "http://www.kriweb.no/wp-content/uploads/2015/11/IMG_8665.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "nb-NO",
+            "@value": "1/2 ts kardemomme"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "30 g vaniljeprotein"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "10 g mandelmel"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "30 g fibersirup"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "1/3 ts nellik"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "1/2 ts kanel"
+        }
+    ],
+    "name": {
+        "@language": "nb-NO",
+        "@value": "Pepperkakebar"
+    },
+    "recipeInstructions": {
+        "@language": "nb-NO",
+        "@value": "\t\t\t\tVarm fibersirupen i en kjele eller mikro, ha i en bolle og kna inn t\u00f8rrarene til en bar - bruk gjerne plastfolie rundt, og sett kj\u00f8lig en times tid.\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

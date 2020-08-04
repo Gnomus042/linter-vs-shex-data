@@ -1,0 +1,110 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://heyfoodapp.com/recipe/marmalade-bars-breakfast/../../author/af3db33/"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "0 minutes"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Tender wholegrain Marmalade Bars made with whole wheat and oats"
+    },
+    "image": {
+        "@id": "https://heyfoodapp.com/api/public/img/nxn_QN3Bz6_.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Marmalade Bars"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Breakfast"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "1 cup whole wheat flour  "
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bc cup (4 Tbsp) unsalted butter "
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bc cup vegetable shortening "
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup marmalade "
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd tsp vanilla extract  "
+        },
+        {
+            "@language": "en",
+            "@value": "1  large egg "
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd cup brown sugar  "
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bc cup rolled oats  "
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd tsp salt  "
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bc cup oat flour  "
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp baking powder  "
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd tsp almond extract  "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Add the dry ingredients to the wet and blend until a soft dough forms."
+        },
+        {
+            "@language": "en",
+            "@value": "Spread the marmalade over the top."
+        },
+        {
+            "@language": "en",
+            "@value": "Set oven to 375F"
+        },
+        {
+            "@language": "en",
+            "@value": "Take just over half of the dough and press it into the bottom of a 9x9 square baking pan. I line mine with parchment with overlapping edges so I can lift it out easily for cutting. Drop the dough in blobs all over the bottom of the pan, and then use your fingers to spread it out. Don't fuss over it, just try and cover the surface of the pan. Use a little extra dough if you need to, and don't compact it too much."
+        },
+        {
+            "@language": "en",
+            "@value": "Bake about 30 minutes until just starting to turn golden around the edges. Cool on a rack before cutting."
+        },
+        {
+            "@language": "en",
+            "@value": "Mix the flours with the oats, baking powder, and salt, stirring to combine them well."
+        },
+        {
+            "@language": "en",
+            "@value": "Cream the butter and shortening with the sugar. Make sure to smooth out any lumps in the brown sugar. Beat in the extracts, and then the egg."
+        },
+        {
+            "@language": "en",
+            "@value": "Take the remaining dough and, using your fingers, take small amounts at a time and flatten it slightly with your fingers and lay it out over the marmalade. It doesn't have to cover it completely, and it will spread as it bakes. It's ok to have some marmalade peeking through."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

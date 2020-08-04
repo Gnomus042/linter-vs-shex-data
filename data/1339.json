@@ -1,0 +1,119 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "0.00"
+        },
+        "reviewCount": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://images.media-allrecipes.com/userphotos/50x50/5340907.jpg"
+        },
+        "name": {
+            "@value": "Diabetic Living Magazine"
+        }
+    },
+    "description": {
+        "@value": "Maple syrup, orange peel, and mustard add captivating flavor to the glaze for this succulent pork roast. Potatoes and carrots roast in the pan alongside the pork and round out the meal."
+    },
+    "image": {
+        "@value": "http://images.media-allrecipes.com/userphotos/960x960/6236862.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "2 tablespoons Dijon mustard"
+        },
+        {
+            "@value": "\u00bc teaspoon ground pepper"
+        },
+        {
+            "@value": "20 to 24 tiny new potatoes (about 1\u00be pounds)"
+        },
+        {
+            "@value": "\u00bd teaspoon salt, divided"
+        },
+        {
+            "@value": "2 teaspoons dried sage, crushed"
+        },
+        {
+            "@value": "16 ounces packaged, peeled baby carrots"
+        },
+        {
+            "@value": "1 tablespoon olive oil"
+        },
+        {
+            "@value": "1 (2 to 2\u00bd pound) boneless pork loin roast (single loin)"
+        },
+        {
+            "@value": "1 tablespoon maple syrup"
+        },
+        {
+            "@value": "1 teaspoon finely shredded orange peel"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "True"
+    },
+    "name": {
+        "@value": "Mustard-Maple Pork Roast"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "284 calories;"
+        },
+        "carbohydrateContent": {
+            "@value": "22"
+        },
+        "cholesterolContent": {
+            "@value": "62"
+        },
+        "fatContent": {
+            "@value": "9"
+        },
+        "fiberContent": {
+            "@value": "3"
+        },
+        "proteinContent": {
+            "@value": "28"
+        },
+        "saturatedFatContent": {
+            "@value": "3"
+        },
+        "sodiumContent": {
+            "@value": "303"
+        },
+        "sugarContent": {
+            "@value": "4"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@value": "Health Condition"
+        },
+        {
+            "@value": "Pork"
+        },
+        {
+            "@value": "Diabetic"
+        },
+        {
+            "@value": "Dinner"
+        },
+        {
+            "@value": "Meats"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        Preheat oven to 325\u00b0F. Trim fat from meat. Stir together mustard, maple syrup, sage, orange peel, \u00bc teaspoon salt, and the pepper. Spoon mixture onto the meat. Line a roasting pan with foil, if desired. Place the roast, fat-side up, on a rack in the shallow roasting pan. Insert a meat thermometer into center of the roast. Roast, uncovered, for 45 minutes.\n                        Meanwhile, peel a strip of skin from the center of each potato. Cook the potatoes in a covered large saucepan in enough boiling salted water to cover for 5 minutes. Add carrots; cook for 5 minutes more. Drain.\n                        Toss together the potatoes, the carrots, the olive oil, and the remaining \u00bc teaspoon salt. Place in the roasting pan around the pork roast. Roast, uncovered, for 45 minutes to 1 hour more or until the meat thermometer registers 155\u00b0F. Remove the roast from the oven; cover with foil. Let stand for 15 minutes before carving. (The meat's temperature will rise 5\u00b0F during standing.)\n            "
+    },
+    "recipeYield": {
+        "@value": "8"
+    },
+    "@id": "http://example.org/recipe"
+}

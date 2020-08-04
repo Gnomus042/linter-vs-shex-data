@@ -1,0 +1,54 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.cuisinealafrancaise.com/fr/recettes/viandes-et-volailles/boeuf/poelee-de-boeuf-a-l-ananas-et-aux-poivrons//img/thumbs/Poelee_de_boeuf_a_l_ananas_et_aux_poivrons-dc051b7f6abf73d5c3bb904d06f3e29b.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1 c. \u00e0 c. de sucre"
+        },
+        {
+            "@value": "1 ananas"
+        },
+        {
+            "@value": "1 c. \u00e0 s. d'huile de s\u00e9same"
+        },
+        {
+            "@value": "1 poivron vert"
+        },
+        {
+            "@value": "1 c. \u00e0 s. d'huile d'arachide"
+        },
+        {
+            "@value": "3 c. \u00e0 s. de sauce soja"
+        },
+        {
+            "@value": "2 \u00e9chalotes"
+        },
+        {
+            "@value": "1 oignon hach\u00e9"
+        },
+        {
+            "@value": "450 g de rumsteak"
+        },
+        {
+            "@value": "sel, poivre"
+        },
+        {
+            "@value": "1 piment rouge"
+        },
+        {
+            "@value": "2 gousses d'ail pil\u00e9es"
+        }
+    ],
+    "name": {
+        "@value": "\nPo\u00eal\u00e9e de b\u0153uf \u00e0 l'ananas et aux poivrons"
+    },
+    "recipeInstructions": {
+        "@value": "\n- Couper le steak en fines lani\u00e8res.\n- Peler l'ananas et \u00f4ter tous les yeux.\n- Couper l'ananas en tranches puis en morceaux de la taille d'une bouch\u00e9e.\n- Ep\u00e9piner le poivron et le piment.\n- Retirer les parties centrales et couper les en fines lani\u00e8res.\n- Hacher grossi\u00e8rement l'oignon.\n- Piler l'ail.\n- Chauffer l'huile d'arachide.\n- Laisser cuire doucement l'oignon, l'ail en remuant jusqu'\u00e0 ce que les oignons soient tendres.\n- Ajouter les lani\u00e8res de b\u0153uf et les lani\u00e8res de poivron.\n- Laisser frire 3 minutes.\n- Ajouter l'ananas et laisser frire encore 2 minutes.\n- Retirer la viande, les l\u00e9gumes et l'ananas avec l'\u00e9cumoire.\n- R\u00e9server.\n- Verser l'huile de s\u00e9same dans la po\u00eale.\n- Ajouter la sauce de soja, le sucre et 4 cuill\u00e8res \u00e0 soupe d'eau.\n- Laisser fr\u00e9mir pendant 30 secondes pour r\u00e9duire.\n- Epaissir la sauce.\n- Remettre l'ananas, les l\u00e9gumes et le b\u0153uf.\n- Saler et poivrer.\n- R\u00e9chauffer en remuant.\nServir imm\u00e9diatement."
+    },
+    "recipeYield": {
+        "@value": "4 personnes"
+    },
+    "@id": "http://example.org/recipe"
+}

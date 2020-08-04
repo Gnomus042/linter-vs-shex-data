@@ -1,0 +1,12 @@
+{
+    "@type": "Recipe",
+    "image": [
+        {
+            "@id": "https://www.oetker.de/rezepte/r/monkey-bread//Recipe/Recipes/oetker.de/de-de/baking/image-thumb__29482__RecipeDetail/monkey-bread.jpg"
+        },
+        {
+            "@id": "https://www.oetker.de/rezepte/r/monkey-bread/data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

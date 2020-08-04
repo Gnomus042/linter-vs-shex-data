@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.5"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "005"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "\u4e16\u754c\u308b\u3044"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT2H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "SS"
+    },
+    "image": {
+        "@id": "http://www.johndore.co.uk/wp-content/upload/2017/f3b75763a8ececa469ad6142d9f3fe1eimages3f62a980c2cb9d55ca389ecd24a8b277gr-assets3f62a980c2cb9d55ca389ecd24a8b277com/books/1541921800l/427501653f62a980c2cb9d55ca389ecd24a8b277jpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "005"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "\u3068\u3042\u308b\u82f1\u96c4\u9054\u306e\u6700\u7d42\u5175\u5668\u3010\u30ea\u30fc\u30b5\u30eb\u30a6\u30a7\u30dd\u30f3\u3011\uff5e\u6700\u5f37\u5e2b\u5320\u9663\u306b\u3088\u308b\u80b2\u6210\u8a08\u753b\u304c\u30d6\u30e9\u30c3\u30af\u3059\u304e\u308b\u4ef6\uff5e2\u3010\u96fb\u5b50\u66f8\u7c4d\u9650\u5b9a\u66f8\u304d\u4e0b\u308d\u3057SS\u4ed8\u304d\u3011 ,download, read online, e-pub, pdf, free, kindle ebook"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\u3068\u3042\u308b\u82f1\u96c4\u9054\u306e\u6700\u7d42\u5175\u5668\u3010\u30ea\u30fc\u30b5\u30eb\u30a6\u30a7\u30dd\u30f3\u3011\uff5e\u6700\u5f37\u5e2b\u5320\u9663\u306b\u3088\u308b\u80b2\u6210\u8a08\u753b\u304c\u30d6\u30e9\u30c3\u30af\u3059\u304e\u308b\u4ef6\uff5e2\u3010\u96fb\u5b50\u66f8\u7c4d\u9650\u5b9a\u66f8\u304d\u4e0b\u308d\u3057SS\u4ed8\u304d\u3011 "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "[PDF / Epub] \u2605 \u3068\u3042\u308b\u82f1\u96c4\u9054\u306e\u6700\u7d42\u5175\u5668\u3010\u30ea\u30fc\u30b5\u30eb\u30a6\u30a7\u30dd\u30f3\u3011\uff5e\u6700\u5f37\u5e2b\u5320\u9663\u306b\u3088\u308b\u80b2\u6210\u8a08\u753b\u304c\u30d6\u30e9\u30c3\u30af\u3059\u304e\u308b\u4ef6\uff5e2\u3010\u96fb\u5b50\u66f8\u7c4d\u9650\u5b9a\u66f8\u304d\u4e0b\u308d\u3057SS\u4ed8\u304d\u3011  Author \u4e16\u754c\u308b\u3044 \u2013 Johndore.co.uk SS"
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT34M"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "young adult fantasy"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "[PDF / Epub] \u2605 \u3068\u3042\u308b\u82f1\u96c4\u9054\u306e\u6700\u7d42\u5175\u5668\u3010\u30ea\u30fc\u30b5\u30eb\u30a6\u30a7\u30dd\u30f3\u3011\uff5e\u6700\u5f37\u5e2b\u5320\u9663\u306b\u3088\u308b\u80b2\u6210\u8a08\u753b\u304c\u30d6\u30e9\u30c3\u30af\u3059\u304e\u308b\u4ef6\uff5e2\u3010\u96fb\u5b50\u66f8\u7c4d\u9650\u5b9a\u66f8\u304d\u4e0b\u308d\u3057SS\u4ed8\u304d\u3011  Author \u4e16\u754c\u308b\u3044 \u2013 Johndore.co.uk SS"
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "\u3068\u3042\u308b\u82f1\u96c4\u9054\u306e\u6700\u7d42\u5175\u5668\u3010\u30ea\u30fc\u30b5\u30eb\u30a6\u30a7\u30dd\u30f3\u3011\uff5e\u6700\u5f37\u5e2b\u5320\u9663\u306b\u3088\u308b\u80b2\u6210\u8a08\u753b\u304c\u30d6\u30e9\u30c3\u30af\u3059\u304e\u308b\u4ef6\uff5e2\u3010\u96fb\u5b50\u66f8\u7c4d\u9650\u5b9a\u66f8\u304d\u4e0b\u308d\u3057SS\u4ed8\u304d\u3011 "
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://www.johndore.co.uk/wp-content/upload/2017/f3b75763a8ececa469ad6142d9f3fe1eimages3f62a980c2cb9d55ca389ecd24a8b277gr-assets3f62a980c2cb9d55ca389ecd24a8b277com/books/1541921800l/427501653f62a980c2cb9d55ca389ecd24a8b277jpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2018-10-04T08:20+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,12 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "fr-FR",
+        "@value": "\nf\u00e9vrier 11th, 2019"
+    },
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Economie ivoirienne : \u00ab Mon bilan est inattaquable \u00bb, estime le Pr\u00e9sident Alassane Ouattara"
+    },
+    "@id": "http://example.org/recipe"
+}

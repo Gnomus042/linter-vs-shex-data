@@ -1,0 +1,110 @@
+{
+    "@type": "Recipe",
+    "cookTime": [
+        {
+            "@language": "de",
+            "@value": "PT240M"
+        },
+        {
+            "@language": "de",
+            "@value": "PT15M"
+        },
+        {
+            "@language": "de",
+            "@value": "PT50M"
+        }
+    ],
+    "description": {
+        "@language": "de",
+        "@value": "Eine Schritt-f\u00fcr-Schritt-Anleitung f\u00fcr Flaches Bio-Huhn mit Ofengem\u00fcse \u2665 Jetzt Rezept entdecken und gleich daheim selbst ausprobieren!"
+    },
+    "image": {
+        "@id": "https://www.spar.at/mahlzeit/rezepte/fleisch/flaches-bio-huhn-mit-ofengemuese//content/dam/sparatwebsite/mahlzeit/recipes/fleisch/flaches-bio-huhn-mit-ofengemuese-980x380.jpg/_jcr_content/renditions/responsive.968.545.noborder.c91b6fbfa880d35f.jpg"
+    },
+    "keywords": [
+        {
+            "@id": "https://www.spar.at/mahlzeit/rezepte/fleisch/flaches-bio-huhn-mit-ofengemuese//mahlzeit/rezepte?searchTerm=Gem\u00fcse"
+        },
+        {
+            "@id": "https://www.spar.at/mahlzeit/rezepte/fleisch/flaches-bio-huhn-mit-ofengemuese//mahlzeit/rezepte?searchTerm=Braten"
+        },
+        {
+            "@id": "https://www.spar.at/mahlzeit/rezepte/fleisch/flaches-bio-huhn-mit-ofengemuese//mahlzeit/rezepte?searchTerm=H\u00fchnerfleisch"
+        }
+    ],
+    "name": {
+        "@language": "de",
+        "@value": "\nFlaches Bio-Huhn mit Ofengem\u00fcse\n"
+    },
+    "recipeCategory": {
+        "@language": "de",
+        "@value": "\n\nW\u00e5s G'scheites\n\n"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "de",
+            "@value": "\n\n\n\n\n\n\nSalz\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n5\n\n\n\nKnoblauchzehen\n\ngrob gehackt\n\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n6\ndag\n\n\n\nKapern\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n1\nBund\n\n\n\nPetersilie\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n1\nTL\n\n\n\nChilipaste\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n\n\n\n\nPfeffer\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n3\n\n\n\nLorbeerbl\u00e4tter\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n\nSaft von 1\n\n\n\nZitrone\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n1\nEL\n\n\n\nHonig\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n6\nEL\n\n\n\nOliven\u00f6l\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n\n\n\n\nRosmarin\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n1\nkg\n\n\n\nGem\u00fcse\n\ngeputzt, grob geschnitten (Erd\u00e4pfel, K\u00fcrbis, rote Paprika, Fr\u00fchlingszwiebeln)\n\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n4\nEL\n\n\n\nOliven\u00f6l\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n1\n\n\n\nSPAR Natur*pur Bio-Hendl\n\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "de",
+        "@value": "\n\nZubereitung\n\n\n\n\nErster Schritt - Vorbereitung\n\n\n\n\n\n01\n\n\n\n\nBackrohr auf 180\u00b0 C (Ober- und Unterhitze) vorheizen.\n\n\n\n\n\n\n\n\n\n\n\n\n\nZweiter Schritt - Marinade\n\n\n\n\n\n01\n\n\n\n\nOliven\u00f6l mit Zitronensaft, Knoblauch, Kapern, Chilipaste und Honig gut verr\u00fchren.\n\n\n\n\n\n\n\n\n\n\n02\n\n\n\n\nLorbeerbl\u00e4tter zwischen den Fingern zerreiben, zugeben, salzen und pfeffern.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDritter Schritt - Huhn\n\n\n\n\n\n01\n\n\n\n\nDas R\u00fcckgrat vom Huhn mit einem scharfen Messer oder einer Schere wegschneiden.\n\n\n\n\n\n\n\n\n\n\n02\n\n\n\n\nHuhn in einen Gefrierbeutel geben, die Marinade dar\u00fcbergie\u00dfen undvgut verschlie\u00dfen.\n\n\n\n\n\n\n\n\n\n\n03\n\n\n\n\nIm K\u00fchlschrank 4?5 Stunden \u2013 am besten \u00fcber Nacht \u2013 ziehen lassen.\n\n\n\n\n\n\n\n\n\n\n04\n\n\n\n\nHuhn aus der Marinade nehmen, mit der Hautseite nach oben flach auf ein Backblech oder in eine Bratwanne legen.\n\n\n\n\n\n\n\n\n\n\n05\n\n\n\n\nDie im Gefrierbeutel verbliebene Marinade dar\u00fcbergie\u00dfen.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVierter Schritt - Ofengem\u00fcse\n\n\n\n\n\n01\n\n\n\n\nDas Gem\u00fcse mit Oliven\u00f6l, Rosmarin, Salz und Pfeffer vermengen und in eine extra Form geben.\n\n\n\n\n\n\n\n\n\n\n02\n\n\n\n\nDas Huhn und das Gem\u00fcse im Rohr ca. 45?50 Minuten braten.\n\n\n\n\n\n\n\n\n\n\n03\n\n\n\n\nPetersilie \u00fcber dem Huhn verteilen und in den letzten 4?6 Minuten \u00fcbergrillen.\n\n\n\n\n\n\n\n\n\n\n\n\n\nF\u00fcnfter Schritt - Anrichten\n\n\n\n\n\n01\n\n\n\n\nHendl kurz rasten lassen, in Portionen teilen, anrichten und mit Bratensaft betr\u00e4ufeln.\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    "totalTime": {
+        "@language": "de",
+        "@value": "PT305M"
+    },
+    "@id": "http://example.org/recipe"
+}

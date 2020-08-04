@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Professional Lighting co., LTD"
+    },
+    "brand": {
+        "@language": "en",
+        "@value": "jilson.me"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1t13tRXXXXXcsXpXXq6xXFXXXR/FUMAT-Art-Wood-Triangle-Table-Lamps-Nordic-Modern-Bedroom-Bedside-Table-Lamp-Living-Room-Decoration-Warm.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "32814251329"
+        },
+        {
+            "@language": "en",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "FUMAT Art Wood Triangle Table Lamps Nordic Modern Bedroom Bedside Table Lamp Living Room Decoration Warm LED Wood Table Lights"
+    },
+    "@id": "http://example.org/recipe"
+}

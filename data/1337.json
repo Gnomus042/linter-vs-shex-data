@@ -1,0 +1,128 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "4.82"
+        },
+        "reviewCount": {
+            "@value": "11"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://images.media-allrecipes.com/userphotos/50x50/5346107.jpg"
+        },
+        "name": {
+            "@value": "EatingWell Test Kitchen"
+        }
+    },
+    "description": {
+        "@value": "This version of the chain-restaurant favorite has fresh flavors and a healthy nutritional profile. Vary the heat by varying the type of salsa you use. Baked corn tortilla chips and lime wedges are natural accompaniments. "
+    },
+    "image": {
+        "@value": "http://images.media-allrecipes.com/userphotos/960x960/3756403.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "8 ounces lean ground beef or turkey"
+        },
+        {
+            "@value": "2 tablespoons reduced-fat sour cream"
+        },
+        {
+            "@value": "\u00bd cup canned kidney beans, rinsed (see Tips for Two)"
+        },
+        {
+            "@value": "\u215b teaspoon salt, or to taste"
+        },
+        {
+            "@value": "4 cups shredded romaine lettuce"
+        },
+        {
+            "@value": "\u00bc cup shredded sharp Cheddar cheese"
+        },
+        {
+            "@value": "1 teaspoon chili powder"
+        },
+        {
+            "@value": "\u00bd teaspoon canola oil"
+        },
+        {
+            "@value": "1 large plum tomato, diced"
+        },
+        {
+            "@value": "2 cloves garlic, minced"
+        },
+        {
+            "@value": "2 tablespoons chopped fresh cilantro"
+        },
+        {
+            "@value": "\u00bd cup prepared salsa"
+        },
+        {
+            "@value": "1 teaspoon ground cumin"
+        },
+        {
+            "@value": "1 small onion, chopped"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "True"
+    },
+    "name": {
+        "@value": "Tex-Mex Taco Salad"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "213 calories;"
+        },
+        "carbohydrateContent": {
+            "@value": "25"
+        },
+        "cholesterolContent": {
+            "@value": "20"
+        },
+        "fatContent": {
+            "@value": "9"
+        },
+        "fiberContent": {
+            "@value": "9"
+        },
+        "proteinContent": {
+            "@value": "11"
+        },
+        "saturatedFatContent": {
+            "@value": "4"
+        },
+        "sodiumContent": {
+            "@value": "718"
+        },
+        "sugarContent": {
+            "@value": "4"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@value": "Salad"
+        },
+        {
+            "@value": "Mexican"
+        },
+        {
+            "@value": "Latin American"
+        },
+        {
+            "@value": "Cuisines & Regions"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        Combine salsa and sour cream in a large bowl.\n                        Heat oil in a medium nonstick skillet over medium heat. Add onion and garlic and cook, stirring often, until softened, 1 to 2 minutes. Add beef (or turkey) and cook, stirring often, until cooked through, 3 to 5 minutes.\n                        Add tomato, beans, cumin, chili powder and salt; cook, stirring, until the tomato begins to break down, about 2 minutes. Remove from the heat, stir in cilantro and 2 tablespoons of the salsa mixture.\n                        Add lettuce to the remaining salsa mixture and toss to coat. Divide the lettuce between 2 plates, top with the cooked meat and sprinkle with cheese.\n            "
+    },
+    "recipeYield": {
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

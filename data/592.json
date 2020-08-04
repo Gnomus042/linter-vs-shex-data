@@ -1,0 +1,115 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.foodista.com/sites/default/files/styles/recype/public/Spinach%20Cheese%20Tortellini%205%20%28o%29%20%40loavesanddishes.net_.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "2 tbs butter"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp dried basil"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp cumin"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp onion powder"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tsp raw sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "Pepper and Salt to taste"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00be C milk"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00be cup heavy cream"
+        },
+        {
+            "@language": "en",
+            "@value": "2 Tbs flour"
+        },
+        {
+            "@language": "en",
+            "@value": "1 large can of crushed tomato"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bc c Parmesan Cheese \u2013 grated (fresh is best). Plus more to taste."
+        },
+        {
+            "@language": "en",
+            "@value": "1 package of cheese tortellini (dried, frozen or fresh) \u2013 prepare per package instructions"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp oregano"
+        },
+        {
+            "@language": "en",
+            "@value": "1 small onion \u2013 diced"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp garlic powder"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bc tsp red pepper flakes"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tbs olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "2 cloves garlic \u2013 minced"
+        },
+        {
+            "@language": "en",
+            "@value": "4 cups fresh spinach"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp thyme"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Spinach Cheese Tortellini"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Once the spinach is wilted, in a small bowl, mix flour, milk and cream together and whisk together with a fork or a whisk. Once well blended, add to the tomato/spinach mixture. Add the Parmesan Cheese."
+        },
+        {
+            "@language": "en",
+            "@value": "Using a slotted spoon, remove the tortellini from its cooking water and place into the tomato mixture. Gently mix with a wooden spoon being careful not to tear up the tortellini. Heat on stove top until all is heated through. Serve immediately. Garnish with parmesan cheese and fresh basil"
+        },
+        {
+            "@language": "en",
+            "@value": "Prepare tortellini per package instructions."
+        },
+        {
+            "@language": "en",
+            "@value": "In a large stainless steel pan, heat onions in olive oil and butter over medium heat until onions are soft and translucent (about 3-4 minutes). Add the garlic and allow to cook x 1 minutes. Add the tomatoes (juice and all), salt and pepper, garlic powder, onion powder, red pepper flakes, thyme, oregano, cumin and dried basil and raw sugar and allow to simmer for 5 minutes. Add spinach leaves all at once and place lid on the pan so that spinach can wilt. Stir occasionally until leaves are wilted. If tomato mixture becomes to dry \u2013 you can add water \u00bc cup at a time as needed to wilt the spinach. Continue to allow the tomato mixture to simmer."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "8 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

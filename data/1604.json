@@ -1,0 +1,147 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-us",
+            "@value": "3.89"
+        },
+        "reviewCount": {
+            "@language": "en-us",
+            "@value": "8"
+        }
+    },
+    "author": {
+        "@language": "en-us",
+        "@value": "Zoe"
+    },
+    "description": {
+        "@language": "en-us",
+        "@value": "\n\"This recipe is great for people who are lactose intolerant, but, even if you're not, the kids will gobble them up and you will too!\"        "
+    },
+    "image": {
+        "@id": "https://images.media-allrecipes.com/userphotos/560x315/3543028.jpg"
+    },
+    "mainEntityOfPage": {
+        "@language": "en-us",
+        "@value": "True"
+    },
+    "name": {
+        "@language": "en-us",
+        "@value": "Very Berry And Soy Delicious Ice Pops"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-us",
+            "@value": "83 calories;"
+        },
+        "carbohydrateContent": {
+            "@language": "en-us",
+            "@value": "17.8"
+        },
+        "cholesterolContent": {
+            "@language": "en-us",
+            "@value": "0 "
+        },
+        "fatContent": {
+            "@language": "en-us",
+            "@value": "1 "
+        },
+        "proteinContent": {
+            "@language": "en-us",
+            "@value": "1.8 "
+        },
+        "sodiumContent": {
+            "@language": "en-us",
+            "@value": "26 "
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "en-us",
+            "@value": "Desserts"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Frozen Desserts"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Popsicles"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en-us",
+            "@value": "1 pint strawberries, hulled"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 pint blueberries"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 cup brown sugar"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 1/2 cups vanilla soy milk"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-us",
+        "@value": "\n                        \n                            Puree the blueberries and strawberries in batches in a blender or food processor.  Strain into a medium bowl,  through a sieve lined with cheesecloth.\n                            \n                        \n                        \n                            Stir brown sugar into berries.  Stir in soy milk until well blended.  Pour mixture into small paper cups, filling about two-thirds full.  Freeze until beginning to firm.  Insert wooden sticks and freeze until firm, 2 to 3 hours.\n                            \n                        \n            "
+    },
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "12"
+    },
+    "review": [
+        {
+            "@id": "_:N077e523419264fa59fc398c562cb62e4"
+        },
+        {
+            "@id": "_:N99d76dc6c7d141ab9f8904272d111e5f"
+        },
+        {
+            "@id": "_:Ncd54190037544f718a8e8ba61c18fe32"
+        },
+        {
+            "@id": "_:Nd7d8e24e67914979afb9aa21f39f0525"
+        },
+        {
+            "@id": "_:Na467ee8f742847428efa820d803f6894"
+        },
+        {
+            "@id": "_:N046ae14ea0f14a2790d01716042e7fdb"
+        },
+        {
+            "@id": "_:Naaa271a9ea2c48ff99e7bd4fa08d34b2"
+        },
+        {
+            "@id": "_:N8ff30e64d5d741fb82d7fdfcf1bfb012"
+        },
+        {
+            "@id": "_:N7fca3f28ac84414e88c43019a8c5055c"
+        },
+        {
+            "@id": "_:N9c25a7df335441c4ae71bfb9c46d454d"
+        }
+    ],
+    "url": {
+        "title": {
+            "@language": "en-us",
+            "@value": "Very Berry And Soy Delicious Ice Pops Recipe - Allrecipes.com"
+        },
+        "item": [
+            {
+                "@id": "_:Nfa3253fa978c4c2d84182563f7b6570a"
+            },
+            {
+                "@id": "_:Na482118d4ab64b76b6862b2afd115e22"
+            }
+        ]
+    },
+    "@id": "http://example.org/recipe"
+}

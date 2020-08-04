@@ -1,0 +1,97 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "rowangiggles"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2013-06-18"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "An easy peasy chocolate cake recipe for everyone to enjoy"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "Easy"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Row's Simple Chocolate Cake"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "British"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Add half the milk and the cocoa powder adding more milk until all the ingredients are mix together."
+        },
+        {
+            "@language": "en",
+            "@value": "Add the eggs and the flour to the mix taking it in turn with each ingredient."
+        },
+        {
+            "@language": "en",
+            "@value": "Transfer the mix into the cake tin and cook for 20 minuets or until it is firm all the way through. "
+        },
+        {
+            "@language": "en",
+            "@value": "Preheat the oven to 180C/ 350C/ Gas 4"
+        },
+        {
+            "@language": "en",
+            "@value": "Once the cake has finished baking let it cool And add the icing."
+        },
+        {
+            "@language": "en",
+            "@value": "For The Icing:\nCream together the margarine and the icing sugar till smooth."
+        },
+        {
+            "@language": "en",
+            "@value": "Now add the cocoa powder and make sure all the ingredients are mix in fully. "
+        },
+        {
+            "@language": "en",
+            "@value": "Beat the eggs together in a small bowl."
+        },
+        {
+            "@language": "en",
+            "@value": "Cream the butter and sugar together until its light a fluffy."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Serves 1 - 12 Slices"
+    },
+    "sourceOrganization": {
+        "@language": "en",
+        "@value": "BBC Good Food"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT1H"
+    },
+    "@id": "http://example.org/recipe"
+}

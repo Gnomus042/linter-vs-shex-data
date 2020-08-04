@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "fr-FR",
+            "@value": "1.3"
+        },
+        "reviewCount": {
+            "@language": "fr-FR",
+            "@value": "60"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "fr-FR",
+            "@value": "Thomas Harbin"
+        }
+    },
+    "cookTime": {
+        "@language": "fr-FR",
+        "@value": "PT5H"
+    },
+    "description": {
+        "@language": "fr-FR",
+        "@value": "Men tend to express their anger differently than women do Research shows men are often  violent and less willing to confront and deal with their emotions than women Written by a psychologist who specializes in the treatment of male rage, Beyond Anger shows the angry and miserable man how to change his life and relationships for the better This book helps men understand their anger by explaining what the specific symptoms of chronic anger are and by showing angry men how their actions negatively affect family, friends, and coworkers It helps men control violent feelings by using simple exercises developed especially for men to identify when and why anger occurs and by helping them form new habits to prevent anger before it starts Women, too, will learn essential strategies for understanding and helping the angry men in their lives Beyond Anger is honest, tough, and real. Nouveau T\u00e9l\u00e9charger Kindle ePUB Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life Par Thomas Harbin \u2013 groundhogwalking.co.uk"
+    },
+    "image": {
+        "@id": "http://groundhogwalking.co.uk/wp-content/upload/2017/8431fa9b11d8b2a4021d68c598cb34dbimages-na1847da5fc5c351f64b2fbf0f8539292essl-images-amazon1847da5fc5c351f64b2fbf0f8539292ecom/images/I/51Xm94KGKeL1847da5fc5c351f64b2fbf0f8539292ejpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "fr-FR",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "fr-FR",
+            "@value": "60"
+        }
+    },
+    "keywords": {
+        "@language": "fr-FR",
+        "@value": "Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life, Thomas Harbin,Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life,Da Capo Lifelong Books,1569246211,Ratgeber Lebensf\u00fchrung allgemein,Sociology,Social Science,FAMILY & RELATIONSHIPS / Anger (see also SELF-HELP / Self-Management / Anger Management),HEALTH & FITNESS / Men's Health,PSYCHOLOGY / Emotions,PSYCHOLOGY / Mental Health,SELF-HELP / Self-Management / Anger Management (see also FAMILY & RELATIONSHIPS / Anger),SOCIAL SCIENCE / Men's Studies,Men,Psychology,Health, Family & Lifestyle / Men Health, Men Lifestyle,ANF: Psychology,Anger,Anger.,Coping with personal problems,Coping with stress,EMOTIONS,GENERAL,General Adult,Men - Psychology,Men's Studies,Men's Studies - General,Men;Psychology.,Non-Fiction,Popular Psychology,Popular medicine & health,Ratgeber, Sachbuch: Psychologie,Self Help,Self-Help/General,Self-Management - Anger Management,Self-help & personal development,United States,anger management; rage; communication,download, read online, e-pub, pdf, free, kindle ebook"
+    },
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "fr-FR",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "fr-FR",
+            "@value": "Best Kindle ePUB or PC ns than women Written by a psychologist who specializes in the treatment of male rage, Beyond Anger shows the angry and miserable man how to change his life and relationships for the better This book helps men understand their anger by explaining what the specific symptoms of chronic anger are and b"
+        }
+    },
+    "prepTime": {
+        "@language": "fr-FR",
+        "@value": "PT44M"
+    },
+    "recipeCategory": {
+        "@language": "fr-FR",
+        "@value": "Buffy contre les vampires bulgarie"
+    },
+    "recipeCuisine": {
+        "@language": "fr-FR",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "fr-FR",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "fr-FR",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "fr-FR",
+            "@value": "Best Kindle ePUB or PC ns than women Written by a psychologist who specializes in the treatment of male rage, Beyond Anger shows the angry and miserable man how to change his life and relationships for the better This book helps men understand their anger by explaining what the specific symptoms of chronic anger are and b"
+        },
+        "name": {
+            "@language": "fr-FR",
+            "@value": "Beyond Anger: A Guide for Men: How to Free Yourself from the Grip of Anger and Get More Out of Life"
+        },
+        "thumbnailUrl": {
+            "@language": "fr-FR",
+            "@value": "http://groundhogwalking.co.uk/wp-content/upload/2017/8431fa9b11d8b2a4021d68c598cb34dbimages-na1847da5fc5c351f64b2fbf0f8539292essl-images-amazon1847da5fc5c351f64b2fbf0f8539292ecom/images/I/51Xm94KGKeL1847da5fc5c351f64b2fbf0f8539292ejpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "fr-FR",
+            "@value": "2018-09-19T02:14+03:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

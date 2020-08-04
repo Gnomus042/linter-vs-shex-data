@@ -1,0 +1,16 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Dans Assistant"
+    },
+    "description": {
+        "@value": "The president of a society takes his mission seriously, as you can see by the appreciation of the founder of his organization"
+    },
+    "image": {
+        "@id": "https://danscartoons.com/wp-content/uploads/2013/08/Family-Comic-Cartoon-025.gif"
+    },
+    "name": {
+        "@value": "Family Comic Cartoon 025"
+    },
+    "@id": "http://example.org/recipe"
+}

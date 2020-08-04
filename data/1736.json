@@ -1,0 +1,169 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "11"
+        },
+        "ratingValue": {
+            "@value": "4.9"
+        }
+    },
+    "author": {
+        "@value": "Miss Bretzel"
+    },
+    "image": [
+        {
+            "@id": "https://rockthebretzel.com/buche-citron-praline/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20205%200'%3E%3C/svg%3E"
+        },
+        {
+            "@id": "http://rockthebretzel.com/wp-content/uploads/2018/07/Buche-citron-praline\u030141.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "@value": "100 g de chocolat blanc"
+        },
+        {
+            "@value": "30 g de farine"
+        },
+        {
+            "@value": "60 g de chocolat Pralinoise"
+        },
+        {
+            "@value": "5 g de g\u00e9latine"
+        },
+        {
+            "@value": "Le zeste d\u2019un citron jaune"
+        },
+        {
+            "@value": "1 pinc\u00e9e de sel"
+        },
+        {
+            "@value": "1,5 feuilles de g\u00e9latine"
+        },
+        {
+            "@value": "40 g de sucre en poudre"
+        },
+        {
+            "@value": "300 g de cr\u00e8me liquide enti\u00e8re"
+        },
+        {
+            "@value": "50 g \u0153ufs"
+        },
+        {
+            "@value": "2 \u0153ufs entiers + 1 jaune d\u2019oeuf"
+        },
+        {
+            "@value": "2 g de levure chimique"
+        },
+        {
+            "@value": "25 g de beurre"
+        },
+        {
+            "@value": "20 g d\u2019amande en poudre"
+        },
+        {
+            "@value": "120 g de jus de citron jaune"
+        },
+        {
+            "@value": "200 g de pralin\u00e9 noisette"
+        },
+        {
+            "@value": "15 g de beurre"
+        },
+        {
+            "@value": "20 g de sucre"
+        },
+        {
+            "@value": "100 g de lait"
+        },
+        {
+            "@value": "40 g de cr\u00eapes dentelles"
+        }
+    ],
+    "name": {
+        "@value": "B\u00fbche Citron pralin\u00e9"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Transvaser dans la casserole puis remettre \u00e0 feu doux sans cesser de fouetter. A partir du moment o\u00f9 la cr\u00e8me s\u2019\u00e9paissit, compter 30 s et retirer du feu."
+        },
+        {
+            "@value": "Ajouter les cr\u00eapes dentelles \u00e9miett\u00e9es. Etaler imm\u00e9diatement ce m\u00e9lange sur le biscuit moelleux \u00e0 l\u2019amande. R\u00e9server au cong\u00e9lateur le temps de pr\u00e9parer la mousse."
+        },
+        {
+            "@value": "Laisser d\u00e9congeler quelques heures au r\u00e9frig\u00e9rateur et la sortir la b\u00fbche 30 min avant de la d\u00e9guster."
+        },
+        {
+            "@value": "Garnir le moule \u00e0 buche avec \u2154 de la mousse pralin\u00e9, faire prendre environ 15 min au cong\u00e9lateur."
+        },
+        {
+            "@value": "Recouvrir du biscuit (croustillant contre la mousse) et appuyer pour faire remonter la mousse sur les bords."
+        },
+        {
+            "@value": "Lisser la surface puis placer au cong\u00e9lateur une nuit."
+        },
+        {
+            "@value": "Laisser au cong\u00e9lateur une nuit."
+        },
+        {
+            "@value": "R\u00e9chauffer l\u00e9g\u00e8rement le reste de cr\u00e8me au citron et pocher des boules sur le dessus de la b\u00fbche d\u00e9moul\u00e9e. Parsemer de pralin."
+        },
+        {
+            "@value": "M\u00e9langer puis incorporer le beurre fondu \u00e0 la Maryse."
+        },
+        {
+            "@value": "Ajouter la poudre d\u2019amande et la farine m\u00e9lang\u00e9e \u00e0 la levure et le sel."
+        },
+        {
+            "@value": "Travailler au fouet les \u0153ufs avec le sucre."
+        },
+        {
+            "@value": "Lorsque le chocolat est enti\u00e8rement fondu, ajouter le beurre coup\u00e9 en d\u00e9s."
+        },
+        {
+            "@value": "Verser la pr\u00e9paration sur une plaque recouverte de papier cuisson, lisser la surface et enfourner dans un four pr\u00e9chauff\u00e9 \u00e0 150\u00b0C pendant environ 15 min."
+        },
+        {
+            "@value": "Monter la cr\u00e8me bien froide en cr\u00e8me fouett\u00e9e et l\u2019incorporer d\u00e9licatement au m\u00e9lange pr\u00e9c\u00e9dent."
+        },
+        {
+            "@value": "R\u00e9server quelques cuill\u00e8res de cr\u00e8me pour la d\u00e9coration et verser le reste dans le moule \u00e0 b\u00fbche."
+        },
+        {
+            "@value": "Pendant ce temps, fouetter les \u0153ufs (entier + jaune) avec le sucre jusqu\u2019\u00e0 homog\u00e9n\u00e9isation."
+        },
+        {
+            "@value": "Mettre \u00e0 r\u00e9hydrater la g\u00e9latine dans un grand bol d\u2019eau froide pendant 15 min avant utilisation."
+        },
+        {
+            "@value": "D\u00e9poser au centre l\u2019insert au citron en l\u2019enfon\u00e7ant l\u00e9g\u00e8rement puis recouvrir du reste de mousse au pralin\u00e9."
+        },
+        {
+            "@value": "Ajouter la g\u00e9latine essor\u00e9e, bien m\u00e9langer et ajouter en 3 fois sur le chocolat coup\u00e9 en petits morceaux."
+        },
+        {
+            "@value": "Faire fondre le chocolat au bain-marie. Bien m\u00e9langer."
+        },
+        {
+            "@value": "Laisser refroidir \u00e0 la sortie du four puis d\u00e9tailler un rectangle de la taille de la b\u00fbche. R\u00e9server."
+        },
+        {
+            "@value": "Dans une casserole, porter \u00e0 \u00e9bullition le jus de citron avec le zeste d\u2019un des citrons."
+        },
+        {
+            "@value": "Laisser refroidir \u00e0 temp\u00e9rature ambiante."
+        },
+        {
+            "@value": "M\u00e9langer le lait avec la p\u00e2te de pralin\u00e9 et faire l\u00e9g\u00e8rement ti\u00e9dir dans une casserole. Ajouter la g\u00e9latine bien essor\u00e9e."
+        },
+        {
+            "@value": "Verser petit \u00e0 petit le jus de citron sur les \u0153ufs tout en fouettant."
+        }
+    ],
+    "recipeYield": {
+        "@value": "8 - 10"
+    },
+    "@id": "http://example.org/recipe"
+}

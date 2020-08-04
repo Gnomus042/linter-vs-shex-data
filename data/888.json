@@ -1,0 +1,101 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "ja",
+            "@value": "\u306b\u3083\u306b\u3083\u307f\u98ef(=\uff9f\u03c9\uff9f=)"
+        },
+        "url": {
+            "@id": "https://recipe.rakuten.co.jp/recipe/1060012623//mypage/1060010264/"
+        }
+    },
+    "dateCreated": {
+        "@language": "ja",
+        "@value": "2019.03.24"
+    },
+    "description": {
+        "@language": "ja",
+        "@value": "\u6642\u9593\u304c\u306a\u304f\u56f0\u3063\u305f\u3068\u304d\u306e\u6551\u4e16\u4e3b\uff01\u7c21\u5358\u3001\u304a\u3044\u3057\u304f\u3066\u3001\u4e00\u6642\u671f\u306f\u6bce\u65e5\u306e\u3088\u3046\u306b\u98df\u3079\u3066\u3044\u307e\u3057\u305f\uff01\u75b2\u308c\u3066\u3044\u3066\u624b\u629c\u304d\u3092\u3057\u305f\u3044\u3068\u304d\u306b\u30aa\u30b9\u30b9\u30e1\u3067\u3059(*^^*)"
+    },
+    "image": {
+        "@id": "https://jp.rakuten-static.com/recipe-space/d/strg/ctrl/3/bfa510867dd258df9a6c85f0c8a77ca58d83a4a3.93.2.3.2.jpg?thum=58"
+    },
+    "ingredients": [
+        {
+            "@language": "ja",
+            "@value": "\n              \n              \n              \n                \u3046\u3069\u3093\n                \n              \n              \n            \uff11\u4eba\u524d(\u7d04100g)\n          "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n              \n              \n              \n                \u3081\u3093\u3064\u3086\n                \n              \n              \n            \u5927\u3055\u3058\uff11\u3068\uff11/\uff12\n          "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n              \n              \n              \n                \u5375\n                \n              \n              \n            \uff11\u500b\n          "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n              \n              \n              \n                \n                \u5929\u304b\u3059\n              \n              \n            \u5927\u3055\u3058\uff11\n          "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n              \n              \n              \n                \n                \u767d\u3054\u307e\n              \n              \n            \u5c0f\u3055\u3058\uff11/\uff12\n          "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n              \n              \n              \n                \n                \u30cd\u30ae\n              \n              \n            \u5927\u3055\u3058\uff11\n          "
+        }
+    ],
+    "interactionStatistic": [
+        {
+            "@id": "_:N0fa9725646614514bd13908251b7f28d"
+        },
+        {
+            "@id": "_:N2ec20bdfb4324ec7b037982af7c55d68"
+        }
+    ],
+    "interactivityType": {
+        "@language": "ja",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "ja",
+        "@value": "\u8ab0\u3067\u3082\u4f5c\u308c\u308b\uff01\uff01\u7c21\u5358\uff01\u6642\u77ed\uff01\u91dc\u7389\u3046\u3069\u3093\u2661 \u30ec\u30b7\u30d4\u30fb\u4f5c\u308a\u65b9"
+    },
+    "recipeCategory": [
+        {
+            "@language": "ja",
+            "@value": "\n              \n                5\u5206\u4ee5\u5185\u306e\u7c21\u5358\u6599\u7406\n              \n            "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n            \n              \u3076\u3063\u304b\u3051\u3046\u3069\u3093\n            \n          "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n            \n              \u9eba\u30fb\u7c89\u7269\u6599\u7406\n            \n          "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n              \n                \u7c21\u5358\u6599\u7406\n              \n            "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n            \n              \u3046\u3069\u3093\n            \n          "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n              \n                \u7c21\u5358\u5915\u98df\n              \n            "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ja",
+        "@value": "\n    \n      \n      \n        \n        \n          1\n          \n          \u3046\u3069\u3093\u3092\u8339\u3067\u307e\u3059\u3002(\u3046\u3069\u3093\u306e\u7a2e\u985e\u306b\u3088\u3063\u3066\u3086\u3067\u6642\u9593\u5909\u308f\u308b\u306e\u3067\u8cb7\u3063\u305f\u3046\u3069\u3093\u306e\u888b\u306e\u3086\u3067\u6642\u9593\u3092\u898b\u3066\u304f\u3060\u3055\u3044\u306d)\u2606\u51b7\u51cd\u3046\u3069\u3093\u304c\u30aa\u30b9\u30b9\u30e1\u3067\u3059\uff01\n        \n        \n        \n          2\n          \n          \n            \n          \n          \n          \u3046\u3064\u308f\u306b\u3081\u3093\u3064\u3086\u5927\u3055\u3058\uff11\u3068\uff11/\uff12\u3092\u3044\u308c\u3066\u304a\u304f\u3002\n        \n        \n        \n          3\n          \n          \u3046\u3069\u3093\u304c\u3086\u3067\u4e0a\u304c\u3063\u305f\u3089\uff12\u306e\u5668\u306b\u79fb\u3059\u3002\n        \n        \n        \n          4\n          \n          \n            \n          \n          \n          \u771f\u3093\u4e2d\u3092\u5c11\u3057\u304f\u307c\u307e\u305b\u3066\u3001\u305d\u3053\u306b\u5375\u3092\u306e\u305b\u308b\u3002\n        \n        \n\n        \n          5\n          \n          \n            \n          \n          \n          \u30cd\u30ae\u5927\u3055\u3058\uff11\u3001\u5929\u304b\u3059\u5927\u3055\u3058\uff11\u3001\u767d\u3054\u307e\u5c0f\u3055\u3058\uff11/\uff12\u3092\u76db\u308a\u4ed8\u3051\u5b8c\u6210\uff01\uff01\n        \n        \n        \n          6\n          \n          \u2606\u98df\u3079\u7d42\u308f\u3063\u305f\u308930~50ml\u4f4d\u71b1\u6e6f\u3092\u6ce8\u3050\u3068\u3001\u5375\u30b9\u30fc\u30d7\u306e\u3088\u3046\u306b\u7121\u99c4\u306a\u304f\u6700\u5f8c\u307e\u3067\u304a\u3044\u3057\u304f\u98df\u3079\u308c\u307e\u3059\u266a\n        \n        \n      \n    \n    "
+    },
+    "recipeYield": {
+        "@language": "ja",
+        "@value": "1\u4eba\u5206"
+    },
+    "@id": "http://example.org/recipe"
+}

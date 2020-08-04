@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@value": "2"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Idler Chris"
+        }
+    },
+    "cookTime": {
+        "@value": "PT0M"
+    },
+    "dateModified": {
+        "@value": "2015-02-06"
+    },
+    "datePublished": {
+        "@value": "2015-02-05"
+    },
+    "description": {
+        "@value": "This is a wine storage solution for those that do not like chateau cardboard.\nYou purchase black perforated and corrugated drainage pipe preferably 80mm but you may have to settle for 100mm. The best storage location in your vehicle is on the floor behind the front seats as it is about the coolest part of the vehicle and it is hidden from view. The length of the pipe is that which comfortably fits between the door pillers. In a 100 series Land Cruiser this is about 1350mm if you are storing whites (they are taller) or only has to be 1250mm if storing reds. Each pipe holds 4 bottles so work out how many bottles you wish to take, divide it by 4 and thats how many pipes you need. Bind them together before you place them in the vehicle. Put 4 bottles in each pipe and plug with a cloth or you maybe able to buy  caps. When you have drunk a bottle push it in the opposite end of the same pipe which will push up the next bottle and cart away the empty. Stack gear on top of the pipes as this keeps them cooler and hides them from view. Safe storage, will not break, will not rattle, easy disposal of empties, and best of all no one would know you have it.\nWhat do you do about the transmission hump I hear you ask? You fill up either side of the hump to make it roughly level. Many ways to do that just need a little imagination. Basically fill each well with things you do not need on a daily basis and cover then with a thin board. Things like emergency food rations, spare parts, tools (very good as they are heavy), recovery gear, etc."
+    },
+    "headline": {
+        "@value": "This is a wine storage solution for those that do not like chateau cardboard...."
+    },
+    "mainEntityOfPage": {
+        "@value": "https://www.exploroz.com/recipes/95+wine-storage"
+    },
+    "name": {
+        "@value": "Wine Storage"
+    },
+    "prepTime": {
+        "@value": "PT1M"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:N2ff9c45017ec44cf812232b0b212c05a"
+        },
+        "name": {
+            "@value": "ExplorOz"
+        }
+    },
+    "recipeCategory": {
+        "@value": "Drinks, No Cooking"
+    },
+    "recipeIngredient": {
+        "@value": "Wine"
+    },
+    "recipeInstructions": {
+        "@value": "Pour into a crystal glass if the bottle cost $50 or higher, a plastic beaker if under $10, for all others use your favourite tipple container."
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@id": "_:Nfd1d540e9e054c13b096d84ea95b0194"
+        },
+        "datePublished": {
+            "@value": "2015-02-06"
+        },
+        "reviewBody": {
+            "@value": "That's very nifty but I'd like to see a picture. Took me a few reads (not reds) to visualise it but I think I get it. Especially like the idea of carting away your empties. Well done, thank you."
+        },
+        "reviewRating": {
+            "@id": "_:N39080cc9e6c549b483e60065c79756b7"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,82 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5.0"
+        }
+    },
+    "image": {
+        "@id": "https://lh5.googleusercontent.com/-FZMPIFBWLK8/UgwjhOrwFQI/AAAAAAAAHsw/FNn9kqvVF_Q/s800/cream%2520cheese%2520dip%2520closeup_wm.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 tsp sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp worcestershire sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup fat free sour cream"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1-2 large Vidalia onions, halved and sliced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup Greek Yogurt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8 oz Philidelphia cream cheese, softened"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc tsp salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc tsp pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 slices of bacon, crumbled"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Tbsp unsalted butter"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Bacon Caramelized Onion Dip with Philidelphia Cream Cheese"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Hors D'oeuvres"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "In a large pan, melt butter over medium heat. Add onions, salt and pepper. Cook, stirring occasionally, until onions begin to soften {about 5 minutes}."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large bowl, combine the Greek yogurt, sour cream and Philidelphia cream cheese. Mix well. Stir in worcestershire sauce, 2 slices of crumbled bacon and onions. Mix well. Top with remaining slice of crumbled bacon. Refrigerate until about 20 minutes prior to serving."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Stir in the sugar, scraping the brown bits off the bottom of the pan. Cook, stirring occasionally, for an additional 15-20 minutes until the onions are golden brown. Transfer to cutting board and coarsely chop."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

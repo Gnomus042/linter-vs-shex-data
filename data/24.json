@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1 green pepper ring"
+        },
+        {
+            "@language": "en",
+            "@value": "1 pineapple ring"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tablespoon(s) original barbecue sauce"
+        },
+        {
+            "@language": "en",
+            "@value": "1 boneless, skinless chicken breast halves (\u00bc lb) (small)"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "BARBECUED CHICKEN PACKET"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Heat grill to medium heat. Place chicken in center of large sheet of heavy-duty foil; top with remaining ingredients. Bring up foil sides. Double fold top and ends to seal packet, leaving room for heat circulation inside. \nGrill 15 minutes or until chicken is done. Cut slits in foil to release st..."
+    },
+    "@id": "http://example.org/recipe"
+}

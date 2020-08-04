@@ -1,0 +1,14 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://heerlijkzoeken.nl/ingredienten/16335-kersenpitten-en-steeltjes//uploads/book/cover/108/thumb_9789047501121_VRK.jpg"
+    },
+    "name": {
+        "@language": "nl-NL",
+        "@value": "Kersenjam"
+    },
+    "sameAs": {
+        "@id": "https://heerlijkzoeken.nl/boeken/108-de-zilveren-lepel/recepten/22316-kersenjam"
+    },
+    "@id": "http://example.org/recipe"
+}

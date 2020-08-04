@@ -1,0 +1,123 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-us",
+            "@value": "0.00"
+        },
+        "reviewCount": {
+            "@language": "en-us",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "en-us",
+        "@value": "Beef. It's What's for Dinner."
+    },
+    "description": {
+        "@language": "en-us",
+        "@value": "\n\"A great way to use leftover steak or roast! This recipe combines beef, egg and spinach on a thin sandwich roll.\"        "
+    },
+    "image": {
+        "@id": "https://images.media-allrecipes.com/userphotos/560x315/3732807.jpg"
+    },
+    "mainEntityOfPage": {
+        "@language": "en-us",
+        "@value": "True"
+    },
+    "name": {
+        "@language": "en-us",
+        "@value": "Beef and Spinach Breakfast Sandwich"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-us",
+            "@value": "199 calories;"
+        },
+        "carbohydrateContent": {
+            "@language": "en-us",
+            "@value": "9.9"
+        },
+        "cholesterolContent": {
+            "@language": "en-us",
+            "@value": "145 "
+        },
+        "fatContent": {
+            "@language": "en-us",
+            "@value": "6.6 "
+        },
+        "proteinContent": {
+            "@language": "en-us",
+            "@value": "24.1 "
+        },
+        "sodiumContent": {
+            "@language": "en-us",
+            "@value": "770 "
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "en-us",
+            "@value": "Beef. It's What's for Dinner"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Trusted Brands: Recipes and Tips"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en-us",
+            "@value": "Salt and black pepper (optional)"
+        },
+        {
+            "@language": "en-us",
+            "@value": "4 slices reduced-fat Swiss cheese"
+        },
+        {
+            "@language": "en-us",
+            "@value": "12 ounces cooked beef (such as steak, roast, pot roast or deli roast beef), thinly sliced"
+        },
+        {
+            "@language": "en-us",
+            "@value": "4 eggs or equivalent egg substitute"
+        },
+        {
+            "@language": "en-us",
+            "@value": "4 whole wheat round thin sandwich breads, split, toasted"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 cup diced tomatoes"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 cup chopped fresh baby spinach"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-us",
+        "@value": "\n                        \n                            Combine eggs, spinach and tomato in medium bowl. Spray large nonstick skillet with cooking spray; heat over medium-high heat until hot. Add egg mixture; cook 2 to 4 minutes or until eggs are almost set, stirring occasionally. Sprinkle with salt and pepper, if desired.\n                            \n                        \n                        \n                            Divide egg mixture into 4 separate portions in pan. Evenly top with cheese and beef. Remove from heat and cover. Let stand 1 to 2 minutes or until cheese is melted.\n                            \n                        \n                        \n                            Place one egg portion on bread bottoms. Close sandwiches; serve immediately.\n                            \n                        \n            "
+    },
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "6"
+    },
+    "url": {
+        "title": {
+            "@language": "en-us",
+            "@value": "Beef and Spinach Breakfast Sandwich Recipe - Allrecipes.com"
+        },
+        "item": [
+            {
+                "@id": "_:Nf534b8a7aa3840049bc0a15db4547104"
+            },
+            {
+                "@id": "_:N5344af67cf4c467b965593ccdcc86e1e"
+            }
+        ]
+    },
+    "@id": "http://example.org/recipe"
+}

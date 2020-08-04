@@ -1,0 +1,73 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en",
+            "@value": "6"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4"
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "\n          \n              \n              \n                  \n                  \n                      \n                      \n                      \n                          15 minutes\n                          \n                      \n                      \n                               \n                  \n                  \n              \n          \n          "
+    },
+    "image": {
+        "@id": "https://www.waitrose.com/content/waitrose/en/home/recipes/recipe_directory/c/creamy-leek-mushroompancakes.html?wtrint=1-Content-_-2-Inspiration-_-3-pancake_day-_-4--_-5-recipe-_-6-leekpancakes///d1v30bmd12dhid.cloudfront.net/static/version2/content/dam/waitrose/recipes/images/c/creamy_leekmshroom_pancakes_400.jpg/_jcr_content/renditions/cq5dam.thumbnail.200.200.png"
+    },
+    "ingredients": {
+        "@language": "en",
+        "@value": "For the pancake:\n50g plain flour\n50g Waitrose Dark Rye Flour\nPinch of salt\n1 essential Waitrose British Blacktail Free Range Egg, beaten\n300ml milk\nFor the filling:\n 50g butter\n2 leeks, washed and shredded\n2 cloves garlic, crushed\n250g pack chestnut mushrooms, sliced\n200g button mushrooms, sliced\nOil, for frying\n150g pack Boursin with Black Pepper\n\n        "
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Creamy leek & mushroom pancakes"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "\n                                1912.088kJ 457kcal\n                            "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "\n                        \t\t26.8g\n                        \t"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "\n                                33g\n                            "
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "\n                                18.8g\n                            "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "\n                        \t\t1.1g\n                        \t"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "\n                        \t\t6.7g\n                        \t"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "\n          \n              \n              \n                  \n                  \n                      \n                      \n                      \n                          15 minutes\n                          \n                      \n                      \n                               \n                  \n                  \n              \n          \n          "
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "1.\u00a0Place the flours and salt in a bowl, make a well in the centre and add the egg. Then gradually beat in the milk to form a smooth batter. Set aside.\n\n2. Melt the butter in a frying pan and gently cook the leeks for 4\u20135 minutes until they have softened. Add the garlic and mushrooms and cook until softened.\n3.\u00a0Meanwhile, heat a little oil in a frying pan. Once hot, pour a little of the prepared batter into the pan, and rotate it around so that there is an even layer. Cook for 1\u20132 minutes until the surface is firm to touch and slightly darker in colour, then flip the pancake over and cook for 1\u20132 minutes, or until golden. Set aside and keep warm. Repeat to make 4 pancakes.\n4. Divide the leek mixture between the pancakes, top with a generous cube of the Boursin, and serve with the sides folded in towards the centre.\n\n        "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n          \n              \n              \n                  \n                      \n                  \n                  \n                      \n                          30 minutes\n                          \n                      \n                      \n                      \n                      \n                               \n                  \n                  \n                      \n                  \n              \n          \n          "
+    },
+    "@id": "http://example.org/recipe"
+}

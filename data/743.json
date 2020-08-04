@@ -1,0 +1,38 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "schema.orgAggregateRating"
+    },
+    "bestRating": {
+        "@language": "fr",
+        "@value": "5"
+    },
+    "cookTime": {
+        "@language": "fr",
+        "@value": "20min"
+    },
+    "image": {
+        "@id": "http://www.yanncook.com/recette_gateau-de-courgettes-oh-oui_46810.html/img/miniature_recette/2012/02/gateau-de-courgettes-oh-oui-46810.jpg"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "G\u00ef\u00bf\u00bdteau de courgettes oh oui"
+    },
+    "prepTime": {
+        "@language": "fr",
+        "@value": "30min"
+    },
+    "ratingCount": {
+        "@language": "fr",
+        "@value": "12"
+    },
+    "ratingValue": {
+        "@language": "fr",
+        "@value": "1.5"
+    },
+    "totalTime": {
+        "@language": "fr",
+        "@value": "50min"
+    },
+    "@id": "http://example.org/recipe"
+}

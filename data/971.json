@@ -1,0 +1,155 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": [
+        {
+            "@id": "_:Ne56bd15671d1491483505dc3e6ea9c2d"
+        },
+        {
+            "@id": "_:Nf4b03273adcf4411a2ca9b9289f20e07"
+        },
+        {
+            "@id": "_:N711cac02c01f4bf2b7d39d5c10585116"
+        },
+        {
+            "@id": "_:Ncc3b883b4e7b4682a3376fd1646aa8a8"
+        },
+        {
+            "@id": "_:N9c3a20a8dcbf481c96e925fa8e01109a"
+        },
+        {
+            "@id": "_:N19d398d33e244feeb5865f5fb6251f9a"
+        },
+        {
+            "@id": "_:N84a7955f1ddf407e99c1fe7a9b9d8819"
+        },
+        {
+            "@id": "_:Nc7c989eebde741a8890d79e0ad8e64f8"
+        },
+        {
+            "@id": "_:N68234ddca94a4b4ab8232e83dd481a20"
+        },
+        {
+            "@id": "_:N5a2d0e5e5f9746ddb32154c619de5bbf"
+        },
+        {
+            "@id": "_:Nbc395c9c8e774ad4a4cc6f9d52060e16"
+        },
+        {
+            "@id": "_:Naa839c1cda174312bfe6ef96ca519ec0"
+        },
+        {
+            "@id": "_:N9addf07d57f646b48a8ed6da014fafcb"
+        },
+        {
+            "@id": "_:Ndaf728756b574645b9a7fcc11b319567"
+        },
+        {
+            "@id": "_:N7b9cc4f6bb854e60b76538210a78e4f0"
+        },
+        {
+            "@id": "_:N50e2d0aa1bb049c786fcda39d92468a9"
+        },
+        {
+            "@id": "_:N85254b05d3e94d60b8ae1c68a179c975"
+        },
+        {
+            "@id": "_:N74e2afe717d8430d91ea3b92bcfd2028"
+        },
+        {
+            "@id": "_:N25083efacd104828aaabb43ff78e9ea7"
+        },
+        {
+            "@id": "_:Ndaa95b47e02441ffa276ad63462180aa"
+        },
+        {
+            "@id": "_:Nd555784a0e53406ab207119d0421a1e4"
+        },
+        {
+            "@id": "_:N5d7cf946ebfb4b719b4eab51c51e27fa"
+        },
+        {
+            "@id": "_:Nedfe9763469a4e86ba69cd94054ead73"
+        },
+        {
+            "@id": "_:Ne142676047f240cf9dd62401614eea80"
+        },
+        {
+            "@id": "_:N07efa584be3e4d379d44cf858c7f3e50"
+        },
+        {
+            "@id": "_:N43622fde00dc4f5fac6abf3f03704c58"
+        },
+        {
+            "@id": "_:Nf485bba866f5420586e6d9fa47644229"
+        },
+        {
+            "@id": "_:N400fde617b204c24bf1f4b9aa78012ca"
+        }
+    ],
+    "author": {
+        "@value": "THERMOMIX \u00ae REZEPT"
+    },
+    "dateModified": {
+        "@value": "2018-10-10"
+    },
+    "datePublished": {
+        "@value": "2018-09-23"
+    },
+    "description": {
+        "@value": "\n                            \n                                                                                                            \n                                                                                    \n                                    Alle Zutaten - bis auf 20 g Zucker und Zimt - in den \ufffcMixtopf geben. Dann 5 Sek./Stufe 5 verr\u00fchren. \n\nDie H\u00e4lfte der Streusel in eine gefettete Springform f\u00fcllen, den Rest vor\u00fcbergehend in eine separate Sch\u00fcssel.\n\nMixtopf kurz aussp\u00fclen.\n\nAnschlie\u00dfend Birnen sch\u00e4len und Kernhaus entfernen. \n\nIn den Mixtopf geben und 5 Sek./Stufe 4 zerkleinern. Nun Zucker und Zimt mit in den \ufffcMixtopf geben. Nochmals 5 Sek.//Stufe 4.\n\nZwischenzeitlich den Ofen auf 180\u00b0C Ober- und Unterhitze vorheizen.\n\nDanach die zerkleinerten Birnen auf den Streuseln in der Springform verteilen. Zum Schluss noch die restlichen Streusel aus der separaten Sch\u00fcssel auf den Birnen verteilen.\n\nIm vorgeheizten Backofen bei 180\u00b0C Ober-Unterhitze 45 Min. backen.\n                                \n                                                                                                            "
+    },
+    "image": {
+        "@id": "https://de.rc-cdn.community.thermomix.com/recipeimage/fh9c5ik9-e8046-106872-4a364-16m3l07i/fed51541-67e3-4312-afaf-2ea92a130c9d/main/birnen-streuselkuchen.jpg"
+    },
+    "keywords": {
+        "@value": "schnell,backen,kuchen,"
+    },
+    "name": {
+        "@value": "Birnen-Streuselkuchen"
+    },
+    "performTime": {
+        "@value": "PT15M"
+    },
+    "recipeCategory": {
+        "@id": "https://www.rezeptwelt.de/backen-suess-rezepte/birnen-streuselkuchen/fh9c5ik9-e8046-106872-4a364-16m3l07i//kategorien/backen-su%C3%9F"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n                                    200\n                                                    Gramm\n                                                    Butter (kalt)                                            "
+        },
+        {
+            "@value": "\n                                    20\n                                                    Gramm\n                                                    Zucker                                            "
+        },
+        {
+            "@value": "\n                                    300\n                                                    Gramm\n                                                    Mehl                                            "
+        },
+        {
+            "@value": "\n                                    100\n                                                    Gramm\n                                                    Zucker                                            "
+        },
+        {
+            "@value": "\n                                    7\n                                                    St\u00fcck\n                                                    Birnen                                            "
+        },
+        {
+            "@value": "\n                                    1\n                                                    St\u00fcck\n                                                    Eier                                            "
+        },
+        {
+            "@value": "\n                                    1/2\n                                                    Teel\u00f6ffel\n                                                    Zimt                                            "
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        \n                        5\n                                            Zubereitung\n        \n                            \n                                                                                                            \n                                                                                    \n                                    Alle Zutaten - bis auf 20 g Zucker und Zimt - in den \ufffcMixtopf geben. Dann 5 Sek./Stufe 5 verr\u00fchren. \n\nDie H\u00e4lfte der Streusel in eine gefettete Springform f\u00fcllen, den Rest vor\u00fcbergehend in eine separate Sch\u00fcssel.\n\nMixtopf kurz aussp\u00fclen.\n\nAnschlie\u00dfend Birnen sch\u00e4len und Kernhaus entfernen. \n\nIn den Mixtopf geben und 5 Sek./Stufe 4 zerkleinern. Nun Zucker und Zimt mit in den \ufffcMixtopf geben. Nochmals 5 Sek.//Stufe 4.\n\nZwischenzeitlich den Ofen auf 180\u00b0C Ober- und Unterhitze vorheizen.\n\nDanach die zerkleinerten Birnen auf den Streuseln in der Springform verteilen. Zum Schluss noch die restlichen Streusel aus der separaten Sch\u00fcssel auf den Birnen verteilen.\n\nIm vorgeheizten Backofen bei 180\u00b0C Ober-Unterhitze 45 Min. backen.\n                                \n                                                                                                            \n                        "
+    },
+    "recipeYield": {
+        "@value": "\n     12 St\u00fcck\n"
+    },
+    "tool": {
+        "@value": "Spatel"
+    },
+    "totalTime": {
+        "@value": "PT1M"
+    },
+    "url": {
+        "@value": "/backen-suess-rezepte/birnen-streuselkuchen/fh9c5ik9-e8046-106872-4a364-16m3l07i"
+    },
+    "@id": "http://example.org/recipe"
+}

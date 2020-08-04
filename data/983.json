@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://recipes-secure-graphics.grocerywebsite.com/0_GraphicsRecipes/3726_400.jpg"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "dried thyme leaves"
+        },
+        {
+            "@language": "en",
+            "@value": "Cooking spray"
+        },
+        {
+            "@language": "en",
+            "@value": "small onions, each cut lengthwise, into quarters"
+        },
+        {
+            "@language": "en",
+            "@value": "garlic, chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "black pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "beef broth"
+        },
+        {
+            "@language": "en",
+            "@value": "plum tomatoes, each cut lengthwise, into quarters and seeded"
+        },
+        {
+            "@language": "en",
+            "@value": "whole mushrooms"
+        },
+        {
+            "@language": "en",
+            "@value": "Balsamic vinegar"
+        },
+        {
+            "@language": "en",
+            "@value": "couscous, prepared according to package directions"
+        },
+        {
+            "@language": "en",
+            "@value": "olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "boneless beef bottom round roast, trimmed and cut into 1- inch pieces or 1 3/4 pound beef stew meat"
+        },
+        {
+            "@language": "en",
+            "@value": "cornstarch, dissolved in 2 Tbsp water"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "6 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

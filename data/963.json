@@ -1,0 +1,11 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "pl",
+        "@value": "To ze jestem fanka ciasta francuskiego,ogolnie wiadomo, jak i to, ze moim zdaniemktos kto je wymyslil zasluguje na pomnik. "
+    },
+    "image": {
+        "@id": "https://rondel.pl/przepis,kurczak-pieczarki-czyli-lodeczki-z-ciasta-francuskiego.html//files/869/fb/113077.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

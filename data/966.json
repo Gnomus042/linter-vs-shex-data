@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "es-ES",
+        "@value": "Mar\u00eda del Carmen Gonz\u00e1lez"
+    },
+    "image": {
+        "@id": "https://cocinayrecetas-static.hola.com/lacocinaperfecta/files/2017/06/IMG_4243.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "es-ES",
+            "@value": "Pimienta molida"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Sal"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Aceite de oliva virgen extra"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "8 filetes de ternera finos y tiernos"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "4 lonchas de queso"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "8 lonchas de bacon"
+        }
+    ],
+    "name": {
+        "@language": "es-ES",
+        "@value": "Rollitos de ternera"
+    },
+    "recipeCategory": {
+        "@language": "es-ES",
+        "@value": "Recetas en el horno"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "es-ES",
+            "@value": "Enrollamos bien y colocamos en la bandeja de horno con la parte que termina hacia abajo para que no se nos abra. Tambi\u00e9n podemos pinchar con un palillo de madera para que no se abran."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Salpimentamos de nuevo y agregamos unos hilos de aceite de oliva virgen extra."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Salpimentamos los filetes de ternera y repartimos por la mesa de trabajo."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Colocamos sobre ellos una loncha de bacon y la mitad de la loncha de queso. Las lonchas las cortamos por la mitad y ponemos una mitad en cada filete de ternera."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Servimos."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Llevamos al horno, 180 grados, unos 40 minutos."
+        }
+    ],
+    "recipeYield": {
+        "@language": "es-ES",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

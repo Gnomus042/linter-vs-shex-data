@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Mani Mukhija"
+        }
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "October 28th, 2015"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n\n                \n                From past 2-3 nights, I have been quite restless and not getting enough sleep.I had been dreaming of some unusual stuff which kept me quite disturbed. But this particular night came out to be a chocolatey night. Heaven, I was ...Read more\n                \n\n\n                \n\n                \n            "
+    },
+    "image": {
+        "@id": "https://gingeritup.com/wp-content/uploads/2015/10/image37-656x400.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Veggie-Nutty-Chocolatey Eggless Brownies: Dreams about food presages near future"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Cakes, Desserts"
+    },
+    "@id": "http://example.org/recipe"
+}

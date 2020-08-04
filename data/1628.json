@@ -1,0 +1,7 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.tefal.com/recipe/Grilled-Buffalo-Chicken-Wings/r/108924//_ui/desktop/common/img/img-defer-spinner.svg"
+    },
+    "@id": "http://example.org/recipe"
+}

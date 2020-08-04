@@ -1,0 +1,70 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "fr",
+        "@value": "//recette.supertoinette.com/122815/m/chutney-de-figues-au-vin-rouge.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr",
+            "@value": "\n                                            11,40 g\n                                                    de b\u00e2ton de cannelle soit 3\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            110 g\n                                                    d'oignon\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            5 g\n                                                    de sel\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            1 litre\n                                                    de vinaigre balsamique\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            2 g\n                                                    de massal\u00e9\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            500 g\n                                                    de sucre cassonade\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            7 kg\n                                                    de figues \n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            2 kg\n                                                    de sucre cristallis\u00e9\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            155 g\n                                                    d'oranges press\u00e9es soit 2\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            1,50 g\n                                                    de poivre du moulin\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            1 litre\n                                                    de vin rouge \n                                                            "
+        }
+    ],
+    "name": {
+        "@language": "fr",
+        "@value": "Chutney de figues au vin rouge"
+    },
+    "recipeYield": {
+        "@language": "fr",
+        "@value": "27 bocaux de 250g"
+    },
+    "totalTime": {
+        "@language": "fr",
+        "@value": "1 h 15 min"
+    },
+    "url": {
+        "@language": "fr",
+        "@value": "https://www.supertoinette.com/recette/2529/chutney-de-figues-au-vin-rouge.html"
+    },
+    "@id": "http://example.org/recipe"
+}

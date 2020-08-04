@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "http://www.foodreporter.fr/user/index/id/66328"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-09-16"
+    },
+    "image": {
+        "@id": "http://www.foodreporter.fr/upload/original/4/5/3/8/c/657179.jpg"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Tajine revisit\u00e9, tomate farcie et pan\u00e9e"
+    },
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n                         marocain platprincipal sal\u00e9\n                    "
+    },
+    "@id": "http://example.org/recipe"
+}

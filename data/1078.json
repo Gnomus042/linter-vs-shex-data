@@ -1,0 +1,79 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en",
+        "@value": "The Michelada is a refreshing, cocktail-like drink prepared with beer. The base of any good Michelada also includes salt, lime and a spicy salsa. When I prepare this drink, I use my favorite salsa-Mexican chamoy sauce (which is made with pickled fruit). This salsa is a bit spicy, with a sweet toque added from jam or fruit such as tamarind or apricot. But chamoy sauce isn\u2019t just for Micheladas; it\u2019s used with many appetizers and snacks, like fresh sliced fruit. \n\nFor me, one of the best combinations is mango with chamoy, whether it be sliced mango, a mango popsicle, or this mango Michelada. Try making this drink at home and discover a new, fun way to enjoy a rica cerveza. \n"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/51548d6f-976e-4aca-8512-fcc7d3ed52b1.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "mango and chamoy micheladas"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Mango and Chamoy Micheladas"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H5M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Beverage"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Mexican"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    3/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup mango juice or nectar\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    \n                \n            \n            \n                \n                    \n                        \n                    \n                    ground table salt\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoon Mexican chamoy sauce\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    cold beer, 10 or 12oz\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    key limes, cut in half\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N83075bd158584988926dc0191d669d8b"
+        },
+        {
+            "@id": "_:N548dc0a1a60641d5bd9425433430a4d8"
+        },
+        {
+            "@id": "_:N788058edfc6f4434a451a8db924e4d94"
+        },
+        {
+            "@id": "_:N349ac931b7dc4f0eb10492390448e0ce"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "1"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT0H10M"
+    },
+    "@id": "http://example.org/recipe"
+}

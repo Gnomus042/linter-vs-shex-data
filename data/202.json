@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "it-IT",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "it-IT",
+            "@value": "2"
+        }
+    },
+    "author": {
+        "@language": "it-IT",
+        "@value": "Sonia"
+    },
+    "datePublished": {
+        "@language": "it-IT",
+        "@value": "Null"
+    },
+    "description": {
+        "@language": "it-IT",
+        "@value": "\n      Parmigiana di melanzane\n\u00a0\n\n\n\n\n(adsbygoogle = window.adsbygoogle || []).push({});\n\n\n\n\n\n\n(adsbygoogle = window.adsbygoogle || []).push({});\n\n\n\n    "
+    },
+    "image": {
+        "@id": "http://www.speziata.it/wp-content/uploads/2018/08/parmigiana-di-melanzane--575x323.jpg"
+    },
+    "interactionCount": {
+        "@language": "it-IT",
+        "@value": "UserComments:"
+    },
+    "name": {
+        "@language": "it-IT",
+        "@value": "\n        Parmigiana di melanzane    "
+    },
+    "url": {
+        "@language": "it-IT",
+        "@value": "Null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "it-IT",
+            "@value": "\n      Parmigiana di melanzane    "
+        },
+        "name": {
+            "@language": "it-IT",
+            "@value": "\n      Parmigiana di melanzane    "
+        },
+        "thumbnailUrl": {
+            "@id": "http://www.speziata.it/wp-content/uploads/2018/08/parmigiana-di-melanzane-.jpg"
+        },
+        "uploadDate": {
+            "@language": "it-IT",
+            "@value": "2018-08-20T20:12:41+00:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

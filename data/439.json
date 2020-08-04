@@ -1,0 +1,56 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@value": "\nflauschig-weiche Zimt- bzw. Schokoladenschnecken"
+    },
+    "image": {
+        "@id": "https://4.bp.blogspot.com/-Ur5MeJj1yiM/WNApi5LuRAI/AAAAAAAANvE/rgi_fdogWToPhlT5HiJkSaxGWdbeL4z_ACLcB/s1600/Zimtschnecken%2B1.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "30 gr Dinkelmehl, Typ 1050"
+        },
+        {
+            "@value": "1,5 TL Salz"
+        },
+        {
+            "@value": "1 TL Trockenhefe"
+        },
+        {
+            "@value": "85 gr Butter, geschmolzen"
+        },
+        {
+            "@value": "70 gr Milch"
+        },
+        {
+            "@value": "1 Ei"
+        },
+        {
+            "@value": "70 gr Wasser"
+        },
+        {
+            "@value": "20 gr Milchpulver"
+        },
+        {
+            "@value": "450 gr Dinkelmehl, Typ 630"
+        },
+        {
+            "@value": "50 gr Dinkelmehl, Typ 1050"
+        },
+        {
+            "@value": "170 gr Milch, lauwarm\u00a0"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "\nAlle Zutaten miteinander in einem kleinen Topf verr\u00fchren, dann unter st\u00e4ndigem r\u00fchren bei mittlerer Hitze aufkochen lassen. Es sollte sich eine breiige Masse bilden, die sich vom Topfboden l\u00f6st. Diese dann auf die Seite stellen und abk\u00fchlen lassen.\n"
+        },
+        {
+            "@value": "\nAlle Zutaten in der K\u00fcchenmaschine kurz vermengen, dann f\u00fcr 20 min. quellen lassen. Nun f\u00fcr etwa 3 min. auf kleiner, weitere 4 min. auf der n\u00e4chst h\u00f6heren Stufe miteinander verkneten, bis ein glatter Teig entsteht. Die Sch\u00fcssel abdecken und f\u00fcr 60-90 min. gehen lassen.\nDen Teig nun halbieren und zu jeweils einem Quadrat von etwa 40x20cm ausrollen. Eines der Quadrate mit Zimt/Zucker, das andere mit den Schokoladendrops bestreuen. Anschlie\u00dfend von der langen Seite her aufrollen, die Naht sollte zum Schluss unten sein.\u00a0\nEine Auflaufform (ca. 20x30cm) gut mit Butter fetten.\nNun jede Rolle in 12 Rollen schneiden und diese in die Auflaufform setzen, etwas Abstand zwischen den einzelnen Schnecken zum Aufgehen lassen.\u00a0\nDie Form nun abdecken und f\u00fcr etwa 12-18 Std in den K\u00fchlschrank stellen.\nDie Auflaufform nach Ende der Gehzeit, vor dem Backen, f\u00fcr etwas 30 min bei Zimmertemperatur ruhen lassen. Den Backofen rechtzeitig auf 180\u00b0C Ober-/Unterhitze vorheizen und ein Rost im unteren Drittel einh\u00e4ngen.\u00a0\nDie Zimt-/Schokoladenschnecken f\u00fcr etwa 20-25 min backen. Die Kerntemperatur sollte bei ungef\u00e4hr 86\u00b0C liegen.\nBei Bedarf mit Zuckerguss oder Icing bedecken.\n"
+        }
+    ],
+    "recipeYield": {
+        "@value": "ca. 24 Schnecken\u00a0"
+    },
+    "@id": "http://example.org/recipe"
+}

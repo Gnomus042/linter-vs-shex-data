@@ -1,0 +1,79 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Sprung At Last"
+    },
+    "image": {
+        "@id": "http://www.sprungatlast.com/wp-content/uploads/2013/01/Ginger-Currant-Granola.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup maple syrup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons vegetable oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup slivered almonds"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup finely chopped candied ginger"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd teaspoon salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup currants"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup shredded coconut"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp orange juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 cups rolled oats"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 cup ground flaxseed"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Ginger Currant Granola"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Preheat oven to 350F. In a large bowl, mix oats with flaxseed, almonds, coconut, currants, ginger, and salt. In another bowl, whisk maple syrup with oil, vanilla, and orange juice. Pour over oat mixture and stir until well-mixed."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Serve over yogurt or however you like it."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spread out on a large, rimmed baking sheet. Bake until oats are golden, about 20 minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Remove pan from the oven and place on a rack to cool. Granola will crisp as it cools."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,62 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@value": "Makes 4 Servings 6 SmartPoints per whole English Muffin"
+    },
+    "image": {
+        "@id": "https://www.youbrewmytea.com/wp-content/uploads/2018/10/BBQ-Chicken-English-Muffin-Pizzas-8.png"
+    },
+    "ingredients": [
+        {
+            "@value": "\u2153 cup shredded mozzarella cheese"
+        },
+        {
+            "@value": "\u00be cup barbecue sauce (I use sugar-free to suit my diabetic needs)"
+        },
+        {
+            "@value": "1 tablespoon finely chopped red onion"
+        },
+        {
+            "@value": "4 Bay's English Muffins, split and untoasted"
+        },
+        {
+            "@value": "\u2153 cup shredded smoked gouda cheese"
+        },
+        {
+            "@value": "1 tablespoon chopped cilantro"
+        },
+        {
+            "@value": "1 cup shredded cooked chicken breast (I use rotisserie chicken when in a hurry)"
+        }
+    ],
+    "name": {
+        "@value": "BBQ Chicken English Muffin Pizzas"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Place the Bay's English Muffin halves on a baking sheet"
+        },
+        {
+            "@value": "Top evenly with chicken mixture, and then sprinkle the tops with onion and cheese"
+        },
+        {
+            "@value": "Sprinkle with cilantro before serving."
+        },
+        {
+            "@value": "Preheat your oven to 400\u00c2\u00b0F"
+        },
+        {
+            "@value": "Mix chicken breast and barbecue sauce in a medium bowl and set aside"
+        },
+        {
+            "@value": "Bake at\u00c2\u00a0400\u00c2\u00b0F for 12-14 minutes or until the cheese is melted and lightly browned."
+        },
+        {
+            "@value": "Mix cheeses together in a small bowl and set aside"
+        }
+    ],
+    "recipeYield": {
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

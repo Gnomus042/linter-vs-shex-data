@@ -1,0 +1,108 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "3"
+        },
+        "ratingValue": {
+            "@value": "4.2"
+        }
+    },
+    "author": {
+        "@value": "Alletiders Kogebog"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "0002-11-30"
+    },
+    "image": {
+        "@id": "https://www.dk-kogebogen.dk/opskrifter/677/vinmarineret-vildtsteg//billeder-opskrifter/billeder/677/4_300.jpg"
+    },
+    "keywords": {
+        "@value": "Vinmarineret vildtsteg, Opskrift, Alletiders, Kogebog"
+    },
+    "name": {
+        "@value": " Vinmarineret vildtsteg "
+    },
+    "recipeCategory": {
+        "@value": "Hovedretter"
+    },
+    "recipeCuisine": {
+        "@value": "Ukendt oprindelsesland"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "2 spsk. sm\u00f8r eller margarine"
+        },
+        {
+            "@value": "1 spsk. knuste kryderpeberkorn"
+        },
+        {
+            "@value": "8 dl. r\u00f8dvin"
+        },
+        {
+            "@value": "1-2 spsk. ribsgele"
+        },
+        {
+            "@value": "1  gulerod"
+        },
+        {
+            "@value": "  salt"
+        },
+        {
+            "@value": "1  laurb\u00e6rblad"
+        },
+        {
+            "@value": "1  l\u00f8g"
+        },
+        {
+            "@value": "Null"
+        },
+        {
+            "@value": "3-4 dl. marinade"
+        },
+        {
+            "@value": "2 dl. piskefl\u00f8de"
+        },
+        {
+            "@value": "  Sovs:"
+        },
+        {
+            "@value": "  peber"
+        },
+        {
+            "@value": "3-4 dl. stegesky"
+        },
+        {
+            "@value": "  Marinade:"
+        },
+        {
+            "@value": "2 spsk. hvedemel"
+        },
+        {
+            "@value": "1 spsk. knust eneb\u00e6r"
+        },
+        {
+            "@value": "1500 kg. hjortek\u00f8llesteg"
+        },
+        {
+            "@value": "3 spsk. olie"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "Afpuds stegen og l\u00e6g den i et smalt fad.\nDybfrossen k\u00f8d beh\u00f8ver ikke at t\u00f8.\nSkr\u00e6l l\u00f8g og gulerod, sk\u00e6r dem i skiver og bland dem med resten af ingredienserne til marinaden.\n\nH\u00e6ld marinaden over stegen.\nDen skal d\u00e6kke k\u00f8det, sp\u00e6d ellers med lidt r\u00f8dvin.\nStil den i k\u00f8leskabet 3-4 dage og vend stegen et par gange undervejs.\n\nTag stegen op og t\u00f8r den af.\nVarm fedtstof i en stegegryde, kom den i og brun den godt.\nSalt let og sp\u00e6d med 2-3 dl. af marinaden.\nLad k\u00f8det sm\u00e5stege under l\u00e5g i 1\u00bd-2 timer og sp\u00e6d undervejs med mere marinade.\nTag stegen op og lad den hvile under folie.\n\nR\u00f8r melet ud i lidt vand og j\u00e6vn skyen til sovsen.\nTils\u00e6t fl\u00f8de og smag til med salt, peber og ribsgele.\nSk\u00e6r k\u00f8det i tynde, fine skiver og server med sm\u00e5 kartofler vendt i sm\u00f8r eller kartoffelkroketter, ribs- og r\u00f8nneb\u00e6rgele, agurksalat samt haricots verts og sovsen til.\n Tips:Andre dele af vildt, f.eks. yderl\u00e5r, bov eller h\u00f8jreb kan marineres og steges som grydesteg, men b\u00f8r da ligge i marinade i 1-2 uger."
+    },
+    "recipeYield": {
+        "@value": "6\u00a0Pers."
+    },
+    "url": {
+        "title": {
+            "@value": "Vinmarineret vildtsteg - opskrift - Alletiders Kogebog"
+        },
+        "item": {
+            "@id": "_:N5a8e532423a8498daae6fdff7563681c"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

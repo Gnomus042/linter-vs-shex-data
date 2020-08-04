@@ -1,0 +1,96 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "1100"
+        },
+        "ratingValue": {
+            "@value": "3.6"
+        }
+    },
+    "author": {
+        "@value": "Kalyn's Kitchen"
+    },
+    "image": {
+        "@id": "https://under500calories.com/recipe/82229-stir-fried-shrimp-with-snow-peas-or-sugar-snap-peas-and-ginger//photos/1000x800/2626.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1/3 cup chicken stock "
+        },
+        {
+            "@value": "2 slices ginger *for seasoning the oil*, optional, see below"
+        },
+        {
+            "@value": "2 tbsps minced garlic finely"
+        },
+        {
+            "@value": "1  white pepper "
+        },
+        {
+            "@value": "  corn starch 1 1/2 tsp., or use arrowroot starch if you have it, I buy it from Penzeys"
+        },
+        {
+            "@value": "2 whole garlic cloves and 2 slices ginger *for seasoning the oil*, optional, see below"
+        },
+        {
+            "@value": "1 cup snow peas cut on diagonal if large"
+        },
+        {
+            "@value": "2 tsps ginger root grated fresh, use a microplane grater if you have one"
+        },
+        {
+            "@value": "2 1/2 tsps rice vinegar and 1/2 tsp sugar or splenda"
+        },
+        {
+            "@value": "1 tbsp seasoned rice wine vinegar "
+        },
+        {
+            "@value": "1 lb shrimp or more large"
+        },
+        {
+            "@value": "1 1/2 tbsps vegetable oil or peanut oil, depends on your pan"
+        },
+        {
+            "@value": "1 jar garlic "
+        },
+        {
+            "@value": "  soy sauce 2 tsp."
+        }
+    ],
+    "name": {
+        "@value": "Stir-Fried Shrimp with Snow Peas (or Sugar Snap Peas) and Ginger"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "280"
+        },
+        "carbohydrateContent": {
+            "@value": "24g"
+        },
+        "cholesterolContent": {
+            "@value": "175mg"
+        },
+        "fatContent": {
+            "@value": "8g"
+        },
+        "fiberContent": {
+            "@value": "2g"
+        },
+        "proteinContent": {
+            "@value": "29g"
+        },
+        "saturatedFatContent": {
+            "@value": "0g"
+        },
+        "sodiumContent": {
+            "@value": "1730mg"
+        },
+        "sugarContent": {
+            "@value": "2g"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

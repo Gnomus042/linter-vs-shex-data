@@ -1,0 +1,79 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://faithfulprovisions.com/wp-content/uploads/2012/03/Baked-Penne-Recipe1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "3 cups cooked penne pasta"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 jar (24 oz.) spaghetti sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tub (10 oz.) PHILADELPHIA Italian Cheese and Herb Cooking Creme, divided"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup chopped onions"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup green peppers"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup KRAFT Shredded Mozzarella Cheese, divided"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd pound extra-lean ground beef"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Baked Penne with Philadelphia Cooking Creme: Recipe and Giveaway"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Cook and stir 2 to 3 minutes or until mozzarella is melted."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Brown meat with vegetables in large nonstick skillet."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cover."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Stir in spaghetti sauce, \u00be cup cooking creme and \u00bd cup mozzarella."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Bake 20 minutes or until heated through, uncovering after 15 minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spoon into 2-qt. casserole; top with remaining cooking creme and mozzarella."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add pasta; mix lightly."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Heat oven to 350\u00b0F."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

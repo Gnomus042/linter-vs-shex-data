@@ -1,0 +1,16 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "\n        Neetu        "
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "Aug 1, 2011"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\n      Litti      "
+    },
+    "@id": "http://example.org/recipe"
+}

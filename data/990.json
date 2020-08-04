@@ -1,0 +1,94 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.5"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "2"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Almo \u010catlak"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2018-02-12 13:00:36"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "U na\u0161em video receptu saznajte kako pripremiti kru\u0161\u010di\u0107e s topljenim sirom."
+    },
+    "image": {
+        "@id": "https://finirecepti.net.hr/wp-content/uploads/2015/02/kruscici-s-topljenim-sirom-img.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": " slanina, 200 g"
+        },
+        {
+            "@language": "en-US",
+            "@value": " topivi sir, 8 trokuta (oko 180 g)"
+        },
+        {
+            "@language": "en-US",
+            "@value": " luk, 2 glavice"
+        },
+        {
+            "@language": "en-US",
+            "@value": " kruh, 8 kri\u0161ki"
+        },
+        {
+            "@language": "en-US",
+            "@value": " maslac, 80 g"
+        },
+        {
+            "@language": "en-US",
+            "@value": " paprika, 200 g"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Kru\u0161\u010di\u0107i s topljenim sirom"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT30M"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "U tavi rastopimo margarin pa na njemu kratko pr\u017eimo narezan, luk i slaninu. "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Papriku operemo, o\u010distimo i nare\u017eemo na tanke rezance. Luk o\u010distimo i nare\u017eemo na tanke koluti\u0107e. Slaninu nare\u017eemo na tanke rezance."
+        },
+        {
+            "@language": "en-US",
+            "@value": "No\u017eem koji smo umo\u010dili u vrelu vodu, nare\u017eemo svaki trokut sira na dvije kri\u0161ke i stavimo ih povrh paprika. "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Tako pripremljene kru\u0161\u010di\u0107e stavljamo pe\u0107i u pe\u0107nicu pod gril, na 180 \u00b0C oko 10 minuta. "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Kri\u0161ke kruha nama\u017eemo margarinom pa po njima posla\u017eemo pr\u017een luk i slaninu i tanko narezane rezance paprike. "
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 osobe"
+    },
+    "url": {
+        "@language": "en-US",
+        "@value": "https://finirecepti.net.hr/priprema/kruscici-s-topljenim-sirom/"
+    },
+    "@id": "http://example.org/recipe"
+}

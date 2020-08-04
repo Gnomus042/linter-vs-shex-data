@@ -1,0 +1,118 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Decatur Macpherson"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-02-05"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "You might never go back to the traditional kind..."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://drb960u7vv58y.cloudfront.net/crop/190119/1200/627/image.jpg"
+    },
+    "isPartOf": {
+        "@id": "https://12tomatoes.com/ice-cube-tray-smores/Null"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Mini S\u2019Mores Pockets"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT1M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Chocolate & Coffee"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "1 (1.5 oz.) bar milk, semi-sweet or dark chocolate "
+        },
+        {
+            "@language": "en",
+            "@value": "raw or turbinado sugar, optional, for dusting"
+        },
+        {
+            "@language": "en",
+            "@value": "1 (14.1 oz.) package refrigerated pie dough "
+        },
+        {
+            "@language": "en",
+            "@value": "ice cube tray"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 stick (1/4 cup) unsalted butter, melted"
+        },
+        {
+            "@language": "en",
+            "@value": "1 (10 oz.) bag marshmallows"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\tPreheat oven to 375\u00ba F and line a baking sheet with parchment paper.\n\t\t\t\t\t\t\tTake 1 sheet of pie dough and lay it gently over ice cube tray.\n\t\t\t\t\t\t\tWorking carefully, gently use your knuckles to loosely press the pie dough into the ice cube molds.\n\t\t\t\t\t\t\tPlace one marshmallow in each mold, then top with 1 square of chocolate.\n\t\t\t\t\t\t\tLay remaining pie crust on top of ice cube tray and use a rolling pin to seal all the edges together.\n\t\t\t\t\t\t\tOnce edges are sealed, use a paring knife or kitchen shears to trim away any excess dough.\n\t\t\t\t\t\t\tFlip ice cube tray over and gently remove mini s\u2019mores pies. Cut in between \u201cpies\u201d and transfer each one to lined baking sheet.\n\t\t\t\t\t\t\tBrush each pie with melted butter then sprinkle sugar on top.\n\t\t\t\t\t\t\tPlace in oven and bake for 20-22 minutes, or until golden.\n\t\t\t\t\t\t\tRemove from oven and let cool 5 minutes before serving. Enjoy!\n\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "12-18 servings"
+    },
+    "text": [
+        {
+            "@language": "en",
+            "@value": "Remove from oven and let cool 5 minutes before serving. Enjoy!"
+        },
+        {
+            "@language": "en",
+            "@value": "Take 1 sheet of pie dough and lay it gently over ice cube tray."
+        },
+        {
+            "@language": "en",
+            "@value": "Preheat oven to 375\u00ba F and line a baking sheet with parchment paper."
+        },
+        {
+            "@language": "en",
+            "@value": "Lay remaining pie crust on top of ice cube tray and use a rolling pin to seal all the edges together."
+        },
+        {
+            "@language": "en",
+            "@value": "Once edges are sealed, use a paring knife or kitchen shears to trim away any excess dough."
+        },
+        {
+            "@language": "en",
+            "@value": "Flip ice cube tray over and gently remove mini s\u2019mores pies. Cut in between \u201cpies\u201d and transfer each one to lined baking sheet."
+        },
+        {
+            "@language": "en",
+            "@value": "Working carefully, gently use your knuckles to loosely press the pie dough into the ice cube molds."
+        },
+        {
+            "@language": "en",
+            "@value": "Place in oven and bake for 20-22 minutes, or until golden."
+        },
+        {
+            "@language": "en",
+            "@value": "Place one marshmallow in each mold, then top with 1 square of chocolate."
+        },
+        {
+            "@language": "en",
+            "@value": "Brush each pie with melted butter then sprinkle sugar on top."
+        }
+    ],
+    "url": {
+        "@language": "en",
+        "@value": "https://12tomatoes.com/ice-cube-tray-smores/"
+    },
+    "@id": "http://example.org/recipe"
+}

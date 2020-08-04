@@ -1,0 +1,26 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "fr-FR",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "fr-FR",
+            "@value": "5 "
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2014-01-24"
+    },
+    "image": {
+        "@id": "http://cuisinept.com/wp-content/uploads/2014/01/calamars-etuvees.jpg"
+    },
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Calamars \u00c9tuv\u00e9es"
+    },
+    "@id": "http://example.org/recipe"
+}

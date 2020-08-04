@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-GB",
+        "@value": "\n\t\t\t\tRegional dishes across India are diverse and full of flavour. It the sheer variety of the cuisine that makes it exciting including the spices used, techniques of cooking as well as ingredients used based on diet, weather as well as what is grown locally. When it comes to vegetarian Indian cooking there is an abundance of recipes that are easily adaptable for day to day meals. The key is to include variety of lentils, pulses as well as fresh vegetables. From breads to curries, chutneys, snacks and pickles there is so much to choose from!\nThis vegetarian recipe hailing from the east of India has influences from the state of Orissa (Odisha). The use of five spice mix is a winning ingredient that lifts the overall flavour of the dish. I have added almond paste which thickens the gravy and gives it a creamy consistency. You could opt of cashewnut paste as well if you prefer.\n\t\t\t"
+    },
+    "image": {
+        "@language": "en-GB",
+        "@value": "http://maunikagowardhan.co.uk/wp-content/uploads/2019/01/Oriya-Vegetable-Curry-300x300.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-GB",
+            "@value": "500mls water"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "5 garlic cloves"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Salt to taste"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "220gms cauliflower cut to florets"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "80gms green beans trimmed and quartered"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "120gms potato peeled and diced"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "2 tbsp ghee or vegetable oil"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 tsp cumin powder"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 tbsp panch phoran"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "3 tbsp ground almond"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "80gms white onion finely chopped"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 \u00bd tsp mild chilli powder"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "80gms carrots diced"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "110gms tomatoes roughly chopped"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Coriander for garnish"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "2\u201d ginger"
+        }
+    ],
+    "name": {
+        "@language": "en-GB",
+        "@value": "Oriya Ghanta Tarkari"
+    },
+    "recipeInstructions": {
+        "@language": "en-GB",
+        "@value": "\n\t\t\t\t\tMethod\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAdd the garlic and ginger to a blender with a splash of water and blitz to a fine paste. Set aside\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAdd the ground almonds with 40mls water to a blender and blend to a smooth paste and set aside\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tIn a heavy bottom non stick large sauce pan heat the ghee or oil over a low heat. Add the panch phoran and fry for 20 seconds. Add the onions and fry for 6 minutes as they begin to soften\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAdd the garlic and ginger paste fry for 2 minutes. Add the chopped tomatoes and fry for 5 minutes soften with the back of the spoon\n\n\u00a0\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAt this stage add the cumin and chilli powder along with the potato and carrots. Turn the heat to a medium setting and fry for 4 minutes with the lid on. Stir halfway through\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tNow add the green beans and cauliflower and fry for 5 minutes. Season to taste and add the water. Lower the heat and simmer for 12-14 minutes with a lid on. Add the almond paste and simmer for a further 3-4 minutes.\u00a0Garnish with coriander and serve warm with rice or bread.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-GB",
+        "@value": "(Serves 4)"
+    },
+    "@id": "http://example.org/recipe"
+}

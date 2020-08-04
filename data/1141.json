@@ -1,0 +1,130 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "15"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4.5"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Betty Crocker Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "03/31/2003"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "12/22/2015"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Has it \"bean\" long since you've had a fiesta?  Enchiladas make a great start.  Ol\u00e9!"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/99f15bc8-8a43-418e-90b9-a554c4dfe258.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "black bean and cheese enchiladas"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Black Bean and Cheese Enchiladas"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "fatContent": {
+            "@language": "en",
+            "@value": "2 "
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1/4 of Recipe "
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H25M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Entree"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Mexican"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    8\n                \n            \n            \n                \n                    \n                        \n                    \n                    (8-inch) flour tortillas, heated\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon cumin\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    oz. (1/2 cup) shredded Cheddar cheese\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    medium onion, finely chopped\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    (10-oz.) can Old El Paso\u2122 Enchilada Sauce\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    8\n                \n            \n            \n                \n                    \n                        \n                    \n                    oz. (2 cups) shredded Monterey Jack cheese\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon oil\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    can (15 oz) Progresso\u2122 black beans, drained, rinsed\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N6f3cd96e3da94d9eb401025e0c082ace"
+        },
+        {
+            "@id": "_:N3f6f66f66fc24853be665d4e075b4994"
+        },
+        {
+            "@id": "_:Nbb76ed22ee3548cf9c57b0056d46a7de"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT1H0M"
+    },
+    "@id": "http://example.org/recipe"
+}

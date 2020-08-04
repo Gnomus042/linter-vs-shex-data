@@ -1,0 +1,94 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "3"
+        },
+        "ratingValue": {
+            "@value": "4.53"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "https://www.mojegotowanie.pl/przepis/nalewka-wisniowo-sliwkowa//uzytkownik/mojegotowanie"
+        }
+    },
+    "description": {
+        "@value": "Przygotowanie: 15 minut\nOczekiwanie: 2 tygodnie \u2013 1 rok"
+    },
+    "headline": {
+        "@value": "Nalewka wi\u015bniowo-\u015bliwkowa"
+    },
+    "image": [
+        {
+            "@id": "_:N409c8374495142a49cf00a04b7f5349b"
+        },
+        {
+            "@id": "_:Nf6125bea39d64a9699980a21d7686cd3"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "https://www.mojegotowanie.pl/przepis/nalewka-wisniowo-sliwkowa"
+    },
+    "name": {
+        "@value": "Nalewka wi\u015bniowo-\u015bliwkowa - Przepis na Nalewka wi\u015bniowo-\u015bliwkowa"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@value": "15"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:Nc6753b717aaf4b70b6632b7620c00468"
+        },
+        "name": {
+            "@value": "Mojegotowanie.pl"
+        }
+    },
+    "recipeCategory": {
+        "@value": "Napojealkoholenalewki"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n                                        1 l spirytusu\n                                    "
+        },
+        {
+            "@value": "\n                                        1/2 kg wi\u015bni\n                                    "
+        },
+        {
+            "@value": "\n                                        10 go\u017adzik\u00f3w\n                                    "
+        },
+        {
+            "@value": "\n                                        25 dag suszonych \u015bliwek kalifornijskich\n                                    "
+        },
+        {
+            "@value": "\n                                        szklanka p\u0142ynnego miodu lipowego\n                                    "
+        }
+    ],
+    "recipeYield": {
+        "@value": "\n                            dla 1 osoby\n                        "
+    },
+    "step": {
+        "@type": "HowToSection",
+        "name": [
+            {
+                "@value": "\n                                    \u015aliwki op\u0142uka\u0107, pokroi\u0107 w paski. Doda\u0107 do wi\u015bni. Wsypa\u0107 go\u017adziki. Spirytus wymiesza\u0107 z 3 szklankami przegotowanej i ostudzonej wody, zala\u0107 owoce. Szczelnie zamkn\u0105\u0107 s\u0142\u00f3j. Odstawi\u0107 w ciep\u0142e miejsce na 2 tygodnie.\n                                "
+            },
+            {
+                "@value": "\n                                    Nalewk\u0119 przecedzi\u0107 przez sitko wy\u0142o\u017cone papierowym r\u0119cznikiem. Pozostawi\u0107 do sklarowania. Najlepiej by by\u0142o, gdyby trunek m\u00f3g\u0142 dojrzewa\u0107 przez rok.\n                                "
+            },
+            {
+                "@value": "\n                                    Wi\u015bnie umy\u0107. Po\u0142ow\u0119 wydrylowa\u0107. Wszystkie owoce prze\u0142o\u017cy\u0107 do s\u0142oja. Zala\u0107 miodem, odstawi\u0107 na 24 godziny, \u017ceby pu\u015bci\u0142y sok.\n                                "
+            }
+        ]
+    },
+    "suitableForDiet": {
+        "@value": "Wegetaria\u0144ska"
+    },
+    "@id": "http://example.org/recipe"
+}

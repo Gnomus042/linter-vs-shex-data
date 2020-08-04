@@ -1,0 +1,10 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@value": "11/12/2015 "
+    },
+    "image": {
+        "@id": "https://storage.googleapis.com/recipesmedia/thumb/998907_1392269028.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

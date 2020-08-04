@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en",
+        "@value": "and Total Time: 10 min"
+    },
+    "image": {
+        "@id": "https://recipes-secure-graphics.grocerywebsite.com/0_GraphicsRecipes/7806_400.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Pumpkin Ricotta Dip"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "canned pumpkin puree"
+        },
+        {
+            "@language": "en",
+            "@value": "dried rosemary"
+        },
+        {
+            "@language": "en",
+            "@value": "Honey"
+        },
+        {
+            "@language": "en",
+            "@value": "freshly ground black pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "ricotta cheese"
+        },
+        {
+            "@language": "en",
+            "@value": "Dried Rosemary"
+        },
+        {
+            "@language": "en",
+            "@value": "salt"
+        },
+        {
+            "@language": "en",
+            "@value": "honey"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\tGarnish:"
+        },
+        {
+            "@language": "en",
+            "@value": "Null"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "In a medium bowl stir together ricotta cheese, pumpkin puree, honey, rosemary, salt and pepper.   Spoon into a serving dish.  Garnish with a drizzle of honey and sprinkle with rosemary.Serve with crackers or spread on toasted bread."
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "1 1/2 cups"
+    },
+    "@id": "http://example.org/recipe"
+}

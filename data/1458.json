@@ -1,0 +1,98 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "es-ES",
+            "@value": "4.0"
+        },
+        "reviewCount": {
+            "@language": "es-ES",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@language": "es-ES",
+        "@value": "Francisco Bollullos"
+    },
+    "image": {
+        "@id": "https://cocinayrecetas-static.hola.com/recetas-con-d-de-dieta/files/2016/09/P1070874-1a-300x225.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "es-ES",
+            "@value": "Tomate"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Sal"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Zumo de media naranja"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Solomillo"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "80g de nata l\u00edquida"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Una cucharada sopera rasa de concentrado de carne comercial (no usar los cubitos de caldo concentrado, si no tienes es preferible no ponerlo) o un vasito de caldo de carne casero concentrado."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Pimienta"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "350 ml de Oporto"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Aceite de Oliva"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Lechuga"
+        }
+    ],
+    "name": {
+        "@language": "es-ES",
+        "@value": "Solomillo ib\u00e9rico con Salsa de Oporto"
+    },
+    "recipeCategory": {
+        "@language": "es-ES",
+        "@value": "Carnes, Pescados y Mariscos"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "es-ES",
+            "@value": "Ponemos el Oporto a calentar en un cazo a fuego medio hasta que reduzca a la mitad."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "\u00a1Servimos los solomillos, con la ensalada y la salsa!"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "A\u00f1adimos el zumo de media naranja, el concentrado de carne comercial o reducci\u00f3n de caldo de carne casero, la nata, la sal y la pimienta, y mantenemos entre ocho y diez minutos a fuego medio. Reservamos."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Con la plancha caliente, salpimentamos los solomillos y los hacemos al punto que m\u00e1s nos guste."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Preparamos una ensalada con lechuga y tomate, ali\u00f1o de vinagre y aceite de olvida, sal y pimienta."
+        }
+    ],
+    "recipeYield": {
+        "@language": "es-ES",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,49 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.verybestbaking.com/recipes/147086/almond-flour-dark-chocolate-chip-cookies/?recipeFoodType=100-pure-pumpkin~baking-cocoa~candy-fudge~cookies~dark-chocolate-morsels~evaporated-milk~side-dishes/Null"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "6 tablespoons  unsalted butter, at room temperature"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup  NESTL\u00c9\u00ae TOLL HOUSE\u00ae Dark Chocolate Morsels"
+        },
+        {
+            "@language": "en",
+            "@value": "1/3 cup  pure maple syrup or honey"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 teaspoon  sea salt"
+        },
+        {
+            "@language": "en",
+            "@value": "1   to 2 teaspoons vanilla extract"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 teaspoon  baking soda"
+        },
+        {
+            "@language": "en",
+            "@value": "2 cups  blanched almond flour (not almond meal)"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Almond Flour Dark Chocolate Chip Cookies"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\n                        PREHEAT oven to 350\u00b0 F.   Line baking sheets with parchment paper. \n\nCOMBINE almond flour, salt and baking soda in small bowl.  Beat butter, syrup and vanilla until combined.  Gradually beat in flour mixture.  Stir in morsels. Drop dough by level measuring tablespoon (1-inch scoop) onto prepared baking sheet.  \n\nBAKE for 13 to 14 minutes or lightly golden around edge.  Cool on baking sheets for 15 minutes; remove to wire racks to cool completely.  Do not handle cookies prior to the 15 minute cool time or they will break.  Store in airtight containers.  Best when eaten within 2 days.\n\n                    "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n                            Makes\n                            20\n                            \n                            cookies\n                        "
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,87 @@
+{
+    "@type": "Recipe",
+    "copyrightHolder": {
+        "@language": "en-US",
+        "@value": "This recipe is copyrighted by redheadcandecorate.com."
+    },
+    "image": {
+        "@id": "http://redheadcandecorate.com/wp-content/uploads/2014/12/Easy-Banana-Bread.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup granulated sugar\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3-4 ripe bananas (4 bananas is best)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 1/2 cups flour\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "(This makes 2 loaves.)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup nuts-optional (I used walnuts)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 1/2 teaspoons baking powder\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup brown sugar (light)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup milk (I used skim)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 egg\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tablespoons vegetable oil (I used canola)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon salt\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Banana Bread Recipe"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Serve with peanut butter, butter, or nothing,  Excellent warmed up in microwave."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat oven to 350 degrees.  Spray 2 loaf pans with Pam or grease them.  Could use cupcake pan/papers too. \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour 1/2 into each loaf pan.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Bake for 1 hour.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add remaining ingredients and mix well.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Peel 3-4 ripe bananas, and mush them up in a large bowl.\n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

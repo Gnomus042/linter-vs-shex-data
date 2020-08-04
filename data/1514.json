@@ -1,0 +1,78 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "pt-br",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "pt-br",
+            "@value": "8"
+        },
+        "ratingValue": {
+            "@language": "pt-br",
+            "@value": "3.25"
+        },
+        "reviewCount": {
+            "@language": "pt-br",
+            "@value": "0"
+        },
+        "worstRating": {
+            "@language": "pt-br",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@language": "pt-br",
+        "@value": "Receita de Vov\u00f3"
+    },
+    "cookTime": {
+        "@language": "pt-br",
+        "@value": "PT1H"
+    },
+    "description": {
+        "@language": "pt-br",
+        "@value": "Coxinha de frango deliciosa e bem f\u00e1cil de fazer, experimentem Coxinha de frango"
+    },
+    "image": {
+        "@id": "https://www.receitadevovo.com.br/gbau/sistema/receitas/img/coxinha-de-frango_14082017144011.jpg"
+    },
+    "keywords": {
+        "@language": "pt-br",
+        "@value": "receitas, receita, receita culin\u00e1ria"
+    },
+    "name": {
+        "@language": "pt-br",
+        "@value": "Coxinha de frango"
+    },
+    "prepTime": {
+        "@language": "pt-br",
+        "@value": "45 min"
+    },
+    "recipeCategory": {
+        "@language": "pt-br",
+        "@value": "Lanches"
+    },
+    "recipeCuisine": {
+        "@language": "pt-br",
+        "@value": "Brazilian"
+    },
+    "recipeIngredient": {
+        "@language": "pt-br",
+        "@value": "\n\tIngredientes massa:\n\t1k de batata\n\t4 copos americanos de leite\n\t4 copos americanos de farinha de trigo\n\t3 colheres de margarina\n\t2 caldos de galinha\n\tColorau\n\tSala a gosto\n\t1 cebola ralada\n\tIngredientes do recheio:\n\t1 caldo de galinha\n\t2 tomates\n\tCheiro verde\n\t\u00f3leo pra fritar\n\t1 peito de frango grande cozido e desfiado\n\t1 cebola picada bem fininha\n\tMilho verde\n\tColorau\n\n"
+    },
+    "recipeInstructions": {
+        "@language": "pt-br",
+        "@value": "\n\tMODO DE PREPARO DA MASSA\n\tCozinhe bem a batata depois passe pelo espremedor deixando bem amassado e espere esfriar\n\tEm uma panela coloque a margarina o sal e a cebola ralada,deixe dourar e acrescente a \u00e1gua esperando at\u00e9 o molho levantar fervura\n\tV\u00e1 colocando o trigo de pouco a pouco mexendo sempre at\u00e9 que a massa solte da panela\n\tPegue a massa ainda quente e a abra em cima da mesa misturando com a batata at\u00e9 que a mistura esteja homogenia e lisa\n\tMolde as coxinhas e frite em \u00f3leo bem quente\n\tessas coxinhas n\u00e3o precisa empanar\n\tMODO DE PREPARO DO RECHEIO\n\tEm uma panela refogue e os demais ingrediente\n\tDeixe a \u00e1gua secar completamente\n\te recheie\n\tDica: Com essa mesma massa voc\u00ea pode rechear com carne mo\u00edda,presunto,mussarela ou como preferir\n\t\u00c9 uma \u00f3tima op\u00e7\u00e3o\n\tDeliciosoooo\n\n"
+    },
+    "recipeYield": {
+        "@language": "pt-br",
+        "@value": "21 por\u00e7\u00f5es"
+    },
+    "video": {
+        "@language": "pt-br",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

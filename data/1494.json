@@ -1,0 +1,48 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "lv",
+            "@value": "3.7500"
+        },
+        "reviewCount": {
+            "@language": "lv",
+            "@value": "4"
+        }
+    },
+    "image": {
+        "@id": "https://g2.delphi.lv/images/pix/676x385/5B77Gje4PiY/1ced05db69f243e9e8-51585271.jpg"
+    },
+    "name": {
+        "@language": "lv",
+        "@value": "\n\t\t\t\t\tGard\u0101 sk\u0101bu k\u0101postu zupa ar cauraudz\u012bti un v\u0101r\u012btiem kartupe\u013ciem\u00a0\n\t\t\t"
+    },
+    "recipeIngredient": [
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/cukgalas-krutina/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/burkani/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/kaposti/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/variti-kartupeli/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/sipoli/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/citroni/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/kimenes/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/cukurs/"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

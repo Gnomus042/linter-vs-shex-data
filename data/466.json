@@ -1,0 +1,103 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "fr-FR",
+        "@value": "Samar"
+    },
+    "image": {
+        "@id": "https://www.mesinspirationsculinaires.com/wp-content/uploads/2012/06/quiche-facile-aux-crevettes1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "ciboulette"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "400 g de crevettes grises crues"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "une pinc\u00e9e de poivre de Cayenne"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "moutarde"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "sel, poivre noir au go\u00fbt"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "200 ml de cr\u00e8me liquide"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "une p\u00e2te feuillet\u00e9"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\u00bd botte d'epinards frais"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "2 oeufs"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 grosse poign\u00e9e de fromage r\u00e2p\u00e9"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "origan s\u00e9ch\u00e9"
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Quiche aux crevettes"
+    },
+    "recipeCategory": {
+        "@language": "fr-FR",
+        "@value": "Quiche"
+    },
+    "recipeCuisine": {
+        "@language": "fr-FR",
+        "@value": "Francaise"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "fr-FR",
+            "@value": "Verser l'appareil cr\u00e8me liquide oeuf cr\u00e8me et parsemer d'origan et de ciboulettes."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Commencer par d\u00e9cortiquer et deveiner les crevettes. Rincer les \u00e9pinards, \u00f4ter la tige et les faire revenir dans une po\u00eale avec un filet d'huile d'olive, saler, poivrer. Les \u00e9goutter dans une passoire et r\u00e9server."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Badigeonner le fond de la tarte de moutarde disposer les \u00e9pinards, les crevettes. Ajouter quelques quartiers de tomates si d\u00e9sir\u00e9."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Enfourner pour environ 45 min dans un four pr\u00e9chauff\u00e9 \u00e0 180 C (350). Servir aussit\u00f4t."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Piquer la p\u00e2te feuillet\u00e9 \u00e0 l'aide d'une fourchette. Pr\u00e9parer l'appareil en m\u00e9langeant la cr\u00e8me liquide avec les oeufs, ajouter le fromage r\u00e2p\u00e9, saler poivrer et saupoudrer de Cayenne."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Ajouter dans la m\u00eame po\u00eale les crevettes, et laisser revenir. Saler et poivrer. R\u00e9server."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\u00c9taler la p\u00e2te feuillet\u00e9 sur un moule \u00e0 tarte, la mettre au frais 30 min le temps de pr\u00e9parer l'appareil liquide."
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

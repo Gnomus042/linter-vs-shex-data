@@ -1,0 +1,130 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "40"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.7"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Hayley Parker, The Domestic Rebel"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Perfectly spiced, moist and tender, this Pumpkin Bread will soon become a family favorite! Leave it naked if you wish, or stud it with nuts - however, I prefer mine with this simple brown butter maple glaze. I'm sure you will, too!"
+    },
+    "image": {
+        "@id": "https://cf.thedomesticrebel.com/wp-content/uploads/2014/10/thebestpumpkinbreada.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 tsp baking powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup canned pumpkin puree (the puree, NOT pumpkin pie filling!)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc tsp ground nutmeg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 - 1 & \u00bd cups powdered sugar (start with one cup and add more if glaze is too runny)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup (1 stick) butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup milk, optional if glaze is too thick"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 & \u00bd cups all-purpose flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "FOR GLAZE:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 & \u00bd tsp ground cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp ground ginger"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1-2 Tbsp maple syrup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup dark brown sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup butter, softened (I used Land O Lakes)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc tsp ground cloves"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "The BEST Pumpkin Bread with Brown Butter Maple Icing"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Breakfast"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Preheat oven to 350 degrees F. Liberally grease a 9\" loaf pan with cooking spray and set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Meanwhile, in a bowl combine all of the above bread ingredients and beat at medium speed with a handheld mixer, scraping down the sides of the bowl, until well-mixed."
+        },
+        {
+            "@language": "en-US",
+            "@value": "While bread cools, make your glaze: in a small saucepan, heat butter over medium-low heat until melted. Continue cooking, watching butter carefully, until it sizzles and begins to turn amber in color, about 4-5 minutes. Do not overcook because it can quickly burn! When butter looks caramel-colored and smells kind of nutty, it's done. Remove butter from heat and cool completely. Then stir in the powdered sugar and maple syrup until a soft glaze has formed."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour the glaze generously over top of the pumpkin loaf and let it set, about 30 minutes. Cut into slices and serve!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour the bread mixture into the prepared pan. Bake for approx. 40-50 minutes or until a toothpick inserted near the center comes out mostly clean or with a couple moist crumbs (not wet). Cool for about 15 minutes, then very gently remove from pan and transfer to a wire rack to cool completely."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "8"
+    },
+    "@id": "http://example.org/recipe"
+}

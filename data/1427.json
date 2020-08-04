@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "de",
+            "@value": "5"
+        },
+        "itemReviewed": {
+            "@language": "de",
+            "@value": "\n                    Wildheidelbeergelee\n                                                                    mit Gelier Zucker 3plus1\n                                    "
+        },
+        "ratingCount": {
+            "@language": "de",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "de",
+            "@value": "4"
+        }
+    },
+    "alternativeHeadline": {
+        "@language": "de",
+        "@value": "\n                                mit Gelier Zucker 3plus1\n                "
+    },
+    "author": {
+        "@language": "de",
+        "@value": "Susi S\u00fcdzucker"
+    },
+    "description": {
+        "@language": "de",
+        "@value": "Nach getaner Arbeit kann sich der ambitionierte Fr\u00fcchtesammler \u00fcber seine ergatterte Beute freuen und sie zu Gelee verarbeiten."
+    },
+    "image": [
+        {
+            "@id": "https://mein-suedzucker.de/images/medium/605.jpg"
+        },
+        {
+            "@id": "https://mein-suedzucker.de/rezepte/wildheidelbeergelee-mit-gelier-zucker-3plus1/Null"
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "de",
+            "@value": "500 g S\u00fcdzucker Gelier Zucker 3plus1"
+        },
+        {
+            "@language": "de",
+            "@value": "Saft von 2 unbehandelten Zitronen (ca. 4 EL)"
+        },
+        {
+            "@language": "de",
+            "@value": "2000 g Wildheidelbeeren (f\u00fcr ca. 1300 ml Fruchtsaft)"
+        }
+    ],
+    "name": {
+        "@language": "de",
+        "@value": "Wildheidelbeergelee"
+    },
+    "recipeInstructions": {
+        "@language": "de",
+        "@value": "\nDie Heidelbeeren verlesen, waschen und gut abtropfen lassen.\nDie Heidelbeeren im Dampfentsafter nach Herstelleranweisung 30-45 Minuten entsaften. Oder: Fr\u00fcchte in einem Kochtopf mit 400 ml Wasser 15 Minuten weich kochen und den Saft durch ein Tuch oder ein feines Sieb ablaufen und abk\u00fchlen lassen.\n1250 ml kalten Heidelbeersaft mit dem Zitronensaft und dem Gelier Zucker 3plus1 vermischt 4 Minuten sprudelnd kochen lassen.\nZum Ende der Kochzeit eine Gelierprobe \u00fcber dem Topf machen. Kochl\u00f6ffel hochnehmen und die Masse abtropfen lassen. Bleiben die letzten Tropfen gelierend am Kochl\u00f6ffel h\u00e4ngen, hei\u00df ausgesp\u00fclte Twist-off-Gl\u00e4ser z\u00fcgig mit der hei\u00dfen Masse randvoll f\u00fcllen und sofort verschlie\u00dfen.\n"
+    },
+    "@id": "http://example.org/recipe"
+}

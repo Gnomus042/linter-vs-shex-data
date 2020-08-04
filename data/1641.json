@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Dale Whybrow"
+    },
+    "description": {
+        "@value": "Everyone who tries these raves about them, without realising the secret ingredient is potato chips. Of course, the dark chocolate and coffee don\u2019t hurt, either! These are decadent and a little bit naughty, and needless to say they are on high rotation in my cookie jar."
+    },
+    "image": {
+        "@id": "https://www.cooked.com.au/Dale-Whybrow/Hardie-Grant-Books/The-Potato-Cookbook/Sweeten/Coffee-dark-chocolate-potato-chip-cookies-recipe///cdn.cooked.com.au/-/media/cooked/mediabucket/2017/05/05/590c03e5e2c7b_1203_07_140-153_sweeten_5_page_6.ashx?w=1066"
+    },
+    "ingredients": [
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t125 grams\n\t\t\t\t\t\t\t\t\t\tpecans, chopped\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1 teaspoon\n\t\t\t\t\t\t\t\t\t\tnatural vanilla extract\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t50 grams\n\t\t\t\t\t\t\t\t\t\tcrinkle-cut potato chips, roughly crushed\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t150 grams\n\t\t\t\t\t\t\t\t\t\tplain flour\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t\t\tlarge egg, at room temperature\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1 teaspoon\n\t\t\t\t\t\t\t\t\t\tinstant coffee powder, sifted\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t95 grams\n\t\t\t\t\t\t\t\t\t\tbrown sugar\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t125 grams\n\t\t\t\t\t\t\t\t\t\tunsalted butter, softened\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1/2 teaspoon\n\t\t\t\t\t\t\t\t\t\tbaking powder\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t55 grams\n\t\t\t\t\t\t\t\t\t\tcaster sugar\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t200 grams\n\t\t\t\t\t\t\t\t\t\tdark  chocolate (70% cocoa), chopped into 1 cm pieces\n\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "name": {
+        "@value": "Coffee dark chocolate potato chip cookies"
+    },
+    "recipeInstructions": {
+        "@value": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tPreheat the oven to 180\u00b0C and line 2 baking trays with baking paper.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tIn a medium mixing bowl, whisk together the flour, coffee powder and baking powder.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tIn a large mixing bowl or the bowl of a stand mixer, beat the butter and sugars together until light and fluffy, about 4 minutes. Add the egg and stir until completely incorporated. Add the vanilla and stir until combined. Add the flour mixture to the cookie batter and stir until just combined.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAdd the chocolate, pecans and potato chips to the cookie batter and stir until mixed through. Using a 60 ml cookie dough or ice cream scoop, place 6 balls of dough onto each tray, evenly spaced. Bake until the cookies are golden and still slightly soft, about 14 minutes, rotating and swapping the trays halfway through the cooking time.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tLeave the cookies on the trays for 5 minutes, then place on a wire rack until cool.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tServe these warm or cool, according to your preference.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tStore the cookies in an airtight container for up to 5 days.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@value": "12 cookies"
+    },
+    "@id": "http://example.org/recipe"
+}

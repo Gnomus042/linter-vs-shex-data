@@ -1,0 +1,81 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT8M"
+    },
+    "image": {
+        "@id": "https://www.recipeboy.com/wp-content/uploads/2016/03/Hawaiian-Burgers-280x280.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 large red bell pepper, seeded and cut into rings"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8 canned pineapple rings (I used fresh pineapple)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 onion rolls"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 slices provolone cheese"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 teaspoon cayenne pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "kosher salt and freshly ground black pepper, to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons teriyaki sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "green lettuce leaves"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup mayonnaise"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon honey"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/2 pounds ground beef"
+        },
+        {
+            "@language": "en-US",
+            "@value": "teriyaki sauce, as needed"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Hawaiian Burgers"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT25M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\tPrepare the sauce: \u00a0In a small bowl, whisk together the mayonnaise, teriyaki sauce, honey and cayenne.\n\tPrepare the burgers: \u00a0on a grill pan (or outdoor grill), quickly grill the pineapple and bell pepper rings until they have great marks on both sides. \u00a0Remove and set aside. \u00a0Season the ground beef with salt and pepper and form into 4 patties. \u00a0Cook them on the grill pan (or grill) for 4 to 5 minutes on the first side, then flip them over, add a splash of teriyaki on each one, and place a slice of provolone on each patty and let it melt while the burger cooks through- 4 minutes or so more, until no longer pink in the middle.\n\tButter the buns and grill until golden. \u00a0Spoon a little bit of the sauce onto the cut side of the buns and allow it to slightly soak into the bread.\n\tPlace the patties on the bottom buns and top each one with two pineapple slices, the bell pepper ring and lettuce. \u00a0Put the bun on top, mash it all together and serve with dishes of extra sauce for dipping.\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 burgers"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,79 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://naturalchow.com/wp-content/uploads/2014/08/pumpkin-muffins-3-1024x682.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u00bc teaspoon baking powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd cups organic whole wheat flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 cup melted butter or melted coconut oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon ground cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc teaspoon ground ginger"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup pure organic honey or maple syrup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 large eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc teaspoon ground nutmeg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd teaspoon salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup organic pumpkin puree (where to buy)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Whole Wheat Pumpkin Muffins"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Preheat the oven to 350 degrees F. Line a muffin pan with paper or silicone liners and set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a medium bowl, combine the eggs, honey, and melted butter (or coconut oil). Add to the dry ingredients and mix together until well combined. Fold in the pumpkin puree. Do not overmix."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour the batter into the prepared muffin pan so it\u2019s evenly distributed. Bake until golden brown and a toothpick comes clean, about 18 \u2013 20 minutes. Store in an airtight container at room temperature for 4 days or place in a freezer bag and freeze for up to three months."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large bowl, mix together the flour, spices, baking soda, baking powder, and salt."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "12 muffins"
+    },
+    "@id": "http://example.org/recipe"
+}

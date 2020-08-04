@@ -1,0 +1,52 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://www.dishmaps.com/from/simply-recipes"
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "Published 2014-09-09 11:23:40 (5 years ago)."
+    },
+    "image": {
+        "@id": "http://www.dishmaps.com/thumbs/creamy-green-beans-and-mushrooms-simply-recipes_380.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1 pound green beans, fresh or frozen, cut into 1-inch pieces"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup onions, chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tbs butter"
+        },
+        {
+            "@language": "en",
+            "@value": "1 pound mushrooms (cremini, button, shiitake), thickly sliced"
+        },
+        {
+            "@language": "en",
+            "@value": "freshly ground black pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "salt"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tbsp freshly chopped parsley for garnish"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup sour cream"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Creamy Green Beans And Mushrooms"
+    },
+    "@id": "http://example.org/recipe"
+}

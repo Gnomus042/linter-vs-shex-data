@@ -1,0 +1,80 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "da-DK",
+        "@value": "Ib Havn"
+    },
+    "datePublished": {
+        "@language": "da-DK",
+        "@value": "2016-01-05 15:06:49"
+    },
+    "description": {
+        "@language": "da-DK",
+        "@value": "Null"
+    },
+    "image": {
+        "@language": "da-DK",
+        "@value": "Null"
+    },
+    "ingredients": [
+        {
+            "@language": "da-DK",
+            "@value": "1 tsk fintrevet citronskal (uspr\u00f8jtet)"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "1 spsk groft salt"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "  fintrevet citronskal (uspr\u00f8jtet)"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "1 liter S\u00f8dm\u00e6lk"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "1 kg skr\u00e6llede kartofler i korte tykke stave"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "  friskkv\u00e6rnet peber"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "  hakket frisk kruspersille"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "3 spsk Hvedemel"
+        }
+    ],
+    "name": {
+        "@language": "da-DK",
+        "@value": "R\u00e5stuvede kartofler med citronskal"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "da-DK",
+            "@value": "Tils\u00e6t kartoffelstavene og kog dem ved svag varme og under l\u00e5g i ca. 15 min. - r\u00f8r ofte. "
+        },
+        {
+            "@language": "da-DK",
+            "@value": "Bring 9 dl af m\u00e6lken i kog i en stor tykbundet gryde - under omr\u00f8ring."
+        },
+        {
+            "@language": "da-DK",
+            "@value": "Tils\u00e6t citronskal, salt og peber og smag til."
+        },
+        {
+            "@language": "da-DK",
+            "@value": "Kom resten af m\u00e6lken og hvedemelet i en melryster og ryst det godt sammen. H\u00e6ld j\u00e6vningen i kartoflerne under forsigtig omr\u00f8ring og kog stuvningen ved svag varme, stadig under forsigtig omr\u00f8ring, i ca. 5 min. "
+        }
+    ],
+    "recipeYield": {
+        "@language": "da-DK",
+        "@value": "4 personer"
+    },
+    "@id": "http://example.org/recipe"
+}

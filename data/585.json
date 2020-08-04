@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.4"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "797"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Ross Heaven"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT1H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Explains How The Initiatory Practices Of The Ninja Can Be Used To Achieve Self Mastery Uses The Five Human Archetypes Of Lover, Seeker, Magus, Soul Warrior, And Mystic Shows How To Access Kuji Kiri, The Positive Energy Of The Ninja Godai, To Dispel Fear, Disempowerment, And Soul Fatigue The Ninja Are A Mysterious Warrior Elite Said To Be So Spiritually Advanced They Knew The Mind And Will Of God Regarded With Awe As Masters Of Invisibility And Warriors Of The Shadow Self, Their Legendary Skills Include The Ability To Command The Elements And Transform Themselves Into Fire, Water, Air, Earth, And Void The Nothingness From Which All Things Stem In This Book Ross Heaven Reveals The Training Exercises And Mental Discipline Used By The Ninja To Develop These Extraordinary Physical, Emotional, Mental, And Spiritual Skills.Central To Ninja Philosophy Is The Understanding That There Is No Higher Power Than The Actualized Human Being The Ninja Believe There Are Four Gates To Freedom, And To Pass Through Them We Must Overcome Four Initiatory Ordeals Succeeding At These Enables Us To Combat Fear, Find True Power, Clarify Our Vision, And Overcome The Soul Fatigue That Is At The Root Of Our Personal And Social Problems In Order To Embrace Our Positive Energies And Realize Our Talents.Ross Heaven Guides Us Through These Four Gateways With Exercises And Initiations That Utilize The Energy Of The Lover, Seeker, Magus, Soul Warrior, And Mystic As Well As Dealing With Their Shadow Manifestations That May Be Causing Problems In Our Lives We Learn How To Break The Destructive Habits Of The Past And Create A Bushido, A Personal Code To Live By Without Initiation, We Cannot Access And Channel Our Energies They Remain Uncontrolled Or Even Work Against Us Ross Heaven Provides The Key That Allows Us To Turn These Elemental Forces Into Allies."
+    },
+    "image": {
+        "@id": "http://go2deal.co.uk/wp-content/upload/2017/83f1fa2c7f930c959d223379743ec4a2i241616386e22f9a547ebd25d951668a8gr-assets241616386e22f9a547ebd25d951668a8com/images/S/compressed241616386e22f9a547ebd25d951668a8photo241616386e22f9a547ebd25d951668a8goodreads241616386e22f9a547ebd25d951668a8com/books/1385341787i/980987241616386e22f9a547ebd25d951668a8_UX75_241616386e22f9a547ebd25d951668a8jpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "797"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "The Spiritual Practices of the Ninja: Mastering the Four Gates to Freedom,download, read online, e-pub, pdf, free, kindle ebook"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "The Spiritual Practices of the Ninja: Mastering the Four Gates to Freedom"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "Free \u21a0 The Spiritual Practices Of The Ninja: Mastering The Four Gates To Freedom By Ross Heaven \u2013 Go2deal.co.uk Explains How The Initiatory Practices Of The Ninja Can Be Used To Achieve Self Mastery Uses The Five Human Archetypes Of Lover, Seeker, Magus, Soul Warrior, And Mystic Shows How To Access Kuji Kiri, T"
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT24M"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "african literature"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "Free \u21a0 The Spiritual Practices Of The Ninja: Mastering The Four Gates To Freedom By Ross Heaven \u2013 Go2deal.co.uk Explains How The Initiatory Practices Of The Ninja Can Be Used To Achieve Self Mastery Uses The Five Human Archetypes Of Lover, Seeker, Magus, Soul Warrior, And Mystic Shows How To Access Kuji Kiri, T"
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "The Spiritual Practices of the Ninja: Mastering the Four Gates to Freedom"
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://go2deal.co.uk/wp-content/upload/2017/83f1fa2c7f930c959d223379743ec4a2i241616386e22f9a547ebd25d951668a8gr-assets241616386e22f9a547ebd25d951668a8com/images/S/compressed241616386e22f9a547ebd25d951668a8photo241616386e22f9a547ebd25d951668a8goodreads241616386e22f9a547ebd25d951668a8com/books/1385341787i/980987241616386e22f9a547ebd25d951668a8_UX75_241616386e22f9a547ebd25d951668a8jpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2018-08-05T16:10+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

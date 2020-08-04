@@ -1,0 +1,11 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://ecrack1.uiwap.com/image/tai-game-mien-phi.gif"
+    },
+    "offers": {
+        "@language": "vi",
+        "@value": "0"
+    },
+    "@id": "http://example.org/recipe"
+}

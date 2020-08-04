@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "fr",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "fr",
+            "@value": "8"
+        },
+        "ratingValue": {
+            "@language": "fr",
+            "@value": "4"
+        },
+        "worstRating": {
+            "@language": "fr",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@id": "https://www.cuisine-etudiant.fr/cuisto/10483-marine-hier"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2014-11-21"
+    },
+    "image": {
+        "@id": "https://img.cuisine-etudiant.fr/image/recette/800500/6747e2a9cf0ffc49c96181b7fd8f4162d16b49b6-poulet-marine-au-citron-miel-et-herbes.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        2 belles escalopes de poulet\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        3 C\u00e0S d'huile d'olive\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        1 demi oignon\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        1 demi citron\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        Herbes fraiches (romarin, thym\u2026)\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        Sel et poivre\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        4 C\u00e0S de miel\n                                                    \n                                                "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                                    \n                                                    \n                                                        1 pointe de curry\n                                                    \n                                                "
+        }
+    ],
+    "name": {
+        "@language": "fr",
+        "@value": "\n        Poulet marin\u00e9 au citron, miel et herbes\n    "
+    },
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n                                                                                                                Commencer par d\u00e9couper le poulet en gros morceaux.\n                                                                            Dans un plat, m\u00e9langer le jus du demi citron, le demi oignon d\u00e9coup\u00e9 en gros morceaux, le miel, l'huile d'olive, les herbes et la pointe de curry.\n                                                                            Ajouter le poulet, saler, poivrer.\nBien m\u00e9langer le tout. Gouter et rectifier l'assaisonnement si besoin, la marinade doit avoir le gout de miel mais ne pas \u00eatre trop sucr\u00e9e gr\u00e2ce au sel et au citron.\n                                                                            Laisser reposer quelques heures au frais, en retournant les morceaux au moins une fois.\n                                                                            Pour la cuisson, faire revenir les morceaux une petite dizaine de minutes, sans la marinade au d\u00e9but pour qu'ils dorent. Verser la sauce un peu avant la fin de la cuisson pour qu'elle enrobe le poulet.\nAutre option, piquer les morceaux sur des piques et les faire cuire au grill.\n                                                                    "
+    },
+    "@id": "http://example.org/recipe"
+}

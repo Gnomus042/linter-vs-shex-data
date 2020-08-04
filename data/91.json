@@ -1,0 +1,101 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "5.00"
+        },
+        "reviewCount": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://images.media-allrecipes.com/userphotos/50x50/3612256.jpg"
+        },
+        "name": {
+            "@value": "Hilary Meyer"
+        }
+    },
+    "description": {
+        "@value": "Soaking chickpeas in vinegary hot sauce gives them a mouthwatering tang before they crisp up in the oven. The result? An addictively crunchy snack that's actually good for you."
+    },
+    "image": {
+        "@value": "http://images.media-allrecipes.com/userphotos/960x960/4589992.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\u00bd teaspoon cayenne pepper, or to taste"
+        },
+        {
+            "@value": "\u00bc teaspoon salt"
+        },
+        {
+            "@value": "1 (15 ounce) can no-salt-added chickpeas, rinsed"
+        },
+        {
+            "@value": "1 tablespoon white vinegar"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "True"
+    },
+    "name": {
+        "@value": "Roasted Buffalo Chickpeas"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "109 calories;"
+        },
+        "carbohydrateContent": {
+            "@value": "18"
+        },
+        "cholesterolContent": {
+            "@value": "0"
+        },
+        "fatContent": {
+            "@value": "1"
+        },
+        "fiberContent": {
+            "@value": "4"
+        },
+        "proteinContent": {
+            "@value": "6"
+        },
+        "saturatedFatContent": {
+            "@value": "0"
+        },
+        "sodiumContent": {
+            "@value": "162"
+        },
+        "sugarContent": {
+            "@value": "0"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@value": "Holidays & Occasions"
+        },
+        {
+            "@value": "Parties & Entertaining"
+        },
+        {
+            "@value": "Occasions"
+        },
+        {
+            "@value": "Appetizers"
+        },
+        {
+            "@value": "Finger Food"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        Position rack in upper third of oven; preheat to 400\u00b0F.\n                        Combine vinegar, cayenne and salt in a large bowl. Very thoroughly pat chickpeas dry, then toss with the vinegar mixture. Spread on a rimmed baking sheet. Roast the chickpeas, stirring twice, until browned and crunchy, 30 to 35 minutes. Let cool on the pan for 30 minutes; the chickpeas will crisp as they cool.\n            "
+    },
+    "recipeYield": {
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

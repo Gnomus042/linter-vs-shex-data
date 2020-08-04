@@ -1,0 +1,39 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "pl",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "pl",
+        "@value": "Wegetaria\u0144ska piecze\u0144 orzechowa z sosem \u017curawinowym"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "pl",
+            "@value": "\n\t\t\t\t\t\t\t983/\u200b4112\n\t\t\t\t\t\t"
+        },
+        "servingSize": {
+            "@language": "pl",
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@language": "pl",
+        "@value": "Null"
+    },
+    "recipeInstructions": {
+        "@language": "pl",
+        "@value": "Null"
+    },
+    "recipeYield": {
+        "@language": "pl",
+        "@value": "\n\t\t\t\t\t\t\t           (4 porcje)\n\t\t\t\t\t\t            "
+    },
+    "totalTime": {
+        "@language": "pl",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

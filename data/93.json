@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "http://www.foodreporter.fr/user/index/id/63958"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2015-03-30"
+    },
+    "image": {
+        "@id": "http://www.foodreporter.fr/upload/original/6/6/l/j/d/973525.jpg"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Plateau fruit Mer"
+    },
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n                        pedra alta\n                    "
+    },
+    "@id": "http://example.org/recipe"
+}

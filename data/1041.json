@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "3.1"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "301"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Doen Moen"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT5H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "MANTENGA SU MIRADA EN EL HACEDOR DE SENDAS Don Moen Profundiza En Su Mensaje Central De Esperanza Y Nimo L Motiva A Los Lectores A Que Se Apoyen En El Hecho De Que Dios Siempre Est Trabajando, Aunque Muchas Veces Lo Hace En Maneras Que No Podemos Ver Nada Ni Nadie Est Fuera Del Alcance Del Se Or La Muerte De Un Ser Querido, La P Rdida De Un Empleo, Un Divorcio Inesperado O Un Mal Informe M Dico Pruebas Incontables Pueden Dejarnos Con Una Sensaci N De Derrota Y Desesperanza No Obstante, Si Puede Hallar La Fe Para Creer Que Dios Est Obrando, Sin Importar Cu Les Sean Sus Circunstancias Actuales, Usted Puede Superar Cada D A Todos Estamos Destinados A Enfrentar Dificultades En La Vida La Esperanza, Sin Embargo, Es La Creencia De Que A Pesarde Lo Que Ven Nuestros Ojos Dios Est Obrando Sobrenaturalmente Tras Bambalinas A Veces, Tiene Que Ver En Retrospectiva Para Recordar Lo Que Dios Ha Hecho Por Usted A Fin De Que Pueda Tener Fe Para Lo Que Est Por Venir Senda DIos Harle Traer Una Esperanza Renovada Y Se Convertir En Un Aliento De Aire Fresco Para Su Alma Life Can Be Difficult But Does God Care Don Moen Has Learned To Lean On God S Promises In Good Times As Well As Bad And He Says, You Can Still Trust Him A Person Would Need To Look A Long Time To Find A Purer Heart And Voice Than Those Of Don Moen Max LucadoIn His New Memoir Featuring Snapshots From His Life And Career, Don Shares Heartfelt Stories Of Gentle Comfort For People Looking For Answers Don Asserts, That God Has Not Forgotten Us Even When We Face A Job LossWe Go Through An Unexpected DivorceWe Receive A Bad Report From The DoctorWe Face The Death Of A Loved OneAs A Beloved Songwriter And Worship Leader, Don Moen Is The Author Of Classic Songs Like Thank You, Lord And God Will Make A Way The Inspiration For This Book He Knows What It Means To Feel Anxious, Worried, And Down And He Knows What It Means To Persevere And See A New Day.If You Enjoy The Encouraging Style Of Max Lucado, And If You Find Comfort In The Books Of Gary Chapman, Then You Will Love Reading God Will Make A Way, A New Release From Thomas Nelson."
+    },
+    "image": {
+        "@id": "http://cosmologychris.co.uk/wp-content/upload/2017/348ec54a8bef5d58cb605ee3a521d1e0sf560e90a910d0cfa5f891a5366cf10d7gr-assetsf560e90a910d0cfa5f891a5366cf10d7com/assets/nophoto/book/blank-133x176-8b769f39ba6687a82d2eef30bdf46977f560e90a910d0cfa5f891a5366cf10d7jpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "301"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "Sendas Dios har\u00e1 / God Will Make a Way ,download, read online, e-pub, pdf, free, kindle ebook"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Sendas Dios har\u00e1 / God Will Make a Way "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "!!> Reading \u27bb Sendas Dios Har\u00e1 / God Will Make A Way  \u27b3 Author Doen Moen \u2013 Cosmologychris.co.uk MANTENGA SU MIRADA EN EL HACEDOR DE SENDAS Don Moen Profundiza En Su Mensaje Central De Esperanza Y Nimo L Motiva A Los Lectores A Que Se Apoyen En El Hecho De Que Dios Siempre Est Trabajando, Aunque "
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT42M"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "womens"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "!!> Reading \u27bb Sendas Dios Har\u00e1 / God Will Make A Way  \u27b3 Author Doen Moen \u2013 Cosmologychris.co.uk MANTENGA SU MIRADA EN EL HACEDOR DE SENDAS Don Moen Profundiza En Su Mensaje Central De Esperanza Y Nimo L Motiva A Los Lectores A Que Se Apoyen En El Hecho De Que Dios Siempre Est Trabajando, Aunque "
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "Sendas Dios har\u00e1 / God Will Make a Way "
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://cosmologychris.co.uk/wp-content/upload/2017/348ec54a8bef5d58cb605ee3a521d1e0sf560e90a910d0cfa5f891a5366cf10d7gr-assetsf560e90a910d0cfa5f891a5366cf10d7com/assets/nophoto/book/blank-133x176-8b769f39ba6687a82d2eef30bdf46977f560e90a910d0cfa5f891a5366cf10d7jpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2017-03-26T08:34+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

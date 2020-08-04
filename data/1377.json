@@ -1,0 +1,43 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://kosodate.pal-system.co.jp/wp/wp-content/uploads/2019/10/PS_KCR_1083M-828x464.jpg"
+    },
+    "name": {
+        "@language": "ja",
+        "@value": "\u79cb\u9bad\u306e\u307f\u305e\u308c\u3054\u306f\u3093"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ja",
+            "@value": "\n              yumyum\u91ce\u4ed8\u306e\u30b3\u30ed\u30b3\u30ed\u79cb\u9bad\n              15g\n            "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n              \u6c34\u6eb6\u304d\u7247\u6817\u7c89\n              \u5c0f\u3055\u30581/2\n            "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n              \u8edf\u98ef\n              80g\n            "
+        },
+        {
+            "@language": "ja",
+            "@value": "\n              \u5927\u6839\uff08\u76ae\u3080\u304d\uff09\n              30g\n            "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "ja",
+            "@value": "\u8010\u71b1\u5bb9\u5668\u306b\u5927\u6839\u304a\u308d\u3057\u3001\u9bad\u3001\u6c34\u6eb6\u304d\u7247\u6817\u7c89\u3092\u5165\u308c\u3001\u3075\u3093\u308f\u308a\u30e9\u30c3\u30d7\u3092\u3057\u3066\u96fb\u5b50\u30ec\u30f3\u30b8\uff08600W\uff09\u30671\u5206\u52a0\u71b1\u3057\u3066\u6df7\u305c\u308b\u3002"
+        },
+        {
+            "@language": "ja",
+            "@value": "\u5668\u306b\u8edf\u98ef\u3092\u76db\u308a\u30012\uff0e\u3092\u304b\u3051\u308b\u3002"
+        },
+        {
+            "@language": "ja",
+            "@value": "\u5927\u6839\u306f\u3059\u308a\u304a\u308d\u3059\u3002\u89e3\u51cd\u3057\u305f\u9bad\u306f\u6c34\u3051\u3092\u3075\u304d\u30017mm\u5927\u306b\u5207\u308b\u3002"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

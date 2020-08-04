@@ -1,0 +1,55 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://mumspantry.com.au/author/lexi-klaebe/"
+    },
+    "cookTime": {
+        "@language": "en-AU",
+        "@value": "PT5M"
+    },
+    "datePublished": {
+        "@language": "en-AU",
+        "@value": "2017-12-08"
+    },
+    "description": {
+        "@language": "en-AU",
+        "@value": "A perfectly festive post Christmas dinner treat to have with your cuppa, these mini pudding biscuits are always quick to go!\n"
+    },
+    "image": {
+        "@id": "https://6zxcqmjwva3qb6zi1ac1zx19-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/Arnotts-Royale-puddings-Feature-Image-150x150.jpg"
+    },
+    "ingredients": [
+        {
+            "@id": "https://mumspantry.com.au/ingredients/jaffas-or-red-mms/"
+        },
+        {
+            "@id": "https://mumspantry.com.au/ingredients/caster-sugar/"
+        },
+        {
+            "@id": "https://mumspantry.com.au/ingredients/white-chocolate/"
+        },
+        {
+            "@id": "https://mumspantry.com.au/ingredients/spearmint-leaf-lollies/"
+        },
+        {
+            "@id": "https://mumspantry.com.au/ingredients/arnotts-royals-biscuits/"
+        }
+    ],
+    "name": {
+        "@language": "en-AU",
+        "@value": "Mini Pudding Biscuits"
+    },
+    "prepTime": {
+        "@language": "en-AU",
+        "@value": "PT5M"
+    },
+    "recipeInstructions": {
+        "@language": "en-AU",
+        "@value": "\n                1. Break up the white chocolate into a small heat proof bowl and melt in the microwave on High setting for 40 seconds. Stir and continue to heat 20 seconds at a time until melted and smooth. Set aside to cool a little.\n\n2. Cut the spearmint leaves into small pieces to resemble holly leaves. Roll the sliced pieces in caster sugar to prevent pieces sticking together. Set aside.\n\n3. Have your biscuits set out, your Jaffas and mint leaves close by. Spoon the cooled white chocolate (or pop into a zip lock bag and snip the corner) onto each biscuit and top with a Jaffa. You may need to hold it for a couple of seconds.\n\n4. Top each biscuit with a spearmint leaf slither or two and there you have it - mini pudding biscuits for everyone!\n\n\n            "
+    },
+    "recipeYield": {
+        "@language": "en-AU",
+        "@value": "12"
+    },
+    "@id": "http://example.org/recipe"
+}

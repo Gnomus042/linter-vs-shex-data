@@ -1,0 +1,82 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.73"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "48"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Fina Malini\u0107"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2016-08-12 13:39:19"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "U na\u0161em receptu saznajte kako pripremiti Daquiri koktel."
+    },
+    "image": {
+        "@id": "https://finirecepti.net.hr/wp-content/uploads/2016/08/daiquiri.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": " Havana Club bijeli rum, 0,5 dl"
+        },
+        {
+            "@language": "en-US",
+            "@value": " sok od limete, 0,2 dl"
+        },
+        {
+            "@language": "en-US",
+            "@value": " \u0161e\u0107erni sirup, 0,2 dl"
+        },
+        {
+            "@language": "en-US",
+            "@value": " led kockice"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Daquiri koktel "
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT5M"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "U shaker dodajte kockice leda, ulijte Havana Club bijeli rum, iscije\u0111eni sok od limete te \u0161e\u0107erni sirup (ukus po \u017eelji).   "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Sastojke dobro protresite u shakeru dok se ne pove\u017eu. "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Koktel poslu\u017eite u prethodno ohla\u0111enu \u010da\u0161u i ukrasite po \u017eelji s kri\u0161kama limete."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Ukoliko nemate shaker, mo\u017eete koristiti elektri\u010dni blender, tada stavite 6 kockicaa leda, uliti sve sastojke i blendajte pola minute, zajedno s ledom izlijte u \u010da\u0161u."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "1 osoba"
+    },
+    "url": {
+        "@language": "en-US",
+        "@value": "https://finirecepti.net.hr/priprema/daquiri-koktel/"
+    },
+    "@id": "http://example.org/recipe"
+}

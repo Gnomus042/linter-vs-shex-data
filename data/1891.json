@@ -1,0 +1,11 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.arstiderna.com/recept/kategori/ovriga-recept/1/Null"
+    },
+    "name": {
+        "@language": "sv",
+        "@value": "R\u00f6dbets och palsternackschips"
+    },
+    "@id": "http://example.org/recipe"
+}

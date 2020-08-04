@@ -1,0 +1,61 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://recipes-secure-graphics.grocerywebsite.com/0_GraphicsRecipes/5481_400.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Summer Gazpacho Salad"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "large cucumber, cut in half lengthwise and thinly sliced"
+        },
+        {
+            "@language": "en",
+            "@value": "fresh pineapple, cut into chunks"
+        },
+        {
+            "@language": "en",
+            "@value": "Null"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\tGarnish:"
+        },
+        {
+            "@language": "en",
+            "@value": "vinegar"
+        },
+        {
+            "@language": "en",
+            "@value": "fresh basil, stacked, rolled and sliced to make thin ribbons (chiffonade)"
+        },
+        {
+            "@language": "en",
+            "@value": "olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "medium tomatoes, seeds removed, coarsely chopped and drained"
+        },
+        {
+            "@language": "en",
+            "@value": "white wine"
+        },
+        {
+            "@language": "en",
+            "@value": "green onions, chopped"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Place pineapple, tomatoes, cucumber and onions in a large serving bowl.  Whisk together wine, vinegar and oil.  Pour over salad mixture and gently toss.  Cover and chill for at least 1 hour or overnight to blend flavors.  Just before serving stir and garnish with basil chiffonade scattered over the salad."
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "10 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

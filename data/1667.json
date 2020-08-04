@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "cs",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//uzivatele/profil/CHUTaSTYL.cz/"
+    },
+    "image": {
+        "@id": "http://media.igurmet.cz/cache/de/87/de87e4a79c475e07fa8f6a2b6b98b06e.jpg"
+    },
+    "ingredients": [
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/cokolada-horka/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/maslo/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/cukr-hnedy/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/vejce/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/kyprici-prasek-do-peciva/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/mouka-psenicna-hladka/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/muskatovy-orisek/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/rum/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/orechy-liskove/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/sul/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/smetana-na-slehani/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/rozinky/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/jedla-soda/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//suroviny/detail/smetana-zakysana/"
+        }
+    ],
+    "recipeCategory": {
+        "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//recepty/category/sladke/vanocni-cukrovi/"
+    },
+    "recipeCuisine": {
+        "@id": "http://www.igurmet.cz/recepty/sladke/vanocni-cukrovi/slepovane-rumove-placicky-553//cuisine/evropska/"
+    },
+    "recipeInstructions": {
+        "@language": "cs",
+        "@value": "Rozinky zalijeme rumem, kr\u00e1tce je proh\u0159ejeme v \u0161\u00e1lku v mikrovlnn\u00e9 troub\u011b a nech\u00e1me chladnout. \n\nMezit\u00edm v m\u00edse vy\u0161leh\u00e1me zm\u011bkl\u00e9 m\u00e1slo s cukrem do p\u011bny, p\u0159id\u00e1me vejce a d\u00e1le \u0161leh\u00e1me. Postupn\u011b do p\u011bny p\u0159i\u0161leh\u00e1me mouku s pr\u00e1\u0161kem do pe\u010diva, jedlou sodou, \u0161petkou soli, mu\u0161k\u00e1tov\u00fdm o\u0159\u00ed\u0161kem a mlet\u00fdmi o\u0159\u00ed\u0161ky a po \u010d\u00e1stech vm\u00edch\u00e1me zakysanou smetanu. Na z\u00e1v\u011br do t\u011bsta vm\u00edch\u00e1me prochladl\u00e9 rozinky s rumem. \n\nP\u0159ipraven\u00e9 t\u011bsto rozd\u011bl\u00edme l\u017e\u00edc\u00ed na plech vylo\u017een\u00fd pap\u00edrem na pe\u010den\u00ed do \u00fahledn\u00fdch hrom\u00e1dek, vlo\u017e\u00edme je do trouby vyh\u0159\u00e1t\u00e9 na 180 \u00b0C a pe\u010deme 7 \u2013 9 minut. Upe\u010den\u00e9 placi\u010dky nech\u00e1me vychladnout.\n\nHo\u0159kou \u010dokol\u00e1du rozl\u00e1meme na kousky a rozpust\u00edme ji ve vodn\u00ed l\u00e1zni. P\u0159ilijeme va\u0159\u00edc\u00ed smetanu a dob\u0159e prom\u00edch\u00e1me. Upe\u010den\u00e9 vychladl\u00e9 placi\u010dky slep\u00edme po dvou p\u0159ipraven\u00fdm kr\u00e9mem a nech\u00e1me ztuhnout."
+    },
+    "recipeYield": {
+        "@language": "cs",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,84 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Fooduzzi"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n        \t\t\t\tThe most addictive brussels sprouts you'll ever have! Easy roasted brussels sprouts are topped with a 3-ingredient sriracha almond butter sauce in this vegan and gluten free side!        \t\t\t"
+    },
+    "image": {
+        "@language": "en-US",
+        "@value": "https://www.fooduzzi.com/wp-content/uploads/2017/01/sriracha-almond-butter-brussels-sprouts-22.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Sriracha Almond Butter Roasted Brussels Sprouts"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "1 lb. brussels sprouts, cleaned and sliced in half"
+        },
+        {
+            "@language": "en-US",
+            "@value": "For the sauce:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 and 1/2 Tbsp. maple syrup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1+ Tbsp. Sriracha"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 and 1/2 Tbsp. almond butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "salt + pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tbsp. olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "unsweetened almond milk to thin, if needed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "sesame seeds, for topping"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "When the brussels sprouts are roasted, carefully scoop them into a bowl and top with sauce and sesame seeds. You can also toss your brussels in the sauce so that they're completely covered with the sauce. Serve with leftover sauce on the side for dipping."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat your oven to 425\u00b0 F. "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Meanwhile, make your sauce. Add almond butter, maple syrup, and 1 Tbsp. Sriracha to a small bowl, and mix to combine. The sauce should be thin enough to drizzle, but not watery. Add almond milk to thin, 1 tsp. at a time, if necessary. Set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour your cleaned and sliced brussels sprouts on a baking sheet. Coat with olive oil, salt, and pepper, and roast for 18-25 minutes, or until the brussels sprouts are tender and caramelized. "
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "serves 2-3"
+    },
+    "url": {
+        "@language": "en-US",
+        "@value": "https://www.fooduzzi.com/2017/01/sriracha-almond-butter-roasted-brussels-sprouts/"
+    },
+    "@id": "http://example.org/recipe"
+}

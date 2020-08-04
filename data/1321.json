@@ -1,0 +1,124 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "es",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "es",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "es",
+            "@value": "3.75"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "es",
+            "@value": "VelSid"
+        },
+        "url": {
+            "@id": "https://gastronomiaycia.republica.com/author/velsid/"
+        }
+    },
+    "dateModified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2014-11-06"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-03-06"
+    },
+    "description": {
+        "@language": "es",
+        "@value": "Receta de bacalao con salsa de pi\u00f1ones, un plato principal nutritivo y ligero, la salsa se hace con fumet de pescado (sin nata), explicaci\u00f3n de la elaboraci\u00f3n paso a paso."
+    },
+    "headline": {
+        "@language": "es",
+        "@value": "Hoy Cocinas T\u00fa: Bacalao con salsa de pi\u00f1ones"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "es",
+            "@value": "449"
+        },
+        "url": {
+            "@language": "es",
+            "@value": "https://gastronomiaycia.republica.com/wp-content/uploads/2013/03/hct_bacalao_pinones.jpg"
+        },
+        "width": {
+            "@language": "es",
+            "@value": "600"
+        }
+    },
+    "ingredients": [
+        {
+            "@language": "es",
+            "@value": "1 cebolla"
+        },
+        {
+            "@language": "es",
+            "@value": "100 gramos de pi\u00f1ones"
+        },
+        {
+            "@language": "es",
+            "@value": " sal."
+        },
+        {
+            "@language": "es",
+            "@value": "1 diente de ajo"
+        },
+        {
+            "@language": "es",
+            "@value": "500 ml. de caldo de pescado"
+        },
+        {
+            "@language": "es",
+            "@value": "250 ml.  de vino blanco"
+        },
+        {
+            "@language": "es",
+            "@value": "4 lomos o filetes de bacalao salado"
+        },
+        {
+            "@language": "es",
+            "@value": " aceite de oliva virgen extra"
+        }
+    ],
+    "interactionCount": {
+        "@language": "es",
+        "@value": "1"
+    },
+    "mainEntityOfPage": {
+        "@language": "es",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "es",
+        "@value": "Hoy Cocinas T\u00fa: Bacalao con salsa de pi\u00f1ones"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:Nd535ff4d10db42acb75c603c32819627"
+        },
+        "name": {
+            "@language": "es",
+            "@value": "Velsid"
+        }
+    },
+    "recipeCategory": {
+        "@language": "es",
+        "@value": "Hoy Cocinas T\u00fa"
+    },
+    "url": {
+        "@language": "es",
+        "@value": "https://gastronomiaycia.republica.com/2013/03/06/hoy-cocinas-tu-bacalao-con-salsa-de-pinones/"
+    },
+    "@id": "http://example.org/recipe"
+}

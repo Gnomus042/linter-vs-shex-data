@@ -1,0 +1,56 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en",
+            "@value": "29"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4.1"
+        }
+    },
+    "image": {
+        "@id": "https://myfoodbook.com.au/sites/default/files/styles/single_recipe/public/recipe_photo/Perf20159129_0.jpg?itok=f2Qo_JFZ"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": " 1 large tub (500g) Perfect Italiano Original Ricotta"
+        },
+        {
+            "@language": "en",
+            "@value": " 1/2 cup roughly chopped herbs (such as parsley, chives, basil, chervil etc)"
+        },
+        {
+            "@language": "en",
+            "@value": " 1/2 packet grated Perfect Italiano Extra Sharp Parmesan"
+        },
+        {
+            "@language": "en",
+            "@value": "500g spaghetti"
+        },
+        {
+            "@language": "en",
+            "@value": " Zest of 1 lemon"
+        },
+        {
+            "@language": "en",
+            "@value": " 2 tbsp olive oil"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Lemon and Herb Ricotta Spaghetti"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n4"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://myfoodbook.com.au/recipes/show/lemon-and-herb-ricotta-spaghetti"
+    },
+    "@id": "http://example.org/recipe"
+}

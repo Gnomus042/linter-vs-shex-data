@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "he",
+        "@value": "EuSolis Official Store"
+    },
+    "brand": {
+        "@language": "he",
+        "@value": "pixity.asia"
+    },
+    "image": {
+        "@language": "he",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1yWR5X5zxK1RjSspjq6AS.pXab/Eusolis-Hanglamp-Industrieel-\u05de\u05ea\u05db\u05ea-Luminarias-\u05d3\u05d4-\u05e4\u05e0\u05d9\u05dd-\u05db\u05e4\u05e8\u05d9-\u05d0\u05d5\u05e8-\u05d2\u05d5\u05e4\u05d9-Lamparas-Colgantes-Modernas-Para-Comedor.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "he",
+            "@value": "32955752732"
+        },
+        {
+            "@language": "he",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "he",
+        "@value": "Eusolis Hanglamp Industrieel \u05de\u05ea\u05db\u05ea Luminarias \u05d3\u05d4 \u05e4\u05e0\u05d9\u05dd \u05db\u05e4\u05e8\u05d9 \u05d0\u05d5\u05e8 \u05d2\u05d5\u05e4\u05d9 Lamparas Colgantes Modernas Para Comedor"
+    },
+    "@id": "http://example.org/recipe"
+}

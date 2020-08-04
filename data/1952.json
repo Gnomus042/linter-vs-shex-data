@@ -1,0 +1,109 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "sv",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "sv",
+            "@value": "17"
+        },
+        "ratingValue": {
+            "@language": "sv",
+            "@value": "3.53"
+        },
+        "worstRating": {
+            "@language": "sv",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "sv",
+        "@value": "Av Bessinge g\u00e5rd"
+    },
+    "container": {
+        "@language": "sv",
+        "@value": "Gr\u00e4ddig lammgryta med kantareller, mor\u00f6tter och r\u00f6nnb\u00e4rsgel\u00e9.Det h\u00e4r goda receptet kommer fr\u00e5n Poons k\u00f6ttskola - en resa bland svenska g\u00e5rdar. Klicka h\u00e4r f\u00f6r att ta del av fler k\u00f6ttrecept, l\u00e4sa Filips blogg samt l\u00e4ra k\u00e4nna b\u00f6nder runt om i Sverige."
+    },
+    "image": {
+        "@language": "sv",
+        "@value": "https://img.koket.se/microdata/lammgryta-fran-bessinge.jpg"
+    },
+    "name": {
+        "@language": "sv",
+        "@value": "Lammgryta fr\u00e5n Bessinge"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "sv",
+            "@value": "1 tsk salt"
+        },
+        {
+            "@language": "sv",
+            "@value": "1  gul l\u00f6k"
+        },
+        {
+            "@language": "sv",
+            "@value": "4 dl vatten"
+        },
+        {
+            "@language": "sv",
+            "@value": "  malen svartpeppar"
+        },
+        {
+            "@language": "sv",
+            "@value": "  salt"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 krm malen svartpeppar"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 msk r\u00f6nnb\u00e4rsgel\u00e9"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 msk vetemj\u00f6l"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 msk sm\u00f6r"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 kg grytbitar av benfritt lammk\u00f6tt"
+        },
+        {
+            "@language": "sv",
+            "@value": "200 g kantareller (f\u00e4rska eller konserv)"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 dl vispgr\u00e4dde 40 %"
+        },
+        {
+            "@language": "sv",
+            "@value": "2  mor\u00f6tter"
+        },
+        {
+            "@language": "sv",
+            "@value": "1,5 msk koncentrerad kalvfond"
+        },
+        {
+            "@language": "sv",
+            "@value": "3 msk persilja, hackad"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "sv",
+        "@value": "Sk\u00e4r k\u00f6ttet i 2 cm stora t\u00e4rningar. Hetta upp en stekpanna med sm\u00f6r, stek k\u00f6ttet p\u00e5 h\u00f6g v\u00e4rme s\u00e5 att det f\u00e5r f\u00e4rg runt om, salta, peppra och l\u00e4gg \u00f6ver det i en gryta.Skala och hacka l\u00f6ken fint, dela svampen i mindre bitar, skala och t\u00e4rna mor\u00f6tterna. Fr\u00e4s l\u00f6k och svamp i sm\u00f6r i stekpannan och l\u00e4gg det i grytan, tills\u00e4tt morotst\u00e4rningar, vatten och fond. L\u00e5t sm\u00e5koka under lock i ca 30 min eller tills k\u00f6ttet k\u00e4nns m\u00f6rt.Sila skyn. L\u00e4gg tillbaka k\u00f6tt och gr\u00f6nsaker i grytan, l\u00e4gg p\u00e5 locket s\u00e5 att det h\u00e5lls varmt. H\u00e4ll skyn i en kastrull och l\u00e5t den koka tills det \u00e5terst\u00e5r ca 4 dl. Blanda mj\u00f6l och gr\u00e4dde till en redning och vispa ner den i skyn, l\u00e5t koka i n\u00e5gra minuter, tills\u00e4tt gel\u00e9.H\u00e4ll s\u00e5sen \u00f6ver k\u00f6ttet och de \u00f6vriga ingredienserna i grytan. Koka upp och smaka av med salt och peppar. Om du har tid kan du l\u00e5ta det sm\u00e5puttra en stund till. Str\u00f6 \u00f6ver persilja strax f\u00f6re servering. Ett tips f\u00f6r \u00e4nnu mustigare gryta \u00e4r att g\u00f6ra den en dag i f\u00f6rv\u00e4g och v\u00e4rma upp den en stund innan den ska serveras.\n \nServera med potatis, r\u00f6nnb\u00e4rsgel\u00e9 och gr\u00f6nsaker efter s\u00e4song."
+    },
+    "recipeYield": {
+        "@language": "sv",
+        "@value": "6 "
+    },
+    "@id": "http://example.org/recipe"
+}

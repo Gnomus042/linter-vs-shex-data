@@ -1,0 +1,116 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-GB",
+        "@value": "By Nimi Sunilkumar "
+    },
+    "datePublished": {
+        "@language": "en-GB",
+        "@value": "2017-12-29 09:26:33"
+    },
+    "image": {
+        "@id": "http://nimisrecipes.com/wp-content/uploads/2017/12/2-683x1024.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-GB",
+            "@value": "175 g cake flour"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "3 eggs"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1/2 tsp of salt"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 tsp of baking powder"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Juice of 2 sweet lemon /musambi"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1/2 cup of milk"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Rind of 1 sweet lemon finely grated"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1/2 cup of almonds"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "175 g butter"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 tsp of vanilla essence"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "175 g sugar"
+        }
+    ],
+    "name": {
+        "@language": "en-GB",
+        "@value": "Sweet lemon /Musambi cake "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-GB",
+            "@value": "3320 calories"
+        },
+        "carbohydrateContent": {
+            "@language": "en-GB",
+            "@value": "353 g"
+        },
+        "cholesterolContent": {
+            "@language": "en-GB",
+            "@value": "944 g"
+        },
+        "fatContent": {
+            "@language": "en-GB",
+            "@value": "197 g"
+        },
+        "proteinContent": {
+            "@language": "en-GB",
+            "@value": "55 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en-GB",
+            "@value": "99 g"
+        },
+        "servingSize": {
+            "@language": "en-GB",
+            "@value": "1052 g"
+        },
+        "sodiumContent": {
+            "@language": "en-GB",
+            "@value": "1484 g"
+        },
+        "sugarContent": {
+            "@language": "en-GB",
+            "@value": "190 g"
+        },
+        "transFatContent": {
+            "@language": "en-GB",
+            "@value": "6 g"
+        },
+        "unsaturatedFatContent": {
+            "@language": "en-GB",
+            "@value": "83 g"
+        }
+    },
+    "recipeInstructions": {
+        "@language": "en-GB",
+        "@value": "\t\t\t\tPreheat oven at 350 degrees .Sieve the flour , baking powder and salt into a bowl.In an other bowl beat butter and sugar about 2 mins and slowly beat in the eggs on by one .Once the beaten mix is pretty smooth , stir in milk  , musambi rind ,  its juice and vanilla essence .Slowly fold in the dry ingredients with almonds into the mix. Grease and line a cake tin with butter paper and pour in the cake batter .Level the top and bake the cake for about 30 minutes or till a toothpick inserted comes out clean .\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

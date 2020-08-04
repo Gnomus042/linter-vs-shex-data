@@ -1,0 +1,91 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.foodista.com/sites/default/files/styles/recype/public/1_25.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1/8 Cup Cornstarch"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 Teaspoon Cream of Tartar"
+        },
+        {
+            "@language": "en",
+            "@value": "One 9\u2033 Baked Pie Crust"
+        },
+        {
+            "@language": "en",
+            "@value": "3 Large Ripe Bananas"
+        },
+        {
+            "@language": "en",
+            "@value": "1 Tablespoon Vanilla"
+        },
+        {
+            "@language": "en",
+            "@value": "2 1/2 Cups Skim Milk"
+        },
+        {
+            "@language": "en",
+            "@value": "1/8 cup plus 1 Teaspoon Cane Sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "3 Eggs, separated"
+        },
+        {
+            "@language": "en",
+            "@value": "2 Tablespoons Butter"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Lighter Banana Cream Pie"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Serves 6 to 8"
+        },
+        {
+            "@language": "en",
+            "@value": "Separate eggs; place yolks in a small bowl and place whites in a large metal bowl for the\u00a0merangue later.\u00a0 Stir two or three tablespoons of hot mixture into the egg yolks.\u00a0 Pour the yolks back into the milk mixture.\u00a0 Stir in the vanilla and butter.\u00a0\u00a0Heat to boiling, stirring constantly, for one minute. \u00a0Set aside."
+        },
+        {
+            "@language": "en",
+            "@value": "Heat oven to 375 degrees.\u00a0 Prepare and bake the pie shell; let cool."
+        },
+        {
+            "@language": "en",
+            "@value": "Let cool and refrigerate several hours."
+        },
+        {
+            "@language": "en",
+            "@value": "Prepare the merangue. (Hint-always use clean, dry\u00a0beaters and a metal or glass\u00a0bowl, not plastic, for a\u00a0successful merangue).\u00a0 Add the cream of tartar to the egg whites.\u00a0 Beat on high until soft peaks form.\u00a0 Add the 1 teaspoon of cane sugar and continue beating until stiff peaks form."
+        },
+        {
+            "@language": "en",
+            "@value": "Peel and slice the bananas.\u00a0 Arrange in the cooled pie crust.\u00a0 Evenly pour the custard over the bananas."
+        },
+        {
+            "@language": "en",
+            "@value": "Mix the 1/8 cup of cane\u00a0sugar and cornstarch in a 2 qt. saucepan.\u00a0 Gradually stir in milk.\u00a0 Cook over medium heat, whisking constantly, until mixture thickens and boils."
+        },
+        {
+            "@language": "en",
+            "@value": "Bake at 375 degrees for 12 to 15 minutes or until merangue is nicely browned."
+        },
+        {
+            "@language": "en",
+            "@value": "Spoon the merangue evenly over the custard filling."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "6 Servings"
+    },
+    "@id": "http://example.org/recipe"
+}

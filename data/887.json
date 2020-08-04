@@ -1,0 +1,37 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://viet-minh.de/wp-content/uploads/2016/10/DSC_0947_edited.jpg"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "de-DE",
+            "@value": "1 TL Vanillepulver"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "\u00bc TL gemahlenen schwarzen Pfeffer"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Datteln o.a. zum S\u00fc\u00dfen"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 TL natives Kokos\u00f6l"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 cm lange Kurkumawurzel"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Tasse selbstgemachte Mandelmilch"
+        }
+    ],
+    "recipeYield": {
+        "@language": "de-DE",
+        "@value": "1 Glas"
+    },
+    "@id": "http://example.org/recipe"
+}

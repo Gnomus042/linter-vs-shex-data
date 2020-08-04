@@ -1,0 +1,91 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "fr-fr",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "fr-fr",
+            "@value": "0"
+        },
+        "worstRating": {
+            "@language": "fr-fr",
+            "@value": "0"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2017-01-07"
+    },
+    "description": {
+        "@language": "fr-fr",
+        "@value": "Ces tranches de tempeh sont bri\u00e8vement marin\u00e9es, cuites au four glac\u00e9es\u00a0pour\u00a0pi\u00e9ger un\u00a0maximum de saveurs."
+    },
+    "image": {
+        "@id": "https://www.sosbouffe.fr/recettes-vegetariennes/recette/1222-tempeh-erable-moutarde.html//images/cropped-tempeh-erable-moutarde.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-fr",
+            "@value": "d'huile v\u00e9g\u00e9tale"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de cannelle"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de chou kale"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de sirop d'\u00e9rable"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de moutarde de Dijon"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "gousses d'ail hach\u00e9es"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de piment"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de tamari"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de tempeh"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de jus d'orange"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de ketchup"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de ma\u00efs en grains"
+        }
+    ],
+    "name": {
+        "@language": "fr-fr",
+        "@value": "\n\tTempeh \u00e9rable moutarde E-mail Imprimer"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "recipeYield": {
+        "@language": "fr-fr",
+        "@value": "6 Personne(s)"
+    },
+    "@id": "http://example.org/recipe"
+}

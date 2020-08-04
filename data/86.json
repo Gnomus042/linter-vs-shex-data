@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-US",
+        "@value": "Makes 4 8-oz servings\n"
+    },
+    "image": {
+        "@id": "http://www.eat-drink-smile.com/wp-content/uploads/2011/07/milkshakes-375x375.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Wonderfulle Truffle Milkshake"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "In blender, combine milk, spread and ice cream; blend on high speed until smooth.  Pour into chilled glasses.  Garnish with whipped cream, chocolate curls and toasted hazelnuts. Luxuriate in truffle splendor!\n"
+    },
+    "@id": "http://example.org/recipe"
+}

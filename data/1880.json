@@ -1,0 +1,72 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "fi",
+            "@value": "7"
+        },
+        "ratingValue": {
+            "@language": "fi",
+            "@value": "4"
+        }
+    },
+    "description": {
+        "@language": "fi",
+        "@value": "Hedelm\u00e4juustokakku on suussa sulava j\u00e4lkiruoka, jonka voi tarjoilla tilanteessa kuin tilanteessa. Valitse kakun p\u00e4\u00e4lle suosikki hedelmi\u00e4si!  "
+    },
+    "image": {
+        "@id": "https://cdn-rdb.arla.com/Files/arla-fi/2946333086/ad1490d4-1109-4483-bea3-6b258b64697e.jpg?mode=crop&w=1680&h=750&scale=both&ak=814e15de&hm=8c2fa9df"
+    },
+    "name": {
+        "@language": "fi",
+        "@value": "Hedelm\u00e4juustokakku"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fi",
+            "@value": "\n1 kananmuna\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                2\u00bd dl Arla kuohukermaa\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\nviipaloituja hedelmi\u00e4\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n4 rkl sitruunamehua\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n1 tl vaniljasokeria\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                100 g Arla Meijerivoita\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n2 tl hienoksi raastettua sitruunan kuorta\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n1 dl sokeria\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n400 g maustamatonta tuorejuustoa\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n150 g Start Naturel -mysli\u00e4 (tai 14-15 Digestive-keksi\u00e4)\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n5 liivatelehte\u00e4\n        "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,170 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Decatur Macpherson"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2017-09-28"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "And these taste even better than the ones from the store."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://drb960u7vv58y.cloudfront.net/crop/171838/1200/627/image.jpg"
+    },
+    "isPartOf": {
+        "@id": "https://crafty.house/copycat-lofthouse-cookies/Null"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Lofthouse Sugar Cookies"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT1M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Dessert"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "1/4 teaspoon almond extract, optional"
+        },
+        {
+            "@language": "en",
+            "@value": "3 cups powdered sugar "
+        },
+        {
+            "@language": "en",
+            "@value": "3/4 cup sour cream"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons vegetable shortening, optional "
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "food coloring, if desired"
+        },
+        {
+            "@language": "en",
+            "@value": "2-3 tablespoons whole milk or heavy cream"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 teaspoon baking soda"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 teaspoon baking powder"
+        },
+        {
+            "@language": "en",
+            "@value": "Cookies:"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup (1 stick) unsalted butter, room temperature"
+        },
+        {
+            "@language": "en",
+            "@value": "3 cups all-purpose flour"
+        },
+        {
+            "@language": "en",
+            "@value": "Frosting:"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 teaspoon salt"
+        },
+        {
+            "@language": "en",
+            "@value": "sprinkles, garnish"
+        },
+        {
+            "@language": "en",
+            "@value": "2 eggs"
+        },
+        {
+            "@language": "en",
+            "@value": "1 teaspoon vanilla extract"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\tPreheat oven to 425\u00ba F and line two baking sheets with parchment paper.\n\t\t\t\t\t\t\tIn a medium bowl, whisk together flour, baking soda, baking powder and salt until combined. Set aside.\n\t\t\t\t\t\t\tIn a large bowl or mixer, cream together butter and sugar for 3-5 minutes, or until fluffy and lightened in color. Scrape down sides as needed.\n\t\t\t\t\t\t\tOne at a time, beat in eggs, then mix in sour cream and vanilla extract.\n\t\t\t\t\t\t\tGradually mix in the dry ingredients until just incorporated.\n\t\t\t\t\t\t\tDivide cookie dough in half and transfer to 2 sheets of plastic wrap. Wrap tightly and refrigerate or freeze until firm and chilled.\n\t\t\t\t\t\t\tRoll dough out to 1/4-inch thickness and use a cookie cutter to form cookies, or scoop dough into 2-inch balls and use a flat-bottomed drinking glass to gently flatten.\n\t\t\t\t\t\t\tTransfer cookies to baking sheet and place in oven. Bake for 6-8 minutes, or until pale golden on the bottom. Do not overbake.\n\t\t\t\t\t\t\tRemove cookies from oven and transfer to a wire rack to cool.\n\t\t\t\t\t\t\tStart frosting by creaming together butter, vegetable shortening (if using), powdered sugar and vanilla extract until smooth and creamy.\n\t\t\t\t\t\t\tWorking with 1 tablespoon at a time, gradually whisk in milk or heavy cream until desired consistency is reached.\n\t\t\t\t\t\t\tAdd food coloring, then frost cooled cookies, adding sprinkles if desired. Let frosting set and enjoy!\n\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "2 dozen servings"
+    },
+    "text": [
+        {
+            "@language": "en",
+            "@value": "Remove cookies from oven and transfer to a wire rack to cool."
+        },
+        {
+            "@language": "en",
+            "@value": "Gradually mix in the dry ingredients until just incorporated."
+        },
+        {
+            "@language": "en",
+            "@value": "Preheat oven to 425\u00ba F and line two baking sheets with parchment paper."
+        },
+        {
+            "@language": "en",
+            "@value": "Transfer cookies to baking sheet and place in oven. Bake for 6-8 minutes, or until pale golden on the bottom. Do not overbake."
+        },
+        {
+            "@language": "en",
+            "@value": "Working with 1 tablespoon at a time, gradually whisk in milk or heavy cream until desired consistency is reached."
+        },
+        {
+            "@language": "en",
+            "@value": "In a medium bowl, whisk together flour, baking soda, baking powder and salt until combined. Set aside."
+        },
+        {
+            "@language": "en",
+            "@value": "Add food coloring, then frost cooled cookies, adding sprinkles if desired. Let frosting set and enjoy!"
+        },
+        {
+            "@language": "en",
+            "@value": "One at a time, beat in eggs, then mix in sour cream and vanilla extract."
+        },
+        {
+            "@language": "en",
+            "@value": "In a large bowl or mixer, cream together butter and sugar for 3-5 minutes, or until fluffy and lightened in color. Scrape down sides as needed."
+        },
+        {
+            "@language": "en",
+            "@value": "Divide cookie dough in half and transfer to 2 sheets of plastic wrap. Wrap tightly and refrigerate or freeze until firm and chilled."
+        },
+        {
+            "@language": "en",
+            "@value": "Roll dough out to 1/4-inch thickness and use a cookie cutter to form cookies, or scoop dough into 2-inch balls and use a flat-bottomed drinking glass to gently flatten."
+        },
+        {
+            "@language": "en",
+            "@value": "Start frosting by creaming together butter, vegetable shortening (if using), powdered sugar and vanilla extract until smooth and creamy."
+        }
+    ],
+    "url": {
+        "@language": "en",
+        "@value": "https://crafty.house/copycat-lofthouse-cookies/"
+    },
+    "@id": "http://example.org/recipe"
+}

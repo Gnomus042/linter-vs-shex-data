@@ -1,0 +1,24 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-US",
+        "@value": "\t\nThis crumbled apple cake might sound fancy, but it\u2019s actually ridiculously easy \u2013 so much so that you need pretty much no baking ability whatsoever. It\u2019s sort of an apple crumble / apple cake hybrid, consisting of a layer of cake at the bottom, then a layer of spiced apples, and finished off with a crumbly streusel-like topping. The simplicity of this recipe becomes apparent when you realise that the recipe for the cakey bottom layer is actually identical to the crumble topping \u2013 how it works, I have no idea, but somehow it transforms into two different things as it cooks. Must be some sort of magic.\n\u00a0\n\n\n"
+    },
+    "image": {
+        "@language": "en-US",
+        "@value": "http://www.tonyshappykitchen.com/wp-content/uploads/2015/10/P1020251-300x300.jpg"
+    },
+    "ingredients": {
+        "@language": "en-US",
+        "@value": "\n\nIngredients\n200 g flour\n100 ml maple syrup\n60 g of coconut oil from the fridge\n2 teaspoons cinnamon\n3 Golden Delicious apples\n1 tablespoon lemon juice\nPreheat oven to 180 \u00b0 C (350F).\n\n\t\n \n\t\n\t \n\n\t\nInstructionsRub the\u00a0 coconut oil and the flour together, then add the maple syrup and 1 teaspoon cinamon, and mix well with a fork to form a breadcrumb-like mixture . Peel and core the apples, and cut them into slices. Add them in to the bowl with the cinnamon an lemon juice.\nPress two-thirds of the cake mixture into the cake tin lined with parchment paper , and add the apples in a slightly rounded heap. Then sprinkle the remaining cake mixture around the sides and over the top of the apples.\nBake for around 60 minutes, or until golden brown. Leave it to cool in the tin and then remove and slice.\n\n\n\n \t\t\t\n\t\t\t\t POrzioni : \n\t\t\t\t 8  \n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t  Pronto in :\t\t\t\t  75 Minuti  \n\t\t\t\n\t\t\t\n\nPortata :    Desserts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(adsbygoogle = window.adsbygoogle || []).push({});\n\n\n"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Apple crumble cake"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\nInstructionsRub the\u00a0 coconut oil and the flour together, then add the maple syrup and 1 teaspoon cinamon, and mix well with a fork to form a breadcrumb-like mixture . Peel and core the apples, and cut them into slices. Add them in to the bowl with the cinnamon an lemon juice.\nPress two-thirds of the cake mixture into the cake tin lined with parchment paper , and add the apples in a slightly rounded heap. Then sprinkle the remaining cake mixture around the sides and over the top of the apples.\nBake for around 60 minutes, or until golden brown. Leave it to cool in the tin and then remove and slice.\n\n\n\n \t\t\t\n\t\t\t\t POrzioni : \n\t\t\t\t 8  \n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t  Pronto in :\t\t\t\t  75 Minuti  \n\t\t\t\n\t\t\t\n\nPortata :    Desserts\n\n\n\n\n\n\n\n\n"
+    },
+    "@id": "http://example.org/recipe"
+}

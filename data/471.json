@@ -1,0 +1,73 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemreviewed": {
+            "@language": "da",
+            "@value": " Hot rejesuppe "
+        },
+        "ratingCount": {
+            "@language": "da",
+            "@value": "69"
+        },
+        "ratingValue": {
+            "@language": "da",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "da",
+        "@value": "Elsebeth Solskin Christophersen"
+    },
+    "description": {
+        "@language": "da",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "da",
+        "@value": "\nHot rejesuppe\n"
+    },
+    "recipeCategory": {
+        "@language": "da",
+        "@value": "\n\n \nMadopskrifter\n \nSuppe (323)\n"
+    },
+    "recipeIngredient": {
+        "@language": "da",
+        "@value": "\n5 spsk karry\n50 g margarine\n2 l\u00f8g\n2 fed hvidl\u00f8g\n1 liter h\u00f8nsebouillon\n2\u00bd dl fl\u00f8de\nsalt, peber (smag dig frem)\n1tsk chili (kan undlades)\n1 ds. fl\u00e5ede tomater\nananas, bananer\n200 g rejer\nkokos, i flager og ristet.\n\n\n"
+    },
+    "recipeInstructions": {
+        "@language": "da",
+        "@value": "\nSvits l\u00f8g i margarine til de er klare (ikke brune) og svits karryen med i et par min. Tils\u00e6t bouillon, hvidl\u00f8g, fl\u00f8de, chili, tomater og salt og peber. \nKog op og lad det simre, mens du tils\u00e6tter rejer og frugt. Varm det lige igennem og\n"
+    },
+    "url": {
+        "title": {
+            "@language": "da",
+            "@value": "Hot rejesuppe | L\u00e6kker opskrift | Find den p\u00e5 Maduniverset"
+        },
+        "item": [
+            {
+                "@id": "_:N2a2e52de546648078e280b97778aaf4f"
+            },
+            {
+                "@id": "_:N9a3c8eb1c13c48cf891d99c5a31c1498"
+            },
+            {
+                "@id": "_:N3d000b807be74b0aa15320d934f18c9d"
+            },
+            {
+                "@id": "_:Nd9035c0dc5c448a09a8fab394af916c4"
+            }
+        ]
+    },
+    "yield": [
+        {
+            "@language": "da",
+            "@value": "til 3-4 pers"
+        },
+        {
+            "@language": "da",
+            "@value": "Tid ialt: 25 min"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

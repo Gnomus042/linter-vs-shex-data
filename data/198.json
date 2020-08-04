@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ja",
+        "@value": "GuangQI LED Technology Lighting Co., Limited"
+    },
+    "brand": {
+        "@language": "ja",
+        "@value": "brandnewmedia.asia"
+    },
+    "image": {
+        "@language": "ja",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1oB5yQXXXXXXWXFXXq6xXFXXXQ/10pc-15-\u30ef\u30c3\u30c8-led-\u5c4b\u5916\u30e9\u30f3\u30d7\u306e\u5149-LED-\u5730\u4e0b\u30e9\u30a4\u30c8-led-\u57cb\u6ca1\u30e9\u30a4\u30c8\u7167\u660e.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ja",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "ja",
+            "@value": "32340296223"
+        }
+    ],
+    "name": {
+        "@language": "ja",
+        "@value": "10pc 15 \u30ef\u30c3\u30c8 led \u5c4b\u5916\u30e9\u30f3\u30d7\u306e\u5149 LED \u5730\u4e0b\u30e9\u30a4\u30c8 led \u57cb\u6ca1\u30e9\u30a4\u30c8\u7167\u660e"
+    },
+    "@id": "http://example.org/recipe"
+}

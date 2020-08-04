@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "sv-se",
+            "@value": "3.17"
+        },
+        "reviewCount": {
+            "@language": "sv-se",
+            "@value": "6"
+        }
+    },
+    "description": {
+        "@language": "sv-se",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://www.coop.se/recept/krustader-med-lattstuvad-svamp//globalassets/designelement/t_410x410_hi_r/bildsaknas225x225.png"
+    },
+    "name": {
+        "@language": "sv-se",
+        "@value": "Krustader med l\u00e4ttstuvad svamp"
+    },
+    "recipeInstructions": {
+        "@language": "sv-se",
+        "@value": "\n        \n                    <p>Borsta svampen. Sk\u00f6lj den om det beh\u00f6vs. Skala och finhacka l\u00f6ken. Hacka persiljan.\n                    L\u00e4gg svampen och l\u00f6ken i en kastrull. L\u00e5t det mesta av v\u00e4tskan koka in om svampen \u00e4r v\u00e4tskerik.\n                    Tills\u00e4tt fettet och fr\u00e4s alltsammans tills det kn\u00e4pper i svampen.\n                    Tills\u00e4tt cr\u00e8me fraiche och persilja och koka n\u00e5gra minuter.\n                    F\u00f6rdela stuvningen i krustaderna.\n                    Servera dem genast med till exempel sallat och tomater.\n                    <p>\n        \n    "
+    },
+    "@id": "http://example.org/recipe"
+}

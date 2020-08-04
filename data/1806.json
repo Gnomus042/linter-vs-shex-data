@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ko",
+        "@value": "Great-JUNAMT jmLighting Store"
+    },
+    "brand": {
+        "@language": "ko",
+        "@value": "brandnewmedia.asia"
+    },
+    "image": {
+        "@language": "ko",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1OW0taijrK1RjSsplq6xHmVXa5/Led-\ub2ec\ucf64\ud55c-\ud06c\ub9ac\uc2a4\ud0c8-\ucc9c\uc7a5-\uc870\uba85-\uc6d0\ud615-\ubaa8\uc591-\ub192\uc774-41-cm-\uc6d0\uaca9-\uc81c\uc5b4-\ucd5c\uace0\uc758-\uac00\uaca9-\uc0ac\uc6a9\uc790-\uc815\uc758.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ko",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "ko",
+            "@value": "32959128414"
+        }
+    ],
+    "name": {
+        "@language": "ko",
+        "@value": "Led \ub2ec\ucf64\ud55c \ud06c\ub9ac\uc2a4\ud0c8 \ucc9c\uc7a5 \uc870\uba85 \uc6d0\ud615 \ubaa8\uc591 \ub192\uc774 41 cm \uc6d0\uaca9 \uc81c\uc5b4 \ucd5c\uace0\uc758 \uac00\uaca9!!! \uc0ac\uc6a9\uc790 \uc815\uc758 \ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4"
+    },
+    "@id": "http://example.org/recipe"
+}

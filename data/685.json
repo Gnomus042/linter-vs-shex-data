@@ -1,0 +1,80 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon salt\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 teaspoon almond extract\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup sugar\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 pounds fresh cherries, pitted (a little over 4 cups)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Turbinado sugar (or other coarse sugar) for coating"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 egg yolk, beaten, for coating\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon + 1 teaspoon cornstarch\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon lemon juice\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Dough for 1 9\u2033 pie crust, chilled\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Cherry Galette"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Coat the edges of the dough with beaten egg yolk and sprinkle turbinado sugar on top.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Bake until the crust is golden brown and filling is bubbling, around 1 to 1 hour 15 minutes.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Remove pie dough from fridge and let it sit for 10 minutes. Place on a piece of parchment paper and roll into a 12 to 14\u2033 round (it doesn\u2019t need to be perfect).\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Fold up the edges of the dough around the fruit. Don\u2019t worry about it looking perfect or pretty \u2013 just follow the dough\u2019s natural creasing.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat oven to 375\u00b0F.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large bowl, combine the cherries with sugar, cornstarch, lemon juice, salt, and almond extract.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour cherry mixture into the center of the dough. Spread out, leaving 1.5\u2033 border around the edge.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Remove from oven and let cool completely, then enjoy."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

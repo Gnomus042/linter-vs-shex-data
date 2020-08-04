@@ -1,0 +1,107 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://www.recipes-to-remember.com/wp-content/uploads/2016/04/Gammon-Steak-with-Roasted-Baby-Potatoes.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-CA",
+            "@value": "2 tbsp white wine vinegar"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Preparation time: 15 minutes"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "575g (1 lb 4 oz) baby potatoes (about 13)"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Ingredients"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "5 tbsp olive oil"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Cooking time: 30 minutes"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "salt and freshly ground black pepper"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "4 garlic cloves"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "4 gammon steaks"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "4 eggs"
+        }
+    ],
+    "name": {
+        "@language": "en-CA",
+        "@value": "Gammon Steak with Roasted Baby Potatoes"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-CA",
+            "@value": "Preheat the oven to 190\u00b0C (375\u00b0F) (gas 5)"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Serve with the roasted baby potatoes."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Tip into a small roasting tin/pan and roast for 30 minutes until the potatoes are tender, turning a couple of times to make sure they brown evenly."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Remove any rind from the gammon steaks, then brush with the remaining olive oil. Grill/broil for 3 minutes on each side until they are starting to brown and are crisping at the edges."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Method"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Preheat the grill/broiler."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Wash the potatoes, cut into 1 inch pieces and place in a large bowl. Add 4 tablespoons of olive oil, garlic cloves, and seasoning. Toss together to coat the potatoes."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Null"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "While cooking the gammon, also cook the eggs. Pour some boiling water into a non-stick frying pan/skillet to a depth of 2.5\u20133.75cm (1\u20131\u00bd inches). Gently heat the water so that it produces just a trace of tiny bubbles over the base of the pan. Next stir the white wine vinegar into the water, which will prevent the whites from spreading as they cook."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Once the eggs are cooked, lift them out of the water with a flat slotted spoon, resting the spoon on a sheet of kitchen paper to absorb any water before slipping the egg off the spoon onto the top of a gammon steak."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Now, holding the cracked eggs as near as possible above the water, slip them gently into the water and cook for exactly 1 minute to let the eggs settle."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Cook for a further 3 minutes, occasionally basting the top of the eggs with the water."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-CA",
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

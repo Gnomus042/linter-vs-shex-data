@@ -1,0 +1,28 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "ro",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "ro",
+        "@value": "Cod negru cu l\u0103m\u00e2ie la gr\u0103tar"
+    },
+    "recipeIngredient": {
+        "@language": "ro",
+        "@value": "Null"
+    },
+    "recipeInstructions": {
+        "@language": "ro",
+        "@value": "Null"
+    },
+    "recipeYield": {
+        "@language": "ro",
+        "@value": "\n\t\t\t\t\t\t\t           (4 por\u021bii)\n\t\t\t\t\t\t            "
+    },
+    "totalTime": {
+        "@language": "ro",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,158 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "it-IT",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "it-IT",
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@language": "it-IT",
+        "@value": "Gloria"
+    },
+    "description": {
+        "@language": "it-IT",
+        "@value": "Un sofficissimo impasto al cacao racchiude un ripieno goloso di cocco dando vita ad un plumcake buonissimo, che si scioglie in bocca e che ricorda il sapore dei famosi cioccolatini \"bounty\". Difficile resistere a una seconda fetta!"
+    },
+    "image": {
+        "@id": "http://cinnamonlover.com/wp-content/uploads/2018/07/cinnamonloverblogmail.com-32.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "it-IT",
+            "@value": "30 g gocce di cioccolato per decorare"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "PER IL RIPIENO AL COCCO"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "230 g farina \"00\""
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 cucchiaino di amido di mais"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "100 ml di panna fresca"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "4 uova + 1 tuorlo"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "80 g zucchero"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "150 g farina di cocco"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "35 g cacao amaro"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "160 g zucchero"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "2 cucchiai di rum"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "PER L'IMPASTO AL CACAO:"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "100 ml panna fresca (oppure latte intero)"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 albume"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "100 g burro morbido"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 bustina di lievito per dolci"
+        }
+    ],
+    "name": {
+        "@language": "it-IT",
+        "@value": "PLUMCAKE AL CACAO E CUORE DI COCCO"
+    },
+    "recipeCategory": {
+        "@language": "it-IT",
+        "@value": "Dolci da colazione, Merenda, Plumcakes"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "it-IT",
+            "@value": "Montare gli albumi a neve e mettere da parte."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "PER L'IMPASTO DEL PLUMCAKE: separare i tuorli dagli albumi."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Alternare le polveri alla panna (o latte) e mescolare il composto fino a quando sar\u00e0 ben amalgamato."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Montare a neve e incorporare l'albume nell'impasto al cocco; una volta pronto mettere il ripieno da parte."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Montare il burro morbido insieme allo zucchero fino a quando diverr\u00e0 bianco e spumoso. Aggiungere il rum e i tuorli d'uovo, uno alla volta."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Versare met\u00e0 dell'impasto al cacao nello stampo da plumcake (precedentemente foderato con carta forno)."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Coprire con la seconda met\u00e0 di impasto al cacao, livellare la superficie e decorare con le gocce di cioccolato."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Una volta cotto, fare raffreddare il dolce su una gratella prima di sformarlo e tagliarlo a fette."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "In ultimo, incorporare delicatamente gli albumi dal basso verso l'alto, facendo attenzione a non smontare il composto."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Distribuire il ripieno al cocco, compattandolo con un cucchiaio."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Cuocere il plumcake in forno preriscaldato a 180\u00b0C, in modalit\u00e0 statica, per 45 minuti."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Setacciare la farina e il cacao."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "PER IL RIPIENO AL COCCO: in una ciotola capiente unire la farina di cocco, lo zucchero, l'amido, la panna liquida e amalgamare il tutto con un cucchiaio."
+        }
+    ],
+    "recipeYield": {
+        "@language": "it-IT",
+        "@value": "Per uno stampo da plumcake di 25 cm"
+    },
+    "@id": "http://example.org/recipe"
+}

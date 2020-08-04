@@ -1,0 +1,95 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Donna Castellano MS, RDN"
+    },
+    "image": {
+        "@id": "http://thehangingspoon.com/wp-content/uploads/2018/04/DSC_0041-320x320.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 clove garlic"
+        },
+        {
+            "@language": "en-US",
+            "@value": "pinch pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "parsely"
+        },
+        {
+            "@language": "en-US",
+            "@value": "one bunch radishes (red or multi color) halved or quartered depending on size"
+        },
+        {
+            "@language": "en-US",
+            "@value": "extra virgin olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tbsp of fresh lemon juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "few tablespoons of water if needed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "generous pinch of coarse salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp tahini"
+        },
+        {
+            "@language": "en-US",
+            "@value": "15 oz. container of cannellini beans (rinsed and drained)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Roasted Radish and White Bean Hummus"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "If the hummus is too thick, add a tablespoon of water at a time until desired consistency is reached."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Transfer to a small bowl and garnish with parsley and drizzle of olive oil."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Roast for about 10-15 min until softened and browned and set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "On a baking sheet, toss radishes with a drizzle of olive oil."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Heat oven to 425 F."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Serve with crackers, bread, or veggies of choice."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Season to taste with salt and pepper."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Meanwhile, in food processor, add the beans, tahini, lemon juice, garlic, salt, and pepper and blend together."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

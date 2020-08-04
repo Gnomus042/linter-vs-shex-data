@@ -1,0 +1,111 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "hu",
+        "@value": "Zizi"
+    },
+    "description": {
+        "@language": "hu",
+        "@value": "A p\u00f3r\u00e9hagyma kir\u00e1lyi szintre emel\u00e9se."
+    },
+    "image": {
+        "@id": "https://www.zizikalandjai.com/wp-content/uploads/2019/02/MG_4876.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "hu",
+            "@value": "3 ev\u0151kan\u00e1l ol\u00edvaolaj"
+        },
+        {
+            "@language": "hu",
+            "@value": "200 ml sz\u00e1raz feh\u00e9rbor"
+        },
+        {
+            "@language": "hu",
+            "@value": "2 gerezd fokhagyma, megh\u00e1mozva, v\u00e9konyan felszeletelve"
+        },
+        {
+            "@language": "hu",
+            "@value": "bors"
+        },
+        {
+            "@language": "hu",
+            "@value": "8 kisebb darab p\u00f3r\u00e9hagyma (vagy 4 db nagy), z\u00f6ld r\u00e9sze lev\u00e1gva"
+        },
+        {
+            "@language": "hu",
+            "@value": "2 db bab\u00e9rlev\u00e9l"
+        },
+        {
+            "@language": "hu",
+            "@value": "1 kis csokor petrezselyem, felapr\u00edtva"
+        },
+        {
+            "@language": "hu",
+            "@value": "2 ev\u0151kan\u00e1l k\u00f3kuszzs\u00edr"
+        },
+        {
+            "@language": "hu",
+            "@value": "s\u00f3"
+        },
+        {
+            "@language": "hu",
+            "@value": "2 te\u00e1skan\u00e1l n\u00e1dcukor"
+        },
+        {
+            "@language": "hu",
+            "@value": "1 ev\u0151kan\u00e1l almaecet"
+        },
+        {
+            "@language": "hu",
+            "@value": "1 fej lilahagyma, megh\u00e1mozva, felapr\u00edtva"
+        },
+        {
+            "@language": "hu",
+            "@value": "veg\u00e1n feta sajt"
+        }
+    ],
+    "name": {
+        "@language": "hu",
+        "@value": "\u00c9des-savany\u00fa p\u00f3r\u00e9hagyma \"feta\" sajttal (lakt\u00f3zmentes, glut\u00e9nmentes, veg\u00e1n)"
+    },
+    "recipeCategory": {
+        "@language": "hu",
+        "@value": "k\u00f6ret"
+    },
+    "recipeCuisine": {
+        "@language": "hu",
+        "@value": "veg\u00e1n, glut\u00e9nmentes"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "hu",
+            "@value": "F\u0151z\u00e9s k\u00f6zben keverj\u00fck \u00e1t, hogy a p\u00f3r\u00e9k minden oldalukon megf\u0151jenek."
+        },
+        {
+            "@language": "hu",
+            "@value": "Vegy\u00fck ki a p\u00f3r\u00e9hagym\u00e1kat egy t\u00e1ny\u00e9rra, sz\u0171rj\u00fck \u00e1t a megmaradt folyad\u00e9kot \u00e9s a tiszta sz\u00f3szt tegy\u00fck egy kis l\u00e1basba. Magas h\u0151fokon f\u0151zz\u00fck addig, am\u00edg 3-4 ev\u0151kan\u00e1lnyira s\u0171s\u0171rs\u00f6dik. Z\u00e1rjuk el alatta a g\u00e1zt, ekkor adjuk hozz\u00e1 a hagym\u00e1t, az almaecetet, a cukrot, m\u00e9g \u00bc te\u00e1skan\u00e1l s\u00f3t \u00e9s feketeborsot."
+        },
+        {
+            "@language": "hu",
+            "@value": "Tegy\u00fck a p\u00f3r\u00e9 darabokat egy serpeny\u0151be, adjuk hozz\u00e1 a bab\u00e9rlevelet, fokhagym\u00e1t, bort, ol\u00edvaolajat \u00e9s kb. 250 ml vizet (p\u00f3r\u00e9k f\u00e9lig legyenek legal\u00e1bb elfedve folyad\u00e9kkal). Adjunk hozz\u00e1 1 te\u00e1skan\u00e1l s\u00f3t, feketeborsot \u00e9s k\u00f6zepes h\u0151fokon kezdj\u00fck el f\u0151zni kb. 30 percig (sz\u00farjunk egy k\u00e9st az egyik p\u00f3r\u00e9ba, hogy el\u00e9g puha-e)."
+        },
+        {
+            "@language": "hu",
+            "@value": "A p\u00f3r\u00e9hagyma z\u00f6ld v\u00e9g\u00e9t v\u00e1gjuk le, a feh\u00e9r r\u00e9sz\u00e9t pedig v\u00e1gjuk k\u00e9t vagy h\u00e1rom r\u00e9szbe (8-10cm hossz\u00fa)."
+        },
+        {
+            "@language": "hu",
+            "@value": "T\u00e1laljuk a p\u00f3r\u00e9kat a sz\u00f3sszal."
+        },
+        {
+            "@language": "hu",
+            "@value": "Egy serpeny\u0151ben hev\u00edts\u00fck fel a k\u00f3kuszzs\u00edrt \u00e9s tegy\u00fck bele a p\u00f3r\u00e9hagym\u00e1kat. Pir\u00edtsuk mindegyik oldalukkon 2-2 percig, am\u00edg aranybarn\u00e1k lesznek."
+        }
+    ],
+    "recipeYield": {
+        "@language": "hu",
+        "@value": "4 f\u0151re"
+    },
+    "@id": "http://example.org/recipe"
+}

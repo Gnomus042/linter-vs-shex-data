@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en-GB",
+            "@value": "3 tsp dried oregano\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "50ml white wine vinegar\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 tsp vegetable oil\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1/2 red peppper\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 clove garlic\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 tsp celery salt\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "7 super chilli chillies\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1/2 tsp paprika"
+        }
+    ],
+    "name": {
+        "@language": "en-GB",
+        "@value": "Chilli Sauce (Nando style)"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-GB",
+            "@value": "When cool to touch, transfer the contents of the pan to a blender and blitz! You're looking for a thick consistency."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "If you're unsure of the heat intensity then you can add a few chillies at this stage and taste.\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Chop the chillies. Keep the seeds in, you want the heat!\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Chop the garlic and red pepper and add to the pan.\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Add the chillies into the pan and cook for a further 2 minutes.\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Heat the oil in a pan.\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Add in the celery salt, oregano and paprika and cook on a gentle heat for 3 minutes.\n"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Remove from the heat and leave to cool slightly.\n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

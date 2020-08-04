@@ -1,0 +1,78 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "pt-br",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "pt-br",
+            "@value": "6"
+        },
+        "ratingValue": {
+            "@language": "pt-br",
+            "@value": "3.67"
+        },
+        "reviewCount": {
+            "@language": "pt-br",
+            "@value": "0"
+        },
+        "worstRating": {
+            "@language": "pt-br",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@language": "pt-br",
+        "@value": "Receita de Vov\u00f3"
+    },
+    "cookTime": {
+        "@language": "pt-br",
+        "@value": "PT1H"
+    },
+    "description": {
+        "@language": "pt-br",
+        "@value": "fricass\u00ea de frango delicioso e bem cremoso, experimentem essa perfeita receita fricass\u00ea de frango"
+    },
+    "image": {
+        "@id": "https://www.receitadevovo.com.br/gbau/sistema/receitas/img/fricasse-de-frango_07072017132048.jpg"
+    },
+    "keywords": {
+        "@language": "pt-br",
+        "@value": "receitas, receita, receita culin\u00e1ria"
+    },
+    "name": {
+        "@language": "pt-br",
+        "@value": "fricass\u00ea de frango"
+    },
+    "prepTime": {
+        "@language": "pt-br",
+        "@value": "50 min"
+    },
+    "recipeCategory": {
+        "@language": "pt-br",
+        "@value": "Aves"
+    },
+    "recipeCuisine": {
+        "@language": "pt-br",
+        "@value": "Brazilian"
+    },
+    "recipeIngredient": {
+        "@language": "pt-br",
+        "@value": "\n\tIngredientes Refogado:\n\t1 kg de peito de frango cozido e desfiado\n\t1 colher de azeite\n\t1 cebola ralada\n\t3 dentes de alho picados\n\t1 lata de milho verde\n\t1 lata de ervilha verde\n\t2 tomates picadinhos\n\t1 vidro de palmito picado\n\t\u00bd copo de salsinha e cebolinha picados\n\t\u00bd copo de azeitonas verdes picadas\n\t8 colheres de requeij\u00e3o cremoso\n\tsal e pimenta a gosto\n\tCreme:\n\t2 gemas\n\t2 copos de leite\n\t2 colheres de maisena\n\t1 lata de creme de leite\n\t\u00bd copo de queijo parmes\u00e3o ralado\n\tsal a gosto\n\t200 gramas de mussarela fatiada\n\n"
+    },
+    "recipeInstructions": {
+        "@language": "pt-br",
+        "@value": "\n\tPreparo do Refogado: Numa panela grande, aque\u00e7a o \u00f3leo e refogue a cebola e o alho\n\tAcrescente o frango desfiado, tomates, milho verde, a ervilha palmitos, azeitonas, sal e pimenta\n\tMisture bem\n\tPara finalizar, coloque o requeij\u00e3o e a salsinha/cebolinha\n\tMexa e reserve\n\tCreme: Dissolva a maisena em um pouco do leite\n\tColoque gemas, leite, maisena e sal em um panela\n\tMisture bem e leve ao fogo, na temperatura m\u00e9dio-alta\n\tSempre mexendo, cozinhe at\u00e9 que o creme fique bem consistente, como um mingau (cerca de 10-15 minutos)\n\t4 \u2013 Desligue o fogo, acrescente o creme de leite e misture bem\n\tReserve\n\tMontagem: Em um refrat\u00e1rio grande, coloque metade do creme e espalhe bem\n\tAdicione o frango refogado e coloque uma camada de mussarela\n\tEm seguida, cubra com a outra metade do creme\n\tPolvilhe queijo ralado e leve ao forno para que o queijo derreta, por cerca de 15 minutos (a 180/200\u00b0C)\n\tse quiser acrescente batata palha ao prato, fica deliciosoooooo Esse fricass\u00ea de frango \u00e9 delicioso e bem f\u00e1cil de fazer, experimente essa del\u00edcia de receita que pode ser consumida em qualquer ocasi\u00e3o e se delicie\n\t\u00a0\n\n"
+    },
+    "recipeYield": {
+        "@language": "pt-br",
+        "@value": "10 por\u00e7\u00f5es"
+    },
+    "video": {
+        "@language": "pt-br",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

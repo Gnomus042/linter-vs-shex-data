@@ -1,0 +1,50 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://italiasquisita.net/it/ricette/risotto-alle-rape-rosse-e-salsa-gorgonzola//it/chef/enrico-bartolini"
+    },
+    "image": {
+        "@id": "http://italiasquisita.net/it/ricette/risotto-alle-rape-rosse-e-salsa-gorgonzola//files/chunks/54c9f3cefb5ab971770060bb/photo-max_54c9f846fb5ab96dc2000694.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Risotto alle rape rosse e salsa gorgonzola"
+    },
+    "recipeIngredient": [
+        {
+            "@id": "http://italiasquisita.net/it/ricette/risotto-alle-rape-rosse-e-salsa-gorgonzola//it/ingredienti/rape-rosse"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/risotto-alle-rape-rosse-e-salsa-gorgonzola//it/ingredienti/vino-bianco"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/risotto-alle-rape-rosse-e-salsa-gorgonzola//it/ingredienti/gorgonzola-dolce"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/risotto-alle-rape-rosse-e-salsa-gorgonzola//it/ingredienti/grana"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/risotto-alle-rape-rosse-e-salsa-gorgonzola//it/ingredienti/limone"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/risotto-alle-rape-rosse-e-salsa-gorgonzola//it/ingredienti/riso-carnaroli"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/risotto-alle-rape-rosse-e-salsa-gorgonzola//it/ingredienti/brodo-vegetale"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/risotto-alle-rape-rosse-e-salsa-gorgonzola//it/ingredienti/burro"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/risotto-alle-rape-rosse-e-salsa-gorgonzola//it/ingredienti/latte"
+        },
+        {
+            "@id": "http://italiasquisita.net/it/ricette/risotto-alle-rape-rosse-e-salsa-gorgonzola//it/ingredienti/sale"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\tTostare il riso in pochissimo burro. Bagnare con vino e lasciare sfumare. Aggiungere il brodo, il sale e cuocere per circa 11 minuti. Togliere dal fuoco e mantecare con burro, grana, poi la purea molto fredda di rape rosse e se il gusto lo richiede qualche goccia di limone. Quando ben cremoso stendere nel piatto. Sopra il gorgonzola, prima fuso a bagno Maria con poco latte, poi schizzato\u00a0con l\u2019aiuto di un cucchiaio.\n\u00a0\n\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

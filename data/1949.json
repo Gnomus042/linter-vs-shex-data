@@ -1,0 +1,61 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-US",
+        "@value": "Be sure to have some of this soup on New Year's Day!"
+    },
+    "image": {
+        "@id": "http://juliaschild.com/wp-content/uploads/2015/01/lentilsoup-1024x683.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "Salt, Pepper and Garlic Powder to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 med. carrots, finely chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Tbsp. olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 bag dried lentils"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 qts of water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd c celery, finely chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 sm. onion, finely chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 cloves of garlic"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp. dried oregano"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Bay Leaf"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Lentil Soup"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "In a large soup pot add the olive oil and grate in 2 cloves of garlic and saute the onions, celery and carrots with a touch of salt, pepper, and garlic powder over medium heat. Fry until done. While that is cooking, rinse the lentil beans and set aside. Add the water to the veggies and then add the lentil beans. Cook over medium heat and add more salt, pepper and garlic powder to taste. Add in the bay leaf and the other garlic clove (whole). Continue to cook until the lentils are soft."
+    },
+    "@id": "http://example.org/recipe"
+}

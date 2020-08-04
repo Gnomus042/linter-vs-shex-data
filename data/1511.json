@@ -1,0 +1,39 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "ro",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "ro",
+        "@value": "Buzunare din aluat cu creve\u021bi la abur"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ro",
+            "@value": "\n\t\t\t\t\t\t\t108/\u200b457\n\t\t\t\t\t\t"
+        },
+        "servingSize": {
+            "@language": "ro",
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@language": "ro",
+        "@value": "Null"
+    },
+    "recipeInstructions": {
+        "@language": "ro",
+        "@value": "Null"
+    },
+    "recipeYield": {
+        "@language": "ro",
+        "@value": "\n\t\t\t\t\t\t\t           (12 buc\u0103\u021bi)\n\t\t\t\t\t\t            "
+    },
+    "totalTime": {
+        "@language": "ro",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

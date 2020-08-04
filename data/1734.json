@@ -1,0 +1,8 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@language": "it-IT",
+        "@value": "Musica \u2013 Il Volo, 10 anni di successi celebrati con un nuovo album"
+    },
+    "@id": "http://example.org/recipe"
+}

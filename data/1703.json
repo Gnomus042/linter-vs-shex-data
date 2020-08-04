@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "pt",
+        "@value": "HAPPY TOURING Official Store"
+    },
+    "brand": {
+        "@language": "pt",
+        "@value": "belallure.me"
+    },
+    "image": {
+        "@language": "pt",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1yG02oDZmx1VjSZFGq6yx2XXaV/AC-Compressor-polia-da-embreagem-Para-BMW-E46-Z4-E85-X3-E83-318i-316-320-64526908660.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "pt",
+            "@value": "32944418948"
+        },
+        {
+            "@language": "pt",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "pt",
+        "@value": "AC Compressor polia da embreagem Para BMW E46 Z4 E85 X3 E83 318i 316 320 64526908660 64526918751 64509182795 64526918750 632088762824"
+    },
+    "@id": "http://example.org/recipe"
+}

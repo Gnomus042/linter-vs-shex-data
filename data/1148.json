@@ -1,0 +1,16 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en",
+        "@value": "Csics\u00f3kakr\u00e9mleves tavasziasan recept k\u00e9pekkel. A cukorbetegek eltitkolt csodalevese. Hozz\u00e1val\u00f3k: csics\u00f3ka,medvehagyma,fokhagyma,v\u00f6r\u00f6shagyma,s\u00f3,tejf\u00f6l,szerecsendi\u00f3"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "http://haziasizek.hu/receptkepek/n-csicsokakremleves-tavasziasan.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Csics\u00f3kakr\u00e9mleves tavasziasan"
+    },
+    "@id": "http://example.org/recipe"
+}

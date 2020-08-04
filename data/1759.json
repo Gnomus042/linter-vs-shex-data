@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Mani Mukhija"
+        }
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "October 19th, 2015"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n\n                \n                Paneer Makhani (Cottage Cheese simmered in rich creamy tomato Gravy) Paneer Makhani is a well known Indian classic gravy. Cubes of cottage cheese are simmered in a creamy tomato sauce with the aromatic Kasoori methi (dried fenugreek leaves). It is ...Read more\n                \n\n\n                \n\n                \n            "
+    },
+    "image": {
+        "@id": "https://gingeritup.com/wp-content/uploads/2015/10/image11-1200x1600-1-656x400.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Paneer Makhani (Cottage Cheese simmered in rich creamy tomato Gravy)"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Main Course"
+    },
+    "@id": "http://example.org/recipe"
+}

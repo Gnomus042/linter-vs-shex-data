@@ -1,0 +1,82 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "\nReceptm\u0171hely\n"
+        },
+        "url": {
+            "@id": "https://www.receptmuhely.hu/recept/sult-paprikas-bolognai-husgombocokkal//felhasznaloi-profil/recept-muhely"
+        }
+    },
+    "dateCreated": {
+        "@value": "Null"
+    },
+    "dateModified": {
+        "@value": "Null"
+    },
+    "datePublished": {
+        "@value": "2015-09-23"
+    },
+    "description": {
+        "@value": "\nS\u00fclt paprik\u00e1s bolognai, h\u00fasgomb\u00f3cokkal   a F\u0151\u00e9telek kateg\u00f3ri\u00e1ban"
+    },
+    "image": {
+        "@id": "https://images.receptmuhely.hu/media/cache/vich_show/images/recipe/850671c1-35b9-46eb-917a-92c47f1aac8f.jpg"
+    },
+    "keywords": [
+        {
+            "@value": "H\u00fasgomb\u00f3c"
+        },
+        {
+            "@value": "H\u00fasos \u00e9telek"
+        },
+        {
+            "@value": "H\u00fasgoly\u00f3"
+        }
+    ],
+    "name": {
+        "@value": "S\u00fclt paprik\u00e1s bolognai, h\u00fasgomb\u00f3cokkal"
+    },
+    "recipeCategory": {
+        "@value": " F\u0151\u00e9telek "
+    },
+    "recipeIngredient": [
+        {
+            "@value": "piros h\u00fas\u00fa paprika 1 darab"
+        },
+        {
+            "@value": "rukkola sal\u00e1ta 5 dekagramm"
+        },
+        {
+            "@value": "olaj 2 ev\u0151kan\u00e1l"
+        },
+        {
+            "@value": "spagetti 30 dekagramm"
+        },
+        {
+            "@value": "dar\u00e1lt marhah\u00fas 30 dekagramm"
+        },
+        {
+            "@value": "Knorr Bolognai spagetti alap 1 csomag"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "A kif\u0151tt, lesz\u0171rt, forr\u00f3 t\u00e9szt\u00e1t keverj\u00fck \u00e1t kev\u00e9s ol\u00edvaolajjal \u00e9s a friss, megmosott ruccol\u00e1val. \u00cdzl\u00e9s szerint keverj\u00fck be a t\u00e9szt\u00e1t a sz\u00f3sszal vagy t\u00e1laljuk a tetej\u00e9n! \u00cdzl\u00e9s szerint sz\u00f3rjon r\u00e1 reszelt sajtot."
+        },
+        {
+            "@value": "A t\u00e9szt\u00e1t tegy\u00fck a forr\u00e1sban l\u00e9v\u0151 v\u00edzbe \u00e9s f\u0151zz\u00fck annak tasakj\u00e1n olvasott utas\u00edt\u00e1sok alapj\u00e1n. Egy t\u0171zforr\u00f3 serpeny\u0151be \u00f6nts\u00fcnk 2 ev\u0151kan\u00e1l olajat \u00e9s hirtelen er\u0151s l\u00e1ngon s\u00fcss\u00fck meg a paprikakock\u00e1kat, sz\u0171r\u0151kan\u00e1llal vegy\u00fck ki, tegy\u00fck f\u00e9lre, \u00e9s a visszamaradt zsirad\u00e9kon pir\u00edtsuk\nk\u00f6rbe a h\u00fasgomb\u00f3cokat. \u00d6nts\u00fck fel 3 dl hideg v\u00edzzel, adjuk hozz\u00e1 a Knorr alapot \u00e9s alacsony-k\u00f6zepes l\u00e1ngon, f\u00e9lig lefedve, f\u0151zz\u00fck 8 percig. Adjuk hozz\u00e1 a s\u00fclt paprikakock\u00e1kat. A Knorr alapt\u00f3l nem csak a sz\u00f3sz \u00e1llaga lesz b\u00e1rsonyos, de paradicsomos, \u00e9des-savanyk\u00e1s \u00edz\u00e9hez j\u00f3l passzol a s\u00fclt paprika \u00e9desk\u00e9s \u00edze is."
+        },
+        {
+            "@value": "Tegy\u00fck fel a t\u00e9szta f\u0151z\u0151viz\u00e9t. A dar\u00e1lt h\u00fashoz adjunk egy csapott te\u00e1skan\u00e1l Delik\u00e1tot, dolgozzuk j\u00f3l el, \u00e9s form\u00e1ljunk bel\u0151le kisebb di\u00f3 m\u00e9ret\u0171 goly\u00f3kat, kb. 25-30 db-ot. A paprik\u00e1t v\u00e1gjuk k\u00f6zepes 2\u00d72 cm-es kock\u00e1kra"
+        }
+    ],
+    "totalTime": {
+        "@value": "PT25M"
+    },
+    "yield": {
+        "@value": "3 adag"
+    },
+    "@id": "http://example.org/recipe"
+}

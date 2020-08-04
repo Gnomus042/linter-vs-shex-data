@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "http://www.foodreporter.fr/user/index/id/13576"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2011-06-22"
+    },
+    "image": {
+        "@id": "http://www.foodreporter.fr/upload/original/3/5/f/z/g/27298.jpg"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Chili con carne !!!!"
+    },
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n                        Trop forte ma cherie !!!\n                    "
+    },
+    "@id": "http://example.org/recipe"
+}

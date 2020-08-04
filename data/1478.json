@@ -1,0 +1,116 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en",
+        "@value": "Diabetic Friendly"
+    },
+    "image": {
+        "@id": "https://recipes-secure-graphics.grocerywebsite.com/0_GraphicsRecipes/6174_400.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Island Herb Roasted Chicken"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "290"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "12g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "59mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "17g"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "1g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "23g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "2g"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "627mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "6g"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "garlic, peeled"
+        },
+        {
+            "@language": "en",
+            "@value": "orange, quartered"
+        },
+        {
+            "@language": "en",
+            "@value": "orange juice"
+        },
+        {
+            "@language": "en",
+            "@value": "dried oregano"
+        },
+        {
+            "@language": "en",
+            "@value": "white onion, peeled and quartered"
+        },
+        {
+            "@language": "en",
+            "@value": "vegetable oil"
+        },
+        {
+            "@language": "en",
+            "@value": "fresh cilantro"
+        },
+        {
+            "@language": "en",
+            "@value": "whole chicken, about 4 pounds"
+        },
+        {
+            "@language": "en",
+            "@value": "salt"
+        },
+        {
+            "@language": "en",
+            "@value": "jalapeno pepper, seeded"
+        },
+        {
+            "@language": "en",
+            "@value": "red onion, peeled and chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "ground cumin"
+        },
+        {
+            "@language": "en",
+            "@value": "fresh parsley"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "In food processor or blender, place garlic cloves, red onion, jalapeno pepper, parsley, cilantro, salt, cumin, oregano, orange juice and vegetable oil. Puree thoroughly. Set marinade aside. Rinse chicken and pat dry. Gently insert fingers under skin covering the breast, thighs and drumsticks, loosening as much as possible without puncturing the skin. Place chicken in plastic oven roasting bag. Rub marinade into meat beneath the loosened skin and into body and neck cavities. Place quartered orange and quartered onion pieces inside body cavity. Pour any remaining marinade over chicken and close bag tightly. Refrigerate overnight. Remove chicken from marinade and pat dry.Roast chicken in a 375 degree F. oven for 90 minutes.  Internal temperature should reach 180 degrees when done, measured in the deepest part of the thigh, not touching the bone. "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

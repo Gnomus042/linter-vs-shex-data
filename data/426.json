@@ -1,0 +1,63 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Marion\u2019s Kitchen"
+    },
+    "description": {
+        "@value": "https://youtu.be/\u2013gwfMlktbc"
+    },
+    "image": {
+        "@id": "https://www.marionskitchen.com/wp-content/uploads/2019/05/Satay-Chicken-Noodles3-150x150.jpg"
+    },
+    "keywords": {
+        "@value": "Satay Chicken Noodles"
+    },
+    "name": {
+        "@value": "Satay Chicken Noodles"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "200 calories"
+        },
+        "fatContent": {
+            "@value": "20 grams fat"
+        }
+    },
+    "recipeCategory": {
+        "@value": "INGREDIENT"
+    },
+    "recipeCuisine": {
+        "@value": "European"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 bottle Marion\u00e2\u0080\u0099s Kitchen Thai Spicy Satay\u00c2\u00a0(go to where to buy\u00c2\u00a0to find a store)"
+        },
+        {
+            "@value": "lime wedges to serve"
+        },
+        {
+            "@value": "1 cucumber, cut into bite-sized pieces"
+        },
+        {
+            "@value": "finely sliced long red chillies, to serve (optional)"
+        },
+        {
+            "@value": "coriander and Thai basil leaves to serve"
+        },
+        {
+            "@value": "600g chicken thigh or breast fillets, cut into roughly 3cm cubes"
+        },
+        {
+            "@value": "200g dried rice vermicelli noodles"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "InstructionsSTEP 1 Preheat oven grill on high.\u00a0STEP 2 Combine the chicken with half the bottle of Thai Spicy Satay Sauce. Pour the chicken out onto a baking tray lined with foil. Spread the pieces out. Cook under the oven grill for 15-20 minutes or until cooked through.\u00a0STEP 3 In the meantime, cook the rice vermicelli in boiling water for 2 minutes or until tender.\u00c2\u00a0 Drain and rinse under running water or plunge into iced water until cool. Divide the noodles among four serving bowls.\u00a0STEP 4 To serve, top the noodles with the cucumber and the cooked chicken. Top with chillies if using, the herbs and serve with extra satay sauce to drizzle over and a lime wedge.\u00a0TIPS & TRICKS:Make this a meat-free dish by using the marinade with firm tofu and char grill it instead of the chicken."
+    },
+    "recipeYield": {
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

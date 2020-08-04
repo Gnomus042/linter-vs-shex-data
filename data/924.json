@@ -1,0 +1,55 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "143"
+        },
+        "ratingValue": {
+            "@value": "4.69"
+        },
+        "worstRating": {
+            "@value": "1"
+        }
+    },
+    "articleBody": {
+        "@value": "\nSince the resurgence of purest denim from the mid s onwards, the hunt of the G has been on the top of lists for every denim shop, and tailor shops. This old Levi's denim pant, notice the small tight \"SPI\" stitches per inch Picture credit www. Hello, have you figured out how to date these machines? Along the hem, the directional pressure will create a roping effect, and it is this \"roping\" makes the machine so special.\t\n\t\t\nHemming Machine \u2013 UNION SPECIAL 43200G\n     \t\nVintage chain stitch hemming machine from \u2014 this is the machine every denim head wants. Your answers are very precious,bye and thanks!!! Post Comments Atom."
+    },
+    "author": {
+        "@value": "admin"
+    },
+    "dateModified": {
+        "@value": "2019-04-02T05:09:50"
+    },
+    "datePublished": {
+        "@value": "2019-04-02T05:09:50+00:00"
+    },
+    "description": {
+        "@value": "\nUnion Special.    "
+    },
+    "mainEntityOfPage": {
+        "@value": "special Vintage sewing machine union"
+    },
+    "name": {
+        "@value": "special Vintage sewing machine union"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "address": {
+            "@value": "https://sumdoglogin.info"
+        },
+        "logo": {
+            "@id": "_:N69ea22a5ee704d21a898be8f4fd2ff46"
+        },
+        "name": {
+            "@value": "Adult"
+        },
+        "telephone": {
+            "@value": "Adult"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

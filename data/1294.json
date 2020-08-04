@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "13"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.8"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Jackie Ourman"
+    },
+    "image": {
+        "@id": "http://jackieourman.com/wp-content/uploads/2016/05/IMG_0678-300x300.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 recipe gluten-free focaccia or other pizza dough (enough to fill a \u00bd sheet tray)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8-10 large basil leaves, plus more for topping"
+        },
+        {
+            "@language": "en-US",
+            "@value": "kosher salt and black pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 cloves garlic, smashed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd large onion, chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 sprig oregano"
+        },
+        {
+            "@language": "en-US",
+            "@value": "28 oz can San Marzano tomatoes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "pinch red pepper flakes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 lb fresh mozzarella"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Any additional topping of choice (i.e. cooked sausage, pepperoni, vegetables)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Gluten-Free Pizza and Vitamix S-Series Personal Blender Giveaway"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Heat oven to 375 and bake dough in a sheet pan until almost cooked through, about 15 minutes. Top with sauce, cheese, additional torn basil leaves and any other toppings and bake 10-15 minutes more, until dough is cooked through and cheese is melted. Set oven to broil and cook an additional 2-3 minutes until cheese is bubbling and beginning to brown. Remove from oven, cool 5 minutes. slice and serve."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Heat butter in a large saut\u00e9 pan over medium heat. Add onion, season with salt and pepper and toss frequently, until softened and beginning to brown at edges, about 5-7 minutes. Add garlic and stir until fragrant, about 1-2 minutes. Crush tomatoes with your hands into the pan an add juice from the can along with remaining ingredients. Bring to a boil and reduce to simmering, until thickened and deep red in color, about 45 minutes. Cool and then add to Vitamix S-series or other blender. Process at high speed until smooth. Season to taste with additional salt and pepper, if needed."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

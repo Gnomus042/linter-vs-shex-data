@@ -1,0 +1,62 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "it",
+            "@value": "prezzemolo\n"
+        },
+        {
+            "@language": "it",
+            "@value": "aglio\n"
+        },
+        {
+            "@language": "it",
+            "@value": "sugo di pomodoro o conserva\n"
+        },
+        {
+            "@language": "it",
+            "@value": "burro\n"
+        },
+        {
+            "@language": "it",
+            "@value": "300 gr riso\n"
+        },
+        {
+            "@language": "it",
+            "@value": "cipolla\n"
+        },
+        {
+            "@language": "it",
+            "@value": "sale e pepe"
+        },
+        {
+            "@language": "it",
+            "@value": "sedano\n"
+        },
+        {
+            "@language": "it",
+            "@value": "carota\n"
+        },
+        {
+            "@language": "it",
+            "@value": "700 gr riso\n"
+        },
+        {
+            "@language": "it",
+            "@value": "olio\n"
+        }
+    ],
+    "name": {
+        "@language": "it",
+        "@value": "Risotto con i gamberi"
+    },
+    "recipeCategory": {
+        "@language": "it",
+        "@value": "Primi piatti"
+    },
+    "recipeInstructions": {
+        "@language": "it",
+        "@value": "\nPreparazione della ricetta \"Risotto con i gamberi\":\n\n\nFate un battuto abbondante con mezza cipolla, tre spicchi d'aglio, carota, sedano e prezzemolo e mettetelo al fuoco con olio in proporzione. \nNote: Credo che l'aglio, in questo caso, sia necessario per correggere il dolce dei gamberi. \nQuando il soffritto avr\u00ef\u00bf\u00bd preso colore buttategli dentro i gamberi e conditeli con sale e pepe. \nRivoltateli spesso e quando tutti saranno divenuti rossi, bagnateli con sugo di pomodoro o conserva e poco dopo versate tanta acqua calda che possa bastare pel riso. Lasciate bollire non tanto, perocch\u00ef\u00bf\u00bd i gamberi cuociono presto, poi levateli asciutti e una quarta parte, scegliendo i pi\u00ef\u00bf\u00bd grossi, sbucciateli e metteteli da parte. \nGli altri pestateli nel mortaio, passateli dallo staccio e la polpa passata mescolatela al brodo dove sono stati cotti.\nMettete al fuoco un pezzetto di burro in una cazzaruola e versatevi il riso nettato senza lavarlo; rimestate continuamente e quando il riso avr\u00ef\u00bf\u00bd preso il lustro del burro versate il brodo caldo a poco per volta; a pi\u00ef\u00bf\u00bd di mezza cottura uniteci i gamberi interi, gi\u00ef\u00bf\u00bd sbucciati, e prima di servirlo dategli grazia con un pugno di parmigiano."
+    },
+    "@id": "http://example.org/recipe"
+}

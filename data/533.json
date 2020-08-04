@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Holly"
+    },
+    "image": [
+        {
+            "@id": "https://i0.wp.com/www.thesemisweetsisters.com/wp-content/uploads/2014/05/IMG_0375.jpg?w=205"
+        },
+        {
+            "@id": "https://www.thesemisweetsisters.com/2014/06/03/chocolate-chip-cookie-dough-frosting-recipe/?replytocom=91/data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "3 tablespoons milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup mini chocolate chips"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup packed brown sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup soft butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2\u00bd cups powdered sugar"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Chocolate Chip Cookie Dough Frosting Recipe"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Dessert"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "in a medium size bowl add butter, sugars, flour, milk and vanilla."
+        },
+        {
+            "@language": "en-US",
+            "@value": "you can add chocolate chips in batter or sprinkle on top"
+        },
+        {
+            "@language": "en-US",
+            "@value": "mix on medium speed for 2 min. or until well blended."
+        },
+        {
+            "@language": "en-US",
+            "@value": "this makes enough for anything in a 9x13 pan"
+        },
+        {
+            "@language": "en-US",
+            "@value": "double if making for a layer cake"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

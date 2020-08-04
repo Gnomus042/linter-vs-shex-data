@@ -1,0 +1,24 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@value": "Null"
+    },
+    "image": [
+        {
+            "@id": "https://kitchenconfidante.com/wp-content/uploads/2010/06/Doughnuts-for-Dad1.jpg"
+        },
+        {
+            "@id": "https://kitchenconfidante.com/doughnuts-for-dads/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
+        }
+    ],
+    "name": {
+        "@value": "Jam or Nutella Filled Doughnuts"
+    },
+    "recipeInstructions": {
+        "@value": "InstructionsIn a bowl, combine water, yeast and 1 cup of sifted flour and allow to sit for about 4 minutes. Cover the bowl and allow the sponge to rest in a warm spot for half an hour.Meanwhile, in a mixing bowl, cream the butter and gradually add the sugar. Beat in the eggs, one at a time. Add salt, lemon rind, and the sponge. Switch the paddle to a dough hook. Gradually add the remaining 3 1/2 cups sifted flour and beat the dough for about 5 minutes or until the dough looks like a smooth ball. Allow it to rise for about an hour.Turn the dough onto a floured surface and roll it to about 1/8-inch thickness. Cut into 2 1/2-inch rounds (you will need a total of 24 rounds).On twelve of the rounds, place 1/2 a teaspoon of your desired filling in the center. Brush the edges with egg white wash, top with a dough round, and press the seams shut along the edges. Allow doughnuts to rest for about half an hour.Heat your oil to 375 degrees. Carefully place the doughnuts in the oil, gently turning with a slotted spoon. Each doughnut takes 2 to 3 minutes to cook. Drain doughnut and place on a paper towel. While hot, sprinkle with powdered sugar. Continue cooking the batch, then enjoy!"
+    },
+    "recipeYield": {
+        "@value": "Makes one dozen doughnuts."
+    },
+    "@id": "http://example.org/recipe"
+}

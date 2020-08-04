@@ -1,0 +1,58 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "pt-BR",
+        "@value": "2017-04-04 22:15:15"
+    },
+    "ingredients": [
+        {
+            "@language": "pt-BR",
+            "@value": "1 x\u00edcara (ch\u00e1) de margarina"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "5 claras em neve;"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "2 x\u00edcaras (ch\u00e1) de \u00e1gua"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "5 gemas"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "500g de goiabada cortada em peda\u00e7os"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "3 x\u00edcaras (ch\u00e1) de farinha de trigo"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Recheio"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "Null"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "5 colheres (sopa) de a\u00e7\u00facar cristal"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "3 x\u00edcaras (ch\u00e1) de a\u00e7\u00facar refinado"
+        }
+    ],
+    "name": {
+        "@language": "pt-BR",
+        "@value": "Bolo de Rolo"
+    },
+    "recipeInstructions": {
+        "@language": "pt-BR",
+        "@value": "\t\t\t\tRecheio\t\t\t\tLeve ao fogo a goiabada e a \u00e1gua mexendo sem parar com uma colher de pau. Quando a mistura estiver cremosa, desligue e reserve.\t\t\t\tBolo\t\t\t\tBata a margarina em uma batedeira at\u00e9 que ela perca sua cor amarelada. Junte o a\u00e7\u00facar aos poucos, sem parar de bater. Adicione as gemas, uma a uma. Desligue a batedeira e acrescente aos poucos a farinha, batendo levemente at\u00e9 criar uma massa homog\u00eanea. Junte as claras em neve, misturando levemente. Unte uma assadeira grande e espalhe a massa sobre ela, usando uma esp\u00e1tula para que fique bem uniforme e bem fina. Leve ao forno pr\u00e9-aquecido a 180\u00ba C por cinco minutos, sem deixar a massa dourar. Desenforme a massa sobre um pano seco. Polvilhe o a\u00e7\u00facar e espalhe o creme de goiaba. Com a ajuda do pano, enrole delicadamente como se fosse um rocambole. Repita a opera\u00e7\u00e3o, enrolando outra fornada de massa em volta do primeiro rocambole e assim sucessivamente, at\u00e9 obter o tamanho de rocambole desejado. Deixe esfriar e sirva em fatias bem finas.\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

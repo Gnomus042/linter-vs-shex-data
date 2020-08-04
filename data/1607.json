@@ -1,0 +1,96 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "By WorthHerSalt.com"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "30 min "
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2015-03-21 20:39:48"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "A soft, perfect chocolate chip cookie with toffee undertones from brown butter."
+    },
+    "image": {
+        "@id": "http://worthhersalt.com/wp-content/uploads/2015/03/chocolatechip3-744x496.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1/2 t baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 3/4 c flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 t vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 egg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/2 c chocolate chips or chunks"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 t salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 c sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "14 T butter (1 3/4 sticks)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 egg yolk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 brown sugar"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Brown Butter Chocolate Chip Cookies"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "15 min "
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tPreheat oven to 375. Heat 10 tablespoons butter in a shallow saucepan or skillet over medium heat until melted. Stir or swirl continuously until it's a deep brown color and it smells nutty, about 3-5 minutes. Pour butter into a heatproof bowl and add the remaining 4 tablespoons of butter. Stir until the butter is completely melted.\t\t\t\tAdd both sugars, salt and vanilla to the butter and whisk to incorporate. Add the egg and egg yolk and whisk until smooth. Let sit for 3 minutes, then whisk again for 30 seconds, and repeat that process of resting and whisking twice more, or until the mixture is smooth and thick.\t\t\t\tAdd the flour and baking soda and fold into the butter mixture with a spatula until the flour is just moistened, then add the chocolate chips and stir gently to incorporate. Don't overmix or your cookies will be chewy.\t\t\t\tUse your fingertips to make about 20 rough balls of dough and place 8 on each parchment-lined half sheet pan. Bake for 9-12 minutes, until golden around the edges and just set and puffy in the middle. Cool on wire racks.\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "20"
+    },
+    "@id": "http://example.org/recipe"
+}

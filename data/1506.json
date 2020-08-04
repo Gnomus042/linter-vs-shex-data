@@ -1,0 +1,110 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "fi",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "fi",
+            "@value": "53"
+        },
+        "ratingValue": {
+            "@language": "fi",
+            "@value": "3.77"
+        },
+        "worstRating": {
+            "@language": "fi",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@id": "https://www.hellapoliisi.fi/author/jamihp/"
+    },
+    "cookTime": {
+        "@language": "fi",
+        "@value": "PT40M"
+    },
+    "datePublished": {
+        "@language": "fi",
+        "@value": "2012-09-22"
+    },
+    "description": {
+        "@language": "fi",
+        "@value": "Kaalik\u00e4\u00e4ryleet ovat hieman ty\u00f6l\u00e4it\u00e4 valmistaa, mutta lopputulos palkitsee kyll\u00e4 n\u00e4hdyn vaivan. Valmista kerralla reilu m\u00e4\u00e4r\u00e4 ja pakasta loput my\u00f6hempi\u00e4 herkutteluhetki\u00e4 varten. Kaalik\u00e4\u00e4ryleet 10-12 kpl n. 2 kg valkokaalia vett\u00e4 suolaa T\u00e4yte: 3 dl vett\u00e4 1 dl puuroriisi\u00e4 \u00bd liha- tai kasvisliemikuutio 2 rkl voita tai \u00f6ljy\u00e4 400 g jauhelihaa 1 sipuli silputtuna \u00be tl suolaa [\u2026]"
+    },
+    "image": {
+        "@id": "https://www.hellapoliisi.fi/wp-content/uploads/2016/04/xkaalilkaaryleet_web_ds24378-edit_22_09_11-150x150.jpg.pagespeed.ic.krO4C3Aonb.jpg"
+    },
+    "ingredients": [
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/suola/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/paprikajauhe/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/lihaliemikuutio/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/puuroriisi/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/kuohukerma/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/tumma-siirappi/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/korppujauho/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/kasvisliemikuutio/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/voi/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/vesi/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/meirami/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/ruokakerma/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/sipuli/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/valkokaali/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/oljy/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/jauheliha/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/mustapippurirouhe/"
+        }
+    ],
+    "name": {
+        "@language": "fi",
+        "@value": "Kaalik\u00e4\u00e4ryleet"
+    },
+    "prepTime": {
+        "@language": "fi",
+        "@value": "PT04H00M"
+    },
+    "recipeInstructions": {
+        "@language": "fi",
+        "@value": "Null"
+    },
+    "recipeYield": {
+        "@language": "fi",
+        "@value": "10-12"
+    },
+    "@id": "http://example.org/recipe"
+}

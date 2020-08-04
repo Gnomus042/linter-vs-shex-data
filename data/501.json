@@ -1,0 +1,46 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "fr",
+        "@value": "//recette.supertoinette.com/152172/m/polenta-doree-aux-olives-et-tomates-sechees.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr",
+            "@value": "\n                                            20 g\n                                                    de beurre\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            150 g\n                                                    de polenta pr\u00e9cuite\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            50 g\n                                                    de tomates s\u00e9ch\u00e9es\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            30 g\n                                                    de parmesan r\u00e2p\u00e9\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            30 g\n                                                    d'olives noires d\u00e9noyaut\u00e9es\n                                                            "
+        }
+    ],
+    "name": {
+        "@language": "fr",
+        "@value": "Polenta dor\u00e9e aux olives et tomates s\u00e9ch\u00e9es"
+    },
+    "recipeYield": {
+        "@language": "fr",
+        "@value": "6 personnes"
+    },
+    "totalTime": {
+        "@language": "fr",
+        "@value": "20 min"
+    },
+    "url": {
+        "@language": "fr",
+        "@value": "https://www.supertoinette.com/recette/4843/polenta-doree-aux-olives-et-tomates-sechees.html"
+    },
+    "@id": "http://example.org/recipe"
+}

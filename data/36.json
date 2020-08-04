@@ -1,0 +1,163 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "1"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "1 hour"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "3 jalape\u00f1o chile peppers: stemmed, seeded and cut into pieces\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 scallions , white and light green parts sliced thin\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Serve with\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "dollop of sour cream"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/2 teaspoons ground coriander\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup minced fresh cilantro leaves\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 poblano chile peppers: stemmed, seeded, and cut into large pieces\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "shredded cheese\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Finish with (if desired)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tablespoons fresh lime juice (from 2 to 3 limes)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp white pepper\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon ground cumin\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 medium onions , papery skin off and cut into large pieces (about 2 cups)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6 cups chicken stock\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 tsp ground cloves\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 Anaheim chile peppers: stemmed, seeded, and cut into large pieces (if hard to find use extra jalapeno and poblano)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6 medium cloves garlic, peeled\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 cups roasted chicken, bones and skin removed and shredded\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "tortilla chips\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 (14.5-ounce) cans cannellini or great northern beans , drained and rinsed\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Null"
+        },
+        {
+            "@language": "en-US",
+            "@value": "(I roast my own whole chicken or bone in chicken breasts but in a pinch use a store bought rotisserie chicken)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 TBSP olive oil\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "White Lightning Chicken Chili"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "1 hour"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Reduce heat to a simmer and cook for about an hour.  This gives a chance for all the flavors to develop.  Feel free to add a few dashes of hot sauce if you want it spicier.  Salt to taste.  The chili will get thicker and the flavors will intensify as it simmers.  For even thicker chili feel free to take more of the chili from the dutch oven, puree it in the food processor and add it back.  About ten minutes before it's time to eat add the shredded cooked chicken.  (If you add the chicken too soon it will get overcooked and tough).  Once off heat finish with fresh cilantro, lime juice and scallions if desired.  Enjoy!!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Each box of chicken stock is 4 cups.  Add six cups or 1.5 boxes\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "When added back to the dutch oven this puree will add extra flavor, depth and texture to the chili.  It will also help thicken it.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Rinse and drain 3 cans of white beans.  Add to chili.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pulse 10-15 times until minced.  (Don't  wash the food processor bowl and blade yet.  We will use it again in a few minutes.)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Put the poblano, anaheim and jalapeno chili peppers, onions and garlic into the Cuisinart.  The chili peppers should be stemmed, seeded and cut into large pieces.  Onions should be skinned and cut into large pieces.  Crush the head of garlic into six individual cloves of peeled garlic.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Now here is a trick to make scrumptious chili and soups.  Transfer one half of the chili mixture back to the now empty food processor bowl.  Process until smooth, about 20 seconds.  Add back into the chili.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add 2 TBSP olive oil to Dutch oven over medium heat. Add the minced chile-onion garlic mixture from the food processor bowl along with the spices (cumin, coriander, ground cloves and white pepper).  Salt to taste.  Cover and cook, stirring occasionally, until vegetables soften, about 10 minutes. Remove pot from heat.\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "10-12 servings"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "2 hours"
+    },
+    "@id": "http://example.org/recipe"
+}

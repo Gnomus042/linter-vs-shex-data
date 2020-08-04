@@ -1,0 +1,86 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "description": {
+            "@value": "\n        We are the team behind Snapguide. Feel free to message us if you have any questions or see something that could be improved! \n      "
+        },
+        "homeLocation": {
+            "@id": "_:N869eea92c5c24483899f4cb2ef665cbe"
+        },
+        "image": {
+            "@id": "http://images.snapguide.com/guides/make-chai-infused-tea-cakes///d1alt1wkdk73qo.cloudfront.net/images/profile/723d19e1e9334896a2d7c23baeadcea3/100x100_ac.jpg"
+        },
+        "name": {
+            "@value": "\n        \n          Snapguide Team\n        \n      "
+        },
+        "url": {
+            "@id": "http://production-ssl-195224908.us-west-1.elb.amazonaws.com/snapguide-team/"
+        }
+    },
+    "description": {
+        "@value": "This guide is in partnership with Hallmark."
+    },
+    "image": [
+        {
+            "@id": "http://d1alt1wkdk73qo.cloudfront.net/images/guide/7e40066ede85cf5a13392839a70ccc6f/640x478_ac.jpg"
+        },
+        {
+            "@value": "http://d1alt1wkdk73qo.cloudfront.net/images/guide/7e40066ede85cf5a13392839a70ccc6f/640x478_ac.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "@value": "\n                  1 \n                  Teaspoon                     Vanilla\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  1 \n                  Cup                     Milk\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  2 \n                  Cups                     White Sugar\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  2 \n                  Tablespoons                     Vanilla\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  1 \n                  Cup                     Butter\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  2\u00be\n                   \n                  Cups                     Flour\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  5 \n                  Cups                     Powdered Sugar\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  5 \n                  Tablespoons                     Cream\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  \u00bc\n                   \n                  Teaspoons                     Salt\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  2\u00bc\n                   \n                  Teaspoons                     Baking Powder\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  2 \n                  Teaspoons                     Chai Tea\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  4 \n                                      Eggs\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  1 \n                  Cup                     Unsalted Butter\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                  \u00be\n                   \n                  Teaspoons                     Salt\u00a0\n                  \n                "
+        }
+    ],
+    "interactionCount": {
+        "@value": "UserLikes:354"
+    },
+    "name": {
+        "@value": "How to Make Chai-Infused Tea Cakes"
+    },
+    "recipeInstructions": {
+        "@value": "1. To celebrate Mother's Day, We teamed up with Hallmark Gold Crown to style out a sweet scene complete with, you guessed it, the perfect card for every mother you want to appreciate this Mother\u2019s Day.  2. As the old adage goes, the way to any woman\u2019s heart is through her stomach. So, let\u2019s start with tea cakes! We created these sweet lil darlings by making tea-infused milk for the batter. Yum. 3. Gather your ingredients. Preheat oven to 350 degrees. Prepare one 13 inch x 9 inch glass baking dish with butter and flour.  4. Bring milk to an almost boil over medium heat and add in 2 teaspoons tea. Reduce heat and let simmer for 10 minutes. Then, remove from heat and let steep for 10-15 minutes. 5. Mix together all of your dry ingredients in the bowl of a stand mixer. Use the paddle attachment to mix on low.  6. Then add in butter, vanilla and tea-infused milk and beat on low until dry ingredients are fully moistened. 7. Turn the mixer to medium and add in your eggs, whisked, in two batches. Be sure not to over mix! 8. Pour your batter in one cake pan and bake for 60 minutes. Once they're done, use a cup as a cake cutter to create little dome-like circular cakes. 9. Now, onto the frosting! You'll need 1 cup butter, 5 cups of powdered sugar, 1 tsp of vanilla, 5 Tbsp of cream and 1/4 tsp of salt. 10. Mix all ingredients together in a stand mixer on low to medium. Add more powdered sugar if necessary based on the consistency you like.  11. Combine the two cake layers by putting frosting in the middle, then frost the outside of the whole thing.   12. For a little extra delight, top your cake with flowers! Even better if you choose some edible flowers.  13. For more great tips for throwing a tea party for all the moms in your life, click here: http://go.brit.co/1NSKYIq"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,15 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.saborosaviagem.com.br/wp-content/uploads/gorgon-150x150.jpg"
+    },
+    "name": {
+        "@language": "pt-BR",
+        "@value": "Fusilli com gorgonzola e nozes"
+    },
+    "recipeInstructions": {
+        "@language": "pt-BR",
+        "@value": "\n\t\t\t\t\tComo Fazer\n\t\t\t\t\t\nEm uma panela, junte o leite e o gorgonzola em peda\u00e7os.\nLeve ao fogo baixo, mexendo sempre, at\u00e9 o queijo come\u00e7ar a derreter.\nAcrescente o alho picadinho, o sal, a pimenta do reino e a noz moscada.\nContinue misturando at\u00e9 que o creme comece a engrossar.\nAdicione o creme de leite, misture e desligue. Reserve.\n\u00c0 parte, em uma frigideira aque\u00e7a as nozes pec\u00e3s para que fiquem bem crocantes. Reserve.\nCozinhe a massa em bastante \u00e1gua com sal at\u00e9 que fique al dente.\nEscorra a massa e junte ao molho aquecido, misturando bem.\nPolvilhe com as nozes crocantes picadas e regue com um fio de azeite de oliva.\n\n\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

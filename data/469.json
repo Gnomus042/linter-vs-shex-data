@@ -1,0 +1,43 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ru",
+            "@value": "100"
+        },
+        "ratingCount": {
+            "@language": "ru",
+            "@value": "Null"
+        },
+        "ratingValue": {
+            "@language": "ru",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "ru",
+        "@value": "\u041f\u043e\u0441\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0411\u0435\u043b\u044c\u0435"
+    },
+    "description": {
+        "@language": "ru",
+        "@value": "\u0422\u0438\u043f \u0442\u043a\u0430\u043d\u0438 \u0431\u044f\u0437\u044c\u0421\u043e\u0441\u0442\u0430\u0432 \u0445\u043b\u043e\u043f\u043e\u043a 100 \u041f\u043e\u0434\u043e\u0434\u0435\u044f\u043b\u044c\u043d\u0438\u043a 175\u0445210\u0441\u043c\u041f\u0440\u043e\u0441\u0442\u044b\u043d\u044f 180\u0445214\u0441\u043c\u041d\u0430\u0432\u043e\u043b\u043e\u0447\u043a\u0438 2\u0448\u0442, 50\u044570\u0441\u043c"
+    },
+    "image": {
+        "@language": "ru",
+        "@value": "http://in.vipagames.pl/wp-content/11284.jpg"
+    },
+    "ingredients": {
+        "@language": "ru",
+        "@value": "273711284"
+    },
+    "keywords": {
+        "@language": "ru",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "ru",
+        "@value": "\u041f\u043e\u0441\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0411\u0435\u043b\u044c\u0435 2\u0421\u043f Egoist White Collection \u0411\u044f\u0437\u044c 3D 2 \u041d\u0430\u0432.50\u042570\u0421\u043c, \u0410\u0440\u0442.w\u04412\u0421\u043f5\u04257-4585"
+    },
+    "@id": "http://example.org/recipe"
+}

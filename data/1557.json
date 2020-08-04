@@ -1,0 +1,162 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Betty Crocker Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "04/20/2004"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "12/06/2009"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Accent tender tilapia with with a pretty mayonnaise dressing made with jarred roasted bell peppers, cumin, and garlic."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/9e4eb4ad-d472-41b2-82c7-bfb7a6061cf4.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "fish fillets with roasted red pepper mayonnaise"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Fish Fillets with Roasted Red Pepper Mayonnaise"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "285 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "5 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "110 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "2 1/2 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "0 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "32 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "4 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1/4 of Recipe "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "490 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "4 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H30M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Entree"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup light mayonnaise\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup chopped roasted red bell peppers (from a jar)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon pepper\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1 1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    to 2 lb. tilapia fillets\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoon butter\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon salt\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon cumin\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    garlic clove, minced\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon paprika\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N8cc7562fd86b47118dd4b4655faa4b6d"
+        },
+        {
+            "@id": "_:N141b8d1f93cd4d2fa8fdc02d7436904c"
+        },
+        {
+            "@id": "_:N3a75c21df4a44b32b27b56c94dbd0b56"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT0H0M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,66 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "8"
+        },
+        "ratingValue": {
+            "@value": "2.4"
+        }
+    },
+    "author": {
+        "@value": "Alletiders Kogebog"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2004-03-28"
+    },
+    "keywords": {
+        "@value": "Ymerfromage 03, Opskrift, Alletiders, Kogebog"
+    },
+    "name": {
+        "@value": " Ymerfromage 03 "
+    },
+    "recipeCategory": {
+        "@value": "Kold Dessert"
+    },
+    "recipeCuisine": {
+        "@value": "Ukendt oprindelsesland"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "25-50 g. smuttede mandler"
+        },
+        {
+            "@value": "5 dl. ymer"
+        },
+        {
+            "@value": "Null"
+        },
+        {
+            "@value": "1  vanillestang"
+        },
+        {
+            "@value": "3 blade husblas"
+        },
+        {
+            "@value": "2.5 dl. piskefl\u00f8de"
+        },
+        {
+            "@value": "  smag til med sukker"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "Pisk 2 1/2 dl piskefl\u00f8de til skum og bland med 1/2 ymer.\nSmag til med sukker og tils\u00e6t vanille. \n\nR\u00f8r 3 blade udbl\u00f8dt smeltet h\u00e5ndvarmt husblas i.\nTils\u00e6t de smuttede hk. mandler. \n\nH\u00e6ld jordb\u00e6rkompot eller hvad du nu v\u00e6lger i en k\u00e5l, h\u00e6ld desserten over og s\u00e6t den koldt, for at stivne.\n Tips:Fl\u00f8deskum serveres til, eller jordb\u00e6rsovs."
+    },
+    "recipeYield": {
+        "@value": "4\u00a0"
+    },
+    "url": {
+        "item": {
+            "@id": "_:N774f9f71c2594ab3bb4939b0dcf2d33a"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

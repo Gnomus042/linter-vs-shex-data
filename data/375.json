@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "de-DE",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "de-DE",
+            "@value": "2 "
+        }
+    },
+    "author": {
+        "@language": "de-DE",
+        "@value": "Sean Moxie"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2019-09-05"
+    },
+    "description": {
+        "@language": "de-DE",
+        "@value": "Ein ganz ganz k\u00f6stlicher, knuspriger, fruchtiger Snack: Kr\u00e4uterseitlinge in krosser Cornflakespanade an Brombeer-Vogelbeer-Kochbirnen-Chutney.\nVogelbeeren haben viele Menschen noch nie gegessen und ihr leicht bitterer Geschmack schmeckt nicht allen. Ich finde ihn, in Kombination mit s\u00fc\u00df-sauren Brombeeren und Kochbirnen, jedoch sehr k\u00f6stlich zu herzhaften Speisen."
+    },
+    "image": {
+        "@id": "https://www.dailyvegan.de/wp-content/uploads/2019/09/panierte_kraeuterseitlinge_brombeer_vogelbeer_chutney-schema.jpg"
+    },
+    "name": {
+        "@language": "de-DE",
+        "@value": "Panierte Kr\u00e4uterseitlinge an Brombeer-Vogelbeer-Kochbirnen-Chutney"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "de-DE",
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@language": "de-DE",
+        "@value": "4 Kr\u00e4uterseitlinge, Etwas Mehl, 4 geh. EL Kichererbsenmehl, 150 ml Wasser, 1 TL Salz, 1/4 TL Pfeffer, 1/2 TL Zwiebelpulver, 1/4 TL Paprikapulver, 100 g Cornflakes, \u00d6l,  200 g Brombeeren, 80 g Vogelbeeren, 2 kleine Kochbirnen, 1 Apfel, 50 ml Apfelessig, 100 g Zucker, 1 TL Abrieb einer gr\u00fcnen Walnussschale, 1/2 TL Zimt, 1/4 TL Muskat, 1/4 TL Kardamom"
+    },
+    "@id": "http://example.org/recipe"
+}

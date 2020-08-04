@@ -1,0 +1,104 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "http://allerezepte.v22015012394022726.yourvserver.net/rezept/weihnachtlicher-rotkohl-1000134//mitglieder/3/Olaf"
+        }
+    },
+    "description": {
+        "@language": "de",
+        "@value": "Deutschlands beliebteste Beilage zu Gans oder Ente         "
+    },
+    "image": {
+        "@id": "http://allerezepte.v22015012394022726.yourvserver.net/rezept/weihnachtlicher-rotkohl-1000134//upload/_rezept/bilder330x248/rezept-1000134.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "de",
+            "@value": "Sternanis"
+        },
+        {
+            "@language": "de",
+            "@value": "Preiselbeerkonfit\u00fcre oder Holundergelee"
+        },
+        {
+            "@language": "de",
+            "@value": "Zimt"
+        },
+        {
+            "@language": "de",
+            "@value": "gro\u00dfe rote Zwiebel"
+        },
+        {
+            "@language": "de",
+            "@value": "Rotkohl"
+        },
+        {
+            "@language": "de",
+            "@value": "Basamicoessig"
+        },
+        {
+            "@language": "de",
+            "@value": "Wasser nach Bedarf"
+        },
+        {
+            "@language": "de",
+            "@value": "gro\u00dfer, s\u00e4uerlicher Apfel, z.B. Boskoop"
+        },
+        {
+            "@language": "de",
+            "@value": "brauner Zucker"
+        },
+        {
+            "@language": "de",
+            "@value": "G\u00e4nseschmalz ohne Grieben"
+        },
+        {
+            "@language": "de",
+            "@value": "Bouillon"
+        },
+        {
+            "@language": "de",
+            "@value": "Gew\u00fcrznelken"
+        },
+        {
+            "@language": "de",
+            "@value": "Rotwein"
+        },
+        {
+            "@language": "de",
+            "@value": "Korianderk\u00f6rner"
+        }
+    ],
+    "name": {
+        "@language": "de",
+        "@value": " Weihnachtlicher Rotkohl "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "de",
+            "@value": "185"
+        }
+    },
+    "recipeCategory": {
+        "@id": "http://allerezepte.v22015012394022726.yourvserver.net/rezept/weihnachtlicher-rotkohl-1000134//rezepte/art/Beilage"
+    },
+    "recipeInstructions": {
+        "@language": "de",
+        "@value": "\n            Zwiebeln kleinschneiden und mit dem Schmalz in einem Topf bei niedriger bis mittlerer Hitze glasig d\u00fcnsten, mit Zucker bestreuen und langsam unter h\u00e4ufigem Wenden zart karamellisieren. \u00c4u\u00dfere Bl\u00e4tter des Rotkohls entfernen. Den Kohl waschen, vierteln, vom Strunk befreien und quer in feine Streifen schneiden oder raspeln. Gew\u00fcrze in einem M\u00f6rser zu Pulver zersto\u00dfen und in einer gro\u00dfen Sch\u00fcssel mit dem Balsamico anr\u00fchren. Rotkohl hinzugeben, etwas salzen und alles gut vermengen.Rotkohl mit der Marinade zu den Zwiebeln geben. Apfel sch\u00e4len, grob raspeln, mit Konfit\u00fcre bzw. Gelee zum Kohl geben, gr\u00fcndlich unterheben. 5 Min kr\u00e4ftig k\u00f6cheln lassen. Rotwein angie\u00dfen, kurz einkochen lassen, Bouillon dazugeben. Bei niedriger Hitze mindestens 4 Stunden zugedeckt garen, hin und wieder umr\u00fchren. Mehrmals etwas Wasser dazugeben.Mit Salz und Pfeffer abschmecken.Variation: Balsamico durch 150 ml Portwein ersetzen und/oder gesch\u00e4lte Maronen mitschmoren lassen.  \n        "
+    },
+    "reviews": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "de",
+            "@value": "32"
+        },
+        "ratingValue": {
+            "@language": "de",
+            "@value": "2.8125"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

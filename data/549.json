@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "dateCreated": {
+        "@value": "Null"
+    },
+    "datePublished": {
+        "@value": "2015-09-23"
+    },
+    "keywords": [
+        {
+            "@value": "H\u00fasos \u00e9telek"
+        },
+        {
+            "@value": "Libas\u00fclt"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@value": "kukoricadara 200 gramm"
+        },
+        {
+            "@value": "liszt 1 ev\u0151kan\u00e1l"
+        },
+        {
+            "@value": "toj\u00e1sfeh\u00e9rje 1 darab"
+        },
+        {
+            "@value": "v\u00edz 2 liter"
+        },
+        {
+            "@value": "liba 1 darab"
+        },
+        {
+            "@value": "v\u00f6r\u00f6shagyma 1 darab"
+        },
+        {
+            "@value": "Knorr Z\u00f6lds\u00e9gleveskocka 2 darab"
+        },
+        {
+            "@value": "petrezselyemz\u00f6ld 1 csokor"
+        },
+        {
+            "@value": "Knorr Sz\u00e1rnyas F\u0171szervar\u00e1zs 1 csomag"
+        },
+        {
+            "@value": "p\u00f3r\u00e9hagyma 1 darab"
+        },
+        {
+            "@value": "kapor 1 csokor"
+        },
+        {
+            "@value": "Rama Vajas \u00cdz 1 te\u00e1skan\u00e1l"
+        },
+        {
+            "@value": "feh\u00e9rr\u00e9pa 1 darab"
+        },
+        {
+            "@value": "sz\u00e1r\u00edtott gomba 20 gramm"
+        },
+        {
+            "@value": "s\u00e1rgar\u00e9pa 1 darab"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

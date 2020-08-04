@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "8,3"
+        },
+        "reviewCount": {
+            "@value": "3"
+        }
+    },
+    "author": {
+        "@value": "Marco"
+    },
+    "description": {},
+    "ingredients": [
+        {
+            "@value": "1 medium ui, gehakt\n"
+        },
+        {
+            "@value": "2 dl droge witte wijn\n"
+        },
+        {
+            "@value": "4 gesneden champignons\n"
+        },
+        {
+            "@value": "2 el tomatenpuree\n"
+        },
+        {
+            "@value": "1 kleine wortel, gehakt\n"
+        },
+        {
+            "@value": "1 liter licht gezoute bouillon\n"
+        },
+        {
+            "@value": "3 el bloem\n"
+        },
+        {
+            "@value": "\t            \n      \t\t  4 el boter\n3 el bloem\n2 dl droge witte wijn\n1 liter licht gezoute bouillon\n2 el tomatenpuree\n4 gesneden champignons\n1 dl madeira\n1 kleine wortel, gehakt\n1 medium ui, gehakt\n2 peterseliestengels, gehakt\n1 tijmtakje, gehakt\n1/2 laurierblaadje\n              "
+        },
+        {
+            "@value": "1 dl madeira\n"
+        },
+        {
+            "@value": "2 peterseliestengels, gehakt\n"
+        },
+        {
+            "@value": "1 tijmtakje, gehakt\n"
+        },
+        {
+            "@value": "1/2 laurierblaadje"
+        },
+        {
+            "@value": "4 el boter\n"
+        }
+    ],
+    "name": {
+        "@value": "MADEIRASAUS"
+    },
+    "published": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2001-01-22"
+    },
+    "review": [
+        {
+            "@id": "_:Nc3c69ebaa882456c9967adfa2f18c091"
+        },
+        {
+            "@id": "_:N4a3c6dc7e56f41429d600a3133ea953e"
+        },
+        {
+            "@id": "_:Nc6d9b3eea16e4641b2e30f5840296e20"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

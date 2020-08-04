@@ -1,0 +1,91 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "it-IT",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "it-IT",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "it-IT",
+            "@value": "8"
+        },
+        "worstRating": {
+            "@language": "it-IT",
+            "@value": "0.5"
+        }
+    },
+    "description": {
+        "@language": "it-IT",
+        "@value": "1.Pulire, lavare e affettare i funghi.\n2.Disporli in una teglia precedentemente unta con un cucchiaio di olio e vino bianco;\n3.In una ciotola mischiare prezzemolo, acciughe tritate, sale, pepe e olio.\n4.Versare il composto sui funghi e spolverare con pane grattato.\n5.Passare la pirofila nel forno (modalit\u00e0 grill) per 7-8 minuti fino a farle dorare.\n\n"
+    },
+    "image": {
+        "@id": "https://danacol.s3.amazonaws.com/gratin-maremonti.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "it-IT",
+            "@value": "pepe q.b."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "2 cucchiai di olio EVO"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "4 filetti di acciughe sott'olio"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "50 g di prezzemolo"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "400 g di Funghi Champignon"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "80 g di pan grattato"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "sale q.b."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1/2 bicchiere di vino bianco"
+        }
+    ],
+    "name": {
+        "@language": "it-IT",
+        "@value": "Gratin di mare e monti"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "it-IT",
+            "@value": "174 kcal"
+        },
+        "cholesterolContent": {
+            "@language": "it-IT",
+            "@value": "14 mg"
+        },
+        "fatContent": {
+            "@language": "it-IT",
+            "@value": "8 g"
+        },
+        "proteinContent": {
+            "@language": "it-IT",
+            "@value": "9 g"
+        },
+        "servingSize": {
+            "@language": "it-IT",
+            "@value": "per porzione"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

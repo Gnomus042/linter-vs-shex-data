@@ -1,0 +1,18 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "pl-PL",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUwielbiam imbir.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t Rozgrzewa, leczy i\u00a0zawsze poprawia mi humor.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "name": {
+        "@language": "pl-PL",
+        "@value": "Potr\u00f3jnie imbirowe pierniczki"
+    },
+    "recipeCategory": {
+        "@id": "http://www.jadlonomia.com/rodzaj_dania/ciasta-i-desery/"
+    },
+    "url": {
+        "@id": "http://www.jadlonomia.com/przepisy/potrojnie-imbirowe-pierniczki/"
+    },
+    "@id": "http://example.org/recipe"
+}

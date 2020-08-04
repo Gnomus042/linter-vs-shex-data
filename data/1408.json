@@ -1,0 +1,79 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Thasneen"
+    },
+    "image": {
+        "@id": "http://www.thasneen.com/cooking/wp-content/uploads/2013/01/pesto-couscous.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "Pesto- 3 tbsp"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cherry tomatoes- 8, chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Couscous, cooked- 2 cups"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spinach, chopped- 1\u00bd cups"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Red pepper, diced- 1"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Olive oil- 1 tbsp"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Pesto Couscous"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Main"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Mediterranean"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Place a non-stick pan over medium heat, add olive oil."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add cherry tomatoes and stir fry till it's slightly mashed up."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add spinach and red pepper, stir fry for a few minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add the cooked couscous, combine well and saute for a minute."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add pesto and saute till aromatic for a couple of minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Serve warm as a side dish or as a main dish."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "3"
+    },
+    "@id": "http://example.org/recipe"
+}

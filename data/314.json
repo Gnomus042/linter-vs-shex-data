@@ -1,0 +1,126 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Reena Vyas"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Raw mango pickle is most common Indian pickle recipe in Gujarati family. I have come up with this never-failing recipe with very important points and tips which will help you to get best result during even your first attempt."
+    },
+    "image": {
+        "@id": "https://veggiefoodrecipes.com/wp-content/uploads/2019/05/Raw-Mango-Pickle-Foolproof-Recipe-of-Raw-Mango-Pickle-03-600x900.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "around 750 ml oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp red chili powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 kg raw mango"
+        },
+        {
+            "@language": "en-US",
+            "@value": "375 gm fenugreek seeds splits in lentil form (Methi kuriya)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp fennel or fennel powder (optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp turmeric powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "more 1 cup oil for preserving"
+        },
+        {
+            "@language": "en-US",
+            "@value": "250 gm yellow mustard seeds splits in lentil form (rai kuriya)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3-4 tbsp red chili powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "For Tempering:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp asafoerida (Hing)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "\r Raw Mango Pickle | Foolproof Recipe of Raw Mango Pickle\r "
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Pickle"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Indian"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Start making pickle with tempering."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Once the pickle masala mix cool down complete then add salt. The amount of salt is used to preserve the pickle. So add at least 1 cup salt."
+        },
+        {
+            "@language": "en-US",
+            "@value": "First in deep bowl, spread mustard seeds. Then make layer of fenugreek seeds. Make sure, you will cover mustard seeds with fenugreek seeds."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Then start cutting raw mango into some cubes. And wash them all."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In middle, make small hole, in that add red chili powder, turmeric powder and asafoerida, again cover the spices with some fenugreek seeds. Make sure spices are covered with fenugreek around them."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pure half of the oil (not all of it) into spices mix, and immediately cover with lid. Make sure bubble is generated and you will get good aroma of it. let it cool other half of the oil for further use."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Now heat the 750 ml liter oil in another pan, sure oil is heated at perfect temperature. To check it, add pinch of seeds into oil, it they lift up immediately into oil, then oil is perfectly heated."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Now mix the mango and store pickle into glass jar. At very next day, whatever the oil we have left after that tempering, pure it into jar. Let it rest for 2-3 days, and your mango pickle is ready to eat."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add red chili powder according to your taste of spiciness. I have added 2-3 tbsp more. Finally add some fennel seeds."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

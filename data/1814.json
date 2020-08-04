@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "dateModified": {
+        "@language": "pl",
+        "@value": "2016-10-25"
+    },
+    "datePublished": {
+        "@language": "pl",
+        "@value": "2016-10-25"
+    },
+    "image": [
+        {
+            "@language": "pl",
+            "@value": "http://wielkiezarcie.com/file/12415653627912933486g.jpeg"
+        },
+        {
+            "@language": "pl",
+            "@value": "Null"
+        }
+    ],
+    "ingredients": {
+        "@language": "pl",
+        "@value": "\n\t\t\t\n\t\n\t\t\n\u015bled\u017a 5 sztuk\ncebula 3 sztuki\n\nkeczup 3 \u0142y\u017cki\njab\u0142ko 1 sztuka\nmusztarda rosyjska 1 \u0142y\u017cka\n\u015bmietana 30 % 2 \u0142y\u017cki\ncukier 1 szczypta\u00a0\ncytryna sok 1 \u0142y\u017cka\nsol 1 szczypta\u00a0\nolej\n\n\t\n\n\t\t"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "pl",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "pl",
+            "@value": "2"
+        }
+    },
+    "name": {
+        "@language": "pl",
+        "@value": "\u015aledzie z jab\u0142kami i keczupem "
+    },
+    "prepTime": {
+        "@language": "pl",
+        "@value": "Null"
+    },
+    "recipeInstructions": {
+        "@language": "pl",
+        "@value": "\n\t\t\t\n\t\n\t\t\n1. \u015aledzie moczy\u0107 oko\u0142o p\u00f3\u0142torej godziny. Jedn\u0105 cebul\u0119 \u00a0pokroi\u0107 w pi\u00f3rka. Przela\u0107 gor\u0105c\u0105 wod\u0105 na sitku.\u00a0\n2. \u015aledzie i cebul\u0119 w\u0142o\u017cy\u0107 do \u00a0naczynia szklanego, zala\u0107 olejem. przykry\u0107, wstawi\u0107 do lod\u00f3wki na 24 godziny.\u00a0\n3. Pokroi\u0107 reszt\u0119 cebuli w pi\u00f3rka, zeszkli\u0107 na \u0142y\u017cce oleju. Doda\u0107 keczup, dusi\u0107 razem oko\u0142o 10 minut, mieszaj\u0105c.Wystudzi\u0107.\n4. Jab\u0142ko zetrze\u0107 na tarce jarzynowej, skropi\u0107 sokiem cytrynowym. Doda\u0107 \u015bmietan\u0119, musztard\u0119, doprawi\u0107 sol\u0105 i pieprzem. Wymiesza\u0107.\n\u00a0 \u00a0Przed podaniem wyj\u0105\u0107 \u015bledzie, osuszy\u0107 z nadmiaru \u00a0oleju. U\u0142o\u017cy\u0107 na talerzu \u015bledzie, z jednej strony jab\u0142ka a z drugiej cebul\u0119. SMACZNEGO!!!!!\n\nvar bbkeywords=\"\";\n\n\n\t\n\n\t\t"
+    },
+    "recipeYield": {
+        "@language": "pl",
+        "@value": "3\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tporcje\n\t\t\t\t\t\t\n\t\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,120 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "pl",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "pl",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "pl",
+            "@value": "16"
+        },
+        "worstRating": {
+            "@language": "pl",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@id": "https://www.winiary.pl/przepis.aspx/139673/soczysty-kurczak-z-papryka-i-ziolami//szukaj.aspx/przepisy?sort=5&from=winiary"
+    },
+    "cookTime": {
+        "@language": "pl",
+        "@value": "1 godz. "
+    },
+    "description": {
+        "@language": "pl",
+        "@value": "\nZ WINIARY POMYS\u0141 NA\u2026 soczystego kurczaka z\u00a0papryk\u0105 i\u00a0zio\u0142ami podasz bliskim smakowite i\u00a0syc\u0105ce danie. Mi\u0119so upiecz w\u00a0woreczku z\u00a0unikaln\u0105 mieszank\u0105 przypraw. Soczysty kurczak z\u00a0papryk\u0105 i\u00a0zio\u0142ami to obiad taki, \u017ce palce liza\u0107!        "
+    },
+    "image": {
+        "@id": "https://www.winiary.pl/image.ashx/soczysty-kurczak-z-papryka-i-ziolami.jpg?fileID=224724&width=800&height=1400&frame=False&bg=0&resize=1&crop=0&hRefill=0&vRefill=0&quality=84"
+    },
+    "keywords": [
+        {
+            "@language": "pl",
+            "@value": "\n                        \n                            Obiad,\u00a0\u00a0\n                        \n                    "
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                        \n                            Mi\u0119sa\n                        \n                    "
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                        \n                            Soczysty kurczak\n                        \n                    "
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                        \n                            Szybkie i \u0142atwe,\u00a0\u00a0\n                        \n                    "
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                        \n                            Kurczak,\u00a0\u00a0\n                        \n                    "
+        }
+    ],
+    "name": {
+        "@language": "pl",
+        "@value": "Soczysty kurczak z papryk\u0105 i zio\u0142ami"
+    },
+    "prepTime": {
+        "@language": "pl",
+        "@value": "8 min."
+    },
+    "recipeCategory": [
+        {
+            "@id": "https://www.winiary.pl/przepis.aspx/139673/soczysty-kurczak-z-papryka-i-ziolami//przepisy.aspx/318/miesa"
+        },
+        {
+            "@id": "https://www.winiary.pl/przepis.aspx/139673/soczysty-kurczak-z-papryka-i-ziolami//przepisy.aspx/187/szybkie-i-latwe"
+        },
+        {
+            "@id": "https://www.winiary.pl/przepis.aspx/139673/soczysty-kurczak-z-papryka-i-ziolami//przepisy-na-okazje.aspx/58/pomysl-na-soczystego-kurczaka"
+        },
+        {
+            "@id": "https://www.winiary.pl/przepis.aspx/139673/soczysty-kurczak-z-papryka-i-ziolami//przepisy.aspx/208/obiad"
+        },
+        {
+            "@id": "https://www.winiary.pl/przepis.aspx/139673/soczysty-kurczak-z-papryka-i-ziolami//przepisy.aspx/235/kurczak"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "pl",
+            "@value": "\n                                                pa\u0142ki z kurczaka                                                                                                                                                    \n                                                        (1\u00a0\nkg)\n                                                    \n                                            "
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                                                WINIARY POMYS\u0141 NA\u2026 soczystego kurczaka z papryk\u0105 i zio\u0142ami                                                                                                                                                    \n                                                        (1\u00a0\nopakowanie)\n                                                    \n                                            "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "pl",
+            "@value": "\n                        Po wyj\u0119ciu woreczka z\u00a0piekarnika, odetnij jego ko\u0144c\u00f3wk\u0119 wraz z\u00a0zapink\u0105. Uwa\u017caj, poniewa\u017c zar\u00f3wno woreczek, jak i\u00a0wydostaj\u0105ca si\u0119 z\u00a0niego para s\u0105 bardzo gor\u0105ce.\n                    "
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                        W naczyniu \u017caroodpornym umie\u015b\u0107 woreczek. Naczynie w\u0142\u00f3\u017c do nagrzanego do 200\u00b0C piekarnika i\u00a0piecz przez 60 minut na najni\u017cszym poziomie.\n                    "
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                        Wskaz\u00f3wka: Aby sk\u00f3rka by\u0142a bardziej chrupi\u0105ca, 10 minut przed ko\u0144cem pieczenia rozetnij i\u00a0rozchyl foli\u0119.\n                    "
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                        Przypraw\u0119 rozprowad\u017a r\u00f3wnomiernie na mi\u0119sie, delikatnie obracaj\u0105c woreczek.\n                    "
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                        N\u00f3\u017cki z\u00a0kurczaka (8 sztuk \u2013 oko\u0142o 1 kg) w\u0142\u00f3\u017c do do\u0142\u0105czonego woreczka, nast\u0119pnie do \u015brodka wsyp zawarto\u015b\u0107 torebki znajduj\u0105cej si\u0119 na dole opakowania i\u00a0zamknij przy pomocy do\u0142\u0105czonej zapinki.\n                    "
+        }
+    ],
+    "recipeYield": {
+        "@language": "pl",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

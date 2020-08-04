@@ -1,0 +1,71 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "lt-LT",
+            "@value": "5.0"
+        },
+        "reviewCount": {
+            "@language": "lt-LT",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@language": "lt-LT",
+        "@value": "admin"
+    },
+    "description": {
+        "@language": "lt-LT",
+        "@value": "Oficialu. Pirmasis mano ra\u0161omas receptas. Taip taip, daug visko yra jau prikelta, bet dar nieko naujo b\u016btent \u012f \u0161i\u0105 svetain\u0119 para\u0161ius nebuvau.\u2026"
+    },
+    "image": {
+        "@id": "http://www.magicmint.lt/wp-content/uploads/2018/07/\u017dirneli\u0173-sriuba-su-kokos\u0173-pienu-4-150x150.jpg"
+    },
+    "keywords": {
+        "@language": "lt-LT",
+        "@value": "Greitai ir paprastai: Tailandieti\u0161ka \u017eirneli\u0173 \u0161altsriub\u0117"
+    },
+    "name": {
+        "@language": "lt-LT",
+        "@value": "\u0160alta \u017eirneli\u0173 sriuba su kokos\u0173 pienu"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "lt-LT",
+            "@value": "200 kalorijos"
+        },
+        "fatContent": {
+            "@language": "lt-LT",
+            "@value": "20 grams riebalai"
+        }
+    },
+    "recipeCategory": {
+        "@language": "lt-LT",
+        "@value": "Receptai"
+    },
+    "recipeCuisine": {
+        "@language": "lt-LT",
+        "@value": "European"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "lt-LT",
+            "@value": "Pateikimui naudokite \u0161vie\u017ei\u0105 \u010dil\u012f, m\u0117tas, kalendras, marinuot\u0105 imbier\u0105."
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "\u017dirneliai | 350g (\u017eali arba atitirpinti \u0161aldyti)\nSultinys | 300ml (pasigaminkite i\u0161 kubelio ir atv\u0117sinkit)\nKokos\u0173 pienas | skardin\u0117\n\u017duv\u0173 pada\u017eas | arbatinis \u0161auk\u0161telis\nLaimo sultys\nMaltas \u010dilis pagal skon\u012f\n\u0160vie\u017eias imbieras | 1-2cm"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "lt-LT",
+        "@value": "\n\t\t\t\t\tViskas labai paprasta\n\t\t\t\t\tPasigaminame sultin\u012f ir leid\u017eiame jam atv\u0117sti.\nTuo tarpu atitirpiname arba i\u0161luk\u0161tename \u017eirnelius, o imbier\u0105 apipjaustome ir susmulkiname. Visk\u0105 dedam \u012f blender\u012f ir malame iki vientisos mas\u0117s.\nSultinio ir kokos\u0173 pieno pagalba reguliuojame norim\u0105 konsistencij\u0105.\nPateikiame apibarst\u0119 \u017ealumynais, \u0161vie\u017eiu \u010diliu, o greta pad\u0117kite marinuoto imbiero - norintys \u012fsimes jo \u012f sriub\u0105.\n\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "lt-LT",
+        "@value": "2-3"
+    },
+    "@id": "http://example.org/recipe"
+}

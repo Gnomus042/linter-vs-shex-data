@@ -1,0 +1,31 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "pl-pl",
+        "@value": "Gotowanie ze stylem"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "0002-11-30"
+    },
+    "description": {
+        "@language": "pl-pl",
+        "@value": "Przek\u0142adane ciasto na zimno na biszkopcie z pistacjami, budyniem, \u015bmietan\u0105 krem\u00f3wk\u0105 i galaretk\u0105 z malinami. Ca\u0142o\u015b\u0107 oblana jest polew\u0105 czekoladow\u0105 i posypana posiekanymi pistacjami. Dawno temu na wyje\u017adzie odwiedzi\u0142am cukierni\u0119, gdzie skosztowa\u0142am pysznego ciasta sk\u0142adaj\u0105cego si\u0119 z dw\u00f3ch mas \u2013 zielonej oraz kremowej z czekolad\u0105. Zacz\u0119\u0142am wi\u0119c szpera\u0107 w internecie w poszukiwaniu sk\u0142adnik\u00f3w zielonej masy. To co znalaz\u0142am, to masa budyniowa, kt\u00f3r\u0105 stosuje si\u0119 r\u00f3wnie\u017c do ciasta o nazwie shrek. Kolorowe ciasto przyci\u0105ga szczeg\u00f3lnie uwag\u0119 dzieci, dlatego \u015bmia\u0142o mo\u017cna przyrz\u0105dza\u0107 je na urodziny b\u0105d\u017a kinderbal. "
+    },
+    "image": {
+        "@id": "http://www.gotowaniezestylem.pl/image/recipe/zielone-ciasto-z-pistacjami-191-1.jpg"
+    },
+    "ingredients": {
+        "@language": "pl-pl",
+        "@value": "Biszkopt:\n\n4 jajka\n1 szklanka m\u0105ki tortowej\n1 \u0142y\u017cka m\u0105ki ziemniaczanej\n3/4 szklanki cukru\n1 1/2 \u0142y\u017ceczki proszku do pieczenia\n\n\nDo nas\u0105czenia:\n\n\n   1/2 szklanki zaparzonej mocnej esencji herbaty\n  1 \u0142y\u017ceczka cukru wanilinowego\n\nZielona warstwa budyniowa:\n\n3 budynie \u015bmietankowe\n900 ml zielonego napoju typu Kubu\u015b, Pysio b\u0105d\u017a Frugo\n\nWarstwa \u015bmietanowa:\n\n1 galaretka agrestowa\n400 ml \u015bmietany 30%\n1/2 szklanki wrz\u0105cej wody\n\n\nDodatkowo:\n\n1 galaretka malinowa\n1 szklanka zmiksowanych malin (z pestkami b\u0105d\u017a przetartych przez sitko)\n120 g solonych pistacji w \u0142upinkach (pistacje nale\u017cy wydr\u0105\u017cy\u0107 z \u0142upinek, op\u0142uka\u0107 i posieka\u0107 na drobno)\nforma do pieczenia: najlepiej prostok\u0105tna o wymiarach 32 x 23 cm, ja u\u017cy\u0142am du\u017cej patery o \u015brednicy 25 cm.\n\n\nPolewa czekoladowa:\n\n100 g gorzkiej czekolady\n6 \u0142y\u017cek \u015bmietany 30%\n"
+    },
+    "name": {
+        "@language": "pl-pl",
+        "@value": "Zielone ciasto z pistacjami"
+    },
+    "recipeInstructions": {
+        "@language": "pl-pl",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

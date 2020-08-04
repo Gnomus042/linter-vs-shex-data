@@ -1,0 +1,49 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "en-US",
+            "@value": "528"
+        },
+        "url": {
+            "@language": "en-US",
+            "@value": "https://www.cscassets.com/recipes/large_cknew/large_24065.jpg"
+        },
+        "width": {
+            "@language": "en-US",
+            "@value": "610"
+        }
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Puff Pastry Valentine Cookies"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT20M"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "3 tablespoons prepared caramel topping"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2   of a 17.3-ounce package Pepperidge Farm\u00ae Puff Pastry Sheets(1 sheet), thawed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tablespoons blanched sliced almondsor shredded sweetened coconut"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\tHeat the oven to 400\u00b0F.Unfold the pastry sheet on a lightly floured surface.\u00a0 Roll the pastry sheet\u00a0into a 14x10-inch rectangle.\u00a0 Cut out 12 (3 1/2-inch)\u00a0hearts using a cutter.\u00a0 Place the cut-outs onto a\u00a0baking sheet. Brush with the\u00a0caramel topping and sprinkle with the almonds.Bake for 10 minutes or until the cookies are golden brown. Remove the cookies from the baking sheet and let\u00a0cool on a wire rack for 20 minutes.\t\t\t\t\t\t\t\t\tTips\n\n\t\t\t\t\tWalnut-Orange Hearts:\u00a0 Substitute orange marmalade for the caramel\u00a0 topping and chopped walnuts for the almonds.\nIce Cream Hearts: Omit the caramel topping and almonds.\u00a0 Sprinkle the unbaked pastry hearts with 2 tablespoons sugar. Bake and cool as directed. Split the pastries into 2 layers.\u00a0 Place a small scoop of ice cream onto each bottom pastry layer and top with the top pastry layer.\u00a0 Drizzle with melted chocolate, if desired.\n\t\t\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "12"
+    },
+    "@id": "http://example.org/recipe"
+}

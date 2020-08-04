@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Freddie Janssen"
+    },
+    "description": {
+        "@value": "It\u2019s really easy to make your own herb-flavoured vinegars. You can use them for pickling veggies or they make a nice and interesting change in a salad dressing too."
+    },
+    "image": {
+        "@id": "https://www.cooked.com.au/Freddie-Janssen/Hardie-Grant-Books/Pickled/Pickles/Elderflower-vinegar-recipe///cdn.cooked.com.au/-/media/cooked/mediabucket/2016/06/02/5727507b8dcdb_p_elderflower_vinegar_1.ashx?w=1066"
+    },
+    "ingredients": [
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t500ml\n\t\t\t\t\t\t\t\t\t\twhite wine vinegar\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t15\n\t\t\t\t\t\t\t\t\t\telderflower heads\n\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "name": {
+        "@value": "Elderflower vinegar"
+    },
+    "recipeInstructions": {
+        "@value": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tIf your elderflower heads are freshly picked, give them a good shake to discard any little bugs.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tPick the flowers from the stalks, pack them into a clean jar and cover them in the vinegar. Seal and refrigerate.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAfter 2 weeks, pour the vinegar through a fine mesh sieve or muslin into a sterilised jar or bottle and store in a dark, dry place. Discard the strained flowers. It will keep for up to 2 months.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@value": "1 \u00d7 500 ml jar"
+    },
+    "@id": "http://example.org/recipe"
+}

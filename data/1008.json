@@ -1,0 +1,162 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "sk",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "sk",
+            "@value": "188"
+        },
+        "ratingValue": {
+            "@language": "sk",
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@language": "sk",
+        "@value": "Jurgason"
+    },
+    "datePublished": {
+        "@language": "sk",
+        "@value": "2012-11-29"
+    },
+    "description": {
+        "@language": "sk",
+        "@value": "Osvie\u017euj\u00face citr\u00f3nov\u00e9 rezy, po\u00a0ktor\u00fdch v\u00e1s od va\u0161ich host\u00ed neminie ve\u013ek\u00e1 pochvala. Recept sme pripravovali z\u00a0polovi\u010dnej d\u00e1vky \u0161tandardu, ak o\u010dak\u00e1vate po\u010detnej\u0161iu n\u00e1v\u0161tevu odpor\u00fa\u010dame d\u00e1vky zdvojn\u00e1sobi\u0165."
+    },
+    "image": {
+        "@id": "https://www.svetvomne.sk/_site_media/com_strava/mod_recepty/recipe/00000538/img_sk/citronove-rezy_thumb.jpg"
+    },
+    "keywords": {
+        "@language": "sk",
+        "@value": "recept,fotorecept,citr\u00f3nov\u00e1 \u0161\u0165ava,citr\u00f3nov\u00e1 \u0161\u0165ava,citr\u00f3nov\u00e1 \u0161\u0165ava,Z\u00e1kusky"
+    },
+    "name": {
+        "@language": "sk",
+        "@value": "Citr\u00f3nov\u00e9 rezy"
+    },
+    "recipeCategory": {
+        "@language": "sk",
+        "@value": "Z\u00e1kusky"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "sk",
+            "@value": "vaje\u010dn\u00fd \u017e\u013atok"
+        },
+        {
+            "@language": "sk",
+            "@value": "m\u00faka polohrub\u00e1"
+        },
+        {
+            "@language": "sk",
+            "@value": "citr\u00f3nov\u00e1 \u0161\u0165ava"
+        },
+        {
+            "@language": "sk",
+            "@value": "cukor pr\u00e1\u0161kov\u00fd"
+        },
+        {
+            "@language": "sk",
+            "@value": "m\u00faka hladk\u00e1"
+        },
+        {
+            "@language": "sk",
+            "@value": "mlieko polotu\u010dn\u00e9 1,5%"
+        },
+        {
+            "@language": "sk",
+            "@value": "cukor kry\u0161t\u00e1lov\u00fd"
+        },
+        {
+            "@language": "sk",
+            "@value": "voda"
+        },
+        {
+            "@language": "sk",
+            "@value": "kypriaci pr\u00e1\u0161ok do pe\u010diva"
+        },
+        {
+            "@language": "sk",
+            "@value": "d\u017eem ovocn\u00fd"
+        },
+        {
+            "@language": "sk",
+            "@value": "cukor vanilkov\u00fd"
+        },
+        {
+            "@language": "sk",
+            "@value": "maslo"
+        },
+        {
+            "@language": "sk",
+            "@value": "puding vanilkov\u00fd - pr\u00e1\u0161ok"
+        },
+        {
+            "@language": "sk",
+            "@value": "vaje\u010dn\u00fd bielok"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "sk",
+            "@value": "K\u00a0\u017e\u013atkovej hmote prid\u00e1me \u0161\u0165avu z\u00a0citr\u00f3na, m\u00faku a\u00a0kypriaci pr\u00e1\u0161ok a\u00a0spolu jemne premie\u0161ame."
+        },
+        {
+            "@language": "sk",
+            "@value": "Cesto vylejeme na\u00a0ve\u013ek\u00fd, vymasten\u00fd a\u00a0pom\u00fa\u010den\u00fd plech a\u00a0pe\u010dieme na\u00a0180 - 200\u00b0C cca 10 - 15 min\u00fat."
+        },
+        {
+            "@language": "sk",
+            "@value": "Uvar\u00edme si hust\u00fd puding a\u00a0nech\u00e1me vychladn\u00fa\u0165. Zm\u00e4knut\u00e9 maslo s\u00a0pr\u00e1\u0161kov\u00fdm a\u00a0vanilkov\u00fdm cukrom vy\u0161\u013eah\u00e1me. Prid\u00e1me \u0161\u0165avu z\u00a0men\u0161ieho citr\u00f3na a\u00a0postupne prid\u00e1vame za st\u00e1leho mie\u0161ania vychladnut\u00fd puding."
+        },
+        {
+            "@language": "sk",
+            "@value": "Upe\u010den\u00e9 cesto nech\u00e1me vychladn\u00fa\u0165 a\u00a0rozdel\u00edme na\u00a0dve rovnak\u00e9 polovice."
+        },
+        {
+            "@language": "sk",
+            "@value": "K\u00a0\u017e\u013atkovej hmote prid\u00e1me sneh z\u00a0bielkov."
+        },
+        {
+            "@language": "sk",
+            "@value": "Vymie\u0161ame do\u00a0peny."
+        },
+        {
+            "@language": "sk",
+            "@value": "Opatrne premie\u0161ame."
+        },
+        {
+            "@language": "sk",
+            "@value": "Na\u00a0vrch kol\u00e1\u010da navrstv\u00edme zvy\u0161n\u00fd kr\u00e9m, zarovn\u00e1me do\u00a0hladka a\u00a0nech\u00e1me v\u00a0chlade stuhn\u00fa\u0165."
+        },
+        {
+            "@language": "sk",
+            "@value": "Z\u00a0bielkov vy\u0161\u013eah\u00e1me tuh\u00fd sneh."
+        },
+        {
+            "@language": "sk",
+            "@value": "Kr\u00e9m si rozdel\u00edme na\u00a0dve polovice. Na\u00a0jeden pl\u00e1t natrieme polovicu kr\u00e9mu a\u00a0prikryjeme ho druh\u00fdm pl\u00e1tom, ktor\u00fd sme potreli lekv\u00e1rom."
+        },
+        {
+            "@language": "sk",
+            "@value": "Oddel\u00edme \u017e\u013atky od bielkov. K\u00a0\u017e\u013atkom prid\u00e1me kry\u0161t\u00e1lov\u00fd a\u00a0vanilkov\u00fd cukor."
+        },
+        {
+            "@language": "sk",
+            "@value": "V\u00a0miske vymie\u0161ame preosiaty pr\u00e1\u0161kov\u00fd cukor s\u00a0vla\u017enou vodou a\u00a0p\u00e1r kvapkami citr\u00f3novej \u0161\u0165avy dohladka. Citr\u00f3nov\u00fa polevu natrieme opatrne na\u00a0vrch vychladen\u00e9ho kol\u00e1\u010da. Nech\u00e1me v\u00a0chlade odle\u017ea\u0165, nakr\u00e1jame na\u00a0rezy a\u00a0m\u00f4\u017eme serv\u00edrova\u0165."
+        }
+    ],
+    "recipeYield": {
+        "@language": "sk",
+        "@value": "15"
+    },
+    "totalTime": {
+        "@language": "sk",
+        "@value": "1 h. 10 min."
+    },
+    "@id": "http://example.org/recipe"
+}

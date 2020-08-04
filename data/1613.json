@@ -1,0 +1,105 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "8"
+        },
+        "ratingValue": {
+            "@value": "3.9"
+        }
+    },
+    "author": {
+        "@value": "Only Taste Matters"
+    },
+    "image": {
+        "@id": "https://under500calories.com/recipe/8d960-angel-food-cake-with-berry-topping//photos/1000x800/40243.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "3/4 tsp kosher salt "
+        },
+        {
+            "@value": "  cake "
+        },
+        {
+            "@value": "1 cup blueberries "
+        },
+        {
+            "@value": "  superfine sugar "
+        },
+        {
+            "@value": "1 cup strawberries sliced"
+        },
+        {
+            "@value": "  angel food cake Adapted from Ina Garten\u00e2\u20ac\u2122s Lemon"
+        },
+        {
+            "@value": "1 1/3 cups flour sifted, mix D"
+        },
+        {
+            "@value": "  eggs "
+        },
+        {
+            "@value": "1 1/2 tsps cream of tartar "
+        },
+        {
+            "@value": "2 cups superfine sugar sifted, divided*"
+        },
+        {
+            "@value": "1/2 tsp Grand Marnier optional"
+        },
+        {
+            "@value": "  regular sugar "
+        },
+        {
+            "@value": "3/4 tsp pure vanilla extract "
+        },
+        {
+            "@value": "1 1/2 cups egg whites at room temperature, 10 to 12 eggs**"
+        },
+        {
+            "@value": "3 tbsps orange marmalade "
+        },
+        {
+            "@value": "1 1/2 tsps grated orange "
+        }
+    ],
+    "name": {
+        "@value": "Angel Food Cake with Berry Topping"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "220"
+        },
+        "carbohydrateContent": {
+            "@value": "46g"
+        },
+        "cholesterolContent": {
+            "@value": "20mg"
+        },
+        "fatContent": {
+            "@value": "15g"
+        },
+        "fiberContent": {
+            "@value": "1g"
+        },
+        "proteinContent": {
+            "@value": "6g"
+        },
+        "saturatedFatContent": {
+            "@value": "0g"
+        },
+        "sodiumContent": {
+            "@value": "160mg"
+        },
+        "sugarContent": {
+            "@value": "29g"
+        }
+    },
+    "recipeCategory": {
+        "@value": "Desserts"
+    },
+    "@id": "http://example.org/recipe"
+}

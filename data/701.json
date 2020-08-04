@@ -1,0 +1,74 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Autor: Vive Mejor"
+    },
+    "description": {
+        "@value": "Null"
+    },
+    "ingredients": [
+        {
+            "@value": "1/4 taza de agua (aproximadamente a 125\u00b0)"
+        },
+        {
+            "@value": "1/4 taza de az\u00facar"
+        },
+        {
+            "@value": "1 clara de huevo"
+        },
+        {
+            "@value": "3 cucharadas de az\u00facar granulada"
+        },
+        {
+            "@value": "1 cucharadita de semillas de an\u00eds"
+        },
+        {
+            "@value": "2 huevos, batidos"
+        },
+        {
+            "@value": "1 cucharada de leche"
+        },
+        {
+            "@value": "3 tazas de harina para todo uso"
+        },
+        {
+            "@value": "1 cucharada de agua de azahar (flor de naranja)"
+        },
+        {
+            "@value": "1/2 taza de leche"
+        },
+        {
+            "@value": "1/2 cucharadita de sal"
+        },
+        {
+            "@value": "1 sobre de levadura activa"
+        },
+        {
+            "@value": "1/4 taza de Country Crock\u00ae Buttery Sticks sin sal, derretida"
+        }
+    ],
+    "instructions": [
+        {
+            "@value": "Am\u00e1sela sobre una superficie enharinada hasta que quede tersa y un poco pegajosa, aproximadamente 10 minutos. Ponga la masa en un taz\u00f3n grande, ligeramente engrasado. Cubra la masa y d\u00e9jela esponjar en una lugar tibio hasta que crezca al doble de tama\u00f1o, aproximadamente una hora."
+        },
+        {
+            "@value": "Aparte, mezcle la harina tamizada, el az\u00facar y la sal en un taz\u00f3n grande. Haga un pozo en el centro de la harina. Agregue la mezcla de levadura y revu\u00e9lvala con la harina usando una cuchara de madera hasta formar una masa. Agregue un poco m\u00e1s de harina si la masa est\u00e1 muy h\u00fameda o un poco de leche si est\u00e1 muy seca.\n*Para hacerlo m\u00e1s f\u00e1cil puede usar una batidora."
+        },
+        {
+            "@value": "Bata la clara con la cucharada de leche y barnice el pan con esta mezcla. Espolvoree con az\u00facar. Hornee por 35 minutos o hasta que la superficie est\u00e9 ligeramente dorada. D\u00e9jelo enfriar sobre una rejilla met\u00e1lica."
+        },
+        {
+            "@value": "Precaliente el horno a 350\u00b0. Roc\u00ede una bandeja para hornear con aerosol antiadherente. Amase la masa por 3 minutos sobre una superficie enharinada. Corte la masa en 3 partes iguales. Reserve 1/5 de cada masa y con el resto de las tres masas forme unos panes redondos y p\u00f3ngalos sobre una charola para hornear. Con la masa reservada forme una tiras gruesas que simbolizan los huesitos y la bolita en el centro que forma el cr\u00e1neo. Cubra los panes ligeramente con una servilleta limpia de cocina y d\u00e9jelos esponjar en una lugar tibio hasta que crezcan al doble de tama\u00f1o, aproximadamente 30 minutos."
+        },
+        {
+            "@value": "Caliente el agua y agregue las semillas de an\u00eds y deje reposar por 10 minutos para que se haga una especia de t\u00e9. Pase el agua por un colador, p\u00f3ngala en un molde y agregue la levadura mezclando perfectamente y d\u00e9jela reposar hasta que burbujee, aproximadamente 5 minutos. Agregue la leche, el agua de azahar, los huevos y el Country Crock\u00ae Buttery Sticks; reservelo."
+        }
+    ],
+    "name": {
+        "@value": "\nPan de Muerto"
+    },
+    "recipeYield": {
+        "@value": "Sirve: 10"
+    },
+    "@id": "http://example.org/recipe"
+}

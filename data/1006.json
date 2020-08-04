@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "4.0"
+        },
+        "reviewCount": {
+            "@value": "21"
+        }
+    },
+    "datePublished": {
+        "@value": "2013-05-19"
+    },
+    "description": {
+        "@value": "Dans un r\u00e9cipient assez haut, mettre les fruits rouges congel\u00e9s, LES saupoudre de sucre glace et ajouter le yaourt brass\u00e9, mixez le tout. \n\nA d\u00e9guster tout de suite ou recongeler quelques minutes si n\u00e9cessaire."
+    },
+    "image": {
+        "@id": "https://lel.s3.amazonaws.com/assets/images/recettes/2814.png"
+    },
+    "ingredients": [
+        {
+            "@value": "selon go\u00fbt sucre glace"
+        },
+        {
+            "@value": "1 yaourt brass\u00e9 nature ou \u00e0 la vanille"
+        },
+        {
+            "@value": "150 g fruits rouges congel\u00e9s"
+        }
+    ],
+    "name": {
+        "@value": "Yaourt glac\u00e9 aux fruits rouges"
+    },
+    "recipeCategory": {
+        "@value": "Dessert"
+    },
+    "recipeYield": {
+        "@value": "2 personnes"
+    },
+    "url": {
+        "@value": "https://www.ligne-en-ligne.com/recettes/dessert/2814-yaourt-glace-aux-fruits-rouges"
+    },
+    "@id": "http://example.org/recipe"
+}

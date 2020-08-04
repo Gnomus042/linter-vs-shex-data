@@ -1,0 +1,34 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Claire Aldous"
+        }
+    },
+    "description": {
+        "@language": "en",
+        "@value": "It\u2019s not summer without strawberries and cherries \u2013 serve this juicy compote with a topping of crisp, fragrant crumble and an icy cold lemon sorbet."
+    },
+    "image": {
+        "@id": "https://dish.co.nz/recipes/honeyed-strawberries-and-cherries-hazelnut-and-rosemary-crumble//media/VERSIONS/images/summerdessertsstrawberries70_article--740x1005.jpg"
+    },
+    "ingredients": {
+        "@language": "en",
+        "@value": "1\u20132 punnets strawberries, hulled and roughly chopped\n400 grams fresh cherries, halved and pitted\n\u2153 cup honey\nzest of 1 lemon, 2 tablespoons lemon juice\n1 tablespoon orange liqueur, such as Grand Marnier\nHazelnut and Rosemary Crumble, recipe below\nlemon sorbet, to serveHazelnut and Rosemary Crumble\n60 grams butter, diced and chilled\n50 grams ground hazelnuts\n50 grams brown rice flour\n80 grams caster sugar\n\u00be teaspoon ground ginger\n\u00bd teaspoon sea salt\n1 teaspoon finely chopped fresh rosemary leaves"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "Summer DessertsStrawberriesHazelnut"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Honeyed Strawberries and Cherries with Hazelnut and Rosemary Crumble"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Put the strawberries and cherries in a large bowl.\u00a0Put the honey and lemon juice in small saucepan and bring to the boil.Take off the heat and add the zest and liqueur.Pour over the fruit and stir together. Leave for at least 30 minutes, stirring occasionally. The fruit will release their juices, which combines with the syrup.\u00a0To serve: Place the fruit and the juice in bowls and top with a large scoop of sorbet. Pass the crumble to scatter over just before eating.Hazelnut and Rosemary CrumblePreheat the oven to 140\u00b0C fan bake.Place all the ingredients in a large bowl and rub together with your fingertips until it resembles damp, coarse crumbs.Tip onto a lined baking tray and spread evenly, pinching some of the mixture into irregular shaped small clumps. Bake for about 10 minutes, turning once, or until lightly golden. The crumble will initially be soft but becomes crisp when cool.\u00a0"
+    },
+    "@id": "http://example.org/recipe"
+}

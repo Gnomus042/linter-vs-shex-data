@@ -1,0 +1,37 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "8"
+        },
+        "ratingValue": {
+            "@value": "3.5"
+        },
+        "worstRating": {
+            "@value": "2"
+        }
+    },
+    "cookTime": {
+        "@value": "PT2M"
+    },
+    "ingredients": {
+        "@value": "4 cl. Tequila\u00a02 cl. Cointreau\u00a01 cl. Blue Curacao\u00a04 cl. Grapefruitsap10 cl. Tonic1 paar IJsblokjes"
+    },
+    "name": {
+        "@value": "Zorro"
+    },
+    "recipeCategory": {
+        "@value": "Cocktail"
+    },
+    "recipeInstructions": {
+        "@value": "Doe wat ijsblokjes in een shaker. \nSchenk de overige ingredienten, behalve de tonic, erbij. \nSchud de mix dan krachtig door elkaar. \nSchenk het mengsel door een strainer (barzeef) in een longdrinkglas\nVul de cocktail verder, naar smaak, aan met tonic. \nRoer de cocktail dan nog eens voorzichtig om. \nDoe nog wat ijsblokjes bij de cocktail. \nPresenteer de cocktail met een rietje en een roerstaaf."
+    },
+    "totalTime": {
+        "@value": "PT2M"
+    },
+    "@id": "http://example.org/recipe"
+}

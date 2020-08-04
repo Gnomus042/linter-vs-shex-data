@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ko",
+        "@value": "LOADSITEN -LAMP Store"
+    },
+    "brand": {
+        "@language": "ko",
+        "@value": "vnv.me"
+    },
+    "image": {
+        "@language": "ko",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/H7becdd4442d4492693fa24180c3af7238/Straatverlichting-eclairage-\uc815\uc6d0-ogrodowe-luminaire-exterieur-led-\ub7a8\ud504-\ub044\uae30-uliczna-plaza-solar-street-road-light.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ko",
+            "@value": "32978937602"
+        },
+        {
+            "@language": "ko",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "ko",
+        "@value": "Straatverlichting eclairage \uc815\uc6d0 ogrodowe luminaire exterieur led \ub7a8\ud504 \ub044\uae30 uliczna plaza solar street road light"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "pl",
+        "@value": "cooleeon Lighting Tech. Store"
+    },
+    "brand": {
+        "@language": "pl",
+        "@value": "lpfb.us"
+    },
+    "image": {
+        "@language": "pl",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/UTB8G9wKA3QydeJk43PUq6AyQpXaf/10-sztuk-400-6-MM-COB-LED-pasek-\u015bwiat\u0142a-12-V-ciep\u0142y-zimny-bia\u0142y-\u017ar\u00f3d\u0142o-\u015bwiat\u0142a.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "pl",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "pl",
+            "@value": "1000006395494"
+        }
+    ],
+    "name": {
+        "@language": "pl",
+        "@value": "10 sztuk 400*6 MM COB LED pasek \u015bwiat\u0142a 12 V ciep\u0142y zimny bia\u0142y \u017ar\u00f3d\u0142o \u015bwiat\u0142a LED 40 CM \u015bciemniania LED Bar \u015bwiat\u0142a dla samochod\u00f3w lampy dom \u017car\u00f3wki"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,38 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "EVOO Cookbook"
+    },
+    "cookingMethod": {
+        "@language": "en-US",
+        "@value": "Wash the potatoes without breaking the skin. Using a soft abrasive cloth, carefully remove any sand or dirt spots from the skin. Bring the water to a boil after dissolving the salt in the water. Drop in potatoes when the water is boiling. Bring back to boil and reduce heat to maintain gentle boil until potatoes are tender when sharp paring knife is inserted. Remove and drain. Potatoes will dry on the outside with\u00a0 a light \u201csalt frosting.\u201d Serve immediately or cool by placing in single layer in shallow pan or sided cookie sheet pan. Refrigerate until uncovered until potatoes are 40 degrees F. Cover and keep refrigerated until needed.\n*When using these potatoes for dilly\u00a0potato salad, we reduce the amount of salt.\n"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "We tasted these potatoes back East when we lived in Maryland. The recipe was first inspired by the salt mines in Syracuse, NY, thus they are also known as Syracuse potatoes. They are a favorite in summer for concerts in the park, hiking, picnics on the beach, etc. and in the lunch box for back to school. They are simple and delicious by themselves or with a dressing/dip, or made into a simple potato salad. The unusually briny water creates a lightly salted exterior with a creamy moist interior.\n"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\n1 1/3 cups salt\u00a0(*)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n1 gallon water\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pound potatoes (new red bliss \"C\" or yellow Yukon gold, same size)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pound potatoes (new red bliss \"C\" or yellow Yukon gold, same size)\n1 1/3 cups salt\u00a0(*)\n1 gallon water\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "POTATOES, SALTY NEW "
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,84 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "By Rebecka"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2014-03-28 18:56:00"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Adapted recipe from my friend Ann at anncoojournal.com"
+    },
+    "image": {
+        "@id": "https://i0.wp.com/athomewithrebecka.com/wp-content/uploads/2014/03/jicama-salad.jpg?resize=526%2C395"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 teaspoon fresh mint"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons rice vinegar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups shredded jicama"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 mango"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "salt and pepper to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups shredded carrot"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup mayonnaise"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons lemon juice"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Jicama Carrot and Mango Slaw"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "15 min "
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tShred carrot and jicama\t\t\t\tChop mint fine\t\t\t\tPeel and cut mango into small cubes\t\t\t\tIn a mixing bowl combine remaining ingredients, toss to coat\t\t\t\tServe immediately\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

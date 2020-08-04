@@ -1,0 +1,34 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@value": "0"
+        }
+    },
+    "description": {
+        "@value": " Elegant and Easy! This Coffee with Chocolate and Honey recipe is a delightful choice for entertaining or to make a festive weeknight treat."
+    },
+    "image": {
+        "@id": "https://www.elmejornido.com/en/recipes/coffee-with-chocolate-and-honey-143538//sites/site.prod2.elmejornido.com/files/mrs_import/images/143538_10.jpg"
+    },
+    "name": {
+        "@value": " Coffee with Chocolate and Honey"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "recipeInstructions": {
+        "@value": " HEAT milk, morsels, coffee granules and honey in medium saucepan over medium heat, stirring constantly, for 5 minutes or until morsels are melted and mixture reaches a gentle boil. Remove from heat.POUR evenly into 5 mugs. Top with a dollop of whipped cream; serve immediately."
+    },
+    "thumbnail": {
+        "@value": "Null"
+    },
+    "url": {
+        "@value": "/en/recipes/coffee-with-chocolate-and-honey-143538"
+    },
+    "@id": "http://example.org/recipe"
+}

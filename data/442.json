@@ -1,0 +1,20 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://www.winiary.pl/przepisy.aspx/161/kuchnia-orientalna/A1994891098.shtml//profil.aspx/publiczny/moje-przepisy/5f421b9b8fe740f3a6f2e205cb9e161f"
+    },
+    "description": {
+        "@language": "pl",
+        "@value": "\n                        Smaki orientalne w Twoim domu!  Piero\u017cki Wonton , charakteryzuj\u0105ce si\u0119 wyrazistym, nieco pikantnym smakiem to nasza propozycja na oderwanie si\u0119 od rutyny. Samodzielnie przygotowany majonez Wasabi, na bazie  majonezu dekoracyjnego WINIARY , wzbogaci dodatkowo nasze danie i doda\u2026\n                        \n                        \n                            Tagi:\n                                "
+    },
+    "image": {
+        "@id": "https://www.winiary.pl/image.ashx/smazone-pierozki-wonton-i-majonez-wasabi.jpg?fileID=179325&width=390&height=240&frame=True&quality=84&bg=0"
+    },
+    "name": {
+        "@id": "https://www.winiary.pl/przepis.aspx/113779/smazone-pierozki-wonton-i-majonez-wasabi"
+    },
+    "recipeCategory": {
+        "@id": "https://www.winiary.pl/przepisy.aspx/161/kuchnia-orientalna/A1994891098.shtml//przepisy.aspx/4/przystawki-kanapki-i-tosty"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,131 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "nl",
+        "@value": "Gis\u00e8le Clerc"
+    },
+    "cookTime": {
+        "@language": "nl",
+        "@value": "Null"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Biscuits de No\u00ebl. Pour 1 ou 2 plaque(s) inox et/ou grille. Recette pour env. 32 biscuits. Temps de pr\u00e9paration: env. 50 minutes. Cuisson: 15 minutes."
+    },
+    "image": {
+        "@id": "https://www.vzug.com/be/nl/product/be-Catalog/vzug.internet.05.gewurztaler//medias/sys_master/recipeimages/recipeimages/hd5/hfe/8886590570526/recipe-img.jpg"
+    },
+    "keywords": {
+        "@language": "nl",
+        "@value": "Petits biscuits aux \u00e9pices"
+    },
+    "name": {
+        "@language": "nl",
+        "@value": "Petits biscuits aux \u00e9pices"
+    },
+    "prepTime": {
+        "@language": "nl",
+        "@value": "Null"
+    },
+    "recipeCategory": {
+        "@language": "nl",
+        "@value": "Dessert"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "nl",
+            "@value": "\n                150 g\n                 noisettes moulues\n              "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                150 g\n                 farine blanche\n              "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                 un soup\u00e7on\n                 farine blanche\n              "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                1\n                 \u0153uf\n              "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                100 g\n                 beurre\n              "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                2 CC\n                 cannelle\n              "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                1 sachet\n                 gla\u00e7age fonc\u00e9 (pour p\u00e2tisseries)\n              "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                \u00bc CC\n                 cardamome\n              "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                1 CC\n                 levure chimique\n              "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                \u00bc CC\n                 girofle moulue\n              "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                2\n                 oranges non trait\u00e9es\n              "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                1 pinc\u00e9e\n                 sel\n              "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                100 g\n                 sucre\n              "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "nl",
+            "@value": "Faire fondre le gla\u00e7age selon les instructions sur l'emballage. D\u00e9couper un petit coin du sachet et s'en servir pour former des filaments de chocolat sur les biscuits refroidis, puis laisser s\u00e9cher."
+        },
+        {
+            "@language": "nl",
+            "@value": "Ajouter le zeste d'orange et m\u00e9langer."
+        },
+        {
+            "@language": "nl",
+            "@value": "Ajouter la farine blanche et la girofle moulue, p\u00e9trir le tout jusqu'\u00e0 obtenir une p\u00e2te."
+        },
+        {
+            "@language": "nl",
+            "@value": "Laisser refroidir les biscuits sur une grille \u00e0 g\u00e2teaux."
+        },
+        {
+            "@language": "nl",
+            "@value": "Ins\u00e9rer les plaques et/ou la grille aux niveaux 1 et 5 dans l'espace de cuisson froid."
+        },
+        {
+            "@language": "nl",
+            "@value": "Ajouter le sucre, l'\u0153uf et le sel, remuer jusqu'\u00e0 ce que le m\u00e9lange blanchisse."
+        },
+        {
+            "@language": "nl",
+            "@value": "Abaisser la p\u00e2te sur un peu de farine jusqu'\u00e0 obtenir une \u00e9paisseur d'env. 7 mm. D\u00e9couper des cercles de \u00d8 5 cm environ. Les d\u00e9poser sur la ou les plaque(s) inox ou sur la grille, tapiss\u00e9e(s) de papier sulfuris\u00e9."
+        },
+        {
+            "@language": "nl",
+            "@value": "Poser du papier sulfuris\u00e9 sous la grille \u00e0 g\u00e2teaux."
+        },
+        {
+            "@language": "nl",
+            "@value": "Hot air 180\u00b0C gedurende 15 Mins"
+        },
+        {
+            "@language": "nl",
+            "@value": "Mettre le beurre dans un grand r\u00e9cipient, remuer de sorte \u00e0 le ramollir."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

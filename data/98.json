@@ -1,0 +1,59 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "nl",
+        "@value": "Brenda Kookt!"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Ik houd steeds meer van salades. Niet alleen bij warm zomerweer maar ook op een minder mooie dag als ik zin heb in iets makkelijks. Je kunt met een salade zoveel kanten op. Bijvoorbeeld de kant van peer met geitenkaas. Deze supersimpele salade heb ik afgekeken van een vriendin. Hij is zo lekker fris dat hij bij mij regelmatig op tafel staat!"
+    },
+    "image": {
+        "@language": "nl",
+        "@value": "Null"
+    },
+    "ingredients": [
+        {
+            "@id": "http://www.foody.nl/recepten/salade-geitenkaas-en-peer-520.html//ingredienten/sauzen-en-dressings/balsamico-dressing.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/salade-geitenkaas-en-peer-520.html//ingredienten/noten-zaden/walnoten.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/salade-geitenkaas-en-peer-520.html//ingredienten/fruit/peer.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/salade-geitenkaas-en-peer-520.html//ingredienten/kaas/geitenkaas.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/salade-geitenkaas-en-peer-520.html//ingredienten/groente/sla.html"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Salade geitenkaas en peer"
+    },
+    "recipeCategory": [
+        {
+            "@language": "nl",
+            "@value": "Hoofdgerecht"
+        },
+        {
+            "@language": "nl",
+            "@value": "Salades"
+        },
+        {
+            "@language": "nl",
+            "@value": "Bijgerecht"
+        }
+    ],
+    "recipeCuisine": {
+        "@language": "nl",
+        "@value": "Nederlands"
+    },
+    "recipeYield": {
+        "@language": "nl",
+        "@value": "2 personen"
+    },
+    "@id": "http://example.org/recipe"
+}

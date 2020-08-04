@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "tr",
+        "@value": "PT0M"
+    },
+    "image": {
+        "@id": "https://www.diyetkolik.com/yemek-tarifi/yogurtlu-cevizli-kabak//site_media/media/foodrecipe_images/yogurtlu-cevizli-kabak.210x210.png"
+    },
+    "ingredients": [
+        {
+            "@language": "tr",
+            "@value": "- 2 Adet (Orta) Kabak"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 8 \u00c7orba Ka\u015f\u0131\u011f\u0131 (Tepeleme) Yo\u011furt (Yar\u0131m Ya\u011fl\u0131)"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 6 Adet Ceviz"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 4 Sap Dereotu"
+        }
+    ],
+    "name": {
+        "@language": "tr",
+        "@value": "Yo\u011furtlu Cevizli KabakYEMEK TAR\u0130F\u0130"
+    },
+    "nutrition": [
+        {
+            "@id": "_:N82477141a9ac4211b53da6af7db98370"
+        },
+        {
+            "@id": "_:Na6a27291f6ba4a6984c1084ec63540ee"
+        }
+    ],
+    "prepTime": {
+        "@language": "tr",
+        "@value": "PT10M"
+    },
+    "@id": "http://example.org/recipe"
+}

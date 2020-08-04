@@ -1,0 +1,15 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.saborosaviagem.com.br/wp-content/uploads/silber10-150x150.jpg"
+    },
+    "name": {
+        "@language": "pt-BR",
+        "@value": "Bolo de mirtilo da Cida"
+    },
+    "recipeInstructions": {
+        "@language": "pt-BR",
+        "@value": "\n\t\t\t\t\tComo Fazer\n\t\t\t\t\t\nPreaque\u00e7a o forno a 180 graus.\nUnte uma forma de buraco no meio com manteiga e polvilhe com farinha de trigo.\nPara a massa, bata a manteiga com o a\u00e7\u00facar at\u00e9 obter um creme claro.\nJunte os ovos e bata mais um pouco.\nAcrescente a farinha peneirada com o fermento em p\u00f3, alternando com o leite.\nJunte os mirtilos e misture rapidamente.\nColoque a massa na forma e leve ao forno por cerca de 30min.\nDeixe o bolo amornar e desenforme.\nA cobertura pode ser com a geleia de mirtilo da Cida ou prepare uma calda com o mirtilo e a\u00e7\u00facar.\n\n\u00a0\n\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

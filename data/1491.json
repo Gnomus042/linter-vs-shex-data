@@ -1,0 +1,87 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "fr",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "fr",
+            "@value": "273"
+        },
+        "ratingValue": {
+            "@language": "fr",
+            "@value": "2,5"
+        }
+    },
+    "author": {
+        "@language": "fr",
+        "@value": "\n                                Cocktails-Faciles\n                                "
+    },
+    "cookTime": {
+        "@language": "fr",
+        "@value": "PT0M"
+    },
+    "image": {
+        "@id": "https://www.cocktails-faciles.fr/cocktails/recette/119,caruso,alcoolise,-origine-inconnue.html//get/img/cocktailspreview/0-caruso.jpg"
+    },
+    "keywords": [
+        {
+            "@language": "fr",
+            "@value": "Cocktail Alcoolis\u00e9"
+        },
+        {
+            "@language": "fr",
+            "@value": "Grands classiques"
+        }
+    ],
+    "name": {
+        "@language": "fr",
+        "@value": "Caruso"
+    },
+    "prepTime": {
+        "@language": "fr",
+        "@value": "PT2M"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fr",
+            "@value": "\n                                         2.5 \n                                        cl de                                         \n                  vermouth dry (Martini Bianco, Cinzano) \n                                                                                    \n                                                                                \n                                    "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                         2.5 \n                                        cl de                                         \n                  gin \n                                                                                    \n                                                                                \n                                    "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                          \n                                                                                \n                  gla\u00e7ons \n                                                                                \n                                    "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                         2.5 \n                                        cl de                                         \n                  cr\u00e8me de menthe (Get 27, Peppermint) \n                                                                                    \n                                                                                \n                                    "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n\t\n\t\tVersez les ingr\u00e9dients dans un shaker rempli de glace \u00e0 la moiti\u00e9.\n\t\n\t\tSecouez bien pour frapper le m\u00e9lange.\n\t\n\t\tVersez dans un verre et d\u00e9corez d'une feuille de menthe pass\u00e9e dans le sucre de glace.\n"
+    },
+    "recipeYield": {
+        "@language": "fr",
+        "@value": "\n                                 1 personne                            "
+    },
+    "totalTime": {
+        "@language": "fr",
+        "@value": "PT2M"
+    },
+    "url": [
+        {
+            "@id": "https://plus.google.com/+Cocktails-facilesFr?rel=author"
+        },
+        {
+            "@language": "fr",
+            "@value": "https://www.cocktails-faciles.fr/cocktails/recette/119,caruso,alcoolise,-origine-inconnue.html"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

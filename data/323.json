@@ -1,0 +1,139 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-us",
+            "@value": "4.67"
+        },
+        "reviewCount": {
+            "@language": "en-us",
+            "@value": "2"
+        }
+    },
+    "author": {
+        "@language": "en-us",
+        "@value": "vpecchia"
+    },
+    "description": {
+        "@language": "en-us",
+        "@value": "\n\"A very tasty Greek tomato rice recipe!\"        "
+    },
+    "image": {
+        "@id": "https://images.media-allrecipes.com/userphotos/560x315/6645534.jpg"
+    },
+    "mainEntityOfPage": {
+        "@language": "en-us",
+        "@value": "True"
+    },
+    "name": {
+        "@language": "en-us",
+        "@value": "Greek Tomato Rice"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-us",
+            "@value": "166 calories;"
+        },
+        "carbohydrateContent": {
+            "@language": "en-us",
+            "@value": "27.1"
+        },
+        "cholesterolContent": {
+            "@language": "en-us",
+            "@value": "2 "
+        },
+        "fatContent": {
+            "@language": "en-us",
+            "@value": "4.9 "
+        },
+        "proteinContent": {
+            "@language": "en-us",
+            "@value": "3 "
+        },
+        "sodiumContent": {
+            "@language": "en-us",
+            "@value": "594 "
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "en-us",
+            "@value": "Side Dish"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Rice"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en-us",
+            "@value": "1 cup long grain rice"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 small onion, diced"
+        },
+        {
+            "@language": "en-us",
+            "@value": "fresh ground black pepper"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 teaspoon salt"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 tablespoons olive oil"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 tablespoons chopped fresh parsley"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 cup tomato sauce"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 1/2 cups chicken broth"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 cloves garlic"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-us",
+        "@value": "\n                        \n                            Heat oil in a saucepan over medium heat and cook onion and garlic until soft and translucent, about 3 minutes. Add rice; cook and stir until lightly toasted for 2 minutes. Add chicken broth, tomato sauce, parsley, salt, and pepper; bring to a boil.\n                            \n                        \n                        \n                            Cover and reduce heat to low. Cook until all the liquid is absorbed and rice is done, about 20 minutes.\n                            \n                        \n            "
+    },
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "6"
+    },
+    "review": [
+        {
+            "@id": "_:N90fecbb7bcca48e7bd57301798d88876"
+        },
+        {
+            "@id": "_:N985942552e4f4e62bb39fc962a5f8fb4"
+        }
+    ],
+    "url": {
+        "title": {
+            "@language": "en-us",
+            "@value": "Greek Tomato Rice Recipe - Allrecipes.com"
+        },
+        "item": [
+            {
+                "@id": "_:N8a0df21a9e5541e4885332000e5a0a6a"
+            },
+            {
+                "@id": "_:N7ce71eb17566409d86b0e9191513aec0"
+            }
+        ]
+    },
+    "@id": "http://example.org/recipe"
+}

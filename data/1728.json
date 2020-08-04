@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.ricekrispies.ca/en_CA/recipes/sticky-summer-ice-cream-sandwich-recipe.html///images.kglobalservices.com/www.ricekrispies.ca_en/en_ca/recipe/kicrecipe-13751/kicfileasset-117295__0004_summericecreamsandwich_435x355.jpg"
+    },
+    "name": {
+        "@value": "Sticky Summer Ice Cream Sandwich"
+    },
+    "prepTime": {
+        "@value": "PT20M"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n                \n                    1 L or 5 cups\n                \n                \n                  \n                      \n                      \n                          Rice Krispies* cereal\n                      \n                  \n                \n            "
+        },
+        {
+            "@value": "\n                \n                    500 ml or 2 cups\n                \n                \n                  \n                      \n                      \n                          ice cream or frozen yogurt\n                      \n                  \n                \n            "
+        },
+        {
+            "@value": "\n                \n                    375 ml or 1 1/2 cup\n                \n                \n                  \n                      \n                      \n                          semi-sweet chocolate chips\n                      \n                  \n                \n            "
+        },
+        {
+            "@value": "\n                \n                    125 ml or 1/2 cup\n                \n                \n                  \n                      \n                      \n                          butterscotch topping\n                      \n                  \n                \n            "
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "- In saucepan over low heat, melt chocolate stirring constantly until smooth. Remove from heat.- In a medium bowl, stir together melted chocolate and butterscotch topping. Add cereal and stir until well coated.- Lay wax paper in a 13\" x 9\" pan.- Using a spoon, press mixture firmly and evenly into pan. Place in freezer until firm, about 15 minutes.- Cut cereal mixture into 3\" x 3\" squares.- Take two squares and spread ice cream between the two to make sandwiches.- Wrap individually in foil or freezer wrap.- Freeze until about firm (about \u00bd hour) or eat right away.YIELD: 6 sandwichesIn keeping with good allergy practices, we remind you to be aware of allergens and to check labels on any packaged goods used. This recipe has been tested using Kellogg's* products. Results with other products may vary."
+    },
+    "@id": "http://example.org/recipe"
+}

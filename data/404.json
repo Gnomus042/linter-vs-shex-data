@@ -1,0 +1,125 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Author: Cooking With Carlee"
+    },
+    "cookTime": {
+        "@value": "cook time: 30 mins"
+    },
+    "description": {
+        "@value": "\nMake pork fried rice without leftover rice. This simplified recipe comes together quickly, tastes great and starts with uncooked white rice!"
+    },
+    "image": {
+        "@id": "https://4.bp.blogspot.com/-mdRmUGOSqhY/XHvcy6MFo8I/AAAAAAAAyM4/qXwJdUSKz9EqmyIYT0mFUeFXbNcexCN0QCLcBGAs/s640/bowl%2Bof%2Bfried%2Brice%2Bwith%2Begg%2Broll.jpg"
+    },
+    "keywords": {
+        "@value": "\neasy pork fried rice, shortcut fried rice recipe"
+    },
+    "name": {
+        "@value": "\nMiMi's Simplified Pork Fried Rice"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "\nCalories\n259.50"
+        },
+        "carbohydrateContent": {
+            "@value": "\nCarbs (grams)\n17.90"
+        },
+        "cholesterolContent": {
+            "@value": "\nCholesterol (grams)\n97.91"
+        },
+        "fatContent": {
+            "@value": "\nFat (grams)\n12.88"
+        },
+        "fiberContent": {
+            "@value": "\nFiber (grams)\n3.01"
+        },
+        "proteinContent": {
+            "@value": "\nProtein (grams)\n18.14"
+        },
+        "saturatedFatContent": {
+            "@value": "\nSat. Fat (grams)\n3.12"
+        },
+        "sodiumContent": {
+            "@value": "\nSodium (milligrams)\n831.61"
+        },
+        "sugarContent": {
+            "@value": "\nSugar (grams)\n3.05"
+        }
+    },
+    "prepTime": {
+        "@value": "prep time: 5 mins"
+    },
+    "recipeCategory": {
+        "@value": "\ndinner"
+    },
+    "recipeCuisine": {
+        "@value": "\nAmerican"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 cup long grain rice (uncooked)"
+        },
+        {
+            "@value": "2 eggs, beaten"
+        },
+        {
+            "@value": "1 onion, chopped"
+        },
+        {
+            "@value": "2 T cooking oil"
+        },
+        {
+            "@value": "2 cups chicken broth"
+        },
+        {
+            "@value": "2 thin cut boneless pork chops"
+        },
+        {
+            "@value": "More soy sauce and chopped green onions for serving"
+        },
+        {
+            "@value": "1 12oz bag frozen mixed vegetables"
+        },
+        {
+            "@value": "1 tsp garlic powder"
+        },
+        {
+            "@value": "2 T soy sauce"
+        },
+        {
+            "@value": "1/8 tsp black pepper"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Put rice in skillet, stir and let toast slightly. Pour in broth, cover and reduce heat to a simmer for 20 minutes."
+        },
+        {
+            "@value": "Mix together soy sauce, garlic powder and pepper. Cut the pork chops into very small pieces and soak in the soy sauce marinade."
+        },
+        {
+            "@value": "Add more soy sauce to taste and top with green onions"
+        },
+        {
+            "@value": "Meanwhile heat a skillet and the oil over medium heat. Add the onion and saute until they begin to soften."
+        },
+        {
+            "@value": "Push the rice to the edges of the skillet and pour the eggs into the center. Once they are set, stir them into the eggs."
+        },
+        {
+            "@value": "Add pork and soy sauce mixture and cook until pork is cooked through."
+        },
+        {
+            "@value": "Stir in the mixed vegetables and cook until softened."
+        }
+    ],
+    "recipeYield": {
+        "@value": "Yield: 6 servings"
+    },
+    "totalTime": {
+        "@value": "total time: 35 mins"
+    },
+    "@id": "http://example.org/recipe"
+}

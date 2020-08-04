@@ -1,0 +1,144 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "it-IT",
+            "@value": "2 pere Bartlett\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 cucchiaio di panna fresca\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "100 gr di noci\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "30 gr di burro\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Null"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "50 gr di farina\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "3 bicchierini di rum scuro di Jamaica\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "50 gr di burro\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Pepe nero\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "3 cucchiai di zucchero semolato\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Fleur de sal\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "300 gr di cream cheese\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "240 gr di gorgonzola dolce\n"
+        }
+    ],
+    "name": {
+        "@language": "it-IT",
+        "@value": "Cheesecake salata al gorgonzola dolce, con noci e pera fiammata al rum "
+    },
+    "recipeInstructions": [
+        {
+            "@language": "it-IT",
+            "@value": "Riempire tutti gli stampi fino all\u2019orlo, pressare e livellare il composto con l\u2019ausilio di una piccolo spatola da pasticciere. \n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Pulire I bordi e mettere in frigo per una notte\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Rimettere in frigo.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Spolverare con lo zucchero semolato , cuocere a fuoco vivo, mescolando e rigirando gli spicchi di pera frequentemente e con cautela per evitare che si rompano, fino a che lo zucchero non si sara\u2019 sciolto.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Mescolare la salsina rimasta nella padella lasciandola restringere un pochino.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Unire le noci tritate , la farina , il sale ed il pepe  in una ciotola e mescolare bene.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Aggiungere le pere e lasciare che cuociano un paio di minuti per lato.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Aggiungere il burro freddo a pezzetti e strofinare tra le mani in modo da incorporare tutto il burro. \n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Infornare gli stampi preparati e cuocere per 12 minuti circa. Rimuovere dal forno e lasciar raffreddare nella teglia stessa.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Porre una rondella in ogni stampo e premere bene in modo da coprire completamente il fondo.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Tagliare il gorgonzola a pezzettini ed unirlo  al cream cheese. Lavorare formaggi  assieme ad un cucchiaio di panna fresca,  fino a che il composto  sara\u2019 ben amalgamato e cremoso.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Mettere sul fuoco un\u2019ampia padella e sciogliervi dentro il burro.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Tritare le noci non molto finemente\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Nel frattempo accendere il forno e portarne la temperature a 180\u00b0C\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Passare la lama del coltello lungo il bordo degli stampini, premere il fondo e sformare le cheesecakes.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Tagliare ogni pera in sei spicchi.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Poggiare uno spicchio di pera su ogni cheesecake e servire la salsina  al rum calda come accompagnamento\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Dopo il riposo,  tagliare il panetto di impasto in rondelle alte poco piu\u2019 di un centimetro . \n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Compattare l\u2019impasto con le mani, senza lavorarlo troppo, e formare un cilindro con diametro pari a quello della base degli stampini per mini-cheesecakes. Avvolgerlo in carta da forno e mettere in frigo per almeno un ora.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Aggiungere il liquore e portarlo quasi ad ebollizione, fiammare e lasciar evaporare l\u2019alcol. Quando la fiamma si sara\u2019 spenta, rimuovere gli spicchi di pera\n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

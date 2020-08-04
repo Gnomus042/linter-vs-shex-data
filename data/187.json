@@ -1,0 +1,72 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "195"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Mark Bittman"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT2H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n                In this country, before there was flan, cr\u00e8me br\u00fbl\u00e9e, panna cotta, even vanilla pudding, there was rice pudding. Each of those desserts has the same goal: take lots of milk or cream, sweeten it and, through heat and a thickening agent, make it custardy. Flan and cr\u00e8me br\u00fbl\u00e9e use eggs, panna cotta uses gelatin and vanilla pudding and similar custards use eggs, cornstarch or flour.Rice pudding is both the most rustic and most elegant of those desserts, using only rice, milk and sugar. It may take some practice, but once you master it, it is among the easiest and most foolproof of desserts. And it is simply amazing how many people drool when they see it.\n                  \n      Featured in: \n      The Minimalist; How To Be A Pudding Head.\u00a0\n   \n\n\n                    \n                      \n                      Learn: How to Make Rice\n                    \n\n              "
+    },
+    "image": {
+        "@id": "https://static01.nyt.com/images/2016/04/18/dining/18COOKING-RICEPUDDING/18COOKING-RICEPUDDING-articleLarge.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\n              Rice Pudding\n        "
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Pinch saffron, optional\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Pinch salt\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    4\n                  \n                  \n                    cups milk\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bc to \u2153\n                  \n                  \n                    cup rice\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bd\n                  \n                  \n                    cup sugar\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Cinnamon stick or other flavoring, optional\n                  \n                "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                Heat oven to 300 degrees. Combine all ingredients in a 3- or 4-quart casserole or an ovenproof saucepan, stir a couple times, and place in oven. Bake for 30 minutes, then stir. Bake 30 minutes more, then stir; at this point the milk will have developed a bubbly tan surface (stir this back into the liquid), and rice will have begun to swell.\n                Cook for 30 more minutes. The surface will have redeveloped, darker this time, and kernels of rice will begin to predominate in mixture. Return mixture to oven and begin to check pudding every 10 minutes, stirring gently each time you check.\n                Remove pudding from oven when rice kernels are very swollen and mixture is still quite fluid. As it cools, it will thicken considerably. If you remove custard when mixture is thick, it will harden when it cools (though it will still be quite good to eat). Serve pudding warm, at room temperature or cold, alone or with whipped cream.\n              "
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 or more servings"
+    },
+    "@id": "http://example.org/recipe"
+}

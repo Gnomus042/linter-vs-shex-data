@@ -1,0 +1,107 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "nb-NO",
+            "@value": "3.8"
+        },
+        "reviewCount": {
+            "@language": "nb-NO",
+            "@value": "35"
+        }
+    },
+    "author": {
+        "@language": "nb-NO",
+        "@value": "heiaespen"
+    },
+    "description": {
+        "@language": "nb-NO",
+        "@value": "Det fins mye rare folk der ute. Du har folk som venter med sex til ekteskapet, du har folk som ikke drikker alkohol og jeg ville ikke blitt overrasket dersom det fantes folk som ikke spiste kj\u00f8tt ogs\u00e5. Sjukt. Men det er en annen gjeng med sjuke folk jeg vil frem til. En gjeng som f\u00e5r de n\u00e5 nevnte til \u00e5 fremst\u00e5 som (hvertfall noe i n\u00e6rheten av) normale."
+    },
+    "image": {
+        "@id": "https://heiamat.no/2012/08/26/langtidsstekt-tynnribbe/comment-page-2/?replytocom=73171/Null"
+    },
+    "keywords": {
+        "@language": "nb-NO",
+        "@value": "LANGTIDSSTEKT TYNNRIBBE"
+    },
+    "name": {
+        "@language": "nb-NO",
+        "@value": "LANGTIDSSTEKT TYNNRIBBE"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "nb-NO",
+            "@value": "200 calories"
+        },
+        "fatContent": {
+            "@language": "nb-NO",
+            "@value": "20 grams fat"
+        }
+    },
+    "recipeCategory": {
+        "@language": "nb-NO",
+        "@value": "KJ\u00d8TT"
+    },
+    "recipeCuisine": {
+        "@language": "nb-NO",
+        "@value": "European"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "nb-NO",
+            "@value": "1 p\u00e6re"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "fennikel"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "gulr\u00f8tter"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "sitron"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "olje"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "1 potet"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "timian"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "salt og pepper"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "350 g sellerirot"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "r\u00f8dl\u00f8k"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "500 g ribbe per pers(minimum)"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "nb-NO",
+        "@value": "\n\t\t\t\t\tS\u00e5nn gj\u00f8r du det\n\t\t\t\t\t- Gni ribba godt inn med salt og pepper, og n\u00e5r jeg sier godt s\u00e5 mener jeg omtrent det dobbelte av det du vanligvis tar. Inn i kriker og kroker.\n- Ribba blir veldig glad om den n\u00e5 kan f\u00e5 ligge i kj\u00f8leskapet et par dager f\u00f8r tilberedning.\n- Legg kj\u00f8ttet i en ildfast form med svoren ned, og fyll p\u00e5 med vann til det n\u00e5r ca. midten av ribba. Du kan gjerne legge noen hvitl\u00f8ksfedd, urter, stjerneanis, gulrot, l\u00f8k, laurb\u00e6rblad osv. i formen for \u00e5 gi ytterligere smak til sjyen. Dekk med aluminiumsfolie og stek i 40 minutter p\u00e5 180 grader.\n\n- Ta ut ribba, fjern aluminiumsfolien og snu ribba s\u00e5 den ligger med svorsiden opp. Vannet/sjyen skal forbli i formen. Legg en tallerken eller sammenkr\u00f8llet aluminiumsfolie under for \u00e5 f\u00e5 en liten forh\u00f8yning i midten. Skru ovnen ned til 80 grader, vent med \u00e5 sette inn ribba til ovnen holder den temperaturen.\n- Stek s\u00e5 i ca. 10 timer p\u00e5 80 grader. Jeg hadde kun 8 timer til r\u00e5dighet og det funket fint. Men 10 timer er \u00e5 anbefale om ribba er p\u00e5 4-6 kg.\n- Skru s\u00e5 varmen opp til 250 grader, og sett eventuelt p\u00e5 grillelementet om n\u00f8dvendig. F\u00f8lg godt med og observer matkunst bli til i det svoren bl\u00e5ser seg opp og blir superspr\u00f8 og god.\n- Ribba blir ekstremt saftig, og svoren kommer fra en helt annen verden. Jeg vil bruke ordet por\u00f8s istedetfor spr\u00f8, den knaser uten at det g\u00e5r utover tennene. Hallelujah baby.\n- Sjyen fra formen kan du servere som den er eller den kan kokes inn og tilsettes litt gode smaker som sennep, sm\u00f8r, sitron, urter, honning osv. for en mer kompleks saus.\n\nTilbeh\u00f8r\n- Jeg lagde en pure best\u00e5ende av sellerirot, potet og p\u00e6re. Skrell og kutt opp i mindre biter. Kok selleri og potet m\u00f8re, ha s\u00e5 i p\u00e6re til den ogs\u00e5 er m\u00f8r. Ha det over i blenderen til pure, smak til med salt, pepper og sm\u00f8r.\n- Gulr\u00f8ttene ble sk\u00e5ret i mindre biter p\u00e5 langs, kokt m\u00f8rt. Og stekt i panne med sm\u00f8r. Salte og pepre og dryss over litt finhakket timian.\n- I en ildfast form s\u00e5 hadde jeg skiver av fennikel og r\u00f8dl\u00f8ksb\u00e5ter. Dryss over litt olje, salt og pepper. Stekes p\u00e5 200 grader i en 20-30 minutter.\nV\u00e6rsegod!\n\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "nb-NO",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

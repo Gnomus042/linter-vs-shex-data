@@ -1,0 +1,38 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/0a79cb79-df97-4239-8b74-cf37ec25f70c.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "grilled indian yogurt drumsticks"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoon garam masala (Indian spice)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon salt\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    6\n                \n            \n            \n                \n                    \n                        \n                    \n                    chicken drumsticks\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoons fresh chopped mint\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    carton (6 oz) Yoplait\u00ae Greek Yogurt Honey Vanilla\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoon vegetable oil \n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Seray Tekin"
+        }
+    },
+    "datePublished": {
+        "@value": "2011-05-09"
+    },
+    "image": {
+        "@id": "https://static.yemektarifleri.com/images/public/thumbs/tatlilar.jpg"
+    },
+    "name": {
+        "@value": "Kurabiye Tarifi"
+    },
+    "recipeCategory": {
+        "@value": "Tatl\u0131 Tarifleri"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\u0095 1 kg. un"
+        },
+        {
+            "@value": "\u0095 250 gr. eritilmi\u015f tereya\u011f\u0131 veya margarin "
+        },
+        {
+            "@value": "\u0095 4 yumurta "
+        },
+        {
+            "@value": "\u0095 Bir tatl\u0131 ka\u015f\u0131\u011f\u0131 karbonat "
+        },
+        {
+            "@value": "\u0095 1 bardak s\u00fct "
+        },
+        {
+            "@value": "\u0095 1/2 kg. \u015feker "
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                    S\u00fct ile \u015feker kar\u0131\u015ft\u0131r\u0131l\u0131r. Buna eritilmi\u015f tereya\u011f\u0131n\u0131 ilave ediyoruz. Tereya\u011f\u0131 \u00e7ok s\u0131cak de\u011filse i\u00e7ine teker teker yumurtalar\u0131 k\u0131r\u0131yoruz. Una karbonat kar\u0131\u015ft\u0131r\u0131l\u0131yor ve \u00f6nceden yap\u0131lan kar\u0131\u015f\u0131mla kar\u0131\u015ft\u0131r\u0131p hamur haline getirilir. \n                    Hamur yo\u011frulduktan sonra, iki elle yuvarlanarak uzat\u0131l\u0131r ve bir baston durumuna getirilir. Bu hamurdan ceviz irili\u011finde par\u00e7alar kesilip her par\u00e7a iki avu\u00e7 aras\u0131nda yuvarlan\u0131r ve \u00e7ok hafif bir bi\u00e7imde yass\u0131la\u015ft\u0131r\u0131ld\u0131ktan sonra ya\u011flanm\u0131\u015f, unlanm\u0131\u015f tepsiye iki\u015fer parmak arayla dizilir. Kurabiyenin tepe noktalar\u0131 b\u0131\u00e7akla art\u0131 i\u015fareti \u015feklinde bir santim uzunlu\u011funda kesilir. \n                    F\u0131r\u0131n orta derecede \u0131s\u0131t\u0131ld\u0131ktan sonra tepsi i\u00e7ine konur ve f\u0131r\u0131n\u0131n derecesi yar\u0131 yar\u0131ya azalt\u0131l\u0131r. Yar\u0131m saat kadar pi\u015firildikten sonra tepsi f\u0131r\u0131ndan \u00e7\u0131kar\u0131l\u0131r ve kurabiyeler bir taba\u011fa aktar\u0131l\u0131r. So\u011fuduktan sonra servis yap\u0131l\u0131r.\n                  "
+    },
+    "@id": "http://example.org/recipe"
+}

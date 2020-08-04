@@ -1,0 +1,56 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@value": "Good Doggy Biscuits"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "6 tablespoons bacon drippings or margarine "
+        },
+        {
+            "@value": "1/2 teaspoon salt "
+        },
+        {
+            "@value": "1/2 cup powdered\nmilk "
+        },
+        {
+            "@value": "1 cup pureed vegetables\nor 2 to 3 tablespoons dried soup greens"
+        },
+        {
+            "@value": "1 teaspoon brown sugar "
+        },
+        {
+            "@value": "1 cup rye or buckwheat flour "
+        },
+        {
+            "@value": "1\negg "
+        },
+        {
+            "@value": "1 1/2 cups whole wheat flour "
+        },
+        {
+            "@value": "1/2 cup ice water "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Combine dry ingredients and cut in drippings or margarine until mixture resembles\ncornmeal."
+        },
+        {
+            "@value": "Heat oven to 350 degrees F. Lightly oil a cookie sheet."
+        },
+        {
+            "@value": "Cool on racks."
+        },
+        {
+            "@value": "Mix in egg, vegetables and add enough water to make mixture form a ball."
+        },
+        {
+            "@value": "Bake for 25 to 30 minutes."
+        },
+        {
+            "@value": "With fingers, on a lightly floured board, pat dough out to 1/2 inch thick. Cut with\ncutter and place on prepared cookie sheet."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

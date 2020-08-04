@@ -1,0 +1,11 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://www.trinkwelten.de/wp-content/keinbild.png"
+    },
+    "name": {
+        "@language": "de-DE",
+        "@value": "Carroll Gardens"
+    },
+    "@id": "http://example.org/recipe"
+}

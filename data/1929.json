@@ -1,0 +1,123 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "es-ES",
+        "@value": "Mar\u00eda del Carmen Gonz\u00e1lez"
+    },
+    "image": {
+        "@id": "https://cocinayrecetas-static.hola.com/lacocinaperfecta/files/2016/04/IMG_8619.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "es-ES",
+            "@value": "4 dientes de ajo"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Aceite de oliva virgen extra"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Pimienta molida"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Sal"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Medio vasito de vino blanco"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "1 br\u00f3colis grande"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "200 gr de champi\u00f1ones"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "1 cebolla"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "120 gr de bacon"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Queso rallado"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Velout\u00e9 de queso"
+        }
+    ],
+    "name": {
+        "@language": "es-ES",
+        "@value": "Gratinado de br\u00f3colis, champi\u00f1ones y bacon con velout\u00e9 de queso"
+    },
+    "recipeCategory": {
+        "@language": "es-ES",
+        "@value": "Recetas con el horno"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "es-ES",
+            "@value": "Sobre la velout\u00e9 ponemos un poco de queso rallado."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Gratinamos unos minutos, 10 minutos m\u00e1s o menos, hasta que el queso est\u00e9 fundido y dorado al gusto."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "A\u00f1adimos los champi\u00f1ones laminados y salteamos."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "En una sart\u00e9n ponemos un fondo de aceite de oliva virgen extra, agregamos la cebolla cortada en juliana y los ajos picados."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Hacemos la velout\u00e9 siguiente la receta que os he dejado el enlace en el inicio de esta entrada."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Troceamos el br\u00f3colis y lo ponemos en una olla con agua y sal a cocer. Cuando est\u00e9 tierno, retiramos, escurrimos y reservamos."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Montamos la bandeja, para ello ponemos el br\u00f3colis en el fondo de una bandeja o fuente apta para el horno."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Cubrimos ahora todo con la velout\u00e9 de queso."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Cuando el bacon est\u00e9 crujiente, salpimentamos y ponemos un chorrito peque\u00f1o de vino. Dejamos reducir."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Cuando la cebolla est\u00e9 tierna y transparente, a\u00f1adimos el bacon cortado en tiras y salteamos bien."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Cuando los champi\u00f1ones est\u00e9n tiernos, apagamos el fuego y reservamos."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Servimos."
+        },
+        {
+            "@language": "es-ES",
+            "@value": "Sobre el br\u00f3colis ponemos los champi\u00f1ones con el bacon y extendemos bien para que quede todo bien cubierto."
+        }
+    ],
+    "recipeYield": {
+        "@language": "es-ES",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

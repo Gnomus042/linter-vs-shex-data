@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en",
+        "@value": "10 min; Cook: 1 hr"
+    },
+    "image": {
+        "@id": "https://recipes-secure-graphics.grocerywebsite.com/0_GraphicsRecipes/4189_4k.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Pumpkin Cranberry Bread"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "granulated sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "vegetable oil"
+        },
+        {
+            "@language": "en",
+            "@value": "orange juice OR water"
+        },
+        {
+            "@language": "en",
+            "@value": "fresh or frozen cranberries"
+        },
+        {
+            "@language": "en",
+            "@value": "all-purpose flour"
+        },
+        {
+            "@language": "en",
+            "@value": "eggs"
+        },
+        {
+            "@language": "en",
+            "@value": "baking soda"
+        },
+        {
+            "@language": "en",
+            "@value": "plus 2 teaspoons pumpkin pie spice"
+        },
+        {
+            "@language": "en",
+            "@value": "(15 ounce) 100% pure pumpkin"
+        },
+        {
+            "@language": "en",
+            "@value": "salt"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Preheat oven to 350 degrees F  Grease and flour two 9x5-inch loaf pans.Combine flour, pumpkin pie spice, baking soda and salt in large bowl and set aside.  Combine sugar, pumpkin, eggs, vegetable oil and orange juice in large mixer bowl;  beat until just blended.  Add flour mixture to pumpkin mixture and mix just until combined; fold in cranberries.  Spoon batter into prepared loaf pans.  Bake for 60 to 65 minutes or until wooden pick inserted in center comes out clean.  Cool in pans on wire racks for 10 minutes;  remove to wire racks to cool completely.  "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "2 to 6 loaves depending on loaf pan size"
+    },
+    "@id": "http://example.org/recipe"
+}

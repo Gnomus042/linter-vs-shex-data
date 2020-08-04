@@ -1,0 +1,164 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@value": "White couverture chocolate"
+        },
+        {
+            "@value": "Unsalted butter"
+        },
+        {
+            "@value": "Gelatin (= 1 sheet)"
+        },
+        {
+            "@value": "Eggs (~4 eggs)"
+        },
+        {
+            "@value": "Pistachio paste"
+        },
+        {
+            "@value": "Orange blossom water"
+        },
+        {
+            "@value": "Eggs (~2 eggs)"
+        },
+        {
+            "@value": "Pistachios"
+        },
+        {
+            "@value": "Heavy cream (35% fat)"
+        },
+        {
+            "@value": "Granulated sugar"
+        },
+        {
+            "@value": "Mint or basil leaves"
+        },
+        {
+            "@value": "Baking powder"
+        },
+        {
+            "@value": "Fresh strawberries"
+        },
+        {
+            "@value": "Salt"
+        },
+        {
+            "@value": "Strong flour"
+        },
+        {
+            "@value": "Water"
+        },
+        {
+            "@value": "Milk"
+        },
+        {
+            "@value": "Grapeseed oil"
+        },
+        {
+            "@value": "Almond paste (50% sugar)"
+        }
+    ],
+    "name": {
+        "@value": "Pistachio and strawberry \u00e9clairs"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Cut the spongecake in 2x9cm rectangles and dip them in the strawberry syrup"
+        },
+        {
+            "@value": "Place the dipped spongecake rectangles inside the \u00e9clairs halves"
+        },
+        {
+            "@value": "Spread the batter on a parchment-lined pan and bake for 8 minutes at 180\u00b0C. Let the spongecake cool down on a wire rack."
+        },
+        {
+            "@value": "In the bowl of a mixer fitted with the paddle attachment, mix the sugar and ground almond paste to form a thick dough"
+        },
+        {
+            "@value": "Pour half of the boiling cream over the white couverture chocolate and pistachio paste and stir to form an emulsion"
+        },
+        {
+            "@value": "Stir with a spatula or wooden spoon then put the pan back on the heat and continue stirring the dough"
+        },
+        {
+            "@value": "Add the remaining half of the hot cream and stir again until it's all incorporated, then add the gelatin. Refrigerate for at least two hours."
+        },
+        {
+            "@value": "Add the oil and keep on mixing for a few minutes until the pistachios become a thick paste and start releasing their \"oil\". Store the pistachio paste in an air-tight container."
+        },
+        {
+            "@value": "Add the eggs one by one while mixing. Scrape the bowl often if needed."
+        },
+        {
+            "@value": "Keep drying the dough up on the heat only for a few minutes until it comes away from the sides of the pan and leaves a thin film on the bottom of the saucepan"
+        },
+        {
+            "@value": "In a saucepan, bring the cream to a boil on medium heat"
+        },
+        {
+            "@value": "Finally decorate with some coarsely chopped pistachios"
+        },
+        {
+            "@value": "Let the gelatin soak in cold water for around 10 minutes before using it"
+        },
+        {
+            "@value": "Add the flour and baking powder sifted together then mix again until they are incorporated"
+        },
+        {
+            "@value": "Divide the whipped ganache in two piping bags fitted with star tips of different sizes and use them alternately over the \u00e9clairs so that the spongecake is completely covered"
+        },
+        {
+            "@value": "Bake at 170\u00b0C for at least 40 minutes or until the \u00e9clairs are dry and not too soft."
+        },
+        {
+            "@value": "When the dough is shiny but firm (i.e. not runny), it is ready to be piped. Pipe 11cm stripes using a star tip on a parchment-lined pan."
+        },
+        {
+            "@value": "Add some strawberry slices of different sizes over each \u00e9clair"
+        },
+        {
+            "@value": "Toast the pistachios 15-20 minutes at 150\u00b0C and then let them cool down at room temperature"
+        },
+        {
+            "@value": "Add an egg and stir until it is completely absorbed in the dough"
+        },
+        {
+            "@value": "Melt the butter"
+        },
+        {
+            "@value": "Place the white couverture chocolate and pistachio paste in a bowl"
+        },
+        {
+            "@value": "When the syrup is at room temperature, add the orange blossom water and the pureed strawberries"
+        },
+        {
+            "@value": "Transfer the dough to a clean bowl and let it cool down for a few minutes"
+        },
+        {
+            "@value": "Mix the pistachios at high speed for a few seconds: remove some coarsely chopped pistachios and keep them for the decoration."
+        },
+        {
+            "@value": "Remove from the heat and immediately add all the flour"
+        },
+        {
+            "@value": "Add the milk and melted butter (max 45\u00b0C) into the mixture. The result must be rather airy and not too liquid."
+        },
+        {
+            "@value": "Bring to a boil the milk, water, salt and butter in a saucepan. Make the sure the butter is fully melted."
+        },
+        {
+            "@value": "Add all the other eggs one at a time. Slightly beat the last egg before adding it then pour it slowly little by little on the dough, checking frequently if the dough has reached the right consistency"
+        },
+        {
+            "@value": "Heat the water and sugar in a saucepan on medium heat and let the mixture boil for one minute"
+        },
+        {
+            "@value": "Cut the baked \u00e9clairs in two"
+        },
+        {
+            "@value": "Whip the pistachio ganache over an ice bath until it becomes thick and can be piped easily. At this stage it might be needed to refrigerate the whipped ganache for a while before piping."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

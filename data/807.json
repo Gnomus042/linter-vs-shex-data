@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "de",
+        "@value": "Null"
+    },
+    "brand": {
+        "@language": "de",
+        "@value": "belallure.me"
+    },
+    "image": {
+        "@language": "de",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1ZenJLXXXXXcEXpXXq6xXFXXX7/Vintage-Stil-und-Regenbogen-Farbe-Antike-Kronleuchter.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "de",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "de",
+            "@value": "32709391277"
+        }
+    ],
+    "name": {
+        "@language": "de",
+        "@value": "Vintage Stil und Regenbogen Farbe Antike Kronleuchter"
+    },
+    "@id": "http://example.org/recipe"
+}

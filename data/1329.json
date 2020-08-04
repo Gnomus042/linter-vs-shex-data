@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "calories": [
+        {
+            "@language": "en",
+            "@value": "medium"
+        },
+        {
+            "@language": "en",
+            "@value": "110"
+        }
+    ],
+    "cookTime": {
+        "@language": "en",
+        "@value": "Null"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Jaggery Recipes, Sweet Recipes Sweet Potato & Rice flakes Lollipop"
+    },
+    "image": {
+        "@id": "http://ruchiyanarecipes.com//cdn/recipes/IRecipes_00753940015587775360_orig.JPG"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "2 Tea Spoon roasted sesame seeds\n"
+        },
+        {
+            "@language": "en",
+            "@value": "250 Gms. Pure Ghee\n"
+        },
+        {
+            "@language": "en",
+            "@value": "Half Tea spoon Nutmeg powder\n"
+        },
+        {
+            "@language": "en",
+            "@value": "2 to 3 Tea Spoon Pitambari Ruchiyana Jaggery Powder for caramel"
+        },
+        {
+            "@language": "en",
+            "@value": "2 to 3 Tea spoon cashew powder\n"
+        },
+        {
+            "@language": "en",
+            "@value": "4 to 5 Tea Spoon Pitambari Ruchiyana Jaggery Powder\n"
+        },
+        {
+            "@language": "en",
+            "@value": "4 boiled and peeled sweet potatoes\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 small bowl rice flakes powder\n"
+        }
+    ],
+    "nutrition": {
+        "@language": "en",
+        "@value": "\n                \n                    Serves: 2 People\n                    Prep Time: 60mins\n                    Cooking: \n                    Calories: 110\n                    Difficulty: medium\n                \n                 Print\n                \n            "
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "60mins"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n                                    Boil sweet potatoes, peel it and grate it.\n\n                                    Heat a pan. Add 2 Tea Spoon Pure Ghee in a pan.\n\n                                    Add grated sweet potatoes,\n\n                                    3 Tea spoon Pitambari Ruchiyana Jaggery Powder,\n\n                                    1 small bowl rice flakes powder, 3 Tea spoon cashew powder,\n\n                                    Half Tea spoon Nutmeg powder and stir well.\n\n                                    Allow it to cook well. When mixture is ready allow it to cool down.\n\n                                    Now take small portion of mixture and shape it like lollipop.\n\n                                    Heat the pure ghee in another pan for deep frying.\n\n                                    Deep fry lollipops.\n\n                                    In another pan add 2-3 spoons of Pitambari Ruchiyana Jaggery powder and water and make caramel.\n\n                                    Now pour caramel on each lollipop separately\n\n                                    Put 2 to 3 pinch of roasted sesame seeds on it.\n\n                                    Delicious Sweet Potato Lollipops are ready to eat.\n                            "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "2 People"
+    },
+    "@id": "http://example.org/recipe"
+}

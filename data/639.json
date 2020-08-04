@@ -1,0 +1,51 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "CookingGlory"
+    },
+    "image": {
+        "@id": "http://cookingglory.com/wp-content/uploads/2012/10/blueberry-banana-smoothie-192x250.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 banana, cut into chunks, frozen"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup plain almond milk, chilled"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup blueberries, frozen"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup ice cubes ... or more"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Blueberry and Banana Smoothie"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Add more almond milk if you want it thinner. Mine had a lot of ice and did not require thinning. lol"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Have fun!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a blender combine blueberries, banana, ice and almond milk. Blend until smooth or however you want it."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "2 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,140 @@
+{
+    "@type": "Recipe",
+    "image": [
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/KULEBYAKA-13-min.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556135193978838.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540557165132332220.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556086185914397.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540557834151242976.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556548183493659.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556186120666737.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556931196994309.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/154055611019451441.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556769119024352.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556320131291409.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556888141028154.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540555431187679246.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556826150799874.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/15405571051186506.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540555772168873312.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556033124661666.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556207152662156.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556464113273602.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/154055638817033504.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540556510178976583.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540557878116217015.jpg"
+        },
+        {
+            "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540557917137032433.jpg"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "ru-RU",
+            "@value": "\u042f\u0439\u0446\u0430 \u2013 5 \u0448\u0442\u0443\u043a (\u043d\u0430\u0447\u0438\u043d\u043a\u0430, \u0441\u043c\u0430\u0437\u044b\u0432\u0430\u043d\u0438\u0435)"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0414\u0440\u043e\u0436\u0436\u0438 \u0441\u0432\u0435\u0436\u0438\u0435 \u2013 20 \u0433\u0440\u0430\u043c\u043c\u043e\u0432 (\u0438\u043b\u0438 10 \u0441\u0443\u0445\u0438\u0445)"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0425\u043c\u0435\u043b\u0438-\u0441\u0443\u043d\u0435\u043b\u0438 \u2013 1.5 \u0447.\u043b\u043e\u0436\u043a\u0438"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0420\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e \u2013 20-30 \u0433\u0440\u0430\u043c\u043c\u043e\u0432"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0421\u0432\u0438\u043d\u0438\u043d\u0430 \u2013 300 \u0433\u0440\u0430\u043c\u043c\u043e\u0432"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u041f\u0435\u0440\u0435\u0446"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u041c\u0443\u043a\u0430 \u2013 300 \u0433\u0440\u0430\u043c\u043c\u043e\u0432 + \u043d\u0435\u043c\u043d\u043e\u0433\u043e"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0421\u043e\u043b\u044c \u2013 1 \u0449\u0435\u043f\u043e\u0442\u043a\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0421\u0430\u0445\u0430\u0440 \u2013 1 \u0441\u0442.\u043b\u043e\u0436\u043a\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0421\u043e\u043b\u044c"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0413\u043e\u0432\u044f\u0434\u0438\u043d\u0430 \u2013 300 \u0433\u0440\u0430\u043c\u043c\u043e\u0432"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u043b\u0443\u043a \u2013 1 \u043f\u0443\u0447\u043e\u043a"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u041b\u0443\u043a \u2013 1 \u0448\u0442\u0443\u043a\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0420\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u041c\u043e\u043b\u043e\u043a\u043e \u2013 100 \u043c\u043b"
+        }
+    ],
+    "resultPhoto": {
+        "@id": "https://pokashevarim.ru/wp-content/uploads/2018/10/1540555717157281470-1.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,81 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@value": "3.3"
+        }
+    },
+    "author": {
+        "@value": "Alletiders Kogebog"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2008-07-19"
+    },
+    "description": {
+        "@value": "\n\n\nSe kokkens favoritopskrift p\u00e5 Vafler  \n\n\n\n\n"
+    },
+    "keywords": {
+        "@value": "Nemme vafler, Opskrift, Alletiders, Kogebog"
+    },
+    "name": {
+        "@value": " Nemme vafler "
+    },
+    "recipeCategory": {
+        "@value": "Varm Dessert"
+    },
+    "recipeCuisine": {
+        "@value": "Ukendt oprindelsesland"
+    },
+    "recipeIngredient": [
+        {
+            "@value": " lidt salt"
+        },
+        {
+            "@value": "Null"
+        },
+        {
+            "@value": "4 dl. m\u00e6lk"
+        },
+        {
+            "@value": "125 g. Becel (eller andet flydende margarine)"
+        },
+        {
+            "@value": "250 g. hvedemel"
+        },
+        {
+            "@value": "  saft fra 1 app."
+        },
+        {
+            "@value": "1  \u00e6g"
+        },
+        {
+            "@value": "1 tsk. bagepulver"
+        },
+        {
+            "@value": "2 tsk. sukker"
+        },
+        {
+            "@value": "2 tsk. vanillesukker"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "Pisk det hele sammen.\nVarm vaffeljernet p\u00e5 og pensel det med lidt margarine. Kom 1 dl. dej p\u00e5 pladen og steg dem til de er gyldne og spr\u00f8de.\nServeres lune med syltet\u00f8j og vanilleis"
+    },
+    "recipeYield": {
+        "@value": "6\u00a0Portioner"
+    },
+    "url": {
+        "title": {
+            "@value": "Nemme vafler - opskrift - Alletiders Kogebog"
+        },
+        "item": {
+            "@id": "_:Na41053cb0eec49fcbbf1adc3b326fd07"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

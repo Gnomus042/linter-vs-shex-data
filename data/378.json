@@ -1,0 +1,92 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "no",
+        "@value": "Espen og Line Ottem, Ongajoksetra"
+    },
+    "description": {
+        "@language": "no",
+        "@value": "Hva med denne oppskriften p\u00e5 ostekake? Tytteb\u00e6rene gir en syrlig og frisk smak til ostekremen. Og fargen er jo helt fantastisk."
+    },
+    "image": {
+        "@id": "https://www.aperitif.no/artikler/ukens-kake-denne-vrien-pa-ostekake-har-du-kanskje-ikke-provd-for/346009///img.gfx.no/1861/1861157/phpmz7jmm.580x237c.jpg"
+    },
+    "name": {
+        "@id": "https://www.aperitif.no/artikler/ukens-kake-denne-vrien-pa-ostekake-har-du-kanskje-ikke-provd-for/346009//oppskrifter/oppskrift/ostekake-med-tyttebaersaus/64483"
+    },
+    "ratingCount": {
+        "@language": "no",
+        "@value": "Null"
+    },
+    "ratingValue": {
+        "@language": "no",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "no",
+            "@value": "tytteb\u00e6r"
+        },
+        {
+            "@language": "no",
+            "@value": "tytteb\u00e6rsaus"
+        },
+        {
+            "@language": "no",
+            "@value": "pl gelatin"
+        },
+        {
+            "@language": "no",
+            "@value": "philadelfiaost"
+        },
+        {
+            "@language": "no",
+            "@value": "vann"
+        },
+        {
+            "@language": "no",
+            "@value": "vaniljesukker"
+        },
+        {
+            "@language": "no",
+            "@value": "sukker"
+        },
+        {
+            "@language": "no",
+            "@value": "digestivekjeks"
+        },
+        {
+            "@language": "no",
+            "@value": "sm\u00f8r"
+        },
+        {
+            "@language": "no",
+            "@value": "kremfl\u00f8te"
+        },
+        {
+            "@language": "no",
+            "@value": "r\u00f8mme"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "no",
+        "@value": " Tytteb\u00e6rsaus: \nKok sammen tytteb\u00e6r, vann og sukker i 30 minutter. Kj\u00f8r i foodprosessor til b\u00e6rene knuses. Sil sausen og avkj\u00f8l.\n\u00a0\n Ostekake: \nSmelt sm\u00f8r. Knus kjeksen og bland sammen med sm\u00f8r. Trykk inn i en kakeform (26 cm).\n\u00a0\nHa gelatin i kaldt vann til den er oppbl\u00f8tt. Varm opp tytteb\u00e6rsausen, tilsett gelatinen og r\u00f8r godt rundt til den har oppl\u00f8st seg. Pass p\u00e5 at sausen ikke koker. Avkj\u00f8l.\n\u00a0\nPisk fl\u00f8te, sukker og vaniljesukker til en luftig krem. Pisk sammen r\u00f8mme og philadelfiaost til blandingen er klumpfri. Bland sammen kremen, r\u00f8mmeblandingen og tytteb\u00e6rsausen.\n\u00a0\nHell i kakeformen, og sett kaldt til det har stivnet. Server med tytteb\u00e6rcoulien som ble til overs.\n\u00a0\nDenne friske ostekaken smaker som Finnmarksvidda selv med et syrlig hint av tytteb\u00e6r."
+    },
+    "recipeYield": {
+        "@language": "no",
+        "@value": "10"
+    },
+    "sameAs": {
+        "@language": "no",
+        "@value": "https://www.aperitif.no/oppskrifter/oppskrift/ostekake-med-tyttebaersaus/64483"
+    },
+    "totalTime": {
+        "@language": "no",
+        "@value": "PT1.5H"
+    },
+    "url": {
+        "@language": "no",
+        "@value": "https://www.aperitif.no/oppskrifter/oppskrift/ostekake-med-tyttebaersaus/64483"
+    },
+    "@id": "http://example.org/recipe"
+}

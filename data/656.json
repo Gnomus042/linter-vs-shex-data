@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://livinglasvegans.com/lvgns/uploads/2016/03/12472356_10208961397622437_8819991219231680530_n.jpg"
+    },
+    "name": {
+        "@language": "es",
+        "@value": "Brochetas de soja texturizada"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "es",
+            "@value": "1 pimiento verde grande"
+        },
+        {
+            "@language": "es",
+            "@value": "24 bolas de soja texturizada cruesa"
+        },
+        {
+            "@language": "es",
+            "@value": "Vinagre de manzana"
+        },
+        {
+            "@language": "es",
+            "@value": "1 cebolla mediana"
+        },
+        {
+            "@language": "es",
+            "@value": "Salsa soja"
+        },
+        {
+            "@language": "es",
+            "@value": "Agua hirviendo"
+        },
+        {
+            "@language": "es",
+            "@value": "Pinchos para montar las brochetas"
+        },
+        {
+            "@language": "es",
+            "@value": "1 pimiento rojo peque\u00f1o"
+        },
+        {
+            "@language": "es",
+            "@value": "Aceite"
+        },
+        {
+            "@language": "es",
+            "@value": "Sazonador para pinchos morunos/barbacoa/pollo..."
+        }
+    ],
+    "recipeYield": {
+        "@language": "es",
+        "@value": "6 unidades"
+    },
+    "@id": "http://example.org/recipe"
+}

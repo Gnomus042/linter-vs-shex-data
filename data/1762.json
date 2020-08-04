@@ -1,0 +1,26 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "kedvenc-receptek.hu"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2012-03-15"
+    },
+    "description": {
+        "@value": "M\u00e1rcius 15-\u00e9n tal\u00e1n a Kossuth kifli az a s\u00fcti, ami illik az \u00fcnnephez. A hozz\u00e1val\u00f3k k\u00f6z\u00fcl a mandula di\u00f3val is helyettes\u00edthet\u0151, nem fogja elrontani!"
+    },
+    "name": {
+        "@value": "Kossuth kifli"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@value": "vaj, liszt, \u00e9leszt\u0151, tej, cukor, citrom h\u00e9j, mandula van\u00edli\u00e1s cukor"
+    },
+    "@id": "http://example.org/recipe"
+}

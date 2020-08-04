@@ -1,0 +1,78 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "4 each (1/2 pound to 3/4 pound) whole calamari, large"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 red and yellow brunoise peppers"
+        },
+        {
+            "@language": "en",
+            "@value": "ROASTED POBLANO SAUCE:"
+        },
+        {
+            "@language": "en",
+            "@value": "1 roasted red pepper, diced small"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup bread crumbs"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons. minced shallots"
+        },
+        {
+            "@language": "en",
+            "@value": "Juice of one lemon"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup goat cheese"
+        },
+        {
+            "@language": "en",
+            "@value": "Salt and pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "2 green Poblanos, roasted, peeled, seeded, and diced"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup mayonnaise (homemade or prepared)"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tablespoon minced garlic"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup chopped leeks, white part only"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup snipped chives"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Grilled Stuffed Calamari With Roasted Poblano Sauce"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n          \n                          4 each (1/2 pound to 3/4 pound) whole calamari, large                          2 tablespoons. minced shallots                          1 tablespoon minced garlic                          1/2 cup chopped leeks, white part only                          1/2 cup goat cheese                          1 roasted red pepper, diced small                          1/4 cup bread crumbs                          Salt and pepper                          2 tablespoons olive oil                          ROASTED POBLANO SAUCE:                          2 green Poblanos, roasted, peeled, seeded, and diced                          1 tablespoon minced garlic                          1 cup mayonnaise (homemade or prepared)                          Juice of one lemon                          Salt and pepper                          1/2 cup snipped chives                          1/2 red and yellow brunoise peppers                       \n        "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Yield:"
+    },
+    "@id": "http://example.org/recipe"
+}

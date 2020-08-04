@@ -1,0 +1,110 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "10"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.8"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Hayley Parker, The Domestic Rebel"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "This No Bake Rice Krispy Treat Cheesecake is phenomenal! Light, fluffy and packed with flavor, it's perfect for any and every die-hard RKT fan!"
+    },
+    "image": {
+        "@id": "https://cf.thedomesticrebel.com/wp-content/uploads/2016/06/RKT-NO-BAKE-CHEESECAKE.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 pkg miniature marshmallows"
+        },
+        {
+            "@language": "en-US",
+            "@value": "FOR CRUST:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (8 oz) pkg Cool Whip, thawed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "FOR GARNISH:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6 cups Rice Krispies cereal"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp vanilla extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cubed & prepared Rice Krispy Treat Squares (I used the ones from the box)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (7 oz) jar marshmallow creme/fluff"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup salted butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "FOR FILLING:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Whipped cream"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (8 oz) pkg cream cheese, softened"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Rice Krispy Treat No Bake Cheesecake"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "No Bake"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "While crust sets, make your filling. In a large bowl of a stand mixer, cream together the cream cheese, sugar and vanilla until smooth, about 1 minute. Beat in the marshmallow creme until smooth. Lastly, fold in the Cool Whip by hand until combined."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spread the filling mixture into the crust, smoothing out the top. Garnish with whipped cream piped along the perimeter of the cheesecake and top with stacked prepared & cubed Rice Krispy Treats in the center. Chill for at least 2 hours in the fridge before cutting into slices."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Liberally grease a 9\" or 10\" springform pan with cooking spray. Set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large bowl, add in the Rice Krispies cereal. Set aside momentarily. In a medium saucepan, melt the salted butter and marshmallows together over low heat, stirring constantly, until melted and smooth. Pour the melted marshmallow mixture over the cereal and toss until totally combined. Pour the cereal into the prepared pan and, using a greased glass cup, press the cereal mixture into the pan, forming a base and sides. Put aside to set, about 20 minutes."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "8-10"
+    },
+    "@id": "http://example.org/recipe"
+}

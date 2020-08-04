@@ -1,0 +1,70 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "nl",
+        "@value": "2018-10-24"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Gegrild & vegetarisch? Paneer werkt geweldig in een heerlijke burger!"
+    },
+    "image": {
+        "@language": "nl",
+        "@value": "https://cdn-rdb.arla.com/apetina-nl/vegetarische-paneerburger/1439033026.jpg?w=2000&h=1500&mode=crop&transform=downfill&quality=80&ak=1ea0b694&hm=b19d4d96"
+    },
+    "name": {
+        "@language": "nl",
+        "@value": "Vegetarische paneerburger"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "nl",
+            "@value": "1 eetl.  Dijonmosterd "
+        },
+        {
+            "@language": "nl",
+            "@value": "3 eetl.  boter "
+        },
+        {
+            "@language": "nl",
+            "@value": "4 verpakking artisan  Brood "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                            1 \n                            Apetina\u00ae Paneer\n                            225 g, in de lengte doorgesneden\n                        "
+        },
+        {
+            "@language": "nl",
+            "@value": "1 eetl.  tandoori kruidenmix "
+        },
+        {
+            "@language": "nl",
+            "@value": "0,5  avocado , in de lengte doorgesneden"
+        },
+        {
+            "@language": "nl",
+            "@value": "0,5 dl  mayonaise "
+        },
+        {
+            "@language": "nl",
+            "@value": "2 bladjes  romaine sla "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "nl",
+        "@value": "\n                                bereidingswijze:\n                            \n1. Snijdt de kaas in twee delen. Bak ze lichtbruin aan beide kanten in de boter op middelhoog vuur in een koekenpan.\n\n\n\n\n\n                            \n2. Voeg het kruidenmengsel toe en rooster nog ongeveer 1 minuut.\n                            \n3.Pak de sneetjes brood. Verdeel, snij en snijd avocado's in schijven. Roer de mayonaise en mosterd en smeer op  het brood.\n                            \n4. Leg ze op elkaar: sla, avocado en paneer ertussen.\n                            \nEet smakelijk!\n                    "
+    },
+    "recipeYield": {
+        "@language": "nl",
+        "@value": "Porties: 2"
+    },
+    "totalTime": {
+        "@language": "nl",
+        "@value": "PT10M"
+    },
+    "url": {
+        "@language": "nl",
+        "@value": "https://www.apetina.com/nl/recipes/vegetarische-paneerburger/"
+    },
+    "@id": "http://example.org/recipe"
+}

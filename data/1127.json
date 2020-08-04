@@ -1,0 +1,40 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Organization",
+        "name": {
+            "@language": "en",
+            "@value": "Thrively "
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT65M"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "This healthy cake is perfect for birthdays and other celebrations when you want to create something special. Made with whipped coconut cream, wholegrain cake layers and fresh berries it\u2019s deliciously light and fresh. "
+    },
+    "image": [
+        {
+            "@language": "en",
+            "@value": "https://s3-eu-west-1.amazonaws.com/store.tabl.com/recipes/164.jpg"
+        },
+        {
+            "@id": "https://res.cloudinary.com/tablmarket/image/fetch/c_fill,f_auto,g_center,h_30,q_10,w_40/https://s3-eu-west-1.amazonaws.com/store.tabl.com/recipes/164.jpg"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Chocolate and Berry Celebration Cake"
+    },
+    "position": {
+        "@language": "en",
+        "@value": "2"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT65M"
+    },
+    "@id": "http://example.org/recipe"
+}

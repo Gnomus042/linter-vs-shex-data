@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://mesbrouillonsdecuisine.fr/wp-content/uploads/2017/11/MG_4429-copie.jpg"
+    },
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Brownie aux noix et \u00e0 l'aquafaba"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fr-FR",
+            "@value": "60g de sirop d\u2019\u00e9rable"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "45g d\u2019huile de noix de coco "
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "100g d\u2019aquafaba"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "70g de sucre complet (ou cassonade \u00e0 d\u00e9faut)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "90g + 40g de p\u00e9pites de chocolat noir (j'ai achet\u00e9 en vrac dans un magasin bio)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "100g de farine (ici T65)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\u00bd cuill\u00e8re \u00e0 caf\u00e9 d\u2019extrait de vanille"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "30g de noix h\u00e2ch\u00e9es"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 cuill\u00e8re \u00e0 caf\u00e9 de caf\u00e9 instantan\u00e9 en poudre"
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "9 carr\u00e9s"
+    },
+    "@id": "http://example.org/recipe"
+}

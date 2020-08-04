@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Melissa King"
+        }
+    },
+    "cookTime": {
+        "@value": "2019-11-23T00:00:00+00:00"
+    },
+    "description": {
+        "@value": "The perfect soup for Fall!"
+    },
+    "image": {
+        "@id": "https://mywholefoodlife.com/wp-content/uploads/2015/09/Kale-White-Bean-Squash-Soup-My-Whole-Food-Life.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "  4   cups  white beans  (measurement taken after hydrating) "
+        },
+        {
+            "@value": "     Salt to taste  "
+        },
+        {
+            "@value": "  1/2   a kabocha squash, roasted (butternut will probably work as well) "
+        },
+        {
+            "@value": "  4   carrots, chopped "
+        },
+        {
+            "@value": "  1    bay leaf  "
+        },
+        {
+            "@value": "  3   stalks celery, chopped "
+        },
+        {
+            "@value": "  5-6   leaves kale, stems removed and chopped "
+        },
+        {
+            "@value": "  2   cloves garlic, chopped "
+        },
+        {
+            "@value": "  4   cups  vegetable broth  "
+        },
+        {
+            "@value": "  1   yellow onion, chopped "
+        },
+        {
+            "@value": "  1/2   tsp oregano "
+        }
+    ],
+    "name": {
+        "@value": "Kale White Bean Squash Soup"
+    },
+    "prepTime": {
+        "@value": "2019-11-23T00:30:00+00:00"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Preheat oven to 400."
+        },
+        {
+            "@value": "If you have an  Instant Pot , I cooked the squash on the manual setting for 7 minutes. Just cut the squash in half, scooped out the seeds, poke holes in the squash, and place it in the Instant Pot."
+        },
+        {
+            "@value": "Remove the soup from heat. Add the kale, cover and let stand for 20 minutes."
+        },
+        {
+            "@value": "Add more salt if necessary."
+        },
+        {
+            "@value": "In a  large stock pot , combine all the ingredients, except the kale. Cook covered on medium heat for 1 1/2 hours. You can even add the skin from the squash since it's edible."
+        },
+        {
+            "@value": "Cut the squash in half, remove the seeds, brush with oil and place on a lined  baking sheet . Bake for about 45 minutes. You know it's done when you can easily stick a fork through the flesh. The recipe only calls for 1/2 the squash, so freeze the other half you don't use."
+        }
+    ],
+    "recipeYield": {
+        "@value": "5-6 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

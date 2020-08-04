@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "\n                                                Par Socopa                    "
+    },
+    "cookTime": {
+        "@value": "30 min"
+    },
+    "datePublished": {
+        "@value": "2012-04-03 14:07:21"
+    },
+    "description": {
+        "@value": "\n                                Pr\u00e9paration\n                                Couper les aubergines et les courgettes dans la longueur (tron\u00e7ons d'1 cm d'\u00e9paisseur). Emincer l'oignon et le poivron, hacher l'ail et concasser les tomates. Faire dorer les aubergines et les courgettes. Faire revenir \u00e0 part dans l'huile d'olive l'ail, l'oignon et les poivrons. Ajouter la viande et les tomates, assaisonner et parsemer de parmesan r\u00e2p\u00e9. Monter les lasagnes en alternant 1 couche de courgettes, 1 couche de garniture. Renouveler l'op\u00e9ration en rempla\u00e7ant les aubergines par les courgettes. Terminer par une couche de garniture, parsemer de mozarella et d'un filet d'huile d'olive. Faire gratiner 30 min au four (200\u00b0). Servir chaud parsem\u00e9 de basilic cisel\u00e9.\n                            "
+    },
+    "image": {
+        "@id": "https://www.socopa.fr/recettes/carnet/lasagnes-cote-sud-29//assets/img/img-default.png"
+    },
+    "name": {
+        "@value": "Lasagnes c\u00f4t\u00e9 sud"
+    },
+    "prepTime": {
+        "@value": "1 min"
+    },
+    "recipeIngredient": [
+        {
+            "@value": " 1 oignon"
+        },
+        {
+            "@value": " 1 courgette"
+        },
+        {
+            "@value": " quelques feuilles de basilic)"
+        },
+        {
+            "@value": " huile d'olive"
+        },
+        {
+            "@value": " 1 tomate"
+        },
+        {
+            "@value": " poivre du moulin."
+        },
+        {
+            "@value": " des l\u00e9gumes bio (1aubergine"
+        },
+        {
+            "@value": " 50 g de r\u00e2p\u00e9"
+        },
+        {
+            "@value": "1 barquette de hach\u00e9 bio"
+        },
+        {
+            "@value": " sel"
+        },
+        {
+            "@value": " 2 boules de mozarella"
+        },
+        {
+            "@value": " 1 poivron"
+        },
+        {
+            "@value": " 2 gousses d'ail"
+        },
+        {
+            "@value": " 1 morceau de parmesan"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                                Pr\u00e9paration\n                                Couper les aubergines et les courgettes dans la longueur (tron\u00e7ons d'1 cm d'\u00e9paisseur). Emincer l'oignon et le poivron, hacher l'ail et concasser les tomates. Faire dorer les aubergines et les courgettes. Faire revenir \u00e0 part dans l'huile d'olive l'ail, l'oignon et les poivrons. Ajouter la viande et les tomates, assaisonner et parsemer de parmesan r\u00e2p\u00e9. Monter les lasagnes en alternant 1 couche de courgettes, 1 couche de garniture. Renouveler l'op\u00e9ration en rempla\u00e7ant les aubergines par les courgettes. Terminer par une couche de garniture, parsemer de mozarella et d'un filet d'huile d'olive. Faire gratiner 30 min au four (200\u00b0). Servir chaud parsem\u00e9 de basilic cisel\u00e9.\n                            "
+    },
+    "recipeYield": {
+        "@value": "5 pers."
+    },
+    "@id": "http://example.org/recipe"
+}

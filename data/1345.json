@@ -1,0 +1,23 @@
+{
+    "@type": "Recipe",
+    "headline": {
+        "@language": "pt-br",
+        "@value": "Receita de Quibe"
+    },
+    "image": {
+        "@id": "http://www.cozinhabrasileira.com/salgados/quibe.html//foto/receita/F18A0.jpg"
+    },
+    "keywords": {
+        "@language": "pt-br",
+        "@value": "Carne Mo\u00edda"
+    },
+    "name": {
+        "@language": "pt-br",
+        "@value": "Receita de Quibe"
+    },
+    "recipeCategory": {
+        "@language": "pt-br",
+        "@value": "Salgados"
+    },
+    "@id": "http://example.org/recipe"
+}

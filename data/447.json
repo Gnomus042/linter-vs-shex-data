@@ -1,0 +1,86 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "\nReceptm\u0171hely\n"
+        },
+        "url": {
+            "@id": "https://www.receptmuhely.hu/recept/fustolt-pulykahusos-tesztasalata//felhasznaloi-profil/recept-muhely"
+        }
+    },
+    "dateCreated": {
+        "@value": "Null"
+    },
+    "dateModified": {
+        "@value": "Null"
+    },
+    "datePublished": {
+        "@value": "2015-09-23"
+    },
+    "description": {
+        "@value": "\nF\u00fcst\u00f6lt pulykah\u00fasos t\u00e9sztasal\u00e1ta   a Sal\u00e1t\u00e1k kateg\u00f3ri\u00e1ban"
+    },
+    "keywords": {
+        "@value": "T\u00e9sztasal\u00e1ta"
+    },
+    "name": {
+        "@value": "F\u00fcst\u00f6lt pulykah\u00fasos t\u00e9sztasal\u00e1ta"
+    },
+    "recipeCategory": {
+        "@value": " Sal\u00e1t\u00e1k "
+    },
+    "recipeIngredient": [
+        {
+            "@value": "f\u00fcst\u00f6lt pulykaszelet 200 gramm"
+        },
+        {
+            "@value": "uborka 1 darab"
+        },
+        {
+            "@value": "petrezselyemz\u00f6ld 2 te\u00e1skan\u00e1l"
+        },
+        {
+            "@value": "Konzerv kukorica 1 darab"
+        },
+        {
+            "@value": "piros paprika 0.5 darab"
+        },
+        {
+            "@value": "fussili t\u00e9szta 200 gramm"
+        },
+        {
+            "@value": "Knorr Olaszos Sal\u00e1ta\u00f6ntet por 1 darab"
+        },
+        {
+            "@value": "lilahagyma 1 darab"
+        },
+        {
+            "@value": "olaj 3 ev\u0151kan\u00e1l"
+        },
+        {
+            "@value": "s\u00e1rga paprika 0.5 darab"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Az ubork\u00e1t a h\u00e9j\u00e1val egy\u00fctt szeletelj\u00fck fel, a paprik\u00e1t v\u00e1gjuk cs\u00edkokra. A kukoric\u00e1t sz\u0171rj\u00fck le."
+        },
+        {
+            "@value": "A t\u00e9szt\u00e1t f\u0151zz\u00fck meg al dente (f\u00e9lkem\u00e9nyre) \u00e9s h\u0171ts\u00fck ki. A hagym\u00e1t v\u00e1gjuk sz\u00e1lasra."
+        },
+        {
+            "@value": "A Knorr olaszos sal\u00e1ta\u00f6ntetet keverj\u00fck \u00f6ssze az olajjal \u00e9s 3 kan\u00e1l v\u00edzzel. A sal\u00e1t\u00e1t 10 perccel a t\u00e1lal\u00e1s el\u0151tt \u00f6nts\u00fck le ezzel."
+        },
+        {
+            "@value": "A pulykaszeletet v\u00e1gjuk kock\u00e1ra \u00e9s keverj\u00fck \u00f6ssze a z\u00f6lds\u00e9gekkel, az apr\u00edtott petrezselyemz\u00f6lddel \u00e9s a t\u00e9szt\u00e1val."
+        }
+    ],
+    "totalTime": {
+        "@value": "PT30M"
+    },
+    "yield": {
+        "@value": "4 adag"
+    },
+    "@id": "http://example.org/recipe"
+}

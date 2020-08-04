@@ -1,0 +1,82 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "pl",
+            "@value": "\u015arednia ocena: 3.50"
+        },
+        "reviewCount": {
+            "@language": "pl",
+            "@value": "18"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "pl",
+            "@value": "Piotr Przykaza"
+        }
+    },
+    "image": {
+        "@id": "https://www.kuchniaplus.pl/img_files/przepisy/urodziny/nowy10/chilli.jpg"
+    },
+    "name": {
+        "@language": "pl",
+        "@value": "Chilli con carne"
+    },
+    "recipeCategory": {
+        "@id": "https://www.kuchniaplus.pl/przepisy/chilli-con-carne//przepisy/typ:dania-miesne"
+    },
+    "recipeCuisine": [
+        {
+            "@id": "https://www.kuchniaplus.pl/przepisy/chilli-con-carne//przepisy/region:kuchnia-ameryki-polnocnej"
+        },
+        {
+            "@id": "https://www.kuchniaplus.pl/przepisy/chilli-con-carne//przepisy/region:kuchnia-meksykanska"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "pl",
+            "@value": "\n                                                                                        \n                    \t\t\t2 cebule                    \t\t"
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                                                                                        \n                    \t\t\tczosnek                    \t\t"
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                                                                                        \n                    \t\t\t4 z\u0105bki czosnku                    \t\t"
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                                                                                        \n                    \t\t\tpapryka (ostra lub \u0142agodna wed\u0142ug upodobania)                    \t\t"
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                                                                                        \n                    \t\t\tpieprz                    \t\t"
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                                                                                        \n                    \t\t\t500 g mielonej \u015bredniot\u0142ustej wo\u0142owiny                    \t\t"
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                                                                                        \n                    \t\t\t2 szklanki ugotowanej fasoli pinto                    \t\t"
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                                                                                        \n                    \t\t\tkmin rzymski                    \t\t"
+        },
+        {
+            "@language": "pl",
+            "@value": "\n                                                                                        \n                    \t\t\t1 litr pulpy pomidorowej                    \t\t"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "pl",
+        "@value": "\n                        \n                        Cebule i czosnek pokroi\u0107 na grube kawa\u0142ki. Wrzuci\u0107 do garnka z rozgrzanym olejem. Podsma\u017cy\u0107, ale bez przypalania, doda\u0107 wo\u0142owin\u0119. Jak mi\u0119so zbr\u0105zowieje doda\u0107 pulp\u0119 pomidorow\u0105 i gotowa\u0107 30 min na ma\u0142ym ogniu. Przyprawi\u0107 do smaku przyprawami, doda\u0107 fasol\u0119."
+    },
+    "@id": "http://example.org/recipe"
+}

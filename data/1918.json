@@ -1,0 +1,91 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en",
+            "@value": "38"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4"
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "\n          \n              \n              \n                  \n                  \n                      \n                      \n                      \n                          30 minutes\n                          \n                      \n                      \n                               \n                  \n                  \n              \n          \n          "
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Never baked bread? Start here. All you need is five ingredients, a couple of hours and a little patience.\u00a0\n\n        "
+    },
+    "image": {
+        "@id": "https://www.waitrose.com/content/waitrose/en/home/recipes/recipe_directory/s/simple-white-loaf.html///d1v30bmd12dhid.cloudfront.net/static/version2/content/dam/waitrose/recipes/images/s/Simple-white-loaf-FOOD-Oct15-2048x2048.jpg/_jcr_content/renditions/cq5dam.thumbnail.200.200.png"
+    },
+    "ingredients": {
+        "@language": "en",
+        "@value": "250g strong white bread flour, plus extra for dusting\n1 tsp Allinson easy bake yeast\n1 tsp fine salt\n1 tsp caster sugar\n2 tbsp olive oil, plus extra for greasing \u00a0\n\n        "
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Simple white loaf"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "\n                                639kJ 152kcals\n                            "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "\n                        \t\t24.2g\n                        \t"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "\n                                4.4g\n                            "
+        },
+        "fibreContent": {
+            "@language": "en",
+            "@value": "\n                                1g\n                            "
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "\n                                3.8g\n                            "
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "\n                                0.7g\n                            "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "\n                        \t\t0.6g\n                        \t"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "\n                        \t\t1.1g\n                        \t"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "\n          \n              \n                  \n                      \n                      20 minutes, plus proving and cooling\n                   \n              \n              \n          \n          "
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "1. Mix the flour, yeast, salt and sugar in a large bowl. Make a well in the middle and pour in the oil and 130ml hot water. Mix together with a wooden spoon until combined, then bring together with your hands. Knead by hand on the work surface for 8-10 minutes, only dusting with a little flour if it's sticky. \n2. Once the dough is smooth and shiny, turn it in your hands, tucking under to make a smooth dome on top. Place seam-side down on a floured baking tray; gently pat down the top to flatten slightly. Cover with a sheet of lightly oiled cling film and leave to rise for 1 hour 15 minutes. \n3. Preheat the oven to 200\u02daC, gas mark 6. Uncover the dough and, using a sharp serrated knife, make three 0.5cm-deep slits across the top. Cover again and leave for 15 minutes. \n4. Uncover, dust the top with a little more flour and bake for 25-30 minutes, until golden. Transfer to a wire rack and leave to cool completely before slicing and serving with butter.\u00a0\n\n        "
+    },
+    "recipeYield": [
+        {
+            "@language": "en",
+            "@value": "1 loaf"
+        },
+        {
+            "@language": "en",
+            "@value": "6-8"
+        }
+    ],
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n          \n              \n                  \n                      50 minutes, plus proving and cooling\n                      \n                   \n              \n              \n          \n          "
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,71 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://eatwildgreens.com/wp-content/uploads/2019/07/ChickpeaSaladSandwich-320x320.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "3 tbsp capers"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup minced kosher pickles"
+        },
+        {
+            "@language": "en-US",
+            "@value": "30oz can of chickpeas, rinsed and drained"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup minced celery"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Salt to taste (optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp minced red onion"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Juice from one lemon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tbsp dried dill"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp Dijon mustard"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Black pepper to taste"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Chickpea Salad Sandwich"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Serve on whole grain bread with any of the following toppings: sliced tomato, pickles, lettuce, red onion, avocado, additional mustard, or hummus."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add the rest of the ingredients, stir well, and mash up some more."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a medium mixing bowl, mash the chickpeas until there are no whole beans left."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "2-4"
+    },
+    "@id": "http://example.org/recipe"
+}

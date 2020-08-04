@@ -1,0 +1,121 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "3"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "JENNIE\u2011O\u00ae"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT35M"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n\tThis low-calorie\u00a0weeknight dinner\u00a0recipe is so good, you won\u2019t be able to resist it. Roasted squash with ready-to-eat roasted turkey breast? It\u2019s a match made in 150 calorie-per-serving heaven!"
+    },
+    "image": {
+        "@id": "https://d5dnlg5k9nac9.cloudfront.net/processed/thumbs/694e57d82ef6334168fe7c06c465264e4b3fc72f_r791_530.png"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Turkey Roast with Squash"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "150"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "1g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "55mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "6g"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "0g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "Null"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "1.5g"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "410mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "0g"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "2 teaspoons olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "3 thyme sprigs"
+        },
+        {
+            "@language": "en",
+            "@value": "12-ounces JENNIE-O\u00ae Slow Roasted Turkey Breast Roast"
+        },
+        {
+            "@language": "en",
+            "@value": "turkey gravy, if desired"
+        },
+        {
+            "@language": "en",
+            "@value": "2 small acorn squash, with peel, cut into wedges"
+        },
+        {
+            "@language": "en",
+            "@value": "freshly ground pepper, if desired"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\n                        On parchment-lined baking sheet, toss together squash, oil, thyme and pepper, if desired.  Roast 45 to 50 minutes or until browned and cooked.\n                    "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                        Serve turkey sliced with squash and gravy, if desired.\n                    "
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

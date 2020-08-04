@@ -1,0 +1,44 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en",
+            "@value": "3.15"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "10"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "\n            \n  Luke Nguyen          "
+    },
+    "image": [
+        {
+            "@id": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/R4-Fig-Salal-1.jpg?itok=ubd7jnn5&mtime=1375858369"
+        },
+        {
+            "@language": "en",
+            "@value": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/thumb_small/public/R4-Fig-Salal-1.jpg?itok=ODmVBSp7"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Green fig-and-tofu salad (goi va tron dau hu)"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Main"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Vietnamese"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n     For the dressing, combine all ingredients and mix well. Set aside.\nPlace the green figs into a large pot and cover with water. Bring the water to the boil and cook for 20 minutes.\nRemove the figs, peel, then cut in half and finely slice.\nIn a mixing bowl, combine figs, tofu, fresh herbs, chilli, sesame seeds, black pepper and dress with 4 tablespoons of salad dressing.\nGarnish with fresh chilli\u00a0and peanuts.\n \n\n  "
+    },
+    "@id": "http://example.org/recipe"
+}

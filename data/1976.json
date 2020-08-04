@@ -1,0 +1,7 @@
+{
+    "@type": "Recipe",
+    "recipeYield": {
+        "@value": "4 \u2013 6 People"
+    },
+    "@id": "http://example.org/recipe"
+}

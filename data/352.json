@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ja",
+        "@value": "sparking Store"
+    },
+    "brand": {
+        "@language": "ja",
+        "@value": "vnv.me"
+    },
+    "image": {
+        "@language": "ja",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/H905f4ada846f4abb9cea8770393eec531/\u30e9\u30f3\u30d7-Gantung-\u30c7\u624b\u5e16\u30f4\u30a3\u30f3\u30c6\u30fc\u30b8\u540a\u308a-Hanglampen-\u7167\u660e\u5668\u5177-Suspendu-\u30af\u30ea\u30b9\u30bf\u30eb\u30e9\u30a4\u30c8\u30c7\u30b3\u30e1\u30be\u30f3\u30e9\u30f3\u30d1\u30e9\u30b3\u30eb\u30ac\u30f3\u30c6-Hanglamp.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ja",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "ja",
+            "@value": "1000007677997"
+        }
+    ],
+    "name": {
+        "@language": "ja",
+        "@value": "\u30e9\u30f3\u30d7 Gantung \u30c7\u624b\u5e16\u30f4\u30a3\u30f3\u30c6\u30fc\u30b8\u540a\u308a Hanglampen \u7167\u660e\u5668\u5177 Suspendu \u30af\u30ea\u30b9\u30bf\u30eb\u30e9\u30a4\u30c8\u30c7\u30b3\u30e1\u30be\u30f3\u30e9\u30f3\u30d1\u30e9\u30b3\u30eb\u30ac\u30f3\u30c6 Hanglamp"
+    },
+    "@id": "http://example.org/recipe"
+}

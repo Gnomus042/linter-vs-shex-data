@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "es",
+        "@value": "Shop1406264 Store"
+    },
+    "brand": {
+        "@language": "es",
+        "@value": "lpfb.us"
+    },
+    "image": {
+        "@language": "es",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1VE7.JVXXXXcxXpXXq6xXFXXXB/Vintage-Loft-Industrial-Edison-Mini-Metal-colgante-Luz-1-luz-22-CM-l\u00e1mpara-colgante-para-cafeter\u00eda.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "es",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "es",
+            "@value": "32670898201"
+        }
+    ],
+    "name": {
+        "@language": "es",
+        "@value": "Vintage Loft Industrial Edison Mini Metal colgante Luz 1 luz 22 CM l\u00e1mpara colgante para cafeter\u00eda Bar tienda hogar tienda club negro Decoraci\u00f3n"
+    },
+    "@id": "http://example.org/recipe"
+}

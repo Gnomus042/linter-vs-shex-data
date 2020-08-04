@@ -1,0 +1,40 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@value": "http://images.media-allrecipes.com/userphotos/960x960/5678279.jpg"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "153 calories;"
+        },
+        "carbohydrateContent": {
+            "@value": "16"
+        },
+        "cholesterolContent": {
+            "@value": "0"
+        },
+        "fatContent": {
+            "@value": "10"
+        },
+        "fiberContent": {
+            "@value": "4"
+        },
+        "proteinContent": {
+            "@value": "3"
+        },
+        "saturatedFatContent": {
+            "@value": "1"
+        },
+        "sodiumContent": {
+            "@value": "211"
+        },
+        "sugarContent": {
+            "@value": "6"
+        }
+    },
+    "recipeYield": {
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

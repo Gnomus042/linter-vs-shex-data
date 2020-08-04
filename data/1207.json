@@ -1,0 +1,69 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Lindsey Johnson"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "A quick and easy recipe for homemade refrigerator pickles."
+    },
+    "image": {
+        "@id": "http://cafejohnsonia.com/wp-content/uploads/2012/08/Screen-Shot-2014-02-22-at-8.13.33-PM-300x300.png"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 small sprig fresh dill plus flowers, if possible"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp. sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 garlic clove, sliced or smashed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be tsp. sea salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp. peppercorns"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup white vinegar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 medium cucumber, cut into thick slices"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc tsp. dried dill seeds"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Quick Cucumber Pickles"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Appetizer, Condiment"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "American"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "Place cucumber slices, sprig of dill and flowers, dill seeds, garlic and peppercorns in a clean pint jar. Bring the vinegar, sugar and salt to a boil--just long enough to dissolve the salt and sugar. Pour over the cucumbers. Put lid on the jar. Let sit for at least 30 minutes before using or eating, preferably one day. Place in refrigerator and use within 3-5 days. When pickle slices are gone, replace with fresh slices."
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "1 pint"
+    },
+    "@id": "http://example.org/recipe"
+}

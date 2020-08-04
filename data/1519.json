@@ -1,0 +1,158 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "Asda Good Living"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT30M"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2019-03-18"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Crisp potatoes and sweet veg combine with whisky-infused salmon to make an impressive dish perfect for sharing"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://be35832fa5168a30acd6-5c7e0f2623ae37b4a933167fe83d71b5.ssl.cf3.rackcdn.com/5847/smoked-salmon-rosti__square.jpg"
+    },
+    "keywords": [
+        {
+            "@language": "en",
+            "@value": "smoked salmon,salmon,rosti,beetroot"
+        },
+        {
+            "@language": "en",
+            "@value": "dinner, party, starter, sharing"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Smoked salmon and beetroot r\u00f6sti"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "204KCAL"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "9.3g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "1.1g"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "5.4g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT30M"
+    },
+    "recipeCategory": [
+        {
+            "@language": "en",
+            "@value": "Light meals"
+        },
+        {
+            "@language": "en",
+            "@value": "Canap\u00e9s"
+        },
+        {
+            "@language": "en",
+            "@value": "Starter"
+        },
+        {
+            "@language": "en",
+            "@value": "Dinner"
+        },
+        {
+            "@language": "en",
+            "@value": "Lunch"
+        }
+    ],
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "scandinavian"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n                                                                120g Extra Special Speyburn Single Malt Scotch Whisky Scottish Smoked Salmon, torn\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                Lemon wedges\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                2 balls Asda Pickled Beetroot, sliced\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                2tbsp rapeseed oil\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                225g Grower's Selection Vine Ripened Cherry Tomatoes\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                1 small onion\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                300g Maris Piper potatoes\n                                                            "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Preheat the oven to 200C/180C Fan/Gas 6. Roast the tomatoes on a baking tray for 15 mins."
+        },
+        {
+            "@language": "en",
+            "@value": "Top with the pickled beetroot, smoked salmon and black pepper. Serve with the tomatoes and lemon wedges."
+        },
+        {
+            "@language": "en",
+            "@value": "Heat the oil in a nonstick frying pan. Add the potato mixture; flatten. Fry for 6 mins each side until crisp. Drain on kitchen roll."
+        },
+        {
+            "@language": "en",
+            "@value": "Peel and grate the potatoes and onion into a clean tea towel; squeeze out excess liquid."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tPrep: 30 Mins\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCook: 30 Mins\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://www.asdagoodliving.co.uk/food/recipes/smoked-salmon-beetroot-rosti"
+    },
+    "@id": "http://example.org/recipe"
+}

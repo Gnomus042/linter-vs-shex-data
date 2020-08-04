@@ -1,0 +1,152 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "it-IT",
+            "@value": "2 cucchiai di zucchero semolato\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "225 gr di brie\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "2 cucchiai di panna fresca\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 cucchiaio di acqua fredda\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "2 cachi (della varieta\u2019 mela \u2013 ovvero duri ma non astringenti)\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Sale rosso delle Hawaii\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "200 gr di nocciole\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "150 gr di panna fresca\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 cachi (del tipo a polpa molle)\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "200 gr di farina\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Pepe verde\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Cannella vietnamita in polvere\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Null"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "100 gr di burro\n"
+        }
+    ],
+    "name": {
+        "@language": "it-IT",
+        "@value": "Cheesecake salata calda al brie, con nocciole, cachi brulee"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "it-IT",
+            "@value": "Aggiungere l\u2019acqua e mescolare in fretta e formare un impasto senza lavorarlo troppo\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Avvolgere l\u2019impasto in pellicola per alimenti e mettere in frigo per almeno un\u2019ora.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Infornare gli stampi preparati e cuocere per 12 minuti circa. Rimuovere dal forno  e lasciar raffreddare negli stampi stessi.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Aggiungere il burro freddo a pezzetti e strofinare tra le mani in modo da incorporare tutto il burro. \n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Tagliare a fette I cachi mela\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Mettere un cucchiaino da caffe\u2019 di polpa di cachi in ogni stampino \n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Infornare a 180\u00b0C per 15-20 minuti, finche\u2019 il formaggio si sara\u2019 sciolto e la crosta sara\u2019 ben dorata.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Distribuire il composto di brie negli stampini e livellare\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Schiacciare la polpa con una forchetta  ed aggiungere un pizzico di canella\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Livellare I bordi con la lama di un coltello e rimettere in frigo.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Dopo il riposo,  prelevare delle piccolo porzioni di impasto e premerle negli stampini in modo da ricoprire sia il fondo che le pareti, avendo cura di mantenere lo strato dipasta piuttosto sottile. \n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Accompagnare con della semplice panna fresca aromatizzata alla cannella \n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Unire brie e panna  nella ciotola di un robot da cucina, azionare le lame e ridurre il tutto in una crema.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Unire le nocciole tritate , la farina , il sale ed il pepe  in una ciotola e mescolare bene.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Lasciar intiepidire\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Sformare le cheesecakes\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Nel frattempo accendere il forno e portarne la temperature a 180\u00b0C\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Poggiare una fetta di cachi su ogni cheesecake\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Tritare le nocciole non molto finemente\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Tagliare a meta\u2019 il cachi morbido e prelevarne la polpa con un cucchiaino.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Spolverare di zucchero semolato e caramellare la superficie con l\u2019ausilio di una piccolo torcia da cucina ( oppure rimettendo le tortine in forno, sotto il grill per pochi secondi)\n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

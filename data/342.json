@@ -1,0 +1,151 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Betty Crocker Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "08/17/2005"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "12/21/2009"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "A rich artichoke and olive mixture tops grilled bread slices in an appetizer you can have ready in 20 minutes."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/abbff860-2c24-4601-ac98-bfd913822a61.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "grilled artichoke bruschetta"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Grilled Artichoke Bruschetta"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "70 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "7 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "5 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "1 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "1 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "2 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "1 1/2 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Bruschetta "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "180 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "0 g"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H20M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Appetizer"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    jar (2 oz) diced pimientos, well drained\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    jar (7.5 oz) marinated artichoke hearts, well drained, chopped\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoon extra-virgin olive oil\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup chives-and-onion cream cheese (from 8-oz container)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    8\n                \n            \n            \n                \n                    \n                        \n                    \n                    slices (4x3x1/2 inch) Italian or French bread\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/3\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup chopped pitted kalamata olives\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N705cbf4a353440e2872ba4e691d6eecf"
+        },
+        {
+            "@id": "_:Naaacf44bffb34a6b8472b6ab97a85cde"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "16"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT0H20M"
+    },
+    "@id": "http://example.org/recipe"
+}

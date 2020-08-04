@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "he",
+        "@value": "Akemi Store"
+    },
+    "brand": {
+        "@language": "he",
+        "@value": "www.brandnewmedia.asia"
+    },
+    "image": {
+        "@language": "he",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1ix7WfStYBeNjSspaq6yOOFXaS/\u05e7\u05e8\u05d9\u05e1\u05d8\u05dc-\u05d0\u05d5\u05e8-\u05e7\u05d9\u05e8-\u05de\u05d5\u05d3\u05e8\u05e0\u05d9-\u05ea\u05de\u05e6\u05d9\u05ea\u05d9-\u05d0\u05de\u05e0\u05d5\u05d9\u05d5\u05ea-\u05d1\u05d9\u05ea-\u05de\u05d5\u05d3\u05dc-\u05d1\u05e8-\u05dc\u05d9\u05d3-\u05de\u05d9\u05d8\u05ea-\u05d7\u05d3\u05e8-\u05e9\u05d9\u05e0\u05d4-\u05e1\u05dc\u05d5\u05df-\u05de\u05e0\u05d5\u05e8\u05ea-\u05e7\u05d9\u05e8.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "he",
+            "@value": "32858900938"
+        },
+        {
+            "@language": "he",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "he",
+        "@value": "\u05e7\u05e8\u05d9\u05e1\u05d8\u05dc \u05d0\u05d5\u05e8 \u05e7\u05d9\u05e8 \u05de\u05d5\u05d3\u05e8\u05e0\u05d9 \u05ea\u05de\u05e6\u05d9\u05ea\u05d9 \u05d0\u05de\u05e0\u05d5\u05d9\u05d5\u05ea \u05d1\u05d9\u05ea \u05de\u05d5\u05d3\u05dc \u05d1\u05e8 \u05dc\u05d9\u05d3 \u05de\u05d9\u05d8\u05ea \u05d7\u05d3\u05e8 \u05e9\u05d9\u05e0\u05d4 \u05e1\u05dc\u05d5\u05df \u05de\u05e0\u05d5\u05e8\u05ea \u05e7\u05d9\u05e8 \u05de\u05e2\u05d1\u05e8 wl3261414"
+    },
+    "@id": "http://example.org/recipe"
+}

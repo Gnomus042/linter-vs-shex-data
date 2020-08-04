@@ -1,0 +1,84 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "79"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Martha Rose Shulman"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT45M"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n                I don\u2019t know why it had never occurred to me to grate hard winter squash until I started envisioning this pasta. If you have a food processor with a grater blade, this will be the easiest way you\u2019ve ever prepared winter squash, short of sticking it in the oven skin and all. The cooked grated squash lodges in the indentations of the ear-shaped orecchiette, a perfect pairing.\n                  \n      Featured in: \n      Well\u2019s Vegetarian Thanksgiving 2011.\u00a0\n   \n\n\n\n              "
+    },
+    "image": {
+        "@id": "https://static01.nyt.com/images/2011/11/23/science/23recipehealth/23recipehealth-articleLarge-v2.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\n              Orecchiette With Grated Squash, Walnuts and Ricotta Salata\n        "
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    2\n                  \n                  \n                    garlic cloves, minced\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Lots of freshly ground pepper\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    pound orecchiette\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    3\n                  \n                  \n                    tablespoons chopped fresh marjoram, or 2 tablespoons chopped fresh sage\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Salt to taste\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    2\n                  \n                  \n                    ounces ricotta salata, grated (about 1/2 cup)\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    2\n                  \n                  \n                    tablespoons extra virgin olive oil\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    2\n                  \n                  \n                    ounces walnut pieces (about 1/2 cup), coarsely chopped\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    pound butternut squash (about half of a large squash)\n                  \n                "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                Begin heating a large pot of water. When it comes to a boil, add a generous amount of salt and keep at a simmer.\n                Meanwhile, peel the squash (I use a vegetable peeler for this), cut it into chunks that will fit your food processor tube fitted with the grater blade, and grate. Alternately, grate with the large holes of a box grater.\n                Heat the olive oil over medium-high heat in a large, heavy skillet and add the grated squash and salt to taste. Cook, stirring often, for 8 to 10 minutes, until the squash has softened. Add the garlic, walnuts and half the marjoram or all of the sage and cook, stirring, for another minute. Turn the heat down to medium.\n                Add 1/2 cup of the water for the pasta and cook for another couple of minutes, until it has been absorbed and evaporated from the pan. Add another 1/2 cup water and continue to cook for another 3 minutes, or until the squash mixture is tender and moist. Taste, adjust salt, and add a generous amount of pepper. Keep warm while you cook the pasta.\n                Bring the pot of water back to a rolling boil and add the orecchiette. Cook al dente, usually 10 to 11 minutes. Add 1/2 cup of the cooking water to the squash mixture before draining, then drain the pasta and toss with the squash, along with the remaining marjoram and the ricotta salata. Serve hot.\n              "
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,91 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "de-DE",
+        "@value": "Das Knusperst\u00fcbchen"
+    },
+    "image": {
+        "@id": "https://knusperstuebchen.net/wp-content/uploads/2017/09/Pumpkin-Spice-Latte-2-275x275.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "de-DE",
+            "@value": "40 g K\u00fcrbis-P\u00fcree"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "3 EL gemahlenen Zimt"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1TL gemahlene Muskatnuss"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "\u00bd TL gemahlenes Piment"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "200 ml starken Kaffee"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "2 EL brauner Zucker"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 TL gemahlene Muskatbl\u00fcte"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "2 Tassen \u00e1 400 ml"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 TL Pumpkin Spice"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Sahne nach Belieben"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "500 ml Milch"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Msp. gemahlene Nelken"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 EL gemahlenen Ingwer"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "\u00bd TL gemahlene Vanille"
+        }
+    ],
+    "name": {
+        "@language": "de-DE",
+        "@value": "Pumpkin Spice Gew\u00fcrz und Pumpkin Spice Latte: Holy moly, lieber Herbst"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "de-DE",
+            "@value": "ml Milch mit dem Zucker erhitzen, K\u00fcrbis-P\u00fcree hinzugeben. \u2154 des Pumpkin Spice hinzugeben, gut verr\u00fchren. Restliche Milch aufsch\u00e4umen. Starken Kaffee br\u00fchen. Milch-K\u00fcrbis-Masse auf die Tassen verteilen, mit dem Milchschaum auff\u00fcllen und zum Schluss den Kaffee aufgie\u00dfen. Mit dem restlichen Gew\u00fcrz bestreuen. Hei\u00df servieren."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Alle Zutaten in eine Sch\u00fcssel geben und gut vermengen. In ein verschlie\u00dfbares Glas f\u00fcllen und dunkel lagern."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Einen Hokkaido-K\u00fcrbis vierteln, entkernen und im Ofen bei 200\u00b0C backen bis er weich ist, ca. 20-30 Minuten. K\u00fcrbis p\u00fcrieren, in Gl\u00e4ser f\u00fcllen und kalt stellen bzw. einfrieren."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Wer m\u00f6chte gibt noch geschlagene Sahne auf den Kaffee."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

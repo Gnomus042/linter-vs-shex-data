@@ -1,0 +1,81 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://images.media-allrecipes.com/userphotos/560x315/3680336.jpg"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-us",
+            "@value": "1 (6 ounce) can tomato paste"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 cups water, divided"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 (8 ounce) package mushrooms, diced"
+        },
+        {
+            "@language": "en-us",
+            "@value": "15 Roma (plum) tomatoes, diced"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 stalk celery, chopped, or more to taste"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 leaves fresh basil, chopped"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 cloves garlic, minced, or more to taste"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 (15 ounce) cans black beans, drained and rinsed"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 tablespoons olive oil"
+        },
+        {
+            "@language": "en-us",
+            "@value": "dried Italian seasoning to taste"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 sprigs fresh parsley, chopped"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 onion, diced, or more to taste"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 tablespoons fennel seeds (optional)"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 cubes vegetable bouillon, or more to taste"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 green bell pepper, diced"
+        },
+        {
+            "@language": "en-us",
+            "@value": "salt and ground black pepper to taste"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "12"
+    },
+    "@id": "http://example.org/recipe"
+}

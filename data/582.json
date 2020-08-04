@@ -1,0 +1,122 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "de-DE",
+            "@value": "5.0"
+        },
+        "reviewCount": {
+            "@language": "de-DE",
+            "@value": "3"
+        }
+    },
+    "author": {
+        "@language": "de-DE",
+        "@value": "www.houseno15.de"
+    },
+    "image": {
+        "@id": "http://houseno15.de/wp-content/uploads/2015/03/Kr\u00e4utersuppe4-681x1024.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "de-DE",
+            "@value": "2 EL Wei\u00dfwein"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "100g Mehl"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "11/2 l Gefl\u00fcgelbr\u00fche"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "100ml Milch"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Schuss Riesling"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Kr\u00e4uter zum Garnieren"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "50g Butter"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "8 gek\u00fchlte Wachteleier"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Salz und Pfeffer"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "500ml Sahne"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "200g gemischte frische Kr\u00e4uter"
+        }
+    ],
+    "name": {
+        "@language": "de-DE",
+        "@value": "Fr\u00fchlingskr\u00e4uter-Suppe mit pochietem Wachtelei"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "de-DE",
+            "@value": "Zuerst die Butter in einem Topf aufsch\u00e4umen und dann das Mehl unterr\u00fchren und and\u00fcnsten."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Suppe in Schalen oder Tassen f\u00fcllen, mit dem Milchschaum und ein paar Kr\u00e4utern garnieren und mit je 1 Wachtelei servieren."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Na 3-4 Minuten mit einem Schauml\u00f6ffel aus dem Wasser nehmen und auf einem K\u00fcchentuch abtropfen lassen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Jetzt das Kr\u00e4uterp\u00fcree in die restliche Suppe einr\u00fchren und mit Salz und Pfeffer abschmecken."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Ein Viertel der wei\u00dfen Grundsuppe entnehmen und etwas abk\u00fchlen lassen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Mit einem Kochl\u00f6ffel einen Strudel im Topf r\u00fchren, dann umschlie\u00dft das Eiwei\u00df das Eigelb besser."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Dann die Kr\u00e4uter mit der erkalteten Suppe im Mixer fein p\u00fcrieren."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Kr\u00e4uter abbrausen und trocken sch\u00fctteln, dann die Bl\u00e4tter von den Stielen zupfen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Milch mit dem Riesling erw\u00e4rmen und aufsch\u00e4umen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Mit der Br\u00fche und der Sahne auff\u00fcllen und unter R\u00fchren 4-5 Min k\u00f6cheln lassen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "In einem Topf 1 Liter Wasser mit Essig zum Kochen bringen und die gut gek\u00fchlten Eier vorsichtig auf schlagen und in das siedende Wasser gleiten lassen."
+        }
+    ],
+    "recipeYield": {
+        "@language": "de-DE",
+        "@value": "8"
+    },
+    "@id": "http://example.org/recipe"
+}

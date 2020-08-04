@@ -1,0 +1,15 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "pl",
+        "@value": "Kostki piernikowe z marcepanem, przelozone kwaskowym dzemem pomaranczowym, oblane pyszna, gruba warstwa czekolady, to moja tegoroczna, pierwsza propozycja swiateczna:)Te male kosteczki na jeden kes, nie wymagaja lezakowania, sa mieciutkie i delikatne juz po paru godzinach schlodzenia w lodowce.W sma..."
+    },
+    "image": {
+        "@id": "https://aduparosnie.pl/przepis,kostki-piernikowe-z-marcepanem-i-pomarancza.html/./files/518/fb/148165.jpg"
+    },
+    "name": {
+        "@language": "pl",
+        "@value": "Kostki piernikowe z marcepanem i pomara\u0144cz\u0105"
+    },
+    "@id": "http://example.org/recipe"
+}

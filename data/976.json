@@ -1,0 +1,79 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "sv",
+        "@value": "Kerstin Degerbeck"
+    },
+    "datePublished": {
+        "@language": "sv",
+        "@value": "1999-09-14"
+    },
+    "description": {
+        "@language": "sv",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://www.hemtrevligt.se/icakuriren/recept/minipajer///cdn1.hemtrevligt.se/YTo2OntzOjI6ImlkIjtpOjExNzc0MDU7czoxOiJ3IjtpOjQ4MDtzOjE6ImgiO2k6MzIwO3M6MToiYyI7aTowO3M6MToicyI7aTowO3M6MToiayI7czo0MDoiOGI0NmM3M2Q4NmJmNDA5ZjZmODY2ZmMzMGRmYzYzMzdiMjY3NWZlMCI7fQ=="
+    },
+    "name": {
+        "@language": "sv",
+        "@value": "Minipajer"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "sv",
+            "@value": "1 dl vetemj\u00f6l"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 dl riven ost"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 dl mj\u00f6lk"
+        },
+        {
+            "@language": "sv",
+            "@value": "  skinka"
+        },
+        {
+            "@language": "sv",
+            "@value": "50 g sm\u00f6r"
+        },
+        {
+            "@language": "sv",
+            "@value": "8 st eng\u00e5ngsaluminiumformar"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 msk vatten"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 st \u00e4gg"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\tBlanda ihop pajdegen och l\u00e5t den vila kallt en stund. Dela degen i \u00e5tta lika stora bitar och tumma ut i formarna.\n\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\tS\u00e4tt ugnen p\u00e5 200 grader.\n\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\tGr\u00e4dda pajerna cirka 20 minuter eller tills de f\u00e5tt bra f\u00e4rg.\n\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\tF\u00f6rdela osten och skinkan i formarna. Vispa ihop \u00e4gg och mj\u00f6lk och h\u00e4ll \u00f6ver.\n\t\t\t\t\t\t"
+        }
+    ],
+    "recipeYield": {
+        "@language": "sv",
+        "@value": "8 portioner"
+    },
+    "@id": "http://example.org/recipe"
+}

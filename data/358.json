@@ -1,0 +1,170 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4.0"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "Asda Good Living"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT30M"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2018-06-03"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Crisp on the outside, soft and gooey inside"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://be35832fa5168a30acd6-5c7e0f2623ae37b4a933167fe83d71b5.ssl.cf3.rackcdn.com/5207/ham-and-cheese-croquettes__square.jpg"
+    },
+    "keywords": [
+        {
+            "@language": "en",
+            "@value": "spanish, tapas, croquettes, budget"
+        },
+        {
+            "@language": "en",
+            "@value": "tapas,ham,dinner party,croquettes,cheese"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Cheese and ham croquettes"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "270KCAL"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "16.9g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "6.1g"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "3.0g"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "en",
+            "@value": "Sides"
+        },
+        {
+            "@language": "en",
+            "@value": "Starter"
+        },
+        {
+            "@language": "en",
+            "@value": "Light meals"
+        },
+        {
+            "@language": "en",
+            "@value": "Snacks"
+        },
+        {
+            "@language": "en",
+            "@value": "Canap\u00e9s"
+        },
+        {
+            "@language": "en",
+            "@value": "Lunch"
+        }
+    ],
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "spanish"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n                                                                100g 3-day-old white bread, crusts removed\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                25g plain flour\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                75g Smart Price Cooked Ham Slices, shredded\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                1 egg, lightly beaten\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                Vegetable oil, to fry\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                180ml semi-skimmed milk\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                25g Smart Price Butter\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                25g Smart Price Mature Cheddar, grated\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                1tsp course-grain mustard\n                                                            "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Melt the butter in a small pan. Remove from the heat and stir in the flour to make a smooth paste. Heat the milk until steaming hot, then gradually whisk it into the mixture. Cook over a medium heat, whisking all the time, until the mixture thickens. Continue to whisk for another 3 mins."
+        },
+        {
+            "@language": "en",
+            "@value": "Remove from the heat and stir in the cheese, ham and mustard. Season with black pepper. Pour into a dish and cover with clingfilm. Allow to cool completely, then chill in the fridge for 1 hr."
+        },
+        {
+            "@language": "en",
+            "@value": "Fill a deep fat fryer or large pan to 1\u20443 of the way up with oil and heat to 180C. Cook the croquettes, in 2 batches, for 2-3 mins until golden. Drain on a plate lined with kitchen roll, keep warm, then serve 2 croquettes per person."
+        },
+        {
+            "@language": "en",
+            "@value": "Preheat the oven to 140C/ 120C Fan/Gas 1. Break the bread into small pieces and whizz in a processor to make breadcrumbs. Spread out on a baking tray and cook for 10 mins. Cool."
+        },
+        {
+            "@language": "en",
+            "@value": "Put the egg in a shallow dish and the breadcrumbs in another. Shape the cheese and ham mixture into 8 croquettes. One at a time, coat in the egg and then the breadcrumbs. Put on a plate lined with baking paper and chill for 30 mins."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCook: 30 Mins\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tplus chilling\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://www.asdagoodliving.co.uk/food/recipes/cheese-ham-croquettes"
+    },
+    "@id": "http://example.org/recipe"
+}

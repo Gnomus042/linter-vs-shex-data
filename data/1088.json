@@ -1,0 +1,128 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@id": "https://www.therawtarian.com/raw-banana-cream-pie-recipe?S0qLT87PzU3NKynWgTMMAA_page=9//raw-banana-cream-pie-recipe#comment-form"
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://www.therawtarian.com/sites/default/files/styles/rawt_member_avatar/public/pictures/picture-1-1491411863.jpg?itok=TRwWFwyL"
+        },
+        "name": {
+            "@language": "en",
+            "@value": "The Rawtarian"
+        },
+        "url": {
+            "@id": "https://www.therawtarian.com/raw-banana-cream-pie-recipe?S0qLT87PzU3NKynWgTMMAA_page=9//user/1"
+        }
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n            This raw banana cream pie recipe is awesome. It's actually pretty fast to make - just a quick food process and an easy blend. Then freeze and it's ready!        "
+    },
+    "headline": {
+        "@language": "en",
+        "@value": "Raw banana cream pie recipe"
+    },
+    "image": {
+        "@id": "https://www.therawtarian.com/sites/default/files/styles/rawt_imageboard_land/public/raw-banana-cream-pie-recipe-image-0.jpg?itok=cIeKEloF"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1/3 cup coconut oil"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup honey"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup dried, unsweetened coconut"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup lemon juice"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup dates"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 teaspoon sea salt"
+        },
+        {
+            "@language": "en",
+            "@value": "2 medium bananas"
+        },
+        {
+            "@language": "en",
+            "@value": "1/8 teaspoon sea salt"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup cashews"
+        },
+        {
+            "@language": "en",
+            "@value": "1 teaspoon vanilla"
+        },
+        {
+            "@language": "en",
+            "@value": "3/4 cup cashews"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Raw banana cream pie recipe"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "416 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "43 g"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "28 g"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "5 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "5 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "136 g (5 oz)"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "57 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "29 g"
+        }
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Raw Pies and Crumbles"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "1. Place all crust ingredients in the food processor. Process until the mixture sticks together and the dates are well processed.2. Dump crust mixture into your pie crust/glass dish. Press the crust down firmly in your dish with your hands. (Crust is now done.)3. Add all banana filling ingredients to your blender. Blend until creamy and smooth.4. Pour banana cream filling onto the crust. Smooth out with the back of a spoon.5. Cover and throw in freezer. Ideally should be frozen overnight to firm up so that it can be sliced perfectly.6. This raw banana cream pie recipe should always be kept in the freezer. (It'll get soggy if in the fridge.)"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "1 pie"
+    },
+    "@id": "http://example.org/recipe"
+}

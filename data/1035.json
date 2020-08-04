@@ -1,0 +1,168 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "27"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Pillsbury Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "12/07/2004"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "10/22/2018"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Easily transform crescent rolls into a festive first course for 16. Wrap red and green veggies inside and decorate with fresh rosemary \"greenery.\" It's a beautiful edible centerpiece!"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/33387e40-8a88-44c1-bae5-d16ba33d9323.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "veggie-stuffed holiday crescent wreath"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Veggie-Stuffed Holiday Crescent Wreath"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "100 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "7 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "25 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "1 1/2 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "0 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "3 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "3 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Serving "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "210 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "2 g"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "1 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H20M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Appetizer"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup chive-and-onion cream cheese spread (from 8-oz container)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cups frozen broccoli florets (from 14-oz bag), thawed, finely chopped and patted dry with paper towel\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cans (8 oz each) Pillsbury\u2122 refrigerated crescent rolls\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    egg, beaten\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/3\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup diced red bell pepper\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    \n                \n            \n            \n                \n                    \n                        \n                    \n                    Fresh rosemary, if desired\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon sesame seed\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    6\n                \n            \n            \n                \n                    \n                        \n                    \n                    slices bacon\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N880111ffbb3e4dad83f0ef0aa8fa071e"
+        },
+        {
+            "@id": "_:Nc31cfc3359614b89b97b052a22d5004c"
+        },
+        {
+            "@id": "_:N507c3f32e7984b49a26f41f6751ba56b"
+        },
+        {
+            "@id": "_:N20a394363113454eb98334231df7da62"
+        },
+        {
+            "@id": "_:N7bb046cba5f84d4bafe027ccf6fdb384"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "16"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT0H55M"
+    },
+    "@id": "http://example.org/recipe"
+}

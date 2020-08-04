@@ -1,0 +1,23 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "vi",
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@language": "vi",
+            "@value": "8668"
+        },
+        "ratingValue": {
+            "@language": "vi",
+            "@value": "9.0"
+        }
+    },
+    "name": {
+        "@language": "vi",
+        "@value": "dang ky ten mien, dang ky domain, \u0111\u0103ng k\u00fd t\u00ean mi\u1ec1n, \u0111\u0103ng k\u00fd domain"
+    },
+    "@id": "http://example.org/recipe"
+}

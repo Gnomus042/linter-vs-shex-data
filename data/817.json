@@ -1,0 +1,58 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "cs",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@id": "http://www.igurmet.cz/recepty/napoje/napoje-studene/jahodovy-koktejl-s-ananasem-4153//uzivatele/profil/CHUTaSTYL.cz/"
+    },
+    "cookTime": {
+        "@language": "cs",
+        "@value": "20 min."
+    },
+    "image": {
+        "@id": "http://media.igurmet.cz/cache/37/d1/37d182a14c96aa30646d3b09daf3dd7f.jpg"
+    },
+    "ingredients": [
+        {
+            "@id": "http://www.igurmet.cz/recepty/napoje/napoje-studene/jahodovy-koktejl-s-ananasem-4153//suroviny/detail/kokosove-mleko/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/napoje/napoje-studene/jahodovy-koktejl-s-ananasem-4153//suroviny/detail/ananas/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/napoje/napoje-studene/jahodovy-koktejl-s-ananasem-4153//suroviny/detail/medunka/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/napoje/napoje-studene/jahodovy-koktejl-s-ananasem-4153//suroviny/detail/cukr/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/napoje/napoje-studene/jahodovy-koktejl-s-ananasem-4153//suroviny/detail/jahody/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/napoje/napoje-studene/jahodovy-koktejl-s-ananasem-4153//suroviny/detail/mleko/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/napoje/napoje-studene/jahodovy-koktejl-s-ananasem-4153//suroviny/detail/liker-kokosovy/"
+        }
+    ],
+    "recipeCategory": {
+        "@id": "http://www.igurmet.cz/recepty/napoje/napoje-studene/jahodovy-koktejl-s-ananasem-4153//recepty/category/napoje/napoje-studene/"
+    },
+    "recipeCuisine": {
+        "@id": "http://www.igurmet.cz/recepty/napoje/napoje-studene/jahodovy-koktejl-s-ananasem-4153//cuisine/evropska/"
+    },
+    "recipeInstructions": {
+        "@language": "cs",
+        "@value": "Nakr\u00e1jen\u00fd ananas vlo\u017e\u00edme do mix\u00e9ru, p\u0159ilijeme kokosov\u00fd lik\u00e9r a polovinu kokosov\u00e9ho a oby\u010dejn\u00e9ho ml\u00e9ka, rozmixujeme a sm\u011bs p\u0159elijeme do d\u017eb\u00e1nku. \n\nDo \u010dist\u00e9ho mix\u00e9ru vlo\u017e\u00edme jahody, p\u0159id\u00e1me ob\u011b zbyl\u00e1 ml\u00e9ka a cukr a op\u011bt rozmixujeme dohladka. \n\nDo ka\u017ed\u00e9 sklenice nalijeme nejprve jahodov\u00fd koktejl, sklenici naklon\u00edme a po st\u011bn\u011b opatrn\u011b p\u0159ilijeme koktejl ananasov\u00fd, aby se vrstvy neprom\u00edchaly. \n\nKoktejl pod\u00e1v\u00e1me ozdoben\u00fd kousky ananasu a l\u00edstky medu\u0148ky nap\u00edchnut\u00fdmi na ozdobn\u00e9m p\u00e1r\u00e1tku."
+    },
+    "recipeYield": {
+        "@language": "cs",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

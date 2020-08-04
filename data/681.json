@@ -1,0 +1,72 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "45 minutes"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1/3 cup water\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 cup water, ice cold\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 large jalape\u00f1o, thinly sliced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 qt vegetable oil\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2/3 cup honey\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 clove garlic, minced\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup tempura batter mix\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 lb shrimp, peeled and deveined\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tbsp yellow onion, minced\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Shrimp with Honey Jalape\u00f1o Sauce"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Whisk together the tempura batter mix and water in a bowl. Coat 4-6 shrimps in the batter at a time and fry until golden brown in the oil. Do not overcrowd the pot, and when done, place the shrimp on a plate that is lined with paper towels.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Using a small sauce pot, combine the onion, garlic, water, honey and jalapeno and heat on medium-high until it comes to a boil and continue to boil for 1-2 minutes.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Serve the tempura shrimp with a drizzle of the sauce."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a medium pot, heat the oil on medium. (The oil is ready when you place a chopstick in the bottom of the pot and when tilting the chopstick, bubbles float to the surface.)\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "Serves 4"
+    },
+    "@id": "http://example.org/recipe"
+}

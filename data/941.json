@@ -1,0 +1,49 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@value": "10 minutes"
+    },
+    "description": [
+        {
+            "@value": "Une recette de cr\u00e8me dessert avec juste 3 ingr\u00e9dients qui a eu \u00e9norm\u00e9ment de succ\u00e8s chez moi! De plus, elle est tr\u00e8s facile et rapide \u00e0 pr\u00e9parer et on peut la faire en avance car elle est encore meilleure bien fra\u00eeche."
+        },
+        {
+            "@value": "Null"
+        }
+    ],
+    "image": {
+        "@id": "https://3.bp.blogspot.com/-oXzYdba8e_I/XIKs9e7N2zI/AAAAAAAAeUE/mkfQRaBvPlcuSxDHmobHQeqe32uKwsVpACLcBGAs/s1600/2Z5A3723_resultat.JPG"
+    },
+    "ingredients": [
+        {
+            "@value": "110g de Nutella"
+        },
+        {
+            "@value": "50cl de lait (500ml ou 500g soit 1/2 litre)"
+        },
+        {
+            "@value": "30g de tapioca recette traditionnelle Tipiak"
+        }
+    ],
+    "name": {
+        "@value": "Cr\u00e8me dessert tapioca Nutella"
+    },
+    "prepTime": {
+        "@value": "02 minutes"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Null"
+        },
+        {
+            "@value": "\nDans une casserole, mettre tous les ingr\u00e9dients et d\u00e9s l'\u00e9bullition, sans cessez de remuer cuire pendant 7 minutes.\nVersez dans des verrines ou des verres transparents et r\u00e9server au r\u00e9frig\u00e9rateur jusqu'au moment de servir.\n"
+        }
+    ],
+    "recipeYield": {
+        "@value": "4 personne(s)"
+    },
+    "totalTime": {
+        "@value": "12 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

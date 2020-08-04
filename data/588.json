@@ -1,0 +1,86 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "cs-CZ",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "cs-CZ",
+            "@value": "264"
+        }
+    },
+    "author": {
+        "@language": "cs-CZ",
+        "@value": "..."
+    },
+    "description": {
+        "@language": "cs-CZ",
+        "@value": "zape\u010den\u00e9 krab\u00ed ty\u010dinky, hlavn\u00ed j\u00eddla, ryby a vodn\u00ed potvory"
+    },
+    "image": {
+        "@id": "http://kucharka.cbmonitor.cz/recepty/zapecene-krabi-tycinky/2005//recepty/none.png"
+    },
+    "ingredients": [
+        {
+            "@language": "cs-CZ",
+            "@value": "s\u016fl "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "2 papriky "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "rozmar\u00fdn "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "krab\u00ed ty\u010dinky "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "pep\u0159 "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "1 raj\u010de "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "s\u00fdr Madeland nebo Gouda "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "bal\u00ed\u010dek oliv "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "1 cibule "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "olivov\u00fd olej "
+        }
+    ],
+    "name": {
+        "@language": "cs-CZ",
+        "@value": "Zape\u010den\u00e9 krab\u00ed ty\u010dinky"
+    },
+    "recipeCategory": [
+        {
+            "@language": "cs-CZ",
+            "@value": "hlavn\u00ed j\u00eddla"
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "ryby a vodn\u00ed potvory"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "cs-CZ",
+        "@value": "Recept zape\u010den\u00e9 krab\u00ed ty\u010dinky p\u0159iprav\u00edme takto: Brambory uva\u0159\u00edme ve slupce, pak oloupeme a nastrouh\u00e1me na jemn\u00e9m struhadle, p\u0159id\u00e1me rozdroben\u00e9 fil\u00e9, s\u016fl, ko\u0159en\u00ed, vejce a podle pot\u0159eby zahust\u00edme strouhankou. Dob\u0159e prom\u00edch\u00e1me, tvo\u0159\u00edme karban\u00e1tky, kter\u00e9 nejprve ope\u010deme na sucho, pak je podlijeme vodou a podus\u00edme. \u0160\u0165\u00e1vu zjemn\u00edme tukem. Dal\u0161\u00ed recepty v kategorii Hlavn\u00ed j\u00eddla \u00a0 Dal\u0161\u00ed recepty v kategorii Ryby a vodn\u00ed potvory "
+    },
+    "@id": "http://example.org/recipe"
+}

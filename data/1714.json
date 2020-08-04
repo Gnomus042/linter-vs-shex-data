@@ -1,0 +1,110 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-GB",
+            "@value": "6"
+        },
+        "ratingValue": {
+            "@language": "en-GB",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "en-GB",
+        "@value": "Sarah Trivuncic"
+    },
+    "description": {
+        "@language": "en-GB",
+        "@value": "Speltotto is risotto made with spelt grain rather than rice; this is an easy family dish suitable for vegetarians or as side dish."
+    },
+    "image": {
+        "@id": "https://maisoncupcake.com/mcc/wp-content/uploads/2016/09/Cheesy-Baked-Speltotto-10.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-GB",
+            "@value": "1 litre of stock plus extra boiling water as required"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 medium onion, chopped into dice"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 tbsp rapeseed oil (or other light frying oil)"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "200g pearlised spelt grain"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "3 garlic cloves, peeled and finely sliced"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 medium spaghetti squash cut into small dice"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 x 350g block of Cathedral City Mature Cheese, grated"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "ground black pepper"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "2 slices worth of brown bread crumbs"
+        }
+    ],
+    "name": {
+        "@language": "en-GB",
+        "@value": "Cheesy Baked Speltotto"
+    },
+    "recipeCategory": {
+        "@language": "en-GB",
+        "@value": "Dinner"
+    },
+    "recipeCuisine": {
+        "@language": "en-GB",
+        "@value": "European"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-GB",
+            "@value": "After around 15 minutes when the spelt and squash are cooked and water absorbed you can at this stage leave the speltotto to cool and refrigerate overnight."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "In a large pan, heat the oil and fry the onion and garlic until soft."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "When hot remove from the oven and heat the grill. Sprinkle bread crumbles and a grinding of black pepper over the top and return to the grill for 3-4 minutes until golden brown and your cheesy baked speltotto is ready to served."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "If you are serving the speltotto the same day preheat the oven to 200c / gas 6."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Add the diced squash and pour over the stock. Stir well. Pour in the spelt grain and stir well again."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "You can place the lid on for a few minutes at a time to speed up the cooking. If the stock is absorbed before the spelt is soft add more boiling water."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Then mix the grated cheese into the speltotto and combine so cheese is evenly distributed. You can bake in one dish or individual ones if preferred. Bake individual dishes for 12-15 minutes although a larger mass of speltotto may require longer heating time."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-GB",
+        "@value": "6-8"
+    },
+    "@id": "http://example.org/recipe"
+}

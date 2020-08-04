@@ -1,0 +1,79 @@
+{
+    "@type": "Recipe",
+    "image": [
+        {
+            "@id": "https://lifeisfullofgoodies.com/wp-content/uploads/2016/08/Blaubeer-Puddingkuchen-1-2.jpg"
+        },
+        {
+            "@id": "https://lifeisfullofgoodies.com/2016/08/14/blaubeer-pudding-kuchen/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20205%200'%3E%3C/svg%3E"
+        }
+    ],
+    "ingredients": [
+        {
+            "@value": "1 Vanilleschote"
+        },
+        {
+            "@value": "2 Essl\u00f6ffel Blaubeer-/Heidelbeermarmelade"
+        },
+        {
+            "@value": "Fett f\u00fcr die Springform"
+        },
+        {
+            "@value": "1 P\u00e4ckchen Puddingpulver Vanille (zum Kochen)"
+        },
+        {
+            "@value": "Einige frische Brombeeren"
+        },
+        {
+            "@value": "300 g Vollkorn-Weizenmehl"
+        },
+        {
+            "@value": "100 g Zucker"
+        },
+        {
+            "@value": "250 g frische Blaubeeren (gerne auch mehr)"
+        },
+        {
+            "@value": "200 g Butter"
+        },
+        {
+            "@value": "1 Ei"
+        },
+        {
+            "@value": "500 ml Milch"
+        }
+    ],
+    "name": {
+        "@value": "Blaubeer-Pudding-Kuchen"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Anschlie\u00dfend den Teig auf einer bemehlten Fl\u00e4che ausrollen, in eine gefettete Springform (Durchmesser ca. 26 cm) legen und einen Rand hochziehen. Den Boden mehrmach mit einer Gabel einstechen."
+        },
+        {
+            "@value": "F\u00fcr die Puddingf\u00fcllung die Vanilleschote aufschlitzen und das Mark herauskratzen."
+        },
+        {
+            "@value": "Die Milch unter R\u00fchren zum Kochen bringen, das anger\u00fchrte Puddingpulver sodann hineinr\u00fchren. Eine Minute kurz k\u00f6cheln lassen und vom Herd nehmen (R\u00fchren dabei nicht vergessen!). Den Pudding nun auf der Oberfl\u00e4che direkt mit einer Folie bedecken, damit sich keine Haut bildet (das geht n\u00e4mlich ansonsten schnell) und den Pudding zur Seite stellen."
+        },
+        {
+            "@value": "Den Boden nun ca. 15 - 20 Minuten backen."
+        },
+        {
+            "@value": "Die Zutaten f\u00fcr den Teig miteinander verkneten. Den Teig zu einer Kugel formen, einwickeln und ca. 30 Minuten in den K\u00fchlschrank stellen."
+        },
+        {
+            "@value": "Vier Essl\u00f6ffel von der Milch mit dem Puddingpulver glattr\u00fchren und zusammen mit dem Vanillemark und 100 g vom Zucker mischen und gut verr\u00fchren."
+        },
+        {
+            "@value": "Den Backofen auf 180 \u00b0C Umluft (200 \u00b0C Ober- / Unterhitze) vorheizen."
+        },
+        {
+            "@value": "Den ausgek\u00fchlten Boden nun zuerst mit der Marmelade bestreichen und anschlie\u00dfend den Vanillepudding dar\u00fcbergeben."
+        },
+        {
+            "@value": "Die frischen Blaubeeren sowie die Brombeeren auf dem Pudding verteilen und den Kuchen mindestens 4 Stunden k\u00fchlstellen."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

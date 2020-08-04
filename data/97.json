@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@value": " 5.0"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": " Les petits plats du Prince "
+        }
+    },
+    "description": {
+        "@value": "Une recette de plat facile et rapide par Les petits plats du Prince"
+    },
+    "image": {
+        "@id": "http://www.lesfoodies.com/_recipeimage/170319/magret-canard-aux-pruneaux-et-au-floc-gascogne.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\tSel"
+        },
+        {
+            "@value": "\t2 magrets"
+        },
+        {
+            "@value": "\t30 cl de floc rouge de Gascogne (ou de porto)"
+        },
+        {
+            "@value": "\tUne vingtaine de pruneaux"
+        },
+        {
+            "@value": "poivre"
+        },
+        {
+            "@value": "\t100 g de beurre"
+        }
+    ],
+    "name": {
+        "@value": "MAGRET DE CANARD AUX PRUNEAUX ET AU FLOC DE GASCOGNE"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "212 kcal"
+        },
+        "carbohydrateContent": {
+            "@value": "0 g"
+        },
+        "fatContent": {
+            "@value": "13 g"
+        },
+        "proteinContent": {
+            "@value": "17 g"
+        },
+        "servingSize": {
+            "@value": "Pour 100 g :"
+        }
+    },
+    "recipeInstructions": {
+        "@value": "\n              - D\u00e9graisser l\u00e9g\u00e8rement les magrets, puis quadriller la peau.\n- Faire chauffer une po\u00eale \u00e0 sec (sans mati\u00e8re grasse).\n- Disposer les magrets c\u00f4t\u00e9 peau pendant 7 mn pour faire fondre la graisse.\n- Sortir les magrets de la po\u00eale, jeter la graisse fondue, et essuyer la po\u00eale avec un essuie-tout.\n- Remettre les magrets c\u00f4t\u00e9 chair pendant 6 \u00e0 7 mn.\n- Pendant ce temps, mettre les pruneaux dans une casserole avec le Floc, faire bouillir, puis \u00e9teindre le feu et r\u00e9server.\n- Sortir les magrets de la po\u00eale, les couper en tranches, et les mettre sur une assiette creuse, recouverts de papier alu pour garder au chaud.\n- Refaire chauffer la po\u00eale, y disposer les pruneaux et le Floc, et faire bouillir.\n- Mettre le jus du magret dans la po\u00eale puis ajouter le beurre froid coup\u00e9 en d\u00e9s pour lier la sauce.\n\ngoogletag.cmd.push(function(){googletag.display('div-gpt-ad-1454934756781-0');});\n\n- Disposer les tranches de magrets, les pruneaux et la garniture sur une assiette.\n- Napper les magrets avec la sauce, ou servir \u00e0 part en sauci\u00e8re.\n              "
+    },
+    "recipeYield": {
+        "@value": "2 personnes"
+    },
+    "@id": "http://example.org/recipe"
+}

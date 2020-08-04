@@ -1,0 +1,23 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "http://dishingupthedirt.com/wp-content/uploads/2014/04/Beet-Coconut-Dream2-703x1024.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Beet Coconut Dream Smoothie"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n \tChop one large or two small beets into 1 inch pieces. Place in a pot of boiling water. Cook until beets are fork tender. About 15 minutes. Drain and cool.\n \tPlace beets in a food processor and puree. Chill mixture until ready to use.\n \tCombine all of the ingredients in a high speed blender and process until smooth.\n \tOptional: Top each smoothie with shredded coconut and a drizzle of pure maple syrup.\n"
+    },
+    "@id": "http://example.org/recipe"
+}

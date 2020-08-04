@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Gretchen's Bakery"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Do not prepare the panna cotta until the cupcakes have been baked and fully cooled You can use 1 vanilla bean pod in place of extract if you prefer, you will simply steep it with the heavy cream"
+    },
+    "image": {
+        "@id": "https://www.gretchensbakery.com/wp-content/uploads/2016/05/creamsicle-feature-rtesize-768x532.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "Gold Gelatin Sheets 1"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Salt pinch"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Granulated Sugar 2 Tablespoons (28g)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Buttermilk \u00bc cup (60ml)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Heavy Cream \u00bc Cup (60ml)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Vanilla Extract 1 teaspoon (5ml)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Panna Cotta"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Refrigerate until set (at least 2 hours or overnight covered with plastic wrap)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Ice the cupcakes as shown in the video with buttercream using the #826 Ateco Tip and then decorate with fresh orange segments in the form of a rose."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Squeeze the excess water from the gelatin and the add it to the hot cream, whisk to dissolve"
+        },
+        {
+            "@language": "en-US",
+            "@value": "*I used ganache on some of the cupcakes to resemble my favorite flower the black eyed susan, this is optional but if you decide to do it I used the#2 Ateco Tip found in the Gretchen's Bakery Essentials cake Decorating Kit"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Hollow out the cupcakes as shown in the video and pour the cooled panna cotta into each cavity."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Bloom the gelatin sheets in cold water for 5 minutes to soften"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add the cold buttermilk and the salt, stir well."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Combine the heavy cream & sugar in a sauce pot and heat to dissolve the sugar, it is not necessary to boil but you can bring it to about 180\u00b0F"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "\u00be cup"
+    },
+    "@id": "http://example.org/recipe"
+}

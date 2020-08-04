@@ -1,0 +1,117 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "sv",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "sv",
+            "@value": "23"
+        },
+        "ratingValue": {
+            "@language": "sv",
+            "@value": "3.22"
+        },
+        "worstRating": {
+            "@language": "sv",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "sv",
+        "@value": "Av Fredrik Wassberg - G\u00e4vle"
+    },
+    "container": {
+        "@language": "sv",
+        "@value": "Otroligt m\u00f6rt k\u00f6tt som serveras med pommes duchesse och en dal\u00e4lvss\u00e5s. Den perfekta stek-middagen i h\u00f6st och vinter-m\u00f6rkret!\u00a0\n\nReceptet \u00e4r fr\u00e5n tv-programmet Halv \u00e5tta hos mig, och recepten d\u00e4rifr\u00e5n \u00e4r komponerade av amat\u00f6rkockar. K\u00f6ket.se kan d\u00e4rf\u00f6r inte g\u00e5 i god f\u00f6r receptet."
+    },
+    "image": {
+        "@language": "sv",
+        "@value": "https://img.koket.se/microdata/biff-med-pommes-duchesse-och-dalalvssas.jpg"
+    },
+    "name": {
+        "@language": "sv",
+        "@value": "Biff med dal\u00e4lvss\u00e5s och pommes duchesse"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "sv",
+            "@value": "1 msk soja"
+        },
+        {
+            "@language": "sv",
+            "@value": "130 g v\u00e4sterbottensost"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 msk worcesters\u00e5s"
+        },
+        {
+            "@language": "sv",
+            "@value": "1  \u00e4ggula"
+        },
+        {
+            "@language": "sv",
+            "@value": "10  potatisar"
+        },
+        {
+            "@language": "sv",
+            "@value": "0,5  f\u00e4rskost grekisk vitl\u00f6k"
+        },
+        {
+            "@language": "sv",
+            "@value": "  persilja"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 kg biff, 50 dagars helm\u00f6rad"
+        },
+        {
+            "@language": "sv",
+            "@value": "0,5 dl gr\u00e4dde"
+        },
+        {
+            "@language": "sv",
+            "@value": "1  gul l\u00f6k"
+        },
+        {
+            "@language": "sv",
+            "@value": "  salt"
+        },
+        {
+            "@language": "sv",
+            "@value": "1  k\u00f6ttbuljongt\u00e4rning"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 dl oxfond"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 msk chili sauce"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 dl cr\u00e8me fraiche"
+        },
+        {
+            "@language": "sv",
+            "@value": "  svartpeppar"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 klyfta vitl\u00f6k"
+        },
+        {
+            "@language": "sv",
+            "@value": "  sm\u00f6r"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "sv",
+        "@value": "Duchesse\nKoka potatisen och pressa den. Blanda ihop resten av ingredienserna med potatisen och l\u00e4gg sedan i spritsp\u00e5se. Spritsa ut klickar p\u00e5 ett bakpl\u00e5tspapper, eller direkt p\u00e5 en planka. Gr\u00e4dda i ugnen p\u00e5 250 grader i ca 10 min S\u00e5s\nFinhacka vitl\u00f6k och l\u00f6k. Bryn och tills\u00e4tt sedan resten av ingredienserna, l\u00e5t koka upp. Biff\nGnugga in k\u00f6ttet med salt och peppar, stek sedan p\u00e5 alla sidor. H\u00e4ll lite fond \u00f6ver k\u00f6ttet och l\u00e5t g\u00e5 i ugnen ca 3 timmar p\u00e5 70 grader, tas ut vid ca 58 grader. Ta ut den ibland och \u00f6s \u00f6ver fond. Skiva upp k\u00f6ttet och servera med s\u00e5sen och duchesse, g\u00e4rna p\u00e5 en planka."
+    },
+    "@id": "http://example.org/recipe"
+}

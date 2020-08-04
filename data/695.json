@@ -1,0 +1,27 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "de-DE",
+        "@value": "\n                    Posted by : Natascha Ronner                "
+    },
+    "datePublished": {
+        "@language": "de-DE",
+        "@value": "Juli 20th, 2016"
+    },
+    "description": {
+        "@language": "de-DE",
+        "@value": "\n                                                                    /* <![CDATA[ */\njQuery(document).ready(function($){if($('.twoclick_social_bookmarks_post_1476')){$('.twoclick_social_bookmarks_post_1476').socialSharePrivacy({\"txt_help\":\"Wenn Sie diese Felder durch einen Klick aktivieren, werden Informationen an Facebook, Twitter, Flattr, Xing, t3n, LinkedIn, Pinterest oder Google eventuell ins Ausland \u00fcbertragen und unter Umst\u00e4nden auch dort gespeichert. N\u00e4heres erfahren Sie durch einen Klick auf das <em>i<\\/em>.\",\"settings_perma\":\"Dauerhaft aktivieren und Daten\u00fcber-tragung zustimmen:\",\"info_link\":\"http:\\/\\/www.heise.de\\/ct\\/artikel\\/2-Klicks-fuer-mehr-Datenschutz-1333879.html\",\"uri\":\"https:\\/\\/blog.yoojis.com\\/unsere-kleinen-ganz-gross-im-yoojis-bellevue\\/\",\"post_id\":1476,\"post_title_referrer_track\":\"Unsere+Kleinen+ganz+gross+%26%238211%3B+im+Yooji%E2%80%99s+Bellevue\",\"display_infobox\":\"on\"});}});\n/* ]]&gt; */\n\n\n\nIm Yooji\u2019s Bellevue mo\u0308chten wir die Kinder fu\u0308r die faszinierende Welt des Sushis begeistern. Mit dem Sushi Workshop, speziell fu\u0308r Kids, gibt unser Ku\u0308chenchef seine Erfahrung in der Sushi-Kunst weiter.\nDie Kleinen werden sich bei uns wie wahre Profis fu\u0308hlen. Spielend lernen sie Interessantes u\u0308ber Sushi und Hygienevorschriften sowie u\u0308ber die Wichtigkeit des nachhaltigen Fischfangs kennen. Mit der Itamae-Chan Box ko\u0308nnen die Kids dann das Gelernte einfach zuhause anwenden und Freunde wie Familie begeistern.\nDaten: 24.09.2017\u00a0| 29.10.2017\u00a0| 26.11.2017\u00a0| 17.12.2017 |\u00a0\nWann: 13.00 \u2013 15.00 Uhr\nWo: Yooji\u2019s Bellevue, 1. Stock\nGruppengro\u0308sse: 4 \u2013 8 Kinder\nAlter: 7 \u2013 12 Jahre\nKurskosten: CHF 59.\u2013 pro Teilnehmer inkl. Essen, Tee/yootea\nAuch erha\u0308ltlich:\u00a0Itamae-Chan Box (Sushi-Starter-Kit mit Sushi-Matte, Chopsticks, Sojasauce und vielem mehr) fu\u0308r CHF 30.\u2013 pro Box\n\u00a0\n\n\n\nAnmeldung per Mail an: bellevue@yoojis.ch\n\nDas Yooji\u2019s-Team freut sich schon auf dich!\n\n\n\n\u00a0\n\u00a0\n\u00a0\n\n\n\n\n                                                                                                    \n                        \n                             kids Sushi Sushi Workshop Workshop Yooji's Bellevue yoojis                         \n                                    \n            "
+    },
+    "image": {
+        "@id": "http://blog.yoojis.com/wp-content/uploads/2016/07/YBE_Sushiworkshop_2016_Wordpress_V2.jpg"
+    },
+    "name": {
+        "@language": "de-DE",
+        "@value": "Unsere Kleinen ganz gross \u2013 im Yooji\u2019s Bellevue"
+    },
+    "recipeCategory": {
+        "@language": "de-DE",
+        "@value": "Workshop - 20.07.2016"
+    },
+    "@id": "http://example.org/recipe"
+}

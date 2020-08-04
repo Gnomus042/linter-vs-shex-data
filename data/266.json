@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "fr",
+        "@value": "dengsum Official Store"
+    },
+    "brand": {
+        "@language": "fr",
+        "@value": "lpfb.us"
+    },
+    "image": {
+        "@language": "fr",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1yNZGX5HrK1Rjy0Flq6AsaFXaj/-DENGSUM-livre-pliant-en-bois-LED-veilleuse-Art-lumi\u00e8res-d\u00e9coratives-bureau-mur-lampe-magn\u00e9tique-blanc.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr",
+            "@value": "32961167623"
+        },
+        {
+            "@language": "fr",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "fr",
+        "@value": "[DENGSUM] livre pliant en bois LED veilleuse Art lumi\u00e8res d\u00e9coratives bureau/mur lampe magn\u00e9tique blanc/blanc chaud cadeau du nouvel an"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,59 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Lauren Greutman"
+    },
+    "description": {
+        "@value": "Looking for the EASIEST and BEST way to make mashed potatoes? Stop looking and stop guessing on how to season them! This recipe makes perfectly creamy and seasoned mashed potatoes!"
+    },
+    "image": {
+        "@id": "https://www.laurengreutman.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-11-at-12.19.05-PM.png"
+    },
+    "ingredients": [
+        {
+            "@value": "5 lbs. of potatoes"
+        },
+        {
+            "@value": "1 stick butter"
+        },
+        {
+            "@value": "2 tsp salt"
+        },
+        {
+            "@value": "2 cups whole milk"
+        },
+        {
+            "@value": "1 tsp black pepper"
+        }
+    ],
+    "name": {
+        "@value": "Perfect Mashed Potatoes"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Clean and quarter potatoes. Peeling is optional\u00e2\u0080\u00a6 but if peeling, then cut into smaller pieces."
+        },
+        {
+            "@value": "Boil for 15-20 minutes. When they easily break apart with a fork, then they\u00e2\u0080\u0099re ready."
+        },
+        {
+            "@value": "Place potatoes in a large mixing bowl."
+        },
+        {
+            "@value": "In a small pot, heat the butter, milk, salt and pepper over medium heat and stir until the butter is melted and mixed well into the milk."
+        },
+        {
+            "@value": "While mixing the potatoes in a large upright mixer or with a handheld mixer on medium, slowly pour the milk/butter into the potatoes."
+        },
+        {
+            "@value": "Drain in colander, and rinse with hot water (this gets the excess starch off)"
+        },
+        {
+            "@value": "Mix on medium until smooth."
+        }
+    ],
+    "recipeYield": {
+        "@value": "10"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,10 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.oetker.pl/pl-pl/nasze-przepisy/r/ciasto-z-budyniem-owocami-i-galaretka//Recipe/Recipes/oetker.pl/pl-pl/baking/image-thumb__68130__RecipeDetail/ciasto-z-budyniem-owocami-i-galaretka.jpg"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "@id": "http://example.org/recipe"
+}

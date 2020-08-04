@@ -1,0 +1,12 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@language": "pl-PL",
+        "@value": "Boczniaki z\u00a0burakami i\u00a0\u017curawin\u0105"
+    },
+    "prepTime": {
+        "@language": "pl-PL",
+        "@value": "30M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1 tbsp taco seasoning\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 head of romaine lettuce, washed and chopped\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 15.25 oz can corn, drained\n"
+        },
+        {
+            "@language": "en",
+            "@value": "3 large tomatoes, seeded and diced\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1/3 cup cocktail sauce\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 30 oz package SeaPak\u00ae Popcorn Shrimp\n"
+        },
+        {
+            "@language": "en",
+            "@value": "8 oz Mexican blend shredded cheese\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 12 oz bag tortilla chips, broken up\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 15 oz can black beans, rinsed and drained\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup Catalina dressing\n"
+        },
+        {
+            "@language": "en",
+            "@value": "2 avocados, diced\n"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Layered Popcorn Shrimp Taco Salad"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Layer lettuce, beans, corn, tomatoes, avocado, chips, cheese and shrimp in a large bowl.\n"
+        },
+        {
+            "@language": "en",
+            "@value": "Combine Catalina and cocktail sauce in a small bowl and serve with the salad.\n"
+        },
+        {
+            "@language": "en",
+            "@value": "I did the following: lettuce, chips, cheese, black beans, lettuce, chips, shrimp, corn, tomato, cheese, chips and then did a little design on the top. The layers are optional.\n"
+        },
+        {
+            "@language": "en",
+            "@value": "Prepare popcorn shrimp according to package directions and toss with taco seasoning.\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "12"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,56 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://cocotteminute.es/author/rosalia"
+    },
+    "datePublished": {
+        "@language": "es",
+        "@value": "2016-11-20"
+    },
+    "description": {
+        "@language": "es",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "http://cocotteminute.es/wp-content/uploads/2016/11/IMG_4197-150x150.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "es",
+            "@value": "Mantequilla  - 5 cucharadas "
+        },
+        {
+            "@language": "es",
+            "@value": "Galletas tipo Digestive  - 250 g. "
+        },
+        {
+            "@language": "es",
+            "@value": "Az\u00facar glass  - 60 g. "
+        },
+        {
+            "@language": "es",
+            "@value": "Almendra crocanti  - 1 paquete peque\u00f1o "
+        },
+        {
+            "@language": "es",
+            "@value": "Nutella  - 1 bote peque\u00f1o de 350 g. "
+        },
+        {
+            "@language": "es",
+            "@value": "Queso crema tipo Philadelphia  - 450 g. "
+        }
+    ],
+    "name": {
+        "@language": "es",
+        "@value": "Nutella cheescake"
+    },
+    "recipeInstructions": {
+        "@language": "es",
+        "@value": "\n                Lo primero que vamos a hacer es la base de galleta el cheescake de Nutella. Para ello, vamos a triturar las galletas, y a a\u00f1adirle a continuaci\u00f3n, las 5 cucharadas de mantequilla, una cucharada de Nutella y otra cucharada colmada de almendra crocanti:\n\nTrituramos las galletas\n\n\nA\u00f1adimos la mantequilla, la Nutella y las almendras crocanti\n\n\nTrituramos de nuevo\n\nPonemos ahora la mezcla en un molde de 23 cm. (aprox.) de di\u00e1metro y presionamos bien para que quede uniforme la base del cheescake:\n\nPonemos la mezcla en el fondo de un molde de 23 cm. de di\u00e1metro\n\n\nPresionamos bien con una cuchara hasta dejarlo uniforme\n\n\nPresionamos bien con una cuchara hasta dejarlo uniforme\n\nUna vez uniforme, metemos el molde en la nevera mientras hacemos el relleno:\n\nLo metemos en la nevera mientras hacemos el relleno\n\nPreparamos ahora el relleno del cheescake de Nutella. Para ello pesamos el queso crema y lo ponemos en un bol con el az\u00facar glass. Mezclamos bien con las varillas:\n\nPonemos el queso crema en un bol\n\n\nA\u00f1adimos el az\u00facar glass y batimos bien con las varillas\n\n\nA\u00f1adimos el az\u00facar glass y batimos bien con las varillas\n\nA\u00f1adimos ahora la Nutella y volvemos a mezclar:\n\nA\u00f1adimos ahora la Nutella\n\n\nA\u00f1adimos ahora la Nutella y batimos de nuevo\n\nPonemos ahora la mezcla sobre la base de galletas que ten\u00edamos en la nevera y lo cubrimos con la almendra crocanti:\n\nPonemos la mezcla sobre la base de galletas que ten\u00edamos en la nevera\n\n\nPonemos la mezcla sobre la base de galletas que ten\u00edamos en la nevera\n\n\nA\u00f1adimos sobre la mezcla la almendra crocanti\n\n\nA\u00f1adimos sobre la mezcla la almendra crocanti\n\nLo cubrimos de nuevo con papel film y lo metemos en la nevera al menos 24 h. De esta manera os asegur\u00e1is de que el cheescake de Nutella adquirir\u00e1 la consistencia necesaria para que no se os desmorone al desmontarla:\n\nLo cubrimos con papel film y lo dejamos toda la noche en la nevera\n\n\nLo metemos en la nevera\n\nPasado el tiempo, ya podemos desmoldarla, y... \u00a1voil\u00e1! \u00bfQu\u00e9 os parece? Realmente el milagro sucede, y la tarta adquiere una consistencia maravillosa. El resultado es cremoso, no muy dulce y sencillamente delicioso. Para cortarla, os recomiendo que moj\u00e9is el cuchillo en agua caliente, y cada trozo os saldr\u00e1 impecable.\n\nNutella cheescake\n\nY con esta receta de cheecake de Nutella taaan dulce, me despido de todos vosotros, mis queridos \"glamcooks\", hasta e domingo que viene, no sin antes desearos una semana tan dulce como esta receta.\nUn besote,\nCocotte.\n\n\t\t\t#gallery-1 {\n\t\t\t\tmargin: auto;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-item {\n\t\t\t\tfloat: left;\n\t\t\t\tmargin-top: 10px;\n\t\t\t\ttext-align: center;\n\t\t\t\twidth: 33%;\n\t\t\t}\n\t\t\t#gallery-1 img {\n\t\t\t\tborder: 2px solid #cfcfcf;\n\t\t\t}\n\t\t\t#gallery-1 .gallery-caption {\n\t\t\t\tmargin-left: 0;\n\t\t\t}\n\t\t\t/* see gallery_shortcode() in wp-includes/media.php */\n\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tNutella cheescake\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tIngredientes Nutella cheescake\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tTrituramos las galletas\n\t\t\t\t\n\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tA\u00f1adimos la mantequilla, la Nutella y una cucharada de almendras crocanti\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tTrituramos de nuevo\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tTrituramos de nuevo\n\t\t\t\t\n\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tPonemos la mezcla en el fondo de un molde de 23 cm. de di\u00e1metro\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tPresionamos bien con una cuchara hasta dejarlo uniforme\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tPresionamos bien con una cuchara hasta dejarlo uniforme\n\t\t\t\t\n\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tLo metemos en la nevera\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tPonemos el queso crema en un bol\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tA\u00f1adimos el az\u00facar glass y batimos bien con las varillas\n\t\t\t\t\n\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tA\u00f1adimos el az\u00facar glass y batimos bien con las varillas\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tA\u00f1adimos ahora la Nutella\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tA\u00f1adimos ahora la Nutella y batimos de nuevo\n\t\t\t\t\n\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tPonemos la mezcla sobre la base de galletas que ten\u00edamos en la nevera\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tPonemos la mezcla sobre la base de galletas que ten\u00edamos en la nevera\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tA\u00f1adimos sobre la mezcla la almendra crocanti\n\t\t\t\t\n\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tA\u00f1adimos sobre la mezcla la almendra crocanti\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tLo cubrimos con papel film y lo dejamos toda la noche en la nevera\n\t\t\t\t\n\n\n\n\t\t\t\t\n\t\t\t\n\n\t\t\t\tNutella cheescake\n\t\t\t\t\n\n\n\t\t\n\u00a0\n\u00a0\n\n            "
+    },
+    "recipeYield": {
+        "@language": "es",
+        "@value": "Este sencillo chesscake de Nutella no requiere cocci\u00f3n y har\u00e1 las delicias de toda la familia."
+    },
+    "@id": "http://example.org/recipe"
+}

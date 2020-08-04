@@ -1,0 +1,88 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "lt-LT",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "lt-LT",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "lt-LT",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "lt-LT",
+        "@value": "Paruo\u0161ta pagal Kwestia smaku"
+    },
+    "datePublished": {
+        "@language": "lt-LT",
+        "@value": "2016-08-07 22:32:18"
+    },
+    "description": {
+        "@language": "lt-LT",
+        "@value": "Liesi, sultingi, gaiv\u016bs m\u0117sainiai, skirti aktyviai gyvenantiems ir linijomis besir\u016bpinantiems \u017emon\u0117ms"
+    },
+    "image": {
+        "@id": "https://www.nidosreceptai.lt/wp-content/uploads/2016/08/Fitburgers-2_Featured.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "lt-LT",
+            "@value": "3 \u010desnako skiltel\u0117s"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "2 \u0161auk\u0161tai pasmulkint\u0173 petra\u017eoli\u0173"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "Druskos, pipir\u0173"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "500 g vi\u0161tienos arba kalakutienos kr\u016btin\u0117li\u0173"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "1 nedidel\u0117 cukinija, sutarkuota stambia tarka"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "1/2 \u0161auk\u0161telio kumino"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "1 svog\u016bnas, smulkiai supjaustytas"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "1/2 \u0161auk\u0161telio oregano"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "2 \u0161auk\u0161tai alyvuogi\u0173 aliejaus"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "1 kiau\u0161inis"
+        },
+        {
+            "@language": "lt-LT",
+            "@value": "1/2 \u0161auk\u0161telio sald\u017ei\u0173j\u0173 paprik\u0173"
+        }
+    ],
+    "name": {
+        "@language": "lt-LT",
+        "@value": "Vi\u0161tienos ir cukinij\u0173 fit-burgeriai"
+    },
+    "recipeInstructions": {
+        "@language": "lt-LT",
+        "@value": "\t\t\t\t\u012e elektrinio smulintuvo ind\u0105 sud\u0117kite \u010desnakus ir pasmulkintas cukinijas, ir smulkiai sukapokite. Tada sud\u0117kite gabalais supjaustytas kr\u016btin\u0117les ir pulsuojan\u010diais judesiais kapokite iki norimos konsistencijos.\t\t\t\t\u012ekaitinkite keptuv\u0117je aliej\u0173, apkepinkite smulkiai supjaustytus svog\u016bnus. Kai jie sumink\u0161t\u0117ja, sud\u0117kite cukinijas ir toliau kepinkite, kol i\u0161garuoja visas skystis. Pabaigoje suberkite visus prieskonius ir gerai i\u0161mai\u0161\u0119 palikite truput\u012f prav\u0117sti.\t\t\t\tDubenyje suplakite kiau\u0161in\u012f, sud\u0117kite kapot\u0105 m\u0117s\u0105, apkepintas cukinijas su svog\u016bnais, \u012fberkite druskos ir pipir\u0173 ir visk\u0105 gerai sumai\u0161ykite.\t\t\t\tKeplite grilyje arba grilio keptuv\u0117je kiekvien\u0105 pus\u0119 po ma\u017edag 2.5 min., i\u0161 abiej\u0173 pusi\u0173 burgerius patep\u0119 aliejumi.\t\t\t\tPatiekite su salotomis arba burgeri\u0173 bandel\u0117mis, su m\u0117gstamais priedais ir pada\u017eais\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

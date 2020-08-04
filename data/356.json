@@ -1,0 +1,54 @@
+{
+    "@type": "Recipe",
+    "alternateName": {
+        "@value": "Tom kha kai"
+    },
+    "author": {
+        "@value": "Rosemary Brissenden"
+    },
+    "image": {
+        "@id": "https://www.cooked.com.au/Rosemary-Brissenden/Hardie-Grant-Books/South-East-Asian-Food/Thailand-Thai-soups/Chicken-with-galangal-in-coconut-milk-recipe///cdn.cooked.com.au/-/media/cooked/mediabucket/2015/02/12/03/04/528eef2c83df9_se-asian-food.ashx?w=1066"
+    },
+    "ingredients": [
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t6\n\t\t\t\t\t\t\t\t\t\tkaffir lime leaves, torn\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t500g\n\t\t\t\t\t\t\t\t\t\tchicken thigh fillets, cut the thai way\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t3-6\n\t\t\t\t\t\t\t\t\t\tfresh small red chillies, bruised but not chopped, to taste\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t2 stalks\n\t\t\t\t\t\t\t\t\t\tlemongrass, bruised with the side of a cleaver, cut into 5 cm lengths\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1 cup\n\t\t\t\t\t\t\t\t\t\tthick coconut milk and 3 cups all-purpose coconut milk\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t4cm\n\t\t\t\t\t\t\t\t\t\tpiece fresh young galangal, peeled and cut into thick slices\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t\t\tcoriander root, bruised\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\tor 1 x 400ml\n\t\t\t\t\t\t\t\t\t\tcan coconut milk and 1 can water\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t2 tablespoons\n\t\t\t\t\t\t\t\t\t\tfish sauce, or more to taste\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tcoriander leaves, for garnish\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t2 tablespoons\n\t\t\t\t\t\t\t\t\t\tlime juice, or more to taste\n\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "name": {
+        "@value": "Chicken with galangal in coconut milk"
+    },
+    "recipeInstructions": {
+        "@value": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tIf you are using canned coconut milk do not shake the can before opening. Skim off 1 cup of the thick part at the top and keep aside. Put the chicken pieces into a wok or a saucepan, add the all-purpose coconut milk (and water, if using canned coconut milk), the galangal slices, lemongrass, coriander root, lime leaves, and 1 tablespoon fish sauce, stir and bring to the boil. Simmer until the chicken is tender, then add the thick coconut milk. Just before the liquid boils again remove the saucepan from the heat, and add the chillies, lime juice and more fish sauce to taste. Pour the contents into a serving bowl and garnish with coriander. On the table place a small bowl of fish sauce and some lime wedges cut attractively. Diners adjust their own seasonings to taste.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tTo make a vegetarian version of this dish use sliced pumpkin and/or button or other mushrooms and baby corn in place of chicken.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

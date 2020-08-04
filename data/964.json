@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "49 "
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2019-07-24"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://wholefoodsimply.com/wp-content/uploads/2013/10/apple-crumble-00.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Two Minute Apple Crumble"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

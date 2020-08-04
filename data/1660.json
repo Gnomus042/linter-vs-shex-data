@@ -1,0 +1,208 @@
+{
+    "@type": "Recipe",
+    "accountablePerson": {
+        "@language": "en",
+        "@value": "BBC Good Food"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "61"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4.65574"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "James Martin"
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT30M"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2011-09-01"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Roast beef just wouldn't be the same without crisp Yorkshire puddings"
+    },
+    "image": {
+        "@id": "https://www.bbcgoodfood.com/recipes/1581636/james-martins-yorkshire-puds///www.bbcgoodfood.com/sites/default/files/styles/recipe/public/user-collections/my-colelction-image/2015/12/recipe-image-legacy-id--740564_11.jpg?itok=ehBtmlmT"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "300ml milk Milk mill-kOne of the most widely used ingredients, milk is often referred to as a complete food. While cow\u2026 "
+        },
+        {
+            "@language": "en",
+            "@value": "3 eggs Egg eggThe ultimate convenience food, eggs are powerhouses of nutrition, packed with protein and a\u2026 "
+        },
+        {
+            "@language": "en",
+            "@value": "200g plain flour"
+        },
+        {
+            "@language": "en",
+            "@value": "4 tbsp vegetable oil"
+        }
+    ],
+    "keywords": [
+        {
+            "@language": "en",
+            "@value": "Plain flour"
+        },
+        {
+            "@language": "en",
+            "@value": "Trimmings"
+        },
+        {
+            "@language": "en",
+            "@value": "James Martin"
+        },
+        {
+            "@language": "en",
+            "@value": "Roast"
+        },
+        {
+            "@language": "en",
+            "@value": "Yorshire pudding"
+        },
+        {
+            "@language": "en",
+            "@value": "Vegetarian"
+        },
+        {
+            "@language": "en",
+            "@value": "Eggs"
+        },
+        {
+            "@language": "en",
+            "@value": "Sunday lunch"
+        },
+        {
+            "@language": "en",
+            "@value": "Sunday roast"
+        },
+        {
+            "@language": "en",
+            "@value": "Easy"
+        },
+        {
+            "@language": "en",
+            "@value": "Milk"
+        },
+        {
+            "@language": "en",
+            "@value": "Family"
+        },
+        {
+            "@language": "en",
+            "@value": "Egg"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "James Martin's Yorkshire puds"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "123"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "14g"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "5g"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "1g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "4g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "1g"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "0.1g"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "1g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT10M"
+    },
+    "recipeCategory": [
+        {
+            "@language": "en",
+            "@value": "Main course"
+        },
+        {
+            "@language": "en",
+            "@value": "Dinner"
+        }
+    ],
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "British"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Carefully ladle the batter mix into the tin, then bake for 30 mins until well browned and risen."
+        },
+        {
+            "@language": "en",
+            "@value": "Put 200g plain\u00a0flour and some seasoning into a large bowl, stir in 3\u00a0eggs, one at a time, then slowly whisk in 300ml\u00a0milk until you have a smooth batter."
+        },
+        {
+            "@language": "en",
+            "@value": "Chill in the fridge for at least 30 mins or up to a day."
+        },
+        {
+            "@language": "en",
+            "@value": "Heat oven to 220C/180C fan/gas 7. Pour 4 tbsp vegetable\u00a0oil into the\u00a0holes of a 12-hole muffin tin, then heat the tin in the oven for 5 mins."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": " Makes 12 "
+    },
+    "sourceOrganization": {
+        "@language": "en",
+        "@value": "BBC Good Food"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT40M"
+    },
+    "@id": "http://example.org/recipe"
+}

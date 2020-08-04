@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "vi",
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@language": "vi",
+            "@value": "3314"
+        },
+        "ratingValue": {
+            "@language": "vi",
+            "@value": "10"
+        }
+    },
+    "description": {
+        "@language": "vi",
+        "@value": "Trung T\u00e2m Gia S\u01b0 T\u00e0i N\u0103ng Vi\u1ec7t n\u01a1i h\u1ed9i t\u1ee5 \u0111\u1ed9i ng\u0169 Gi\u00e1o Vi\u00ean-Sinh Vi\u00ean gi\u1ecfi chuy\u00ean d\u1ea1y k\u00e8m l\u1edbp 9 v\u1edbi nhi\u1ec1u n\u0103m kinh nghi\u1ec7m \n"
+    },
+    "image": {
+        "@id": "https://giasudaykem.com.vn//upload/hinhanh/thumb/macdinh.jpg"
+    },
+    "name": {
+        "@language": "vi",
+        "@value": "Gia S\u01b0 d\u1ea1y K\u00e8m L\u1edbp 9 - Trung T\u00e2m Gia S\u01b0 T\u00e0i N\u0103ng Vi\u1ec7t"
+    },
+    "@id": "http://example.org/recipe"
+}

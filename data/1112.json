@@ -1,0 +1,114 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Suzanne"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "This salad is full of vegetables you can use whole grains or gluten free pasta. Great fiber, color, flavor and texture using exceptional extra virgin olive oils and spices. This can be served cold or hot."
+    },
+    "image": {
+        "@id": "http://capizzanoco.com/wp-content/uploads/2016/09/PASTA-MUSHROOM-SALAD-300x257.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "Button Mushrooms, washed and sliced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Pound 100% Abruzzese Pasta (prepare as directed until tender)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Carrots, shredded"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 -3 TB Garden Gems Local Spicery Spice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Shitake Mushrooms, washed and sliced, remove stem, use the tops only"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Green Beans, cut into small pieces, steamed until tender (Options: broccoli or peas also)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Organic Edamame, steamed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Variations: Garlic, Basil or Herbs de Provence Infused EVOO or a Seasonal Ultra Premium Extra Virgin Olive Oil."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Purple Cabbage, shredded"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup Capizzano\u2019s Wild Mushroom & Sage Infused Extra Virgin Olive Oil (EVOO)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Portobello Mushrooms, washed and sliced, cut stem ends off"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Small Onion, diced (or thinly sliced red peppers)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Mushroom & Veggie Pasta Salad"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Entree"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Mediterranean"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Method:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Mix Wild Mushroom & Sage EVOO and Garden Gem spice together let stand for 10 minutes. Do this while the pasta is cooking."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Enjoy with your favorite fish and wine. Per La Salute"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour the Wild Mushroom & Sage EVOO \u2013 Garden Gem Spice mixture over pasta and veggies. Toss until coated completely. Serve immediately."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Drizzle our UP Extra Virgin Olive Oil in a skillet, saut\u00e9 onions until browned slightly, then add all mushrooms in UP Extra Virgin Olive Oil cook until soft and tender. Cook Green Beans until tender, drain, set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Put cooked and drained pasta in a bowl, add the mushroom onion mixture, then add cooked green beans and other vegetables."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

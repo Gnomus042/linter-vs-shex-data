@@ -1,0 +1,128 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "142"
+        },
+        "ratingValue": {
+            "@value": " 4.71 "
+        }
+    },
+    "author": {
+        "@id": "https://www.cookomix.com/membres/jeannek/"
+    },
+    "cookTime": {
+        "@value": "16 min"
+    },
+    "description": {
+        "@value": "Voici une d\u00e9licieuse recette de\u00a0Tortellini sauce cr\u00e9meuse au jambon. Appel\u00e9e Tortellini con panna e prosciutto\u00a0de l\u2019autre cot\u00e9 des alpes elle fait syst\u00e9matiquement l\u2019unanimit\u00e9 chez nos amis italiens.\u00a0Cette recette de tortellini \u00e0 la cr\u00e8me et au jambon au Thermomix est un plat simple qui peut \u00eatre pr\u00e9parer en tout occasion. Il sera autant appr\u00e9ci\u00e9 par les petits que par les grands \ud83d\ude42Afficher la recette comme sur mon Thermomix"
+    },
+    "image": {
+        "@id": "https://www.cookomix.com/wp-content/uploads/2017/05/tortellini-creme-jambon-thermomix-800x600.jpg"
+    },
+    "name": {
+        "@value": "Tortellini sauce cr\u00e9meuse au jambon  au Thermomix"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "770 kcal"
+        }
+    },
+    "prepTime": {
+        "@value": "1 min"
+    },
+    "recipeCategory": {
+        "@value": "Pr\u00e9paration"
+    },
+    "recipeCuisine": {
+        "@value": "Monde"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "Lait demi-\u00e9cr\u00e9m\u00e9"
+        },
+        {
+            "@value": "Gousses d'ail"
+        },
+        {
+            "@value": "Beurre"
+        },
+        {
+            "@value": "Noix de muscade moulue"
+        },
+        {
+            "@value": "Sel"
+        },
+        {
+            "@value": "Farine"
+        },
+        {
+            "@value": "Poivre"
+        },
+        {
+            "@value": "Jus de citron"
+        },
+        {
+            "@value": "Tortellini"
+        },
+        {
+            "@value": "Cr\u00e8me fra\u00eeche \u00e9paisse"
+        },
+        {
+            "@value": "Eau"
+        },
+        {
+            "@value": "Cube de bouillon de l\u00e9gumes"
+        },
+        {
+            "@value": "Parmesan"
+        },
+        {
+            "@value": "Emmental rap\u00e9"
+        },
+        {
+            "@value": "Jambon"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:Nb8979c35cb89484190f9359872487252"
+        },
+        {
+            "@id": "_:N0b42fde8b9c7460c892df50593615c17"
+        },
+        {
+            "@id": "_:Nec1482063c124259854b151349d76508"
+        },
+        {
+            "@id": "_:Na8cd6957f0e74abea38bf05985d3e536"
+        },
+        {
+            "@id": "_:Ndde210b188ce45bb8f91bd9b91643b3a"
+        },
+        {
+            "@id": "_:Nc0eda78c58264cf99693f495d3f786fb"
+        },
+        {
+            "@id": "_:Naf1a0136af2748a190ccf967b00c5874"
+        },
+        {
+            "@id": "_:Neaca4fce2871400fb5386ed5aabf8e00"
+        },
+        {
+            "@id": "_:N2ab21a6173b94dc4b537f7bfe517d3da"
+        },
+        {
+            "@id": "_:Ncd6e6dfcae5641d6a73fc3adde9bdfb1"
+        }
+    ],
+    "recipeYield": {
+        "@value": "4 portions"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,108 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "140"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Mark Bittman"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT45M"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n                Nachos can be fun as a bar food, but they\u2019re usually not much more than that. Here, I'm substituting like mad to create what you might call Greek-style nachos.Mine go like this: pita triangles toasted with olive oil; a sauce of feta and yogurt, spiked with mint and lemon; a topping of ground lamb with onion and cumin; and a garnish of tomatoes, cucumbers and olives. The whole thing takes maybe a half-hour, and it\u2019s all familiar except for the arrangement.\n                  \n      Featured in: \n      Behold, The Greek Nacho.\u00a0\n   \n\n\n\n              "
+    },
+    "image": {
+        "@id": "https://static01.nyt.com/images/2014/04/09/dining/greekstylenachos/greekstylenachos-articleLarge.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\n              Greek-Style Nachos\n        "
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    4\n                  \n                  \n                    ounces feta cheese\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    tablespoon ground cumin\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Salt\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bd\n                  \n                  \n                    cup yogurt, preferably whole-milk\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    lemon\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    About 1/2 cup olive oil\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bd\n                  \n                  \n                    cup chopped fresh mint\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    2 or 3\n                  \n                  \n                    medium ripe tomatoes, chopped\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    medium cucumber, peeled and seeded if necessary, and chopped\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Freshly ground black pepper\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    medium onion, chopped\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    4\n                  \n                  \n                    pita pockets, white or whole wheat, cut into wedges\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bd\n                  \n                  \n                    cup calamata olives, pitted and halved (optional)\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bd\n                  \n                  \n                    pound ground lamb\n                  \n                "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                Heat oven to 350 degrees Arrange pita wedges in one layer on baking sheets and brush or drizzle with a tablespoon or two of olive oil. Bake until they begin to color, turning once or twice, about 10 minutes. Sprinkle with salt, turn off oven and put chips back in to keep warm.\n                In a blender or food processor, combine feta, yogurt, 1/4 cup olive oil, mint and zest and juice of lemon; sprinkle with salt and pepper. Blend or process until smooth. (You can also mash mixture by hand, with a fork.)\n                Put two tablespoons of oil in a skillet over medium-high heat and cook onions until soft, about 5 minutes. Add lamb and cumin and sprinkle with salt and pepper; continue cooking until meat is cooked through, about 5 to 10 minutes more. Put chips on a serving plate and top with lamb, sauce, tomatoes, cucumbers and olives if you\u2019re using them.\n              "
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

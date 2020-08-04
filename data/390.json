@@ -1,0 +1,96 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "fi",
+            "@value": "6"
+        },
+        "ratingValue": {
+            "@language": "fi",
+            "@value": "3.5"
+        }
+    },
+    "description": {
+        "@language": "fi",
+        "@value": "Herkullinen kinuskikakku on entist\u00e4kin helpompi valmistaa kermarahkan ansiosta! Boysenmarjojen tilalla voit k\u00e4ytt\u00e4\u00e4 my\u00f6s esim. vadelmia tai mustaherukoita."
+    },
+    "image": {
+        "@id": "https://cdn-rdb.arla.com/Files/arla-fi/1719297840/c2e62c39-cb5f-49e8-9064-98ac970ff352.jpg?mode=crop&w=1680&h=750&scale=both&ak=814e15de&hm=8c2fa9df"
+    },
+    "name": {
+        "@language": "fi",
+        "@value": "Kinuskikakku"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fi",
+            "@value": "\n                \u00bd rkl Arla Meijerivoita\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n1 tl vaniljasokeria\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                1 dl Arla kevytmaitoa\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n1 tl leivinjauhetta\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n2 tl vaniljasokeria\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n2 rkl sokeria\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n3 kananmunaa\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                200 g Arla Lempi maitorahkaa\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                2 dl Arla kuohukermaa\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n2 dl Arla kuohukermaa\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n2 dl fariinisokeria\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\nkuorellisia mantelilastuja\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n125 g pakasteboysenmarjoja\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n1 dl sokeria\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\u00bd dl perunajauhoja\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n1 dl vehn\u00e4jauhoja\n        "
+        }
+    ],
+    "recipeYield": {
+        "@language": "fi",
+        "@value": "8 palaa"
+    },
+    "@id": "http://example.org/recipe"
+}

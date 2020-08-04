@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "de-DE",
+        "@value": "1 Portion  FODMAP\u2010arm, glutenfrei, laktosefrei, fructosearm, vegan, ohne Milch, ohne Ei, optional histaminarm (mit anderem Obst)"
+    },
+    "image": {
+        "@id": "https://weglasserei.de/wp-content/uploads/2018/03/oatmeal_fuer_eilige_schnelles_rezept.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "de-DE",
+            "@value": "90 ml Wasser"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Banane"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "etwas Zimt"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Kakaonibs"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "40 g grobe Haferflocken"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "gehackte Mandeln"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 TL Kokos\u00f6l"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 TL Mandelmus"
+        }
+    ],
+    "name": {
+        "@language": "de-DE",
+        "@value": "Cremiges Oatmeal f\u00fcr Eilige"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "de-DE",
+            "@value": "Sobald das Wasser kocht, zu den Haferflocken geben."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Banane und Toppings drauf geben."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Anderen Zutaten bereit stellen: Kokos\u00f6l, Mandelmus, Toppings."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Wasser im Wasserkocher aufsetzen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Deckel drauf und in die Tasche oder den K\u00fchlschrank packen oder direkt verputzen"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Banane schnippeln."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Haferflocken in ein Glas oder eine Sch\u00fcssel f\u00fcllen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Kokos\u00f6l und Mandelmus dazu und alles gut mischen."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

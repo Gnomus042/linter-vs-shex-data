@@ -1,0 +1,40 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@value": "91"
+        }
+    },
+    "author": {
+        "@value": "H\u00fclya (TurkseKok)"
+    },
+    "datePublished": {
+        "@value": "2011-08-07"
+    },
+    "description": {
+        "@value": "Beschrijving  De welbekende Turkse gehaktbroodjes, in het Turks ook wel: Pogaca.  Aantal personen  10  Bereidingstijd  90 min  ..."
+    },
+    "image": {
+        "@id": "http://www.turksekok.nl/?qa=blob&qa_blobid=1823750540361237031"
+    },
+    "name": {
+        "@value": "Po\u011fa\u00e7a"
+    },
+    "recipeCategory": {
+        "@value": "B\u00f6rek"
+    },
+    "recipeCuisine": {
+        "@value": "Turks"
+    },
+    "recipeYield": {
+        "@value": "10"
+    },
+    "totalTime": {
+        "@value": "1 uur 30 min"
+    },
+    "@id": "http://example.org/recipe"
+}

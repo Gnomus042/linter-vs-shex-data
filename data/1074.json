@@ -1,0 +1,134 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "121"
+        },
+        "ratingValue": {
+            "@value": " 4.91 "
+        }
+    },
+    "author": {
+        "@id": "https://www.cookomix.com/membres/jeannek/"
+    },
+    "cookTime": {
+        "@value": "01 h 43 min"
+    },
+    "description": {
+        "@value": "Beaucoup de l\u00e9gendes gravitent autour de l\u2019origine du bretzel ! Voici les 2 histoires qui reviennent le plus souvent pour que vous puissiez briller lorsque vous servirez ces d\u00e9licieux petits pains :Si l\u2019on en croit le premier mythe, le bretzel est n\u00e9 suite \u00e0 un vol d\u2019un boulanger allemand. D\u2019abord condamn\u00e9 \u00e0 mort par le roi, celui-ci d\u00e9cide finalement de le gracier s\u2019il invente un pain \u00ab au travers duquel le soleil brillerait trois fois \u00bb. Le boulanger trouve la solution en voyant sa femme prier pour lui les bras en croix : le bretzel \u00e9tait n\u00e9 !La seconde l\u00e9gende nous vient du boulanger de l\u2019abbaye de Saint-Gall (en Suisse al\u00e9manique), qui se serait inspir\u00e9 des moines croisant leurs bras en attendant leurs bi\u00e8res pour cr\u00e9er la forme du bretzel \ud83d\ude42Quoi qu\u2019il en soit, le bretzel trouve naturellement sa place dans le quoditien des allemands, alsaciens, autrichiens et suisses ! \u00c0 votre tour de l\u2019adopter en r\u00e9alisant cette recette \u00e0 l\u2019aide de votre Thermomix !AstuceRemplacer le gros sel par des graines de pavot, de s\u00e9same, de tournesol ou encore de courges.Afficher la recette comme sur mon Thermomix"
+    },
+    "image": {
+        "@id": "https://www.cookomix.com/wp-content/uploads/2019/10/bretzel-thermomix-800x600.jpg"
+    },
+    "keywords": {
+        "@value": "Pains"
+    },
+    "name": {
+        "@value": "Bretzels  au Thermomix"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "231 kcal"
+        }
+    },
+    "prepTime": {
+        "@value": "20 min"
+    },
+    "recipeCategory": {
+        "@value": "Pr\u00e9paration"
+    },
+    "recipeCuisine": {
+        "@value": "Monde"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "Farine"
+        },
+        {
+            "@value": "Levure de boulanger fra\u00eeche"
+        },
+        {
+            "@value": "Eau"
+        },
+        {
+            "@value": "Sucre en poudre"
+        },
+        {
+            "@value": "Gros sel"
+        },
+        {
+            "@value": "Bicarbonate de soude"
+        },
+        {
+            "@value": "Beurre"
+        },
+        {
+            "@value": "Lait demi-\u00e9cr\u00e9m\u00e9"
+        },
+        {
+            "@value": "Oeuf"
+        },
+        {
+            "@value": "Sel"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:Ndce2c93dce334d53952e407cf5acb9c8"
+        },
+        {
+            "@id": "_:N5c34440bf9c049ac98deab2f31fd6d9b"
+        },
+        {
+            "@id": "_:N5564bff5349443ea95b243ecab790378"
+        },
+        {
+            "@id": "_:Naa99dabf39be4437881f69200d2ade32"
+        },
+        {
+            "@id": "_:N418aa8966a704cf7a048e8b556ea3012"
+        },
+        {
+            "@id": "_:Nc740b6975858453c94a295c39369b757"
+        },
+        {
+            "@id": "_:N1d78eed124214c948afb0015caacf253"
+        },
+        {
+            "@id": "_:N6cab84f4968241bfb86f3c747c30368e"
+        },
+        {
+            "@id": "_:N0f25b018bfdd4f73a08c6b0dd4614957"
+        },
+        {
+            "@id": "_:N3ef6f252d87448b7b77aaf674e3a4f50"
+        },
+        {
+            "@id": "_:Nfd9d88ffa62347738215c96515d2f5ab"
+        },
+        {
+            "@id": "_:N21ffbe30d1884c22aa41efae2f976635"
+        },
+        {
+            "@id": "_:N26b15dd02acc446e9a4b785a8b4859c0"
+        },
+        {
+            "@id": "_:N31efac9dff1e41f794fc39c40a0a2a75"
+        },
+        {
+            "@id": "_:N23d62578340043e09cd32bc3e2809706"
+        },
+        {
+            "@id": "_:Nd5537f86633c4b6ead024a414452f50c"
+        }
+    ],
+    "recipeYield": {
+        "@value": "10 portions"
+    },
+    "@id": "http://example.org/recipe"
+}

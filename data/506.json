@@ -1,0 +1,78 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Kathy Schowe"
+        }
+    },
+    "image": {
+        "@id": "https://kansasmobilesolutions.loginportal.site/uploads/1/2/7/0/127022336/kkr-fresh-pasta-3.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Fresh Pasta"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "2 cups double \"00\" flour"
+        },
+        {
+            "@language": "en",
+            "@value": "4 large\u00a0egg yolks"
+        },
+        {
+            "@language": "en",
+            "@value": "1 teaspoon salt"
+        },
+        {
+            "@language": "en",
+            "@value": "2 large\u00a0eggs"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Lay rolled pasta on parchment sheets dusted with flour and cover with another layer of parchment or plastic. If making noodles, roll them into little nests, dust with flour, and place in plastic bags for storage and freezing, or cook immediately."
+        },
+        {
+            "@language": "en",
+            "@value": "Unwrap dough and divide into 4 even pieces."
+        },
+        {
+            "@language": "en",
+            "@value": "Add more flour if dough is too sticky to handle. Knead for 10 minutes, until the dough feels elastic and springy."
+        },
+        {
+            "@language": "en",
+            "@value": "Blend with a fork and bench scraper until combined and a shaggy dough has formed."
+        },
+        {
+            "@language": "en",
+            "@value": "Wrap dough in plastic and let it rest for at least an hour or refrigerate overnight."
+        },
+        {
+            "@language": "en",
+            "@value": "Fold dough towards the center and run through again. Continue rolling the pasta and decreasing the setting until you reach the thinnest setting, \"9\"."
+        },
+        {
+            "@language": "en",
+            "@value": "To cook, bring a large pot of water to boil and season water generously with salt. Boil pasta for 1 \u00bd to 2 minutes and then drain. Serve with your favorite sauce."
+        },
+        {
+            "@language": "en",
+            "@value": "Run first piece through a pasta machine set on thickest setting, \"0\"."
+        },
+        {
+            "@language": "en",
+            "@value": "Measure out the flour onto the counter and make a well in the center. Add the eggs, yolks, and salt."
+        },
+        {
+            "@language": "en",
+            "@value": "Roll dough to thinnest setting for pappardelle and ravioli. Use \"7\" or \"8\" and add die cutters for spaghetti, linguine, or fettuccini."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

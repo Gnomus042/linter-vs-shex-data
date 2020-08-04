@@ -1,0 +1,16 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "\n        Sireesha Vakamalla        "
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "Dec 17, 2012"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\n      Gutti Vankaya      "
+    },
+    "@id": "http://example.org/recipe"
+}

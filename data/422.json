@@ -1,0 +1,24 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "image": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Iced Mocha Porter"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\t\tINGREDIENTS\n\t\t\t\t\t\n5 ounces Black Butte Porter\n5 ounces pre-packaged mocha\nIce cubes\nWhipped cream\n\n\u00a0\n\t\t\t\t"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\t\tDIRECTIONS\n\t\t\t\t\tBuild in a 16 ounce pint glass over ice cubes. Add mocha, Black Butte Porter, top with whipped cream, and serve with a straw. Cheers!\n\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

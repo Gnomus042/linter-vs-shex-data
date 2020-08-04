@@ -1,0 +1,81 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "One Sweet Mess"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT8H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Tender, juicy shredded beef with the rich, bold flavor of stout beer.\n"
+    },
+    "image": {
+        "@id": "https://www.onesweetmess.com/wp-content/uploads/2016/03/Slow-Cooker-Guinness-Shredded-Beef-3-200x200.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon kosher salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (2 and 1/2 pound) chuck roast"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon smoked paprika"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup stout beer"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon garlic powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 teaspoons onion powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon black pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons worcestershire sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 large onion, cut in half and sliced\u00a0"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Slow Cooker Guinness Shredded Beef"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT10M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "In a small bowl, mix together garlic powder, onion powder, paprika, salt and pepper. Sprinkle the spice mixture evenly over all sides of the roast.\u00a0\nAdd the beer, worcestershire sauce, and sliced onions in the bottom of a slow cooker. Place the roast on top of the onions. Cook on low for 8 hours.\u00a0\nGently remove the roast from the slow cooker and onto a cutting board. Using two forks, shred the beef. Place the shredded beef on a platter and spoon over the beer and onion mixture.\u00a0\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6 servings"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "PT8H10M"
+    },
+    "url": {
+        "@language": "en-US",
+        "@value": "https://www.onesweetmess.com/2016/03/08/slow-cooker-guinness-shredded-beef"
+    },
+    "@id": "http://example.org/recipe"
+}

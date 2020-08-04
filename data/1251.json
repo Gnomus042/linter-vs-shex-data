@@ -1,0 +1,27 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "it",
+        "@value": "15min"
+    },
+    "image": {
+        "@id": "http://www.ideapesce.it/wp-content/uploads/2015/01/gnocchi-radicchio-e-gamberetti-300x200.jpg"
+    },
+    "name": {
+        "@language": "it",
+        "@value": "Gnocchetti con radicchio e gamberetti"
+    },
+    "prepTime": {
+        "@language": "it",
+        "@value": "5min"
+    },
+    "recipeInstructions": {
+        "@language": "it",
+        "@value": "\n        \t\t\t\tMettete a bollire una pentola di acqua salata, intanto preparate il sugo. Fate imbiondire mezza cipolla tritata in una padella con due cucchiai di olio extra vergine di oliva, quindi aggiungetevi il radicchio lavato e tagliato a listarelle. Aggiungete anche un bicchiere di acqua e lasciate che il radicchio appassisca. Salate, pepate e ultimate la cottura del radicchio.\nIn un altro tegame fate sciogliere una noce di burro e fateci saltare per qualche minuto i gamberetti.\nMettete a cuocere gli gnocchi e aggiungete i gamberetti nella padella in cui avrete fatto cuocere il radicchio. Fate amalgamare a fuoco basso finch\u00e9 non saranno cotti gli gnocchi, in modo che i sapori possano amalgamarsi. Quando gli gnocchi saranno venuti a galla, scolateli e versateli in padella insieme al sugo. Fate saltare per qualche istante sul fuoco, aggiungendo un po\u2019 di acqua di cottura se necessario, quindi servite in tavola.\n\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "it",
+        "@value": "4 persone"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,98 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "pl",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "pl",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "pl",
+            "@value": "3"
+        }
+    },
+    "author": {
+        "@language": "pl",
+        "@value": "Dada"
+    },
+    "datePublished": {
+        "@language": "pl",
+        "@value": "2017-06-16"
+    },
+    "description": {
+        "@language": "pl",
+        "@value": "Smaczny ziemniaczany dodatek z ulubionym groszkiem. Podajemy do wszystkiego, z czym nam ziemniaczane puree smakuje."
+    },
+    "image": {
+        "@id": "https://www.swiatwemnie.pl/_site_media/com_strava/mod_recepty/recipe/00001688/img_pl/ziemniaczane-puree-z-groszkiem_thumb.jpg"
+    },
+    "keywords": {
+        "@language": "pl",
+        "@value": "przepis,fotoprzepis,ziemniaki,groszek,Dodatki ziemniaczane,,Bezglutenowe"
+    },
+    "name": {
+        "@language": "pl",
+        "@value": "Ziemniaczane puree z groszkiem"
+    },
+    "recipeCategory": {
+        "@language": "pl",
+        "@value": "Dodatki ziemniaczane"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "pl",
+            "@value": "groszek"
+        },
+        {
+            "@language": "pl",
+            "@value": "s\u00f3l"
+        },
+        {
+            "@language": "pl",
+            "@value": "mas\u0142o"
+        },
+        {
+            "@language": "pl",
+            "@value": "ziemniaki"
+        },
+        {
+            "@language": "pl",
+            "@value": "woda"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "pl",
+            "@value": "Ziemniaki obieramy, myjemy, zalewamy wod\u0105 oko\u0142o centymetr nad ziemniakami, solimy i gotujemy do mi\u0119kko\u015bci."
+        },
+        {
+            "@language": "pl",
+            "@value": "Groszek delikatnie dodajemy do puree i od razu podajemy."
+        },
+        {
+            "@language": "pl",
+            "@value": "Groszek z wod\u0105 doprowadzamy do wrzenia i 1-2 minutki dusimy pod pokrywk\u0105."
+        },
+        {
+            "@language": "pl",
+            "@value": "Dodajemy mas\u0142o i mieszamy."
+        },
+        {
+            "@language": "pl",
+            "@value": "Wod\u0119 z ugotowanych ziemniak\u00f3w odcedzamy do garnuszka. Ziemniaki ubijamy i stopniowo dolewamy do nich odcedzon\u0105 z nich wcze\u015bniej wod\u0119. Mieszamy na puree."
+        }
+    ],
+    "recipeYield": {
+        "@language": "pl",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "pl",
+        "@value": "25 min."
+    },
+    "@id": "http://example.org/recipe"
+}

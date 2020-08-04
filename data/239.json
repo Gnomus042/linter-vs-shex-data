@@ -1,0 +1,101 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Melissa King"
+        }
+    },
+    "cookTime": {
+        "@value": "2019-11-23T00:25:00+00:00"
+    },
+    "description": {
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://mywholefoodlife.com/wp-content/uploads/2013/08/wheat-thins-watermark.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "  1/4   cup  coconut oil  (measure after melting) "
+        },
+        {
+            "@value": "  1/2   tsp baking soda "
+        },
+        {
+            "@value": "  1/4-1/3   cup  raw honey  (depending on how sweet you want them) "
+        },
+        {
+            "@value": "  1/4   cup applesauce (unsweetened) "
+        },
+        {
+            "@value": "  2 1/2   cups  white whole wheat flour  (!For a gluten free version, sub GF all purpose or GF oat flour and add an extra egg) "
+        },
+        {
+            "@value": "    Optional add ins: basil, parsley, oregano, rosemary, thyme "
+        },
+        {
+            "@value": "  1   tsp salt "
+        },
+        {
+            "@value": "  1   flax egg "
+        },
+        {
+            "@value": "  1/4   cup almond milk "
+        }
+    ],
+    "name": {
+        "@value": "Homemade Wheat Thins"
+    },
+    "prepTime": {
+        "@value": "2019-11-23T00:30:00+00:00"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Once the edges look browned, pull the pans out and carefully flip the pieces over.\u00a0"
+        },
+        {
+            "@value": "Tear two pieces of  parchment  to line your baking bans.\u00a0 You can also use a  silpat .\u00a0"
+        },
+        {
+            "@value": "Gather the dough into a ball and wrap it with plastic.\u00a0"
+        },
+        {
+            "@value": "Add wet to dry and mix until combined.\u00a0"
+        },
+        {
+            "@value": "Roll the dough out very thin.\u00a0 Try to roll it out in an even square if possible.\u00a0"
+        },
+        {
+            "@value": "Repeat these steps with the other half of the dough.\u00a0"
+        },
+        {
+            "@value": "Preheat oven to 350.\u00a0"
+        },
+        {
+            "@value": "Once the dough is rolled out, score it with a  pizza cutter .\u00a0 I cut mine into bite sized squares.\u00a0 This will make the pieces come apart very easy.\u00a0"
+        },
+        {
+            "@value": "Bake for another 5-7 minutes, or until the pieces are crunchy."
+        },
+        {
+            "@value": "Mix wet in another.\u00a0"
+        },
+        {
+            "@value": "Once done, bake in the oven for about 15 minutes.\u00a0 Watch them carefully though, because everyone\u00e2\u0080\u0099s oven is a bit different and they can easily burn.\u00a0"
+        },
+        {
+            "@value": "Mix all the dry ingredients in one  bowl .\u00a0"
+        },
+        {
+            "@value": "Stick it in the fridge for about 10-15 minutes so it gets a bit more firm.\u00a0"
+        },
+        {
+            "@value": "Once it\u00e2\u0080\u0099s firm, cut the dough in half with a  bench scraper ."
+        },
+        {
+            "@value": "Roll out half the dough by placing the ball on top of one sheet of  parchment  paper, and the plastic wrap between the dough and the  rolling pin .\u00a0 This will let you roll the dough out very thin without it sticking the  rolling pin , or the counter.\u00a0 It also makes for easy transfer to the baking sheet.\u00a0"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

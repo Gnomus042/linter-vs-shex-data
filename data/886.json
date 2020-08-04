@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@value": "0.0"
+    },
+    "cookTime": {
+        "@value": "PT30M"
+    },
+    "description": {
+        "@value": "Today we would like to make a salad \"Yummy Italian\". Simple, delicious and hearty salad with chicken recommend You strongly to taste. I hope that you will appreciate this recipe, and salad \"Yummy Italian\" will decorate your festive table. Nice presentation, very attractive appearance, exquisite taste \u2013 the main advantage of this dish."
+    },
+    "image": {
+        "@id": "https://en.edunclub.ru/recipe/141773-salad-yummy///edunclub.ru/upload/719f6f86c1b778075f5f04237b61c625.jpg"
+    },
+    "ingredients": {
+        "@value": "\n                \n                                    \n                                        Chicken breast\n                                                    \n                                    \n                                        Crab sticks\n                                                    \n                                    \n                                        Tomato\n                                                    \n                                    \n                                        Pepper\n                                                    \n                                    \n                                        Cheese\n                                                    \n                                    \n                                        Chicken egg\n                                                    \n                                    \n                                        Mayonnaise\n                                                    \n                                \n            "
+    },
+    "keywords": {
+        "@value": "Null"
+    },
+    "name": {
+        "@value": "Salad \"Yummy\""
+    },
+    "recipeCategory": [
+        {
+            "@id": "https://en.edunclub.ru/catalog/16-salads-poultry/"
+        },
+        {
+            "@id": "https://en.edunclub.ru/catalog/106-salads-chicken/"
+        },
+        {
+            "@id": "https://en.edunclub.ru/catalog/12-salads/"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@value": "\n                                        Chicken breast\n                                                    "
+        },
+        {
+            "@value": "\n                                        Crab sticks\n                                                    "
+        },
+        {
+            "@value": "\n                                        Pepper\n                                                    "
+        },
+        {
+            "@value": "\n                                        Cheese\n                                                    "
+        },
+        {
+            "@value": "\n                                        Tomato\n                                                    "
+        },
+        {
+            "@value": "\n                                        Mayonnaise\n                                                    "
+        },
+        {
+            "@value": "\n                                        Chicken egg\n                                                    "
+        }
+    ],
+    "recipeYield": {
+        "@value": "3"
+    },
+    "resultPhoto": {
+        "@id": "https://en.edunclub.ru/recipe/141773-salad-yummy///edunclub.ru/upload/719f6f86c1b778075f5f04237b61c625.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

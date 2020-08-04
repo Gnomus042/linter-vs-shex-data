@@ -1,0 +1,39 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "de",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "de",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "de",
+            "@value": "1"
+        },
+        "worstRating": {
+            "@language": "de",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@language": "de",
+        "@value": "GU"
+    },
+    "image": {
+        "@language": "de",
+        "@value": "https://www.kuechengoetter.de/uploads/media/630x630/07/15597-fleischfondue-mit-tomatenbruehe.jpg?v=2-22"
+    },
+    "name": {
+        "@language": "de",
+        "@value": "Fleischfondue mit Tomatenbr\u00fche"
+    },
+    "prepTime": {
+        "@language": "de",
+        "@value": "PT40M"
+    },
+    "@id": "http://example.org/recipe"
+}

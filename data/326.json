@@ -1,0 +1,124 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "USA Pears"
+    },
+    "cookTime": [
+        {
+            "@language": "en-US",
+            "@value": "5"
+        },
+        {
+            "@language": "en-US",
+            "@value": "PT00H05M"
+        }
+    ],
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "October 21, 2014"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n                                                Try these grilled pears as a substitute for potatoes the next time you are grilling chicken or pork tenderloins. They can also be served for dessert with a scoop of your favorite ice cream.                                            "
+    },
+    "image": {
+        "@id": "https://usapears.org/recipe/wp-content/uploads/2014/10/grilled-pears-with-currants.jpg"
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Grilled Pears with Currants"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "Calories: 210"
+        },
+        "carbohydrateContent": {
+            "@language": "en-US",
+            "@value": "Carbohydrate: 33g"
+        },
+        "fat": {
+            "@language": "en-US",
+            "@value": "Fat: 10g"
+        },
+        "fiberContent": {
+            "@language": "en-US",
+            "@value": "Dietary Fiber: 7g"
+        },
+        "proteinContent": {
+            "@language": "en-US",
+            "@value": "Protein: 1g"
+        },
+        "servingSize": {
+            "@language": "en-US",
+            "@value": "Serving Size: 1 Pear (185g)"
+        }
+    },
+    "prepTime": [
+        {
+            "@language": "en-US",
+            "@value": "15"
+        },
+        {
+            "@language": "en-US",
+            "@value": "PT00H15M"
+        }
+    ],
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Side Dishes"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n                                                \n\u2153 cup dried currants\n\u00bc cup apple juice\nPinch of freshly ground pepper\n6 firm but ripe Anjou USA Pears\n4 tablespoons unsalted butter, melted\nVegetable oil for brushing on grill\n\n\n                                            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 tablespoons unsalted butter, melted"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 cup dried currants"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Vegetable oil for brushing on grill"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup apple juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6 firm but ripe Anjou USA Pears"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pinch of freshly ground pepper"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                                                Prepare a hot fire in a charcoal grill or preheat a gas or electric grill on high.\nIn a small bowl, combine the currants, apple juice, and pepper. Allow the currants to marinate until ready to serve.\nPeel the pears and cut them in half lengthwise. Use a paring knife or melon baller to remove the core, leaving a gumball-sized-hole. Place in a shallow dish and brush all over with the melted butter.\nWhen ready to grill, brush the grill grate with vegetable oil. Place the pears, cut side up, in a single layer directly over the hot fire. Cook just until grill marks appear, about 3 minutes. Brush with any butter remaining in the dish, then turn and grill until tender but firm, about 3 to 4 minutes.\nServe warm with a little of the apple juice-soaked currants spooned over the top.\n\u00a0\n                                            "
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "PT00H20M"
+    },
+    "@id": "http://example.org/recipe"
+}

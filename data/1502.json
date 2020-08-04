@@ -1,0 +1,77 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@value": "5"
+        },
+        "worstRating": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Flavorite"
+        }
+    },
+    "description": {
+        "@value": "In little more than the time it takes to boil water you have got dinner on the table with this quick-to-fix Chili Garlic Shrimp with Sesame Noodles."
+    },
+    "image": {
+        "@id": "https://i1.wp.com/flavorite.net/wp-content/uploads/2015/02/chili_shrimp.jpg?fit=500%2C520&ssl=1"
+    },
+    "name": {
+        "@value": " Chili Garlic Shrimp with Sesame Noodles"
+    },
+    "recipeCategory": {
+        "@value": "Entree,Dinner"
+    },
+    "recipeIngredient": [
+        {
+            "@value": " 1/2 pound angel hair pasta, dry"
+        },
+        {
+            "@value": " 1/4 cup green onions, minced"
+        },
+        {
+            "@value": " 1 pound large raw shrimp (about 16 to 20 shrimp), peeled and deveined"
+        },
+        {
+            "@value": " 1 tablespoon sesame seeds, toasted"
+        },
+        {
+            "@value": " 1 tablespoon good quality soy sauce or tamari"
+        },
+        {
+            "@value": " 1 cup Chili Garlic Sauce"
+        },
+        {
+            "@value": " 3 tablespoons sesame oil, divided"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": " To serve, divide pasta evenly on 4 plates; top each evenly with chili garlic shrimp mixture."
+        },
+        {
+            "@value": " Cook angel hair pasta according to package directions."
+        },
+        {
+            "@value": " Heat 2 tablespoons sesame oil in large skillet or wok; add shrimp and stir fry over medium heat for 3 minutes or until shrimp are pink, stirring frequently. Add chili garlic sauce and heat for 1 minute or until bubbling."
+        },
+        {
+            "@value": " Drain shrimp and pat dry with a paper towel to remove excess moisture."
+        },
+        {
+            "@value": " While pasta is cooking, combine green onions, 1 tablespoon sesame oil, soy sauce and sesame seeds in a large bowl and stir to blend. Add hot drained pasta and toss to evenly coat. Keep warm."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,20 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "de",
+        "@value": "GU"
+    },
+    "image": {
+        "@language": "de",
+        "@value": "https://www.kuechengoetter.de/uploads/media/630x630/01/7171-gruenkernsuppe.jpg?v=1-0"
+    },
+    "name": {
+        "@language": "de",
+        "@value": "Gr\u00fcnkernsuppe"
+    },
+    "prepTime": {
+        "@language": "de",
+        "@value": "PT35M"
+    },
+    "@id": "http://example.org/recipe"
+}

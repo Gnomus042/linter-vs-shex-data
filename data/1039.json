@@ -1,0 +1,46 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-us",
+        "@value": "Null"
+    },
+    "ingredients": [
+        {
+            "@language": "en-us",
+            "@value": "\u00bd tsp. sugar"
+        },
+        {
+            "@language": "en-us",
+            "@value": "18 oz. Greek yogurt"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 Tbsp. House Foods Wasabi paste"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 pkg. ranch powder mix"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2-3 Tbs. Lemon juice"
+        }
+    ],
+    "name": {
+        "@language": "en-us",
+        "@value": "Wasabi Ranch Dip"
+    },
+    "recipeInstructions": {
+        "@language": "en-us",
+        "@value": "\n                \n    In a medium bowl whisk lemon juice and wasabi paste until well emulsified.\n    \n\n \n\n\n    Whisk in yogurt, sugar and ranch powder mix, combine well.\n\n    \n\n \n\n\n    Serve chilled with vegetables or pita chips. \n\n    \n\n \n            "
+    },
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "6"
+    },
+    "totalTime": {
+        "@language": "en-us",
+        "@value": "5 Min"
+    },
+    "@id": "http://example.org/recipe"
+}

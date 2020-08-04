@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "http://www.foodreporter.fr/user/index/id/32522"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2019-10-29"
+    },
+    "image": {
+        "@id": "http://www.foodreporter.fr/upload/original/3/2/k/d/h/1275180.jpg"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Tarte aux pommes \u00e0 la cr\u00e8me de marron"
+    },
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n                        Succulent\n                    "
+    },
+    "@id": "http://example.org/recipe"
+}

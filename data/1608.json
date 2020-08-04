@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "amomsimpression.com"
+    },
+    "description": {
+        "@value": "An Instant Pot Olive Garden Pasta Fagioli recipe that tastes like the traditional Italian pasta Fagioli recipe we all love but ready in minutes."
+    },
+    "image": {
+        "@id": "https://2.bp.blogspot.com/-qs3Ez6Ous10/XKhV3PTW4YI/AAAAAAAABlI/--cqp0BGd8gH7fzVQHU8tzrlxXK_0M2dACLcBGAs/s1600/Instant%2BPot%2BOlive%2BGarden%2BPasta%2BFagioli%2B1.jpg"
+    },
+    "name": {
+        "@value": " Instant Pot Olive Garden Pasta Fagioli"
+    },
+    "recipeYield": {
+        "@value": "6 Servings"
+    },
+    "@id": "http://example.org/recipe"
+}

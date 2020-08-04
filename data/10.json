@@ -1,0 +1,58 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "150ml/5fl oz double cream"
+        },
+        {
+            "@language": "en",
+            "@value": "salt and freshly ground black pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "55g/2oz butter"
+        },
+        {
+            "@language": "en",
+            "@value": "3 fresh basil leaves, torn"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tbsp white wine vinegar"
+        },
+        {
+            "@language": "en",
+            "@value": "handful fresh spinach"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd lobster, cooked, meat chopped, (shell retained)"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tbsp olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "1 lemon, zest and juice"
+        },
+        {
+            "@language": "en",
+            "@value": "handful watercress"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp English mustard"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Lobster 'Thermidor'"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "1. Preheat the oven to 180C/350F/Gas 4.\n\n2. In a pan, bring the cream and mustard to a simmer.\n\n3. Add the butter and lemon zest and juice and stir to combine.\n \n \n Technique: Zesting citrus fruit\n\n4. Add the lobster meat and stir to coat in the cream sauce. \n \n \n Technique: Removing the meat fro..."
+    },
+    "@id": "http://example.org/recipe"
+}

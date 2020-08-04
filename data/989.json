@@ -1,0 +1,95 @@
+{
+    "@type": "Recipe",
+    "TotalTime": {
+        "@value": "PT1H15M"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "2.45"
+        },
+        "reviewCount": {
+            "@value": "88"
+        }
+    },
+    "author": {
+        "@id": "https://plus.google.com/+Weblaranja"
+    },
+    "cookTime": {
+        "@value": "PT55M"
+    },
+    "description": {
+        "@value": "\n              Uma receita para aromar e temperar seu frango assado, recheando com um cebola caramelizada no azeite e a\u00e7\u00facar. N\u00e3o precisa desossar, pode ser feita tamb\u00e9m com peru ou chester !!!\n                \n                \u2022 Por Weblaranja \n                \n              "
+    },
+    "image": [
+        {
+            "@id": "https://weblaranja.com/receitas/aves/11032,013.php//receitas/img_receitas/fra_rech/t-fran_assa.jpg"
+        },
+        {
+            "@id": "https://weblaranja.com/receitas/aves/11032,013.php//receitas/img_receitas/fra_rech/t-fra-temp.jpg"
+        },
+        {
+            "@id": "https://weblaranja.com/receitas/aves/11032,013.php//receitas/img_receitas/frango_assa_cebola.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "@value": "\n                      \u2022 1/3 x\u00edcara -ch\u00e1 de suco de laranja + 1 colher -sopa de margarina derretida para ajudar a dourar (opcional)\n                    "
+        },
+        {
+            "@value": "\n                    \u2022 1 colher -ch\u00e1 de pimenta do reino\n                  "
+        },
+        {
+            "@value": "\n                    \u0095 1 frango grande limpo \n                    "
+        },
+        {
+            "@value": "\n                      \u2022 \u00e1gua para cozinhar\n                    "
+        },
+        {
+            "@value": "\n                    \u2022 2 dentes de alho m\u00e9dios, amassados\n                  "
+        },
+        {
+            "@value": "\n                    \u2022 1/3 x\u00edcara -ch\u00e1 de vinho branco suave\n                    \n                  "
+        },
+        {
+            "@value": "\n                      \u2022 2 colheres -sopa rasa de azeite\n                    "
+        },
+        {
+            "@value": "\n                    \u2022 1 colher -sopa rasa de  sal\n                  "
+        },
+        {
+            "@value": "\n                    \u2022 1 pimenta de cheiro pequena amassada\n                  "
+        },
+        {
+            "@value": "\n                      \u2022 1 colher -sopa rasa de a\u00e7\u00facar \n                    "
+        },
+        {
+            "@value": "\n                    \u2022 1 colher -ch\u00e1 de cominho\n                  "
+        },
+        {
+            "@value": "\n                    \u2022 2 colheres -sopa de folhas de coentro picadinhas\n                  "
+        },
+        {
+            "@value": "\n                      \u2022 Papel alum\u00ednio (o lado brilhante em contato com alum\u00ednio)\n                    "
+        },
+        {
+            "@value": "\n                      Para a cebola:\n\u0095 500g de cebola pequena inteira (tipo conserva), descascada\n                    "
+        },
+        {
+            "@value": "\n                    \u2022 3 colheres -sopa de margarina ou manteiga\n                  "
+        }
+    ],
+    "name": {
+        "@value": "Frango assado recheado com Cebola Caramelizada"
+    },
+    "prepTime": {
+        "@value": "PT20M"
+    },
+    "recipeInstructions": {
+        "@value": "\n              \n                \n                  Na v\u00e9spera do preparo. Depois de limpo, seque a pele do frango por fora. Com uma faca de l\u00e2mina fina ou com um garfo trinchante, fa\u00e7a furos ao redor do frango. Peito, coxas, asas, por dentro, etc. Para que possa entrar o tempero.\n                \n                \n                  Tempere o frango. Misture a pimenta do reino, o alho amassado, o sal, o cominho. Passe por dentro e por fora do frango, esfregando o tempero. Reserve.\n                \n                                  \n                  Misture a margarina mais o coentro. Passe pequenas quantidades em cima do peito, entre as coxas e as asas. Coloque o frango  na assadeira ou travessa untada com margarina. \n                \n                \n                  Com cuidado, despeje o vinho por todo o frango, inclusive por dentro. Cubra com papel alum\u00ednio e deixa na geladeira at\u00e9 o outro dia.\n                \n                \n                  Prepare a cebola: Em uma panela grande, coloque a cebola, coloque \u00e1gua o suficiente para cobrir a cebola. Depois de ferver, cozinhe de 5 a  10 minutos, para que fique macia, mas n\u00e3o desmanchando. Retire e escorra bem a \u00e1gua.\n                  \n                \n                \n                  Em uma frigideira, com o fogo m\u00e9dio, coloque o azeite e o a\u00e7\u00facar. Devagar, mexa com uma colher para o a\u00e7\u00facar derreter e misturar com o azeite. Coloque as cebolas aos poucos. N\u00e3o use a colher, mexa a frigideira com movimento circular, Com Cuidado, para a cebola se caramelizar. Se necess\u00e1rio, adicione + 2 colheres de azeite e 1 de a\u00e7\u00facar. Retire e reserve.\n                \n                \n                  Preaque\u00e7a o forno em temperatura m\u00e9dia-alta (220\u00baC), recheio o frango com a cebola. Cubra com o papel alum\u00ednio e coloque para assar. \n                \n                \n                  Cozinhe por 30 a 40 minutos. O cozimento varia de forno para forno, verifique o cozimento enfiando um garfo na carne. Caso saia l\u00edquido, deixe mais um pouco.\n                \n                \n                  Retire o papel alum\u00ednio, se desejar, despeje o suco de laranja. Volte ao forno e deixe dourar, cerca de 15 minutos. Sirva de Imediato, acompanhado com uma farofa feita dos mi\u00fados.\n                  \n                \n              \n            "
+    },
+    "recipeYield": {
+        "@value": "8 Por\u00e7\u00f5es"
+    },
+    "@id": "http://example.org/recipe"
+}

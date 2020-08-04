@@ -1,0 +1,103 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Iska"
+    },
+    "image": {
+        "@id": "http://www.iskandals.com/eats/wp-content/uploads/2010/04/iskandals-ginataanggulay1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd cup bite-size pieces of pumpkin"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 tbsp minced garlic"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Green chili"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Patis (fish sauce)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "A slice of ginger, crushed then juliened"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Small bunch of coriander, tied together (optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Freshly ground pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "A can of coconut milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "A handful or more of okra, trimmed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd kilo pork belly, cut into strips"
+        },
+        {
+            "@language": "en-US",
+            "@value": "A small bowl of long beans, cut 2\u00bd long"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Ginataang Gulay (Vegetables Cooked in Coconut Milk)"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Main"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Add patis and saute for a minute."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add pumpkin slices and saute for another minute."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Throw in long beans and okra and cover with lid. Simmer until vegetables are al dente and sauce is thick."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Heat oil in a pan. Fry garlic and ginger until browned and aromatic."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add chili and coriander, mix thoroughly and cover with a lid. Turn off heat and let stand for a minute. Serve hot garnished with coriander. Great with plain, steamed rice."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Throw in the pork pieces and fry until browned."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Season with pepper and more patis if desired."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour in coconut milk and half a cup of water. Bring to boil. Cover with a lid and simmer until pumpkin is almost done."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

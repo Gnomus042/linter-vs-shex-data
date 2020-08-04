@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://ei.isnooth.com/multimedia/d/5/4/image_24048.jpeg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "Rock salt or crushed ice (see Notes)"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd tablespoon sugar dissolved in 1/2 tbsp. hot water"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd teaspoon freshly ground black pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd teaspoon chopped flat-leaf parsley"
+        },
+        {
+            "@language": "en",
+            "@value": "3 tablespoons Champagne vinegar"
+        },
+        {
+            "@language": "en",
+            "@value": "3 dozen chilled small to medium oysters on the half-shell"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup fresh grapefruit juice (from 1 or 2 large grapefruit, preferably pink)"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd tablespoon vodka"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd teaspoon finely chopped tarragon"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Oysters on the Half-Shell with Grapefruit Granita"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "1. Combine all ingredients except rock salt and oysters, pour into a loaf pan (to a depth of about 1 in.), and freeze 1 hour. Rake and crush mixture with the tines of a fork and freeze for another hour. Rake and crush mixture again and freeze 1 hour more.2. Spread rock salt on a platter. Rake and..."
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,142 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-us",
+            "@value": "4.50"
+        },
+        "reviewCount": {
+            "@language": "en-us",
+            "@value": "3"
+        }
+    },
+    "author": {
+        "@language": "en-us",
+        "@value": "enovovesky"
+    },
+    "description": {
+        "@language": "en-us",
+        "@value": "\n\"Deviled eggs with a horseradish kick.\"        "
+    },
+    "image": {
+        "@id": "https://images.media-allrecipes.com/userphotos/560x315/5249651.jpg"
+    },
+    "mainEntityOfPage": {
+        "@language": "en-us",
+        "@value": "True"
+    },
+    "name": {
+        "@language": "en-us",
+        "@value": "Deviled Eggs with Horseradish"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-us",
+            "@value": "139 calories;"
+        },
+        "carbohydrateContent": {
+            "@language": "en-us",
+            "@value": "1"
+        },
+        "cholesterolContent": {
+            "@language": "en-us",
+            "@value": "189 "
+        },
+        "fatContent": {
+            "@language": "en-us",
+            "@value": "12.3 "
+        },
+        "proteinContent": {
+            "@language": "en-us",
+            "@value": "6.4 "
+        },
+        "sodiumContent": {
+            "@language": "en-us",
+            "@value": "178 "
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "en-us",
+            "@value": "Deviled Eggs"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Spicy Deviled Eggs"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Appetizers and Snacks"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en-us",
+            "@value": "1/8 teaspoon paprika"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/4 teaspoon salt"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 teaspoons chopped fresh dill"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 teaspoon dry mustard"
+        },
+        {
+            "@language": "en-us",
+            "@value": "12 eggs"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/8 teaspoon pepper"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 cup mayonnaise"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 tablespoons prepared horseradish"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-us",
+        "@value": "\n                        \n                            Place eggs in a saucepan and cover with water. Bring to a boil; remove from heat and let eggs stand in hot water for 15 minutes. Remove eggs and cool under cold running water; peel eggs. Slice each egg in half lengthwise. Remove yolks and transfer to a medium bowl. Place egg whites on a serving platter.\n                            \n                        \n                        \n                            Mash yolks with a fork. Stir in mayonnaise, horseradish, dill, dry mustard, salt, pepper, and paprika. Spoon equal amounts into egg whites.\n                            \n                        \n            "
+    },
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "12"
+    },
+    "review": [
+        {
+            "@id": "_:N55ac2bdc016a4b598c457779aa5f10b2"
+        },
+        {
+            "@id": "_:Na5f7b0f060b941b1ba7b06c33da6279b"
+        },
+        {
+            "@id": "_:N43ccd16ba18b4afaa97d5a666e77875f"
+        }
+    ],
+    "url": {
+        "title": {
+            "@language": "en-us",
+            "@value": "Deviled Eggs with Horseradish Recipe - Allrecipes.com"
+        },
+        "item": [
+            {
+                "@id": "_:N8d2f663f830142f8a65d5f331aea73b4"
+            },
+            {
+                "@id": "_:Na6e0b31661d14c7eba6d12bc186b99d9"
+            }
+        ]
+    },
+    "@id": "http://example.org/recipe"
+}

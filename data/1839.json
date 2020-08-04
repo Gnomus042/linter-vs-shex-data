@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "pl",
+        "@value": "Null"
+    },
+    "brand": {
+        "@language": "pl",
+        "@value": "rwito.website"
+    },
+    "image": {
+        "@language": "pl",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1oEsmbSzqK1RjSZFpq6ykSXXad/BORUiT-20W-LED-Solar-zewn\u0119trzny-reflektor-szerokostrumieniowy-z-czujnikiem-ruchu-\u015bcie\u017cka-ogrodowa-\u015bwiat\u0142o-wodoodporne-s\u0142oneczne-\u015bwiat\u0142a.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "pl",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "pl",
+            "@value": "32769312391"
+        }
+    ],
+    "name": {
+        "@language": "pl",
+        "@value": "BORUiT 20W LED Solar zewn\u0119trzny reflektor szerokostrumieniowy z czujnikiem ruchu \u015bcie\u017cka ogrodowa \u015bwiat\u0142o wodoodporne s\u0142oneczne \u015bwiat\u0142a uliczne oszcz\u0119dzanie energii"
+    },
+    "@id": "http://example.org/recipe"
+}

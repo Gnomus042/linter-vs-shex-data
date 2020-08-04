@@ -1,0 +1,73 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT10M"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Use a good artisan bread for this recipe to achieve the best results. One that is dense and buttery is preferred. Use day-old thick slices and be sure to let all the egg and milk mixture absorb into the bread. You may have just a little of the mixture left over in the dish, depending on the size and thickness of your bread. Also, if desired, to be sure the egg mixture is thoroughly set (especially in the middle), after browning the French Toast in the pan, bake in the over at 350 degrees for about 5 minutes. Then remove from the oven, cool, and freeze.\n"
+    },
+    "image": {
+        "@id": "https://www.pratesiliving.com/wp-content/uploads/2017/04/The-Best-French-Toast-775x325.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 to 6 tablespoons of unsalted butter, as needed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pinch grated fresh nutmeg, to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6 extra-large eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 slices thickly cut white or European-style artisan bread (day-old bread works best)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pinch Kosher salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/2 cups milk"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "The Best French Toast"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT20M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "In a medium mixing bowl, add eggs and beat well. Whisk in milk, vanilla, cinnamon, nutmeg, and salt. Combine well.\nLay slices of bread in a 13\u00d79-inch glass pan. Pour egg and milk mixture over slices, covering them well. Let them sit for 8 minutes, basting bread, especially edges, with a spoon, if necessary, to coat.\nCarefully turn the slices over and make sure the egg and milk mixture is absorbing well, basting again with a spoon, as needed. Let sit for 10 minutes. Most of the egg and milk mixture should be absorbed at this point. Transfer slices to a plate.\nIn a 10-inch skillet, melt 1 tablespoon of butter over low to medium heat. Once butter is sizzling, add two French Toast slices, increasing heat slightly and adjusting as necessary.\nBrown the first side and then flip over and brown the other side, checking to make sure the egg mixture is set in the center (it should be puffy and not runny), adding more butter as necessary so the toast doesn\u2019t stick. The butter will brown slightly as the French Toast cooks. Repeat with the second two slices. Place cooked slices on a parchment lined sheet pan.\nNote \u2013 As mentioned above, if desired, bake French Toast in a 350 degree oven for about 5 minutes to ensure the egg mixture is cooked through, especially if the slices are very thick and you\u2019re not sure if it\u2019s cooked all the way through.\nCool French Toast and place sheet pan in freezer. Once slices are frozen, remove the slices and place in a gallon freezer bag with parchment paper between the slices.\nWhen ready to serve, place French Toast slices in the toaster with the \u201cFrozen\u201d button pushed and set the dial on 4 or 5. Check after the first cycle is complete and reheat longer if necessary,\u00a0until the French Toast is slightly toasted and warmed through. If using taller artisan bread, lay the French Toast sideways so that it will heat through and toast evenly.\nCut slices in half, dust lightly with powdered sugar, and serve with fresh berries and warm maple syrup.\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 slices French Toast"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "PT30M"
+    },
+    "url": {
+        "@language": "en-US",
+        "@value": "[acf2s_permalink]"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,80 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "nl",
+        "@value": "Simone's Kitchen"
+    },
+    "cookingMethod": {
+        "@language": "nl",
+        "@value": "Oven"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Deze zoete aardappelburgers hebben misschien niet de looks, maar zeker wel de smaak. Doordat de burgers in de oven worden bereid, zien \u00e9n zijn ze net wat droger dan een burger gebakken in een koekenpan. Maar dat doet zeker niets af aan de smaak. Serveer ze op een hamburgerbroodje, top af met een lekkere saus en smullen maar!\u00a0Voorbereidingstijd: 15 min | Oventijd: 2x 15 min\u00a0"
+    },
+    "image": {
+        "@language": "nl",
+        "@value": "Null"
+    },
+    "ingredients": [
+        {
+            "@id": "http://www.foody.nl/recepten/zoete-aardappelburgers-41826.html//ingredienten/noten-zaden/zonnebloempit.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zoete-aardappelburgers-41826.html//ingredienten/groente/zoete-aardappelen.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zoete-aardappelburgers-41826.html//ingredienten/groente/paprika.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zoete-aardappelburgers-41826.html//ingredienten/groente/bonen.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zoete-aardappelburgers-41826.html//ingredienten/ei/ei.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zoete-aardappelburgers-41826.html//ingredienten/smaakmaker/zout.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zoete-aardappelburgers-41826.html//ingredienten/graanproducten-en-meelsoorten/havermout.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zoete-aardappelburgers-41826.html//ingredienten/kruiden-en-specerijen/koriander.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zoete-aardappelburgers-41826.html//ingredienten/kruiden-en-specerijen/oregano.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zoete-aardappelburgers-41826.html//ingredienten/groente/bosui.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zoete-aardappelburgers-41826.html//ingredienten/brood/hamburgerbroodje.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zoete-aardappelburgers-41826.html//ingredienten/kruiden-en-specerijen/cayennepeper.html"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Zoete aardappelburgers"
+    },
+    "recipeCategory": [
+        {
+            "@language": "nl",
+            "@value": "Burger"
+        },
+        {
+            "@language": "nl",
+            "@value": "Groente"
+        },
+        {
+            "@language": "nl",
+            "@value": "Hoofdgerecht"
+        }
+    ],
+    "recipeYield": {
+        "@language": "nl",
+        "@value": "8 personen"
+    },
+    "@id": "http://example.org/recipe"
+}

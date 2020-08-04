@@ -1,0 +1,28 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Kravings.Blog"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "Cook Time:"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Harissa is a wonderful condiment made with Chilli, Garlic, Spices, lemon and Olive Oil. This is becoming very popular in restaurants and grocery stores. Jumbo Shrimp is smothered in this delicious sauce and cooked on a grill pan! Try it today!"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "HARISSA Shrimp - Smothered In A NORTH AFRICAN Chilli Sauce"
+    },
+    "recipeIngredient": {
+        "@language": "en",
+        "@value": "Please watch the video for ingredients!"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Please watch the video for directions!"
+    },
+    "@id": "http://example.org/recipe"
+}

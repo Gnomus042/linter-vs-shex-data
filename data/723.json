@@ -1,0 +1,34 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://www.fidelityhouse.eu/3409931-valeriarosa"
+    },
+    "description": {
+        "@language": "it",
+        "@value": "\n      Delle semplici fette di ananas avvolte da strisce di pasta sfoglia ed arricchite dalle ciliegie candite. Questo piccolo e semplice dessert \u00e8 molto colorato e bello da vedere e letteralmente golosissimo. Scopriamo insieme come preparare l'ananas in sfoglia e tanti consigli utili per un risultato perfetto    "
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "it",
+            "@value": "464"
+        },
+        "url": {
+            "@language": "it",
+            "@value": "https://images.fidhouse.com/fidelitynews/wp-content/uploads/sites/6/2019/04/1554105377_aa56dbe3307f95f036d6b6136f80115bea54e50c-1554033722.jpg"
+        },
+        "width": {
+            "@language": "it",
+            "@value": "696"
+        }
+    },
+    "name": {
+        "@language": "it",
+        "@value": "Ananas in sfoglia con ciliegia candita"
+    },
+    "recipeYield": {
+        "@language": "it",
+        "@value": "5 persone"
+    },
+    "@id": "http://example.org/recipe"
+}

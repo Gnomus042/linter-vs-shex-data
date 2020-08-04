@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://www.lericettedilara.it/wp-content/uploads/2015/02/salmone_aneto-150x150.jpg"
+    },
+    "name": {
+        "@language": "it-IT",
+        "@value": "Salmone al vapore in crema di aneto"
+    },
+    "recipeYield": {
+        "@language": "it-IT",
+        "@value": "2 persone"
+    },
+    "totalTime": {
+        "@language": "it-IT",
+        "@value": "PT20M"
+    },
+    "@id": "http://example.org/recipe"
+}

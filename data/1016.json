@@ -1,0 +1,28 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "pl",
+            "@value": "\u015arednia ocena: 3.80"
+        },
+        "reviewCount": {
+            "@language": "pl",
+            "@value": "30"
+        }
+    },
+    "image": {
+        "@id": "https://www.kuchniaplus.pl/wideo/zdjecia/sierpien2011/1CoffeeEclairs.jpg"
+    },
+    "name": {
+        "@language": "pl",
+        "@value": "Eklerki kawowe"
+    },
+    "recipeCategory": {
+        "@id": "https://www.kuchniaplus.pl/przepisy/eklerki-kawowe//przepisy/typ:ciasta-i-ciasteczka"
+    },
+    "recipeCuisine": {
+        "@id": "https://www.kuchniaplus.pl/przepisy/eklerki-kawowe//przepisy/region:kuchnia-francuska"
+    },
+    "@id": "http://example.org/recipe"
+}

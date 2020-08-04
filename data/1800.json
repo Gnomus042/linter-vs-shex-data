@@ -1,0 +1,68 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://mag.the4blades.com/author/abesolutions/"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2018-01-23"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Impress your family and friends with this caf\u00e9 quality bagel breakfast or brunch! The colours are lovely, with the red / orange, green and white colours poking through the bagel.\nRecipe Tester Feedback: \u201cThis was a very fresh and tasty mix of flavours \u2013 welcomed at our breakfast bar!\" - Monika \nNo: Egg / Nuts\nContains: Gluten / Dairy\n*Variations: Can be made without Gluten\nTotal Preparation Time 5 minutes\nServes 4\nCannot be frozen\n"
+    },
+    "image": {
+        "@id": "https://mag.the4blades.com/wp-content/uploads/2018/01/Smoked-Salmon-and-Caper-Bagels_2-150x150.jpg"
+    },
+    "ingredients": [
+        {
+            "@id": "https://mag.the4blades.com/ingredients/bagels/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/salt/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/lettuce/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/sour-cream/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/cream-cheese/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/fresh-dill/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/pepper/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/fresh-parsley/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/lemon-juice/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/smoked-salmon/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/capers/"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Smoked Salmon and Caper Bagels"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT5M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n            \nAdd the cubed cream cheese (250g), sour cream (100g) and lemon juice (30g) to the bowl. Mix on Speed 5 until smooth.\nAdd the chopped smoked salmon (150g), capers (1 Tbsp), fresh dill (2 Tbsp), fresh parsley (2 Tbsp), salt (1/4 tsp) and pepper (1/4 tsp) to the bowl. Pulse Closed Lid / Turbo / 2 x 1 second blasts.\nSpread over bagels (4) and top with lettuce.\nWrap and place into the lunchbox.\nEnjoy!\n\nMake your own!\n* Make your own bagels with the Bagels recipe from The Breakfast Issue.\n\n        "
+    },
+    "@id": "http://example.org/recipe"
+}

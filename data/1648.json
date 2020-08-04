@@ -1,0 +1,20 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "de",
+        "@value": "2018-10-02"
+    },
+    "image": [
+        {
+            "@id": "https://www.oetker.at/at-de/rezepte/r/butter-karamellchen//Recipe/Recipes/oetker.at/at-de/baking/image-thumb__10008__RecipeDetail/butter-karamellchen.jpg"
+        },
+        {
+            "@id": "https://www.oetker.at/at-de/rezepte/r/butter-karamellchen/data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+        }
+    ],
+    "recipeYield": {
+        "@language": "de",
+        "@value": "etwa 50 St\u00fcck"
+    },
+    "@id": "http://example.org/recipe"
+}

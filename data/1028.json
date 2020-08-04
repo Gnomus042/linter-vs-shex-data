@@ -1,0 +1,34 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "sv-se",
+            "@value": "3.5"
+        },
+        "reviewCount": {
+            "@language": "sv-se",
+            "@value": "34"
+        }
+    },
+    "cookTime": {
+        "@language": "sv-se",
+        "@value": "PT25M"
+    },
+    "description": {
+        "@language": "sv-se",
+        "@value": "En spansk klassiker som g\u00f6rs p\u00e5 sardiner, h\u00e4r p\u00e5 svenskt vis med str\u00f6mming."
+    },
+    "image": {
+        "@id": "https://www.coop.se/recept/boquerones-stromming-pa-spanskt-vis///res.cloudinary.com/coopsverige/image/upload/w_800,h_800/v1432636664/33187.jpg"
+    },
+    "name": {
+        "@language": "sv-se",
+        "@value": "Boquerones - str\u00f6mming p\u00e5 spanskt vis"
+    },
+    "recipeInstructions": {
+        "@language": "sv-se",
+        "@value": "\n        \n                    Dra av skinnet fr\u00e5n str\u00f6mmingarna.\nDet \u00e4r enklast att ta tag\nfr\u00e5n insidan l\u00e4ngst upp vid den\nbredaste \u00e4nden och dra rakt ner.\nG\u00f6r likadant med den andra fil\u00e9n.\n                    L\u00f6s upp saltet med vin\u00e4ger och\nvatten i en bunke. L\u00e4gg i str\u00f6mmingen\noch v\u00e4nd runt. L\u00e5t st\u00e5 i\nkylsk\u00e5p cirka 1 dygn.\n                    \n                Dag 2\n                \n                \n                    Sila bort lagen fr\u00e5n fisken.\nAnv\u00e4nd en potatisskalare och\nskala f\u00f6rsiktigt bort det gula p\u00e5\ncitronen. Varva fisk, citronskal,\nchili, vitl\u00f6k och persilja i en burk.\nH\u00e4ll p\u00e5 olivolja tills inneh\u00e5llet \u00e4r\nt\u00e4ckt.\n                    Droppa lite pressad citron\n\u00f6ver vid servering. Serveras med\nrostat br\u00f6d eller crostinis och\ng\u00e4rna ett glas cava eller annat\nmousserande vin. H\u00e5ller cirka\ntre veckor i kylsk\u00e5p.\n        \n    "
+    },
+    "@id": "http://example.org/recipe"
+}

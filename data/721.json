@@ -1,0 +1,37 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://plus.google.com/+ElrincondeafiEs/"
+    },
+    "cookTime": {
+        "@value": "PT30M"
+    },
+    "datePublished": {
+        "@value": "2012-01-02T14:54:18+01:00"
+    },
+    "description": {
+        "@value": " Esta receta es muy f\u00c3\u00a1cil de hacer y muy agradable al paladar. Leer receta \u00bb"
+    },
+    "image": {
+        "@id": "https://elrincondeafi.es/wp-content/uploads/2012/01/ternera-mostaza-antigua-8-150x150.jpg"
+    },
+    "name": {
+        "@value": " Ternera a la mostaza antigua"
+    },
+    "prepTime": {
+        "@value": "PT30M"
+    },
+    "recipeCategory": {
+        "@value": "Carnes De mundo Navidad Recetas f\u00c3\u00a1ciles Recetas para el trabajo San Valent\u00c3\u00adn"
+    },
+    "recipeCuisine": {
+        "@value": "Internacional"
+    },
+    "recipeYield": {
+        "@value": "1 caldero (4 Raciones)"
+    },
+    "totalTime": {
+        "@value": "PT60M"
+    },
+    "@id": "http://example.org/recipe"
+}

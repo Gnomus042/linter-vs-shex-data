@@ -1,0 +1,31 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "pl-pl",
+            "@value": "5"
+        },
+        "itemreviewed": {
+            "@language": "pl-pl",
+            "@value": "Kremowa zupa z awokado ze szczypiorkiem"
+        },
+        "ratingValue": {
+            "@language": "pl-pl",
+            "@value": "4.38"
+        }
+    },
+    "datePublished": {
+        "@language": "pl-pl",
+        "@value": "\n\n\n\t \n\tKremowa zupa z awokado ze szczypiorkiem\t\n\n\n\n\n\n\n\n\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\u00ab poprz.\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tnast. \u00bb\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t13766\n\t\t\tcom_content.article\n\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\u00a0\n\t\t\t\t\t\t1\n\t\t\t\t\t\t2\n\t\t\t\t\t\t3\n\t\t\t\t\t\t4\n\t\t\t\t\t\t5\n\t\t\t\t\t\n\t\t\t\t(Oddano 239 g\u0142os\u00f3w z \u015bredni\u0105 4.38 z 5)Kremowa zupa z awokado ze szczypiorkiem4.38 out of 5"
+    },
+    "name": {
+        "@language": "pl-pl",
+        "@value": "\n\tKremowa zupa z awokado ze szczypiorkiem\t"
+    },
+    "reviewCount": {
+        "@language": "pl-pl",
+        "@value": "239"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "it-IT",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "it-IT",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "it-IT",
+        "@value": "Branka"
+    },
+    "description": {
+        "@language": "it-IT",
+        "@value": "Per circa 20 biscotti"
+    },
+    "image": {
+        "@id": "https://i1.wp.com/www.fragoliva.it/wp-content/uploads/2016/05/cookies_bianchi-300x209.jpg?w=205"
+    },
+    "ingredients": [
+        {
+            "@language": "it-IT",
+            "@value": "100gr di cioccolato bianco"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "90gr di zucchero"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "250gr di farina"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 bustina di vanillina"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "un pizzico di sale"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "75gr di mirtilli rossi essiccati"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "125gr di burro"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\u00bd cucchiaino di lievito per i dolci"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 uovo"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "50gr di zucchero di canna"
+        }
+    ],
+    "name": {
+        "@language": "it-IT",
+        "@value": "Cookies con mirtilli rossi e cioccolato bianco"
+    },
+    "recipeCategory": {
+        "@language": "it-IT",
+        "@value": "Desserts"
+    },
+    "recipeCuisine": {
+        "@language": "it-IT",
+        "@value": "Americana"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "it-IT",
+            "@value": "Incorporate l\u2019uovo intero e poi unite la farina con il lievito e un pizzico di sale. Aggiungete alla fine i mirtilli ed il cioccolato bianco tagliato a pezzetti."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Cuocete in forno gi\u00e0 caldo per circa 12-14 minuti. Sfornateli e fateli raffreddare su una gratella prima di riporli in una scatola."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Mescolate fino ad ottenere un composto omogeneo. Coprite con la pellicola e fate riposare per 1 ora in frigorifero."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Nel burro leggermente ammorbidito unite i due tipi di zucchero e mescolate fino ad ottenere un composto cremoso."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Fate delle palline di composto grandi come noci, rotolandole fra le mani. Schiacciatele leggermente e poi mettetele sulla teglia, sufficientemente distanziate fra loro, perch\u00e9 poi i biscotti tendono ad allargarsi."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Scaldate il forno a 180\u00b0 e ricoprite una teglia con carta forno."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

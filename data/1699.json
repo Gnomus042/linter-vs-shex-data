@@ -1,0 +1,93 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "By Betty Binon"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "15 min "
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2019-09-07 01:40:58"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "croutons (optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 cup plain Greek yogurt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 tablespoons cr\u00e8me fra\u00eeche or sour cream"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 sprigs of fresh dill"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Salt and pepper to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 cloves of garlic"
+        },
+        {
+            "@language": "en-US",
+            "@value": "crushed toasted walnuts to garnish (optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 cups vegetable stock"
+        },
+        {
+            "@language": "en-US",
+            "@value": "750 g or about 4 medium sized potatoes peeled and washed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon of olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "150 g or 3 medium fresh parsnips peeled and washed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon powdered curry"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Curried Potato and Parsnip Soup"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "5 min "
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tRoughly chop the peeled washed potatoes, parsnips and garlic in your Paderno Variable Speed Immersion Blender into large chunks.\t\t\t\tOver medium heat in an iron pot or dutch oven, add the olive oil heat the potatoes, parsnips and garlic for approximately 3 minutes.\t\t\t\tAdd the vegetable stock and curry and mix, partially cover with lid and continue to heat on medium for 15 minutes or until the vegetables are very soft.\t\t\t\tAdd the Greek yogurt and blend with your Paderno Variable Speed Immersion Blender, on the lowest setting, for about 3 minutes or until the soup becomes creamy.\t\t\t\tServe with Paderno ladle.\t\t\t\tTop with croutons, cr\u00e8me fra\u00eeche or sour cream.\t\t\t\tSprinkle crushed walnuts. (optional)\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Roadking"
+        }
+    },
+    "cookTime": {
+        "@value": "PT90M"
+    },
+    "dateModified": {
+        "@value": "2015-12-22"
+    },
+    "datePublished": {
+        "@value": "2015-12-22"
+    },
+    "description": {
+        "@value": "Easy and decadent desert"
+    },
+    "headline": {
+        "@value": "Easy and decadent desert"
+    },
+    "mainEntityOfPage": {
+        "@value": "https://www.exploroz.com/recipes/141+easy-chocolate-pudding"
+    },
+    "name": {
+        "@value": "Easy Chocolate Pudding"
+    },
+    "prepTime": {
+        "@value": "PT10M"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:Nc238d29900184cf8b14c2cccd19e20b4"
+        },
+        "name": {
+            "@value": "ExplorOz"
+        }
+    },
+    "recipeCategory": {
+        "@value": "Cakes & Desserts, Camp Oven, One-Pot Dish"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 Pkt Greens chocolate cake mix"
+        },
+        {
+            "@value": "1 Block Caramello Chocolate"
+        },
+        {
+            "@value": "Large Oven Bag"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Bring a large pot of water to the boil and place bag in pot and use lid to hold it down as it will float slightly"
+        },
+        {
+            "@value": "Serve with either cream or ice cream Yum!"
+        },
+        {
+            "@value": "Mix chocolate cake as per directions"
+        },
+        {
+            "@value": "Remove air from bag and tie off with twisty"
+        },
+        {
+            "@value": "Break up caramello into squares and mix through cake mix"
+        },
+        {
+            "@value": "The caramello will melt slightly letting the sauce ooze through the pudding and leave small chunks of chocolate as well."
+        },
+        {
+            "@value": "Add mix to oven bag, this is easier if you use a desert bowl as a mould for the bottom of the bag."
+        },
+        {
+            "@value": "Slow boil for around one and a half hours cake will set like a pudding"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

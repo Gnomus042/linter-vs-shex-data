@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@value": "20 min"
+    },
+    "datePublished": {
+        "@value": "2014-12-18 12:58:33"
+    },
+    "image": {
+        "@id": "https://recetasdecocinafaciles.net/wp-content/uploads/2014/12/Vainitas-guisadas.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "2/3 Tara, tomate r\u00e2p\u00e9, sans peau ni graines"
+        },
+        {
+            "@value": "1/2 cuill\u00e8re \u00e0 caf\u00e9 de sel"
+        },
+        {
+            "@value": "2 1/2 cuill\u00e8res \u00e0 caf\u00e9 de sel"
+        },
+        {
+            "@value": "2 \u00c0 3 cuill\u00e8res \u00e0 soupe de Parmesan r\u00e2p\u00e9."
+        },
+        {
+            "@value": "1/3 Coupe oignon, r\u00e2p\u00e9"
+        },
+        {
+            "@value": "1/4 c. \u00e0 th\u00e9 poivre"
+        },
+        {
+            "@value": "1 gousse d\u2019ail, coup\u00e9e en deux"
+        },
+        {
+            "@value": "1 Tasse de bouillon de boeuf"
+        },
+        {
+            "@value": "1/4 huile de coupe"
+        },
+        {
+            "@value": "1/2 kilo de tendres haricots verts, couper en 2 ou 3 pi\u00e8ces, certains 5 tasses"
+        },
+        {
+            "@value": "4 tasses d\u2019eau"
+        }
+    ],
+    "name": {
+        "@value": "Rago\u00fbt de haricots verts"
+    },
+    "prepTime": {
+        "@value": "20 min"
+    },
+    "recipeInstructions": {
+        "@value": "Sondes et les brins sont retir\u00e9s les, Oui: ont, pour les haricots verts et les couper en 2 ou 3 pi\u00e8ces. Lavez bien.Dans une casserole sur le feu avec de l\u2019eau et du sel le d\u00e9couvert jusqu'\u00e0 ce que tendres haricots soient cuits mais encore fermes. Ils \u00e9goutter et mettent de c\u00f4t\u00e9.Pendant ce temps, dans une petite casserole avec de l\u2019huile sur le feu, ont \u00e9t\u00e9 l\u2019ail frit et enlev\u00e9 l\u2019ail. Ajouter l\u2019oignon et cuire pour fl\u00e9trir. Ajouter la tomate, le bouillon, sel et poivre et cuire pendant 2 \u00c0 3 minutes.Ajouter les haricots verts, vous remuez et faites cuire \u00e0 d\u00e9couvert sur feu vif pour 5 minutes. Abaisse le feu. Ils ont couvert et cuits 10 minutes pour produire une sauce l\u00e9g\u00e8re."
+    },
+    "totalTime": {
+        "@value": "40 min"
+    },
+    "@id": "http://example.org/recipe"
+}

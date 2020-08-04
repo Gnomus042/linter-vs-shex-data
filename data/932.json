@@ -1,0 +1,38 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "OnePotChefShow"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "Cook Time:"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Mars Bar Ice Cream is a rich, indulgent dessert inspired by the famous candy bar. Mars Bars are slowly melted in cream then combined with eggs. Frozen until set, this glorious ice cream is perfect for an occasional treat - give it a go!"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Mars Bar Ice Cream"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "Mars bar - 5  , chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "Eggs - 3  , separated"
+        },
+        {
+            "@language": "en",
+            "@value": "Whipping cream - 600 Milliliter "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "MAKING:\n\n\n\n\n\n\tMelt mars bars using double boiling method.\n\n\tAdd whipping cream and stir occasionally until combined for 10-15 minutes.\n\n\tTurn off heat and allow to cool for 10-15 minutes.\n\n\tAdd egg yolks and remaining cream.\n\n\tFold in whipped egg white.\n\n\tPour into ice cream tub and pop into freezer.\n\n\tAllow to freeze for 6 hours.\n\n\n\n\n\n\u00a0\n\n\n\nSERVING:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\n\n\n\n\n\tServe and enjoy!\n\n"
+    },
+    "@id": "http://example.org/recipe"
+}

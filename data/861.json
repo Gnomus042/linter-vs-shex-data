@@ -1,0 +1,61 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "pt-BR",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "pt-BR",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "pt-BR",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "pt-BR",
+        "@value": "By Julia Guedes"
+    },
+    "datePublished": {
+        "@language": "pt-BR",
+        "@value": "2018-01-30 10:40:49"
+    },
+    "image": [
+        {
+            "@id": "https://patibianco.com.br/melhor-calda-de-chocolate-do-mundo-e-e-vegana///patibianco.com.br/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif"
+        },
+        {
+            "@id": "https://frufruta.com.br/wp-content/uploads/2018/01/14466456_10210544179945276_1689945978_o-copy.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "pt-BR",
+            "@value": "500 ml de \u00e1gua"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "50g de cacau em p\u00f3"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "200g de chocolate amargo picado ou em gotas"
+        },
+        {
+            "@language": "pt-BR",
+            "@value": "100g de a\u00e7\u00facar demerara"
+        }
+    ],
+    "name": {
+        "@language": "pt-BR",
+        "@value": "Calda de Chocolate F\u00e1cil (Sem Lactose/ Vegana)"
+    },
+    "recipeInstructions": {
+        "@language": "pt-BR",
+        "@value": "\t\t\t\tMisture tudo em uma panela e deixe ferver, sempre em fogo baixo. O ponto da calda fica a seu crit\u00e9rio: quanto mais tempo ela reduzir, mais espessa ficar\u00e1. O ponto que eu mais gosto de usar pode ser testado com um m\u00e9todo simples: mergulhe uma colher na calda e passe o dedo no meio da colher \u2013 se o chocolate n\u00e3o escorrer pelo espa\u00e7o aberto pelo seu dedo, a calda j\u00e1 est\u00e1 pronta.\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,134 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "tr",
+        "@value": "bir\u015feylermiyapsak"
+    },
+    "dateModified": {
+        "@language": "tr",
+        "@value": "2019-04-30T11:20:23+00:00"
+    },
+    "datePublished": {
+        "@language": "tr",
+        "@value": "2019-04-30T11:20:23+00:00"
+    },
+    "description": {
+        "@language": "tr",
+        "@value": "Kahve Aromal\u0131 \u00c7ikolata Toplar\u0131 Tarifi nas\u0131l yap\u0131l\u0131r? bu tarifin resimli anlat\u0131m\u0131 ve deneyenlerin foto\u011fraflar\u0131 burada. Yazar: bir\u015feylermiyapsak"
+    },
+    "headline": {
+        "@language": "tr",
+        "@value": "Kahve Aromal\u0131 \u00c7ikolata Toplar\u0131"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "tr",
+            "@value": "333"
+        },
+        "url": {
+            "@language": "tr",
+            "@value": "https://i.nefisyemektarifleri.com/2019/04/30/kahve-aromali-cikolata-toplari-500x333.jpg"
+        },
+        "width": {
+            "@language": "tr",
+            "@value": "500"
+        }
+    },
+    "ingredients": [
+        {
+            "@language": "tr",
+            "@value": "3 yemek ka\u015f\u0131\u011f\u0131 s\u00fct"
+        },
+        {
+            "@language": "tr",
+            "@value": "Yar\u0131m paket labne peyniri"
+        },
+        {
+            "@language": "tr",
+            "@value": "\u00c7ikolata hari\u00e7 t\u00fcm malzemeleri blendardan ge\u00e7irin. \u015eekil verin."
+        },
+        {
+            "@language": "tr",
+            "@value": "\u00dczerine eritmek i\u00e7in \u00e7ikolata"
+        },
+        {
+            "@language": "tr",
+            "@value": "175 Gr (1 paket )kakaolu petib\u00f6r bisk\u00fcvi"
+        },
+        {
+            "@language": "tr",
+            "@value": "S\u00fct\u00fcn i\u00e7inde kahveyi eritin."
+        },
+        {
+            "@language": "tr",
+            "@value": "1 yemek ka\u015f\u0131\u011f\u0131 \u00e7okokrem"
+        },
+        {
+            "@language": "tr",
+            "@value": "Not: E\u011fer \u00e7ikolata kaplamas\u0131 yapmak istemezseniz toz kakao ya da toz kahveye bulayabilirsiniz. Bu \u015fekilde yaparsan\u0131z buzlu\u011fa atman\u0131za gerek kalmaz."
+        },
+        {
+            "@language": "tr",
+            "@value": "1. 5 \u00e7ay ka\u015f\u0131\u011f\u0131 Nescafe"
+        },
+        {
+            "@language": "tr",
+            "@value": "Benmari usul\u00fc eritilen \u00e7ikolataya bat\u0131r\u0131n ( buzlukta yar\u0131m saat bekletilirse daha g\u00fczel oluyor)."
+        },
+        {
+            "@language": "tr",
+            "@value": "1 yemek ka\u015f\u0131\u011f\u0131 pudra \u015fekeri"
+        }
+    ],
+    "mainEntityOfPage": [
+        {
+            "@language": "tr",
+            "@value": "True"
+        },
+        {
+            "@language": "tr",
+            "@value": "https://www.nefisyemektarifleri.com/kahve-aromali-cikolata-toplari/"
+        }
+    ],
+    "name": {
+        "@language": "tr",
+        "@value": "Kahve Aromal\u0131 \u00c7ikolata Toplar\u0131"
+    },
+    "prepTime": {
+        "@language": "tr",
+        "@value": "PT10M"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:Nb52733b9c9fa41969916c2ab5ad49365"
+        },
+        "name": {
+            "@language": "tr",
+            "@value": "Nefis Yemek Tarifleri"
+        },
+        "url": {
+            "@language": "tr",
+            "@value": "https://www.nefisyemektarifleri.com"
+        }
+    },
+    "recipeYield": {
+        "@language": "tr",
+        "@value": "8-10 "
+    },
+    "totalTime": {
+        "@language": "tr",
+        "@value": "PT10M"
+    },
+    "url": [
+        {
+            "@language": "tr",
+            "@value": "https://www.nefisyemektarifleri.com/kahve-aromali-cikolata-toplari/"
+        },
+        {
+            "@id": "https://www.nefisyemektarifleri.com/kahve-aromali-cikolata-toplari/"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

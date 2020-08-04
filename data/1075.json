@@ -1,0 +1,48 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "https://www.przyslijprzepis.pl/przepis/kulki-mocy-2//uzytkownik/moje-male-gotowanie"
+        }
+    },
+    "cookTime": {
+        "@value": "PT30M"
+    },
+    "datePublished": {
+        "@value": "\n                            Opublikowany: 18.09.2019\n                        "
+    },
+    "description": {
+        "@value": "kulki daj\u0105ce moc. Tak samo \u015bwietnie smakuj\u0105 jak wygl\u0105daj\u0105."
+    },
+    "headline": {
+        "@value": "Kulki mocy"
+    },
+    "image": [
+        {
+            "@id": "_:N1383fdef3d294c4abfb000a667a58948"
+        },
+        {
+            "@id": "_:Nc57da47cf9bc4e3982c46ec8b236cd80"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "https://www.przyslijprzepis.pl/przepis/kulki-mocy-2"
+    },
+    "name": {
+        "@value": "Kulki mocy"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:Nb0c8eb354af2483299feb7fae0497082"
+        },
+        "name": {
+            "@value": "PrzyslijPrzepis.pl"
+        }
+    },
+    "recipeIngredient": {
+        "@value": "Sk\u0142adniki\n            Sk\u0142adniki:\nP\u00f3\u0142 szkl daktyli\nP\u00f3\u0142 szkl orzech\u00f3w nerkowca\nP\u00f3\u0142 szklanki sezamu\nP\u00f3\u0142 szkl migda\u0142\u00f3w\n2 \u0142y\u017cki syropu z agawy\n\u0141y\u017ceczka cynamonu\nSzczypta soli\n        "
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,7 @@
+{
+    "@type": "Recipe",
+    "recipeYield": {
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

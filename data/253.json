@@ -1,0 +1,72 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Annie"
+        }
+    },
+    "description": {
+        "@value": "C'est une salade d'aubergine \u00e0 servir frais en \u00e9t\u00e9 avec des olives noires ! Un d\u00e9lice du Sud !"
+    },
+    "image": {
+        "@id": "https://cdn.lacuisinedannie.com/images/285.jpg"
+    },
+    "keywords": {
+        "@value": "Et\u00e9"
+    },
+    "name": {
+        "@value": "Recette Salade d'aubergines                                      \n                                    "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "\n                                    195 kCal"
+        },
+        "servingSize": {
+            "@value": "1 part"
+        }
+    },
+    "recipeCategory": {
+        "@value": "Entr\u00e9es"
+    },
+    "recipeCuisine": {
+        "@value": "Entr\u00e9es froides"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "5 \u00e0 6 gousses d'ail "
+        },
+        {
+            "@value": "1 cuiller\u00e9e \u00e0 soupe de cumin "
+        },
+        {
+            "@value": "Sel, poivre "
+        },
+        {
+            "@value": "Quelques olives noires de pays type Nice ou Grasse.                            "
+        },
+        {
+            "@value": "1 kg d'aubergines "
+        },
+        {
+            "@value": "1 cuiller\u00e9e \u00e0 soupe de jus de citron "
+        },
+        {
+            "@value": "5 cuiller\u00e9es \u00e0 soupe d'huile d'olive "
+        },
+        {
+            "@value": "500 g de tomates "
+        },
+        {
+            "@value": "1 cuiller\u00e9e \u00e0 soupe de piment doux "
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        Les ingr\u00e9dients  Dans une casserole d'eau sal\u00e9e, faire cuire les aubergines coup\u00e9es en gros d\u00e9s pendant 30 mn. \u00c9goutter les aubergines et les presser pour en extraire l'exc\u00e9dent d'eau. Peler les tomates facilement en les trempant 30 s dans de l'eau bouillante, puis les couper en d\u00e9s. Dans une po\u00eale avec de l'huile, faire cuire les d\u00e9s de tomate pendant 5 mn avec l'ail \u00e9cras\u00e9 puis ajouter piment doux, cumin, sel et poivre Ajouter les aubergines bien press\u00e9es aux tomates dans la po\u00eale  \u00c9craser le tout en remuant jusqu'\u00e0 \u00e9vaporation compl\u00e8te de l'eau, \u00e0 feu doux pendant 15 \u00e0 20 mn   Rectifier l'assaisonnement, ajouter le jus de citron et laisser refroidir Servir avec une petite poign\u00e9e d'olives noires.                        "
+    },
+    "recipeYield": {
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

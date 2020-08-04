@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5.0"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "2"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://res.cloudinary.com/mealthy1/image/upload/c_fill,f_auto,h_70,q_auto:best,w_70/v1504473550/profile_images/1504473549_1930019_505520362306_5611_n.jpg.jpg"
+        },
+        "name": {
+            "@language": "en",
+            "@value": "Adrienne Allen"
+        }
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n            Scotch eggs are a decadent treat of a soft-cooked egg wrapped in sausage that is then typically coated in bread crumbs and then deep fried. This version uses pork rinds instead of bread crumbs, making it a keto-friendly, paleo-friendly, and a gluten-free treat. Thanks to the air fryer, you won't need a quart of oil to fry them in... just 12 minutes in the air fryer using a quick spray of cooking spray. Serve these treats to your favorite people, they are delightful!\n          "
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://res.cloudinary.com/mealthy1/image/upload/ar_16:11,c_fill,f_auto,h_688,q_auto:best,w_1000/v1551233363/cms_recipe_featured_image/z2nxo3v1h1u2l75lbjva.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Air Fryer Keto Scotch-Style Eggs"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://mealthy.com/recipes/2187/air-fryer-keto-scotch-style-eggs"
+    },
+    "@id": "http://example.org/recipe"
+}

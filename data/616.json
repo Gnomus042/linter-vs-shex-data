@@ -1,0 +1,21 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://i1.chuimg.com/5967545486fa11e6a9a10242ac110002_629w_621h.jpg@2o_50sh_1pr_1l_660w_90q_1wh"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n                \n                  \n\n    \u5168\u8102\u725b\u5976\n\n                \n                \n                    1100ml\n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u767d\u7802\u7cd6\n\n                \n                \n                    2\u5927\u52fa\n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u67a3\u6ce5\u9985\n\n                \n                \n                    150\u514b\n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u91aa\u7cdf\u6c41\n\n                \n                \n                    400\u514b\n                \n              "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,77 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "tr",
+        "@value": "PT20M"
+    },
+    "image": {
+        "@id": "https://diyetkolik.com/yemek-tarifi/vegan-ispanakli-pizza//static/img/yemektarifi_placeholder.png"
+    },
+    "ingredients": [
+        {
+            "@language": "tr",
+            "@value": "- 3.5 Gram Kuru Maya"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 1 \u00c7ay Ka\u015f\u0131\u011f\u0131 Kuru Kekik"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 1 Di\u015f (Orta Boy) Sar\u0131msak"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 1 \u00c7ay Ka\u015f\u0131\u011f\u0131 Tuz (\u0130yotlu)"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 0.5 Adet (Orta) Kuru So\u011fan"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 2 \u00c7orba Ka\u015f\u0131\u011f\u0131 Zeytinya\u011f\u0131"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 100 Gram Su"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 6 Adet \u00c7eri Domates / Kiraz Domates"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 2 Adet (Orta) Domates"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 0.5 \u00c7ay Ka\u015f\u0131\u011f\u0131 Karabiber"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 200 Gram Bu\u011fday Unu"
+        },
+        {
+            "@language": "tr",
+            "@value": "- 150 Gram Ispanak Yapra\u011f\u0131"
+        }
+    ],
+    "name": {
+        "@language": "tr",
+        "@value": "Vegan Ispanakl\u0131 PizzaYEMEK TAR\u0130F\u0130"
+    },
+    "nutrition": [
+        {
+            "@id": "_:N6d4da91eb1864feb9045cc540f953f8e"
+        },
+        {
+            "@id": "_:N57c19b536df84e539981041aea93d0e3"
+        }
+    ],
+    "prepTime": {
+        "@language": "tr",
+        "@value": "PT15M"
+    },
+    "@id": "http://example.org/recipe"
+}

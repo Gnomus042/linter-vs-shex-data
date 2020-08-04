@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "fr-FR",
+        "@value": "Samar"
+    },
+    "image": {
+        "@id": "http://www.mesinspirationsculinaires.com/wp-content/uploads/2015/03/gateau-chocolat-caramel-beurre-sale-1-300x225.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "50 g d'eau"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "10 g de farine"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "125 g de chocolat (cors\u00e9 64 %)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "250 g de sucre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "180 g d\u2019\u0153ufs (environ 4 selon la taille)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "150 g de beurre demi sel"
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "G\u00e2teau au chocolat caramel beurre sal\u00e9 : l'Assassin de Bernard"
+    },
+    "recipeCategory": {
+        "@language": "fr-FR",
+        "@value": "gateau"
+    },
+    "recipeCuisine": {
+        "@language": "fr-FR",
+        "@value": "francaise"
+    },
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

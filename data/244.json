@@ -1,0 +1,24 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "de",
+        "@value": "Null"
+    },
+    "brand": {
+        "@language": "de",
+        "@value": "jilson.me"
+    },
+    "image": {
+        "@language": "de",
+        "@value": "https://i0.wp.com/_350x350.jpg"
+    },
+    "ingredients": {
+        "@language": "de",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "de",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

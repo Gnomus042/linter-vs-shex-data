@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Suzanne"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "This mousse is made with aquafaba, the liquid from Garbanzo beans. No raw egg whites. Absolutely divine with our Blood Orange Fused Extra Virgin Olive Oil"
+    },
+    "image": {
+        "@id": "http://capizzanoco.com/wp-content/uploads/2017/04/chocolate-mousse-300x200.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u00bc teaspoon Cream of Tartar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 can Garbanzo Beans - Aquafaba Liquid Drained into bowl (I used Goya Brand)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 TB organic sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 TB Orange zest"
+        },
+        {
+            "@language": "en-US",
+            "@value": "INGREDIENTS:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 TB Blood Orange Fused Olive Oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6 ounce bittersweet dark chocolate (60 % cacao)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Aquafabulous Chocolate Mousse with Blood Orange Olive Oil"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Dessert"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Fold cooled chocolate mixture into the meringue. Put in separate bowl \u2013 cover and chill up to 2 hours."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Serve in separate small bowls with fresh raspberries and snipped mint leaves."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Option: make raspberry puree with fresh raspberries and Raspberry Aged Balsamic. 1 cup berries and 2 ounces raspberry balsamic blend on high in blender. Drizzle on top of the chocolate mousse. Delicious"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Melt chocolate add Blood Orange Olive Oil and Orange Zest mix thoroughly \u2013 scrape into another bowl to cool."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Drain \u201caquafaba\u201d garbanzo bean liquid into a deep medium size bowl. (Put beans aside use in your salads.) Fluff up using electric mixer add Cream of Tartar and slowly cascade the sugar in. Continue to beat on high beat until stiff peaks form. (about 4 \u2013 5 minutes)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "METHOD:"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

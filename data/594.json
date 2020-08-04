@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "sk-SK",
+        "@value": "Ivana Jel\u00ednkov\u00e1"
+    },
+    "datePublished": {
+        "@language": "sk-SK",
+        "@value": "2017-04-16 09:01:16"
+    },
+    "description": {
+        "@language": "sk-SK",
+        "@value": "\n\t\tJednoduch\u00fd a r\u00fdchly milkshake pln\u00fd ban\u00e1nov a karamelu\t"
+    },
+    "image": {
+        "@language": "sk-SK",
+        "@value": "https://blondieishatkitchen.com/wp-content/uploads/2017/04/bananovy-karamelovy-milkshake.jpg"
+    },
+    "name": {
+        "@language": "sk-SK",
+        "@value": "Ban\u00e1novo-karamelov\u00fd milkshake"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "sk-SK",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t4\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tnabera\u010dky vanilkovej zmrzliny\n\t\t\t\t\t\t\t\t\t\t+ na ozdobu\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sk-SK",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t90\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tg\n\t\t\t\t\t\t\t\t\t\tmasla pokr\u00e1jan\u00e9ho na kocky\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sk-SK",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tban\u00e1ny\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sk-SK",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx 2 PL karamelu\n\t\t\t\t\t\t\t\t\t\t+ na ozdobu\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sk-SK",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t500\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tml\n\t\t\t\t\t\t\t\t\t\tmlieka\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sk-SK",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t120\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tml\n\t\t\t\t\t\t\t\t\t\tsmotany na \u0161\u013eahanie\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sk-SK",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKaramel:\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sk-SK",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t200\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tg\n\t\t\t\t\t\t\t\t\t\tkry\u0161t\u00e1lov\u00e9ho cukru\n\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "sk-SK",
+            "@value": "Karamel: Cukor za st\u00e1leho mie\u0161ania zohrievame na miernom ohni. Ke\u010f u\u017e je \u00faplne roztopen\u00fd zn\u00ed\u017eime ohe\u0148 a prid\u00e1me maslo. Ihne\u010f mie\u0161ame. D\u00e1vame pozor, aby sme sa nepop\u00e1lili. Ke\u010f je maslo \u00faplne roztopen\u00e9, prid\u00e1me smotanu na \u0161\u013eahanie. Ihne\u010f mie\u0161ame. D\u00e1vame pozor, aby sme sa nepop\u00e1lili \u2013 bude tam ve\u013ea pary. Za st\u00e1leho mie\u0161ania var\u00edme na miernom a\u017e prudkom ohni dok\u00fdm neza\u010dne bubla\u0165, ihne\u010f odstav\u00edme. Toto mno\u017estvo vy\u0161lo na 1 sklo od tat\u00e1rskej om\u00e1\u010dky."
+        },
+        {
+            "@language": "sk-SK",
+            "@value": "Mlieko v mix\u00e9ri zmie\u0161ame so zmrzlinou a ban\u00e1nmi. Rozmixujeme."
+        },
+        {
+            "@language": "sk-SK",
+            "@value": "Karamel nech\u00e1me trochu vychladn\u00fa\u0165 a 2 PL karamelu polejeme po vn\u00fatri poh\u00e1ra. Nalejeme milkshake, navrch prid\u00e1me zmrzlinu a polejeme ju karamelom."
+        }
+    ],
+    "recipeYield": {
+        "@language": "sk-SK",
+        "@value": "2 "
+    },
+    "@id": "http://example.org/recipe"
+}

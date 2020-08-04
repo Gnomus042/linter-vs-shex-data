@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en",
+            "@value": "3.84375"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "16"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "\n            \n  Anneka Manning          "
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT1H"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n     This tart is an impressive one \u2013 the combination of roasted pumpkin and tomatoes, Persian feta and a parmesan shortcrust pastry base makes it a great one to serve when entertaining. The best thing, though, is that it's surprisingly simple to put together.\n \n\n  "
+    },
+    "image": [
+        {
+            "@id": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/Roasted-pumpkin-%26-tomato-tart-2.jpg?itok=tHEdks0S&mtime=1492732490"
+        },
+        {
+            "@language": "en",
+            "@value": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/thumb_small/public/Roasted-pumpkin-%26-tomato-tart-2.jpg?itok=9Zfd79fa"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Roasted pumpkin, tomato and oregano tart"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT25M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Main"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Australian"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n     To make the filling, preheat oven to 220\u00b0C. Place the pumpkin, onion, 1 tbsp of the oregano leaves and 1\u00bd tablespoons of the oil in a bowl. Season well with salt and pepper and toss to coat evenly. Spread the mixture over two-thirds of a large non-stick baking tray in a single layer. Toss the tomatoes with the remaining oil, sugar and season well with salt. Spread over the remaining third of the oven tray. Bake in preheated oven for 25-30 minutes or until tender and lightly golden. Set aside.\nReduce the oven temperature to 200\u00b0C. Unwrap the pastry and place on a lightly floured, cool work surface. Gently pat the pastry with the palm of your hand to flatten slightly. Use a lightly floured rolling pin to roll the pastry into a rectangle about 3 mm thick.\nCarefully drape the pastry loosely around the rolling pin. Place it over a ungreased 10 x 34 cm (base measurement) tart tin with a removable base (see Baker\u2019s tips) and then unroll the pastry, taking care not to stretch it. Gently lift the edge of the pastry and ease it into the tart tin to line the base and sides and settle it into the corners. Use your fingertips to press it gently into the corners without stretching it. Then, working around the tin, press the pastry into the side using your thumb or finger. Roll the rolling pin over the top of the tart tin to trim any overhanging pastry. \nPlace the tart tin on a baking tray. Prick the pastry base with a fork about 12 times. Line the pastry case with non-stick baking paper and fill with pastry weights, dried beans or raw rice, making sure they press into the corners. Bake in preheated oven for 15 minutes.\nRemove from oven and use the paper to lift the weights out of the case. Return the pastry case to the oven and cook for a further 10-15 minutes or until cooked through and golden brown. Remove the tart case from the oven and place on a wire rack.\nSprinkle half the feta over the base of the warm pastry case. Combine the vegetables and oregano in a bowl and toss gently to combine. Spoon the vegetables into the pastry case and sprinkle with the remaining feta and oregano leaves. Drizzle with a little extra oil and sprinkle with pepper, if desired.\n\u00a0\nBaker's tips\u2022 If you don\u2019t have a 10 x 34 cm (base measurement) rectangular tart tin, you can use a 23 cm (base measurement) round tart tin with a removable base.\u2022 This tart will keep in an airtight container in the fridge for up to 2 days. Bring to room temperature to serve.\n\u00a0\nAnneka's mission is to connect home cooks with the magic of baking, and through this, with those they love. Read our interview with her or for hands-on baking classes and baking tips, visit her at\u00a0BakeClub. Don't miss what's coming out of her oven via Facebook, Twitter, Instagram and Pinterest.\n\u00a0\nPhotography by Alan Benson. Styling by Trish Heagerty. Food preparation by Wendy Quisumbing.\n\u00a0\nThis recipe is from our online column, Bakeproof: Shortcrust pastry.\n \n\n  "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n    6-8  "
+    },
+    "@id": "http://example.org/recipe"
+}

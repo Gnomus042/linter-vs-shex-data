@@ -1,0 +1,51 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Lihtne kuumt\u00f6\u00f6tlemisel"
+    },
+    "cookTime": {
+        "@value": "25 min"
+    },
+    "datePublished": {
+        "@value": "2018-02-21 09:15:40"
+    },
+    "image": {
+        "@id": "https://recetasdecocinafaciles.net/wp-content/uploads/2018/02/brownies-para-celiacos.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "200 g. suhkru"
+        },
+        {
+            "@value": "Esencia de vainilla"
+        },
+        {
+            "@value": "100 g. v\u00f5i"
+        },
+        {
+            "@value": "90 g. de las tres harinas"
+        },
+        {
+            "@value": "2 cucharaditas de polvo leudante o levadura en polvo"
+        },
+        {
+            "@value": "3 munad"
+        },
+        {
+            "@value": "3 \u0161okolaadi"
+        }
+    ],
+    "name": {
+        "@value": "Brownies para celiacos"
+    },
+    "prepTime": {
+        "@value": "25 min"
+    },
+    "recipeInstructions": {
+        "@value": "Verter la manteca en el vaso y programar 4 minutos a 80\u00ba y velocidad 1.Ir agregando el chocolate en trozos y despu\u00e9s programar velocidades 5-7-9 hasta que quede como una crema y totalmente triturado.Con la m\u00e1quina en velocidad 4 ir a\u00f1adiendo el az\u00facar y las yemas.Parar la Thermomix y a\u00f1adir la harina con la levadura y las claras montadas a punto de nieve (tenerlas preparadas), programar 6 sekundit kiiremaks 5.Colocar en molde enmantecado y enharinado (v\u00f5i k\u00f6\u00f6giviljade paberiga vooderdatud).Introducir en el horno precalentado a 170\u00ba durante 20 umbes minuti."
+    },
+    "totalTime": {
+        "@value": "50 min"
+    },
+    "@id": "http://example.org/recipe"
+}

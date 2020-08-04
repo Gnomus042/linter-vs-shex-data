@@ -1,0 +1,144 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "7 hours"
+    },
+    "copyrightHolder": {
+        "@language": "en-US",
+        "@value": "Recipe from www.jamiecooksitup.net"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 tsp liquid smoke\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "TOPPINGS:\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "SHREDDED BBQ BEEF:\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "10 Sandwich Rolls\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 large onions\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "SAUTEED ONIONS:\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tsp stone ground mustard\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Null"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cilantro, chopped\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Green Onions, chopped \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 TB A.1. sauce\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tb soy sauce\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Provolone Cheese\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 C Sweet Baby Ray's BBQ SAuce\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 Tb Italian dressing\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 1/2-3 pound beef chuck roast\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 C beef broth\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "salt and pepper\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "garlic salt\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6 Tb brown sugar\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Loaded BBQ Beef Sandwiches (Crock Pot)"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "30 minutes"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "2. Into a large glass measuring cup place 3 C Sweet Baby Ray's Bbq sauce, 2 tsp stone ground mustard, 1 Tb A.1. sauce, 2 tsp liquid smoke, 6 Tb brown sugar and 3 Tb Italian Dressing. Stir to combine.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8. When you are ready to build the sandwiches, butter the insides of your sandwich rolls. Place them face down on a hot skillet and allow them to get nice and toasty. Remove them from the skillet and place a generous portion of the bbq beef and a slice of provolone cheese on each roll bottom. Add some of the saut\u00e9ed onions and a bit of cilantro and green onions. Add the top of the roll and dig in, baby! Hope you love these! We sure do. \ud83d\ude42 "
+        },
+        {
+            "@language": "en-US",
+            "@value": "6. Cover and cook on high for an additional hour. Watch it to be sure it doesn't start to burn to the sides. \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "7. Slice 2 large onions into thin rounds. Heat a large skillet over medium high heat. Melt 2 Tb butter into the pan and add the onions. Sautee the onions, stirring occasionally until soft and translucent. (Should only take about 10 minutes) Pour 1/2 C beef broth and 1 Tb soy sauce into the pan. Allow it to simmer and cook down for 2-3 minutes. Taste and add salt and pepper to your liking.  \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1. Grab a 2 1/2 - 3 pound chuck roast. Trim the fat from the edges and place it in a 3-4 quart crock pot. Sprinkle with garlic salt. \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "5. Pour most of the liquid out of the crock pot. Shred the meat with two forks and pour the remaining sauce over the top. Stir it in, to combine. \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3. Pour half of the sauce over the top of the roast. Place the remaining sauce in the fridge.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4. Cover the crock pot and cook on low for 6 hours.\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "10-12 sandwiches"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "7 hours, 30 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

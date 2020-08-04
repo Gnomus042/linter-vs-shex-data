@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "fr-FR",
+            "@value": "7"
+        },
+        "ratingValue": {
+            "@language": "fr-FR",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "fr-FR",
+        "@value": "Samar"
+    },
+    "image": {
+        "@id": "http://www.mesinspirationsculinaires.com/wp-content/uploads/2012/05/petits-pains-moelleux-aux-Cheddar-1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "1 tasse de fromage cheddar r\u00e2p\u00e9 (ou tout autre fromage )"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1,5 c-a-c de sel"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 c-a-c de sucre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 c-a-c de levure s\u00e8che active"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 tasse de lait"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "2 tasses de farine \u00e0 pain"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "- 1 oeuf legerement battu"
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Twist au cheddar (Cheddar Twist)"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "fr-FR",
+            "@value": "Dissoudre la levure dans une petite quantit\u00e9 d'eau ti\u00e8de (pas chaude) en y ajoutant \u00bd c-a-c de sucre. Laisser mousser 15 minutes."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Les badigeonner d'oeuf battu, et si d\u00e9sir\u00e9, saupoudrer de parmesan r\u00e2p\u00e9."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Pr\u00e9chauffer le four \u00e0 180 C (350F) et cuire 12-15 minutes, ou jusqu'\u00e0 ce que les pains soient l\u00e9g\u00e8rement bruni. Refroidir sur une grille."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "P\u00e9trir pendant 3 minutes (j'ai m\u00e9lang\u00e9 \u00e0 la main, la p\u00e2te est collante). Incorporer le fromage r\u00e2p\u00e9 et ajouter assez de farine pour obtenir une p\u00e2te molle (ajouter la farine petit \u00e0 petit car tout d\u00e9pend de l'absorption de chaque farine)."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "D\u00e9gazer la p\u00e2te, la diviser en 6 p\u00e2tons, et rouler chaque p\u00e2ton en long boudin de 22 cm. Plier chaque boudin en deux, et torsader 2-3 fois. Les d\u00e9poser sur une plaque recouverte de papier sulfuris\u00e9, couvrir avec un torchon, et laisser lever 20-30 minutes, ou jusqu'\u00e0 ce que les pains doublent de volume."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "D\u00e9poser sur une surface farin\u00e9e et p\u00e9trir pendant 3-5 minutes, ou jusqu'\u00e0 ce que la p\u00e2te soit lisse et \u00e9lastique. Placer la p\u00e2te dans un bol, couvrir avec un torchon humide et laisser lever dans un endroit ti\u00e8de 1 heure \u00e0 peu pr\u00e8s ou jusqu\u2019\u00e0 ce que la p\u00e2te double de volume."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Dans un bol, m\u00e9langer la farine avec le sucre, le sel et ajouter la levure. Ajouter le lait ti\u00e8de (pas chaud)."
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

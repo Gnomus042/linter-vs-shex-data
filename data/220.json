@@ -1,0 +1,142 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Jessica Schlangen {Gluten Free Jess}"
+    },
+    "image": {
+        "@id": "http://glutenfreejess.com/wp-content/uploads/2015/07/image18-820x312.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup jelly jam (any flavor, 1 tsp per muffin)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup powdered peanut butter (loosely measured, not packed down)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup nonfat plain Greek yogurt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup white sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd cups mashed overripe bananas (I freeze my bananas when they get too ripe and then thaw them out for recipes)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp vanilla extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups gluten free flour (I use Beyond the Grain Gluten Free)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd tsp baking powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc tsp ground cinnamon"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Peanut Butter and Jelly Muffins {Gluten Free}"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "115"
+        },
+        "carbohydrateContent": {
+            "@language": "en-US",
+            "@value": "24"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "2.25"
+        },
+        "fiberContent": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "proteinContent": {
+            "@language": "en-US",
+            "@value": "3.75"
+        },
+        "saturatedFatContent": {
+            "@language": "en-US",
+            "@value": ".5"
+        },
+        "servingSize": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "sugarContent": {
+            "@language": "en-US",
+            "@value": "9.5"
+        }
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "In a separate bowl, combine mashed bananas, vanilla, eggs, powdered peanut butter, sugar, and Greek yogurt. Use a hand mixer to thoroughly combine the wet ingredients."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat oven to 350 degrees."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Drop a teaspoon of jelly onto the center of the batter of each muffin."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Coat 24 muffin tins really well with cooking spray."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour the wet ingredient mixture into the dry ingredient mixture and stir by hand until everything is well combined. Be careful not to over-mix."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Bake for 15-17 minutes. Be careful not to over-bake as gf muffins can dry out easily."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Evenly divide the remaining batter on the top of each muffin. The jelly will not be completely covered."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large bowl combine flour, baking powder, baking soda, cinnamon, and salt. Whisk until it is will combined."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Use a 1 or 1 and \u00bd inch cookie scoop to drop a ball of the batter into each muffin cup. This will use a little over half of the batter."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "24 muffins"
+    },
+    "@id": "http://example.org/recipe"
+}

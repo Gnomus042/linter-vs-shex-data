@@ -1,0 +1,42 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.gustissimo.it/articoli/ricette/torte/torta-al-grasshopper.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "Biscotti frollini al cioccolato"
+        },
+        {
+            "@value": "Marshmallow"
+        },
+        {
+            "@value": "Crema di cacao"
+        },
+        {
+            "@value": "Cioccolato fondente"
+        },
+        {
+            "@value": "Panna fresca"
+        },
+        {
+            "@value": "Burro"
+        },
+        {
+            "@value": "Crema di menta verde"
+        },
+        {
+            "@value": "Latte"
+        }
+    ],
+    "name": {
+        "@value": "\n                        \n                Torta al grasshopper    "
+    },
+    "recipeInstructions": {
+        "@value": "\n                                     \n                                        \n                                            Preparazione\n                                            Sminuzzate il cioccolato fondente e versatelo nel mixer con i biscotti, quindi tritate finemente e versate il tutto in una terrina; aggiungete il burro fuso e mescolate finch\u00e9 non si sar\u00e0 completamente assorbito, dopodich\u00e9 utilizzate il composto per foderare una tortiera a cerniera (foderata con carta da forno), sul fondo e sui brodi.Cuocete la base della torta per 5 minuti a 200\u00b0C, poi lasciatela raffreddare.Nel frattempo preparate il ripieno: fate sciogliere i marshmallow in un pentolino con il latte e lasciateli raffreddare completamente; montate la panna e unitela a poco a poco al composto, quindi completate con la crema di cacao e la crema di menta; amalgamate il tutto.Prendete la teglia con il fondo di biscotti e versate la crema al suo interno livellando la superficie.Mettetela nuovamente in frigorifero e servitela dopo almeno 2 ore di riposo.\n                                        \n                                     \n                                        \n                                            Accorgimenti\n                                            Se avete tempo, lasciate la torta in frigorifero anche pi\u00f9 di 2 ore.\n                                        \n                                     \n                                        \n                                            Idee e varianti\n                                            Per ottenere una crema verde brillante, proprio come il cocktail, unite 4 gocce di colorante verde per alimenti.\n                                        \n                                    \n                                    \n\n                                                                    "
+    },
+    "recipeYield": {
+        "@value": "1 torta"
+    },
+    "@id": "http://example.org/recipe"
+}

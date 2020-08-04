@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "16"
+        },
+        "ratingValue": {
+            "@value": "4.5"
+        },
+        "worstRating": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@value": "\u042e\u043b\u0438\u044f"
+    },
+    "cookTime": {
+        "@value": "PT60M"
+    },
+    "image": {
+        "@id": "https://img.povar.ru/main/ba/5f/4a/c3/blini_na_manke_i_moloke-543264.JPG"
+    },
+    "ingredients": [
+        {
+            "@value": "\u0420\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e                             \u00a0\u2014\u00a050\u00a0\u0413\u0440\u0430\u043c\u043c"
+        },
+        {
+            "@value": "\u0421\u0430\u0445\u0430\u0440                            \u00a0\u2014\u00a0100\u00a0\u0413\u0440\u0430\u043c\u043c"
+        },
+        {
+            "@value": "\u041c\u043e\u043b\u043e\u043a\u043e                            \u00a0\u2014\u00a02\u00a0\u0421\u0442\u0430\u043a\u0430\u043d\u0430"
+        },
+        {
+            "@value": "\u041c\u0443\u043a\u0430                            \u00a0\u2014\u00a0100\u00a0\u0413\u0440\u0430\u043c\u043c"
+        },
+        {
+            "@value": "\u0421\u043e\u0434\u0430                            \u00a0\u2014\u00a01/2\u00a0\u0427\u0430\u0439\u043d\u044b\u0445 \u043b\u043e\u0436\u043a\u0438"
+        },
+        {
+            "@value": "\u042f\u0439\u0446\u043e                            \u00a0\u2014\u00a03\u00a0\u0428\u0442\u0443\u043a\u0438"
+        },
+        {
+            "@value": "\u041c\u0430\u043d\u043d\u0430\u044f \u043a\u0440\u0443\u043f\u0430                            \u00a0\u2014\u00a05-6\u00a0\u0421\u0442. \u043b\u043e\u0436\u0435\u043a"
+        }
+    ],
+    "name": {
+        "@value": "\u0411\u043b\u0438\u043d\u044b \u043d\u0430 \u043c\u0430\u043d\u043a\u0435 \u0438 \u043c\u043e\u043b\u043e\u043a\u0435"
+    },
+    "prepTime": {
+        "@value": "PT60M"
+    },
+    "recipeCategory": {
+        "@value": "\u041a\u0440\u0443\u043f\u044b / \u0422\u0435\u0441\u0442\u043e / \u041c\u0430\u043d\u043a\u0430"
+    },
+    "recipeInstructions": {
+        "@type": "ItemList",
+        "image": [
+            {
+                "@id": "https://img.povar.ru/steps/f7/63/2e/d2/blini_na_manke_i_moloke-543259.JPG"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/17/77/bb/36/blini_na_manke_i_moloke-543262.JPG"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/f1/23/8e/7d/blini_na_manke_i_moloke-543254.JPG"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/d0/37/26/a8/blini_na_manke_i_moloke-543255.JPG"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/8f/5c/29/a1/blini_na_manke_i_moloke-543260.JPG"
+            }
+        ]
+    },
+    "recipeYield": {
+        "@value": "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043f\u043e\u0440\u0446\u0438\u0439: 4-6"
+    },
+    "@id": "http://example.org/recipe"
+}

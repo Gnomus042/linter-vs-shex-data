@@ -1,0 +1,142 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "ro",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "ro",
+        "@value": "dia.daria"
+    },
+    "description": {
+        "@language": "ro",
+        "@value": "Tiramisu re\u0163et\u0103 original\u0103. Reteta Tiramisu re\u0163et\u0103 la pahar din Carte de bucate, Dulciuri. Specific Romania. Cum sa faci Tiramisu re\u0163et\u0103 la pahar"
+    },
+    "image": {
+        "@id": "https://www.culinar.ro/retete/dulciuri/creme/tiramisu-la-pahar-cu-visine//assets/files/thumb/800x600x2/recipe/25423/fdb_1443013816_lead_25423.jpg"
+    },
+    "keywords": {
+        "@language": "ro",
+        "@value": "tiramisu,tiramisu la pahar,idei de retete"
+    },
+    "name": {
+        "@language": "ro",
+        "@value": "Reteta Tiramisu re\u0163et\u0103 la pahar"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ro",
+            "@value": "184"
+        }
+    },
+    "prepTime": {
+        "@language": "ro",
+        "@value": "PT30M"
+    },
+    "recipeCategory": {
+        "@language": "ro",
+        "@value": "Creme"
+    },
+    "recipeCuisine": {
+        "@language": "ro",
+        "@value": "Romania"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a03 galbenusuri"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a01 cutie mascarpone"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0zahar pudra"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a01 pachet piscoturi Savoiardi"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0200 ml frisca lichida"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0dupa gust"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0cateva visine din dulceata"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0pt. decor"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0cafea"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0putina pudra de cacao"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0esenta de rom"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ro",
+        "@value": "\n                                    Tiramisu re\u0163et\u0103 la paharAm batut frisca si am lasat-o la rece, pana am pregatit restul. Am batut galbenusurile cu zahar pudra pe baia de abur si, pana s-au racit, am batut mascarpone pana a capatat consistenta unei spume. Am adaugat cateva picaturi de esenta de rom si am incorporat usor crema de galbenusuri si frisca lichida.Am inmuiat piscoturile in cafea cu rom si am inceput montarea in pahare: un strat piscoturi-un strat crema..si tot asa pana am umplut paharele (ultimul strat a fost crema mascarpone). Am decorat cu piscoturi, pudra de cacao si visine din dulceata. Am lasat la rece pana in momentul servirii. Cu aceasta reteta doresc sa particip la concursul Castiga timp - testeaza produse Philips, care a inceput deja pe data de 22.04. Ma bucur tare mult ca am reusit si eu sa aflu la timp de aceasta campanie, mai ales ca am mare nevoie de un astfel de produs pt. testat. Trebuie sa recunosc ca pana acum am avut un robot de bucatarie de care am fost foarte multumita, dar care a cedat de curand. Din pacate, timpul meu liber este, practic inexistent, eu tot alergand intre serviciu, casa si navete, iar oboseala si criza de timp si-au facut simtita prezenta. Practic, aceste produse Philips sunt o minune la casa omului, pt. ca injumatatesc timpul petrecut la prepaparea retetelor, iar eu as putea sa ma ocup de multele treburi ramase in urma.Tiramisu cu visine la pahar se serveste rece.                                "
+    },
+    "recipeYield": {
+        "@language": "ro",
+        "@value": "0"
+    },
+    "totalTime": {
+        "@language": "ro",
+        "@value": "PT30M"
+    },
+    "url": {
+        "@language": "ro",
+        "@value": "https://www.culinar.ro/retete/dulciuri/creme/tiramisu-la-pahar-cu-visine"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "ro",
+            "@value": "Tiramisu re\u0163et\u0103 la paharAm batut frisca si am lasat-o la rece, pana am pregatit restul. Am batut galbenusurile cu zahar pudra pe baia de abur si, pana s-au racit, am batut mascarpone pana a capatat consistenta unei spume. Am adaugat cateva picaturi de esenta de rom si am incorporat usor crema de galbenusuri si frisca lichida.Am inmuiat piscoturile in cafea cu rom si am inceput montarea in pahare: un strat piscoturi-un strat crema..si tot asa pana am umplut paharele (ultimul strat a fost crema mascarpone). Am decorat cu piscoturi, pudra de cacao si visine din dulceata. Am lasat la rece pana in momentul servirii. Cu aceasta reteta doresc sa particip la concursul Castiga timp - testeaza produse Philips, care a inceput deja pe data de 22.04. Ma bucur tare mult ca am reusit si eu sa aflu la timp de aceasta campanie, mai ales ca am mare nevoie de un astfel de produs pt. testat. Trebuie sa recunosc ca pana acum am avut un robot de bucatarie de care am fost foarte multumita, dar care a cedat de curand. Din pacate, timpul meu liber este, practic inexistent, eu tot alergand intre serviciu, casa si navete, iar oboseala si criza de timp si-au facut simtita prezenta. Practic, aceste produse Philips sunt o minune la casa omului, pt. ca injumatatesc timpul petrecut la prepaparea retetelor, iar eu as putea sa ma ocup de multele treburi ramase in urma.Tiramisu cu visine la pahar se serveste rece."
+        },
+        "name": {
+            "@language": "ro",
+            "@value": "Tiramisu re\u0163et\u0103 la pahar"
+        },
+        "thumbnailURL": {
+            "@language": "ro",
+            "@value": "https://www.culinar.ro/recipe/25423/fdb_1443013816_lead_25423.jpg"
+        },
+        "uploadDate": {
+            "@language": "ro",
+            "@value": "2015-09-23 16:10:16"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

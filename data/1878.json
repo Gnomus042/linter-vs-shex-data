@@ -1,0 +1,88 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "en-US",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "By Sauer's Kitchen"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCook Time: 15 minutes plus 4-6 hours chilling\t\t\t\t\t\t\t\t\t\t"
+    },
+    "image": {
+        "@id": "https://www.sauerbrands.com/wp-content/uploads/2017/02/Smoky-Salsa-757x450.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\t\t\t\t\tArt\u2019s Smoky Salsa\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u00bc tsp. sugar\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 jalape\u00f1o peppers, 1 with seeds and 1 without seeds, minced\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 cloves fresh garlic, minced\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u00bc tsp.\u00a0Sauer's Garlic Powder\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 Tbsp. fresh-squeezed lime juice\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u00bd medium red onion, diced fine\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u00bc tsp. chipotle powder\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u00bc tsp. sea salt\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 Tbsp. fresh cilantro, chopped fine\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t12 Roma tomatoes, diced\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u215b tsp. fresh ground pepper\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "1. Combine all ingredients \u2013 except cilantro \u2013 in a medium bowl.\n2. Cover and chill for 4-6 hours.\n3. Just before serving, add the chopped cilantro. Toss to combine.\n"
+    },
+    "@id": "http://example.org/recipe"
+}

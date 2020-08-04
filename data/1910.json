@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "ca",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "ca",
+            "@value": "4 "
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2014-04-12"
+    },
+    "description": {
+        "@language": "ca",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://factorgastronomic.com/wp-content/uploads/2015/01/salsa-allioli-negat.jpg"
+    },
+    "name": {
+        "@language": "ca",
+        "@value": "Allioli negat"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ca",
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@language": "ca",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

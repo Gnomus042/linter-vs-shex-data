@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "arm-hy",
+            "@value": "Artur Xachatryan"
+        }
+    },
+    "datePublished": {
+        "@language": "arm-hy",
+        "@value": "\n\u0540\u0548\u0552\u0546\u053b\u054d 20, 2019"
+    },
+    "name": {
+        "@language": "arm-hy",
+        "@value": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u0576 \u0531\u0544\u0546-\u056b\u0581 40 \u0574\u056c\u0576 \u0564\u0578\u056c\u0561\u0580 \u056c\u0580\u0561\u0581\u0578\u0582\u0581\u056b\u0579 \u0586\u056b\u0576\u0561\u0576\u057d\u0561\u056f\u0561\u0576 \u0585\u0563\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576 \u056f\u057d\u057f\u0561\u0576\u0561"
+    },
+    "@id": "http://example.org/recipe"
+}

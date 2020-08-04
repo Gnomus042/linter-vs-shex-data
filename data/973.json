@@ -1,0 +1,158 @@
+{
+    "@type": "Recipe",
+    "copyrightHolder": {
+        "@language": "de",
+        "@value": "\u00a9 GUSTO / Stefan Liewehr"
+    },
+    "image": {
+        "@id": "https://www.gusto.at/rezepte/schwarzw%C3%A4lder-kirsch-torte//_storage/asset/6153633/storage/womanat:slideshow-large/file/89489550/49632923.jpg"
+    },
+    "name": {
+        "@language": "de",
+        "@value": "Schwarzw\u00e4lder Kirsch-Torte"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "de",
+            "@value": "589 kcal"
+        },
+        "carbohydrateContent": {
+            "@language": "de",
+            "@value": "54 g"
+        },
+        "cholesterolContent": {
+            "@language": "de",
+            "@value": "198 mg"
+        },
+        "fatContent": {
+            "@language": "de",
+            "@value": "35 g"
+        },
+        "proteinContent": {
+            "@language": "de",
+            "@value": "10 g"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "de",
+            "@value": "Torten & Kuchen"
+        },
+        {
+            "@language": "de",
+            "@value": "Kaffee"
+        },
+        {
+            "@language": "de",
+            "@value": "Dessert"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "de",
+            "@value": "\nKristallzucker\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nwei\u00dfe Kuvert\u00fcre\n(kleine gehackt)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nMittlere Eier\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nButter\n(zerlassen)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nGelatine\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nKirschensaft\n(Kompott-Saft)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nMehl\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nSchlagobers\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nglattes Mehl\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nVanillezucker\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nZimtstange\n(halbes St\u00fcck)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nKakao\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nButter\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nSpeisest\u00e4rke\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nPistazien\n(gehackt)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nKirschen\n(frische oder Kompott-Kirschen)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nSchale von 1/2 Bio-Zitrone\n(abgerieben)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nmittleres Ei\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nStaubzucker\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\neingelegte Kirschen\n(Kompott-Kirschen)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nSchokor\u00f6llchen\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nWasser\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nKirschwasser\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nSchale von je einer 1/2 Bio-Orange und -Zitrone\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "de",
+        "@value": "\n\nSpringform (\u00d8 24 cm) mit Butter ausstreichen und mit Mehl ausstreuen. Rohr auf 190\u00b0C vorheizen.\n\n\n\n\nMehl und Kakao versieben. Eier mit Staubzucker, Salz, Vanillezucker und Zitronenschale schaumig r\u00fchren. Mehlmischung unterheben, zuletzt die Butter unterziehen. Masse in die Form f\u00fcllen, glatt verstreichen und im Rohr (untere Schiene / Gitterrost) ca. 20 Minuten backen. Herausnehmen und in der Form ausk\u00fchlen lassen.\n\n\n\nif(typeof adition !== 'undefined' && typeof displayAd !== 'undefined' && displayAd('Content_mobile')){\nadition.srq.push(function(api) {\napi.renderSlot('Content_mobile');\n})\n}\n\n\n\n\nOptanon.InsertScript('//a.teads.tv/page/80589/tag', 'teadsWrapper', null, null, 4);\n\n\n\n\n\n\nF\u00fcr die Kirschen-Einlage Gelatine einweichen. Kirschensaft und St\u00e4rke glatt r\u00fchren. Mit Zucker, Zimt und Zitrusschalen k\u00f6cheln, bis die Masse eindickt. Gelatine ausdr\u00fccken und in der Masse aufl\u00f6sen. Kirschen untermischen und die Masse ca. 1 Stunde k\u00fchlen.\n\n\n\n\nZutaten f\u00fcr die Tr\u00e4nke vermischen. Biskuit st\u00fcrzen und einmal durchschneiden. Einen Boden in die Form legen und mit Tr\u00e4nke betr\u00e4ufeln. Kirschenmasse in einen Dressiersack ohne T\u00fclle f\u00fcllen und 3 Ringe auf den Boden dressieren.\n\n\n\n\nF\u00fcr die Schokoladecreme Gelatine einweichen. 100 ml vom Obers aufkochen, vom Herd nehmen, Kuvert\u00fcre einr\u00fchren und aufl\u00f6sen. Gelatine ausdr\u00fccken und in der warmen Schokolade aufl\u00f6sen. Creme vom Herd nehmen.\n\n\n\nif(typeof adition !== 'undefined' ){\nadition.srq.push(function(api) {\napi.renderSlot('Content2_mobile');\n})\n}\n\n\n\n\n\n\nEi in einen Kessel geben, mit dem Schneebesen \u00fcber Wasserdampf schaumig schlagen und unter die Schokolade heben. Creme in kaltes Wasserbad stellen und unter R\u00fchren abk\u00fchlen lassen, Kirschwasser einr\u00fchren. \u00dcbriges Schlagobers schlagen und unterheben.\n\n\n\n\nCreme in die Form gie\u00dfen, glatt streichen, mit dem zweiten Tortenboden belegen und diesen mit Tr\u00e4nke betr\u00e4ufeln. Torte mit Frischhaltefolie zudecken und ca. 6 Stunden k\u00fchlen.\n\n\n\n\nF\u00fcr die Garnitur Obers cremig schlagen, Kirschwasser einr\u00fchren. Torte mit Kirschobers einstreichen, mit Kirschen, Pistazien und Schokor\u00f6llchen garnieren.\n\n"
+    },
+    "recipeYield": {
+        "@language": "de",
+        "@value": "12 St\u00fcck"
+    },
+    "@id": "http://example.org/recipe"
+}

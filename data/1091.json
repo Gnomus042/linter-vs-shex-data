@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en",
+        "@value": "A 15 minute recipe"
+    },
+    "image": {
+        "@id": "https://recipes-secure-graphics.grocerywebsite.com/0_GraphicsRecipes/3622_400.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Triple Cheese Bruschetta"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "Extra virgin olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "baguette bread, sliced into 1/4- inch rounds"
+        },
+        {
+            "@language": "en",
+            "@value": "(3 oz.) cream cheese, softened"
+        },
+        {
+            "@language": "en",
+            "@value": "grated Parmesan cheese"
+        },
+        {
+            "@language": "en",
+            "@value": "Chopped Fresh basil, about 1 ounce"
+        },
+        {
+            "@language": "en",
+            "@value": "medium tomatoes, diced"
+        },
+        {
+            "@language": "en",
+            "@value": "goat cheese or feta cheese"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Place baguette rounds on baking sheet.  Brush with olive oil and sprinkle with Parmesan.Place under broiler under edges begin to brown; remove from oven.Mix goat (feta) cheese and cream cheese; spread on baguette slices.  Mix tomato and basil and place a Tablespoon on each baguette. Serve."
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "8 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

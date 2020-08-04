@@ -1,0 +1,126 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Jennifer Strohmeyer"
+    },
+    "image": {
+        "@id": "http://purethyme.com/wp-content/uploads/2013/07/DSC_0059.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 (10) oz packages frozen cut spinach, thawed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (15) oz can no or low sodium garbanzo beans, drained and mashed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp flax seed meal"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 tbsp lemon juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup lemon juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp pure maple syrup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup onion, diced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Flaxseed Mixture:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 cup kalamata olives, chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "12 sheets phyllo dough"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp fresh oregano, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp nutritional yeast"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 cup tahini"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Black pepper, to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp fresh parsley, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 cloves garlic, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup green onions, chopped"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Vegan Spanakopita"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Appetizer, Entree"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Greek"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Bake in preheated oven for 30 to 40 minutes, or until golden brown. Cut into squares and serve while hot."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat oven to 350 degrees F (175 degrees C). Lightly spray a 9x9 inch square baking pan with cooking spray."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add the spinach and cook for 5 minutes, or until excess water has evaporated. While spinach is cooking, add remaining lemon juice, maple syrup and flaxseed meal to a small bowl. Stir to combine, set aside and allow to thicken. Add the remaining ingredients, except the phylllo dough, and cook an additional 5 minutes on medium to medium-low heat. Remove from heat and set aside. Allow to cool slightly."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place 1 sheet of phyllo dough on the bottom of the baking dish. Lightly brush sheet with the flaxseed mixture using a small pastry brush. Lay another sheet of phyllo dough on top, brush with flaxseed mixture, and repeat process with 4 more sheets of phyllo. Spread spinach mixture into pan, then layer remaining 6 sheets of phyllo dough, brushing each with flaxseed mixture."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Heat a non-stick skillet over medium heat. Add onion, green onion, garlic and two tablespoons water. Water saut\u00e9 on medium-low for 5 minutes, adding a tablespoon of water when necessary to prevent sticking, until onions are translucent."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

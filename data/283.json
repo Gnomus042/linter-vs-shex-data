@@ -1,0 +1,91 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "description": {
+            "@value": "\n        Maker of messes \u2022 Believer in faeries\n      "
+        },
+        "homeLocation": {
+            "@id": "_:N6f6462bbdbbb4e53b6b201b5c5154318"
+        },
+        "image": {
+            "@id": "https://snapguide.com/guides/make-a-g45-spellbinders-fairytale-stage///d1alt1wkdk73qo.cloudfront.net/images/profile/d895ac8b28ce4247a33f6f4640e0d697/100x100_ac.jpg"
+        },
+        "name": {
+            "@value": "\n        \n          Nichola Battilana\n        \n      "
+        },
+        "url": {
+            "@id": "https://snapguide.com/nichola-battilana/"
+        }
+    },
+    "description": {
+        "@value": "Make a pretty little shadow box for an altered art fairy with Graphic 45 and Spellbinders."
+    },
+    "image": [
+        {
+            "@value": "https://d1alt1wkdk73qo.cloudfront.net/images/guide/d06bca16e672278a818badb10b2f763d/478x640_ac.jpg"
+        },
+        {
+            "@id": "https://d1alt1wkdk73qo.cloudfront.net/images/guide/d06bca16e672278a818badb10b2f763d/478x640_ac.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "@value": "\n                   \n                                      Graphic 45 Sweet Sentiments > Heart Song\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Glitter\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Adhesive\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Graphic 45 Sweet Sentiments Heart Song\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Graphic 45 Precious Memories > Baby's Breath\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Small wooden block\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Vintage image from thegraphicsfairy.com\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Graphic 45 Precious Memories > Cutie Pie\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Flat back adhesive pearls\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Graphic 45 Precious Memories > Sugar and Spice\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Spellbinders Shapeabilities Bow Elegance S6-017\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Box template (link in guide)\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Spellbinders Nestabilities Fleur de Elegance S4475\u00a0\n                  \n                "
+        },
+        {
+            "@value": "\n                   \n                                      Petaloo Wild Blossoms and Botanica Petite\u2019s\u00a0\n                  \n                "
+        }
+    ],
+    "interactionCount": [
+        {
+            "@value": "UserLikes:94"
+        },
+        {
+            "@value": "UserPageVisits:11710"
+        }
+    ],
+    "name": {
+        "@value": "How to Make a G45 & Spellbinders Fairytale Stage"
+    },
+    "recipeInstructions": {
+        "@value": "1. Create a box using Core'dinations card stock and the template available at http://pixiehill.com/G45Spellbinder_BoxTemplate.pdf 2. Add a square of Precious Memories, Baby's Breath as the backdrop. 3. Nest Spellbinders dies S6-017 and S4-475 cut from Sugar and Spice. *Hint: a sheet of waxed paper between the die and the paper will help the paper to release from the die without tearing* 4. Cut the resulting piece like so. 5. Affix to the front of the box and trim the bottom edges. 6. Nest Spellbinders dies S4-475 cut from Cutie Pie 7. Be sure to keep all of your pieces. Cut the outside piece as shown. 8. Place the larger piece on the front, aligning the shapes. Tuck the smaller piece at the top behind the facade. I've used foam squares to add dimension. 9. Trim the centre shape from previous die cut piece to fit the 'floor' of the box. Cut additional decorative pieces for embellishments. 10. Apply to the bottom as shown. This will be the floor of your stage. 11. Add decorative bits, flat back pearls, and glitter. 12. Tuck pretty Petaloo blooms into the corners. 13. Print and fussy cut a pretty vintage image, add wings and glitter. For images, thegraphicsfairy.com is a great resource. 14. A small wooden block applied to the back of the box provides a sturdy base to affix your little fairy. 15. Add any other embellishments and pretty bits and bobs you like! 16. I've finished this piece off with butterflies from Graphic 45's Sweet Sentiments, Heart Song. Add whatever bits of whimsy you like! Finally, enjoy your bit of fairy magic :)"
+    },
+    "@id": "http://example.org/recipe"
+}

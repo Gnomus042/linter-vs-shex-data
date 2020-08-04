@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "http://www.foodreporter.fr/user/index/id/101024"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2019-05-06"
+    },
+    "image": {
+        "@id": "http://www.foodreporter.fr/upload/original/2/6/8/z/z/1272161.jpg"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Tarte pommes endives au camembert di latte di capra"
+    },
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n                        la recette en cliquant sur le lien:\nhttps://www.aprendresansfaim.com/2019/04/tarte-pommes-endives-au-camembert-di.html\n plats tartesal\u00e9es endives camembert pommes noix platprincipal recette\n                    "
+    },
+    "@id": "http://example.org/recipe"
+}

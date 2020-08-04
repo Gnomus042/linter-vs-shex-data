@@ -1,0 +1,26 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "vi",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "vi",
+            "@value": "13 "
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2017-02-09"
+    },
+    "image": {
+        "@id": "http://foodrockz.com/wp-content/uploads/2017/02/ca-hap-khe-2.jpg"
+    },
+    "name": {
+        "@language": "vi",
+        "@value": "C\u00e1 h\u1ea5p kh\u1ebf m\u00f3n ngon d\u00e2n d\u00e3 kh\u00f3 ch\u1ed1i t\u1eeb"
+    },
+    "@id": "http://example.org/recipe"
+}

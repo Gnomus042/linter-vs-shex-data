@@ -1,0 +1,100 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "47"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Amanda Hesser"
+    },
+    "image": {
+        "@id": "https://static01.nyt.com/images/2014/05/20/dining/Cornish-Game-Hens-Canzanese/Cornish-Game-Hens-Canzanese-articleLarge.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\n              Cornish Game Hens Canzanese\n        "
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bc\n                  \n                  \n                    pound thinly sliced lardo, pancetta or prosciutto, diced\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bd\n                  \n                  \n                    pound arugula\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    3\n                  \n                  \n                    sprigs rosemary\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    5\n                  \n                  \n                    cloves garlic, lightly crushed\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Freshly ground black pepper\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u2153\n                  \n                  \n                    cup fresh currants\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    2\n                  \n                  \n                    Cornish hens (1 *pounds each), quartered\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bd\n                  \n                  \n                    stick butter, cubed and kept cold\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Salt\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1 \u00bd\n                  \n                  \n                    ounces thinly sliced prosciutto di Parma, cut into thin strips\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Fleur de sel\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    3\n                  \n                  \n                    dried red chilis, broken\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    cup white wine\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Extra-virgin olive oil\n                  \n                "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                Season the hens with salt and pepper. Spread the lardo in the base of a large skillet set over medium heat. Add 2 of the garlic cloves, and cook, rendering the fat, until the lardo just begins to brown. Discard the garlic.\n                Increase heat to medium-high and add the hens, skin side down. Cook until skin is golden. Add 2 of the rosemary sprigs, the chilies and the remaining garlic. Turn the hens and add * cup of wine. Cover, lower the heat to medium-low and simmer for 6 minutes. Remove the breast pieces and let the legs simmer for another 5 minutes.\n                Meanwhile, make the salad: combine the prosciutto, arugula and currants in a bowl. Sprinkle with 1 tablespoon olive oil and toss to mix. Season with fleur de sel, and add more olive oil, if needed.\n                Remove the lid from the skillet and discard the rosemary. Return the breasts, skin side up to the skillet and pour in the remaining wine. Boil down the juices and baste the hen parts for 1 minute. Pull the pan off the heat, add the butter and swirl to incorporate it.\n                To serve, sprinkle the hens with rosemary leaves from the remaining sprig, spoon over a little sauce and accompany each piece with some salad.\n              "
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "Serves 4"
+    },
+    "@id": "http://example.org/recipe"
+}

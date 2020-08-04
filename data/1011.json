@@ -1,0 +1,113 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "3"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Girl Who Ate Everything"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "04/21/2012"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "01/30/2015"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Frozen bananas coated in yogurt, Cheerios, and sprinkles. A healthy and fun treat."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/33a7e31b-aa37-414b-b6ed-c8994bad37b5.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "cheerios frozen banana pops"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Cheerios Frozen Banana Pops"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H45M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Dessert"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    \n                \n            \n            \n                \n                    \n                        \n                    \n                    lollipop sticks or straws\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    \n                \n            \n            \n                \n                    \n                        \n                    \n                    Whipped cream for garnish\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup Cheerios\u2122 cereal\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup rainbow sprinkles\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    (6 ounce) container Yoplait\u00ae Original plain yogurt (any flavor)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    large bananas, cut into two inch slices\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N2398cd236fa64f639738c9b3c79425f1"
+        },
+        {
+            "@id": "_:N44cbbdb72c564d67b0416896627a8fd4"
+        },
+        {
+            "@id": "_:N3583462293e644ba82dd46c0ea81efd9"
+        },
+        {
+            "@id": "_:N9a8188666a774be9bd7196ec5273b620"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "6"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT1H0M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,49 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "nb-NO",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "nb-NO",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "nb-NO",
+            "@value": "Null"
+        }
+    },
+    "datePublished": {
+        "@language": "nb-NO",
+        "@value": "2016-06-23 10:09:15"
+    },
+    "ingredients": [
+        {
+            "@language": "nb-NO",
+            "@value": "2 dl melk"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "200 g frysepose med papaya, mango og ananas"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "+ vann til riktig konsistens"
+        },
+        {
+            "@language": "nb-NO",
+            "@value": "25 g jordb\u00e6rprotein (best p\u00e5 smak)"
+        }
+    ],
+    "name": {
+        "@language": "nb-NO",
+        "@value": "Papaya- og mangomilkshake"
+    },
+    "recipeInstructions": {
+        "@language": "nb-NO",
+        "@value": "\t\t\t\tKj\u00f8r alt sammen i en blender og nyt iskald umiddelbart \ud83d\ude42\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

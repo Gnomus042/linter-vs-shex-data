@@ -1,0 +1,46 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "fr",
+        "@value": "//recette.supertoinette.com/141267/m/pate-a-l-huile-d-olive.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr",
+            "@value": "\n                                            70 g\n                                                    d'eau\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            500 g\n                                                    de farine\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            3 g\n                                                    de sel\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            100 g\n                                                    d'oeufs\n                                                            "
+        },
+        {
+            "@language": "fr",
+            "@value": "\n                                            200 g\n                                                    d'huile d'olive\n                                                            "
+        }
+    ],
+    "name": {
+        "@language": "fr",
+        "@value": "P\u00e2te \u00e0 l'huile d'olive"
+    },
+    "recipeYield": {
+        "@language": "fr",
+        "@value": "8 personnes"
+    },
+    "totalTime": {
+        "@language": "fr",
+        "@value": "10 min"
+    },
+    "url": {
+        "@language": "fr",
+        "@value": "https://www.supertoinette.com/recette/3133/pate-a-l-huile-d-olive.html"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,127 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "21"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Martha Rose Shulman"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT15M"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n                The drought that much of the nation is experiencing this summer is expected to affect the price of milk and meat because of the feed corn that these commodities rely on. But interestingly, according to Bloomberg Businessweek, shoppers are not likely to see higher prices for corn on the cob because sweet corn is not as vulnerable to drought conditions. Corn on the cob that is sold in supermarkets is an irrigated crop, like other vegetables and fruits grown on large farms. However, smaller farms that sell their produce at farmers\u2019 markets in drought-stricken areas are having a difficult time with their yields, so you may see a spike in prices there. The season for good, fresh sweet corn is such a short one that I will pay the price for it, just as I\u2019ll spend money on heirloom tomatoes.\n                  \n      Featured in: \n      Sweet, Creamy Corn.\u00a0\n   \n\n\n\n              "
+    },
+    "image": {
+        "@id": "https://static01.nyt.com/images/2012/08/21/science/20recipehealth/20recipehealth-articleLarge-v2.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\n              Arugula, Corn and Herb Salad\n        "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "141"
+        },
+        "carbohydrateContent": {
+            "@language": "en-US",
+            "@value": "9 grams"
+        },
+        "cholesterolContent": {
+            "@language": "en-US",
+            "@value": "3 milligrams"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "10 grams"
+        },
+        "fiberContent": {
+            "@language": "en-US",
+            "@value": "2 grams"
+        },
+        "proteinContent": {
+            "@language": "en-US",
+            "@value": "3 grams"
+        },
+        "saturatedFatContent": {
+            "@language": "en-US",
+            "@value": "2 grams"
+        },
+        "sodiumContent": {
+            "@language": "en-US",
+            "@value": "264 milligrams"
+        },
+        "transFatContent": {
+            "@language": "en-US",
+            "@value": "0 grams"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    teaspoon balsamic vinegar\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bc\n                  \n                  \n                    cup extra virgin olive oil\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    ounce shaved Parmesan\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    tablespoon sherry vinegar\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Salt and freshly ground pepper\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    2\n                  \n                  \n                    medium-size ripe tomatoes, cut in wedges\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    small garlic clove, pur\u00e9ed (optional)\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bd\n                  \n                  \n                    teaspoon Dijon mustard\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    large ear of corn\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    2\n                  \n                  \n                    tablespoons chopped or slivered fresh herbs, like basil, tarragon, chives, parsley, marjoram\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    6\n                  \n                  \n                    ounces baby arugula, washed and spun dry\n                  \n                "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                Steam the corn until tender, 4 to 5 minutes. When it is cool enough to handle, cut the kernels from the cobs.\n                Combine the corn, arugula, herbs and Parmesan in a salad bowl. In a small bowl or measuring cup, whisk together the sherry vinegar, balsamic vinegar, Dijon mustard, garlic, salt, pepper and olive oil.\n                Just before serving, toss the salad with the dressing. Garnish with the tomato wedges and serve.\n              "
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 to 6 servings."
+    },
+    "@id": "http://example.org/recipe"
+}

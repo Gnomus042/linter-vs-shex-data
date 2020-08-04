@@ -1,0 +1,127 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Betsy Cohen"
+    },
+    "image": {
+        "@id": "https://www.dessertsrequired.com/wp-content/uploads/2016/01/Smore-Poutine-vertical-2.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "8 ounces semisweet chocolate chips"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup (8.00 ounces) mascarpone cheese"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 teaspoons light brown sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tablespoons confectioners sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd cups (2.50 ounces) marshmallows"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 russet Idaho\u00ae potatoes, 2 pounds total"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Mini marshmallows for topping, optional"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6\u00bd tablespoons unsalted butter, divided"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup plus 2 tablespoons (9.00 ounces) heavy whipping cream, divided"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc teaspoon ground cinnamon"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "S\u2019more Poutine"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "snack, dessert"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Peel the potatoes and slice them \u215c\" thick using either a mandoline or a knife. Transfer the potatoes to a large bowl."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Melt 4 tablespoons butter. Stir the brown sugar and cinnamon into it. Toss the potatoes with the butter."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place the potatoe slices on a baking sheet. Do not overlap the slices."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat the oven to 400\u00ba."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place 1 cup of whipping cream and 2\u00bd tablespoons butter into a small saucepan. Bring to a simmer. Remove from the heat and add the chocolate chips. Allow them to sit for a few minutes. Stir until smooth."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place the potatoes on a large plate, overlapping but not stacking them."
+        },
+        {
+            "@language": "en-US",
+            "@value": "For the cheese topping:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place the mascarpone, marshmallows and 2 tablespoons cream into a medium size saucepan. Cook over medium heat until the mixture is smooth, stirring constantly. Remove from the heat and add in the confectioners sugar."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Sprinkle mini marshmallows on top and serve."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Bake at 400\u00ba until the potatoes are cooked through and beginning to brown, about 15 minutes. Cool completely."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Alternatively, you may make individual S'more Poutine by layering each potato with a drizzle of chocolate ganache topped with a drizzle of cheese topping and a mini marshmallow."
+        },
+        {
+            "@language": "en-US",
+            "@value": "For the chocolate ganache:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "For the potatoes:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Drizzle the chocolate ganache over the potatoes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Drizzle the cheese topping over the ganache."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

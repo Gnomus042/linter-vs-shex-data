@@ -1,0 +1,177 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "12"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4.5"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "happyzhangbo @ recipeland"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT0H0M"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "2019-08-23"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2010-06-02"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\tThis is a very tasty and refreshing salad, and it was so quick and easy to make, liked the sweetness and sourness from apple juice and cider vinegar, which just right balanced. Crunchy apple and fennel give the salad great texture and flavor, mixing in the peppery arugula, a simply delicious salad recipe that fits every occasion.\n\t\t\t"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://c.recipeland.com/images/r/3002/5ba337206edb28a3e25d_300.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "honey"
+        },
+        {
+            "@language": "en",
+            "@value": "olive oil, extra-virgin"
+        },
+        {
+            "@language": "en",
+            "@value": "fennel bulb"
+        },
+        {
+            "@language": "en",
+            "@value": "apple juice"
+        },
+        {
+            "@language": "en",
+            "@value": "Granny Smith apples"
+        },
+        {
+            "@language": "en",
+            "@value": "pecans"
+        },
+        {
+            "@language": "en",
+            "@value": "apple cider vinegar"
+        },
+        {
+            "@language": "en",
+            "@value": "arugula (roquette)"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Apple and Fennel Salad with Cider Vinaigrette"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "116"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "5.64"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "11"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "52 grams"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "2"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H10M"
+    },
+    "recipeCategory": [
+        {
+            "@id": "https://recipeland.com/recipe/v/apple-fennel-salad-cider-vinaig-50481//recipes/for/vegetarian_19"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/apple-fennel-salad-cider-vinaig-50481//recipes/for/apples_110"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/apple-fennel-salad-cider-vinaig-50481//recipes/for/low-fat_7"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/apple-fennel-salad-cider-vinaig-50481//recipes/for/low-calorie_5"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/apple-fennel-salad-cider-vinaig-50481//recipes/for/salad_24"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/apple-fennel-salad-cider-vinaig-50481//recipes/for/quick-and-easy_135"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/apple-fennel-salad-cider-vinaig-50481//recipes/for/vegetables_6"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/apple-fennel-salad-cider-vinaig-50481//recipes/for/easy_130"
+        },
+        {
+            "@id": "https://recipeland.com/recipe/v/apple-fennel-salad-cider-vinaig-50481//recipes/for/side-dish_9"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\nWhisk first apple juice, olive oil, apple cider vinegar and honey in a medium bowl to blend, season dressing with salt and pepper.\n\nCombine apple, fennel and arugula in a large bowl. \n\nToss with reasonable amount of dressing to coat. \n\nArrange salad on 4 plates, sprinkle with toasted pecans.\n"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT0H15M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,43 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ru",
+            "@value": "100"
+        },
+        "ratingCount": {
+            "@language": "ru",
+            "@value": "957"
+        },
+        "ratingValue": {
+            "@language": "ru",
+            "@value": "85"
+        }
+    },
+    "author": {
+        "@language": "ru",
+        "@value": "\u0412\u043e\u0434\u044f\u043d\u043e\u0439 \u041f\u043e\u043b\u043e\u0442\u0435\u043d\u0446\u0435\u0441\u0443\u0448\u0438\u0442\u0435\u043b\u044c"
+    },
+    "description": {
+        "@language": "ru",
+        "@value": "\u041f\u043e\u043b\u043e\u0442\u0435\u043d\u0446\u0435\u0441\u0443\u0448\u0438\u0442\u0435\u043b\u044c \u0413\u0440\u043e\u0442\u0430 EcoClassik 48/90, \u0448\u0442"
+    },
+    "image": {
+        "@language": "ru",
+        "@value": "https://lagidnoque.ru/wp-content/88115.jpg"
+    },
+    "ingredients": {
+        "@language": "ru",
+        "@value": "781088115"
+    },
+    "keywords": {
+        "@language": "ru",
+        "@value": "\u0412\u043e\u0434\u044f\u043d\u043e\u0439 \u041f\u043e\u043b\u043e\u0442\u0435\u043d\u0446\u0435\u0441\u0443\u0448\u0438\u0442\u0435\u043b\u044c Rej Design Bamboo,\u0412\u043e\u0434\u044f\u043d\u043e\u0439 \u041f\u043e\u043b\u043e\u0442\u0435\u043d\u0446\u0435\u0441\u0443\u0448\u0438\u0442\u0435\u043b\u044c"
+    },
+    "name": {
+        "@language": "ru",
+        "@value": "\u0412\u043e\u0434\u044f\u043d\u043e\u0439 \u041f\u043e\u043b\u043e\u0442\u0435\u043d\u0446\u0435\u0441\u0443\u0448\u0438\u0442\u0435\u043b\u044c Grota Ecoclassik 48/90"
+    },
+    "@id": "http://example.org/recipe"
+}

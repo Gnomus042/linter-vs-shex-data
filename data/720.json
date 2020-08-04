@@ -1,0 +1,62 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "nl",
+        "@value": "Brenda Kookt!"
+    },
+    "cookingMethod": {
+        "@language": "nl",
+        "@value": "Koelen"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Toetjes, ik ben er gek op! En als ze ook nog eens heel lekker zijn en snel en ook nog eens snel en makkelijk te maken dan is het helemaal top! Zo ook deze citroen cheesecake toetjes in kleine glaasjes. Yum! Super makkelijk en heel goed voor te bereiden. Dat laatste moet sowieso, want deze toetjes hebben zo'n uur nodig om volledig op te stijven. Heerlijk fris en erg gemakkelijk om te maken. Enjoy!"
+    },
+    "image": {
+        "@language": "nl",
+        "@value": "Null"
+    },
+    "ingredients": [
+        {
+            "@id": "http://www.foody.nl/recepten/citroen-cheesecake-in-een-glaasje-9533.html//ingredienten/kaas/roomkaas.html"
+        },
+        {
+            "@language": "nl",
+            "@value": "Eventueel extra slagroom ter garnering"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/citroen-cheesecake-in-een-glaasje-9533.html//ingredienten/smaakmaker/citroenrasp.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/citroen-cheesecake-in-een-glaasje-9533.html//ingredienten/koek-snoep-en-gebak/biscuitje.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/citroen-cheesecake-in-een-glaasje-9533.html//ingredienten/zuivel-en-zuivelvervangers/slagroom.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/citroen-cheesecake-in-een-glaasje-9533.html//ingredienten/sauzen-en-dressings/lemon-curd.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/citroen-cheesecake-in-een-glaasje-9533.html//ingredienten/smaakmaker/vanillesuiker.html"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Citroen cheesecake in een glaasje"
+    },
+    "recipeCategory": [
+        {
+            "@language": "nl",
+            "@value": "Toetjes"
+        },
+        {
+            "@language": "nl",
+            "@value": "Dessert"
+        }
+    ],
+    "recipeYield": {
+        "@language": "nl",
+        "@value": "6 personen"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,40 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "From Nicole Forbes, Dennis' 7 Dees"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2012-08-21"
+    },
+    "ingredients": [
+        {
+            "@value": "2 cups water"
+        },
+        {
+            "@value": "1/2 cup lightly packed fresh lemon verbena leaves (about 10 to 15 leaves; you can substitute lemon balm)"
+        },
+        {
+            "@value": "1/2 cup lightly packed fresh mint leaves (woody stems removed; about 20 leaves)"
+        }
+    ],
+    "name": {
+        "@value": "Lemon Verbena Mint Tea"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "servingSize": {
+            "@value": "Makes 2 cups"
+        }
+    },
+    "recipeInstructions": {
+        "@value": "\n              Bring a pot of fresh water almost, but not quite, to a boil. Put mint and verbena leaves in a teapot. Pour 2 cups of the water over leaves. Let steep for 3 to 5 minutes, then strain into teacups.\n\n            "
+    },
+    "url": {
+        "@value": "http://recipes.oregonlive.com/recipes/lemon-verbena-mint-tea"
+    },
+    "@id": "http://example.org/recipe"
+}

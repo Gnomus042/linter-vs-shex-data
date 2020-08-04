@@ -1,0 +1,112 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "50"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Little Spice Jar"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT1H10M"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "My take on a hearty New Orleans Gumbo with shrimp and sausage! I\u2019m making the roux from scratch so it\u2019s extra flavorful! This recipe is perfect to make on the weekend and enjoy all week long as the flavor gets BETTER with time! I highly suggest reading the post once all the way through before starting the recipe. I provide lots of tips to get the perfect roux color which will help make this process much easier."
+    },
+    "image": {
+        "@id": "https://littlespicejar.com/wp-content/uploads/2016/07/New-Orleans-Gumbo-with-Shrimp-and-Sausage-4-300x420.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 (14.5 ounce can) stewed tomatoes and juices, roughly diced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6 cloves garlic, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup all purpose flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8 ounces andouille sausage, sliced (I used Tofurky)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 medium onion, diced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 teaspoons gumbo fil\u00e9"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon cayenne (omit if you want it mild)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "sliced scallions + white rice or quinoa, for serving"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 bay leaves"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 stalks celery, diced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons EACH: cajun seasoning AND tabasco sauce (more or less to taste)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 cups low sodium chicken broth"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 \u00bd pounds raw shrimp"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 bell peppers (I used \u00bd of each red, green, yellow, orange \u2013 see note), diced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup high heat oil, such as canola, corn, or vegetable"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "New Orleans Gumbo with Shrimp and Sausage"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT20M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "ROUX:Heat the oil in a large dutch oven or a heavy bottom pot over medium-high heat. Whisk in the flour until combined and smooth. Switch to a wooden spoon and continuously stir for 15-22 minutes or until the roux darkens to just past a deep peanut butter color. Do not let the roux burn! (if you smell it burning, you will need to throw is out, clean the pot, and start over, unfortunately there\u2019s just no saving burnt roux!)Once the roux reaches that deep rich brown color, stir in the onions, bell peppers, and celery and continue to cook, stirring as needed so the vegetables don\u2019t stick. About 8-10 minutes or until the veggies soften. Add the garlic, andouille sausage (if using tofurky, do not add yet), and bay leaves. Continue to cook for an additional 1-2 minutes until the garlic is nice and fragrant.Add the cajun seasoning, tabasco sauce, and cayenne along with the chicken broth and stewed tomatoes and bring to a high simmer before lowering the heat to medium-low, covering and simmering for 15-20 minutes.IF USING TOFURKY: Add a teaspoon of oil to a skillet over medium high heat. Add the slices and cook for a quick 90 seconds (turning half way) just to sear the outside before adding to the gumbo.Add the shrimp and tofurky (if using) to the gumbo, give it a stir and allow to continue to simmer for an additional 10-15 minutes or until the shrimp is opaque and the veggies have softened. Taste and season with salt and pepper as desired. Add the gumbo fil\u00e9 and stir. Remove bay leaves before serving.TO SERVE:Serve warm with white rice or quinoa with sliced scallions on top.\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "8-10 servings"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "PT1H30M"
+    },
+    "@id": "http://example.org/recipe"
+}

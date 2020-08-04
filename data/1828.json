@@ -1,0 +1,22 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@value": "784"
+        },
+        "ratingValue": {
+            "@value": "7"
+        }
+    },
+    "image": {
+        "@id": "http://image.khaigiang.vn/school/topic/quan-tri-mang-mcsa/thumbnail/70x70/092722mcsa.jpg"
+    },
+    "name": {
+        "@value": "\u0110\u00e0o T\u1ea1o Qu\u1ea3n Tr\u1ecb M\u1ea1ng MCSA"
+    },
+    "@id": "http://example.org/recipe"
+}

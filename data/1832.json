@@ -1,0 +1,15 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Yakuta"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "03-12-2007"
+    },
+    "image": {
+        "@id": "http://www.discusscooking.com/forums/../attachments/customavatars/avatar1618_1.gif"
+    },
+    "@id": "http://example.org/recipe"
+}

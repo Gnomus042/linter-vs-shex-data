@@ -1,0 +1,69 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "worstRating": {
+            "@language": "en-US",
+            "@value": "1"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "10 minutes"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 cup water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup fresh lime juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 cup ice cubes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 medium pineapple, peeled, cored and chopped"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Pineapple\u2013Lime Agua Fresca"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "10 minutes"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\nFor the simple syrup, in a small saucepan combine sugar and 1 cup water over high heat; bring to boiling. Cook until sugar dissolves. Remove from heat; let cool completely.\nIn a blender combine 1/4 cup of the simple syrup, plus pineapple, lime juice, water and ice cubes. (Reserve remaining simple syrup for other uses.) Blend at high speed until smooth. Pour into chilled glasses, and serve.\n\nPer serving: 110 calories, 0g fat, 0g saturated fat, 0mg cholesterol, 2mg sodium, 29g carbohydrate, 2g fiber, 1g protein\n*cooling time extra\n\u00a0\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "Serves 6"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "PT20M"
+    },
+    "@id": "http://example.org/recipe"
+}

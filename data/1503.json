@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "ru-RU",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "ru-RU",
+            "@value": "2 "
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2019-04-21"
+    },
+    "description": {
+        "@language": "ru-RU",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://syroedenie.ru/wp-content/uploads/2019/04/Syroedcheskaya-CHernichno-Bazilikovaya-Zapravka-03.jpg"
+    },
+    "name": {
+        "@language": "ru-RU",
+        "@value": "\u0421\u044b\u0440\u043e\u0435\u0434\u0447\u0435\u0441\u043a\u0430\u044f \u0427\u0435\u0440\u043d\u0438\u0447\u043d\u043e-\u0411\u0430\u0437\u0438\u043b\u0438\u043a\u043e\u0432\u0430\u044f \u0417\u0430\u043f\u0440\u0430\u0432\u043a\u0430"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ru-RU",
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@language": "ru-RU",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "fi",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "fi",
+            "@value": "3.5"
+        }
+    },
+    "description": {
+        "@language": "fi",
+        "@value": "T\u00e4m\u00e4 herkullinen suklaakakku maistuu gl\u00f6gilt\u00e4, joka tuo kakkuun ihanaa joulun makua."
+    },
+    "image": {
+        "@id": "https://cdn-rdb.arla.com/Files/arla-fi/3817786207/41a18303-2c72-4e7b-b9e9-440570b6a086.jpg?crop=(0,35,0,-83)&w=1680&h=750&scale=both&ak=814e15de&hm=c85faaad"
+    },
+    "name": {
+        "@language": "fi",
+        "@value": "Jouluinen gl\u00f6gitorttu"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fi",
+            "@value": "\n2 dl jauhoja\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n4 kananmunaa\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\ntomusokeria\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                3 dl Arla Laktoositonta vispikermaa\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n2\u00bd dl sokeria\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n3 rkl gl\u00f6gi\u00e4\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n200 g tummaa suklaata\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                200 g Arla Meijerivoita laktoositonta\n\n                \n        "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

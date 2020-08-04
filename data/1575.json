@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Lisa Turner"
+    },
+    "datePublished": {
+        "@value": "2009-02-27"
+    },
+    "description": {
+        "@value": "Simple, warm and spicy cabbage cooked south Indian style"
+    },
+    "image": {
+        "@id": "https://2.bp.blogspot.com/-auQltAFYjsQ/Sag5hxrEmtI/AAAAAAAAEh8/JZ_8xgWILgU/s100/cabbage.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1 dried whole red chili"
+        },
+        {
+            "@value": "1 lb (450 g or 4 cups) green cabbage, finely chopped"
+        },
+        {
+            "@value": "small handful of fresh or dried curry leaves"
+        },
+        {
+            "@value": "1/2 cup green peas, fresh or frozen and defrosted"
+        },
+        {
+            "@value": "1 teaspoon chana dal or yellow split peas"
+        },
+        {
+            "@value": "1 teaspoon cumin seeds"
+        },
+        {
+            "@value": "2 tablespoons water"
+        },
+        {
+            "@value": "1/2 teaspoon asafetida"
+        },
+        {
+            "@value": "2 tablespoons unsweetened dried shredded coconut"
+        },
+        {
+            "@value": "1 teaspoon urad dal"
+        },
+        {
+            "@value": "2 teaspoons olive oil"
+        },
+        {
+            "@value": "1/2 teaspoon sea salt, or to taste"
+        },
+        {
+            "@value": "1 teaspoon brown mustard seeds"
+        },
+        {
+            "@value": "2 fresh green chilies, slit down the side lengthwise"
+        }
+    ],
+    "name": {
+        "@value": "Cabbage Poriyal"
+    },
+    "recipeCuisine": {
+        "@value": "South Indian"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "As soon as the mustard seeds begin to pop, less than a minute and as little as a few seconds, add the green chilis and stir for a few seconds.  Now stir in the cabbage, green peas and water.  Turn down the heat to low, cover, and cook until the cabbage is warmed and just slightly tender, about 10 minutes."
+        },
+        {
+            "@value": "Thoroughly rinse the urad dal and chana dal under running water in a fine-meshed strainer and set aside to drain."
+        },
+        {
+            "@value": "Remove from heat, add the coconut and salt, and mix thoroughly.  Serve hot or warm."
+        },
+        {
+            "@value": "Heat a large saucepan or wok over medium-high heat.  When hot, add the olive oil, wait a few moments, then swirl around to coat the pan.  Toss in the dals, brown mustard seeds, cumin seeds, dried red chili, asafetida and curry leaves."
+        }
+    ],
+    "recipeYield": {
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

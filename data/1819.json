@@ -1,0 +1,16 @@
+{
+    "@type": "Recipe",
+    "bestRating": {
+        "@value": "5"
+    },
+    "image": {
+        "@id": "https://www.ricettedalmondo.it/come-sostituire-il-burro.html//images/foto-ricette/29209-come-sostituire-il-burro.jpg"
+    },
+    "name": {
+        "@value": "Come sostituire il burro"
+    },
+    "worstRating": {
+        "@value": "1"
+    },
+    "@id": "http://example.org/recipe"
+}

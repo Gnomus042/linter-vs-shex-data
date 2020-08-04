@@ -1,0 +1,130 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "hu",
+        "@value": "PT1H20M"
+    },
+    "description": {
+        "@language": "hu",
+        "@value": "\n\t\tAz eg\u00e9sz napi szabadban v\u00e9gzett munk\u00e1hoz kellett az energia. Megmutatjuk, hogy hogyan is k\u00e9sz\u00fcl egy igazi, tartalmas kem\u00e9nylebbencs, \u00fagy emberesen! Ha a Tanya Cs\u00e1rd\u00e1ban j\u00e1runk, \u00e9rdemes megk\u00f3stolni!\t"
+    },
+    "image": {
+        "@id": "http://laptopkonyha.hu/data/documents/images/large/1/2/3/123f384119faa9e8847d74f270d3ad63.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "hu",
+            "@value": "   \u0151r\u00f6lt k\u00f6m\u00e9ny "
+        },
+        {
+            "@language": "hu",
+            "@value": "   \u00e1tt\u00f6rt fokhagymagerezd "
+        },
+        {
+            "@language": "hu",
+            "@value": "   \u0151r\u00f6lt bors "
+        },
+        {
+            "@language": "hu",
+            "@value": " 5 dkg f\u00fcst\u00f6lt szalonna mangalica"
+        },
+        {
+            "@language": "hu",
+            "@value": " 10 dkg h\u00fasos f\u00fcst\u00f6lt szalonna "
+        },
+        {
+            "@language": "hu",
+            "@value": " 2 dkg cs\u00edp\u0151s paprika piros \u00e9s z\u00f6ld, eg\u00e9szben"
+        },
+        {
+            "@language": "hu",
+            "@value": " 1 csokor zellerz\u00f6ld "
+        },
+        {
+            "@language": "hu",
+            "@value": " 5 dkg zs\u00edr "
+        },
+        {
+            "@language": "hu",
+            "@value": "   f\u00fcst\u00f6lt kolb\u00e1sz "
+        },
+        {
+            "@language": "hu",
+            "@value": " 1 csokor petrezselyemz\u00f6ld "
+        },
+        {
+            "@language": "hu",
+            "@value": "   \u00e9des f\u0171szerpaprika "
+        },
+        {
+            "@language": "hu",
+            "@value": "   f\u00fcst\u00f6lt l\u00e9 "
+        },
+        {
+            "@language": "hu",
+            "@value": " 10 dkg paprika "
+        },
+        {
+            "@language": "hu",
+            "@value": " 50 dkg burgonya "
+        },
+        {
+            "@language": "hu",
+            "@value": " 5 dkg hagyma "
+        },
+        {
+            "@language": "hu",
+            "@value": "   s\u00f3 "
+        },
+        {
+            "@language": "hu",
+            "@value": " 10 dkg paradicsom "
+        },
+        {
+            "@language": "hu",
+            "@value": " 30 dkg lebbencs t\u00e9szta vagy kockat\u00e9szta vagy h\u00e1zi t\u00e9pett t\u00e9szta"
+        }
+    ],
+    "name": {
+        "@language": "hu",
+        "@value": "\n\t\t\tKolb\u00e1szos cs\u00fclk\u00f6s kem\u00e9nylebbencs bogr\u00e1csban (Lajosmizs\u00e9n a Tanya Cs\u00e1rd\u00e1ban)"
+    },
+    "recipeInstructions": {
+        "@language": "hu",
+        "@value": "\n\tA mangalica szalonn\u00e1t felkock\u00e1zzuk, kiolvasztjuk, kis\u00fctj\u00fck benne a felcs\u00edkozott h\u00fasos szalonn\u00e1t \u00e9s megpir\u00edtjuk rajta a h\u00e1zi t\u00e9pett t\u00e9szt\u00e1t. Hozz\u00e1adjuk a finomra v\u00e1gott v\u00f6r\u00f6shagym\u00e1t, pir\u00edtjuk egy kicsit. Tesz\u00fcnk bele fokhagym\u00e1t, tov\u00e1bb pir\u00edtjuk, majd a f\u0171szerpaprik\u00e1val megsz\u00f3rjuk. Kev\u00e9s f\u00fcst\u00f6lt l\u00e9t adunk hozz\u00e1. Beletessz\u00fck a felapr\u00edtott z\u00f6lds\u00e9get, felkarik\u00e1zott kolb\u00e1szt, a felkock\u00e1zott burgony\u00e1t, a petrezselyem \u00e9s zellerz\u00f6ldet \u00f6sszev\u00e1gva. Mindezt \u00f6sszekeverj\u00fck \u00e9s fel\u00f6ntj\u00fck v\u00edzzel \u00fagy, hogy ellepje a hozz\u00e1val\u00f3kat. Ha kev\u00e9s a f\u00fcst\u00f6lt l\u00e9, m\u00e9g vizet adhatunk hozz\u00e1. Ezt k\u00f6vet\u0151en gazdagon f\u0171szerezz\u00fck \u00e9s k\u00e9szre f\u0151zz\u00fck. Ha nem lenne el\u00e9g s\u00f3s a f\u00fcst\u00f6lt l\u00e9t\u0151l, ut\u00e1ns\u00f3zzuk.\n"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "author": {
+            "@id": "_:Ne8fa1b2e41ac42c7822092c638477427"
+        },
+        "copyrightHolder": {
+            "@id": "_:Nd410db8958ab497f83249ed239fb883a"
+        },
+        "height": {
+            "@language": "hu",
+            "@value": "360"
+        },
+        "isFamilyFriendly": {
+            "@language": "hu",
+            "@value": "True"
+        },
+        "name": {
+            "@language": "hu",
+            "@value": "Kolb\u00e1szos cs\u00fclk\u00f6s kem\u00e9nylebbencs bogr\u00e1csban (Lajosmizs\u00e9n a Tanya Cs\u00e1rd\u00e1ban)"
+        },
+        "thumbnailUrl": {
+            "@language": "hu",
+            "@value": "http://laptopkonyha.hu/data/documents/images/large/1/2/3/123f384119faa9e8847d74f270d3ad63.jpg"
+        },
+        "videoQuality": {
+            "@language": "hu",
+            "@value": "SD"
+        },
+        "width": {
+            "@language": "hu",
+            "@value": "640"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

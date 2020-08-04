@@ -1,0 +1,61 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://ei.isnooth.com/multimedia/4/a/3/image_24383.jpeg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "Silver and white edible glitter"
+        },
+        {
+            "@language": "en",
+            "@value": "1 (12-ounce) package white chocolate morsels, divided"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd teaspoon vanilla extract"
+        },
+        {
+            "@language": "en",
+            "@value": "Sparkling white sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1 vanilla bean"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bc teaspoon salt"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00be cup sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "2 \u00bc cups all-purpose flour"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00be cup butter, softened"
+        },
+        {
+            "@language": "en",
+            "@value": "Shortening"
+        },
+        {
+            "@language": "en",
+            "@value": "1 large egg, lightly beaten"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Vanilla Bean Sugar Cookies"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Cut vanilla bean in half lengthwise. Carefully scrape out seeds, using a small sharp knife. Set seeds aside. Beat butter in a large mixing bowl at medium speed of an electric mixer until creamy. Gradually add sugar and vanilla bean seeds, beating until light and fluffy. Add egg and vanilla extrac..."
+    },
+    "@id": "http://example.org/recipe"
+}

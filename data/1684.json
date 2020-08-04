@@ -1,0 +1,51 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Skye Gyngell"
+    },
+    "description": {
+        "@value": "This combination of textures and flavours works beautifully and makes for a lovely simple starter. At the restaurant we serve it on individual plates but you could just as well arrange it nicely on one large plate in the centre of the table for everyone to help themselves."
+    },
+    "image": {
+        "@id": "https://www.cooked.com.au/Skye-Gyngell/Quadrille-Publishing/Spring/Starters/Crab-with-cr%C3%A8me-fra%C3%AEche-and-roe-recipe///cdn.cooked.com.au/-/media/cooked/mediabucket/2015/07/15/13/10/5565ebfe8565b_s_crab_with_crme_frache_and_roe_1.ashx?w=1066"
+    },
+    "ingredients": [
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tsea salt\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tfreshly ground black pepper\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t360g\n\t\t\t\t\t\t\t\t\t\tfreshly prepared white crab meat\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t100g\n\t\t\t\t\t\t\t\t\t\tlumpfish roe\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t180ml\n\t\t\t\t\t\t\t\t\t\tcreme fraiche\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRye crackers, to serve\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t2 1/2-3 tablespoons\n\t\t\t\t\t\t\t\t\t\tmild-tasting extra virgin olive oil\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1/2\n\t\t\t\t\t\t\t\t\t\tlemon, juiced, or to taste\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t a handful\n\t\t\t\t\t\t\t\t\t\tmixed herb leaves, such as chervil, purslane and mint, and/or rocket leaves\n\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "name": {
+        "@value": "Crab with cr\u00e8me fra\u00eeche and roe"
+    },
+    "recipeInstructions": {
+        "@value": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tPreheat the oven to its lowest setting and warm the rye crackers gently on a tray in the oven while you prepare the other ingredients.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tPick over the crab meat to remove any fragments of shell, then place in a bowl and season very sparingly with salt and just a little black pepper. Add about 1\u00bd tbsp olive oil and a few drops of lemon juice. Toss together very lightly but thoroughly with your fingertips.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tIn a separate bowl, dress the leaves with the remaining olive oil and lemon juice to taste. Season with salt and pepper and toss gently to coat.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDivide the crab meat among the plates and arrange the dressed leaves alongside. Spoon the cr\u00e8me fra\u00eeche on top of the crab and finish with the roe. Serve the warmed rye crackers on the side.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

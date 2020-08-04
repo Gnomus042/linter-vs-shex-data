@@ -1,0 +1,142 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "9"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "Holly Jade"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Bursting with flavour & texture, these rich and divine cherry and nut brownies are fluffy and light, whilst being wholesome & filling. Easy to make, they are also dairy-free, wheat-free, gluten-free, egg-free and yeast-free."
+    },
+    "image": {
+        "@id": "https://www.avogel.co.uk/food/recipes/cherry-nut-chocolate-brownies-vegan-gluten-free//images/Cherry--Nut-Chocolate-Brownies.png"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Cherry & Nut Chocolate Brownies (Vegan & GF)"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "Flaked almonds (optional)"
+        },
+        {
+            "@language": "en",
+            "@value": "Red currents (optional)"
+        },
+        {
+            "@language": "en",
+            "@value": "Pinch of salt"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp of vanilla essence"
+        },
+        {
+            "@language": "en",
+            "@value": "4 tsp of cocoa powder"
+        },
+        {
+            "@language": "en",
+            "@value": "110g of fine caster sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "260ml of dairy-free milk (I used unsweetened soya milk)"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup of crushed walnuts"
+        },
+        {
+            "@language": "en",
+            "@value": "3 tbsp of chopped hazelnuts"
+        },
+        {
+            "@language": "en",
+            "@value": "Powdered sugar (optional)"
+        },
+        {
+            "@language": "en",
+            "@value": "200g of dairy-free chocolate (I used Ombar 72%\u00a0 chocolate)"
+        },
+        {
+            "@language": "en",
+            "@value": "5 tbsp of light olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "170g of self raising flour (I used Doves gluten-free self raising flour)"
+        },
+        {
+            "@language": "en",
+            "@value": "100g of dried cherries"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t10. Cut the brownie into little squares & serve with a light dusting of icing sugar, toasted almonds for crunch and fresh red currents.\n\nYou can serve it warm & sticky with some dairy-free vanilla ice-cream to make it even more indulgent!\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t6. When the mix is fully combined & smells delicious; throw in the cherries, walnuts, hazelnuts... You could even use crushed pecans or any nuts you like.\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t2. Line a baking tin with grease proof paper (to prevent the brownies sticking to the pan, we don't want that).\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t5. Pour into the mixing bowl, the liquids - the melted gooey chocolate, oil & dairy-free milk. Mix until fully combined & looking heavenly.\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1. Pre-heat your oven to 180 degrees, gas mark 4.\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t4. Sieve the cocoa powder & flour into a large mixing bowl & stir in the salt & sugar. Mix until fully combined, then add 1 teaspoon of vanilla essence & mix in.\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t8. Pop the tin into the middle of the hot oven for 20-25 minutes. The brownies should be firm & crumbly on the outside, & moist in the middle - doesn't it sound perfect!\nTo make sure the brownies are cooked, place a sharp knife or skewer into the centre until it comes out clean. If they are not fully cooked, pop them in the oven for an extra few minutes.\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t9. With oven mittens/gloves, take out the tin & place on a wire rack & leave to cool for around 10 minutes.\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t3. Place the chocolate into a glass bowl and place on-top of a saucepan with water filled 2/4 of the way up making a ban marie. Gently simmer until the chocolate has completely melted & is gooey!\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t7. Spoon the delightful mixture into the lined tin, making sure you get into the edges.\n\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Makes 12"
+    },
+    "@id": "http://example.org/recipe"
+}

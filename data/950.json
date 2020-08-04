@@ -1,0 +1,158 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4.0"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "Asda Good Living"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT1H20M"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2015-09-21"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "This classic Italian recipe is pure comfort food. Warm, cheesy, sweet & savoury; it's ideal as a family meal"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://be35832fa5168a30acd6-5c7e0f2623ae37b4a933167fe83d71b5.ssl.cf3.rackcdn.com/1618/aubergine-parmigiana__square.jpg"
+    },
+    "keywords": [
+        {
+            "@language": "en",
+            "@value": "tray bake,tomato,marinara,italian,cheesy,bake,aubergine"
+        },
+        {
+            "@language": "en",
+            "@value": "aubergine, tray, bake, vegetarian, parm"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Aubergine Parmigiana"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "420KCAL"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "31.0g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "13.0g"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "12.0g"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "en",
+            "@value": "Lunch"
+        },
+        {
+            "@language": "en",
+            "@value": "Light meals"
+        },
+        {
+            "@language": "en",
+            "@value": "Main course"
+        },
+        {
+            "@language": "en",
+            "@value": "Dinner"
+        }
+    ],
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "italian"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n                                                                3 medium aubergines\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                1 level tsp sugar\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                5 tbsp olive oil\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                1 small onion, chopped\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                20 basil leaves\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                50g Parmesan, grated\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                2 garlic cloves, crushed\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                2 x 400g cans Asda Chopped Tomatoes\n                                                            "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                2 x 125g balls Asda Mozzarella, drained and sliced\n                                                            "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Sprinkle on the Parmesan and bake for 40 minutes. Garnish with basil to serve."
+        },
+        {
+            "@language": "en",
+            "@value": "Pre-heat the oven to 180C/160C Fan/Gas 4. Cook the onion in 1 tbsp oil until soft. Add the garlic and cook for 1 minute, then add the tomatoes and sugar. Simmer, uncovered, for 20 minutes or until the sauce is thick. Shred 12 basil leaves and stir in."
+        },
+        {
+            "@language": "en",
+            "@value": "Layer the tomato sauce, aubergines and mozzarella in an ovenproof dish."
+        },
+        {
+            "@language": "en",
+            "@value": "Cut the aubergines into slices 1/2cm thick, brush both sides with oil and griddle until just starting to brown."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 Hour 20 Mins\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://www.asdagoodliving.co.uk/food/recipes/aubergine-parmigiana"
+    },
+    "@id": "http://example.org/recipe"
+}

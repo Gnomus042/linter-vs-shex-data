@@ -1,0 +1,16 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@value": "Summer in a glass!"
+    },
+    "image": {
+        "@value": "http://www.tesswine.com/assets/images/recipes/picture/Tess_sangria_large_tn.jpg"
+    },
+    "name": {
+        "@id": "http://www.tesswine.com/Recipe-Category/Summertime-Favorites//recipes/Tess-Wine-Sangria"
+    },
+    "url": {
+        "@value": "http://www.tesswine.com/recipes/Tess-Wine-Sangria"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,82 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-GB",
+        "@value": "Null"
+    },
+    "ingredients": [
+        {
+            "@language": "en-GB",
+            "@value": "Butter 15g fridge-cold"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Small chestnut mushrooms 6 finely sliced"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Chicken stock 50ml"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Curly parsley to garnish, finely chopped"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Partridge 1, legs and breasts removed"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Butter 35g"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Small piece of white bread 1"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Sunflower oil a dash"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Bay leaf 1"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Garlic clove 1 very finely sliced"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Salt to season"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Black pepper to season"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Lemon juice 1/3 of medium lemon"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Brandy 50ml"
+        }
+    ],
+    "name": {
+        "@language": "en-GB",
+        "@value": "Partridge on Grilled Bread with Mushrooms & Brandy"
+    },
+    "recipeAuthor": {
+        "@language": "en-GB",
+        "@value": "Game to Eat"
+    },
+    "recipeInstructions": {
+        "@language": "en-GB",
+        "@value": "\n Method\n   \n     - Preheat grill to high\n     - Fry mushrooms in sunflower oil with the bay leaf and black pepper. Once browned, add garlic and cook for a minute before removing from pan\n     - Season the partridge with salt. Melt butter with extra sunflower oil if needed, and fry bird skin-side down for 5 minutes until brown. Turn over and cook for another 6 minutes\n     - Add breasts, cooking for 3 minutes on each side\n     - Butter bread on both sides and grill, turning once until well coloured\n     - Pour in brandy and flame partridge. Do not allow it to evaporate completely. Lift the bird and rest on the toast\n     - Drop the mushrooms back into the pan, add the stock and lemon juice and simmer until 3 tbsp of jus is left. Drop in the cold butter bit by bit stirring all the time until the sauce emulsifies\n     To Serve\n\n- Pour the sauce over the partridge and season\n- Scatter parsley and serve with a glass of red\n    \n "
+    },
+    "recipeYield": {
+        "@language": "en-GB",
+        "@value": "1"
+    },
+    "@id": "http://example.org/recipe"
+}

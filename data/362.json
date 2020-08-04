@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "LCL StarTech Supplies Store"
+    },
+    "brand": {
+        "@language": "en",
+        "@value": "www.cnam.me"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1hd9JSFXXXXcDXpXXq6xXFXXXS/LCL-55A-55X-CE255A-CE255X-12500-Pages-2-Pack-Black-Toner-Cartridge-Compatible-for-HP-Laserjet.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "32782810131"
+        },
+        {
+            "@language": "en",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "LCL 55A 55X CE255A CE255X 12500 Pages (2-Pack Black) Toner Cartridge Compatible for HP Laserjet Enterprise P3015/P3015d/P3015dn"
+    },
+    "@id": "http://example.org/recipe"
+}

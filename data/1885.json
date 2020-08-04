@@ -1,0 +1,120 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-ZA",
+            "@value": "5.0"
+        },
+        "reviewCount": {
+            "@language": "en-ZA",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@language": "en-ZA",
+        "@value": "Nicol Grobler"
+    },
+    "description": {
+        "@language": "en-ZA",
+        "@value": "This pumpkin crumble contains highly nutritious sesame seeds and pumpkin seeds, making it an irresistible combination of tasty and healthy..."
+    },
+    "image": [
+        {
+            "@id": "https://www.countrylife.co.za/food-and-wine/recipes/pumpkin-crumble/data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "@id": "https://www.countrylife.co.za/app/uploads/2016/08/PumpkinCrumble-150x150.jpg"
+        }
+    ],
+    "keywords": {
+        "@language": "en-ZA",
+        "@value": "Pumpkin Crumble"
+    },
+    "name": {
+        "@language": "en-ZA",
+        "@value": "Pumpkin Crumble"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-ZA",
+            "@value": "200 calories"
+        },
+        "fatContent": {
+            "@language": "en-ZA",
+            "@value": "20 grams fat"
+        }
+    },
+    "recipeCategory": {
+        "@language": "en-ZA",
+        "@value": "Recipes"
+    },
+    "recipeCuisine": {
+        "@language": "en-ZA",
+        "@value": "European"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-ZA",
+            "@value": "800 g pumpkin peeled and diced into small cubes"
+        },
+        {
+            "@language": "en-ZA",
+            "@value": "50 g Pouyoukas sesame seeds"
+        },
+        {
+            "@language": "en-ZA",
+            "@value": "1\u00bd cups Pouyoukas whole rolled oats"
+        },
+        {
+            "@language": "en-ZA",
+            "@value": "\u00bd tsp (2.5 ml) dried chilli flakes"
+        },
+        {
+            "@language": "en-ZA",
+            "@value": "Sea salt and freshly ground black pepper, to taste"
+        },
+        {
+            "@language": "en-ZA",
+            "@value": "2 tsp (10 ml) chopped fresh rosemary leaves"
+        },
+        {
+            "@language": "en-ZA",
+            "@value": "1 tbs (15 ml) honey"
+        },
+        {
+            "@language": "en-ZA",
+            "@value": "Crumble"
+        },
+        {
+            "@language": "en-ZA",
+            "@value": "4 tbs (60 ml) Pouyoukas pumpkin seeds"
+        },
+        {
+            "@language": "en-ZA",
+            "@value": "10 g grated parmesan cheese"
+        },
+        {
+            "@language": "en-ZA",
+            "@value": "\u00bd tsp (2.5 ml) ground cumin"
+        },
+        {
+            "@language": "en-ZA",
+            "@value": "2 tbs (30 ml) olive oil"
+        },
+        {
+            "@language": "en-ZA",
+            "@value": "2-3 tbs (30-45 ml) olive oil"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-ZA",
+        "@value": "\n\t\t\t\t\tInstructions\n\t\t\t\t\t\nPlace the pumpkin, olive oil, chilli flakes, cumin, honey and rosemary leaves on a lined baking tray. Season well with sea salt and freshly ground black pepper, toss and roast in a preheated 220\u00b0C oven for 25-30 minutes until softened and well roasted.\u00a0Remove from the oven and transfer to two small or one medium sized baking or gratin dish.\nFor the crumble, combine the oats, sesame seeds, pumpkin seeds, olive oil, parmesan cheese and seasoning in a large bowl and mix well.Pour the crumble mix over the pumpkin and bake in a preheated 180\u00b0C oven for 20-25 minutes or until the crumble is golden.\n\n\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-ZA",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,174 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "16"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "3.5"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Betty Crocker Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "01/01/2004"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "01/24/2014"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "This hearty chili has just the right level of spice. One bite and you'll see why it's Betty's Best!"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/3e640868-0db3-4b02-b5ae-a233c3e1a418.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "chili con carne"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Chili con Carne"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "390 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "35 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "70 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "1/2 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "9 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "31 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "5 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Serving "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "770 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "6 g"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "1 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H25M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Entree"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon unsweetened baking cocoa\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoon chili powder\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon dried oregano leaves\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon ground cumin\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    large onion, chopped (1 cup)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    lb lean (at least 80%) ground beef\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    can (19 oz) Progresso\u2122 red kidney beans, undrained\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cloves garlic, crushed\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon salt\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon red pepper sauce\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cups Muir Glen\u2122 organic diced tomatoes (from 28-oz can), undrained\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N6ee9cb6a52b9432189457f60b5c75f34"
+        },
+        {
+            "@id": "_:N7e60b56c9ebe46cb9c7e7b64a4a7eb1e"
+        },
+        {
+            "@id": "_:Ne39678a717764780bbc91b21507e9ec2"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT1H50M"
+    },
+    "@id": "http://example.org/recipe"
+}

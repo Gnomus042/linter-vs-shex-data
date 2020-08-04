@@ -1,0 +1,86 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "\nReceptm\u0171hely\n"
+        },
+        "url": {
+            "@id": "https://www.receptmuhely.hu/recept/tojasleves-2//felhasznaloi-profil/recept-muhely"
+        }
+    },
+    "dateCreated": {
+        "@value": "Null"
+    },
+    "dateModified": {
+        "@value": "Null"
+    },
+    "datePublished": {
+        "@value": "2015-09-23"
+    },
+    "description": {
+        "@value": "\nToj\u00e1sleves   a Levesek kateg\u00f3ri\u00e1ban"
+    },
+    "keywords": {
+        "@value": "Toj\u00e1sleves"
+    },
+    "name": {
+        "@value": "Toj\u00e1sleves"
+    },
+    "recipeCategory": {
+        "@value": " Levesek "
+    },
+    "recipeIngredient": [
+        {
+            "@value": "toj\u00e1s 6 darab"
+        },
+        {
+            "@value": "liszt 2 ev\u0151kan\u00e1l"
+        },
+        {
+            "@value": "ecet 1 ev\u0151kan\u00e1l"
+        },
+        {
+            "@value": "Knorr Ty\u00fakh\u00fasleveskocka 2 darab"
+        },
+        {
+            "@value": "olaj 2 ev\u0151kan\u00e1l"
+        },
+        {
+            "@value": "\u0151r\u00f6lt k\u00f6m\u00e9ny 1 te\u00e1skan\u00e1l"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "M\u00edg felforr egy m\u00e9ly t\u00e1ny\u00e9rban verj\u00fcnk fel 2 toj\u00e1st egy csipet s\u00f3val, \u00e9s forr\u00e1s ut\u00e1n, folyamatos keverget\u00e9s k\u00f6zben \u00f6nts\u00fck a levesbe. Keverj\u00fck j\u00f3l el."
+        },
+        {
+            "@value": "Legel\u0151sz\u00f6r megmossuk a toj\u00e1sokat, alaposan, foly\u00f3 v\u00edzben. A r\u00e1nt\u00e1shoz egy l\u00e1basban hev\u00edts\u00fck fel az olajat, \u00e9s sz\u00f3rjuk r\u00e1 a lisztet. Pir\u00edtsuk kicsit, k\u00f6zben kevergess\u00fck,   majd vegy\u00fck le a t\u0171zr\u0151l \u00e9s sz\u00f3rjunk r\u00e1 egy kis pirospaprik\u00e1t (ilyenkor az\u00e9rt kell levenni, nehogy a paprika megkeseredjen a t\u00fal nagy h\u0151t\u0151l), \u00e9s keverj\u00fck j\u00f3l el, hogy minden\u00fctt old\u00f3djon fel a paprika az olajban. Tegy\u00fck hozz\u00e1 az \u0151r\u00f6lt k\u00f6m\u00e9nyt is."
+        },
+        {
+            "@value": "Ha kikapcsoltuk a t\u00fczet, tegy\u00fcnk a levesbe egy ev\u0151kan\u00e1l ecetet."
+        },
+        {
+            "@value": "A t\u0171zre visszat\u00e9ve azonnal \u00f6nts\u00fck fel 1,2 liter v\u00edzzel. Kb. ennyi leves\u00fcnk lesz."
+        },
+        {
+            "@value": "Tegy\u00fck bele a Knorr Ty\u00fakh\u00fasleves kock\u00e1kat, ett\u0151l sokkal teltebb \u00edze lesz, valamint a Delik\u00e1tot, kicsi s\u00f3t, bab\u00e9rlevelet."
+        },
+        {
+            "@value": "K\u00e9szref\u0151z\u00e9s\nM\u00e9g kb. 5 percig f\u0151zz\u00fck, \u00e9s k\u00e9sz is a leves. A v\u00e9g\u00e9n k\u00f3stoljuk meg \u00e9s \u00edzes\u00edts\u00fck ut\u00e1na Delik\u00e1ttal."
+        },
+        {
+            "@value": "V\u00e1rjuk meg am\u00edg \u00fajra felforr, majd a t\u00f6bbi n\u00e9gy toj\u00e1st egyes\u00e9vel \u00fcss\u00fck a levesbe, de m\u00e1r ne kavargassuk. Egyes\u00e9vel \u00fcss\u00fck fel egy kis t\u00e1ny\u00e9rba \u0151ket, nehogy romlott toj\u00e1s ker\u00fclj\u00f6n a leves\u00fcnkbe."
+        },
+        {
+            "@value": "Lass\u00fa t\u0171z\u00f6n kb. 5-6 percig f\u0151zz\u00fck m\u00e9g, \u00e9s csak ut\u00e1na lehet megkavarni, \u00edgy nem fog az eg\u00e9sz toj\u00e1s sz\u00e9tf\u0151ni benne. (Ha l\u00e1gyan szeretj\u00fck a toj\u00e1sok k\u00f6zep\u00e9t, el\u00e9g ha tov\u00e1bbi 4-5 percig f\u0151zz\u00fck, majd elz\u00e1rjuk.)"
+        }
+    ],
+    "totalTime": {
+        "@value": "PT30M"
+    },
+    "yield": {
+        "@value": "4 adag"
+    },
+    "@id": "http://example.org/recipe"
+}

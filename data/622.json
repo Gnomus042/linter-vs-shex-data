@@ -1,0 +1,163 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "pt-pt",
+        "@value": "Margarida"
+    },
+    "description": {
+        "@language": "pt-pt",
+        "@value": "Frango c/ Alho, r\u00e1pido, delicioso e muito guloso. Uma refei\u00e7\u00e3o \u00f3tima para a fam\u00edlia ou um jantar informal de amigos"
+    },
+    "image": {
+        "@id": "http://www.margaridasweetandsour.com/wp-content/uploads/2017/01/0170bdaa6fddae8a194647760fc77820c46711c2e3-1024x768.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "pt-pt",
+            "@value": "2 cm de raiz de gengibre"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "1 colher de ch\u00e1 de molho de peixe"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Frango"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "pimenta preta qb"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Noodles"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "2 colheres de sopa de azeite"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "2 colheres de sopa de vinagre mirin"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "6 colheres de sopa de azeite para fritar"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "200 g dos seus noodles favoritos"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "4 peitos de frango s/ ossos e s/ pele cortados em cubos"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "2 colheres de sopa de molho de soja"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "1 colher de sopa de mel"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "2 cebolinhas verdes, (Spring onions)"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "1 L de caldo de galinha"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "4 dentes de alho picados"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "1 colher de sopa de molho de ostra"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "2 colheres de sopa de farinha de milho"
+        }
+    ],
+    "name": {
+        "@language": "pt-pt",
+        "@value": "Frango c/ Alho... Perdoem-me mas tenho mesmo paix\u00e3o por comida asi\u00e1tica."
+    },
+    "recipeCategory": {
+        "@language": "pt-pt",
+        "@value": "wook - Fritura em pouca gordura"
+    },
+    "recipeCuisine": {
+        "@language": "pt-pt",
+        "@value": "Chinesa"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "pt-pt",
+            "@value": "Entretanto, numa ta\u00e7a misturar a farinha com a pimenta."
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Colocar um wook em lume alto e adicionar o azeite."
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Deite 2 colheres de sopa de azeite, quando estiver quente adicione o alho e uma cebolinha verde picada, deixe cozinhar at\u00e9 o alho e a cebolinha estarem macios"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Quando estiverem cozidos, retirar do lume, adicionar os molhos, mexer, tapar e reservar"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Deixar secar em cima de papel absorvente"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Sirva de imediato."
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Quando estiver quente fritar o frango, (em duas vezes se necess\u00e1rio), at\u00e9 ficar dourado"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Polvilhe o frango e os noodles com cebolinhas verdes, coentros e malagueta"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "\u00c0 mistura anterior junte o frango reservado, envolvendo tudo muito bem."
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Leva 3 a 4 minutos"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Passar o frango pela farinha retirando o excesso e reservar"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Deitar os noodles no caldo e deixar cozer entre 2 a 5 min consoante os noodles escolhidos"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Adicionar o vinagre, o molho de soja, o mel e mais pimenta"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Leve o caldo de galinha a ferver."
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Limpe o wook e volte a coloca-lo em lume alto"
+        },
+        {
+            "@language": "pt-pt",
+            "@value": "Adicione a raiz de gengibre ralada e deixe ferver durante uns 5 min."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "pl",
+        "@value": "GHS2019 Store"
+    },
+    "brand": {
+        "@language": "pl",
+        "@value": "lpfb.us"
+    },
+    "image": {
+        "@language": "pl",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB15PoRcrus3KVjSZKbq6xqkFXaC/1-sztuk-latarka-latarka-szperacz-LED-r\u0119czny-akumulator-przeno\u015bne-do-u\u017cytku-na-zewn\u0105trz-GHS99.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "pl",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "pl",
+            "@value": "33036785333"
+        }
+    ],
+    "name": {
+        "@language": "pl",
+        "@value": "1 sztuk latarka latarka szperacz LED r\u0119czny akumulator przeno\u015bne do u\u017cytku na zewn\u0105trz GHS99"
+    },
+    "@id": "http://example.org/recipe"
+}

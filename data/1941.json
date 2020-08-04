@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "es",
+            "@value": "4.5"
+        },
+        "reviewCount": {
+            "@language": "es",
+            "@value": "6 "
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2016-01-10"
+    },
+    "description": {
+        "@language": "es",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://www.lacocinadejuani.com/wp-content/uploads/2015/12/caracolas-crema-morcilla.jpg"
+    },
+    "name": {
+        "@language": "es",
+        "@value": "Caracolas de crema de morcilla"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "es",
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@language": "es",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

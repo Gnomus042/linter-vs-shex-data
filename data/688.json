@@ -1,0 +1,130 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-GB",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-GB",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "en-GB",
+        "@value": "Victoria Pease"
+    },
+    "image": {
+        "@id": "http://victoriaspongepeasepudding.com/wp-content/uploads/2017/07/icecream7.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-GB",
+            "@value": "150g plain flour"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "-For the ice cream"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u00bd tsp baking powder"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "130g soft light brown sugar"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u00bc tsp bicarbonate of soda"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "50ml water"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "-For the cookie layers"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "600ml double cream"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "50g caster sugar"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "-For the raspberry ripple coulis"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u00bc tsp salt"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Zest of 1 lemon"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "110g unsalted butter, at room temperature"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 egg"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "200g Scotty Brand raspberries"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "100g Scotty Brand raspberries"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u00bc tsp vanilla paste"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "1 tin condensed milk"
+        }
+    ],
+    "name": {
+        "@language": "en-GB",
+        "@value": "Raspberry Ripple Ice Cream Sandwiches"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-GB",
+            "@value": "To assemble, line a 20cm square tin with baking parchment then carefully place one cookie layer at the bottom, right side up. Dollop the ice cream mixture on top, taking care not to blend the colours too much and smooth until level. Add the last cookie layer, right side down and pressing lightly, then wrap the tin with clingfilm. Place in the freezer to set for at least 6 hours."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "To make the cookie layers, preheat the oven to 190oc/170oc fan and grease and line a 20cm square tin with baking parchment. In a bowl, beat together the butter and sugar using a handheld mixer for around three minutes until pale and creamy. Add the egg and vanilla paste then beat again. Mix together the flour, baking powder, bicarbonate of soda and salt together in a separate bowl then add half to the buttery mixture. Beat the cookie dough until smooth then add the remaining dry ingredients and beat well."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Once set, remove the tin from the freezer and leave to thaw slightly for around ten minutes. Lift the ice cream sandwich out of the tin then carefully cut into 12 squares using a sharp knife and serve. Alternatively, wrap each individual sandwich in clingfilm and store in the freezer for up to two months."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "To make the ice cream, whip the double cream to stiff peaks in a large bowl. In a separate bowl, whisk together the condensed milk and lemon zest then add a large dollop of the whipped cream and fold together. Add the condensed milk mixture to the whipped cream and carefully fold together until smooth. Add the chilled coulis and the raspberries then carefully fold the mixture a little to marble it."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Divide the dough into two portions weighing roughly 200g each then spread one in an even layer at the bottom of the tin. Bake for 10 to 12 minutes until golden brown then remove from the oven and cool in the tin. Flip the tin over onto a wire rack and carefully ease the cookie layer out using the baking paper. Grease and line the tin again and repeat with the second batch of cookie dough. Leave both layers to cool completely."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "To make the raspberry ripple coulis, place the raspberries, sugar, water and vanilla paste in a saucepan and place over a medium heat. Bring to a gentle simmer, then stirring gently, cook down the coulis until thick for around 10 to 12 minutes. Remove from the heat then sieve the coulis over a bowl to remove the seeds. Once cooled to room temperature, cover with clingfilm and chill until needed."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-GB",
+        "@value": "12 sandwiches"
+    },
+    "@id": "http://example.org/recipe"
+}

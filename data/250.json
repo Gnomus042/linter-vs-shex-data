@@ -1,0 +1,38 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "LeGourmetTV"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "This amazing no-churn ice cream is so easy to make and bursts with flavor."
+    },
+    "name": {
+        "@language": "en",
+        "@value": " Coffee Crisp No-Churn Ice Cream"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "Coffee crisp - 2  "
+        },
+        {
+            "@language": "en",
+            "@value": "Coffee liquor - 2 Tablespoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Condensed milk - 1 Can (10 oz) "
+        },
+        {
+            "@language": "en",
+            "@value": "35% cream - 750 Milliliter "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "MAKING:\n\n\n\n1. Chop up the Coffee Crisp bars.\n\n2. Whip cream until stiff peaks form.\n\n3. Fold in condensed milk until fully combined, then fold in coffee liquor.\n\n4. Fold in the \u00be of the Coffee Crisp pieces.\n\n5. Transfer to a 9\"-x-5\u201d pan and top with remaining Coffee Crisp pieces.\n\n6.Freeze until firm, at least 5 hours.\n\n\n\nSERVING:\n\n\n\n7. Let soften 10 minutes before serving."
+    },
+    "@id": "http://example.org/recipe"
+}

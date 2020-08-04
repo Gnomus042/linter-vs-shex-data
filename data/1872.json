@@ -1,0 +1,121 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-gb",
+        "@value": "1h 15 min"
+    },
+    "image": {
+        "@id": "https://www.lurpak.co.uk/cooking-with-lurpak/chocolate-cake-with-a-butter-icing-and-cherry-compote//optimized/variable-medium/siteassets/final-recipe-assets/chocolate-cake-cherry-compote-1370.jpg"
+    },
+    "name": {
+        "@language": "en-gb",
+        "@value": "Chocolate Cake with a Butter Icing and Cherry Compote"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-gb",
+            "@value": "Pinch of salt"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "1 vanilla pod, split"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "4 tbsp cold espresso coffee"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "1 tsp vanilla extract"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "4 tbsp cocoa powder"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "4 large eggs, beaten"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "For the Ganache:"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "100g dark chocolate"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "50g Lurpak\u00ae Unsalted Butter"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "225g Lurpak\u00ae Unsalted Butter, slightly softened"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "225g caster sugar"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "150g caster sugar"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "75g icing sugar"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "For the Buttercream Filling:"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "500g fresh or frozen cherries, pitted"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "1 tsp vanilla essence"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "50g caster sugar"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "275g self-raising flour, sifted"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "75g Lurpak\u00ae Unsalted Butter, slightly softened"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "\u00a0For the Cherry Compote:"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "Zest and juice of one orange"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "50ml double cream"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "1 tsp baking powder"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "75g soft dark-brown sugar"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-gb",
+        "@value": "\n\t\t\t\tPreparation\n\t\t\t\tTo get started, preheat the oven to 190\u00b0c / 170\u00b0c fan assisted / gas mark 5 and line 2 x 20-23cm cake tins.\nFirst up, cherry compote. All ingredients go into a medium sized saucepan. Bring to the boil then simmer for 20 minutes or until the sauce has thickened. Give it a stir now and again. Cool and set aside.\nNext, grab a large bowl and add the butter and sugar. Whisk until light and fluffy. Mix in the egg little by little. If the mixture starts to curdle, add a tablespoon of flour. This will bring the batter back together.\nAdd the coffee and vanilla. Gently fold in the sifted flour, cocoa powder, baking powder and pinch of salt. Divide between the two cake tins and bake in the centre of the oven for 25-30 minutes or until a skewer comes out clean.\nCool in the tin for 5 minutes. Then turn out onto a wire rack to finish cooling.\nIt\u2019s butter cream time. Beat the butter with the icing sugar and brown sugar. Add vanilla, beat again. Cover with cling film and set aside.\nNow, to take on the ganache. Melt butter and chocolate in a heatproof bowl over a pan of simmering water. Add sugar and stir until dissolved. Take the bowl off the heat and cool for 5 minutes. Stir in the cream and beat until smooth.\nThe finale. Putting it all together. Spread buttercream over the top of one of the cakes. Top with the cherry compote then place the second cake on top. Spread over the chocolate ganache and leave to set for about 1 hour.\nNow, grab a slice.\n\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-gb",
+        "@value": "10 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

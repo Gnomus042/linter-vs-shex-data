@@ -1,0 +1,110 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "3.0"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Mommie Cooks"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "A simple, tasty cookie that's perfect for spring."
+    },
+    "image": {
+        "@id": "http://www.mommiecooks.com/wp-content/uploads/2016/04/lemon-cookie2-1-of-1-560x373.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "11/2 Cups Sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "11/2 Sticks Softened Unsalted Butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Medium Size Lemon's worth Zest and Juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp Baking Soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "11/2 Cups Flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Slivered Almonds (Optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "11/2 tsp Almond Extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be Cup Almond Flour*"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp Salt"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Lemon Almond Cookies"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Dessert"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Cream together the softened butter and sugar."
+        },
+        {
+            "@language": "en-US",
+            "@value": "If desired, top each ball of dough with a couple slivered almonds."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place in a 350 degree oven for 8-10 minutes or until you begin to see light browning around the edges of the cookies."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Let cool completely and enjoy."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add in the eggs, almond extract, lemon zest and juice. Mix well."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spoon out tablespoon sized balls of dough onto a greased cookie sheet."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add the dry ingredients: baking soda, salt, flour and almond flour. Mix until combined."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "2-3 Dozen"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,74 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "no",
+        "@value": "2016-02-08"
+    },
+    "description": {
+        "@language": "no",
+        "@value": "Ingenting binder et m\u00e5ltid sammen som en kremet, deilig dipsaus. Til disse kyllinggrillspydene \u00f8nsket jeg \u00e5 pr\u00f8ve noe nytt, og laget dip av bakt Apetina Cooking Cheese Block og artisjokk. Tro meg, dette er veldig godt!"
+    },
+    "image": {
+        "@language": "no",
+        "@value": "https://cdn-rdb.arla.com/apetina-no/kyllinggrillspyd-med-ovnsbakt-dip/44623991.jpg?w=2000&h=1500&mode=crop&transform=downfill&quality=80&ak=1ea0b694&hm=b19d4d96"
+    },
+    "name": {
+        "@language": "no",
+        "@value": "Kyllinggrillspyd med ovnsbakt dip"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "no",
+            "@value": "1 ss  honning "
+        },
+        {
+            "@language": "no",
+            "@value": "1 fedd  hvitl\u00f8k "
+        },
+        {
+            "@language": "no",
+            "@value": "1 ss  hvitvinseddik "
+        },
+        {
+            "@language": "no",
+            "@value": "200 g  Apetina\u00ae Cooking Cheese Block "
+        },
+        {
+            "@language": "no",
+            "@value": "5  artisjokkhjerter fra boks (ikke i olje)"
+        },
+        {
+            "@language": "no",
+            "@value": "100 g  Apetina\u00ae Kremost Lett Naturell "
+        },
+        {
+            "@language": "no",
+            "@value": "  salt og pepper "
+        },
+        {
+            "@language": "no",
+            "@value": "600 g  kyllingbryst "
+        },
+        {
+            "@language": "no",
+            "@value": "  olivenolje "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "no",
+        "@value": "\n                            \nIngenting kan piffe opp en kjedelig salat eller at gr\u00f8nnsaker og pinnebr\u00f8d glir ned p\u00e5 h\u00f8ykant som litt dipsaus. Det er kanskje derfor tapas har blitt s\u00e5 popul\u00e6rt over hele verden. Inneholder alltid en rekke pestoer, diper og tapenader. Vanlige dipfavoritter inkluderer hummus, pesto, guacamole og haydari (tyrkisk yoghurtdip), som er inspirert av Midt\u00f8sten. Jeg hadde imidlertid lyst til \u00e5 pr\u00f8ve noe annet n\u00e5r jeg fant p\u00e5 denne bakte ostedipen, som allerede er blitt en favoritt hjemme hos oss. Den har en kraftig konsistens fra artisjokkene, kremet smak fra salt Apetina-ost og kremost og litt pikant smak fra hvitl\u00f8k og eddik. Den passer til nesten alt, men her serverer jeg den sammen med noen s\u00f8taktige og saftige kyllinggrillspyd. Jeg har ogs\u00e5 pr\u00f8vd \u00e5 servere den med avokado-satay (se oppskrift p\u00e5 bloggen min) og ulike friske gr\u00f8nnsaker og velsmakende pinnebr\u00f8d.\n                                Fremgangsm\u00e5te: \n                            \nBland alle ingrediensene til dipsausen i en kj\u00f8kkenmaskin til en grovkornet pasta. Hell blandingen i en ildfast form eller panne. Hell over litt olivenolje og sett den til side.\nSkj\u00e6r kyllingen i mindre biter. Fordel kyllingbitene jevnt p\u00e5 8-10 grillspyd av tre, og legg deretter grillspydene p\u00e5 en stekeplate med kant. Bruk en skje eller fingrene til \u00e5 sm\u00f8re honning p\u00e5 kyllingen, og avslutt med litt salt og pepper.\nBak dippen og kyllinggrillspydene i ovnen i 10-12 minutter. Ta ut kyllingen, og sl\u00e5 ovnen p\u00e5 grillmodus. Grill dippen i ytterligere 3-5 minutter.\n\n                    "
+    },
+    "recipeYield": {
+        "@language": "no",
+        "@value": "Porsjoner: 6"
+    },
+    "totalTime": {
+        "@language": "no",
+        "@value": "PT25M"
+    },
+    "url": {
+        "@language": "no",
+        "@value": "https://www.apetina.com/no/oppskrifter/kyllinggrillspyd-med-ovnsbakt-dip/"
+    },
+    "@id": "http://example.org/recipe"
+}

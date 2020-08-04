@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Sukaldaritza erraza"
+    },
+    "datePublished": {
+        "@value": "2018-04-11 12:45:21"
+    },
+    "image": {
+        "@id": "https://recetasdecocinafaciles.net/wp-content/uploads/2018/04/endivias-con-salsa-de-queso.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "3 cucharadas de uvas pasas"
+        },
+        {
+            "@value": "medio vaso de nata liquida"
+        },
+        {
+            "@value": "4 endives"
+        },
+        {
+            "@value": "1 gurin koilarakada"
+        },
+        {
+            "@value": "25 gramos de queso azul"
+        },
+        {
+            "@value": "gatza eta piperra"
+        }
+    ],
+    "name": {
+        "@value": "Endivias con salsa de queso"
+    },
+    "recipeInstructions": {
+        "@value": "Lava las endivias, cortalas por la mitad y cuecelas 2 minutos por cada lado en una sarten con la mantequilla derretida.Reservalas en caliente.Para preparar la salsa de queso vierte la nata en un cazo y calientala sin que llegue a hervir, retirala del fuego y salpimentala. Agrega el queso azul desmenuzado y remueve hasta que haya fundido.Sirve las endibias ba\u00f1adas con la salsa y distribuye las uvas pasa por encima."
+    },
+    "recipeYield": {
+        "@value": "4"
+    },
+    "totalTime": {
+        "@value": "20 min"
+    },
+    "@id": "http://example.org/recipe"
+}

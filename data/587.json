@@ -1,0 +1,82 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "3.0"
+        }
+    },
+    "image": {
+        "@id": "https://www.rickontherocks.com/wp-content/uploads/2014/03/memphispulledpork-1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon brown sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon onion powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon cayenne"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup apple cider vinegar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup paprika"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon garlic powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon white sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon ground black pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Sesame seed buns"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4-6 lb bone-in pork butt (also known as pork shoulder)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Memphis Style Pulled Pork Recipe"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "In a Crock Pot, pour in 1 cup of apple cider vinegar and 1 cup of water. place your seasoned pork butt into the Crock Pot and turn on low. Let the meat cook 8 hours. The bone should come out clean when you remove it."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Trim excess fat off of pork butt. Mix all of your dry ingredients and rub fully onto all sides of pork."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Take a fork and knife and gently shred the pork. Serve on a bun and add a little of the drippings for extra flavor."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

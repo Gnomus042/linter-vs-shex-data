@@ -1,0 +1,169 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "sv",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "sv",
+            "@value": "212"
+        },
+        "ratingValue": {
+            "@language": "sv",
+            "@value": "3.11"
+        },
+        "worstRating": {
+            "@language": "sv",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "sv",
+        "@value": "Av Ernst Kirchsteiger"
+    },
+    "container": {
+        "@language": "sv",
+        "@value": "Det h\u00e4r \u00e4r riktig sommarmat - basilikamarinerad entrec\u00f4te p\u00e5 grillspett som serveras med en h\u00e4rligt kr\u00e4mig potatissallad och en grillad chilisalsa. Underbart god grillmiddag med recept fr\u00e5n Ernst, perfekt att bjuda sommarg\u00e4sterna p\u00e5!"
+    },
+    "image": {
+        "@language": "sv",
+        "@value": "https://img.koket.se/microdata/grillspett-med-kramig-fladerpotatissallad-och-grillad-chilisalsa.jpg"
+    },
+    "name": {
+        "@language": "sv",
+        "@value": "Grillspett med kr\u00e4mig fl\u00e4derpotatissallad och grillad chilisalsa"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "sv",
+            "@value": "400 g turkisk yoghurt"
+        },
+        {
+            "@language": "sv",
+            "@value": "  n\u00e5gra kvistar timjan"
+        },
+        {
+            "@language": "sv",
+            "@value": "10  r\u00e4disor"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 kruka basilika"
+        },
+        {
+            "@language": "sv",
+            "@value": "1  blekselleri, tunt skivade stavar"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 tsk salt"
+        },
+        {
+            "@language": "sv",
+            "@value": "3 klyftor vitl\u00f6k"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 dl mandel, rostad"
+        },
+        {
+            "@language": "sv",
+            "@value": "0,5 dl m\u00f6rk balsamico"
+        },
+        {
+            "@language": "sv",
+            "@value": "0,5 dl fl\u00e4derblomssaft, koncentrerad"
+        },
+        {
+            "@language": "sv",
+            "@value": "400 g entrec\u00f4te"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 krm salt"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 msk honung"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 krm peppar"
+        },
+        {
+            "@language": "sv",
+            "@value": "1  spansk chilifrukt"
+        },
+        {
+            "@language": "sv",
+            "@value": "0,5  citron, saften fr\u00e5n"
+        },
+        {
+            "@language": "sv",
+            "@value": "0,5  citron, saften"
+        },
+        {
+            "@language": "sv",
+            "@value": "0,5 dl olivolja"
+        },
+        {
+            "@language": "sv",
+            "@value": "400 g f\u00e4rdigkokta r\u00f6dbetor"
+        },
+        {
+            "@language": "sv",
+            "@value": "2  r\u00f6dl\u00f6k"
+        },
+        {
+            "@language": "sv",
+            "@value": "20  k\u00f6rsb\u00e4rstomater"
+        },
+        {
+            "@language": "sv",
+            "@value": "400 g r\u00f6kt sidfl\u00e4sk"
+        },
+        {
+            "@language": "sv",
+            "@value": "800 g delikatess- eller f\u00e4rskpotatis, nykokt"
+        },
+        {
+            "@language": "sv",
+            "@value": "100 g gr\u00e4sl\u00f6k"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 msk dijonsenap"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 klyfta vitl\u00f6k"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 klyfta vitl\u00f6k, riven eller hackad tillsammans med salt till en smet"
+        },
+        {
+            "@language": "sv",
+            "@value": "5  spansk chilifrukt (eller andra chilifrukt med \u00f6nskad styrka)"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 dl olivolja"
+        },
+        {
+            "@language": "sv",
+            "@value": "1  \u00e4pple, i mindre bitar"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "sv",
+        "@value": "Marinad\nMixa alla ingredienser till marinaden.Grillspett\nT\u00e4rna sidfl\u00e4sket i 4 x 4 cm rej\u00e4la bitar. Sk\u00e4r entrec\u00f4ten 4 x 4 cm stora bitar. Dela de f\u00f6rkokta r\u00f6dbetorna om de \u00e4r stora - 4 x 4 cm.H\u00e4ll marinaden \u00f6ver k\u00f6ttet och betorna och massera in v\u00e4l. L\u00e5t st\u00e5, minst n\u00e5gon timme, men g\u00e4rna ett dygn.Varva r\u00f6dbetor, fl\u00e4sk och entrec\u00f4te p\u00e5 l\u00e5nga metallgrillspett eller v\u00e4l bl\u00f6tlagda tr\u00e4spett. Grilla f\u00f6rst p\u00e5 h\u00f6g v\u00e4rme f\u00f6r att ge en bra grillyta och grilla sen klart p\u00e5 indirekt v\u00e4rme till \u00f6nskad innertemperatur p\u00e5 entrec\u00f4ten, d\u00e5 fl\u00e4sket redan \u00e4r r\u00f6kt s\u00e5 beh\u00f6ver man inte ta h\u00e4nsyn till att detta ska g\u00e5 klart.Potatissallad med fl\u00e4dersaft\nSkiva den varma potatisen i ca 1-2 cm bitar och sk\u00e4r ner alla gr\u00f6nsaker i mindre bitar. L\u00e4gg alla skurna gr\u00f6nsaker i en stor sk\u00e5l.Blanda yoghurt, dijonsenap, honung, peppar, citronsaft och koncentrerad fl\u00e4derblomssaft till en dressing och blanda med potatisen och gr\u00f6nsakerna till en kr\u00e4mig potatissallad. Smaka av med salt och peppar. Garnera med r\u00e4disa och blasten fr\u00e5n sellerin.Grillad chilisalsa\nGrilla alla gr\u00f6nsaker \u201ctigerrandssvarta\u201d och mixa med vitl\u00f6k, balsamico, olivolja, honung, mandel och basilika. Smaka av med salt och peppar."
+    },
+    "recipeYield": {
+        "@language": "sv",
+        "@value": "4 "
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "fr",
+        "@value": "Ch\u00e2telaine"
+    },
+    "dateModified": {
+        "@language": "fr",
+        "@value": "2019-02-26T16:31:23+00:00"
+    },
+    "description": {
+        "@language": "fr",
+        "@value": "On peut ajouter un doigt d\u2019alcool blanc dans la coupe des grands.\n"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "fr",
+            "@value": "400"
+        },
+        "url": {
+            "@language": "fr",
+            "@value": "https://fr.chatelaine.com/wp-content/uploads/2009/08/granite-framboises-menthe-10591.jpg"
+        },
+        "width": {
+            "@language": "fr",
+            "@value": "400"
+        }
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "https://fr.chatelaine.com"
+        },
+        "name": {
+            "@language": "fr",
+            "@value": "Ch\u00e2telaine"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

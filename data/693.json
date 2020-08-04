@@ -1,0 +1,28 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@value": "\n99"
+        },
+        "ratingValue": {
+            "@value": "8"
+        }
+    },
+    "description": {
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://2.bp.blogspot.com/-pOR8ChltEm8/WoD9sFdc-FI/AAAAAAAAJRg/yahgNEftWbsQR_tbssBhWffFIuNxUdijgCLcBGAs/s72-c/belmoreana.putih.griyalahfy.jpg"
+    },
+    "keywords": {
+        "@value": "Belmoreana Syar'i El Mente - Putih SOLD OUT"
+    },
+    "name": {
+        "@value": "Belmoreana Syar'i El Mente - Putih SOLD OUT"
+    },
+    "@id": "http://example.org/recipe"
+}

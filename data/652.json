@@ -1,0 +1,74 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "cs-CZ",
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@language": "cs-CZ",
+            "@value": "288"
+        }
+    },
+    "author": {
+        "@language": "cs-CZ",
+        "@value": "..."
+    },
+    "description": {
+        "@language": "cs-CZ",
+        "@value": "p\u0159\u00edrodn\u00ed hov\u011bz\u00ed ro\u0161t\u011bn\u00e1, minutky, hov\u011bz\u00ed maso"
+    },
+    "image": {
+        "@id": "http://kucharka.cbmonitor.cz/recepty/prirodni-hovezi-rostena/2951//recepty/none.png"
+    },
+    "ingredients": [
+        {
+            "@language": "cs-CZ",
+            "@value": "v\u00fdvar z kost\u00ed "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "pep\u0159 "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "1 cibule "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "s\u016fl "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "400 g n\u00edzk\u00e9 ro\u0161tenky "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "20 g hladk\u00e9 mouky "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "40 g tuku "
+        }
+    ],
+    "name": {
+        "@language": "cs-CZ",
+        "@value": "P\u0159\u00edrodn\u00ed hov\u011bz\u00ed ro\u0161t\u011bn\u00e1"
+    },
+    "recipeCategory": [
+        {
+            "@language": "cs-CZ",
+            "@value": "minutky"
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "hov\u011bz\u00ed maso"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "cs-CZ",
+        "@value": "Recept p\u0159\u00edrodn\u00ed hov\u011bz\u00ed ro\u0161t\u011bn\u00e1 p\u0159iprav\u00edme takto: Maso nakr\u00e1jame na 4 pl\u00e1tky, zlehka je naklepeme, okraje na\u0159\u00edzneme, opep\u0159\u00edme, popr\u00e1\u0161\u00edme moukou a prudce osmahneme na rozp\u00e1len\u00e9m tuku z oboou stran. Ope\u010den\u00e9 ro\u0161t\u011bnky vynd\u00e1me a uchov\u00e1me v teple. Na stejn\u00e9m tuku zp\u011bn\u00edme nadrobno nakr\u00e1jenou cibuli, p\u0159id\u00e1me ope\u010den\u00e9 maso, podlijeme v\u00fdvarem, osol\u00edme a za ob\u010dasn\u00e9ho m\u00edch\u00e1n\u00ed dus\u00edme dom\u011bkka. Pod\u00e1v\u00e1me s va\u0159en\u00fdmi nebo ope\u010den\u00fdmi brambory a zeleninovou oblohou.Dal\u0161\u00ed recepty v kategorii Minutky \u00a0 Dal\u0161\u00ed recepty v kategorii Hov\u011bz\u00ed maso "
+    },
+    "@id": "http://example.org/recipe"
+}

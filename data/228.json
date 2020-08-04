@@ -1,0 +1,22 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@value": "356"
+        },
+        "ratingValue": {
+            "@value": "9"
+        }
+    },
+    "image": {
+        "@id": "https://khoangiengmiennam.com/dich-vu/khoan-gieng-ha-muc-nuoc-ngam-23.html/Null"
+    },
+    "name": {
+        "@value": "Khoan gi\u1ebfng h\u1ea1 m\u1ef1c n\u01b0\u1edbc ng\u1ea7m 0919.102.126"
+    },
+    "@id": "http://example.org/recipe"
+}

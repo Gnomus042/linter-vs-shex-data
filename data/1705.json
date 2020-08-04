@@ -1,0 +1,15 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "pl",
+        "@value": "W powszechnej opinii funkcjonuje mnostwo \u201eprawd\u201d na temat odzywiania, ktore sa czesto powtarzane i pozornie brzmia calkiem sensownie. Rozprawiam sie z najbardziej szkodliwymi mitami, ktore moga sp..."
+    },
+    "image": {
+        "@id": "https://aduparosnie.pl/przepis,fakty-i-mity-na-temat-odzywiania.html/./files/472/fb/127478.png"
+    },
+    "name": {
+        "@language": "pl",
+        "@value": "Fakty i mity na temat od\u017cywiania"
+    },
+    "@id": "http://example.org/recipe"
+}

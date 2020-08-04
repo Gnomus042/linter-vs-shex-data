@@ -1,0 +1,84 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-CA",
+        "@value": "Flavourful marinated flank steak is served up in sizzling flair with traditional garnishes and cilantro leaves."
+    },
+    "image": {
+        "@language": "en-CA",
+        "@value": "https://sifu.unileversolutions.com/image/en-CA/recipe-topvisual/2/1260-709/mexican-fajitas-with-corn-tortillas-50414881.jpg"
+    },
+    "name": {
+        "@language": "en-CA",
+        "@value": "Mexican Fajitas with Corn Tortillas "
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-CA",
+            "@value": "Flank steak, 2.5 cm thick "
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Olive oil, as needed"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Jalapenos, grilled "
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Onions, grilled, as needed"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Cilantro, minced"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Corn Tortillas, toasted, 15 cm"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Marinated flank steak, prepared"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Knorr\u00ae Professional Soup Du Jour Mix Tomato 4 x 385 gr"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Lime juice"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Radishes, sliced, as needed"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Olive oil"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Flank steak, prepared"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Cilantro leaves, fresh, for garnish"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en-CA",
+            "@value": "\n                        To Serve\n                        \n                        \n    Place 160 g. of meat on a plate or sizzle platter. Next to it, add radishes, grilled onions, 1 grilled jalapeno and 2 corn tortillas. Top with cilantro leaves and serve. \n\n                    "
+        },
+        {
+            "@language": "en-CA",
+            "@value": "\n                        Prepare the Marinade\n                        \n                        \n    In a pan or bowl, add olive oil, lime juice, Knorr\u00ae Soup Du Jour SDK TOMATO and cilantro. Mix well. \n    Trim the steak of excess fat and silverskin. \n    Place the steak in the marinade and marinate for 6 hours or overnight. \n\n                    "
+        },
+        {
+            "@language": "en-CA",
+            "@value": "\n                        Prepare the Flank Steak\n                        \n                        \n    Take steak out of marinade. \n    Preheat grill. This can also be done in a saut\u00e9 pan but grilling offers a lot of conplex flavour element. \n    Clean the grill and spray down with a little pan spray or wipe with oil. \n    Season flank with Knorr\u00ae Soup Du Jour SDK TOMATO. \n    Grill the steak to medium rare. Let rest and slice. \n    Once sliced, baste with lime juice. \n\n                    "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

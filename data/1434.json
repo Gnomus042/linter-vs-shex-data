@@ -1,0 +1,67 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "lv",
+            "@value": "5.0000"
+        },
+        "reviewCount": {
+            "@language": "lv",
+            "@value": "1"
+        }
+    },
+    "image": {
+        "@id": "https://g1.delphi.lv/images/pix/676x385/TiGykIn0Gpo/d30a05daeb865ebcb0-51569655.jpg"
+    },
+    "name": {
+        "@language": "lv",
+        "@value": "\n\t\t\t\t\tVistas zupa ar r\u012bsiem un omletes str\u0113mel\u012bt\u0113m\u00a0\n\t\t\t"
+    },
+    "recipeIngredient": [
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/lauru-lapas/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/garsvielas-un-garsaugi/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/buljons/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/olas/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/burkani/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/sviests/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/pipari/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/kiploki/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/sipoli/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/olivella/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/risi/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/sals/"
+        },
+        {
+            "@id": "https://www.delfi.lv/tasty/receptes/sastavdalas/vistas-fileja/"
+        }
+    ],
+    "recipeYield": {
+        "@language": "lv",
+        "@value": "8"
+    },
+    "@id": "http://example.org/recipe"
+}

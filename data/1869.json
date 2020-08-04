@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Katie Workman"
+    },
+    "description": {
+        "@value": "\nFood writers are often (and believe me I lump myself right in with this observation) talking about what new things there are to do with that package of chicken breasts or that pound of ground beef, to get out of that same-old, same-old cooking rut.\nBut we might not spend enough time talking about what to do with that head of cauliflower, or broccoli. \u00a0We can all feel as uninspired looking at those stoic spheres as we do with our proteins, right?\nSo off we go, on the hunt for a new and simple side dish. \u00a0This is definitely one to keep in mind when you are making a stir fry or other Asian influenced-dish.\n\nIt\u2019s especially useful since you can make the drizzle ahead of time, pop the vegetable in the oven, and get to work at the stove. The cauliflower or broccoli needs no attention as it roasts, only the sound of the buzzer to remind you to take it out of the oven.\nTry this with\u00a0Chicken, Broccoli and Sugar Snap Pea Stir Fry,\u00a0Lemon and Scallion Chicken Stir Fry,\u00a0Chicken and Cabbage Stir Fry with Miso Sauce,\u00a0\u00a0Chicken and Spinach Stir-Fry with Ginger and Oyster Sauce or\u00a0\u00a0\u00a0Spicy Stir Fried Beef and Vegetables.\nIt\u2019s also terrific at room temperature, which makes a side dish ultra-valuable.\n\nWe\u2019re cauliflower lov-ahs in my house.\u00a0 Hence the following:\nSauteed and Braised Cauliflower with Mustard Seeds and Green Peppercorns\nMoroccan Carrot and Cauliflower Soup\nBraised Cauliflower with Anchovies and Capers\n\u00a0\nWe are also drizzle lovers:\nRoasted Cauliflower, Brussels Sprouts and Leeks with Spicy Drizzle\nRoasted Cauliflower and Carrots with Olive Drizzle\n\u00a0\nThat last one sounds a little weird. \n\t\n\t\n\t\tCauliflower with Sesame Drizzle\n\t\t\n\t\tThe hunt for a new and simple side dish is over.\n\t\t\n\t\t\n\t\n\n\n\t\t Print Recipe\n\t\t Pin Recipe\n\t\t Rate Recipe\t\t\n\t\t\t\t\n\n\nCourse: Side Dish\nServings: 4 People\nCalories: 176.18kcal\nAuthor: Katie Workman\n\n\nIngredients1 large head cauliflower 1 \u00be pound  (or substitute the same amount of broccoli heads)2 tablespoons olive oilKosher salt and freshly ground pepper to taste2 tablespoons untoasted sesame seeds optional2 tablespoons soy sauce1 tablespoon toasted sesame oil1 teaspoon honey1 teaspoon Sriracha sauce\nInstructionsPreheat the oven to 375\u00b0F.   Cut the cauliflower into florets.  Place the cauliflower on a rimmed baking sheet, and drizzle with the olive oil.  Toss well, then sprinkle with salt and pepper.  Roast for about 25 minutes, until crisp-tender and browned at the edges. Meanwhile, if you are using the sesame seeds, heat a very large dry skillet over medium heat.  Add the sesame seeds and stir frequently for about 1 or 2 minutes, until they start to become golden. Transfer them to a plate. In a small bowl, combine the soy sauce, sesame oil, honey, and Sriracha sauce.  When the cauliflower is roasted, transfer it to a serving platter and drizzle over the sauce, or pass it on the size for everyone to drizzle over their portion.  Sprinkle the top with sesame seeds, if desired, and serve hot or warm. \n\n\nNutritionCalories: 176.18kcal | Carbohydrates: 12.76g | Protein: 5.47g | Fat: 13.05g | Saturated Fat: 1.87g | Sodium: 589.36mg | Potassium: 631.16mg | Fiber: 4.51g | Sugar: 5.41g | Vitamin C: 96.4mg | Calcium: 82.66mg | Iron: 1.63mg\n\n   Tried this recipe?Mention @katieworkman100 or tag #dinnersolved!\n\n"
+    },
+    "image": [
+        {
+            "@id": "https://i2.wp.com/themom100.com/wp-content/uploads/2018/09/cauliflower-with-sesame-drizzle-2.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+            "@id": "https://themom100.com/recipe/cauliflower-with-sesame-drizzle-2/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
+        }
+    ],
+    "keywords": {
+        "@value": "\n\t\t\t\t\t\t\tcauliflowers, drizzle, sesame\t\t\t\t\t\t"
+    },
+    "name": {
+        "@value": "Cauliflower with Sesame Drizzle"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "servingSize": {
+            "@value": "4"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@value": "Vegetarian"
+        },
+        {
+            "@value": "Sides"
+        }
+    ],
+    "recipeYield": {
+        "@value": "Serving Size: 4"
+    },
+    "@id": "http://example.org/recipe"
+}

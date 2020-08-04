@@ -1,0 +1,54 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@value": "PT10M"
+    },
+    "description": {
+        "@value": " Suussulavad kr\u00f5bedad k\u00fcpsised, mida lapsed armastavad nii teha kui ka s\u00fc\u00fca.\u00a0"
+    },
+    "image": {
+        "@id": "https://www.nestle-cereals.com/ee/ee/retseptid-nouanded/leia-innustust/retseptid/CINI%20MINISe%20kr%C3%B5mpsuvad%20kaneelik%C3%BCpsised/Null"
+    },
+    "ingredients": [
+        {
+            "@value": "1muna"
+        },
+        {
+            "@value": "160 gjahu"
+        },
+        {
+            "@value": "0,25tl (sinine lusikas) soola"
+        },
+        {
+            "@value": "100 gCINI MINISe helbeid"
+        },
+        {
+            "@value": "0,5tl (punane lusikas) kaneeli"
+        },
+        {
+            "@value": "175 gsuhkrut (sh 2 spl / 25 g helbepallide jaoks)"
+        },
+        {
+            "@value": "85 gtoasooja toorjuustu"
+        },
+        {
+            "@value": "0,5tl (punane lusikas) s\u00f6\u00f6gisoodat"
+        },
+        {
+            "@value": "115 gpehmet v\u00f5id"
+        }
+    ],
+    "name": {
+        "@value": "CINI-MINISe kr\u00f5mpsuvad kaneelik\u00fcpsised"
+    },
+    "prepTime": {
+        "@value": "PT60M"
+    },
+    "recipeInstructions": {
+        "@value": "Null"
+    },
+    "recipeYield": {
+        "@value": "Keskmine"
+    },
+    "@id": "http://example.org/recipe"
+}

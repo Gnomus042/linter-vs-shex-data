@@ -1,0 +1,84 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "2 tablespoons butter"
+        },
+        {
+            "@language": "en",
+            "@value": "2 large ancho chilies, roasted, seeded and diced"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup cream"
+        },
+        {
+            "@language": "en",
+            "@value": "Salt and pepper to taste"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup white cheddar cheese, grated"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup sour cream"
+        },
+        {
+            "@language": "en",
+            "@value": "2 large Russet potatoes"
+        },
+        {
+            "@language": "en",
+            "@value": "2 green onions, chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "Pinch cayenne pepper"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Ancho Chili and Cheddar Stuffed Potatoes"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Cut in half lengthwise and scoop out the center into a bowl"
+        },
+        {
+            "@language": "en",
+            "@value": "Fill potato skins with mixture, then return to over and bake until brown (about 20 minutes)"
+        },
+        {
+            "@language": "en",
+            "@value": "Broil or barbecue chilies until the outside is blackened and blistered"
+        },
+        {
+            "@language": "en",
+            "@value": "Process potatoes through a ricer or mash with a fork"
+        },
+        {
+            "@language": "en",
+            "@value": "Bake potatoes at 375 degree F for one hour or until skin is crisp and inside is soft"
+        },
+        {
+            "@language": "en",
+            "@value": "Add remaining ingredients and blend well - take care to not over mash as the potatoes will become glutinous."
+        },
+        {
+            "@language": "en",
+            "@value": "Once cooled, scrape off the skin and remove the seeds, then dice"
+        },
+        {
+            "@language": "en",
+            "@value": "Add butter to potatoes and set aside until melted"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4.0 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

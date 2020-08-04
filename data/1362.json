@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://www.clubnoor.com/uploads/recipes/43cf4ac2c32d4ece951eedc7a241b300.png"
+    },
+    "ingredients": [
+        {
+            "@value": "\n                                    \n                                    \n                                        1\n                                    \u00a0tbsp \u00a0turmeric"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1\u00a0\n                                    onion (chopped)"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        2\u00a0\n                                    cups \u00a0long grain rice"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        \n                                    Chicken stock"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        \n                                    Salt to taste"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        \n                                    Noor Oil"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        \u00bc \n                                    cup\u00a0\u00a0almonds (blanched & halved)"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        700\n                                     gm \u00a0beef (cubed)"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1\u00bc \n                                    cup\u00a0peas (you can use frozen)"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1\n                                    \u00a0tsp \u00a0ground cardamom"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1\n                                    \u00a0tbsp \u00a0Arabic spices"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        \u00bc\n                                     cup \u00a0pine nuts"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1\u00a0\n                                    tbsp \u00a0cumin"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1\u00bc\n                                     cup \u00a0carrots (diced)"
+        }
+    ],
+    "name": {
+        "@value": "\n                    Oozy Plate "
+    },
+    "recipeYield": {
+        "@value": "\n                            Makes5servings"
+    },
+    "@id": "http://example.org/recipe"
+}

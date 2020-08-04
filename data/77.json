@@ -1,0 +1,82 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "Dolly"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT15-20 minutesM"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "Sat Jul 16, 2005"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n        Spicy Beef Stir Fry recipe by Dolly at DesiRecipes.com.\n        Simple and easy recipe of stir fried beef.                \n        "
+    },
+    "image": {
+        "@language": "en",
+        "@value": "http://www.desirecipes.com/recipes/images/recipes/653.jpg"
+    },
+    "ingredients": {
+        "@language": "en",
+        "@value": "\n    1 packet beef cutlets\n1 tbsp. of Red Chilli Powder\n1 Green Bell Pepper\n1 Red Bell Pepper\n1/2 onions thinly sliced\n1 packet frozen peas\n1 tsp. salt\n1/2 tsp of black pepper    "
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Spicy Beef Stir Fry"
+    },
+    "recipeCategory": {
+        "@id": "http://www.desirecipes.com/recipe/Spicy-Beef-Stir-Fry/Beef"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Chinese"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n        Cook Beef Cutlets.\nAdd Red Chilli Powder and stir.\nAdd all veggies which are already sliced . \nCook until all veggies are firmly soft.\nAdd salt and pepper!\nLet rest a few minutes.\nEat and Enjoy        "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "2-3 people"
+    },
+    "thumbnailUrl": {
+        "@id": "http://www.desirecipes.com/recipes/images/recipes/med/653.jpg"
+    },
+    "url": {
+        "title": {
+            "@language": "en",
+            "@value": "Spicy Beef Stir Fry recipe at DesiRecipes"
+        },
+        "item": {
+            "@id": "_:N802aa4ea546245a5bcc46b6d759355ab"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

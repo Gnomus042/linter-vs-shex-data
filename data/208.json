@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://gainlinerugby.co.uk/wp-content/uploads/2017/11/protein-berry-omelette-150x150.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Protein Berry Omelette"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 large egg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "100g cottage cheese"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 tsp rapeseed oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 pinches of cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tbsp. skimmed milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "175g of mixed berries (we like strawberries, blueberries and raspberries)\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\t\tInstructions\n\t\t\t\t\tMix egg, milk and cinnamon, heat the oil in an 8\u2033(20cm) non stick frying pan and add the mixture. Stir until the base is covered, leave until the base is golden brown, no need to flip the omelette.\nPlace on a plate and spread the cottage cheese, add the berries, fold and serve.\n\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "1"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,26 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "vi-vn",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "vi-vn",
+            "@value": "155"
+        },
+        "ratingValue": {
+            "@language": "vi-vn",
+            "@value": "5"
+        }
+    },
+    "image": {
+        "@id": "http://www.boitoanvui.com/dich-hoc/16-dich-hoc/416-xem-nam-nu-nhay-mat-phai-theo-gio-bao-diem-tot-xau.html//images/vote/416416-nhay-mat.jpg"
+    },
+    "name": {
+        "@language": "vi-vn",
+        "@value": "Xem nam, n\u1eef nh\u00e1y m\u1eaft ph\u1ea3i theo gi\u1edd b\u00e1o \u0111i\u1ec1m t\u1ed1t x\u1ea5u"
+    },
+    "@id": "http://example.org/recipe"
+}

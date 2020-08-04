@@ -1,0 +1,146 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "5.00"
+        },
+        "reviewCount": {
+            "@value": "2"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://images.media-allrecipes.com/userphotos/50x50/4501316.jpg"
+        },
+        "name": {
+            "@value": "Sylvia Fountaine"
+        }
+    },
+    "description": {
+        "@value": "This earthy bowl of lentils bursting with Middle Eastern flavors is topped with leftover roasted root veggies from a large batch for an easy weeknight dinner. Keep it vegan or add a drizzle of plain yogurt for extra richness."
+    },
+    "image": {
+        "@value": "http://images.media-allrecipes.com/userphotos/960x960/4501476.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "Lentils"
+        },
+        {
+            "@value": "\u00bd teaspoon ground cumin"
+        },
+        {
+            "@value": "\u00bc teaspoon kosher salt"
+        },
+        {
+            "@value": "2 tablespoons lemon juice"
+        },
+        {
+            "@value": "1 teaspoon garlic powder"
+        },
+        {
+            "@value": "1 clove garlic, smashed"
+        },
+        {
+            "@value": "1 teaspoon extra-virgin olive oil"
+        },
+        {
+            "@value": "Pinch of kosher salt"
+        },
+        {
+            "@value": "\u00bd cup black beluga lentils or French green lentils (see Tip)"
+        },
+        {
+            "@value": "2 cups chopped kale or beet greens"
+        },
+        {
+            "@value": "Vegetables"
+        },
+        {
+            "@value": "Fresh parsley for garnish"
+        },
+        {
+            "@value": "\u00bc teaspoon ground allspice"
+        },
+        {
+            "@value": "1 teaspoon ground coriander"
+        },
+        {
+            "@value": "\u00bd teaspoon ground coriander"
+        },
+        {
+            "@value": "1 tablespoon extra-virgin olive oil"
+        },
+        {
+            "@value": "2 tablespoons tahini or low-fat plain yogurt"
+        },
+        {
+            "@value": "1\u00bd cups water"
+        },
+        {
+            "@value": "\u215b teaspoon ground pepper"
+        },
+        {
+            "@value": "1\u00bd cups roasted root vegetables (see associated recipes)"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "True"
+    },
+    "name": {
+        "@value": "Roasted Root Veggies & Greens over Spiced Lentils"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "453 calories;"
+        },
+        "carbohydrateContent": {
+            "@value": "50"
+        },
+        "cholesterolContent": {
+            "@value": "0"
+        },
+        "fatContent": {
+            "@value": "22"
+        },
+        "fiberContent": {
+            "@value": "14"
+        },
+        "proteinContent": {
+            "@value": "18"
+        },
+        "saturatedFatContent": {
+            "@value": "3"
+        },
+        "sodiumContent": {
+            "@value": "346"
+        },
+        "sugarContent": {
+            "@value": "5"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@value": "For Two"
+        },
+        {
+            "@value": "Lifestyle Diets"
+        },
+        {
+            "@value": "Vegetarian"
+        },
+        {
+            "@value": "Dinner"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        To prepare lentils: Combine water, lentils, garlic powder, \u00bd teaspoon coriander, cumin, allspice, \u00bc teaspoon salt and sumac (if using) in a medium pot. Bring to a boil. Reduce heat to maintain a simmer, cover and cook until tender, 25 to 30 minutes.\n                        Uncover and continue simmering until the liquid reduces slightly, about 5 minutes more. Drain. Stir in lemon juice and 1 teaspoon oil.\n                        Meanwhile, to prepare vegetables: Heat oil in a large skillet over medium heat. Add garlic and cook until fragrant, 1 to 2 minutes. Add roasted root vegetables and cook, stirring often, until heated through, 2 to 4 minutes. Stir in kale (or beet greens) and cook until just wilted, 2 to 3 minutes. Stir in coriander, pepper and salt.\n                        Serve the vegetables over the lentils, topped with tahini (or yogurt). Garnish with parsley, if desired.\n            "
+    },
+    "recipeYield": {
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

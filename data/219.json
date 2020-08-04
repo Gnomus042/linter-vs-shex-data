@@ -1,0 +1,101 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Jamie Geller"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2011-03-07"
+    },
+    "description": {
+        "@value": "This salad is a full meal with hot crisped salmon, nuts and raisins and baby spinach.&nbsp;"
+    },
+    "headline": {
+        "@value": "Warm Salmon Salad"
+    },
+    "image": {
+        "@value": "https://jamiegeller.com/.image/t_share/MTY1NTI1MjI3OTk1MjEwNzc5/warm-salmon-salad-videojpg.jpg"
+    },
+    "inLanguage": {
+        "@value": "en"
+    },
+    "keywords": [
+        {
+            "@value": "Cooking For A CrowdMake Aheaddinner tonightspinach saladpicnicmain dish saladeasy salmon dishsummer salad"
+        },
+        {
+            "@value": "Pareve"
+        },
+        {
+            "@value": "Gluten Free"
+        },
+        {
+            "@value": "FishVegetables"
+        },
+        {
+            "@value": "Sukkot RecipesShabbat RecipesPassover RecipesNew Year's RecipesShavuot Recipes"
+        },
+        {
+            "@value": "VideosJOK Tested"
+        },
+        {
+            "@value": "AppetizersSaladsMain"
+        }
+    ],
+    "name": {
+        "@value": "Warm Salmon Salad"
+    },
+    "recipeCategory": [
+        {
+            "@id": "https://jamiegeller.com/recipes/warm-salmon-salad//recipes/collection/meal-type-main/"
+        },
+        {
+            "@id": "https://jamiegeller.com/recipes/warm-salmon-salad//recipes/collection/meal-type-salads/"
+        },
+        {
+            "@id": "https://jamiegeller.com/recipes/warm-salmon-salad//recipes/collection/meal-type-appetizers/"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@value": "1 (10-ounce) package baby spinach"
+        },
+        {
+            "@value": "1/4 cup pine nuts"
+        },
+        {
+            "@value": "1/2 cup golden raisins"
+        },
+        {
+            "@value": "1/2 cup bottled balsamic vinaigrette dressing"
+        },
+        {
+            "@value": "1/2 green, yellow or orange bell pepper, seeded, veins removed, diced"
+        },
+        {
+            "@value": "1/2 red bell pepper, seeded, veins removed, diced"
+        },
+        {
+            "@value": "1/2 teaspoon salt"
+        },
+        {
+            "@value": "2 tablespoons olive oil"
+        },
+        {
+            "@value": "1 1/2 pounds salmon fillet, skinned and cut into bite-sized pieces"
+        },
+        {
+            "@value": "Null"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "In a 12-inch skillet, heat olive oil over medium heat. Add salmon, peppers, raisins, pine nuts and salt.Saut\u00e9 for 7-8 minutes, until salmon is opaque and peppers are tender.Place baby spinach in a salad bowl and spoon warm salmon mixture over spinach.Drizzle balsamic dressing over the salad and serve warm or at room temperature. Use the dressing from the Warm Pepper and Craisin Salad instead of bottled dressing if you have time to make it.Recipe Courtesy of QUICK & KOSHER Recipes From The Bride Who Knew Nothing by Jamie Geller (Feldheim 2007) - BUY NOW"
+    },
+    "recipeYield": {
+        "@value": "4"
+    },
+    "suitableForDiet": {
+        "@id": "https://jamiegeller.com/recipes/warm-salmon-salad//recipes/dietary-restrictions/gluten-free"
+    },
+    "@id": "http://example.org/recipe"
+}

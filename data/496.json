@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "ar",
+            "@value": "+\u0627\u0644\u0635\u0628\u0627\u062d \u0627\u0644\u062c\u062f\u064a\u062f"
+        }
+    },
+    "datePublished": {
+        "@language": "ar",
+        "@value": "\n\u0646\u0648\u0641\u0645\u0628\u0631 17th, 2014"
+    },
+    "name": {
+        "@language": "ar",
+        "@value": "\u0628\u0648\u0644\u0646\u062f\u0627 \u062a\u062f\u0631\u0633 \u0625\u0631\u0633\u0627\u0644 \u0645\u0633\u0627\u0639\u062f\u0627\u062a  \u0639\u0633\u0643\u0631\u064a\u0629 \u0625\u0644\u0649 \u0627\u0644\u0625\u0642\u0644\u064a\u0645"
+    },
+    "@id": "http://example.org/recipe"
+}

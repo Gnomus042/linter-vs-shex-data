@@ -1,0 +1,131 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "18"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://www.bettycrocker.com/-/media/Images/Shared/RecipeParts/ComingSoon_500x281"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Lasagna Cupcakes"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "170 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "13 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "30 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "0 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "2 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "12 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "3 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Serving "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "500 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "6 g"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H15M"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    36\n                \n            \n            \n                \n                    \n                        \n                    \n                    round pot sticker (gyoza) wrappers\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    egg\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup ricotta cheese\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    jar (25.5 oz) Muir Glen\u2122 organic pasta sauce (any variety)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup shredded mozzarella cheese (4 oz)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    lb frozen Italian sausage-style soy-protein crumbles (2 cups)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup grated Parmesan cheese\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N76a470a436c34065abbdc818e99bd52d"
+        },
+        {
+            "@id": "_:N150a80f92b324ad3b6f78875adab9078"
+        },
+        {
+            "@id": "_:N236e7c30a2de49c2a2568fcd0c1a1d5b"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "12"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT1H0M"
+    },
+    "@id": "http://example.org/recipe"
+}

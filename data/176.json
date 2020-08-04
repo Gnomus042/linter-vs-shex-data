@@ -1,0 +1,77 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2016-02-03"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "These Black Bean Burrito Bowls are a\u00a020-minute meal that will please everyone! Create a fun experience by allowing everyone to make their own bowls. These are perfect for a game day party \u2013 Super-Bowls, anyone?!\n"
+    },
+    "image": {
+        "@id": "https://betterbeanco.com/wp-content/uploads/2016/02/feature.jpg"
+    },
+    "ingredients": {
+        "@language": "en-US",
+        "@value": "Ingredients for Cilantro-Lime Brown Rice2 cups cooked brown riceJuice of one lime\u00bd tsp. salt2 Tbsp. fresh chopped cilantroToppings for Burrito Bowl1 cup Uncanny Refried Beans or Cuban Black Beans\u00bc cup shredded white cheddar cheese\u00bd cup Pico de Gallo\u00bc cup Western Guacamole\u00bc cup plain non-fat Greek yogurt\u00bd cup shredded romaine lettuceLime wedges (optional)"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Black Bean Burrito Bowls"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup plain non-fat Greek yogurt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup Pico de Gallo"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup shredded romaine lettuce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Tbsp. fresh chopped cilantro"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup shredded white cheddar cheese"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Juice of one lime"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup Uncanny Refried Beans or Cuban Black Beans"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp. salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup Western Guacamole"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Lime wedges (optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups cooked brown rice"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\nCombine cooked rice, lime juice, salt and cilantro in a medium size bowl. Set aside.\nHeat Better Beans with 1 Tbsp. water in a pot on the stove or in the microwave. Set aside.\nTo assemble the bowls, divide rice evenly into two serving bowls. Top with beans, cheese, pico de gallo, guacamole, plain non-fat Greek yogurt and lettuce. Serve with lime wedges, if desired.\n\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "Serves 2"
+    },
+    "@id": "http://example.org/recipe"
+}

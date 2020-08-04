@@ -1,0 +1,72 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Recipeler"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT2H45M"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n\t\tCategories\n\t\t\t\t / Desserts\n\t\t\t\t / Frozen Desserts\n\t\t\t\t / Ice Cream\n\t\t\t\t / Chocolate Ice Cream\n\t\t\t\t"
+    },
+    "image": {
+        "@id": "https://recipeler.com/img/easy-mint-chocolate-chip-ce-cream.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1/2 teaspoon salt"
+        },
+        {
+            "@language": "en",
+            "@value": "2 cups heavy cream"
+        },
+        {
+            "@language": "en",
+            "@value": "1 teaspoon peppermint extract"
+        },
+        {
+            "@language": "en",
+            "@value": "2 cups 2% milk"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup miniature semisweet chocolate chips"
+        },
+        {
+            "@language": "en",
+            "@value": "3 drops green food coloring (optional)"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1 teaspoon vanilla extract"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Easy Mint Chocolate Chip Ce Cream"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "439"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT2H45M"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\t\t\tIn a large bowl, stir together the milk, cream, sugar, salt, vanilla extract and peppermint extract until the sugar has dissolved. Color to your liking with the green food coloring.Pour the mixture into an ice cream maker, and freeze according to the manufacturer's instructions. After about 10 minutes into the freezing, add the chocolate chips. After the ice cream has thickened, about 30 minutes later, spoon into a container, and freeze for 2 hours.\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

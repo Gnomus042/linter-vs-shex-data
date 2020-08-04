@@ -1,0 +1,77 @@
+{
+    "@type": "Recipe",
+    "dateModified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-09-10"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-09-10"
+    },
+    "description": {
+        "@language": "pl",
+        "@value": "Gdy zapytacie lokalnego mieszka\u0144ca w Grecji jakie pyszne danie mo\u017cna zrobi\u0107 z zielonego groszku to odpowiedzi\u0105 pewnie b\u0119dzie: \u0391\u03c1\u03ac\u03ba\u03b1\u03c2 \u039b\u03b1\u03b4\u03b5\u03c1\u03bf\u03c2! Ta potrawa od pierwszej chwili sta\u0142a si\u0119 tak\u017ce jedn\u0105 z naszych ulubionych. Na wst\u0119pie warto podkre\u015bli\u0107, \u017ce aby j\u0105 przyrz\u0105dzi\u0107 nie potrzeba wielu produkt\u00f3w oraz czasoch\u0142onnych przygotowa\u0144. Opr\u00f3cz \u015bwie\u017cego lub mro\u017conego groszku niezb\u0119dna b\u0119dzie tylko cebula, marchewka, ziemniaki, dobry domowy przecier pomidorowy (albo starte \u015bwie\u017ce pomidory) oraz koperek."
+    },
+    "image": {
+        "@id": "http://www.crete.pl/kuchnia-grecka-dania-glowne-wegetarianskie/arakas-laderos-grecki-przepis-na-groszek.html//zdjecia/arakas-laderos/arakas-g.jpg"
+    },
+    "inLanguage": {
+        "@language": "pl",
+        "@value": "pl-PL"
+    },
+    "ingredients": [
+        {
+            "@language": "pl",
+            "@value": "oko\u0142o 0,9-1 kg zielonego groszku (\u015bwie\u017cy b\u0105d\u017a mro\u017cony)"
+        },
+        {
+            "@language": "pl",
+            "@value": "3 spore marchewki"
+        },
+        {
+            "@language": "pl",
+            "@value": "s\u00f3l, pieprz"
+        },
+        {
+            "@language": "pl",
+            "@value": "2 \u015brednie cebule"
+        },
+        {
+            "@language": "pl",
+            "@value": "3-4 wi\u0119ksze ziemniaki"
+        },
+        {
+            "@language": "pl",
+            "@value": "p\u0119czek koperku"
+        },
+        {
+            "@language": "pl",
+            "@value": "oko\u0142o fili\u017canki oliwy"
+        },
+        {
+            "@language": "pl",
+            "@value": "woda"
+        },
+        {
+            "@language": "pl",
+            "@value": "feta (do podania)"
+        },
+        {
+            "@language": "pl",
+            "@value": "4-5 \u0142y\u017cek domowego przecieru"
+        },
+        {
+            "@language": "pl",
+            "@value": "li\u015b\u0107 laurowy (opcjonalne)"
+        }
+    ],
+    "name": {
+        "@language": "pl",
+        "@value": "Arakas laderos - grecki przepis na groszek"
+    },
+    "recipeInstructions": {
+        "@language": "pl",
+        "@value": "\n1. Zaczynamy od rozgrzania oliwy w sporym garnku albo g\u0142\u0119bokiej patelni. Na rozgrzan\u0105 oliw\u0119 wrzucamy pokrojon\u0105 w kosteczk\u0119 cebul\u0119 i sma\u017cymy kilka minut tak, aby zmi\u0119k\u0142a.\n2. Gdy cebula b\u0119dzie ju\u017c podsma\u017cona wrzucamy na patelni\u0119 op\u0142ukany zielony groszek oraz pokrojon\u0105 w plasterki marchew. Na wierzch k\u0142adziemy ziemniaki pokrojone na \u0107wiartki albo \u00f3semki (w zale\u017cno\u015bci od wielko\u015bci). Dodajemy przecier pomidorowy b\u0105d\u017a przetarte pomidory, a ca\u0142o\u015b\u0107 podlewamy wod\u0105 tak aby ziemniaki by\u0142y w niej zanurzone (przykryte wod\u0105).\n3. Przyprawiamy sol\u0105, pieprzem i je\u015bli kto\u015b lubi dodajemy r\u00f3wnie\u017c 2 li\u015bcie laurowe.\n4. Warzywa dusimy pod przykryciem do mi\u0119kko\u015bci na \u015brednim ogniu. Kilka minut przed zako\u0144czeniem gotowania zdejmujemy pokrywk\u0119 i dodajemy posiekany koperek.\n5. Po wymieszaniu jeszcze chwil\u0119 gotujemy i podajemy.\n6. Ju\u017c na talerzu danie posypujemy pokruszon\u0105 fet\u0105. Mo\u017cna podawa\u0107 je tak\u017ce z chlebem.\n\n\n\n    \n        \n\t\t\n\n\n    \n        \n\t\t\n\n\n    \n        \n\t\t\n\n\n"
+    },
+    "@id": "http://example.org/recipe"
+}

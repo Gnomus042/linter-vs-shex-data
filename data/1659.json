@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://recipes-secure-graphics.grocerywebsite.com/0_GraphicsRecipes/5717_400x400.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Beer Brats with Peppers and Onions"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "red bell pepper, cut into strips"
+        },
+        {
+            "@language": "en",
+            "@value": "(12 oz.) beer"
+        },
+        {
+            "@language": "en",
+            "@value": "fully cooked bratwurst"
+        },
+        {
+            "@language": "en",
+            "@value": "large onion, cut into strips and divided"
+        },
+        {
+            "@language": "en",
+            "@value": "sweet pickle relish, if desired"
+        },
+        {
+            "@language": "en",
+            "@value": "sub buns, split and toasted"
+        },
+        {
+            "@language": "en",
+            "@value": "green bell pepper, cut into strips"
+        },
+        {
+            "@language": "en",
+            "@value": "spicy brown mustard, if desired"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Preheat grill.  Pour beer into medium saucepan.  Add a few slices of onion and warm over medium heat.  To frying pan, add peppers and remaining onion slices and saute until tender.    Place bratwurst on grill over medium heat turning frequently to brown on all sides for 10 to 15 minutes.   Remove brats from grill and immediately place in saucepan with warmed beer and onions.  Place bratwurst on buns and smother with peppers and onion.   Add mustard and relish if desired. "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "6 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

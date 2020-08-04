@@ -1,0 +1,113 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "0.00"
+        },
+        "reviewCount": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://images.media-allrecipes.com/userphotos/50x50/5340907.jpg"
+        },
+        "name": {
+            "@value": "Diabetic Living Magazine"
+        }
+    },
+    "description": {
+        "@value": "These 20-minute sweet and savory dessert pizzas are great for barbeques since you'll already be using the grill. Grilled rosemary- and olive oil-flavored flatbreads are spread with an apricot-cream cheese blend, and then topped with fresh fruit, almonds and mint."
+    },
+    "image": {
+        "@value": "http://images.media-allrecipes.com/userphotos/960x960/5888763.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1 small plum, pitted and thinly sliced (2 ounces)"
+        },
+        {
+            "@value": "2 tablespoons sliced almonds, toasted (see Tip)"
+        },
+        {
+            "@value": "1 small apricot, pitted and thinly sliced (2 ounces)"
+        },
+        {
+            "@value": "1 tablespoon sugar-free apricot preserves"
+        },
+        {
+            "@value": "2 tablespoons reduced-fat cream cheese (Neufch\u00e2tel), softened"
+        },
+        {
+            "@value": "1 rosemary- and olive oil-flavored artisan pizza flatbread, such as Flatout\u00ae brand"
+        },
+        {
+            "@value": "1 tablespoon finely snipped fresh mint (optional)"
+        },
+        {
+            "@value": "1 small kiwifruit, peeled and thinly sliced (2 ounces)"
+        },
+        {
+            "@value": "2 tablespoons honey"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "True"
+    },
+    "name": {
+        "@value": "Grilled Apricot Dessert Pizza"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "127 calories;"
+        },
+        "carbohydrateContent": {
+            "@value": "23"
+        },
+        "cholesterolContent": {
+            "@value": "5"
+        },
+        "fatContent": {
+            "@value": "3"
+        },
+        "fiberContent": {
+            "@value": "2"
+        },
+        "proteinContent": {
+            "@value": "3"
+        },
+        "saturatedFatContent": {
+            "@value": "1"
+        },
+        "sodiumContent": {
+            "@value": "89"
+        },
+        "sugarContent": {
+            "@value": "13"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@value": "Low-Fat & Fat-Free"
+        },
+        {
+            "@value": "Desserts"
+        },
+        {
+            "@value": "Fruit"
+        },
+        {
+            "@value": "Lifestyle Diets"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        In a small microwave-safe bowl, combine cream cheese and preserves. Microwave, uncovered, on High 15 seconds. Whisk to combine; set aside.\n                        For a charcoal or gas grill, grill flatbread on the rack of a covered grill directly over medium heat 1 to 2 minutes or until bottom is lightly browned. Remove flatbread from grill. Spread cream cheese mixture evenly over browned side of flatbread. Top with apricot slices, kiwifruit slices and plum slices. Return to grill. Cover and grill 3 to 4 minutes more or until heated through and bottom of flatbread is toasted.\n                        Top with sliced almonds, drizzle with honey and, if desired, sprinkle with mint.\n            "
+    },
+    "recipeYield": {
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

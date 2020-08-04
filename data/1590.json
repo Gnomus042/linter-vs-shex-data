@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "schema.orgAggregateRating"
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Johary Ravaloson"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT9H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n\t\t\n\t\t  In This Exhilarating Prize Winning Novel Only The Second To Be Published In English From Madagascar A Young Man Comes Of Age Amidst The Enchanted Origin Myths Of His Island Country Named After The First Man At The Creation Of The World In Malagasy Mythology, Ietsy Razak Was Raised To Perpetuate The Glory Of His Namesake And Expected To Be As Illuminated As His Great Ancestor But In The Chaos Of Modernity, His Young Life Is Marked Only By Restlessness, Maddening Insomnia, And An Adolescent ApathyWhen An Unexpected Tragedy Ships Him Off To A Boarding School In France, His Trip To The Big City Is No Hero S Journey Ietsy Loses Himself In The Immediate Pleasures Of Body And Mind Weighed Down By His Privilege And The Legacy Of His Name, Ietsy Struggles To Find A FootholdOnly A Return To The Enchanted Island, As Madagascar Is Lovingly Known, Helps Ietsy Stumble Toward His Destiny This Award Winning Retelling Of Madagascar S Origin Story Offers A Distinctly Twenty First Century Perspective On The Country S Place In An Ever Connected World       \t\t"
+    },
+    "image": {
+        "@id": "http://stevemiddleton.info/wp-content/upload/2017/7e7fe8e77334208ee8e68b92b6ab3b28i637f2f8fbda1ee8ec3e419f3aa0a8cc7gr-assets637f2f8fbda1ee8ec3e419f3aa0a8cc7com/images/S/compressed637f2f8fbda1ee8ec3e419f3aa0a8cc7photo637f2f8fbda1ee8ec3e419f3aa0a8cc7goodreads637f2f8fbda1ee8ec3e419f3aa0a8cc7com/books/1562264225l/46753202637f2f8fbda1ee8ec3e419f3aa0a8cc7_SX318_637f2f8fbda1ee8ec3e419f3aa0a8cc7jpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "062"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "explained Return to the Enchanted Island: A Novel Text Kindle, download Return to the Enchanted Island: A Novel, read online Return to the Enchanted Island: A Novel, kindle ebook Return to the Enchanted Island: A Novel, Return to the Enchanted Island: A Novel"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Return to the Enchanted Island: A Novel"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "explained Return to the Enchanted Island: A Novel Text Kindle \u27bd In This Exhilarating Prize Winning Novel Only The Second To Be Published In English From Madagascar A Young Man Comes Of Age Amidst The Enchanted Origin Myths Of His Island Country Named After The First Man At The Creation Of The World In Malagasy Mythology, Ietsy Razak Was Raised To Per."
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT54M"
+    },
+    "ratingValue": {
+        "@language": "en-US",
+        "@value": "4.5"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "animals"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "reviewCount": {
+        "@language": "en-US",
+        "@value": "062"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "explained Return to the Enchanted Island: A Novel Text Kindle \u27bd In This Exhilarating Prize Winning Novel Only The Second To Be Published In English From Madagascar A Young Man Comes Of Age Amidst The Enchanted Origin Myths Of His Island Country Named After The First Man At The Creation Of The World In Malagasy Mythology, Ietsy Razak Was Raised To Per."
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "Return to the Enchanted Island: A Novel"
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://stevemiddleton.info/wp-content/upload/2017/7e7fe8e77334208ee8e68b92b6ab3b28i637f2f8fbda1ee8ec3e419f3aa0a8cc7gr-assets637f2f8fbda1ee8ec3e419f3aa0a8cc7com/images/S/compressed637f2f8fbda1ee8ec3e419f3aa0a8cc7photo637f2f8fbda1ee8ec3e419f3aa0a8cc7goodreads637f2f8fbda1ee8ec3e419f3aa0a8cc7com/books/1562264225l/46753202637f2f8fbda1ee8ec3e419f3aa0a8cc7_SX318_637f2f8fbda1ee8ec3e419f3aa0a8cc7jpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2018-03-18T05:10+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

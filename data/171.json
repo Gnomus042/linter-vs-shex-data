@@ -1,0 +1,123 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "fr-FR",
+        "@value": "30 minutes"
+    },
+    "image": {
+        "@id": "http://www.lestoquesducaillou.nc/wp-content/uploads/2017/04/Logo_Fb_blanc-300x300.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "1 c.\u00e0.c de cumin moulu"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 c.\u00e0.c de coriandre broy\u00e9e"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "2 2 c.\u00e0.s de sucre brut"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 c.\u00e0.c d'huile de noix de coco vierge"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 c.\u00e0.s d'huile de noix de coco vierge"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1/2 oignon rouge"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "3 c.\u00e0.s de noix de coco r\u00e2p\u00e9e"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 c.\u00e0.c de poudre de piment"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "500 g de poulet tranch\u00e9 dans des bandes de 1 cm"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 jus de demi-citron"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "2 tasses de tous autres l\u00e9gumes de saison"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 carotte"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 c.\u00e0.c de sauce soja"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 c.\u00e0.c d'ail \u00e9cras\u00e9"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 chou de chine tranc\u00e9 en lani\u00e8res"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "2 tasses d'eau"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "3 c.\u00e0.s de beurre d'arachide"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 chou rouge finement coup\u00e9 en d\u00e9s"
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "POULET AU SATE \u2013 VANUATU \u2013 PACIFIKA PLATES \u2013 COMMUNAUTE PACIFIQUE SUD"
+    },
+    "prepTime": {
+        "@language": "fr-FR",
+        "@value": "30 minutes"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "fr-FR",
+            "@value": "Sources et cr\u00e9dits : Communaut\u00e9 du Pacifique\nLa Communaut\u00e9 du Pacifique (CPS) vient de publier un livre de recettes qui pourrait changer la vie de nombreux Oc\u00e9aniens, et dont l\u2019objet est de promouvoir une alimentation saine afin de mieux combattre les maladies non transmissibles (MNT) dans le Pacifique. \nToutes les informations sur : http://www.spc.int/blog/pasifika-plates-promouvoir-la-consommation-daliments-oceaniens-sains/?lang=fr. \nLe livret de recettes complet est disponible : http://www.spc.int/wp-content/uploads/2017/01/Pasifika-plates.pdf\nCr\u00e9dits photos ingr\u00e9dients : CPS - Les Toqu\u00e9s du caillou \n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Versez la sauce et faites cuire pendant 1 \u00e0 2 minutes. Bon app\u00e9tit !"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Faites chauffer un peu d'huile de noix de coco et de l'ail dans une autre casserole. Ajoutez le poulet et faites-le brunir. Ajoutez les l\u00e9gumes et faites sauter pendant quelques minutes. "
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Ajoutez le beurre d'arachide, le piment, leus de citron vert, le sucre, l\u2019huile de noix de coco et la sauce soja.  M\u00e9langez. Cela formera une p\u00e2te. Ajoutez petit \u00e0 petit l'eau (environ la moiti\u00e9 de tasse \u00e0 la fois). Continuez \u00e0 remuer jusqu'\u00e0 obtenir la consistance souhait\u00e9e pour votre sauce \nLaissez mijoter pendant quelques minutes. R\u00e9servez. \n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Pour r\u00e9aliser la sauce : \nFaites chauffer l'huile de coco dans une po\u00eale \u00e0 feu moyen et ajoutez la coriandre, le cumin, l'ail et l'oignon rouge. Faites cuire pendant environ 30 secondes. \n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "fr-FR",
+        "@value": "1 hour"
+    },
+    "@id": "http://example.org/recipe"
+}

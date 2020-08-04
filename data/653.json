@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Emese"
+    },
+    "cookTime": {
+        "@value": "PT10M"
+    },
+    "image": {
+        "@id": "http://hajokonyha.hu/szojaszoszos_hagymasalata//cikkepek/recept_kepek/recept/1217_150x150.jpg"
+    },
+    "name": {
+        "@value": "Sz\u00f3jasz\u00f3szos hagymasal\u00e1ta"
+    },
+    "prepTime": {
+        "@value": "PT10M"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 db\t\t\t\t\n\t\tcitrom\u00a0\t\t\t\t\t"
+        },
+        {
+            "@value": " \u00edzl\u00e9s szerint\t\t\t\t\n\t\tbors\t\t\t\t\t"
+        },
+        {
+            "@value": "1 ev\u0151kan\u00e1l\t\t\t\t\n\t\tbarnacukor\t\t\t\t\t"
+        },
+        {
+            "@value": "4 fej\t\t\t\t\n\t\tv\u00f6r\u00f6shagyma\u00a0\t\t\t\t\t"
+        },
+        {
+            "@value": "3 gerezd\t\t\t\t\n\t\tfokhagyma\u00a0\t\t\t\t\t"
+        },
+        {
+            "@value": "3 ev\u0151kan\u00e1l\t\t\t\t\n\t\tsz\u00f3jasz\u00f3sz\t\t\t\t\t"
+        },
+        {
+            "@value": "1 ev\u0151kan\u00e1l\t\t\t\t\n\t\tszez\u00e1molaj\t\t\t\t\t"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n\t\t\t\t\t\t\n\t\t\tA v\u00f6r\u00f6shagym\u00e1t f\u00e9lf\u0151re, a fokhagym\u00e1t finomra v\u00e1gjuk. R\u00e1reszelj\u00fck a citromh\u00e9jat, majd a lev\u00e9t, a sz\u00f3jasz\u00f3szt, a cukrot \u00e9s a szez\u00e1molajat r\u00e1locsolva elkeverj\u00fck. \u00cdzl\u00e9s szerint borsozzuk, majd h\u0171t\u0151ben p\u00e1r \u00f3r\u00e1t pihentetve t\u00e1laljuk. \t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

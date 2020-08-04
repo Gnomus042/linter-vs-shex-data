@@ -1,0 +1,16 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@value": "Do you love watermelon as much as we do? Try this fresh summer watermelon salad topped with creamy burrata cheese!"
+    },
+    "image": {
+        "@value": "http://www.tesswine.com/assets/images/recipes/picture/WatermelonBurrata_large_tn.jpg"
+    },
+    "name": {
+        "@id": "http://www.tesswine.com/Recipes//recipes/Seared-Watermelon-and-Burrata-Salad"
+    },
+    "url": {
+        "@value": "http://www.tesswine.com/recipes/Seared-Watermelon-and-Burrata-Salad"
+    },
+    "@id": "http://example.org/recipe"
+}

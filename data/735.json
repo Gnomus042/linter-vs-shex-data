@@ -1,0 +1,84 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "+ Whipped Cream\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "+ Optional: Licorice straw"
+        },
+        {
+            "@language": "en-US",
+            "@value": "+ Vanilla Ice Cream\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "+ Optional: Flour (to help with non-sticking to cutter)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "+ Sprinkles or Crushed Sweethearts\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "+ Pizza sauce or Marinara sauce\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "+ Pizza dough or type of bread (English Muffins, Biscuit Dough, etc.)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "+ Various toppings (Mushrooms, Olives, Pineapple, etc.)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "+ Strawberry or Cherry Soda\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "+ Heart cookie cutter (a little larger for a bigger pizza)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "+ Mozzarella Cheese\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Mini Heart Pizzas with a Sweetheart Drink"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Pour Strawberry (or Cherry) soda into a glass\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cook just until cheese is melted (about 1-2 minutes) in a toaster oven, conventional oven or microwave.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Top with Whipped Cream, & Sprinkles or Crushed Sweethearts."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add 2 scoops of the Vanilla ice cream.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spread on the sauce, add your cheese, and include your toppings (Fun Tip: Use your toppings to create smiley faces or more heart shapes).\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Start off by rolling out the dough, and using a heart shaped cookie cutter dipped in flour (helps prevent sticking) to cut out your pizzas. (If you choose to use English Muffins, [adults] place the cookie cutter on the muffin, and use a knife to cut out the heart shape.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cook your dough according to the recipe but take out a 1-2 minutes earlier. (or toast the English Muffins as well 1 minute)\n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

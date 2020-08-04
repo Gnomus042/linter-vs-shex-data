@@ -1,0 +1,120 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en",
+            "@value": "\n          3.5\ub9c8\ub2d0\ub77c \ud558\uc58f\ud2b8 \ud638\ud154\uc628\ub77c\uc778\uce74\uc9c0\ub178\uce74\uc9c0\ub178\uc0ac\uc774\ud2b8-\uce90\uce20\ube44\uce74\uc9c0\ub178-\n         "
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "\n           4\n          "
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "\n         Tim Love\uc628\ub77c\uc778\uce74\uc9c0\ub178\uc628\ub77c\uc778\uce74\uc9c0\ub178\uc628\ub77c\uc778\uce74\uc9c0\ub178\n        "
+    },
+    "name": {
+        "@language": "en",
+        "@value": "\n        \n        Cold Ramen Noodle Salad with Pork and Fresh Herbs\n       "
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n           1/2 pound leftover pork shoulder, shredded "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           1 tablespoon canola oil\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           1 teaspoon sake\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           1/4 cup shredded nori\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           1/4 cup dashi\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           1 teaspoon rice wine vinegar\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           1 large green onion, chopped\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           1/4 cup sugar\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           6 cloves garlic, minced\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           1/4 cup water\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           One 3-ounce package ramen noodles, seasoning discarded\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           1/2 cup soy sauce\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           Salt and freshly ground black pepper\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           1 egg\n          "
+        },
+        {
+            "@language": "en",
+            "@value": "\n           1/2 cup bean sprouts, blanched\n          "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n       \n        Preparation\n       \n       \n        \n         For the pork:\n        \n       \n       \n        Combine all ingredients in a container, cover and refrigerate for 1 hour.\n       \n       \n        \n         For the ramen:\n        \n       \n       \n        1. Cook ramen noodles according to package, drain and set in a mixing bowl.\n       \n       \n        2. In a separate bowl, whisk the one egg vigorously with a pinch of salt and pepper.\n       \n       \n        3. In a hot saut\u00e9 pan add canola oil, then add egg and let cook undisturbed until cooked through. Remove the egg from pan and slice into thin ribbons.\n    \uc194\ub808\uc5b4\uce74\uc9c0\ub178-\ubc14\uce74\ub77c\ud558\ub294\uacf3-\uc628\ub77c\uc778\uce74\uc9c0\ub178\n       \n       \n        4. In a small bowl, whisk together the dashi, water, rice wine vinegar and sake. Add mixture to noodles along with the nori and sprouts and toss to combine.\n       \n       \n        5. Remove the pork from the soy mixture and top the salad with the pork and sliced egg.\n       \n       \n        Related video\n       \n       \n        \n         \n          \n           \n            Closed Captioning\n           \n           \n            \n             ON\n            \n            \n             OFF\n            \n            \n            \n           \n           \n            apply | reset\n            \n             x\n            \n           \n           \n            \n             \uce74\uc9c0\ub178\uc0ac\uc774\ud2b8\n             \n            \n            \n             \uce74\uc9c0\ub178\uc704\ud0a4\n             \n            \n            \n             lovejg.kr\n             \n            \n           \n           \n            \n             font\n             \n             \n              \n               Times New Roman\n              \n              \n               Arial-\uce74\uc9c0\ub178\ud558\ub294\uacf3-\ubc14\uce74\ub77c \ubcf4\ub4dc\uc628\ub77c\uc778\uce74\uc9c0\ub178\ub9c8\uce74\uc624 \uce74\uc9c0\ub178 \uc2ac\ub86f\uba38\uc2e0\u2549\uc5b4\ub290 \uce74\uc9c0\ub178 \uc575\ubc8c\uc774 \uc758 \uace0\ubc31\u25c1{\uce74\uc9c0\ub178 \uc885\ub958}\ubb34\ub8cc \ucda9\uc804 \ub9b4 \uac8c\uc784\u2633\uc815\uc120 \uce74\uc9c0\ub178 \uac8c\uc784 \uc885\ub958\u25d0\uc628\ub77c\uc778\ubc14\uce74\ub77c \uc870\uc791\u21df\ubc14\uce74\ub77c \ubd84\uc11d\uae30\u265c-\uce74\uc9c0\ub178\ud558\ub294\uacf3-\ud640\ub364\uce74\ud398-\ucf54\uc778\uce74\uc9c0\ub178-\uc628\ub77c\uc778\uce74\uc9c0\ub178\ubc14\uce74\ub77c \uc0ac\uc774\ud2b8 \uc6b4\uc601\u261c\uce74\uc9c0\ub178 \uc2ac\ub86f \uba38\uc2e0 \uac8c\uc784\u262a\u3008\ubb34\ub8cc \ucda9\uc804 \ub9b4 \uac8c\uc784\u3009\uce74\uc9c0\ub178 \uc370\u2655\uc2e4\uc804\ubc14\ub451\uc774 \ub77c\uc2a4\ubca0\uac00\uc2a4 \ud638\ud154 \uc608\uc57d\u265b\ube14\ub799 \uc7ad \ud655\ub960\u2642\uc628\ub77c\uc778\uce74\uc9c0\ub178\uc628\ub77c\uc778\uce74\uc9c0\ub178\ub9c8\ub2d0\ub77c \uce74\uc9c0\ub178 \uc704\uce58-\uc6b0\ub9ac\uce74\uc9c0\ub178-\uc6b0\ub9ac\uce74\uc9c0\ub178 \uc8fc\uc18c-\ucf54\uc778\uce74\uc9c0\ub178-www.bfakn.club-\ud638\ud154\uce74\uc9c0\ub178-\ubc14\uce74\ub77c \ud6c4\uae30\u03be\uce74\uc9c0\ub178\uc704\ud0a4\u25ca\ufe5d\uc2ac\ub86f \uba38\uc2e0 \ub2e4\uc6b4\ub85c\ub4dc\ufe5e\ubca0\ub124\uce58\uc544 \ud638\ud154\u2573\ub9c8\uce74\uc624 \ubd84\uc11d\u2601\uc2ac\ub86f\uba38\uc2e0\u2719\uc2dc\uce74\uace0 \uce74\uc9c0\ub178\u258c\ubc14\ub2e4\uc774\uc57c\uae30 \ub9b4\uac8c\uc784-\uce74\uc9c0\ub178\ud558\ub294\uacf3--\ud638\ud154\uce74\uc9c0\ub178-\ud640\ub364 \ubcf4\ub4dc \uce74\ud398\uc628\ub77c\uc778\uce74\uc9c0\ub178\uc628\ub77c\uc778\ubc14\ub451\uc774\uac8c\uc784\u25bc\ubc14\uce74\ub77c \uacc4\uc0b0\uae300\uff3b\ubb34\ub8cc \ucda9\uc804 \ub9b4 \uac8c\uc784\uff3d\ud544\ub9ac\ud540 \uce74\uc9c0\ub178 \uc575\ubc8c\uc774\u2620\ud14d\uc0ac\uc2a4 \ud640\ub364 \ud655\ub960 \ud45c\u2533\ud3ec\ucee4 \uac8c\uc784 \ubc29\ubc95\u260b\ud3ec\ucee4 \uce69\u27bd\n              \n              \n               Comic Sans\n              \n             \n            \n            \n             size\n             \n             \n              T\n             \n             \n              T\n             \n             \n              T\n             \n             \n              T\n             \n            \n            \n             color\n             \n             \n             \n             \n             \n             \n             \n             \n             \n             \n             \n             \n             \n             \n             \n             \n             \n             \n             \n             \n            \n           \n          \n          \n           \uc628\ub77c\uc778\uce74\uc9c0\ub178\ubc14\uce74\ub77c \ucd9c\ubaa9\ud45c\u263b\ubc30\ud130\ub9ac\ubc14\ub451\uc774\uc0ac\uc774\ud2b8\u2716\u2039\ubc14\uce74\ub77c \uc2e4\uc804 \ubc30\ud305\u203akorea casino\u2533\ubc30\ud130\ub9ac\uac8c\uc784\u266d\uce74\uc9c0\ub178 \ucd1d\ud310 \ubaa8\uc9d1\u2701\uc628\ub77c\uc778 \ud640\ub364\u2666\uc628\ub77c\uc778\uce74\uc9c0\ub178\n          \n          \n          \n          \n          \n          \n          \n           \n            \n             \n             \n            \n            \n             \uc628\ub77c\uc778\uce74\uc9c0\ub178\u2713-\ud638\ud154\uce74\uc9c0\ub178-\u21d6\ud669\uae08\uc131 \ub3d9\uc601\uc0c1\u300e\uac15\ub0a8 \uc0ac\uc124 \uce74\uc9c0\ub178\u300f\u21b0\u2039\uce74\uc9c0\ub178 \uba38\uc2e0\u203a\u30ed\ud0dc\uc591 \uc131\u2537\uce74\uc9c0\ub178\uc0ac\uc774\ud2b8\u254b\uce74\uc9c0\ub178 \uc5d0\uc774\uc804\ud2b8\u2666\ubc14\uce74\ub77c \ub3c8 \ub530\ub294 \ubc95\u21d7\ub9b4 \uac8c\uc784 \uc57c\ub9c8\ud1a0\n            \n            \n             Play Video\n                                    -\n             \n              4:00\n             \n            \n           \n          \n         \n        \n        \n         \n          \n           \n           \n          \n         \n         \n         \n        \n       \n      "
+    },
+    "url": {
+        "@language": "en",
+        "@value": "\uc628\ub77c\uc778\uce74\uc9c0\ub178\u27b9-\ub354\ud0b9\uce74\uc9c0\ub178-\u20aa\ud669\uae08\uc131 \ub3d9\uc601\uc0c1\u300ef1\uce74\uc9c0\ub178\u300f\u252e\u2039\ud640\ub364\u203a\u255c\ud30c\ub77c\ub2e4\uc774\uc2a4 \uce74\uc9c0\ub178\u2724\uc628\uce74 \uba39\ud280\u30cb\ub9c8\uce74\uc624 \ube14\ub799 \uc7ad \ud6c4\uae30\u2600\ud30c\ub77c\ub2e4\uc774\uc2a4 \uc6cc\ucee4\ud790 \uce74\uc9c0\ub178\u2584\uac15\ub79c"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "contentUrl": {
+            "@language": "en",
+            "@value": "https://www.today.com/offsite/meal-prep-recipes-use-slow-cook-pork-shoulder-3-ways-65923653585"
+        },
+        "description": {
+            "@language": "en",
+            "@value": "\uc628\ub77c\uc778\uce74\uc9c0\ub178\u270e-\ud638\ud154\uce74\uc9c0\ub178-\u254f\ud669\uae08\uc131 \ub3d9\uc601\uc0c1\u300e\ud544\ub9ac\ud540 \uce74\uc9c0\ub178 \ud6c4\uae30\u300f\u2532\u2039\uc2a4\ud3ec\uce20\ud1a0\ud1a0\uc0ac\uc774\ud2b8\ucd94\ucc9c\u203a\u2502\ubaa8\ud788\uac04 \uce74\uc9c0\ub178\u2195\ubc14\uce74\ub77c \ubd84\uc11d\u2503\ud3ec\ucee4 \ud558\ub294 \ubc950\ub8f0\ub81b \ud504\ub85c\uadf8\ub7a8\u21a0\ub9c8\uce74\uc624 \ud658\uc804\uc0c1"
+        },
+        "duration": {
+            "@language": "en",
+            "@value": "P240S"
+        },
+        "name": {
+            "@language": "en",
+            "@value": "\uc628\ub77c\uc778\uce74\uc9c0\ub178\u25b6-\ub354\ud0b9\uce74\uc9c0\ub178-\u260a\ud669\uae08\uc131 \ub3d9\uc601\uc0c1\u300e\ubc14\uce74\ub77c\uc2a4\ud1a0\ub9ac\u300f\u25e6\u2039\uac15\uc6d0 \ub79c\ub4dc vip \uc870\uac74\u203a\u25b3\ubc14\uce74\ub77c\uc0ac\uc774\ud2b8 \ucd94\ucc9c\u279b\uce74\uc9c0\ub178 \uc885\ub958\u2234\uce74\uc9c0\ub178 \uaf41\uba38\ub2c8\u21dc\ub9b4 \uac8c\uc784\u219b\uce74\uc9c0\ub178 \uac80\uc99d\uc0ac\uc774\ud2b8"
+        },
+        "thumbnailUrl": {
+            "@language": "en",
+            "@value": "http://media14.s-nbcnews.com/j/MSNBC/Components/Video/201908/tdy_food_9a_make_ahead_monday_190812_1920x1080.today-inline-vid-featured-desktop.jpg"
+        },
+        "uploadDate": {
+            "@language": "en",
+            "@value": "2019-08-12T13:58:43.000+0000"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

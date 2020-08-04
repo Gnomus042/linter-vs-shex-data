@@ -1,0 +1,28 @@
+{
+    "@type": "Recipe",
+    "additionalType": {
+        "@value": "Gebak"
+    },
+    "author": {
+        "@value": "Gette"
+    },
+    "datePublished": {
+        "@value": "2018-05-01"
+    },
+    "description": {
+        "@value": "Recept voor Tarte tatin met vloeibaar deeg. Meer originele recepten en bereidingswijze voor gebak vind je op gette.org."
+    },
+    "image": {
+        "@id": "https://www.gette.org/photos/producten/2018/n-tarte-tatin-met-vloeibaar-deeg-1473-638.JPG"
+    },
+    "name": {
+        "@value": "Tarte tatin met vloeibaar deeg"
+    },
+    "recipeInstructions": {
+        "@value": "\n        \tDe oven voorverwarmen op 180\u00b0C\nDe appels schillen, in vier snijden, klokkenhuis verwijderen en verder in schijfjes snijden.\nDe taartvorm met boter instrijken.\nKaramel bereiden: alle ingredi\u00ebnten samen aan de kook brengen en even laten pruttelen.\nGiet dit in de taartplaat en schik de appels er dakpansgewijs op.\nDeeg: klop de suiker op met de olie, voeg vervolgens de eieren, het limoensap en de limoenrasp toe. Meng nu de bloem met de bakpoeder erdoor en tot slotte de melk.\nGiet het deeg over de appelen en laat staan tot gebruik.\nBak net voor het opdienen 50 minuten in een oven van 180\u00b0C\nLeg een bord op de taart en draai het geheel om en ontvorm, zodat de appels boven komen te liggen.\nLekker met een bolletje ijs.\n            "
+    },
+    "recipeYield": {
+        "@value": "4 personen"
+    },
+    "@id": "http://example.org/recipe"
+}

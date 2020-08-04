@@ -1,0 +1,192 @@
+{
+    "@type": "Recipe",
+    "accountablePerson": {
+        "@language": "en",
+        "@value": "BBC Good Food"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4.6"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Gordon Ramsay"
+        }
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2003-12-01"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "An elegant finishing touch for your dinner party dessert, from Gordon Ramsay"
+    },
+    "image": {
+        "@id": "https://www.bbcgoodfood.com/recipes/2706/coconut-tuiles///www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--3654_11.jpg?itok=tdmUEDPl"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "85g desiccated coconut"
+        },
+        {
+            "@language": "en",
+            "@value": "2 medium egg whites"
+        },
+        {
+            "@language": "en",
+            "@value": "50g unsalted butter"
+        },
+        {
+            "@language": "en",
+            "@value": "25g plain flour"
+        },
+        {
+            "@language": "en",
+            "@value": "85g icing sugar, sifted"
+        }
+    ],
+    "keywords": [
+        {
+            "@language": "en",
+            "@value": "Icing sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "Gordon ramsey"
+        },
+        {
+            "@language": "en",
+            "@value": "Dinner party"
+        },
+        {
+            "@language": "en",
+            "@value": "Light"
+        },
+        {
+            "@language": "en",
+            "@value": "Wafer"
+        },
+        {
+            "@language": "en",
+            "@value": "Gordon"
+        },
+        {
+            "@language": "en",
+            "@value": "Crisp"
+        },
+        {
+            "@language": "en",
+            "@value": "Desiccated coconut"
+        },
+        {
+            "@language": "en",
+            "@value": "A challenge"
+        },
+        {
+            "@language": "en",
+            "@value": "Gordon ramsay"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Coconut tuiles"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "55"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "5g"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "4g"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "1g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "1g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "3g"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "0.02g"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "4g"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "en",
+            "@value": "Dinner"
+        },
+        {
+            "@language": "en",
+            "@value": "Dessert"
+        }
+    ],
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Indian"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Put a teaspoon of the mixture on the silicone and spread with the back of a dessertspoon into a neat thin 7cm round. Alternatively, place a round stencil on the silicone and scrape the mixture flat in the hole with a palette knife. Shape 3-4 at a time, leaving space between."
+        },
+        {
+            "@language": "en",
+            "@value": "Bake in batches for 7 minutes each, until pale golden around the edges. Remove and scrape off on to a wire rack to cool. To shape, press each one over a rolling pin as it cools."
+        },
+        {
+            "@language": "en",
+            "@value": "Melt the butter, then leave until cool, but still runny. Preheat the oven to fan 160C/ conventional 180C/gas 4 and line a baking sheet with non-stick silicone."
+        },
+        {
+            "@language": "en",
+            "@value": "Whizz the coconut in a food processor until finely ground, but not powdery. Whizz in the icing sugar and flour, then the egg whites followed by the cooled butter \u2013 you should have a smooth, slightly runny paste. Scoop this out into a bowl."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": " Makes 24 "
+    },
+    "sourceOrganization": {
+        "@language": "en",
+        "@value": "BBC Good Food"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT1H15M"
+    },
+    "@id": "http://example.org/recipe"
+}

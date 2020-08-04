@@ -1,0 +1,20 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2016-07-15"
+    },
+    "interactionCount": {
+        "@value": "UserComments:0"
+    },
+    "name": {
+        "@value": "\u091a\u0928\u093e \u0926\u093e\u0932 \u092d\u0930\u0947 \u092a\u094d\u092f\u093e\u091c"
+    },
+    "recipeCategory": {
+        "@value": "\n            \tBaking, Sabzi, Salad            "
+    },
+    "recipeInstructions": {
+        "@value": "\u092d\u0930\u0935\u093e\u0902 \u0938\u092c\u094d\u091c\u0940\n"
+    },
+    "@id": "http://example.org/recipe"
+}

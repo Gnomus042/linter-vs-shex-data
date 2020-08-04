@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "en-US",
+            "@value": "528"
+        },
+        "url": {
+            "@language": "en-US",
+            "@value": "https://www.cscassets.com/recipes/large_cknew/large_60095.jpg"
+        },
+        "width": {
+            "@language": "en-US",
+            "@value": "610"
+        }
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Blackberry & Fresh Mint Stars"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT15M"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "8 ounces (2 containers, 4 ounces  each ) vanilla pudding"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons thinly sliced\u00a0fresh mintleaves  and  25 whole fresh mint leaves"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup seedless blackberry jamor  preserves"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2   of a 17.3-ounce package Pepperidge Farm\u00ae Puff Pastry Sheets(1 sheet), thawed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pint fresh blackberries(about 25 berries)"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\tHeat the oven to 400\u00b0F.\u00a0 Unfold\u00a0the pastry sheet on a lightly floured surface.\u00a0 Cut the pastry sheet into 25 (about\u00a02-inch) squares.\u00a0\u00a0Using a sharp knife,\u00a0cut diagonal lines\u00a0from the corners of the pastry squares to within 3/4-inch of the center.\u00a0 Fold every other corner to the center and press to seal.\u00a0 Place the pastries onto 2 baking sheets.Bake for 10 minutes or until the pastries are golden brown.\u00a0\u00a0Using the back of a spoon, press down\u00a0the centers of the hot pastries to make an indentation.Heat the jam in a medium microwavable bowl on HIGH for 10 seconds or until it's warm.\u00a0 Add the blackberries and toss to coat.\u00a0 Spoon about\u00a02 teaspoons pudding\u00a0in the center of each pastry.\u00a0 Top each with 1 blackberry and 1/4 teaspoon shredded mint.\u00a0 Garnish each with 1 mint leaf.\t\t\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "25"
+    },
+    "@id": "http://example.org/recipe"
+}

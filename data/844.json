@@ -1,0 +1,96 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 tsp lemon juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 tsp vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Blueberry Filling:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups blueberries, fresh or frozen"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 T. Ultra Gel"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/2 T. water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Scant 2/3 cup milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Null"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 1/2 cups powdered sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Glaze:"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Filling For Blueberry Rolls of the Gluten Free Variety"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Pour glaze on rolls as soon as they come out of the oven. "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spread blueberry filling on top. "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Micro-cook for 3-4 minutes. Stir and cook until thickened. Approximately 2-4 more minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add lemon juice. Cool."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Whisk glaze together while rolls are baking. "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Toss blueberries and sugar together. Add Ultra Gel. Mix in water. "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spread your dough with butter and sprinkle liberally with cinnamon."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Roll up, slice and place in pan to bake. Follow instructions from dough for rise time and baking."
+        },
+        {
+            "@language": "en-US",
+            "@value": "It will melt and run down into the rolls and make a crusty sweet glaze."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

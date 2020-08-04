@@ -1,0 +1,99 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "2"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "Recipeler"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT1H10M"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n\t\tCategories\n\t\t\t\t / Meat And Poultry\n\t\t\t\t / Chicken\n\t\t\t\t / Chicken Legs\n\t\t\t\t"
+    },
+    "image": {
+        "@id": "https://recipeler.com/img/oven-bbq-chicken-drumsticks.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "4 teaspoons butter"
+        },
+        {
+            "@language": "en",
+            "@value": "2 teaspoons dry mustard"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup water"
+        },
+        {
+            "@language": "en",
+            "@value": "2 teaspoons Worcestershire sauce, or to taste"
+        },
+        {
+            "@language": "en",
+            "@value": "2 teaspoons chili powder, or to taste"
+        },
+        {
+            "@language": "en",
+            "@value": "2 teaspoons salt"
+        },
+        {
+            "@language": "en",
+            "@value": "1/3 cup white vinegar"
+        },
+        {
+            "@language": "en",
+            "@value": "6 chicken drumsticks"
+        },
+        {
+            "@language": "en",
+            "@value": "1/3 cup ketchup"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup brown sugar"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Oven Bbq Chicken Drumsticks"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "443"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT1H10M"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\t\t\tPreheat oven to 400 degrees F (200 degrees C). Place drumsticks in a baking dish.Whisk water, ketchup, vinegar, brown sugar, butter, salt, Worcestershire sauce, mustard, and chili powder together in a bowl; pour mixture over drumsticks. Cover with aluminum foil.Bake in preheated oven until no longer pink at the bone and the juices run clear, about 1 hour, turning chicken about halfway through. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Organization",
+        "name": {
+            "@language": "it-IT",
+            "@value": "Buitoni"
+        }
+    },
+    "cookTime": {
+        "@language": "it-IT",
+        "@value": "PT30M"
+    },
+    "image": {
+        "@id": "https://www.buitoni.it/wp-content/themes/buitoni/img/1680x690.jpg"
+    },
+    "name": {
+        "@language": "it-IT",
+        "@value": "Strudel ai fichi e miele"
+    },
+    "prepTime": {
+        "@language": "it-IT",
+        "@value": "PT20M"
+    },
+    "recipeCategory": {
+        "@language": "it-IT",
+        "@value": "Dolci"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Cannella in polvere\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tq.b. \t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \tPasta Sfoglia Rettangolare                                \t\t\t\t\t        \n                            \n\t\t\t\t\t        \t1 confezione\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Savoiardi\t\t\t\t\t        \n                            \n\t\t\t\t\t        \t4 \t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Pinoli\t\t\t\t\t        \n                            \n\t\t\t\t\t        \t1 cucchiaio\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Zucchero al velo\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tq.b. \t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Brandy\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tmezzo bicchierino\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Fichi\t\t\t\t\t        \n                            \n\t\t\t\t\t        \t6 \t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Miele di castagno\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tq.b. \t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Uvetta\t\t\t\t\t        \n                            \n\t\t\t\t\t        \t1 cucchiaio\t\t\t\t\t    \t\n                        "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "it-IT",
+        "@value": "\n                Preparazione\n                In una ciotola sbriciolate i biscotti e aggiungete l\u201duvetta prima fatta ammorbidire nel brandy per una decina di minuti. Pelate i fichi, tagliateli a pezzetti e trasferiteli nella ciotola con i biscotti e l\u201duvetta; unite un pizzico di cannella, i pinoli, 4 cucchiai di miele e mescolate bene. Stendete la pasta sfoglia in una teglia adagiandola sulla sua speciale carta antiaderente, disponete il ripieno al centro formando una striscia, arrotolate la pasta e sigillate le estremit\u00e0 con le dita. Inumidite la superficie con acqua e spolverizzate con un cucchiaio di zucchero al velo. Cuocete in forno caldo a 200\u00b0 per mezz\u201dora circa. Sfornate, lasciate raffreddare, spolverizzate la superficie con cannella e zucchero al velo e servite.\n            "
+    },
+    "totalTime": {
+        "@language": "it-IT",
+        "@value": "PT50M"
+    },
+    "@id": "http://example.org/recipe"
+}

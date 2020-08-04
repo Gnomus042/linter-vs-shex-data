@@ -1,0 +1,179 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "George Graham - AcadianaTable.com"
+    },
+    "image": {
+        "@id": "http://louisianacooking.com/2019/08/19/fried-grouper-tacos//wp-content/uploads/2013/03/mg_6825-300x199.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 tablespoons lime juice, freshly squeezed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2\u00bc cups mayonnaise, divided"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon garlic powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup ketchup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons chopped cilantro"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup diced cucumber"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon hot sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 gallon peanut oil, for frying"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup thinly shredded cabbage"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons lemon juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups peeled and diced mango"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon diced fresh jalapeno"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup diced tomato"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup diced red onion"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Kosher salt and freshly ground black pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon Creole mustard or coarse-grained mustard"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon cayenne"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Juice of 1 lemon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon onion powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8 flour tortillas"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon lemon pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Dash of hot sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup thinly julienned carrot"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons red wine vinegar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup horseradish"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 pounds fillet Gulf finfish, such as grouper, cut into bite-sized chunks"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup thinly sliced white onion"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups yellow corn meal"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup rice flour"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Fried Grouper Tacos"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Serve this dish with a side of black beans."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large mixing bowl, combine the rice flour, corn meal, garlic powder, onion powder, cayenne, salt, and lemon pepper. Stir and move to the side."
+        },
+        {
+            "@language": "en-US",
+            "@value": "For assembly, place two flour tortillas on a plate. Spread each with the slaw mixture and place a serving of the fried fish on each. Spoon on the salsa and add a squeeze of sauce over each."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large mixing bowl, add the cabbage, carrot, and onion along with the vinegar and mustard. Fold in \u00bc cup of the mayonnaise and stir to combine. Cover and refrigerate."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large mixing bowl, add the diced mango, tomato, red onion, cucumber, cilantro, and jalapeno. Add the lime juice and stir to incorporate. Cover and refrigerate."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a mixing bowl, combine the remaining 2 cups of mayonnaise, horseradish, lemon juice, and hot sauce. Begin slowly adding the ketchup while stirring with a whisk. Once the white mayonnaise base begins turning pink with the ketchup, stop. Season with salt and pepper. Pour the mixture into a plastic squeeze bottle."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large pot, pour in the peanut oil and heat on medium to a temperature of 375\u00baF."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Inspect the fish fillets to make sure all pin bones have been removed. Dredge the fish pieces in the fish fry dry mixture and drop into the hot oil. Be careful not to crowd the pan or let the temperature drop. You will probably have to fry in two or three stages depending on the size of your pan. When golden brown, remove to a platter covered in paper towel. Keep the platter warm while you fry the remaining fish."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large mixing bowl, add the fish pieces and pour over the lemon juice and hot sauce coating all the pieces."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

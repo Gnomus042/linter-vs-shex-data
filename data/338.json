@@ -1,0 +1,182 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "fr-FR",
+            "@value": "59"
+        },
+        "ratingValue": {
+            "@language": "fr-FR",
+            "@value": "4.7"
+        }
+    },
+    "author": {
+        "@language": "fr-FR",
+        "@value": "Amour de cuisine"
+    },
+    "image": {
+        "@id": "https://www.amourdecuisine.fr/wp-content/uploads/2016/09/tarte-au-citron-meringu%C3%A9e-facile.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "300 ml d\u2019eau"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "le zeste de deux citrons"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "4 c a soupe rase de ma\u00efzena"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "150 gr de beurre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 sachet de sucre vanill\u00e9"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "30 gr de beurre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "3 blancs d'oeuf"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "4 jaunes d\u2019oeuf"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "30 gr de poudre d\u2019amandes"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "100 ml de jus de citron"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "90 gr de sucre glac\u00e9"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "240 gr de farine"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 jaune d\u2019oeuf"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 pinc\u00e9e de sel"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "180 gr de sucre semoule"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "150 gr de sucre"
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "tarte au citron meringu\u00e9e"
+    },
+    "recipeCategory": {
+        "@language": "fr-FR",
+        "@value": "dessert, tarte"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "fr-FR",
+            "@value": "Ajoutez le beurre coup\u00e9 en d\u00e9s et m\u00e9langez avec le batteur K jusqu'\u00e0 l'obtention d'un m\u00e9lange sabl\u00e9."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "pr\u00e9parez la meringue:"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "caram\u00e9lisez la meringue \u00e0 l'aide d'un chalumeau. et si il fait la t\u00eate comme le mien, et ne veut pas s\u2019allumer, eh ben mettez au four allumer d\u2019en haut, tout en surveillant, ca prend tout de suite la couleur dor\u00e9e, c\u2019\u00e9tait m\u00eame pas 3 minutes pour moi, et j\u2019ai failli bruler la meringue, hihihihi"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "dans une casserole placez l\u2019eau, le jus de citron et la ma\u00efzena."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "laissez refroidir juste un peu, et remplissez le fond de tarte."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "faites \u00e9paissir sur feu doux, juste un peu."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Laissez reposer. \u00c9taler la p\u00e2te avec le rouleau entre 2 feuilles de papier cuisson."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "remettre tout le m\u00e9lange ensuite dans la casserole, et recuire sur feu doux tout en remuant avec une cuill\u00e8re en bois, jusqu\u2019a obtenir une belle cr\u00e8me onctueuse."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "pr\u00e9parez la cr\u00e8me citronn\u00e9e:"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "fouettez les blancs en neige ferme avec la pinc\u00e9e de sel."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "pr\u00e9parez la pate sabl\u00e9e: Dans le bol du blinder ou robot mettre la farine, le sucre, le sucre vanill\u00e9 et le sel."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "retirez la cr\u00e8me du feu et introduisez la beurre en petits morceaux."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Ajoutez le jaune d'\u0153uf et la poudre d'amande et battre jusqu'\u00e0 l'obtention d'une p\u00e2te qui se d\u00e9tache des parois du bol, et qui soit non collante."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "retirez la casserole du feu et laissez ti\u00e9dir un peu, puis versez un peu de ce m\u00e9lange, sur le m\u00e9lange de jaune d\u2019oeuf pour le diluer un peu."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Piquez le fond de p\u00e2te \u00e0 la fourchette."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Ajoutez le sucre par petites quantit\u00e9s tout en continuant de battre. et jusqu\u2019a ce que les blancs d\u2019oeuf deviennent brillant."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Foncer un cercle \u00e0 tarte de 28-30 cm de diam\u00e8tre."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "dans un saladier fouettez le sucre et les jaunes d\u2019oeuf, incorporez le zeste de citron."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "couvrez d\u2019une feuille de cuisson, et remplissez de l\u00e9gumes secs ( pour moi c\u2019etait des pastilles en verre pour ornement de vase ) et mettez au four 20 min \u00e0 180\u00b0C, puis retirez les l\u00e9gumes secs et la feuille et poursuivez la cuisson 10 minutes."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "d\u00e9corez la tarte avec cette meringue selon votre gout."
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "8"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,77 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@value": "This cinnamon spice crazy cake is an amazing fall cake recipe! Also called a wacky cake and made without eggs, milk or butter. This is our family\u2019s favorite fall cinnamon cake because it\u2019s so easy!"
+    },
+    "image": [
+        {
+            "@id": "https://thefirstyearblog.com/wp-content/uploads/2018/08/Cinnamon-Spice-Crazy-Cake-7-280x280.jpg"
+        },
+        {
+            "@id": "https://thefirstyearblog.com/cinnamon-spice-crazy-cake/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
+        }
+    ],
+    "ingredients": [
+        {
+            "@value": "1 tsp vanilla extract"
+        },
+        {
+            "@value": "2 & 1/2 cups all purpose flour"
+        },
+        {
+            "@value": "3/4 tsp salt"
+        },
+        {
+            "@value": "1/4 tsp ginger"
+        },
+        {
+            "@value": "1 & 1/2 tsp vanilla extract"
+        },
+        {
+            "@value": "3 cups powdered sugar"
+        },
+        {
+            "@value": "1 stick butter, 1/2 cup, softened"
+        },
+        {
+            "@value": "1 & 1/2 cups cold water"
+        },
+        {
+            "@value": "1 & 1/2 cups sugar"
+        },
+        {
+            "@value": "1/4 tsp ground cloves"
+        },
+        {
+            "@value": "1/2 cup vegetable oil"
+        },
+        {
+            "@value": "1 package cream cheese, 8 oz, softened"
+        },
+        {
+            "@value": "1/2 tsp nutmeg"
+        },
+        {
+            "@value": "1/2 tbsp distilled white vinegar"
+        },
+        {
+            "@value": "3 tsp cinnamon"
+        },
+        {
+            "@value": "1 tsp baking soda"
+        }
+    ],
+    "name": {
+        "@value": "Cinnamon Spice Crazy Cake"
+    },
+    "recipeInstructions": {
+        "@value": "CAKEPreheat the oven to 350\u00baF.\u00a0 In a large mixing bowl, whisk together the all purpose flour, sugar, baking soda, salt, cinnamon, nutmeg, ground cloves and ginger.Make 3 wells in the dry ingredients using the bottom of a measuring cup. Pour the vanilla extract in one, the vinegar in the second and the vegetable oil in the third. Before mixing, pour the cold water over everything, then mix by hand with a spatula until the batter is combinedPour the batter into an UN-GREASED 9 x13 inch pan and bake for 25-28 minutes or until a toothpick inserted in the center comes out clean. Allow the cake to cool completely before adding the frosting.Cream cheese frostingIn a mixing bowl combine the softened cream cheese and butter, beat using an electric mixer for 1-2 minutes. Add in the vanilla extract and some of the powdered sugar, mixing by hand or on low, continuing beating in the powdered sugar until the frosting is smooth.Spread the frosting over the cooled cake.For easy cutting, refrigerate the cake for 20 minutes to help set the frosting.Store leftovers in the fridge."
+    },
+    "recipeYield": {
+        "@value": "9x13 inch cake"
+    },
+    "totalTime": {
+        "@value": "PT2H"
+    },
+    "@id": "http://example.org/recipe"
+}

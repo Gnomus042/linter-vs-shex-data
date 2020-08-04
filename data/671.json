@@ -1,0 +1,62 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "admin"
+    },
+    "description": {
+        "@value": "Zanimljivo i ukusno"
+    },
+    "image": {
+        "@id": "https://www.zalogaj.com/recept/56-cevapcici//img/recipes/56/cropped_558297-10150943878757791-sv.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "300 g govedine\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "so\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "200 g masne ov\u010detine\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "2 glavice crnog luka\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "biber\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "malo sode bikarbone\t\t\t\t\t\t\t"
+        }
+    ],
+    "name": {
+        "@value": "\u0106evap\u010di\u0107i\t\t\n\t\t\t\t"
+    },
+    "recipeCategory": {
+        "@value": "\n\t\t\tMeso i riba"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Posoliti meso, dodati sodu bikarbonu i ostaviti  da stoji izvesno vreme"
+        },
+        {
+            "@value": "Slu\u017eiti  sa sitno seckanim crnim lukom"
+        },
+        {
+            "@value": "Pe\u0107i ih  na ro\u0161tilju neposredno pred slu\u017eenje"
+        },
+        {
+            "@value": "A mogu se po ukusu i pobiberiti ili posuti tucanom paprikom"
+        },
+        {
+            "@value": "Meso samleti i dobro ga izme\u0161ati, pa ponovo samleti"
+        },
+        {
+            "@value": "Umesiti dobro (\u0161to se vi\u0161e mesi smesa \u0107evap\u010di\u0107i \u0107e biti bolji)"
+        },
+        {
+            "@value": "Praviti \u0107evap\u010di\u0107e debljine palca"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

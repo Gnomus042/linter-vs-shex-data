@@ -1,0 +1,92 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-gb",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-gb",
+            "@value": "0"
+        },
+        "worstRating": {
+            "@language": "en-gb",
+            "@value": "0"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2016-07-01"
+    },
+    "description": {
+        "@language": "en-gb",
+        "@value": "Makes 6\nBy Will Packwood\nPhotography by Melanie Grizzel"
+    },
+    "image": {
+        "@id": "http://edibleaustin.com/index.php/component/yoorecipe/recipe/992//images/com_yoorecipe/1621/cropped-baked-blueberries-5-of-10-1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-gb",
+            "@value": "granulated sugar, divided"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "fresh Texas blueberries or blackberries (or a combination)"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "salt"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "egg yolks"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "half-and-half"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "large eggs"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "all-purpose flour"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "of lemon"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "granulated sugar"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "vanilla bean(s), split and scraped"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "butter, melted (plus more for preparing dishes)"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "egg white(s)"
+        }
+    ],
+    "name": {
+        "@language": "en-gb",
+        "@value": "\nIndividual Fresh-Berry Clafoutis with Cr\u00e8me Anglaise"
+    },
+    "recipeInstructions": {
+        "@language": "en-gb",
+        "@value": "\n\t\t\tMake the cr\u00e8me anglaise by whisking together the yolks and half of the sugar in a stainless-steel bowl until light and fluffy. In a small saucepan, bring the half-and-half, the remaining sugar, vanilla bean and the salt to a simmer.\nRemove the pot from the heat and while whisking vigorously, temper the yolk mixture with some of the warm half-and-half. Add the tempered egg mixture to the pot, return it to the heat and heat to 180\u00b0 while stirring constantly with a wooden spoon. Serve immediately or cool in an ice bath and store covered in the refrigerator up to 3 days.\nTo make the individual clafoutis, process the first 8 ingredients with a mixer until thoroughly combined. Strain the mixture and allow it to rest, covered, in the refrigerator for 1 hour. Meanwhile, butter 6, 1-inch-deep gratin dishes and heat the oven to 375\u00b0.\nDistribute the berries evenly in the prepared dishes and add the batter. Place the dishes on a cookie sheet and transfer to the oven. Allow the clafoutis to bake until golden brown and set\u2014about 20 minutes. Remove the clafoutis from the oven, split the surface with a spoon and sauce generously with the warmed cr\u00e8me anglaise. Serve immediately.\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-gb",
+        "@value": "1 Batch(es)"
+    },
+    "@id": "http://example.org/recipe"
+}

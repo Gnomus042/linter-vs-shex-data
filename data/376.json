@@ -1,0 +1,204 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "ro",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "ro",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "ro",
+        "@value": "MIUTA"
+    },
+    "datePublished": {
+        "@language": "ro",
+        "@value": "2011-09-26"
+    },
+    "description": {
+        "@language": "ro",
+        "@value": " Am calit in ulei ceapa si unul din morcovi dat pe razatoare.Am adaugat pasta de ardei si am pus apa in cratita.Am pus telina si morcovul taiat cubulete.    Am spalat si taiat costita felii.Am pus-o la fiert in ciorba.    Am pus sare si cimbu uscat si am lasat sa fiarba pana aproape a fiert costita.    Am adaugat varza taiata fidelute si am lasat sa fiarba din nou.    Am curatat cartofii,i-am spalat si i-am taiat cubulete.    I-am pus la fiert in ciorba.    Cand cartofii sunt aproape fierti adaugam bulionul si mai lasam cateva minute sa fiarba.    Punem intr-un vas smantana si adaugam treptat ciorba fierbinte amestecand continu.    Turnam smantana fierbinte peste ciorba.    Adaugam piper si marar verde tocat.    Mai lasam 2 minute sa fiarba si oprim focul. "
+    },
+    "image": {
+        "@id": "https://www.bucataras.ro/retete/ciorba-de-varza-cu-cartofi-25420.html//uploads/modules/news/25420/656x440_ciorba-de-varza-cu-cartofi-126775.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ro",
+            "@value": "costita afumata"
+        },
+        {
+            "@language": "ro",
+            "@value": "cimbru uscat"
+        },
+        {
+            "@language": "ro",
+            "@value": "ulei"
+        },
+        {
+            "@language": "ro",
+            "@value": "2 morcovi potriviti"
+        },
+        {
+            "@language": "ro",
+            "@value": "cartofi"
+        },
+        {
+            "@language": "ro",
+            "@value": "marar verde"
+        },
+        {
+            "@language": "ro",
+            "@value": "sare,piper"
+        },
+        {
+            "@language": "ro",
+            "@value": "bulion"
+        },
+        {
+            "@language": "ro",
+            "@value": "smantana"
+        },
+        {
+            "@language": "ro",
+            "@value": "o ceapa"
+        },
+        {
+            "@language": "ro",
+            "@value": "o telina mica"
+        },
+        {
+            "@language": "ro",
+            "@value": "3 linguri pasta de ardei"
+        },
+        {
+            "@language": "ro",
+            "@value": "varza"
+        }
+    ],
+    "keywords": {
+        "@language": "ro",
+        "@value": "ciorba,varza,cartofi,"
+    },
+    "name": {
+        "@language": "ro",
+        "@value": "Ciorba de varza cu cartofi"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ro",
+            "@value": "106"
+        }
+    },
+    "recipeCategory": {
+        "@language": "ro",
+        "@value": "Ciorbe"
+    },
+    "recipeCuisine": {
+        "@language": "ro",
+        "@value": "Romania"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ro",
+            "@value": "\n    3 linguri pasta de ardei"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    o telina mica"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    smantana"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    cartofi"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    costita afumata"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    cimbru uscat"
+        },
+        {
+            "@language": "ro",
+            "@value": "Null"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    2 morcovi potriviti"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    bulion"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    o ceapa"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    varza"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    ulei"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    marar verde"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    sare,piper"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ro",
+        "@value": " Am calit in ulei ceapa si unul din morcovi dat pe razatoare.Am adaugat pasta de ardei si am pus apa in cratita.Am pus telina si morcovul taiat cubulete.    Am spalat si taiat costita felii.Am pus-o la fiert in ciorba.    Am pus sare si cimbu uscat si am lasat sa fiarba pana aproape a fiert costita.    Am adaugat varza taiata fidelute si am lasat sa fiarba din nou.    Am curatat cartofii,i-am spalat si i-am taiat cubulete.    I-am pus la fiert in ciorba.    Cand cartofii sunt aproape fierti adaugam bulionul si mai lasam cateva minute sa fiarba.    Punem intr-un vas smantana si adaugam treptat ciorba fierbinte amestecand continu.    Turnam smantana fierbinte peste ciorba.    Adaugam piper si marar verde tocat.    Mai lasam 2 minute sa fiarba si oprim focul. "
+    },
+    "recipeYield": {
+        "@language": "ro",
+        "@value": "15 portii"
+    },
+    "totalTime": {
+        "@language": "ro",
+        "@value": "PT60M"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "ro",
+            "@value": " Am calit in ulei ceapa si unul din morcovi dat pe razatoare.Am adaugat pasta de ardei si am pus apa in cratita.Am pus telina si morcovul taiat cubulete.    Am spalat si taiat costita felii.Am pus-o la fiert in ciorba.    Am pus sare si cimbu uscat si am lasat sa fiarba pana aproape a fiert costita.    Am adaugat varza taiata fidelute si am lasat sa fiarba din nou.    Am curatat cartofii,i-am spalat si i-am taiat cubulete.    I-am pus la fiert in ciorba.    Cand cartofii sunt aproape fierti adaugam bulionul si mai lasam cateva minute sa fiarba.    Punem intr-un vas smantana si adaugam treptat ciorba fierbinte amestecand continu.    Turnam smantana fierbinte peste ciorba.    Adaugam piper si marar verde tocat.    Mai lasam 2 minute sa fiarba si oprim focul. "
+        },
+        "name": {
+            "@language": "ro",
+            "@value": "Ciorba de varza cu cartofi"
+        },
+        "thumbnailURL": {
+            "@language": "ro",
+            "@value": "https://www.bucataras.ro/uploads/modules/news/25420/656x440_ciorba-de-varza-cu-cartofi-126775.jpg"
+        },
+        "uploadDate": {
+            "@language": "ro",
+            "@value": "2011-09-26 22:05:13"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

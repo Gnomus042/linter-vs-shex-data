@@ -1,0 +1,72 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/pripravy_specii_i_sousy/pripravy/sol_povarennaya/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/ovoschi_i_frukty/griby/perec_sladkij_krasnyj/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/ovoschi_i_frukty/svezhie_ovoschi/tykvennye_ovoschi/ogurcy/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/konditerskie_izdeliya_2/muchnye_konditerskie_izdeliya/kreker/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/ovoschi_i_frukty/svezhie_ovoschi/korneplody/hren/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/molochnye_produkty/kislomolochnye_produkty/smetana/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/pripravy_specii_i_sousy/pryanosti/perec_chernyj/perec_chernyj_molotyj/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/napitki/bezalkogolnye_napitki/soki/sok_limona/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/ovoschi_i_frukty/svezhie_ovoschi/pryanye_ovoschi/ukrop/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/ovoschi_i_frukty/svezhie_ovoschi/lukovye_ovoschi/lukshalot/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/ovoschi_i_frukty/svezhie_ovoschi/korneplody/redka/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/ryba_rybnye_produkty/zhivaya_ryba/losos/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/ovoschi_i_frukty/svezhie_ovoschi/pryanye_ovoschi/petrushka/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/molochnye_produkty/syry/syry_naturalnye/syr_slivochnyj/"
+        },
+        {
+            "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//foodstuff/ovoschi_i_frukty/pererabotannye_ovoschi_i_plody/sushenye_plody_i_ovoschi/konservy/kapersy/"
+        }
+    ],
+    "name": {
+        "@value": "\u0421\u043e\u0443\u0441 \u0438\u0437 \u043a\u043e\u043f\u0447\u0435\u043d\u043e\u0433\u043e \u043b\u043e\u0441\u043e\u0441\u044f \u043a \u043a\u0440\u0435\u043a\u0435\u0440\u0430\u043c \u0438 \u043e\u0432\u043e\u0449\u0430\u043c"
+    },
+    "recipeCategory": {
+        "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//recipe/sousy_i_zapravki/"
+    },
+    "recipeInstructions": {
+        "@value": "\n                    \n\u00a0\n\n1. \u0421\u043c\u0435\u0442\u0430\u043d\u0443, \u0441\u043b\u0438\u0432\u043e\u0447\u043d\u044b\u0439 \u0441\u044b\u0440, \u0438\u0437\u043c\u0435\u043b\u044c\u0447\u0435\u043d\u043d\u044b\u0435 \u043a\u0430\u043f\u0435\u0440c\u044b, \u0438\u0437\u043c\u0435\u043b\u044c\u0447\u0435\u043d\u043d\u044b\u0439 \u043b\u0443\u043a-\u0448\u0430\u043b\u043e\u0442, \u043b\u0438\u043c\u043e\u043d\u043d\u044b\u0439 \u0441\u043e\u043a, \u0445\u0440\u0435\u043d, \u0438\u0437\u043c\u0435\u043b\u044c\u0447\u0435\u043d\u043d\u044b\u0435 \u043a\u043e\u043f\u0447\u0435\u043d\u044b\u0439 \u043b\u043e\u0441\u043e\u0441\u044c, \u0443\u043a\u0440\u043e\u043f, \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0443\u044e \u043f\u0435\u0442\u0440\u0443\u0448\u043a\u0443, \u0441\u0432\u0435\u0436\u0435\u043c\u043e\u043b\u043e\u0442\u044b\u0439 \u043f\u0435\u0440\u0435\u0446 \u043f\u0435\u0440\u0435\u043c\u0435\u0448\u0430\u0442\u044c \u0432 \u043c\u0438\u0441\u043a\u0435.\n\n2. \u0414\u043e\u0432\u0435\u0441\u0442\u0438 \u0434\u043e \u0432\u043a\u0443\u0441\u0430 \u0441\u043e\u043b\u044c\u044e, \u0441\u043f\u0435\u0446\u0438\u044f\u043c\u0438 \u0438 \u0442\u0440\u0430\u0432\u0430\u043c\u0438.\n\n3. \u041f\u043e\u0434\u0430\u0432\u0430\u0442\u044c \u0441 \u043e\u0433\u0443\u0440\u0435\u0447\u043d\u044b\u043c\u0438 \u043b\u043e\u043c\u0442\u0438\u043a\u0430\u043c\u0438, \u043a\u0440\u0435\u043a\u0435\u0440\u0430\u043c\u0438, \u0440\u0435\u0434\u044c\u043a\u043e\u0439 \u0438 \u0441\u043b\u0430\u0434\u043a\u0438\u043c \u043f\u0435\u0440\u0446\u0435\u043c.\n\n4. \u041e\u0442\u043b\u0438\u0447\u043d\u0430\u044f \u0437\u0430\u043a\u0443\u0441\u043a\u0430 \u0434\u043b\u044f \u0432\u0435\u0447\u0435\u0440\u0438\u043d\u043a\u0438.\n\u00a0\n\n\n\n\u00a0\n\n\n\n\u00a0\n\n\n\n\u041f\u0440\u0438\u044f\u0442\u043d\u043e\u0433\u043e \u0430\u043f\u043f\u0435\u0442\u0438\u0442\u0430!\n\n\u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a: http://acozykitchen.com\n            "
+    },
+    "recipeSubCategory": {
+        "@id": "http://oede.by/recipe/sousy_i_zapravki/sousy_1/sous_iz_kopchenogo_lososya_k_krekeram_i_ovoscham//recipe/sousy_i_zapravki/sousy_1/"
+    },
+    "recipeYield": {
+        "@value": "\n            \n            \n                    5            \n            \n        "
+    },
+    "resultPhoto": {
+        "@id": "http://st.oede.by/st/img/recipe/192x144/4988.jpg"
+    },
+    "totalTime": {
+        "@value": "PT5M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,89 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "en-US",
+            "@value": "528"
+        },
+        "url": {
+            "@language": "en-US",
+            "@value": "https://www.cscassets.com/recipes/large_cknew/large_10313.jpg"
+        },
+        "width": {
+            "@language": "en-US",
+            "@value": "610"
+        }
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Puff Pastry Cannoli Cones"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT25M"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "0.333 cup heavy cream, whipped to stiff peaks"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1   egg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pinch ground nutmeg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup whole milk ricotta cheese, drained (see how in Step 1 below)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2   of a 17.3-ounce package Pepperidge Farm\u00ae Puff Pastry Sheets\u00a0(1 sheet), thawed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 package (12 ounces) semi-sweet mini chocolate chips"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6   sugar ice cream cone"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup confectioners' sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1.5 teaspoons almond flavored liqueur\u00a0or 1/2 teaspoon almond extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup chopped pistachios\u00a0(optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pinch salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pinch ground cinnamon"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\tTo drain the ricotta, place it into a fine sieve over a bowl. \u00a0Top with a paper towel and then something heavy to press the liquid out. \u00a0Let stand for 30 minutes to 1 hour (the longer it drains, the thicker the cannoli filling will be).Heat the oven to 400\u00b0F. \u00a0Cover the cones in aluminum foil, tucking any excess foil into the top. \u00a0Spray the foil cones with vegetable cooking spray. \u00a0Beat the egg and water in a small bowl with a fork.Unfold the pastry sheet on the work surface. \u00a0Cut the pastry sheet into\u00a03\u00a0rectangles along the fold marks. \u00a0Cut\u00a0each\u00a0rectangle lengthwise into\u00a04\u00a0strips, making\u00a012\u00a0strips in all. You will need 2 strips for each cone.Starting at the pointed end, wrap\u00a01\u00a0strip around the cone, overlapping the edges slightly. \u00a0Brush the end with the egg wash then firmly press the end of another strip to join and continue wrapping. \u00a0Repeat with the remaining pastry and cones. \u00a0Brush the wrapped pastry cones with the egg wash. Place the cones onto a baking sheet (pastry end-side down).Bake for 15 minutes or until the pastry cones are golden brown. \u00a0Let the pastries cool completely on the baking sheet on a wire rack. \u00a0Carefully remove the pastry cones from the foil cones.Stir the drained ricotta cheese, confectioners' sugar,\u00a02 tablespoons\u00a0chocolate chips, liqueur, cinnamon, nutmeg and salt in a medium bowl. \u00a0Gently fold in the whipped cream just until combined. \u00a0Cover and refrigerate for 30 minutes.Microwave the remaining chocolate chips in a medium microwavable bowl for 30 seconds on HIGH. \u00a0Stir. \u00a0Repeat until the chocolate is melted and smooth after stirring. \u00a0Line a baking sheet with parchment paper. \u00a0Dip half of each pastry cone lengthwise into the melted chocolate, sprinkle with the pistachios, if desired,\u00a0and place onto the baking sheet. \u00a0Refrigerate for 10 minutes or until the chocolate is set. \u00a0Spoon or pipe the ricotta mixture into the pastry cones. \u00a0Serve immediately or refrigerate for up to 8 hours before serving.\t\t\t\t\t\t\t\t\tTips\n\n\t\t\t\t\tFor a fresh twist, stir 1/4 teaspoon grated orange zest or 1 teaspoon chopped candied orange peel into the ricotta mixture.\nYou can make these ahead of time. \u00a0Make the cones and filling and keep separately for up to 1 day (filling in refrigerator and cones in an airtight container). \u00a0Filled cones can then be refrigerated for up to 8 hours.\n\t\t\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

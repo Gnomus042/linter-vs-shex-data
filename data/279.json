@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://mag.the4blades.com/author/abesolutions/"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT25M"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2018-01-23"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "An easy way to use up overripe bananas and keep the refined sugars low for little people. We love that this is an egg and nut free lunchbox recipe.\nRecipe Tester Feedback: \u201cOh soooooo good! My daughter wanted to eat the whole batch, she loved them so much!\" - Terri\nNo: Egg / Nuts\nContains: Gluten / Dairy\n*Variations: Can be made without Dairy\nPreparation Time 10 minutes\nCooking Time 25 minutes\nMakes 15-20 biscuits\nCan be frozen\n"
+    },
+    "image": {
+        "@id": "https://mag.the4blades.com/wp-content/uploads/2018/01/Choc-Chip-Chickpea-Biscuits_2-1-150x150.jpg"
+    },
+    "ingredients": [
+        {
+            "@id": "https://mag.the4blades.com/ingredients/baking-powder/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/chickpeas/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/chocolate-chips/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/oats/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/banana/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/maple-syrup/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/vanilla/"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Choc Chip Chickpea Biscuits"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT10M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n            \n\u00a0Preheat oven to 180C. Line a baking tray with baking paper.\nAdd the rinsed chickpeas (400g tin), rolled oats (140g), overripe banana (1), maple syrup (60-80g), vanilla extract (1 tsp) and baking powder (1 tsp) to the bowl. Blitz Speed 6 / 6 seconds. Scrape down sides.\n\u00a0Program 1 minute / Speed 4.\n\u00a0Add the dark choc chips (100g) to the bowl. Mix Reverse+Speed 3 / 4 seconds, or mix in with your spatula.\n\u00a0Remove the mixture from the bowl. This is quite a sticky mixture, but leaving it to sit for a few minutes will make it easier to work with.\n\u00a0Spoon tablespoonfuls of the mixture onto the baking tray, then press them down slightly with the back of the spoon.\n\u00a0Bake for 25 minutes, or until golden brown. Allow to cool completely.\n\u00a0Once cooled, store in an airtight container for up to five days.\n\u00a0Enjoy!\n\n\n        "
+    },
+    "@id": "http://example.org/recipe"
+}

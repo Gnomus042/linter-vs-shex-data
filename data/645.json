@@ -1,0 +1,46 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@value": "13"
+        },
+        "ratingValue": {
+            "@value": "9.77"
+        },
+        "worstRating": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@value": "Katarzyna Guzik"
+    },
+    "commentCount": {
+        "@value": "2"
+    },
+    "dateModified": {
+        "@value": "2019-04-01"
+    },
+    "datePublished": {
+        "@value": "2019-04-01"
+    },
+    "description": {
+        "@value": "Zestawienie najlepszych przepis\u00f3w na Wielkanoc. Zajrzyj koniecznie!"
+    },
+    "image": {
+        "@value": "http://gotujebolubie.pl/img/blog/Wielkanocne_kolaz_2_1448_original.jpg"
+    },
+    "mainEntityOfPage": {
+        "@value": "http://gotujebolubie.pl/przepis/przepisy-na-wielkanoc4"
+    },
+    "name": {
+        "@value": "Przepisy na Wielkanoc"
+    },
+    "thumbnailURL": {
+        "@value": "http://gotujebolubie.pl/img/blog/Wielkanocne_kolaz_2_1448_small.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

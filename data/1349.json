@@ -1,0 +1,48 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@value": "36"
+        }
+    },
+    "description": {
+        "@value": "If you like a Snickerdoodle cookie, you\u2019re going to love this Snickerdoodle bread. It\u2019s a sweet, buttery quick bread studded with luscious cinnamon chips with a crispy cinnamon sugar topping. ^^ CLICK TO SEE FULL RECIPES ^^ | Bread | Bread Recipes | Bread Pudding | Bread Machine Recipes | Bread Pudding Recipes | Bread Baking | Bread Recipes Homemade | Bread Recipes Easy | Bread Recipes Artisan | Bread Recipes For Bread Machine | Bread Recipes Videos | #dahardulu"
+    },
+    "image": {
+        "@id": "https://1.bp.blogspot.com/-yKY6zfX4tpE/XQ2iF2z1zvI/AAAAAAAAKq0/YRCCVvrXNiodefdcWVNQN10n7IeOnk41wCLcBGAs/s1600/Snickerdoodle_Bread1.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": " 4 eggs"
+        },
+        {
+            "@value": " 1/2 teaspoon salt"
+        },
+        {
+            "@value": " 2 cup sugar"
+        },
+        {
+            "@value": " 1 cup butter, softened"
+        },
+        {
+            "@value": " 2 teaspoons cinnamon"
+        },
+        {
+            "@value": "## CLICK TO SEE FULL RECIPES ##"
+        }
+    ],
+    "name": {
+        "@value": "Snickerdoodle Bread"
+    },
+    "recipeInstructions": {
+        "@value": "Null"
+    },
+    "recipeYield": {
+        "@value": "2 Servings"
+    },
+    "@id": "http://example.org/recipe"
+}

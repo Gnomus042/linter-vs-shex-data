@@ -1,0 +1,171 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.thebakerchick.com/wp-content/uploads/2011/11/IMG_33341.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tsp vanilla extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cake:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Caramel Sauce for drizzle: I like this recipe"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup whole milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cinnamon Pecan Topping:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2\u00bc teaspoons baking powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 egg white"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup vegetable oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bdsticks (6 ounces) unsalted butter, softened"
+        },
+        {
+            "@language": "en-US",
+            "@value": "One 15-ounce can pumpkin puree"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 large eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Frosting:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be teaspoon baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons heavy cream"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups all-purpose flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd teaspoon freshly grated nutmeg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc teaspoon ground cloves"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bc cups light brown sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pound cream cheese, cut into 2-inch cubes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon ground ginger"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup crushed pecans"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc teaspoon salt"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Pumpkin Caramel Layer Cake"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Place one layer on a plate and spread with 1 cup of the caramel\u2013cream cheese frosting. Top with the the next 3 layers and repeat. Then, frost the top and side. Top with Candied pecans and Caramel Sauce (optional) Refrigerate the cake for 2 hours before serving."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Bake for 20 minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Using a serrated knife, carefully slice each layer of cake in half to make 4 thin cake layers."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat the oven to 350\u00b0. Butter and flour two 8-inch round cake pans."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a medium bowl, whisk the flour with the baking powder, salt, cinnamon, ginger, baking soda, nutmeg and cloves."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Once cool- break the pecans apart and sprinkle on top of the cake."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a bowl, using an electric mixer, beat the brown sugar and eggs at medium-high speed until fluffy, 3 minutes. Beat in the oil, then beat in the pumpkin puree. Alternately add the dry ingredients and the milk in 3 batches, beating well between additions."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a medium saucepan, combine the sugar and water. Cook over high heat, stirring, until the sugar is dissolved. Using a wet pastry brush, wash down any crystals from the side of the pan. Cook over moderate heat without stirring until a medium-dark amber caramel forms, about 9 minutes. Remove from the heat and immediately stir in the butter and heavy cream. (Don't worry if the butter separates.) Stir in Vanilla extract."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spread nuts on a cookie sheet lined with foil, in a single layer."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour the batter into the prepared pans and smooth the tops. Bake for 40 to 45 minutes, until a toothpick inserted in the center of the cake comes out clean. Let the cakes cool on a rack for 20 minutes. Run a knife around the edges to loosen the cakes, then invert them onto a wire rack to cool completely."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat oven to 350\u00b0F. Combine sugar, cinnamon and salt. Whisk egg white until frothy and discard about half. Add the nuts. Toss until well coated. Add dry ingredients and stir well."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Transfer the caramel to the large bowl and using an electric mixer, beat at low speed until the caramel cools slightly and comes together, about 5 minutes. With the mixer on, beat in the cream cheese, 1 cube at a time and beating well between additions, until silky. Transfer the frosting to a bowl and refrigerate until very firm, at least 6 hours."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "nl",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "nl",
+            "@value": "24 "
+        }
+    },
+    "author": {
+        "@language": "nl",
+        "@value": "zoeteaardappelkoken.nl"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2017-04-01"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Maak de zoete aardappel goed schoon en snijd in blokjes van ongeveer 1cm bij 1cm. Zet ruim water op en kook dit. In een pan met deksel - snufje zout toevoegen - de zoete aardappel ongeveer 12 min koken. De zoete aardappel koken is makkelijker dan je denkt en overheerlijk!"
+    },
+    "image": {
+        "@id": "http://zoeteaardappelkoken.nl/wp-content/uploads/2017/04/P1020872-e1492970152683.jpg"
+    },
+    "name": {
+        "@language": "nl",
+        "@value": "Gekookte zoeteaardappel"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "nl",
+            "@value": "82kcal/100 gram"
+        }
+    },
+    "recipeIngredient": {
+        "@language": "nl",
+        "@value": "Zoete aardappel, water, zout"
+    },
+    "@id": "http://example.org/recipe"
+}

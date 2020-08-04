@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.gustissimo.it/articoli/ricette/antipasti-salumi/antipasto-di-salumi.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "Cetriolini sott'aceto"
+        },
+        {
+            "@value": "Salame milano"
+        },
+        {
+            "@value": "Salame piemontese"
+        },
+        {
+            "@value": "Cipolline sott'aceto"
+        },
+        {
+            "@value": "Coppa"
+        },
+        {
+            "@value": "Prosciutto crudo in fettine sottili"
+        },
+        {
+            "@value": "Olive nere"
+        },
+        {
+            "@value": "Prosciutto cotto in fettine sottili"
+        },
+        {
+            "@value": "Mortadella"
+        }
+    ],
+    "name": {
+        "@value": "\n                        \n                Antipasto di salumi    "
+    },
+    "recipeInstructions": {
+        "@value": "\n                                     \n                                        \n                                            Preparazione\n                                            Munitevi di alcuni vassoi e di vaschette in vetro. Sui vassoi disponete ordinatamente le fette di salumi, stendendo le fette di salume lungo i bordi del vassoio e arricciando le fette di salame al centro. Prestate attenzione a non lasciare fette troppo grosse, dividendole preventivamente in pi\u00f9 parti, altrimenti finisce che ognuno mangia un salume solo, mentre l\u2019idea \u00e8 di far prendere a tutti pi\u00f9 salumi.A questo punto prendere le vaschette di vetro e disponete al loro interno i sottaceti, senza mai mischiarli.\n                                        \n                                     \n                                        \n                                            Accorgimenti\n                                            Usate sempre una vaschetta per ogni cosa, \u00e8 importante preservare i sapori.\n                                        \n                                     \n                                        \n                                            Idee e varianti\n                                            Naturalmente potete arricchire i vostri vassoi con gli ingredienti che pi\u00f9 vi piacciono.\n                                        \n                                    \n                                    \n\n                                                                    "
+    },
+    "recipeYield": {
+        "@value": "4 persone"
+    },
+    "@id": "http://example.org/recipe"
+}

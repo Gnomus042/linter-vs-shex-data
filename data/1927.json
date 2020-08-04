@@ -1,0 +1,81 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "sv",
+        "@value": "Emma Barremyr"
+    },
+    "description": {
+        "@language": "sv",
+        "@value": "\n\t\t\t\t\t\t\tSupergoda glutenfria scones!\n\t\t\t\t\t\t"
+    },
+    "image": {
+        "@id": "https://cdn.stowr.se/p/7f/3b/7f3b00b3e773251b03e71e63d2296b48211ebc39-251285-2.jpg"
+    },
+    "name": {
+        "@language": "sv",
+        "@value": "Havrescones"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 st\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u00e4gg\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 dl\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHavremj\u00f6l\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 tsk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsukrin\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 krm\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvaniljpulver\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 tsk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tfiberhusk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 tsk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tbakpulver\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 st\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tliten riven morot\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 dl\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHavregryn\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1/2 tsk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tsalt\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 dl\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmj\u00f6lk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1/4 dl\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tkokosolja\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "sv",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1/2 st\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\trivet \u00e4pple\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "sv",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t1.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tS\u00e4tt ugnen p\u00e5 200 grader.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t2.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBlanda ihop alla torra ingredienser.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t3.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBlanda sedan i kokosolja, morot, \u00e4pple, \u00e4gg och havremj\u00f6lk.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t4.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tKlicka ut fyra kakor p\u00e5 en pl\u00e5t och gr\u00e4dda sedan i 20-25 minuter. L\u00e5t svalna lite innan servering.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t5.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tServera med god ost och marmelad!\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "sv",
+        "@value": "2 St"
+    },
+    "totalTime": {
+        "@language": "sv",
+        "@value": "20 min"
+    },
+    "@id": "http://example.org/recipe"
+}

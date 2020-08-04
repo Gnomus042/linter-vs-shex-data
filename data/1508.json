@@ -1,0 +1,52 @@
+{
+    "@type": "Recipe",
+    "image": [
+        {
+            "@id": "https://hiphomeschoolmoms.com/wp-content/uploads/2018/12/flourless-peanut-butter-cookies_sample1_1.jpg"
+        },
+        {
+            "@id": "https://hiphomeschoolmoms.com/santas-favorite-cookies-flourless-peanut-butter-cookies///hiphomeschoolmoms.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif"
+        }
+    ],
+    "ingredients": [
+        {
+            "@value": "1 cup light brown sugar"
+        },
+        {
+            "@value": "1 teaspoon vanilla"
+        },
+        {
+            "@value": "teaspoon salt"
+        },
+        {
+            "@value": "1 large egg"
+        },
+        {
+            "@value": "1 teaspoon baking soda"
+        },
+        {
+            "@value": "1 cup peanut butter"
+        }
+    ],
+    "name": {
+        "@value": "Flourless Peanut Butter Cookies"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Remove from oven and cool completely before serving."
+        },
+        {
+            "@value": "Preheat oven to 350 degrees. Prepare a baking sheet with parchment paper."
+        },
+        {
+            "@value": "Using a small cookie scoop, measure 1-inch balls of cookie dough and place on the baking sheet. Using a fork, press across the dough and again in a perpendicular pattern."
+        },
+        {
+            "@value": "Bake for 8 to 9 minutes. Cookies will be slightly puffed."
+        },
+        {
+            "@value": "In a bowl, cream together the peanut butter and sugar until fluffy. Add the egg, vanilla, baking soda, and salt. Mix until well blended."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

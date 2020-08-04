@@ -1,0 +1,80 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@value": "2014-06-19"
+    },
+    "description": {
+        "@value": "   Deliziosa variante della classica crostata alle mele, questa gustosa versione \u00c3\u00a8 arricchita dall\u2019aroma intenso della cannella, dalla dolcezza degli amaretti e da vellutato yogurt bianco.Ingredienti500 gr. di farina150 gr. di burro150 gr. di yogurt bianco150 gr. di zucchero1 uovo1 bustina di lievito vanigliatola scorza grattuggiata di due limoniun pizzico di salelatte q.b.Per farcire:3 mele120 gr. di zuccherouna decina di amarettiun pizzico di cannellaPreparazioneStep 1Per prima cosa, procedete con la preparazione della pasta frolla, mescolando bene la farina col burro (a temperatura ambiente), per poi unire al composto lo zucchero, la scorza di limone, l'uovo, lo yogurt bianco e il lievito. Lavorate bene gli ingredienti fino ad ottenere un impasto omogeneo; nel caso in cui la sua consistenza risultasse eccessivamente dura, potrete aggiungere un po' di latte. Poi, fate riposare in frigo per mezz'ora circa.Step 2Nel frattempo, preparate la farcia, unendo la farina alle mele tagliate a tocchetti, e completando con un pizzico di cannella. Amalgamate bene, mettete per qualche minuto nel microonde e poi fate riposare.Step 3Con la pasta frolla, foderate una teglia, lasciando da parte la terza parte circa dell'impasto, ricoprite con il composto di mele e poi sbriciolatevi sopra gli amaretti. Prendete la pasta frolla rimasta e sovrapponetela al composto, chiudete con cura i bordi e, servendovi di una forchetta, praticate dei piccoli fori in superficie. Mettete la crostata nel forno preriscaldato, ad una temperatura di 180 gradi, per circa 25 minuti. Una volta pronta, lasciatela raffreddare e spolverizzatela con zucchero a velo.Il dolce potrebbe essere servito dopo un invitante filetto di maiale alle mele, e in abbinamento ad un vino bianco passito, come ad esempio l\u2019Albana di Romagna.    "
+    },
+    "image": {
+        "@id": "http://www.cucinaredolci.it/wp-content/uploads/2014/06/crostata-di-mele-e-amaretti-575x262.jpg"
+    },
+    "interactionCount": {
+        "@value": "UserComments:0"
+    },
+    "name": {
+        "@value": "Crostata di mele e amaretti allo yogurt"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "Per farcire:"
+        },
+        {
+            "@value": "3 mele"
+        },
+        {
+            "@value": "120 gr. di zucchero"
+        },
+        {
+            "@value": "un pizzico di cannella"
+        },
+        {
+            "@value": "un pizzico di sale"
+        },
+        {
+            "@value": "500 gr. di farina"
+        },
+        {
+            "@value": "150 gr. di zucchero"
+        },
+        {
+            "@value": "150 gr. di burro"
+        },
+        {
+            "@value": "1 bustina di lievito vanigliato"
+        },
+        {
+            "@value": "latte q.b."
+        },
+        {
+            "@value": "150 gr. di yogurt bianco"
+        },
+        {
+            "@value": "1 uovo"
+        },
+        {
+            "@value": "la scorza grattuggiata di due limoni"
+        },
+        {
+            "@value": "una decina di amaretti"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Per prima cosa, procedete con la preparazione della pasta frolla, mescolando bene la farina col burro (a temperatura ambiente), per poi unire al composto lo zucchero, la scorza di limone, l'uovo, lo yogurt bianco e il lievito. Lavorate bene gli ingredienti fino ad ottenere un impasto omogeneo; nel caso in cui la sua consistenza risultasse eccessivamente dura, potrete aggiungere un po' di latte. Poi, fate riposare in frigo per mezz'ora circa."
+        },
+        {
+            "@value": "Nel frattempo, preparate la farcia, unendo la farina alle mele tagliate a tocchetti, e completando con un pizzico di cannella. Amalgamate bene, mettete per qualche minuto nel microonde e poi fate riposare."
+        },
+        {
+            "@value": "Con la pasta frolla, foderate una teglia, lasciando da parte la terza parte circa dell'impasto, ricoprite con il composto di mele e poi sbriciolatevi sopra gli amaretti. Prendete la pasta frolla rimasta e sovrapponetela al composto, chiudete con cura i bordi e, servendovi di una forchetta, praticate dei piccoli fori in superficie. Mettete la crostata nel forno preriscaldato, ad una temperatura di 180 gradi, per circa 25 minuti. Una volta pronta, lasciatela raffreddare e spolverizzatela con zucchero a velo."
+        }
+    ],
+    "recipeYield": {
+        "@value": "4"
+    },
+    "url": {
+        "@value": "http://www.cucinaredolci.it/crostata-di-mele-e-amaretti-allo-yogurt"
+    },
+    "@id": "http://example.org/recipe"
+}

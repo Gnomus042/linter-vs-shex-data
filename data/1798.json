@@ -1,0 +1,84 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Nada Choufi"
+    },
+    "headline": {
+        "@language": "en-US",
+        "@value": "Pumpkin Muffins"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "en-US",
+            "@value": "1024"
+        },
+        "url": {
+            "@language": "en-US",
+            "@value": "https://mothermayibake.com/wp-content/uploads/2019/10/pumpmuffin-1024x1024.jpg"
+        },
+        "width": {
+            "@language": "en-US",
+            "@value": "1024"
+        }
+    },
+    "mainEntityOfPage": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Pumpkin Muffins"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@id": "https://mothermayibake.com/recipe-category/lets-bake/"
+        },
+        {
+            "@id": "https://mothermayibake.com/recipe-category/pumpkin-please/"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "3/4 cup sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1.5 cup flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup pumpkin puree"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 tbsp pumpkin spice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup milk-almond or regular"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

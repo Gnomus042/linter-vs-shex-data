@@ -1,0 +1,67 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "es-ES",
+        "@value": "Alicia"
+    },
+    "description": {
+        "@language": "es-ES",
+        "@value": "Receta de Conchiglie con Salsa Velout\u00e9"
+    },
+    "image": {
+        "@id": "https://cocinayrecetas-static.hola.com/lacocinadealicia/files/2012/09/conchiglie01-300x195.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "es-ES",
+            "@value": "100 gr de conchiglie de colores o cualquier otra pasta a vuestra elecci\u00f3n"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "50 gr de mantequilla"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "500 cc de fondo blanco o caldo de pollo"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "C/S de salteado con carne picada y queso rallado para decorar"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "50 gr de harina"
+        }
+    ],
+    "name": {
+        "@language": "es-ES",
+        "@value": "Conchiglie con Salsa Velout\u00e9"
+    },
+    "recipeCategory": {
+        "@language": "es-ES",
+        "@value": "Primeros platos, Pasta"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "es-ES",
+            "@value": " Mientras cocer los conchiglie seg\u00fan las instrucciones del fabricante. Refrescar, escurrir y reservar. "
+        },
+        {
+            "@language": "es-ES",
+            "@value": " Para servir, disponer los conchiglie, salsear con la velout\u00e9, decorar con el salteado de carne y finalizar con queso reci\u00e9n rallado y un poco de finas hierbas para dar color. "
+        },
+        {
+            "@language": "es-ES",
+            "@value": " En primer lugar, haremos un roux con la mantequilla y la harina sin que llegue a dorarse en ning\u00fan momento. Apartar del fuego y dejar atemperar. "
+        },
+        {
+            "@language": "es-ES",
+            "@value": " Agregar a pocos el fondo muy caliente y ir moviendo con unas varillas para evitar que se formen grumos. Salpimentar y volver a poner a fuego suave y dejar cocer unos 15-20 minutos removiendo con las varillas frecuentemente para que no se pegue. Probar y rectificar al gusto si fuese necesario. "
+        }
+    ],
+    "recipeYield": {
+        "@language": "es-ES",
+        "@value": "2-3 personas"
+    },
+    "@id": "http://example.org/recipe"
+}

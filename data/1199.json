@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en",
+        "@value": "Serve over ice cream, pound cake, angel food cake or with sliced apples"
+    },
+    "image": {
+        "@id": "https://recipes-secure-graphics.grocerywebsite.com/0_GraphicsRecipes/3705_4k.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Salted Caramel Sauce"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "granulated sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "salted butter, room temperature, cut up into 6 pieces"
+        },
+        {
+            "@language": "en",
+            "@value": "salt"
+        },
+        {
+            "@language": "en",
+            "@value": "heavy cream"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Stirring constantly with a rubber spatula, heat sugar in a medium saucepan over medium heat, until clumps form and melt into a thick, amber-colored liquid. When sugar has completely melted, add the butter and allow to melt.  Slowly, drizzle in 1/2 cup of heavy cream while stirring. Allow the mixture to boil for 1 minute, being careful to not burn the caramel.Remove from heat and stir in 1 teaspoon of salt. Allow caramel to cool before using."
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "About 6 ounces"
+    },
+    "@id": "http://example.org/recipe"
+}

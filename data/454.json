@@ -1,0 +1,33 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "sl",
+        "@value": "Recept brez laktoze, jajc in ore\u0161\u010dkov."
+    },
+    "image": {
+        "@id": "http://binevolcic.si/recept/buca_s_tofujem//media/uploads/public/product/30-bucatofu.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "sl",
+            "@value": "2 \u017elici olivnega olja"
+        },
+        {
+            "@language": "sl",
+            "@value": "1 \u017elica sojine omake"
+        },
+        {
+            "@language": "sl",
+            "@value": "500 g mu\u0161katne bu\u010de"
+        }
+    ],
+    "name": {
+        "@language": "sl",
+        "@value": "Bu\u010da s tofujem"
+    },
+    "recipeYield": {
+        "@language": "sl",
+        "@value": "2 osebi"
+    },
+    "@id": "http://example.org/recipe"
+}

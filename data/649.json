@@ -1,0 +1,70 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1 cup"
+        },
+        {
+            "@language": "en",
+            "@value": "8 ounces lobster meat, diced"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup fresh squeezed orange juice"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons cognac"
+        },
+        {
+            "@language": "en",
+            "@value": "1 teaspoon chopped fresh tarragon leaves"
+        },
+        {
+            "@language": "en",
+            "@value": "Fresh"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd cup heavy cream"
+        },
+        {
+            "@language": "en",
+            "@value": "4 prepared Vol au Vent shells ("
+        },
+        {
+            "@language": "en",
+            "@value": "1 tablespoon chopped shallots"
+        },
+        {
+            "@language": "en",
+            "@value": "Salt and pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "White pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tablespoon sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "4 ounces"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Lobster Vol au Vent with Orange Cognac Sauce Recipe : Food Network"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "For the Orange Cognac Sauce: In a medium saucepan over high heat combine the orange juice, sugar, salt, and pepper. Bring to a boil then reduce heat until nearly evaporated. Add the stock, heavy cream, and cognac. Boil for minute, remove from the heat, and set aside.\n\nFor the Lobster Vol au Vent:..."
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ko",
+        "@value": "Youdonku Store"
+    },
+    "brand": {
+        "@language": "ko",
+        "@value": "brandnewmedia.asia"
+    },
+    "image": {
+        "@language": "ko",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1ggphbDTI8KJjSsphq6AFppXau/\ud604\ub300-\uc0c8\ub85c\uc6b4-\uc911\uad6d-\uc2a4\ud0c0\uc77c-\uc0f9\ub4e4\ub9ac\uc5d0-\uac70\uc2e4-\ub808\uc2a4\ud1a0\ub791-\ubcf5\ub3c4-\uc218\uc9c0-\ub7a8\ud504-\uac04\ub2e8\ud55c-\ucc3d\uc870\uc801-\uc778-\uc131\uaca9-\uc608\uc220-\uc5f0\uaf43.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ko",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "ko",
+            "@value": "32838861256"
+        }
+    ],
+    "name": {
+        "@language": "ko",
+        "@value": "\ud604\ub300 \uc0c8\ub85c\uc6b4 \uc911\uad6d \uc2a4\ud0c0\uc77c \uc0f9\ub4e4\ub9ac\uc5d0 \uac70\uc2e4 \ub808\uc2a4\ud1a0\ub791 \ubcf5\ub3c4 \uc218\uc9c0 \ub7a8\ud504 \uac04\ub2e8\ud55c \ucc3d\uc870\uc801 \uc778 \uc131\uaca9 \uc608\uc220 \uc5f0\uaf43 luminaires"
+    },
+    "@id": "http://example.org/recipe"
+}

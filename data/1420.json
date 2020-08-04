@@ -1,0 +1,24 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "pt",
+        "@value": "Null"
+    },
+    "brand": {
+        "@language": "pt",
+        "@value": "lpfb.us"
+    },
+    "image": {
+        "@language": "pt",
+        "@value": "https://i0.wp.com/_350x350.jpg"
+    },
+    "ingredients": {
+        "@language": "pt",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "pt",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

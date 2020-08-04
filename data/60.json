@@ -1,0 +1,103 @@
+{
+    "@type": "Recipe",
+    "copyrightHolder": {
+        "@language": "en-US",
+        "@value": "All images copyright Normal Cooking (http://normalcooking.com)"
+    },
+    "image": {
+        "@id": "http://normalcooking.com/wp-content/uploads/2015/02/Copycat-Panera-Broccoli-and-Cheese-Soup-Text.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup flour\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 pound fresh broccoli florets\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup carrots, julienne (you can just buy a bag of pre-julienned carrots)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 teaspoon of salt\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8 ounces grated cheddar cheese (I would recommend at least 12 ounces if you like it cheesy!)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 medium onion, chopped\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups chicken stock\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 Tbsp olive oil\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon pepper\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 teaspoon nutmeg\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup melted butter\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups half-and-half (or milk)\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Copycat Panera Broccoli Cheese Soup"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Heat soup over low heat and add cheese and mix until melted.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Slowly add half-and- half (or milk), mixing the entire time. Slowly add chicken stock, mixing the entire time.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Meanwhile, saute onions in oil in a small pan.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Season with salt, pepper; nutmeg.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Melt butter in a large stockpot. Add flour and mix for 3 minutes.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add broccoli, carrots; onions and cook on low for 25 minutes.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place soup in a blender or use an immersion blender and puree.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Let simmer on low for 20 minutes.\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

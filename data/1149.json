@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Nancy Ging, Whatcom Locavore"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Smoked long cayenne peppers were the inspiration for this spicy hot sauce."
+    },
+    "image": {
+        "@id": "http://whatcomlocavore.com/wp-content/uploads/2011/11/adobo-sauce-l.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "3 cups water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup onion, diced (Half Acre Farm u-pick, Ferndale)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 clove garlic, sliced (Half Acre Farm, Ferndale)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "5 tbsp apple cider vinegar (BelleWood Acres, Lynden)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp dried basil (Half Acre Farm u-pick, Ferndale)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 smoked long cayenne peppers, broken into pieces (Rabbit Fields Farm, Everson)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 dried tomatoes (about \u00bd cup) (home-dehydrated from Full Bloom Farm, Lummi Island)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 jalapeno pepper, finely chopped (frozen from friend's garden, Lummi Island"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp honey (Guilmette's Busy Bees, Bellingham)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Adobo Sauce"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Sauce"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Combine all ingredients in a small sauce pan."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Use a stick blender (or pour into a regular blender) to finely chop ingredients into a thick texture."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Bring to a full boil, then reduce heat to low and simmer gently for about an hour, until the pepper pieces have softened and the sauce has been reduced to about 1 cup."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "1 cup"
+    },
+    "@id": "http://example.org/recipe"
+}

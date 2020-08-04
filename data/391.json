@@ -1,0 +1,54 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://www.fodmaprecept.nl/author/Vero/"
+    },
+    "cookTime": {
+        "@language": "nl",
+        "@value": "PT10M"
+    },
+    "datePublished": {
+        "@language": "nl",
+        "@value": "2016-01-05"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Overal is rode kool met appeltjes verkrijgbaar. Leuk, maar niet als je geen appels mag. Daarnaast is rode kool zonder iets toch nog best wel saai. Vandaar deze variatie; fris, kruidig en lekker, vooral in de winter!\n"
+    },
+    "image": {
+        "@id": "https://www.fodmaprecept.nl/rode-kool-met-sinaasappel/Null"
+    },
+    "ingredients": [
+        {
+            "@id": "https://www.fodmaprecept.nl/ingredients/biologische-rode-kool/"
+        },
+        {
+            "@id": "https://www.fodmaprecept.nl/ingredients/peper-en-zout/"
+        },
+        {
+            "@id": "https://www.fodmaprecept.nl/ingredients/olijfolie/"
+        },
+        {
+            "@id": "https://www.fodmaprecept.nl/ingredients/nootmuskaat/"
+        },
+        {
+            "@id": "https://www.fodmaprecept.nl/ingredients/water/"
+        },
+        {
+            "@id": "https://www.fodmaprecept.nl/ingredients/sinaasappel/"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Rode kool met sinaasappel"
+    },
+    "prepTime": {
+        "@language": "nl",
+        "@value": "PT5M"
+    },
+    "recipeInstructions": {
+        "@language": "nl",
+        "@value": "\n            \nVerhit de olie in een koekenpan en bak de rodekool met nootmuskaat naar smaak 3 minuten op middelhoog vuur. Zet het vuur laag, voeg het water toe en laat de rode kool nog 6 minuten stoven met het deksel op de pan.\nRasp ondertussen de oranje schil van een halve sinaasappel. Schil de sinaasappel en snijd het witte vlies van de sinaasappel. Snijd de partjes vruchtvlees los van de vliezen en wip het vruchtvlees ertussenuit. Vang het sap op.\nNeem de pan rode kool van het vuur en voeg de sinaasappelpartjes en het sinaasappelsap toe. Breng op smaak met peper en zout. Schep om.\nGarneer de rode kool met de sinaasappelrasp.\n\n\n        "
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,63 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "8"
+        },
+        "ratingValue": {
+            "@value": "2,1"
+        },
+        "worstRating": {
+            "@value": "0.5"
+        }
+    },
+    "author": {
+        "@value": "Wenche Andersen"
+    },
+    "cookTime": {
+        "@value": "PT1440M"
+    },
+    "description": {
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "http://static.klikk.no/recipe/2008.08.27/50575954d05abede063df588/039718_BIG.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\n\u00a0\n\nsalt\n"
+        },
+        {
+            "@value": "\n\u00a0\n\nmuskat(kan sl\u00f8yfes)\n"
+        },
+        {
+            "@value": "\n\u00a0\n\npepper\n"
+        },
+        {
+            "@value": "\n1\u00a0400\u00a0g\n\npinnekj\u00f8tt\n"
+        },
+        {
+            "@value": "\n1\u00a0stk\n\nk\u00e5lrot\n"
+        },
+        {
+            "@value": "\n1\u00a0dl\n\nfl\u00f8te\n"
+        },
+        {
+            "@value": "\n\u00a0\n\nvann\n"
+        },
+        {
+            "@value": "\n3\u00a0ss\n\nsm\u00f8r\n"
+        }
+    ],
+    "name": {
+        "@value": "Pinnekj\u00f8tt"
+    },
+    "recipeInstructions": {
+        "@value": "Beregn ca 350 g pinnekj\u00f8tt pr person. Del ribben langsetter mellom hvert ribben. Legg kj\u00f8ttet i kaldt vann natten over, ca 10 timer. Damp pinnekj\u00f8ttet over bj\u00f8rkepinner (uten bark) eller metallrist som legges i bunnen av en kasserolle,\u00a0eventuelt\u00a0fiskekjele. Vannet skal st\u00e5 i\u00a0h\u00f8yde med underlaget (det skal ikke st\u00e5 vann opp p\u00e5 pinnekj\u00f8ttet). Legg p\u00e5 lokk og la kj\u00f8ttet dampe i 2 1/2- 3 timer til det l\u00f8sner fra benet. Etterfyll vann om n\u00f8dvendig. Pinnekj\u00f8ttet kan legges under grillen et kort stund f\u00f8r servering, slik at det blir knasende spr\u00f8tt. Server pinnekj\u00f8ttet med k\u00e5lrotstappe, mandelpoteter og fettet/sjyen fra pinnekj\u00f8ttet. K\u00e5lrotstappe: Del k\u00e5lroten i skiver og skrell. Kok k\u00e5lrotskivene godt m\u00f8re i lettsaltet vann. Mos k\u00e5lroten og smak til med fl\u00f8te eller sm\u00f8r, kraft fra pinnekj\u00f8ttet, salt, pepper,\u00a0eventuelt\u00a0litt malt muskatn\u00f8tt."
+    },
+    "@id": "http://example.org/recipe"
+}

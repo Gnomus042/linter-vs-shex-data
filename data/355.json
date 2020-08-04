@@ -1,0 +1,99 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Donna"
+    },
+    "image": {
+        "@id": "http://www.apronstringsblog.com/wp-content/uploads/2015/07/19737513130_ed0ec3644d_b.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon garlic powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon steak sauce (I used A-1)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup rolled oats"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 large sweet onions, such as Vidalia or Walla Walla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "16 ounces 85 per cent lean ground beef"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon Dijon mustard"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon cayenne pepper sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 large egg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons soy sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6 slices bacon"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Campfire Meatloaf in Onion Cups in Foil Packets"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Entree"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "campfire"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Cook on campfire (or your barbecue grill) for about 5 to 8 minutes on each side. Remove one packet and open to check for doneness. Return to heat until packets are cooked through and bacon is browned."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Make four different socks of two layers of heavy duty aluminum foil that are 12 inches in length. (If using regular aluminum foil, use three layers for each.)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Using hands, mix in the hamburger to this mixture, distributing evenly."
+        },
+        {
+            "@language": "en-US",
+            "@value": "To prepare onions, place onions root side down. Cut off top \u2153 of onion and reserve for another use. Cut the onion in half through the root end. Cutting as needed with a small knife, remove all but the outside two layers of the onion halves."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a medium mixing bowl, combine the egg, mustard, steak sauce, cayenne pepper sauce, soy sauce and garlic powder. Pulse the oats in a food processor until fine crumbs, but not powdered. Stir into bowl."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Stuff the ground beef mixture into the onion halves, pressing them together (I found that the ground beef mixture helps hold the onion halves together."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place the filled onions, cut side up, on the prepared squares of aluminum foil. Form foil around the bottoms of the onions, Cut bacon slices in half lengthwise and lay them across tops of onions. Finish folding foil around onions, making sure that each packet is secure."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

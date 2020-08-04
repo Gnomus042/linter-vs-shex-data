@@ -1,0 +1,15 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "vn",
+        "@value": " Chia s\u1ebb m\u1eabu thi\u1ebft k\u1ebf k\u1ebf bi\u1ec7t th\u1ef1 t\u00e2n c\u1ed5 \u0111i\u1ec3n 3 t\u1ea7ng \u0111\u1eb9p b\u1ec1 th\u1ebf \u0111\u1eb3ng c\u1ea5p c\u1ee7a gia \u0111\u00ecnh anh Minh \u1edf H\u1ea3i Ph\u00f2ng. \u0110\u00e2y l\u00e0 m\u1eabu bi\u1ec7t th\u1ef1 t\u00e2n c\u1ed5 \u0111i\u1ec3n v\u1edbi ki\u1ebfn tr\u00fac c\u1ed5 \u0111i\u1ec3n ph\u00e1p sang tr\u1ecdng, hoa v\u0103n thi\u1ebft k\u1ebf m\u1ec1m m\u1ea1i tinh t\u1ebf t\u1ea1o n\u00ean m\u1ed9t ki\u1ebfn tr\u00fac \u0111\u1ed9c \u0111\u00e1o \u0111\u1eb3ng c\u1ea5p."
+    },
+    "image": {
+        "@id": "http://thietkenhaphobietthu.com/public/uploads/images/2017/10/mau-biet-thu-tan-co-dien-3-tang-dep-1508730826.jpg"
+    },
+    "name": {
+        "@language": "vn",
+        "@value": "M\u00e3n nh\u00e3n v\u1edbi m\u1eabu bi\u1ec7t th\u1ef1 t\u00e2n c\u1ed5 \u0111i\u1ec3n 3 t\u1ea7ng \u0111\u1eb9p \u0111\u1eb3ng c\u1ea5p"
+    },
+    "@id": "http://example.org/recipe"
+}

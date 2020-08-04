@@ -1,0 +1,96 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Sandra de Angelis "
+        }
+    },
+    "description": {
+        "@value": "Oggi prepareremo un saporito Cheesecake alle albicocche! Le albicocche, che sono il frutto dell'albicocco, sono ricche di betacarotene e contengono anche le vitamine C, B1, B2, PP; le albicocche contengono inoltre potassio, magnesio, calcio, ferro e fosforo. Felice estate con il Cheesecake alle albicocche: un fresco dolce per la tua calda estate!\n"
+    },
+    "image": {
+        "@id": "https://www.prodottitipicitoscani.it/images/cheesecake-alle-albicocche.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "Burro a temperatura ambiente: 125 gr"
+        },
+        {
+            "@value": "Biscotti Digestive McVitie's: 250 gr"
+        },
+        {
+            "@value": "Albicocche: 8"
+        },
+        {
+            "@value": "Colla di pesce: 4 fogli"
+        },
+        {
+            "@value": "Acqua bollente:  un poco"
+        },
+        {
+            "@value": "Olio di semi: 1 cucchiaino"
+        },
+        {
+            "@value": "Zucchero a velo: 100 gr"
+        },
+        {
+            "@value": "Acqua: 50 ml"
+        },
+        {
+            "@value": "Panna per dolci zuccherata: 200 gr"
+        },
+        {
+            "@value": "Gelatina neutra (Tortagel): 1/2 bustina"
+        },
+        {
+            "@value": "Succo di limone: 1"
+        },
+        {
+            "@value": "Limoncello: 2 cucchiai"
+        },
+        {
+            "@value": "Albicocche: 5"
+        },
+        {
+            "@value": "Zucchero: 25 gr"
+        },
+        {
+            "@value": "Vanillina: 1 bustina"
+        },
+        {
+            "@value": "Zucchero: 2 cucchiai rasi"
+        },
+        {
+            "@value": "Colla di pesce: 1 foglio"
+        },
+        {
+            "@value": "Acqua: 125 ml"
+        },
+        {
+            "@value": "Philadelphia Classico in vaschetta: 500 gr"
+        },
+        {
+            "@value": "Zucchero:  un poco"
+        }
+    ],
+    "name": {
+        "@value": "Cheesecake alle albicocche"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "254 Kcal "
+        }
+    },
+    "recipeCategory": {
+        "@value": "Dolce (Cheesecake)"
+    },
+    "recipeInstructions": {
+        "@value": "Foderare la base di uno stampo a cerniera con carta forno e, usando un foglio di carta assorbente da cucina unto con un cucchiaino di olio, ungere leggermente il cerchio dello stampo.\nCon il mixer frullare i biscotti e amalgamarli con il burro; metterli nello stampo, livellarli e formare uno strato compatto usando un cucchiaio, le mani o un bicchiere.\nMettere lo stampo in frigo e, intanto, in una terrina montare la panna e metterla in frigo.\nIn un piatto mettere i fogli di gelatina in ammollo acqua fredda; in una ciotola frullare insieme il Philadelphia con lo zucchero a velo, il liquore limoncello e la vanillina.\nQuando si sar\u00e0 ottenuta una cremina omogenea, strizzare i fogli di gelatina e metterli in una ciotola con un po' di acqua bollente e amalgamare facendoli sciogliere.\nUnire la gelatina alla crema di Philadelphia versandola a filo e amalgamando benissimo; quindi unire la crema alla panna, amalgamando delicatamente e bene.\nPrendere lo stampo dal frigo, versarvi la crema di Philadelphia, livellarla e rimettere lo stampo in frigo.\nOra preparare ora il topping: mettere il foglio di gelatina in ammollo in acqua fredda.\nNel mixer frullare 8 albicocche precedentemente lavate e denocciolate; poi mettere il frullato in un pentolino, unire 50 ml di acqua, 25 gr di zucchero e, su fiamma bassa, lasciar sobbollire per qualche minuto mescolando in continuazione.\nQuando il composto di presenter\u00e0 di una consistenza tipo confettura, unire il foglio di gelatina sgocciolato e strizzato e amalgamare per farlo sciogliere; poi togliere il pentolino e distendere la gelatina di albicocche su un piatto da portata per farla stiepidire.\nQuando risulter\u00e0 tiepida, prendere lo stampo dal frigo, distribuire la gelatina sul cheesecake e livellarla lasciandola scorrere sulla crema di formaggio e sbattendo lo stampo su panno ripiegato (se si evita di usare spatole e lame, la gelatina si presenter\u00e0 liscia e senza segni).\nRiporre in frigo e lasciar riposare il Cheesecake alle albicocche almeno 4 ore.\nAl momento di decorare il Cheesecake alle albicocche, tagliare le albicocche a spicchi sottili, metterle in una ciotola, spolverizzarle con poco zucchero e spruzzarle con il succo di limone; preparare la gelatina (Tortagel) come da istruzioni riportate sulla confezione.\nEliminare dallo stampo l'anello (eventualmente, trasferire il Cheesecake alle albicocche su un piatto per dolci), decorarlo a piacere con le albicocche e lucidarle con la gelatina neutra.\nIl vostro Cheesecake alle albicocche \u00e8 pronto!\n"
+    },
+    "recipeYield": {
+        "@value": "19 persone"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,70 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://www.kosher.com/user/4371"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "1 h 05 m"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n            Comforting roasted potatoes. Leaving the skins on adds to the color in this medley.\n            READ MORE\n        "
+    },
+    "image": {
+        "@id": "https://www.kosher.com/resized/details.slide/t/r/tri-colored-potatoes-H.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Tri-Color Potatoes"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "salt, to taste"
+        },
+        {
+            "@language": "en",
+            "@value": "2 red potatoes, unpeeled"
+        },
+        {
+            "@language": "en",
+            "@value": "parsley flakes"
+        },
+        {
+            "@language": "en",
+            "@value": "2 sweet potatoes, unpeeled"
+        },
+        {
+            "@language": "en",
+            "@value": "Glicks Olive Oil Cooking Spray"
+        },
+        {
+            "@language": "en",
+            "@value": "2 potatoes, unpeeled"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Cut potatoes into thick slices or julliene-style."
+        },
+        {
+            "@language": "en",
+            "@value": "Place onto well-greased pan and turn to grease both sides."
+        },
+        {
+            "@language": "en",
+            "@value": "Sprinkle with salt and parsley flakes."
+        },
+        {
+            "@language": "en",
+            "@value": "Bake at 400 degrees for one hour."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

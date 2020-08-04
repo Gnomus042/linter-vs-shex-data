@@ -1,0 +1,103 @@
+{
+    "@type": "Recipe",
+    "TotalTime": {
+        "@language": "pt-br",
+        "@value": "PT25M"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "pt-br",
+            "@value": "2.20"
+        },
+        "reviewCount": {
+            "@language": "pt-br",
+            "@value": "82"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "pt-br",
+            "@value": "Weblaranja\n                     "
+        }
+    },
+    "cookTime": {
+        "@language": "pt-br",
+        "@value": "PT20M"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2016-04-14"
+    },
+    "description": {
+        "@language": "pt-br",
+        "@value": "Uma receita de espagueti, com alho frito no azeite, com tomate cereja, pimenta calabresa e salsinha picada. Salpicado com queijo parmes\u00e3o e lim\u00e3o, um contraste de cor e sabor ! "
+    },
+    "image": [
+        {
+            "@id": "https://weblaranja.com/receitas/massas/11022,048.php//receitas/img_receitas/Macaalho/thbmacaalho-2.jpg"
+        },
+        {
+            "@id": "https://weblaranja.com/receitas/massas/11022,048.php//receitas/img_receitas/Macaalho/macarrao-alho-2.jpg"
+        },
+        {
+            "@id": "https://weblaranja.com/receitas/massas/11022,048.php//receitas/img_receitas/Macaalho/thbmacaalho.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "pt-br",
+            "@value": "\n\t           Sal e pimenta \u00e0 gosto \n\t        "
+        },
+        {
+            "@language": "pt-br",
+            "@value": "\n\t           1/2 x\u00edcara -ch\u00e1 de salsa picada\n\t        "
+        },
+        {
+            "@language": "pt-br",
+            "@value": "\n\t           500g de tomate cereja \n\t            \n\t          "
+        },
+        {
+            "@language": "pt-br",
+            "@value": "\n\t           4 dentes de alho picados\n\t        "
+        },
+        {
+            "@language": "pt-br",
+            "@value": "   1 colher -ch\u00e1 de pimenta \"calabresa\" seca\n\t        "
+        },
+        {
+            "@language": "pt-br",
+            "@value": "\n\t           suco de 1 lim\u00e3o\n\t        "
+        },
+        {
+            "@language": "pt-br",
+            "@value": "\n\t          1/2 x\u00edcara -ch\u00e1 de parmes\u00e3o ralado\n\t          "
+        },
+        {
+            "@language": "pt-br",
+            "@value": "\n\t           1 pacote de macarr\u00e3o espagueti (massa com ovos)\n\t        "
+        },
+        {
+            "@language": "pt-br",
+            "@value": "\n\t           5 colheres -sopa de azeite de oliva extra virgem\n\t        "
+        }
+    ],
+    "name": {
+        "@language": "pt-br",
+        "@value": "Macarr\u00e3o ao Alho e \u00d3leo com Tomatinho"
+    },
+    "prepTime": {
+        "@language": "pt-br",
+        "@value": "PT05M"
+    },
+    "recipeInstructions": {
+        "@language": "pt-br",
+        "@value": "\n    \n      \n        Cozinhe o macarr\u00e3o em pelo menos 5 litros de \u00e1gua, com 1 colher -sopa de sal e 2 colheres -sopa de \u00f3leo.\n      \n      \n        Quando o macarr\u00e3o estiver cozido \"al dente\", cozido mais levemente duro. Retire e escorra a \u00e1gua quente. Adicionando \u00e1gua fria e escorra at\u00e9 esfriar o macarr\u00e3o, reserve.\n      \n      \n        Em uma panela grande, com fogo baixo ou m\u00e9dio. Adicione o azeite, o alho, os tomates e a pimenta calabresa. Aque\u00e7a mexendo os tomates at\u00e9 os tomates cozinharem e estourarem, \"cuidado pode espirrar\".\n      \n      \n        Adicione o sal e a pimenta a gosto. \n      \n      \n        Abaixe o fogo. Adicione o macarr\u00e3o, mexa para n\u00e3o grudar no fundo, debaixo para cima. At\u00e9 perceber que o macarr\u00e3o est\u00e1 bem brilhante, sinal que est\u00e1 bem temperado.\n      \n      \n        Retire do fogo, adicione o suco de lim\u00e3o, a salsa e o parmes\u00e3o ralado. Mexa bem.\n      \n      \n         Sirva ainda quente!!! Com mais  parmes\u00e3o ralado e a salsa a gosto. \n      \n    \n"
+    },
+    "recipeYield": {
+        "@language": "pt-br",
+        "@value": "6 Por\u00e7\u00f5es"
+    },
+    "@id": "http://example.org/recipe"
+}

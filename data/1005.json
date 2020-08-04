@@ -1,0 +1,123 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\tN/A"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2016-11-21 18:56:50.233"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "In a large bowl, toss ingredients and serve.,Chef's Note: If not serving immediately, wait to dress salad so it does not get soggy."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images.heb.com/is/image/HEBGrocery/recipe-hm-large/waldorf-style-salad-recipe.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Waldorf Style Salad"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "270"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "18"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "22"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "4"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "2"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "610"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "11"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0.0"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t10 minutes"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Salad"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "1/2 cup(s) walnuts"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 red onion, sliced thin"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup(s) Four J Sherry Shallot Vinaigrette"
+        },
+        {
+            "@language": "en",
+            "@value": "1 honey crisp apple, peeled and sliced thin"
+        },
+        {
+            "@language": "en",
+            "@value": "3 cup(s) baby spinach"
+        },
+        {
+            "@language": "en",
+            "@value": "3 cup(s) arugula"
+        },
+        {
+            "@language": "en",
+            "@value": "2 celery stalks, thinly sliced"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIn a large bowl, toss ingredients and serve."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tChef's Note: If not serving immediately, wait to dress salad so it does not get soggy."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t4\u00a0 People\n\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t10 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

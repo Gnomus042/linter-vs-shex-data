@@ -1,0 +1,219 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://www.recipes-to-remember.com/wp-content/uploads/2016/04/Coffee-Cr%C3%A8me-Br%C3%BBl%C3%A9e.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-CA",
+            "@value": "For the topping"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Note: If using a blowtorch, superfine sugar is finer than caster sugar and begins to melt too quickly once it is spooned onto the custard. Granulated sugar works better."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Refrigeration time: 6 hours or overnight, plus 2 hours on the day of serving"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "butter, for greasing"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Preparation time: 30\u201345 minutes"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "\u202840g (1\u00bd oz) caster/superfine sugar (3 tbsp)"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "For the custard"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "300ml (10 fl oz) double cream/whipping or heavy cream (1\u00bc cups)"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "\u20283 tsp instant coffee granules or coffee essence"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "300ml (10 fl oz) single cream/table cream (1\u00bc cups)\u2028"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Null"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "4 tbsp golden caster, granulated sugar, if using a chef\u2019s blowtorch"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Ingredients"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "100g (3\u00bd oz) caster/superfine sugar (\u00bd cup), if not using a chef\u2019s blowtorch"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "You will also need 6 \u00d7 150ml (5 fl oz) heatproof ramekins"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "\u2028\u00bd tsp vanilla extract"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Cooking time: 25 minutes"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "4 eggs, large (U.K.)/extra large (N.A.), yolks only"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Cooling time: 2 hours"
+        }
+    ],
+    "name": {
+        "@language": "en-CA",
+        "@value": "Coffee Cr\u00e8me Br\u00fbl\u00e9e"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-CA",
+            "@value": "Then have a kettle of boiling water ready."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "For the custard"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Carefully, pour the caramel onto the paper (it will be extremely hot) and leave it to become cold."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Strain the custard into a jug and then divide amongst the six ramekins."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Leave to cool and then refrigerate for two hours before serving."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Lightly grease the ramekins with butter and set to one side."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Null"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Next, put the sugar in a stainless steel pan and add just enough water to dampen the sugar."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Put the ramekins on a baking tray as close to the heat as possible. Cook for less than a minute, not letting the sugar burn. The heat just needs to melt the sugar."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "For the topping, using a chef\u2019s blowtorch"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Line a deep-sided ovenproof dish or roasting tin/pan with a layer of kitchen paper and sit the six ramekins on the paper (this prevents them from slipping)."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Method"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Gradually pour the cream into the bowl, while whisking at the same time, until the cream is blended into the egg mixture."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Then take the ramekins out of the water, cover them and refrigerate for at least 6 hours or overnight."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Sprinkle about 2 teaspoons of sugar evenly over the custard in each ramekin, right to the edge, so that the custard is completely covered."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Leave to cool a little. "
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Bake in the oven for about 25 minutes. Check after 20 minutes as the custard still needs to have a slight wobble to it."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Remove from the heat and add the coffee granules stirring until dissolved, or just stir in the coffee essence."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Caramelize the sugar under a direct flame."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Now turn the grill/broiler to high and leave for 5 minutes to get really hot."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Sprinkle evenly over the custard in each ramekin, right to the edge, so that the custard is completely covered."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Meanwhile put the egg yolks and sugar into a large bowl and whisk together."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Preheat the oven to 160\u00b0C (325\u00b0F) (gas 3)."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "First, have a piece of parchment paper ready on the counter top."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Place over a low heat and stir the sugar until completely dissolved."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Remove the dish from the oven and leave the ramekins in the water until the water has cooled."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "For the topping, without using a chef\u2019s blowtorch"
+        },
+        {
+            "@language": "en-CA",
+            "@value": "The caramel will have hardened on cooling. Break it into small pieces and blitz in a food processor or blender until there are really fine granules, finer than caster sugar (just like superfine sugar)."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Then increase the heat to medium\u2013high and, without stirring, leave the sugar to bubble fiercely. When the bubbling lessens and the sugar has turned a pale straw colour it will be ready."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Now carefully pour enough of the boiling water into the dish to come halfway up the sides of the ramekins."
+        },
+        {
+            "@language": "en-CA",
+            "@value": "Next pour both creams into a pan and heat until scalding."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-CA",
+        "@value": "6 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

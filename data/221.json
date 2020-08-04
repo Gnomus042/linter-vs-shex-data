@@ -1,0 +1,37 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@value": "4"
+        },
+        "worstRating": {
+            "@value": "1"
+        }
+    },
+    "description": {
+        "@value": "Pr\u00e9parez vous un d\u00e9licieux panini jambon mozzarella style bistro, mais \u00e0 la maison\u2026 humm\n"
+    },
+    "image": {
+        "@id": "https://chefcuisto.com/files/2014/12/panini-jambon.jpg"
+    },
+    "name": {
+        "@value": "Panini maison au jambon, tomates et mozzarella"
+    },
+    "recipeCategory": {
+        "@value": "Sandwichs"
+    },
+    "recipeInstructions": {
+        "@value": " Coupez le pain ciabatta de fa\u00e7on \u00e0 faire deux sandwichs. \ud83d\ude09 Coupez les tomates en rondelles. R\u00e2pez le fromage. Rincez et \u00e9pongez le basilic. Pr\u00e9chauffez le four \u00e0 400\u00a0\u00b0F (200\u00a0\u00b0C). Beurrer le pain des deux c\u00f4t\u00e9s. Garnissez le pain de tomates, basilic, olives, jambon et fromage. Faites chauffer pendant environ 5 \u00e0 7 minutes. "
+    },
+    "recipeYield": {
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

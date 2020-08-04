@@ -1,0 +1,104 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "9"
+        },
+        "ratingValue": {
+            "@value": "4.8"
+        },
+        "worstRating": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@value": "Jess"
+    },
+    "cookTime": {
+        "@value": "PT80M"
+    },
+    "image": {
+        "@id": "https://img.povar.ru/main/98/13/51/ed/ovoshnie_rolli_iz_lepeshek_tortilyas-33637.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\u0440\u0430\u0437\u043c\u044f\u0433\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0441\u043b\u0438\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0441\u044b\u0440\u0430                            \u00a0\u2014\u00a0240\u00a0\u0413\u0440\u0430\u043c\u043c"
+        },
+        {
+            "@value": "\u0430\u0432\u043e\u043a\u0430\u0434\u043e                            \u00a0\u2014\u00a02\u00a0\u0428\u0442\u0443\u043a\u0438"
+        },
+        {
+            "@value": "\u0437\u0435\u043b\u0435\u043d\u043e\u0433\u043e \u043b\u0443\u043a\u0430 \u0438\u043b\u0438 \u043b\u0443\u043a\u0430-\u0440\u0435\u0437\u0430\u043d\u0446\u0430                            \u00a0\u2014\u00a01\u00a0\u0421\u0442. \u043b\u043e\u0436\u043a\u0430"
+        },
+        {
+            "@value": "\u0441\u0432\u0435\u0436\u0435\u0432\u044b\u0436\u0430\u0442\u043e\u0433\u043e \u043b\u0438\u043c\u043e\u043d\u043d\u043e\u0433\u043e \u0441\u043e\u043a\u0430                            \u00a0\u2014\u00a01\u00a0\u0421\u0442. \u043b\u043e\u0436\u043a\u0430"
+        },
+        {
+            "@value": "\u043c\u043e\u0440\u043a\u043e\u0432\u0438                            \u00a0\u2014\u00a03\u00a0\u0428\u0442\u0443\u043a\u0438"
+        },
+        {
+            "@value": "\u0438\u043d\u0434\u0435\u0439\u043a\u0438                            \u00a0\u2014\u00a0220\u00a0\u0413\u0440\u0430\u043c\u043c"
+        },
+        {
+            "@value": "\u043b\u0435\u043f\u0435\u0448\u0435\u043a \u0442\u043e\u0440\u0442\u0438\u043b\u044c\u044f\u0441                            \u00a0\u2014\u00a06\u00a0\u0428\u0442\u0443\u043a"
+        },
+        {
+            "@value": "\u043b\u0438\u0441\u0442\u044c\u0435\u0432 \u0431\u0430\u0437\u0438\u043b\u0438\u043a\u0430                            \u00a0\u2014\u00a08\u00a0\u0428\u0442\u0443\u043a"
+        },
+        {
+            "@value": "\u043b\u0438\u0441\u0442\u0430 \u0437\u0435\u043b\u0435\u043d\u043e\u0433\u043e \u0441\u0430\u043b\u0430\u0442\u0430                             \u00a0\u2014\u00a03\u00a0\u0428\u0442\u0443\u043a\u0438"
+        },
+        {
+            "@value": "\u043e\u0433\u0443\u0440\u0435\u0446                            \u00a0\u2014\u00a01\u00a0\u0428\u0442\u0443\u043a\u0430"
+        },
+        {
+            "@value": "\u0441\u0432\u0435\u0436\u0435\u0439 \u043f\u0435\u0442\u0440\u0443\u0448\u043a\u0438                            \u00a0\u2014\u00a01\u00a0\u0421\u0442. \u043b\u043e\u0436\u043a\u0430"
+        },
+        {
+            "@value": "\u0441\u043e\u043b\u044c \u0438 \u043f\u0435\u0440\u0435\u0446                             \u00a0\u2014\u00a0\u041f\u043e \u0432\u043a\u0443\u0441\u0443"
+        }
+    ],
+    "name": {
+        "@value": "\u041e\u0432\u043e\u0449\u043d\u044b\u0435 \u0440\u043e\u043b\u043b\u044b \u0438\u0437 \u043b\u0435\u043f\u0435\u0448\u0435\u043a \u0442\u043e\u0440\u0442\u0438\u043b\u044c\u044f\u0441"
+    },
+    "prepTime": {
+        "@value": "PT80M"
+    },
+    "recipeCategory": {
+        "@value": "\u041e\u0432\u043e\u0449\u0438"
+    },
+    "recipeInstructions": {
+        "@type": "ItemList",
+        "image": [
+            {
+                "@id": "https://img.povar.ru/steps/11/90/86/08/ovoshnie_rolli_iz_lepeshek_tortilyas-33636.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/f1/e6/66/19/ovoshnie_rolli_iz_lepeshek_tortilyas-33635.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/68/51/18/4c/ovoshnie_rolli_iz_lepeshek_tortilyas-33632.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/b3/81/97/78/ovoshnie_rolli_iz_lepeshek_tortilyas-33630.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/15/e4/21/cb/ovoshnie_rolli_iz_lepeshek_tortilyas-33631.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/5f/10/f1/f4/ovoshnie_rolli_iz_lepeshek_tortilyas-33633.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/c5/15/fd/0f/ovoshnie_rolli_iz_lepeshek_tortilyas-33634.jpg"
+            }
+        ]
+    },
+    "recipeYield": {
+        "@value": "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043f\u043e\u0440\u0446\u0438\u0439: 6-8"
+    },
+    "@id": "http://example.org/recipe"
+}

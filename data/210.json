@@ -1,0 +1,77 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "By Leigh Belanger and Rebecca Haley-Park"
+    },
+    "datePublished": {
+        "@value": "2017-02-17 21:22:47"
+    },
+    "description": {
+        "@value": "Brown butter gives these dark, fudgelike brownies even more depth of flavor. If you have leftover frosting, spread it between graham crackers or vanilla wafers and freeze for mock ice cream sandwiches."
+    },
+    "image": {
+        "@id": "https://3ner1e34iilsjdn1qohanunu-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/matchbrownies_recipe-1.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1\u00bd cups granulated sugar"
+        },
+        {
+            "@value": "\u00bd cup powdered sugar, sifted"
+        },
+        {
+            "@value": "4 ounces ch\u00c3\u00a8vre, room temperature"
+        },
+        {
+            "@value": "\u00bd cup all-purpose flour, sifted"
+        },
+        {
+            "@value": "1 tablespoon vanilla extract"
+        },
+        {
+            "@value": "1 teaspoon matcha powder"
+        },
+        {
+            "@value": "6 ounces (1\u00bd sticks) unsalted butter, plus more for greasing pan"
+        },
+        {
+            "@value": "3 ounces dark chocolate, chopped"
+        },
+        {
+            "@value": "3 large eggs"
+        },
+        {
+            "@value": "\u00bd teaspoon vanilla extract"
+        },
+        {
+            "@value": "\u00be teaspoon sea salt"
+        },
+        {
+            "@value": "\u00bd cup unsweetened cocoa powder, sifted"
+        },
+        {
+            "@value": "2 ounces dark chocolate, finely chopped or shaved, for topping brownies"
+        },
+        {
+            "@value": "2 ounces (\u00bd stick) unsalted butter, room temperature"
+        }
+    ],
+    "name": {
+        "@value": "Matcha-Goat Cheese Brownies"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "While brownies are cooling, add ch\u00c3\u00a8vre and butter to the bowl of a stand mixer fitted with the paddle attachment. Beat on medium speed until completely blended, about 2 minutes. Turn mixer down to medium-low, then slowly add sugar and matcha powder. Return mixer to medium speed and beat until completely blended, about 2 minutes. Beat in vanilla on low speed until combined."
+        },
+        {
+            "@value": "Null"
+        },
+        {
+            "@value": "Top brownies with \u00bd cup to 1 cup frosting to taste. Sprinkle with dark chocolate and refrigerate 15 to 20 minutes until frosting is firm. Slice and serve."
+        },
+        {
+            "@value": "Heat oven to 325\u00c2\u00b0F. Grease an 8-inch-by-8-inch baking dish, line with parchment paper (allow a few inches to hang over the edges), and grease paper. Meanwhile, in a small saucepan over medium-high heat, melt butter. Cook, stirring until butter bubbles and starts to brown, 3 to 5 minutes.Remove butter from heat and pour into a medium mixing bowl. Add chocolate and let stand 1 minute, then whisk together. Whisk in sugar, vanilla, eggs, and salt. Fold in cocoa powder and flour until just combined.Pour batter into prepared dish and bake 30 to 40 minutes, or until a toothpick inserted in the center comes out clean. Cool to room temperature."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

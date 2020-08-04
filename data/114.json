@@ -1,0 +1,26 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "vi-vn",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "vi-vn",
+            "@value": "155"
+        },
+        "ratingValue": {
+            "@language": "vi-vn",
+            "@value": "5"
+        }
+    },
+    "image": {
+        "@id": "http://www.boitoanvui.com/dich-hoc/16-dich-hoc/405-xem-tu-vi-tuoi-tan-dau-nam-2018-cho-nu-1981.html//images/vote/405405-xem_t\u1eec_vi_n\u0102m_2018_tu\u1ed4i_t\u00c2n_d\u1eacu_1981-1.jpg"
+    },
+    "name": {
+        "@language": "vi-vn",
+        "@value": "Xem t\u1eed vi tu\u1ed5i T\u00e2n D\u1eadu n\u0103m 2018 cho n\u1eef 1981"
+    },
+    "@id": "http://example.org/recipe"
+}

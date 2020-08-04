@@ -1,0 +1,94 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1 cup all-purpose flour"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup cane sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup finely diced walnuts"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 teaspoon vanilla"
+        },
+        {
+            "@language": "en",
+            "@value": "COOKIE BATTER:"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup unsalted butter, at room temperature"
+        },
+        {
+            "@language": "en",
+            "@value": "1/8 teaspoon powdered ginger"
+        },
+        {
+            "@language": "en",
+            "@value": "1/8 teaspoon nutmeg"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tablespoon canola oil"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup chocolate chips"
+        },
+        {
+            "@language": "en",
+            "@value": "1/8 teaspoon cayenne pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tablespoon Chinese chile oil"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 teaspoon salt"
+        },
+        {
+            "@language": "en",
+            "@value": "SPICY WALNUTS:"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup natural creamy peanut butter"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup dark brown sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1 egg"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 teaspoon baking soda"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Chris' Kicked Up Spicy Walnut Chocolate Chip Peanut Butter Cookies"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n          \n                          COOKIE BATTER:                          1/2 cup unsalted butter, at room temperature                          1/2 cup dark brown sugar                          1/2 cup cane sugar                          1 egg                          1 cup natural creamy peanut butter                          1/2 teaspoon vanilla                          1/2 teaspoon baking soda                          1/2 teaspoon salt                          1/2 cup chocolate chips                          1 cup all-purpose flour                          SPICY WALNUTS:                          1 tablespoon canola oil                          1 tablespoon Chinese chile oil                          1/2 cup finely diced walnuts                          1/8 teaspoon cayenne pepper                          1/8 teaspoon powdered ginger                          1/8 teaspoon nutmeg                          2 tablespoons sugar                       \n        "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Yield:"
+    },
+    "@id": "http://example.org/recipe"
+}

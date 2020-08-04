@@ -1,0 +1,122 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "3"
+        },
+        "ratingValue": {
+            "@value": "4"
+        },
+        "worstRating": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@value": "Rocsi"
+    },
+    "description": {
+        "@value": "Blatul: Ouale le punem intr-un bol si le mixam. Adaugam zaharul treptat si batem cu mixerul pana se topeste. Incorporam laptele, apo"
+    },
+    "image": {
+        "@id": "https://www.gustos.ro/assets/recipes_images/2013/03/03/194423/tn4_tavalita1-1_.jpg"
+    },
+    "keywords": {
+        "@value": "Tavalita cu nuci"
+    },
+    "name": {
+        "@value": "Tavalita cu nuci"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "116"
+        }
+    },
+    "recipeCategory": {
+        "@value": "Dulciuri diverse"
+    },
+    "recipeCuisine": [
+        {
+            "@value": "Romania"
+        },
+        {
+            "@id": "https://www.gustos.ro/retete-culinare/tavalita-cu-nuci.html//retete-traditionale/romania"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@value": "2 pliculete zahar vanilat"
+        },
+        {
+            "@value": "2 cani zahar"
+        },
+        {
+            "@value": "1 1/2 cana zahar"
+        },
+        {
+            "@value": "2 cani faina(poate o lingura"
+        },
+        {
+            "@value": "1 praf de copt"
+        },
+        {
+            "@value": "1 cub  unt"
+        },
+        {
+            "@value": "6 oua"
+        },
+        {
+            "@value": "1 lingurita coaja rasa de  lamaie"
+        },
+        {
+            "@value": "Pentru blat:"
+        },
+        {
+            "@value": "2 cani apa"
+        },
+        {
+            "@value": "1 cana  lapte"
+        },
+        {
+            "@value": "4 linguri si 1/2 cacao"
+        },
+        {
+            "@value": "1 esenta rom"
+        },
+        {
+            "@value": "doua in plus sau in minus)"
+        },
+        {
+            "@value": "Pentru sirop:"
+        },
+        {
+            "@value": "nuca macinata"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "Blatul: Ouale le punem intr-un bol si le mixam. Adaugam zaharul treptat si batem cu mixerul pana se topeste. Incorporam laptele, apoi zaharul vanilat si coaja de lamaie. La urma punem faina in ploaie si praful de copt. Mixam pana obtinem compozitia unui chec. Ungem o tava dreptunghiulara cu unt si punem hartie de copt. Turnam compozitia si o dam in cuptorul incins. Cand este coapt (facem testul cu scobitoarea), il scoatem si il lasam sa se racoresca. Siropul: Intr-o cratita punem apa, zaharul si cacaoa. Punem pe foc si lasam sa fiarba pana se ingroasa putin, timp in care mestecam cu telul din cand in cand. Dam deoparte cand este gata, incorporam untul, esenta de rom si amestecam bine cu telul sa se topeasca untul . Lasam sa se racoreasca cat sa fie suportabil la mana. Prajituta o taiem patratele. Trecem fiecare bucata prin sirop, apoi le tavalim in nuca macinata ( sau puteti sa le treceti si prin nuca de cocos). Le asezam pe un platou sa se raceasca, apoi servim!"
+    },
+    "totalTime": {
+        "@value": "PT1H30M"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@value": "Blatul: Ouale le punem intr-un bol si le mixam. Adaugam zaharul treptat si batem cu mixerul pana se topeste. Incorporam laptele, apo"
+        },
+        "name": {
+            "@value": "Tavalita cu nuci"
+        },
+        "thumbnailURL": {
+            "@value": "https://www.gustos.ro/recipes_images/2013/03/03/194423/tn4_tavalita1-1_.jpg"
+        },
+        "uploadDate": {
+            "@value": "2013-03-03"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

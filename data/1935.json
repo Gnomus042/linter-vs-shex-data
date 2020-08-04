@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "fr",
+        "@value": "La Table \u00e0 Dessert"
+    },
+    "cookTime": {
+        "@language": "fr",
+        "@value": "10 min"
+    },
+    "description": {
+        "@language": "fr",
+        "@value": "Gaufres pralin\u00e9es "
+    },
+    "image": [
+        {
+            "@id": "https://www.latableadessert.fr/sites/default/files/styles/header_push_list/public/images/recipe/field_recipe_single_carousel_img/recette-brownie-chocolat-blanc-cannelle-noix-pecan_569023.jpg?itok=RjtSYoQ5"
+        },
+        {
+            "@id": "https://www.latableadessert.fr/sites/default/files/styles/header_push_list/public/images/recipe/field_recipe_single_carousel_img/recette-financiers-pepites-chocolat-amandes_569206_0.jpg?itok=bfZ4K-dR"
+        },
+        {
+            "@id": "https://www.latableadessert.fr/sites/default/files/styles/header_push_list/public/default_images/ltad_imagedefautrecette_0-min.jpg?itok=BW2enLP3"
+        },
+        {
+            "@id": "https://www.latableadessert.fr/sites/default/files/styles/mega_fiche/public/default_images/ltad_imagedefautrecette_0-min.jpg?itok=txEGrhe_"
+        }
+    ],
+    "name": {
+        "@language": "fr",
+        "@value": "Gaufres pralin\u00e9es "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "fr",
+            "@value": "256 kcal/ personne"
+        }
+    },
+    "prepTime": {
+        "@language": "fr",
+        "@value": "15 min"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  150 g defarine\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  20 g de sucreen poudre\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  1/2 sachet delevurechimique\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  30 g debeurre \n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  1 tablette de Chocolat NESTL\u00c9 DESSERT Pralin\u00e9\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  200 ml delait demi-\u00e9cr\u00e9m\u00e9 UHT\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  2\u0153ufs\n\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "Pr\u00e9parez les gaufres : dans un saladier, versez la farine. Faites un puits et ajoutez le sel, le sucre, le beurre fondu et l'\u0153uf entier. Ajoutez la levure.\nAjoutez peu \u00e0 peu le lait en m\u00e9langeant. Ajoutez 100 g de chocolat fondu et 70 g de chocolat en p\u00e9pites. Huilez le gaufrier et faites cuire les gaufres.\n"
+    },
+    "recipeYield": {
+        "@language": "fr",
+        "@value": "8 personnes"
+    },
+    "@id": "http://example.org/recipe"
+}

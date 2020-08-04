@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "3.2"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "390"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Irena Krzywicka"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT5H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "S D Idzie To Pierwsze Po Wojnie Wydanie I Wyd 1935 Sprawozda S Dowych, Po Wi Conych G O Nym Procesom Lat Trzydziestych M In Sprawa Gorgonowej , Kt Re Autorka Na Gor Co Publikowa A W Wiadomo Ciach Literackich W Wietnych Reporta Ach, Opisuj Cych Proces S Dowy Jako Ponur Commedia Dell Arte, Krzywicka Ujawnia Dog Bn Znajomo Psychiki Ludzkiej I Wnikliwo W Demaskowaniu Rozk Adu Moralno Ci Mieszcza Skiej."
+    },
+    "image": {
+        "@id": "http://chainnews.us/wp-content/upload/2017/15235268b6f5e798b641961df2b41058i236502bf17d695a17f5b94ad0b6ed831gr-assets236502bf17d695a17f5b94ad0b6ed831com/images/S/compressed236502bf17d695a17f5b94ad0b6ed831photo236502bf17d695a17f5b94ad0b6ed831goodreads236502bf17d695a17f5b94ad0b6ed831com/books/1407100616i/7475125236502bf17d695a17f5b94ad0b6ed831_UX75_236502bf17d695a17f5b94ad0b6ed831jpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "390"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "S\u0105d Idzie ,download, read online, e-pub, pdf, free, kindle ebook"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "[ PDF ] \u2729 S\u0105d Idzie  Author Irena Krzywicka \u2013 Chainnews.us"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "[ PDF ] \u2729 S\u0105d Idzie  Author Irena Krzywicka \u2013 Chainnews.us S D Idzie To Pierwsze Po Wojnie Wydanie I Wyd 1935 Sprawozda S Dowych, Po Wi Conych G O Nym Procesom Lat Trzydziestych M In Sprawa Gorgonowej , Kt Re Autorka Na Gor Co Publikowa A W Wiadomo Ciach Lite"
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT36M"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "atlases"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "[ PDF ] \u2729 S\u0105d Idzie  Author Irena Krzywicka \u2013 Chainnews.us S D Idzie To Pierwsze Po Wojnie Wydanie I Wyd 1935 Sprawozda S Dowych, Po Wi Conych G O Nym Procesom Lat Trzydziestych M In Sprawa Gorgonowej , Kt Re Autorka Na Gor Co Publikowa A W Wiadomo Ciach Lite"
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "S\u0105d Idzie "
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://chainnews.us/wp-content/upload/2017/15235268b6f5e798b641961df2b41058i236502bf17d695a17f5b94ad0b6ed831gr-assets236502bf17d695a17f5b94ad0b6ed831com/images/S/compressed236502bf17d695a17f5b94ad0b6ed831photo236502bf17d695a17f5b94ad0b6ed831goodreads236502bf17d695a17f5b94ad0b6ed831com/books/1407100616i/7475125236502bf17d695a17f5b94ad0b6ed831_UX75_236502bf17d695a17f5b94ad0b6ed831jpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2018-04-24T10:05+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

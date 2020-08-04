@@ -1,0 +1,56 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Eats Staff"
+    },
+    "cookTime": {
+        "@value": "PT10M"
+    },
+    "description": {
+        "@value": "10 Minute BBQ Chicken Pizza recipe"
+    },
+    "image": {
+        "@value": "https://studenteats-spykawebgroup.netdna-ssl.com/ts/800/450/studenteats-spykawebgroup.netdna-ssl.com/wp-content/uploads/2016/01/student-eats-recipies-healthy-4.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "Red onion"
+        },
+        {
+            "@value": "Grated cheese"
+        },
+        {
+            "@value": "Cooked chicken"
+        },
+        {
+            "@value": "BBQ sauce"
+        },
+        {
+            "@value": "Flatbread"
+        }
+    ],
+    "name": {
+        "@value": "10 Minute BBQ Chicken Pizza"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "Flatbread"
+        },
+        {
+            "@value": "Grated cheese"
+        },
+        {
+            "@value": "Cooked chicken"
+        },
+        {
+            "@value": "BBQ sauce"
+        },
+        {
+            "@value": "Red onion"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "Pre-heat the oven to 200 degrees.Grab a flatbread and add on two tablespoons of BBQ sauce and spread around the bread with the back of a spoon.Add on cooked, shredded chicken.Add on peeled and sliced red onion..adslot_680{width:336px;height:280px}@media (max-width:360px){.adslot_680{width:300px;height:250px}}    (adsbygoogle = window.adsbygoogle || []).push({}); Finish off with some grated cheese.Bake for 10 minutes or so until the cheese has fully melted.ENJOY!"
+    },
+    "@id": "http://example.org/recipe"
+}

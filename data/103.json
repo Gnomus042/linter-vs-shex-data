@@ -1,0 +1,171 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "25"
+        },
+        "ratingValue": {
+            "@value": "3.1"
+        }
+    },
+    "author": [
+        {
+            "@value": "milo 317"
+        },
+        {
+            "@id": "_:N9b41b940ba15470d83f7ff9f04c67fcc"
+        }
+    ],
+    "cookTime": {
+        "@value": "PT40M"
+    },
+    "description": {
+        "@value": "Piranha, or pira\u00f1a are a group of carnivorous freshwater fish living in South American rivers. In Venezuelan rivers are called caribes. They belong to five genera of the subfamily of Serrasalminae (which also includes closely related herbivorous fish including pacus and silver dollars)."
+    },
+    "headline": {
+        "@value": "Piranha recipe"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "commentcount": {
+            "@value": "390"
+        },
+        "dateModified": {
+            "@value": "2019-08-19T19:18:29+01:00"
+        },
+        "datePublished": {
+            "@value": "2017-05-27T00:32:58+01:00"
+        },
+        "mainEntityOfPage": {
+            "@id": "https://3oneseven.com/piranha-recipe/"
+        },
+        "name": {
+            "@value": "Piranha recipe"
+        },
+        "url": {
+            "@value": "https://3oneseven.com/wp-content/uploads/2017/05/Piranha-are-a-group-of-carnivorous-freshwater-fish-living-in-South-American-rivers..jpg"
+        }
+    },
+    "keywords": {
+        "@value": "Food "
+    },
+    "name": {
+        "@value": "Piranha recipe"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "689"
+        },
+        "carbohydrateContent": {
+            "@value": "18 g (6%)"
+        },
+        "cholesterolContent": {
+            "@value": "213 mg (71%)"
+        },
+        "fatContent": {
+            "@value": "43 g (67%)"
+        },
+        "fiberContent": {
+            "@value": "4 g (18%)"
+        },
+        "proteinContent": {
+            "@value": "55 g (111%)"
+        },
+        "saturatedFatContent": {
+            "@value": "12 g (62%)"
+        },
+        "sodiumContent": {
+            "@value": "923 mg (38%)"
+        }
+    },
+    "prepTime": {
+        "@value": "PT30M"
+    },
+    "recipeCategory": {
+        "@value": " Main"
+    },
+    "recipeCuisine": {
+        "@value": "Food "
+    },
+    "recipeIngredient": [
+        {
+            "@value": "100 grams of  corn meal"
+        },
+        {
+            "@value": "2 or 3 cloves of garlic"
+        },
+        {
+            "@value": "dash of Cacha\u00e7a"
+        },
+        {
+            "@value": "1 or 2 whole ripe tomatoes, sliced"
+        },
+        {
+            "@value": "sprig of fresh parsley"
+        },
+        {
+            "@value": "a lemon or lime"
+        },
+        {
+            "@value": "Piranha ( each 400 grams )"
+        },
+        {
+            "@value": "salt and pepper"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N7acac5e872c74bcbb6d8f0f846fb7831"
+        },
+        {
+            "@value": "Last update at 19 \u00b7 08 \u00b7 by milo \u2027\u2027\u2027 One of \n806Today is friday, the fishday, therefore we\u2019re gonna cook a special fish today: The Piranha recipe Piranha, or pira\u00f1a are a group of carnivorous freshwater fish living in South American rivers. In Venezuelan rivers are called caribes. They belong to five genera of the subfamily of Serrasalminae (which also includes closely related herbivorous fish including pacus and silver dollars).Prep Time: 30 minutes Cook time: 40 minutesPiranhaFeatures Main   Expert Level   4 Portions     70 Minutes PiranhaGalleryGallerypiranha cooking +Gallerypiranha sushi recipe +GalleryPiranha are a group of carnivorous freshwater fish +GalleryPiranha Sushi +GalleryPiranha Escabeche +InstructionsStepsPiranha ( each 400 grams )2 or 3 cloves of garlicsalt and peppersprig of fresh parsleya lemon or lime1 or 2 whole ripe tomatoes, sliced100 grams of  corn mealdash of Cacha\u00e7a1Clean and scale the Piranha competely. Cut it diagonally along both sides from the top to belly. Crush the garlic cloves and mix with the salt and a little pepper. 2Rub the mixture into the cuts along the sides of the fish. Wrap it with a damp banana leaf, drop some Cacha\u00e7a over the Piranha and marinate it for at least one hour. 3Heat oil ( to a high temperature ) in a large pan. Sprinkle the marinated fish lightly with corn meal. 4Fry golden brown on each side, turn the fish carefully after browning each side. Serve now with a garnish of the sliced tomatoes and fresh lemon squeezed over the fish.5Enjoy with a tasty branded or original Mojito.PiranhaNutrition facts:Calories 689Carbohydrates18 g (6%)Fat43 g (67%)Protein55 g (111%)Saturated Fat12 g (62%)Sodium923 mg (38%)Polyunsaturated Fat9 gFiber4 g (18%)Monounsaturated Fat18 gCholesterol213 mg (71%)Authormilo 317Piranha recipeVideoToday is friday, the fishday, therefore we\u2019re gonna cook a special fish today: The Piranha recipe Piranha, or pira\u00f1a are...VideoRating: 3.1 \u2605 \u2605\u2605 \u2605 \u2605 by 25 votes Food is any substance consumed to provide nutritional support for the body. Historically, people secured food through two methods: hunting and gathering and agriculture. Today, the majority of the food energy required by the ever increasing population of the world is supplied by the food industry.Food More in FoodMore in Recipe    Home Food > RecipePiranha recipe   PIFTW"
+        },
+        {
+            "@id": "_:N1417c57c974b46a8a4e83095fb456385"
+        },
+        {
+            "@value": "Null"
+        },
+        {
+            "@id": "_:Na957df33b53b4aca810ea3d9e7d12180"
+        },
+        {
+            "@id": "_:N1c124e0841b74c05ba687e8d9cd0063f"
+        },
+        {
+            "@id": "_:N08ac0b7b932f447bb2820fe50ec32b6a"
+        }
+    ],
+    "recipeYield": {
+        "@value": "  4 Portions "
+    },
+    "url": [
+        {
+            "@id": "https://3oneseven.com/recipe/"
+        },
+        {
+            "@id": "https://3oneseven.com/food/"
+        }
+    ],
+    "video": {
+        "@type": "VideoObject",
+        "contentUrl": {
+            "@value": "https://youtu.be/h1crjjqPisc"
+        },
+        "description": {
+            "@value": "Today is friday, the fishday, therefore we\u2019re gonna cook a special fish today: The Piranha recipe Piranha, or pira\u00f1a are..."
+        },
+        "name": {
+            "@value": "Piranha recipe"
+        },
+        "thumbnailUrl": {
+            "@value": "https://3oneseven.com/wp-content/uploads/2017/05/Piranha-are-a-group-of-carnivorous-freshwater-fish-living-in-South-American-rivers..jpg"
+        },
+        "uploadDate": {
+            "@value": "2019-08-19"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,38 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "\u00bd cup diced tomatoes"
+        },
+        {
+            "@language": "en",
+            "@value": "coarse salt and fresh black pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "1 + 1/3 cups shredded monterey jack or cheddar cheese"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup barbecue sauce"
+        },
+        {
+            "@language": "en",
+            "@value": "3 - 4 slices cooked applewood smoked bacon"
+        },
+        {
+            "@language": "en",
+            "@value": "3 - 4 boneless, skinless chicken breasts"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Monterey Chicken w/ Barbecue Sauce, Bacon and Cheese"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "An hour or two before cooking pound out the chicken breasts between two pieces of plastic wrap using a meat mallet or a skillet to an even thickness. Season with salt and pepper and place in a large bowl - cover with barbecue sauce and marinate in the refrigerator."
+    },
+    "@id": "http://example.org/recipe"
+}

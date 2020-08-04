@@ -1,0 +1,37 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://plus.google.com/+ElrincondeafiEs/"
+    },
+    "cookTime": {
+        "@value": "PT35M"
+    },
+    "datePublished": {
+        "@value": "2018-08-08T08:10:04+01:00"
+    },
+    "description": {
+        "@value": " Los peques, los amantes de la pizza y del pan se quedar\u00c3\u00a1n enamorados de estos flatbread de esp\u00c3\u00a1rragos verdes, tomate, miel y mozzarella, una receta sencilla que combina ambas cosas y cuyo resultado es fant\u00c3\u00a1stico, \u00c2\u00a1an\u00c3\u00admate a prepararla en casa! Leer receta \u00bb"
+    },
+    "image": {
+        "@id": "https://elrincondeafi.es/wp-content/uploads/2018/08/flatbread-de-esparragos-verdes-tomate-miel-y-mozzarella-01-150x150.jpg"
+    },
+    "name": {
+        "@value": " Flatbread de esp\u00c3\u00a1rragos verdes, tomate, miel y mozzarella"
+    },
+    "prepTime": {
+        "@value": "PT15M"
+    },
+    "recipeCategory": {
+        "@value": "De mundo Invierno Lo mejor de Afi Ocasiones especiales Oto\u00c3\u00b1o Para los ni\u00c3\u00b1os Para picar Primavera Recetas f\u00c3\u00a1ciles Verano Verduras"
+    },
+    "recipeCuisine": {
+        "@value": "Internacional"
+    },
+    "recipeYield": {
+        "@value": "6 flatbreads (6 Raciones)"
+    },
+    "totalTime": {
+        "@value": "PT50M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@value": "5.00"
+        }
+    },
+    "image": {
+        "@value": "https://biol.ru/files/products/gqstiyjj_s.400x200.jpg?245874ec4ca87dba71f72cc3e6bc0ae1"
+    },
+    "name": {
+        "@value": "\u0422\u0430\u0439\u0441\u043a\u0438\u0439 \u0441\u0443\u043f \u0422\u043e\u043c \u042f\u043c \u0432 \u0440\u0435\u0446\u0435\u043f\u0442\u0435 \u043e\u0442 \u201c\u0411\u0418\u041e\u041b\u201d: \u0432\u043a\u0443\u0441\u043d\u043e, \u044d\u043a\u0437\u043e\u0442\u0438\u0447\u043d\u043e \u0438 \u043f\u0440\u043e\u0441\u0442\u043e!"
+    },
+    "@id": "http://example.org/recipe"
+}

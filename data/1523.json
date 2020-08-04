@@ -1,0 +1,142 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemReviewed": {
+            "@language": "en",
+            "@value": "Gogigui Style Cauliflower Street Tacos"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "3.3"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "3"
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t45 minutes"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2017-11-13 15:38:58.637"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Preheat oven to 400F.,In a bowl combine, chopped cauliflower, sesame oil, salt and pepper. Toss to combine, place on a sheet pan and roast for 30 to 45 minutes or until cauliflower is nicely browned.,Allow cauliflower to cool slightly before adding it to a bowl and tossing it with BBQ sauce. Place the sauced cauliflower onto tortillas and garnish with any of your favorite taco condiments.,Chef's Note: This taco is best with "
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images.heb.com/is/image/HEBGrocery/recipe-hm-large/gogigui-style-cauliflower-street-tacos-recipe.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Gogigui Style Cauliflower Street Tacos"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "250"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "47"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "6"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "6"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "6"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "0.5"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "940"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "8"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0.0"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t30 minutes"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Main Dish"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "12 corn or flour tortillas, plus more as needed"
+        },
+        {
+            "@language": "en",
+            "@value": "1 Tbsp La Tourangelle Toasted Sesame Oil"
+        },
+        {
+            "@language": "en",
+            "@value": "1 Tsp cracked black pepper, plus more as needed"
+        },
+        {
+            "@language": "en",
+            "@value": "1 large whole head of cauliflower, chopped into smaller bite sized pieces"
+        },
+        {
+            "@language": "en",
+            "@value": "1 Tsp kosher salt, plus more as needed to taste"
+        },
+        {
+            "@language": "en",
+            "@value": "1/3 cup(s) H-E-B Organic Korean BBQ Sauce, plus more as needed"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tChef's Note: This taco is best with \"Cilantro Black Bean Puree\" smeared on the bottom of tortilla's before building taco's. Recipe available on HEB.com"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAllow cauliflower to cool slightly before adding it to a bowl and tossing it with BBQ sauce. Place the sauced cauliflower onto tortillas and garnish with any of your favorite taco condiments."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPreheat oven to 400F."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIn a bowl combine, chopped cauliflower, sesame oil, salt and pepper. Toss to combine, place on a sheet pan and roast for 30 to 45 minutes or until cauliflower is nicely browned."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t4\u00a0 People\n\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t1 h 15 m"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,22 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@value": "356"
+        },
+        "ratingValue": {
+            "@value": "9"
+        }
+    },
+    "image": {
+        "@id": "https://lh4.googleusercontent.com/-vYM5IXHx7AY/VHS0kiFpDfI/AAAAAAAAABQ/7M2dGcmjX5o/w139-h140-p/navy-adam-embroidered-new-york-hoodie-men-hooded-sweatshirt-adult-.jpg"
+    },
+    "name": {
+        "@value": "Order Now Furry Lips Make Happy Nips Bearded Man Hoodies Design $42.95"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,193 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "ro",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "ro",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "ro",
+        "@value": "bucatarie_marocana"
+    },
+    "datePublished": {
+        "@language": "ro",
+        "@value": "2015-01-10"
+    },
+    "description": {
+        "@language": "ro",
+        "@value": " Presar putin faina pe masa de lucru, scot aluatul din bol si il impart in trei bucati, doua bucati le voi folosi pentru blat de pizza si a treia fac din ea bilute mici, bilutele acestea va voi va arata mai tarziu la ce le voi folosi. Inainte sa incep sa formez pizza trebuie sa incalzim cuptorul la 160 de grade    Presar putina faina pe masa de lucru si pe aluat si cu ajutorul unui sucitor intind aluatul. Dupa ce am intins aluatul il iau si il pun intr-o tava de pizza, il intind bine cu mainele ca sa obtin forma rotunda de tava. Apoi iau fiecare bila de aluat, o intind, apoi iau o bila de mozzarella, o pun in mijlocul bilei de aluat si o invelesc si o pun pe marginea blatului de pizza. Fac inca una cu carne de vita si voi continua la fel una cu mozzarella si una cu carne de vita pana cand umplu toate marginea de blat de pizza.    Intep aluatul cu o furculita. Dupa ce termin pun cam doua sau trei linguri de sos de pizza si il intind bine. Apoi presar cascaval ras, peste cascaval pun ciupercile, pun si ardei si porumb, pun cercuri de mozzarella, apoi pun bucatele de carne de vita si la sfarsit pun masline negre si verzi si presar iar putin cascaval ras    Binenteles, ingredientele pentru topping depind de voi, daca puneti mai putin sau mai mult sau alte ingrediente. Nu e obligatoriu sa puneti aceleasi ingrediente ca mine.    Inainte sa bag pizza in cuptor ung bilutele cu mozzarella si carne de vita invelite in aluat cu ou batut, dupa ce termin presar niste susan peste fiecare biluta. Pun pizza in cuptorul preincalzit la 160 de grade pentru 30 de minute. "
+    },
+    "image": {
+        "@language": "ro",
+        "@value": "https://www.bucataras.ro/uploads/modules/news/67856/656x440_pizza-royal-reteta-video-361950.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ro",
+            "@value": "1/2 kg aluat de pizza (pentru reteta aluat de pizza vizitati retetele mele pe bucataras.ro)"
+        },
+        {
+            "@language": "ro",
+            "@value": "20 de bilute de mozzarella"
+        },
+        {
+            "@language": "ro",
+            "@value": "50 g masline verzi fara samburi taiate cercuri"
+        },
+        {
+            "@language": "ro",
+            "@value": "1/2 kg bucatele de carne de vita tocata din care am facut bilute mici"
+        },
+        {
+            "@language": "ro",
+            "@value": "100 g boabe de porump fiert"
+        },
+        {
+            "@language": "ro",
+            "@value": "un ardei gras taiat cuburi mici"
+        },
+        {
+            "@language": "ro",
+            "@value": "sos de pizza pe care l-am pregatit inainte (pentru reteta sos de pizza vizitati retetele mele pe bucataras.ro)"
+        },
+        {
+            "@language": "ro",
+            "@value": "6 bilute de mozzarella taiate cercuri"
+        },
+        {
+            "@language": "ro",
+            "@value": "100 g cascaval ras"
+        },
+        {
+            "@language": "ro",
+            "@value": "100 g ciuperci conserva"
+        },
+        {
+            "@language": "ro",
+            "@value": "50 g masline negri fara samburi taiate cercuri"
+        }
+    ],
+    "keywords": {
+        "@language": "ro",
+        "@value": "pizza cu ciuperci,pizza de casa,pizza cu legume,"
+    },
+    "name": {
+        "@language": "ro",
+        "@value": "Pizza Royal (reteta video)"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ro",
+            "@value": "167"
+        }
+    },
+    "recipeCategory": {
+        "@language": "ro",
+        "@value": "Pizza"
+    },
+    "recipeCuisine": {
+        "@language": "ro",
+        "@value": "Italia"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ro",
+            "@value": "\n1/2 kg bucatele de carne de vita tocata din care am facut bilute mici"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n1/2 kg aluat de pizza (pentru reteta aluat de pizza vizitati retetele mele pe bucataras.ro)"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n100 g cascaval ras"
+        },
+        {
+            "@language": "ro",
+            "@value": "Null"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n20 de bilute de mozzarella"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n100 g ciuperci conserva"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n50 g masline verzi fara samburi taiate cercuri"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n100 g boabe de porump fiert"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n50 g masline negri fara samburi taiate cercuri"
+        },
+        {
+            "@language": "ro",
+            "@value": "\nun ardei gras taiat cuburi mici"
+        },
+        {
+            "@language": "ro",
+            "@value": "\nsos de pizza pe care l-am pregatit inainte (pentru reteta sos de pizza vizitati retetele mele pe bucataras.ro)"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n6 bilute de mozzarella taiate cercuri"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ro",
+        "@value": " Presar putin faina pe masa de lucru, scot aluatul din bol si il impart in trei bucati, doua bucati le voi folosi pentru blat de pizza si a treia fac din ea bilute mici, bilutele acestea va voi va arata mai tarziu la ce le voi folosi. Inainte sa incep sa formez pizza trebuie sa incalzim cuptorul la 160 de grade    Presar putina faina pe masa de lucru si pe aluat si cu ajutorul unui sucitor intind aluatul. Dupa ce am intins aluatul il iau si il pun intr-o tava de pizza, il intind bine cu mainele ca sa obtin forma rotunda de tava. Apoi iau fiecare bila de aluat, o intind, apoi iau o bila de mozzarella, o pun in mijlocul bilei de aluat si o invelesc si o pun pe marginea blatului de pizza. Fac inca una cu carne de vita si voi continua la fel una cu mozzarella si una cu carne de vita pana cand umplu toate marginea de blat de pizza.    Intep aluatul cu o furculita. Dupa ce termin pun cam doua sau trei linguri de sos de pizza si il intind bine. Apoi presar cascaval ras, peste cascaval pun ciupercile, pun si ardei si porumb, pun cercuri de mozzarella, apoi pun bucatele de carne de vita si la sfarsit pun masline negre si verzi si presar iar putin cascaval ras    Binenteles, ingredientele pentru topping depind de voi, daca puneti mai putin sau mai mult sau alte ingrediente. Nu e obligatoriu sa puneti aceleasi ingrediente ca mine.    Inainte sa bag pizza in cuptor ung bilutele cu mozzarella si carne de vita invelite in aluat cu ou batut, dupa ce termin presar niste susan peste fiecare biluta. Pun pizza in cuptorul preincalzit la 160 de grade pentru 30 de minute. "
+    },
+    "recipeYield": {
+        "@language": "ro",
+        "@value": "2 portii"
+    },
+    "totalTime": {
+        "@language": "ro",
+        "@value": "PT90M"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "ro",
+            "@value": " Presar putin faina pe masa de lucru, scot aluatul din bol si il impart in trei bucati, doua bucati le voi folosi pentru blat de pizza si a treia fac din ea bilute mici, bilutele acestea va voi va arata mai tarziu la ce le voi folosi. Inainte sa incep sa formez pizza trebuie sa incalzim cuptorul la 160 de grade    Presar putina faina pe masa de lucru si pe aluat si cu ajutorul unui sucitor intind aluatul. Dupa ce am intins aluatul il iau si il pun intr-o tava de pizza, il intind bine cu mainele ca sa obtin forma rotunda de tava. Apoi iau fiecare bila de aluat, o intind, apoi iau o bila de mozzarella, o pun in mijlocul bilei de aluat si o invelesc si o pun pe marginea blatului de pizza. Fac inca una cu carne de vita si voi continua la fel una cu mozzarella si una cu carne de vita pana cand umplu toate marginea de blat de pizza.    Intep aluatul cu o furculita. Dupa ce termin pun cam doua sau trei linguri de sos de pizza si il intind bine. Apoi presar cascaval ras, peste cascaval pun ciupercile, pun si ardei si porumb, pun cercuri de mozzarella, apoi pun bucatele de carne de vita si la sfarsit pun masline negre si verzi si presar iar putin cascaval ras    Binenteles, ingredientele pentru topping depind de voi, daca puneti mai putin sau mai mult sau alte ingrediente. Nu e obligatoriu sa puneti aceleasi ingrediente ca mine.    Inainte sa bag pizza in cuptor ung bilutele cu mozzarella si carne de vita invelite in aluat cu ou batut, dupa ce termin presar niste susan peste fiecare biluta. Pun pizza in cuptorul preincalzit la 160 de grade pentru 30 de minute. "
+        },
+        "embedURL": {
+            "@language": "ro",
+            "@value": "https://www.youtube.com/embed/JWh4khMn4js"
+        },
+        "name": {
+            "@language": "ro",
+            "@value": "Pizza Royal (reteta video)"
+        },
+        "thumbnailURL": {
+            "@language": "ro",
+            "@value": "https://img.youtube.com/vi/JWh4khMn4js/hqdefault.jpg"
+        },
+        "uploadDate": {
+            "@language": "ro",
+            "@value": "2015-01-10 20:16:43"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,80 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "37"
+        },
+        "ratingValue": {
+            "@value": "4.5"
+        },
+        "worstRating": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@value": "Galate"
+    },
+    "cookTime": {
+        "@value": "PT60M"
+    },
+    "image": {
+        "@id": "https://img.povar.ru/main/a0/9d/3a/bf/zapekanka_s_yablokami_v_multivarke-166729.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\u042f\u0439\u0446\u043e                            \u00a0\u2014\u00a02-3\u00a0\u0428\u0442\u0443\u043a"
+        },
+        {
+            "@value": "\u042f\u0431\u043b\u043e\u043a\u0438                            \u00a0\u2014\u00a02-3\u00a0\u0428\u0442\u0443\u043a"
+        },
+        {
+            "@value": "\u0422\u0432\u043e\u0440\u043e\u0433                            \u00a0\u2014\u00a0400\u00a0\u0413\u0440\u0430\u043c\u043c"
+        },
+        {
+            "@value": "\u0421\u0430\u0445\u0430\u0440                            \u00a0\u2014\u00a0120\u00a0\u0413\u0440\u0430\u043c\u043c"
+        },
+        {
+            "@value": "\u0412\u0430\u043d\u0438\u043b\u0438\u043d, \u043a\u043e\u0440\u0438\u0446\u0430                            \u00a0\u2014\u00a0\u041f\u043e \u0432\u043a\u0443\u0441\u0443"
+        },
+        {
+            "@value": "\u041c\u0430\u043d\u043a\u0430                            \u00a0\u2014\u00a03-4\u00a0\u0421\u0442. \u043b\u043e\u0436\u0435\u043a"
+        }
+    ],
+    "name": {
+        "@value": "\u0417\u0430\u043f\u0435\u043a\u0430\u043d\u043a\u0430 \u0441 \u044f\u0431\u043b\u043e\u043a\u0430\u043c\u0438 \u0432 \u043c\u0443\u043b\u044c\u0442\u0438\u0432\u0430\u0440\u043a\u0435"
+    },
+    "prepTime": {
+        "@value": "PT60M"
+    },
+    "recipeCategory": {
+        "@value": "\u0424\u0440\u0443\u043a\u0442\u044b / \u042f\u0431\u043b\u043e\u043a\u0438 / \u041c\u043e\u043b\u043e\u0447\u043d\u044b\u0435 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u044b / \u0422\u0432\u043e\u0440\u043e\u0433"
+    },
+    "recipeInstructions": {
+        "@type": "ItemList",
+        "image": [
+            {
+                "@id": "https://img.povar.ru/steps/fa/25/df/03/zapekanka_s_yablokami_v_multivarke-166715.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/5f/0f/13/7f/zapekanka_s_yablokami_v_multivarke-166714.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/70/f7/20/ba/zapekanka_s_yablokami_v_multivarke-166712.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/b7/95/44/36/zapekanka_s_yablokami_v_multivarke-166713.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/13/6e/5a/36/zapekanka_s_yablokami_v_multivarke-166728.jpg"
+            }
+        ]
+    },
+    "recipeYield": {
+        "@value": "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043f\u043e\u0440\u0446\u0438\u0439: 6"
+    },
+    "@id": "http://example.org/recipe"
+}

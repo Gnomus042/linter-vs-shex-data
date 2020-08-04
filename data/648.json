@@ -1,0 +1,46 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "Coarse salt and ground pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bc cup packed light-brown sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tablespoon chili powder"
+        },
+        {
+            "@language": "en",
+            "@value": "8 chicken drumsticks (about 3 pounds)"
+        },
+        {
+            "@language": "en",
+            "@value": "1 bottle tomato-based chili sauce (12 ounces)"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bc cup distilled white vinegar"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons instant espresso powder (optional)"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons spicy brown mustard"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Barbecued Chicken Drumsticks"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "1. Preheat oven to 450 degrees. Arrange drumsticks in a 9-by-13-inch baking dish. Rub all over with chili powder; season generously with salt and pepper. Bake until tender, 35 to 40 minutes.\n\n2. Meanwhile, make barbecue sauce: In a small saucepan, whisk together chili sauce, vinegar, sugar, espre..."
+    },
+    "@id": "http://example.org/recipe"
+}

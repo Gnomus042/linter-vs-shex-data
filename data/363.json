@@ -1,0 +1,84 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Organization",
+        "name": {
+            "@language": "it-IT",
+            "@value": "Buitoni"
+        }
+    },
+    "cookTime": {
+        "@language": "it-IT",
+        "@value": "PT35M"
+    },
+    "image": {
+        "@id": "https://www.buitoni.it/wp-content/uploads/importedmedia/secondi_piatti_1680-882x362.jpg"
+    },
+    "name": {
+        "@language": "it-IT",
+        "@value": "Sandwiches di filetto al tartufo"
+    },
+    "prepTime": {
+        "@language": "it-IT",
+        "@value": "PT15M"
+    },
+    "recipeCategory": {
+        "@language": "it-IT",
+        "@value": "Secondi"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Pepe\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tq.b.\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Cipolla\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tq.b.\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Brodo\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tq.b.\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Patata\t\t\t\t\t        \n                            \n\t\t\t\t\t        \t400 g\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Maizena\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tq.b.\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Filetto di vitello\t\t\t\t\t        \n                            \n\t\t\t\t\t        \t4 sottili\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Farina\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tq.b.\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Crema di tartufo nero\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tq.b.\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Grana\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tq.b.\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Sale\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tq.b.\t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Uovo\t\t\t\t\t        \n                            \n\t\t\t\t\t        \t2 \t\t\t\t\t    \t\n                        "
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\n\t\t\t\t\t        \n\t\t\t\t\t        \t                                Burro\t\t\t\t\t        \n                            \n\t\t\t\t\t        \tq.b.\t\t\t\t\t    \t\n                        "
+        }
+    ],
+    "totalTime": {
+        "@language": "it-IT",
+        "@value": "PT50M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,64 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "itemReviewed": {
+            "@id": "_:N9db669ab08164bb493f4d476628d9892"
+        },
+        "name": {
+            "@value": "Sfogliatine con wurstel per feste e aperitivi"
+        },
+        "ratingCount": {
+            "@value": "22"
+        },
+        "ratingValue": {
+            "@value": "4.6"
+        },
+        "worstRating": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@value": "Federica Corsaro"
+    },
+    "cookTime": {
+        "@value": "PT15M"
+    },
+    "datePublished": {
+        "@value": "2014-09-01"
+    },
+    "description": {
+        "@value": "Sfogliatine con wurstel\nLe\u00a0sfogliatine con wurstel\u00a0sono degli sfiziosi antipasti finger food ideali per aperitivi e feste con gli amici, semplici e veloci da preparare. Da accompagnare con salse (maionese, ketchup, salsa barbecue, senape, salsa tartara, salsa rosa)."
+    },
+    "image": {
+        "@id": "https://www.kikakitchen.com/wp-content/uploads/2014/09/sfogliatine-con-wurstel-e-semi-di-sesamo.jpg"
+    },
+    "name": {
+        "@value": "Sfogliatine con wurstel per feste e aperitivi"
+    },
+    "prepTime": {
+        "@value": "PT10M"
+    },
+    "recipeCategory": {
+        "@value": "Antipasti, Antipasti Sfiziosi, Antipasti Veloci  "
+    },
+    "recipeIngredient": {
+        "@value": "\nPasta sfoglia, Semi di sesamo, Uova, Wurstel"
+    },
+    "recipeInstructions": {
+        "@value": "Sfogliatine con wurstelLe\u00a0sfogliatine con wurstel\u00a0sono degli sfiziosi antipasti finger food ideali per aperitivi e feste con gli amici, semplici e veloci da preparare. Da accompagnare con salse (maionese, ketchup, salsa barbecue, senape, salsa tartara, salsa rosa).Vai agli INGREDIENTIVai al PROCEDIMENTOLeggi i COMMENTI   (adsbygoogle = window.adsbygoogle || []).push({}); Ingredienti sfogliatine con w\u00fcrstel6 wurstel grandi (di suino oppure pollo e tacchino secondo i gusti)1 confezione di pasta sfoglia rettangolaresemi di sesamo o semi di papavero per guarnire1 uovo per spennellare\u00a0Come fare le sfogliatine con wurstelAdagiare i wurstel sulla pasta sfoglia e tagliare delle strisce lunghe quanto la lunghezza del wurstel.Arrotolare il wurstel con la pasta sfoglia fino ad avvolgerlo completamente senza per\u00f2 stringere troppo. Durante la cottura in forno il wurstel tender\u00e0 a gonfiare e potrebbe lacerare la pasta sfoglia.Tagliare l\u2019eccesso di pasta sfoglia e ripetere l\u2019operazione con gli altri wurstel.Spennellare l\u2019intera superficie di pasta sfoglia con l\u2019uovo precedentemente sbattuto.Accendere il forno a 200\u00b0 cos\u00ec al termine della preparazione sar\u00e0 quasi giunto a temperatura. Aggiungere i semi di sesamo o di papevero (opzionale) sulla superficie inumidita con l\u2019uovo sbattuto e tagliare il wurstel a fettine oppure a pezzi pi\u00f9 grossi per creare dei bocconcini pi\u00f9 consistenti.Distribuire le sfogliatine su una teglia rivestita di carta forno, ben distanti l\u2019una dall\u2019altra. E\u2019 possibile utilizzare il foglio di carta forno in dotazione con il rotolo di pasta sfoglia.   (adsbygoogle = window.adsbygoogle || []).push({});Cuocere in forno preriscaldato a 200\u00b0 per circa 12-15 minuti, fino a completa doratura.Servire le sfogliatine con wurstel con salse a piacere.Buon appetito!Se ti \u00e8 piaciuta la ricetta sfogliatine con wurstel condividila sui social.ZApp.log(''); ZApp.log('Publishing Manager (1): injected (end) content [\"#16228: fixed &#8211; offerte robot\"] - Rule #1 [16190 - \"Interno\"] - Group #1 [16191 - \"popup\"]');(function($){\n\t\t\t\t\tZApp.log('');\nZApp.log('Rendering client code for Content #16228 \"fixed &#8211; offerte robot\"');\n\n\t\t\t\tif( ('ALL' == 'DESKTOP' && (!ZApp.isDesktop())) || ('ALL' == 'MOBILE' && (!ZApp.isMobile())) ||\n\t\t\t\t\t('ALL' == 'TABLET' &&  (!ZApp.isTablet()))  || ('ALL' == 'PHONE'  && (!ZApp.isPhone())) )\n\t\t\t\t{\n\t\t\t\t\t\tZApp.log('==> Content 16228 NOT DISPLAYED (target device type [ALL] not matching)');\n\t\t\t\t\t\treturn;\n\t\t\t\t}\n\t\t\t\tZApp.log('Content 16228: checking condition for TARGET_DEVICE (ALL)');\n\t\t\t\t\n\t\t\t\t\tdocument.write(JSON.parse(atob('IjxkaXYgaWQ9J3dwbWNfZGlzcGxheV8xNjIyOCcgY2xhc3M9J3dwbWNfZGlzcGxheSB3cG1jX2Rpc3BsYXlfcG9wdXBfYm90dG9tX3JpZ2h0IHdwbWNfZGlzcGxheV9zaGFkb3cnIHN0eWxlPSdiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDI0NCwgMjQ0LCAyNDQsIDAuOSk7Ym9yZGVyLXJhZGl1czogM3B4OyBwYWRkaW5nOiAxMHB4Oyc+PGRpdiBpZD0nd3BtY19kaXNwbGF5XzE2MjI4X2Nsb3NlX2ljb24nIGNsYXNzPSd3cG1jX2Rpc3BsYXlfY2xvc2VfaWNvbicgdGl0bGU9J0Nsb3NlJz48aW1nIHNyYz0naHR0cHM6XC9cL3d3dy5raWtha2l0Y2hlbi5jb21cL3dwLWNvbnRlbnRcL3BsdWdpbnNcL3dwbW9uZXljbGlja1wvemFwcC1mcmFtZXdvcmtcL2ltYWdlc1wvY2xvc2UucG5nJyBhbHQ9J2Nsb3NlJyB0aXRsZT0nY2xvc2UnIFwvPjxcL2Rpdj5cclxuXHRcdFx0XHRcdFx0PHNjcmlwdD5cclxuXHRcdFx0XHRcdFx0XHQoZnVuY3Rpb24oJCkge1xyXG5cdFx0XHRcdFx0XHRcdFx0JCgnI3dwbWNfZGlzcGxheV8xNjIyOF9jbG9zZV9pY29uJykuY2xpY2soZnVuY3Rpb24oKSB7XHJcblx0XHRcdFx0XHRcdFx0XHRcdFpBcHAubG9nKCc9PT4gQ29udGVudCAxNjIyOCBjbG9zZWQnKTtcclxuXHRcdFx0XHRcdFx0XHRcdFx0XHJcblx0XHRcdFx0XHRcdFx0XHRcdCQodGhpcykuY2xvc2VzdCgnLndwbWNfZGlzcGxheScpLmZhZGVPdXQoNDAwKTtcclxuXHRcdFx0XHRcdFx0XHRcdH0pO1xyXG5cdFx0XHRcdFx0XHRcdH0pKGpRdWVyeSk7XHJcblx0XHRcdFx0XHRcdDxcL3NjcmlwdD4i'))); document.write(JSON.parse(atob('IjxhIGhyZWY9XCJodHRwczpcL1wvd3d3Lmtpa2FraXRjaGVuLmNvbVwvb2ZmZXJ0ZS1hbWF6b25cL1wiIHJlbD1cIm5vZm9sbG93XCI+ICBcclxuPGltZyBib3JkZXI9XCIwXCIgYWx0PVwia2Vud29vZCByb2JvdCBkYSBjdWNpbmEgaW4gb2ZmZXJ0YSBhbWF6b25cIiBzcmM9XCJodHRwczpcL1wvd3d3Lmtpa2FraXRjaGVuLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOFwvMDNcL29mZmVydGEtYW1hem9uLWtlbndvb2QuanBnXCI+PFwvYT4i'))); document.write(JSON.parse(atob('IjxcL2Rpdj48c3R5bGU+PFwvc3R5bGU+XHJcblx0XHRcdFx0XHQ8c2NyaXB0PlxyXG5cdFx0XHRcdFx0XHQoZnVuY3Rpb24oJCkge1xyXG5cdFx0XHRcdFx0XHRcdCQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkge1xyXG5cdFx0XHRcdFx0XHRcdFx0aWYoJycgIT0gJycpIFpBcHAubG9nKCc9PT4gQ29udGVudCAxNjIyOCB3aWxsIGJlIGRpc3BsYXllZCB3aGVuIHNjcm9sbCByZWFjaCAgQ1NTIHNlbGVjdG9yJyk7XHJcblx0XHRcdFx0XHRcdFx0XHRpZigwID4gMSkgICAgICAgICAgICAgWkFwcC5sb2coJz09PiBDb250ZW50IDE2MjI4IHdpbGwgYmUgZGlzcGxheWVkIHdpdGggYSBkZWxheSAoMCBtc2VjcyknKTtcclxuXHJcblx0XHRcdFx0XHRcdFx0XHRcL1wvIENvbnRlbnQgY2xvc2VkIHdpdGggWCBpY29uID9cclxuXHRcdFx0XHRcdFx0XHRcdGlmKFpBcHAuY29va2llcy5nZXQoJ3dwbWNfY29udGVudF8xNjIyOCcpID09IDEpXHJcblx0XHRcdFx0XHRcdFx0XHR7XHJcblx0XHRcdFx0XHRcdFx0XHRcdFpBcHAubG9nKCc9PT4gQ29udGVudCAxNjIyOCB3aWxsIE5PVCBiZSBkaXNwbGF5ZWQgYXMgaXQgd2FzIGNsb3NlZCB3aXRoIGNsb3NlIChYKSBpY29uJyk7XHJcblx0XHRcdFx0XHRcdFx0XHRcdHJldHVybjtcclxuXHRcdFx0XHRcdFx0XHRcdH1cclxuXHJcblx0XHRcdFx0XHRcdFx0XHR3aW5kb3cud3Btb25leWNsaWNrLmNvbnRlbnRzID0gd2luZG93LndwbW9uZXljbGljay5jb250ZW50cyB8fCBbXTtcclxuXHRcdFx0XHRcdFx0XHRcdHdpbmRvdy53cG1vbmV5Y2xpY2suY29udGVudHMucHVzaCgxNjIyOCk7XHJcblxyXG5cdFx0XHRcdFx0XHRcdFx0XHJcblx0XHRcdFx0XHRzZXRUaW1lb3V0KGZ1bmN0aW9uKCkge1xyXG5cdFx0XHRcdFx0XHRcdFpBcHAubG9nKCc9PT4gQ29udGVudCAxNjIyOCBESVNQTEFZRUQgKHBvcHVwX2JvdHRvbV9yaWdodCknKTtcclxuXHRcdFx0XHRcdFx0XHRXUE1vbmV5Q2xpY2suc2xpZGVJbkZyb21Cb3R0b21SaWdodCgnI3dwbWNfZGlzcGxheV8xNjIyOCcpO1xyXG5cdFx0XHRcdFx0fSwgMCk7IFxyXG5cdFx0XHRcdFx0XHRcdH0pO1xyXG5cdFx0XHRcdFx0XHR9KShqUXVlcnkpO1xyXG5cdFx0XHRcdFx0PFwvc2NyaXB0PiI='))); \n\t\t\t\t})(jQuery);"
+    },
+    "recipeYield": {
+        "@value": "6"
+    },
+    "totalTime": {
+        "@value": "PT25M"
+    },
+    "url": {
+        "@value": "https://www.kikakitchen.com/recipe/sfogliatine-con-wurstel/"
+    },
+    "@id": "http://example.org/recipe"
+}

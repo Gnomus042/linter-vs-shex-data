@@ -1,0 +1,78 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "9"
+        },
+        "reviewCount": {
+            "@value": "3"
+        }
+    },
+    "author": {
+        "@value": "Robert Pullens"
+    },
+    "ingredients": [
+        {
+            "@value": "\t            \n      \t\t  800 gram kipfilet, in grote stukken\n2 el bloem\n2 el kappertjes, uitgelekt\n4 el olijfolie\n2 tenen knoflook, in flinterdunne schijfjes\n4 el fijngehakte peterselie\n100 ml kippenbouillon\n50 ml witte wijn\nsap van 1 citroen\npeper en zout\n              "
+        },
+        {
+            "@value": "2 tenen knoflook, in flinterdunne schijfjes\n"
+        },
+        {
+            "@value": "peper en zout"
+        },
+        {
+            "@value": "2 el bloem\n"
+        },
+        {
+            "@value": "2 el kappertjes, uitgelekt\n"
+        },
+        {
+            "@value": "4 el olijfolie\n"
+        },
+        {
+            "@value": "100 ml kippenbouillon\n"
+        },
+        {
+            "@value": "50 ml witte wijn\n"
+        },
+        {
+            "@value": "800 gram kipfilet, in grote stukken\n"
+        },
+        {
+            "@value": "sap van 1 citroen\n"
+        },
+        {
+            "@value": "4 el fijngehakte peterselie\n"
+        }
+    ],
+    "name": {
+        "@value": "KIPFILET MET PETERSELIE KAPPERTJESSAUS"
+    },
+    "published": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2006-01-28"
+    },
+    "recipeYield": {
+        "@value": "4"
+    },
+    "review": [
+        {
+            "@id": "_:Nf06b9f41f62641829d897fcb380e349b"
+        },
+        {
+            "@id": "_:N9d3e5fa4c01846ccb41d535faab91bec"
+        },
+        {
+            "@id": "_:Nf17d2a417a7e44fd9bb3554e5fa6e088"
+        },
+        {
+            "@id": "_:Nd491c7502aaf4fd882dcb0a6270b9838"
+        },
+        {
+            "@id": "_:N03bbfa06419d438aba4f7625a15cad1a"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

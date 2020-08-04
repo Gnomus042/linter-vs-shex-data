@@ -1,0 +1,70 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://heyfoodapp.com/recipe/salted-mocha-hot-chocolate-recipe-american-drinks/../../author/6whq76s/"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "20 minutes"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Salted Mocha Hot Chocolate is a delicious chocolaty drink perfect to serve on a chilly day. Espresso adds nice mocha flavor to this beverage."
+    },
+    "image": {
+        "@id": "https://heyfoodapp.com/api/public/img/JOe_9G9GvTk.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Salted Mocha Hot Chocolate Recipe"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Drinks"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "American"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "1 tsp espresso powder  "
+        },
+        {
+            "@language": "en",
+            "@value": " as needed Whipped Cream "
+        },
+        {
+            "@language": "en",
+            "@value": "1\u00bd oz Forte Espresso in White Chocolate "
+        },
+        {
+            "@language": "en",
+            "@value": "1\u00bd oz Forte Sea Salt in Milk Chocolate "
+        },
+        {
+            "@language": "en",
+            "@value": "4 cups whole milk "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "In a heavy bottom saucepan, bring the milk to almost boiling. As soon as the bubbles start to form around the edge of the pan remove from the heat."
+        },
+        {
+            "@language": "en",
+            "@value": "Pour the hot chocolate into four mugs. Top each with a swirl or spoonful of whipped cream. Serve immediately."
+        },
+        {
+            "@language": "en",
+            "@value": "Add the chocolate, coffee powder and stir until all the chocolate has melted and the mixture is smooth."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4 Servings"
+    },
+    "@id": "http://example.org/recipe"
+}

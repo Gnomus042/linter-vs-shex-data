@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "image": [
+        {
+            "@id": "https://lifeisfullofgoodies.com/wp-content/uploads/2015/10/3-1.jpg"
+        },
+        {
+            "@id": "https://lifeisfullofgoodies.com/2016/01/13/art-deco-mit-der-schoenhaberei-und-bananen-schoko-cupcakes/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20205%200'%3E%3C/svg%3E"
+        }
+    ],
+    "ingredients": [
+        {
+            "@value": "100 g Schmand"
+        },
+        {
+            "@value": "Null"
+        },
+        {
+            "@value": "50 g Schokoraspel (oder -streusel)"
+        },
+        {
+            "@value": "einige Schokosplitter zur Deko"
+        },
+        {
+            "@value": "F\u00fcr die Muffins (12 - 16 St\u00fcck, je nach Gr\u00f6\u00dfe der Muffinf\u00f6rmchen):"
+        },
+        {
+            "@value": "\u00bd P\u00e4ckchen Backpulver"
+        },
+        {
+            "@value": "3 Eier"
+        },
+        {
+            "@value": "100 g weiche Butter"
+        },
+        {
+            "@value": "50 g Apfelmus"
+        },
+        {
+            "@value": "200 g Schlagsahne"
+        },
+        {
+            "@value": "etwas Karamellsauce als Topping"
+        },
+        {
+            "@value": "225 g Mehl"
+        },
+        {
+            "@value": "Zudem:"
+        },
+        {
+            "@value": "250 g sehr reife, zerdr\u00fcckte Banane"
+        },
+        {
+            "@value": "150 g Zucker"
+        }
+    ],
+    "name": {
+        "@value": "Bananen Schoko Cupcakes mit Karamellsauce"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Den Backofen auf 170 \u00b0C Umluft (190 \u00b0C Ober- / Unterhitze) vorheizen."
+        },
+        {
+            "@value": "Alle Zutaten f\u00fcr die Muffins miteinander cremig r\u00fchren. Den Teig sodann in die Muffinf\u00f6rmchen geben. Die F\u00f6rmchen zu ca. \u00be mit dem Teig f\u00fcllen."
+        },
+        {
+            "@value": "Die Muffins ca. 20 - 25 Minuten backen. Einen St\u00e4bchentest machen, um sicherzugehen, dass sie durchgebacken sind."
+        },
+        {
+            "@value": "F\u00fcr das Topping die Schlagsahne steif schlagen und auf die komplett ausgek\u00fchlten Muffins spritzen. Die Karamellsauce dar\u00fcber tr\u00e4ufeln und die Schokosplitter dr\u00fcber streuen."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

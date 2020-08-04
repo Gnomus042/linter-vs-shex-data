@@ -1,0 +1,126 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "16"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.6"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Anna {hiddenponies.com}"
+    },
+    "image": {
+        "@id": "http://hiddenponies.com/wp-content/uploads/2012/12/nanaimo-bar-feature-800x476.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "6 tbsp milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 cups icing sugar (aka powdered sugar or confectioner's sugar)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "MIDDLE LAYER:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 egg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup chopped walnuts (OPTIONAL)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8 oz semisweet or dark chocolate"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup butter or margarine"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups graham cracker crumbs (*see note for substitutions)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup butter or margarine, softened"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup coconut"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tbsp butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6 tbsp cocoa"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 tbsp custard powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "BASE:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "TOP LAYER:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tbsp milk"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "BEST EVER NANAIMO BARS"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Dessert"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "BASE: Combine first 6 ingredients in large saucepan. Heat and stir over medium-low heat until mixture is smooth. Remove from heat."
+        },
+        {
+            "@language": "en-US",
+            "@value": "TOP LAYER: Melt chocolate and butter in a small bowl at 50% power in microwave. Microwave for about 1\u00bd minutes, stir and microwave another 30 seconds or longer if needed, stirring frequently. Spread fairly evenly over middle layer. Chill for 1 hour, then score chocolate with a sharp knife and return to fridge to chill completely before cutting into bars."
+        },
+        {
+            "@language": "en-US",
+            "@value": "MIDDLE LAYER: Beat all 4 ingredients together in medium bowl until smooth. Spread over first layer. Chill for 45 minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Stir in graham crumbs, coconut, and walnuts. Pack firmly into ungreased 9x13\u201d pan. Chill while you prepare the middle layer."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "35"
+    },
+    "@id": "http://example.org/recipe"
+}

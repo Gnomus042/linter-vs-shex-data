@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "en",
+        "@value": "https://homechef.imgix.net/https%3A%2F%2Fasset.homechef.com%2Fuploads%2Fmeal%2Fplated%2F4191%2Fhomechef_Fruit_Basket_2017__1_of_1_-74a8c63fcc494e26d84ec2a021a8cf92-74a8c63fcc494e26d84ec2a021a8cf92.jpg?ixlib=rails-1.1.0&w=600&auto=format&s=74672136a00b5809bc4541736b22a2ea"
+    },
+    "logo": {
+        "@language": "en",
+        "@value": "\n\n  Home Chef: Fresh Ingredient Delivery To Cook At Home\n  \n\n\n"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "\nSeasonal Fruit Basket\nwith an assortment of fresh fruit\n"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "235"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "57g"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "1g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "2g"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "4mg"
+        },
+        "suitableForDiet": {
+            "@id": "https://www.homechef.com/meals/seasonal-fruit-basket-47c4ccce-e5bb-4855-98cc-1d85280ca909/Null"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n1\n\nOrange\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n2\n\nPear\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n2\n\nApple\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "2 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

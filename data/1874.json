@@ -1,0 +1,100 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en",
+        "@value": "Fresh-from-the-garden flavor in our summer slaw!Diabetic Friendly"
+    },
+    "image": {
+        "@id": "https://recipes-secure-graphics.grocerywebsite.com/0_GraphicsRecipes/5461_400.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Summer Vegetable Slaw"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "115"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "3g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "0mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "11g"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "<1g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "<1g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "2g"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "54mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "<1g"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "chopped fresh Italian parsley"
+        },
+        {
+            "@language": "en",
+            "@value": "Dijon mustard"
+        },
+        {
+            "@language": "en",
+            "@value": "chopped celery"
+        },
+        {
+            "@language": "en",
+            "@value": "vinegar"
+        },
+        {
+            "@language": "en",
+            "@value": "chopped fresh broccoli"
+        },
+        {
+            "@language": "en",
+            "@value": "(16 ounce) cole slaw mix (with red and green cabbage and carrots)"
+        },
+        {
+            "@language": "en",
+            "@value": "grape tomatoes, cut in half"
+        },
+        {
+            "@language": "en",
+            "@value": "garlic, minced"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Toss the cole slaw, broccoli, tomatoes, celery and parsley in a large salad bowl.Stir together the oil, vinegar, mustard and garlic in a small bowl; add to salad and toss to coat."
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "10 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,115 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "de",
+        "@value": "PT60M"
+    },
+    "description": {
+        "@language": "de",
+        "@value": "Eine Schritt-f\u00fcr-Schritt-Anleitung f\u00fcr Palatschinken mit selbstgemachter Nuss-Nougatcreme \u2665 Jetzt Rezept entdecken und gleich daheim selbst ausprobieren!"
+    },
+    "image": {
+        "@id": "https://www.spar.at/mahlzeit/rezepte/suesses/palatschinken-mitselbstgemachternussnougatcreme//content/dam/sparatwebsite/mahlzeit/rezepte/suesses/palatschinken-mitselbstgemachternussnougatcreme.jpg/_jcr_content/renditions/responsive.968.545.noborder.c91b6fbfa880d35f.jpg"
+    },
+    "keywords": [
+        {
+            "@id": "https://www.spar.at/mahlzeit/rezepte/suesses/palatschinken-mitselbstgemachternussnougatcreme//mahlzeit/rezepte?searchTerm=Nuss-Nougatcreme"
+        },
+        {
+            "@id": "https://www.spar.at/mahlzeit/rezepte/suesses/palatschinken-mitselbstgemachternussnougatcreme//mahlzeit/rezepte?searchTerm=Zuckeralternativen"
+        },
+        {
+            "@id": "https://www.spar.at/mahlzeit/rezepte/suesses/palatschinken-mitselbstgemachternussnougatcreme//mahlzeit/rezepte?searchTerm=Palatschinken"
+        }
+    ],
+    "name": {
+        "@language": "de",
+        "@value": "\nPalatschinken mit selbstgemachter Nuss-Nougatcreme\n"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "de",
+            "@value": "\n535\n"
+        },
+        "carbohydrateContent": {
+            "@language": "de",
+            "@value": "\n33 g\n"
+        },
+        "fatContent": {
+            "@language": "de",
+            "@value": "\n38 g\n"
+        },
+        "proteinContent": {
+            "@language": "de",
+            "@value": "\n13.6 g\n"
+        },
+        "sugarContent": {
+            "@language": "de",
+            "@value": "\n8 g\n"
+        }
+    },
+    "recipeCategory": {
+        "@language": "de",
+        "@value": "\n\nW\u00e5s Kleines\n\n"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "de",
+            "@value": "\n\n\n\nPrise\n\n\n\nSalz\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n2\n\n\n\nEier\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n4\n\n\n\nBananen\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n40\nml\n\n\n\nSPAR Natur*pur BIo-Agavendicksaft\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n200\ng\n\n\n\nHaseln\u00fcsse\n\nganz\n\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n50\ng\n\n\n\nZartbitterschokolade\n\n(70% Kakaoanteil)\n\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n30\ng\n\n\n\nBackkakao\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n150\ng\n\n\n\nWeizenmehl\n\nglatt\n\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n350\ng\n\n\n\nMilch\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n1\nEL\n\n\n\nPflanzen\u00f6l\n\nneutral\n\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n\netwas\n\n\n\n\u00d6l\n\nzum Ausbacken\n\n\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\n\n2\nEL\n\n\n\nKokos\u00f6l\n\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "de",
+        "@value": "\n\nZubereitung\n\n\n\n\nNuss-Nougatcreme\n\n\n\n\n\n01\n\n\n\n\nHaseln\u00fcsse in einer Pfanne ohne Fett auf mittlerer Stufe ca. 10 Minuten hell r\u00f6sten und anschlie\u00dfend komplett ausk\u00fchlen lassen.\n\n\n\n\n\n\n\n\n\n\n02\n\n\n\n\n200 g ger\u00f6stete Haseln\u00fcsse im Hochleistungsmixer (z.B. Foodprocessor oder Blender) zu sehr feinem Mus p\u00fcrieren, dies kann 15-20 Minuten dauern.\n\n\n\n\n\n\n\n\n\n\n03\n\n\n\n\nSchokolade schmelzen. Nach und nach alle restlichen Zutaten dem Nussmus zugeben und zu einer glatten creme mixen.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPalatschinken\n\n\n\n\n\n01\n\n\n\n\nF\u00fcr den Palatschinkenteig Milch, Eier und \u00d6l verr\u00fchren. Mehl essl\u00f6ffelweise zugeben und alles zu einem d\u00fcnnfl\u00fcssigen Teig verr\u00fchren, gegebenenfalls mit dem Stabmixer glattmixen.\n\n\n\n\n\n\n\n\n\n\n02\n\n\n\n\nEine Pfanne auf hoher Stufe erhitzen und mit \u00d6l ausstreichen. Hitze reduzieren und nacheinander d\u00fcnne Palatschinken ausbacken.\n\n\n\n\n\n\n\n\n\n\n\n\n\nF\u00fcllung\n\n\n\n\n\n01\n\n\n\n\nRestliche ger\u00f6steten Haseln\u00fcsse hacken. Bananen sch\u00e4len und in d\u00fcnne Scheiben schneiden.\n\n\n\n\n\n\n\n\n\n\n\n\n\nZum Servieren\n\n\n\n\n\n01\n\n\n\n\nDie Palatschinken mit der Nuss-Nougatcreme bestreichen, mit einigen Bananenscheiben belegen und einrollen. Nach Belieben mit restlicher Nuss-Nougatcreme betr\u00e4ufeln und mit gehackten N\u00fcssen bestreuen.\n\n\n\n\n\n\n\n\n\n TIPP!\n\nDie Nuss-Nougatcreme h\u00e4lt sich in einem sauberen Schraubglas abgef\u00fcllt, k\u00fchl- und dunkel gelagert bis zu 4 Wochen! Vor dem Gebrauch gut durchr\u00fchren, da sich das \u00d6l absetzen kann.\n\n\n\n\n\n\n"
+    },
+    "totalTime": {
+        "@language": "de",
+        "@value": "PT60M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "tr",
+        "@value": "Versnellen Tuning Store"
+    },
+    "brand": {
+        "@language": "tr",
+        "@value": "lpfb.us"
+    },
+    "image": {
+        "@language": "tr",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1nFC_hoOWBKNjSZKzq6xfWFXa2/Performans-Karbon-\u00d6n-Splitter-Araba-Yar\u0131\u015f\u0131-\u00d6n-\u00d6N-TAMPON-Splitter-\u00d6nl\u00fck-BMW-1-Serisi-i\u00e7in-E82.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "tr",
+            "@value": "32882326657"
+        },
+        {
+            "@language": "tr",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "tr",
+        "@value": "Performans Karbon \u00d6n Splitter Araba Yar\u0131\u015f\u0131 \u00d6n \u00d6N TAMPON Splitter \u00d6nl\u00fck BMW 1 Serisi i\u00e7in E82 M 1 M Coupe 2 kap\u0131 2011"
+    },
+    "@id": "http://example.org/recipe"
+}

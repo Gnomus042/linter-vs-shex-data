@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "pt",
+        "@value": "Tanbaby Factory Store"
+    },
+    "brand": {
+        "@language": "pt",
+        "@value": "shopmeggie.com"
+    },
+    "image": {
+        "@language": "pt",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1Y5Kdq.R1BeNjy0Fmq6z0wVXa3/Tanbaby-100-W-COB-Levou-Crescer-Espectro-Completo-de-Luz-Ao-Ar-Livre-\u00c0-Prova-D.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "pt",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "pt",
+            "@value": "32873487932"
+        }
+    ],
+    "name": {
+        "@language": "pt",
+        "@value": "Tanbaby 100 W COB Levou Crescer Espectro Completo de Luz Ao Ar Livre \u00c0 Prova D' \u00c1gua IP67 L\u00e2mpada Crescente Crescer Luzes Ultra-Fino para legumes & Bloom"
+    },
+    "@id": "http://example.org/recipe"
+}

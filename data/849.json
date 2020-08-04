@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.5"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "019"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Juho Pohjalainen"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT3H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "    Strife In An Underwater Trading Post The Microcosm Of A Cosmic War, Battle Lines Drawn When A Stranger Sails To TownPeal Is In No Mood For Wars, Cosmic Or Not He Seeks Only Rest After A Harrowing Journey, Time To Grieve For Lost Friends, And To Come To Terms With A Terrible Burden Placed Upon Him He Is The Custodian Of A Chaotic Weapon Of World Sundering Power And He Stands All AloneNeither The Iron Fisted Governor Nor The Pain Fueled Sorceress Pay Him Any Heed They Judge The Book By Its Cover, After All, And Know Nothing Of What Weighs His Heart This Suits Him FineUntil A New Friend A Small Child Is Lured To The Brink Of Death By Their WarNow Peal Is Roused To Action Stepping Into The Core Of The Conflict, He Shows The Tyrants And Anarchists War Unlike Any They Had Ever Waged He Seeks Their Unwitting Aid In Ridding The World Of ThemselvesI May Make It Sound Easy, But It Isn T If Anything It May Be The Opposite The Very Greatest Ordeal He S Ever Faced, A Peril Not Just To His Life, But To His Very Soul     \t\t\n\t\t\n\t\t"
+    },
+    "image": {
+        "@id": "http://e-inbusiness.co.uk/wp-content/upload/2017/90e7409fbe6022e5c5369fc86d61bae4i0f2bb650e270ec386eee410e7b0fe16cgr-assets0f2bb650e270ec386eee410e7b0fe16ccom/images/S/compressed0f2bb650e270ec386eee410e7b0fe16cphoto0f2bb650e270ec386eee410e7b0fe16cgoodreads0f2bb650e270ec386eee410e7b0fe16ccom/books/1566241161l/478460030f2bb650e270ec386eee410e7b0fe16cjpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "019"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "Provides Scourge of the Silver Wings Textbooks, txt Scourge of the Silver Wings, text ebook Scourge of the Silver Wings, adobe reader Scourge of the Silver Wings, chapter 2 Scourge of the Silver Wings, Scourge of the Silver Wings"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Scourge of the Silver Wings"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "Provides Scourge of the Silver Wings Textbooks \u2764 Strife In An Underwater Trading Post The Microcosm Of A Cosmic War, Battle Lines Drawn When A Stranger Sails To TownPeal Is In No Mood For Wars, Cosmic Or Not He Seeks Only Rest After A Harrowing Journey, Time To Grieve For Lost Friends, And To Come To Terms With A Terrible Burden Placed Upon Him."
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT18M"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "georgian"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "Provides Scourge of the Silver Wings Textbooks \u2764 Strife In An Underwater Trading Post The Microcosm Of A Cosmic War, Battle Lines Drawn When A Stranger Sails To TownPeal Is In No Mood For Wars, Cosmic Or Not He Seeks Only Rest After A Harrowing Journey, Time To Grieve For Lost Friends, And To Come To Terms With A Terrible Burden Placed Upon Him."
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "Scourge of the Silver Wings"
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://e-inbusiness.co.uk/wp-content/upload/2017/90e7409fbe6022e5c5369fc86d61bae4i0f2bb650e270ec386eee410e7b0fe16cgr-assets0f2bb650e270ec386eee410e7b0fe16ccom/images/S/compressed0f2bb650e270ec386eee410e7b0fe16cphoto0f2bb650e270ec386eee410e7b0fe16cgoodreads0f2bb650e270ec386eee410e7b0fe16ccom/books/1566241161l/478460030f2bb650e270ec386eee410e7b0fe16cjpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2018-05-02T03:10+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

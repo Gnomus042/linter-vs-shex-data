@@ -1,0 +1,59 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://www.cookingglory.com/wp-content/uploads/2015/05/orange-tilapia.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "3-4 tbsp canola oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup flour mixed with salt and pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 orange, peeled and chopped the way you want"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd yellow/red bell pepper. cubed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup shallots, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 tilapia fillets"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Fried Tilapia with Orange Salsa"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Lightly dredge fillets in seasoned flour, shaking off the excess. Brown tilapia in a heated skillet 3 to 5 minutes per side until fish flakes easily. Add the cooked fish to an ovenproof platter and and place in warm oven."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Remove fish from oven and pour the orange mix over. Serve immediately."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add shallots to same skillet that you used for fish and cook for 5 minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add bell pepper and stir to mix. Add orange pieces and cook, stirring for about 3 minutes but not too much or the oranges will break apart."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "2-4"
+    },
+    "@id": "http://example.org/recipe"
+}

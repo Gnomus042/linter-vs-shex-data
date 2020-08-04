@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "pt",
+        "@value": "Automobile Ad Motorcycle Parts Store"
+    },
+    "brand": {
+        "@language": "pt",
+        "@value": "jilson.me"
+    },
+    "image": {
+        "@language": "pt",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1n95bev1H3KVjSZFBq6zSMXXaq/7-pe\u00e7as-de-substitui\u00e7\u00e3o-do-carro-do-grand-cherokee-2014-2016-da-inser\u00e7\u00e3o-blk-do-anel.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "pt",
+            "@value": "33048189391"
+        },
+        {
+            "@language": "pt",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "pt",
+        "@value": "7 pe\u00e7as de substitui\u00e7\u00e3o do carro do grand cherokee 2014-2016 da inser\u00e7\u00e3o blk do anel da guarni\u00e7\u00e3o do furo do respiradouro da grade dianteira dos pces"
+    },
+    "@id": "http://example.org/recipe"
+}

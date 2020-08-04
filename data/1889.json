@@ -1,0 +1,107 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "0.00"
+        },
+        "reviewCount": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://images.media-allrecipes.com/userphotos/50x50/5340907.jpg"
+        },
+        "name": {
+            "@value": "Diabetic Living Magazine"
+        }
+    },
+    "description": {
+        "@value": "Leftover pressure-cooked roast beef gets put to good use as another easy dinner in this recipe for easy beef tacos. We love our tacos topped with the classics\u2014lettuce, cheese, salsa and sour cream\u2014but put out all your favorite toppings and let everyone build their own."
+    },
+    "image": {
+        "@value": "http://images.media-allrecipes.com/userphotos/960x960/5120827.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "2 cups shredded pressure-cooked beef roast (see associated recipe)"
+        },
+        {
+            "@value": "2 cups shredded lettuce"
+        },
+        {
+            "@value": "\u00bc cup light sour cream (optional)"
+        },
+        {
+            "@value": "4 (8 inch) whole-wheat flour tortillas"
+        },
+        {
+            "@value": "\u00bd cup shredded reduced-fat Cheddar cheese"
+        },
+        {
+            "@value": "\u00bd cup salsa (optional)"
+        },
+        {
+            "@value": "1 cup chopped green and red bell peppers"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "True"
+    },
+    "name": {
+        "@value": "Pressure-Cooker Shredded Beef Tacos"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "348 calories;"
+        },
+        "carbohydrateContent": {
+            "@value": "19"
+        },
+        "cholesterolContent": {
+            "@value": "60"
+        },
+        "fatContent": {
+            "@value": "12"
+        },
+        "fiberContent": {
+            "@value": "11"
+        },
+        "proteinContent": {
+            "@value": "37"
+        },
+        "saturatedFatContent": {
+            "@value": "5"
+        },
+        "sodiumContent": {
+            "@value": "601"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@value": "Latin American"
+        },
+        {
+            "@value": "Mexican"
+        },
+        {
+            "@value": "Cuisines & Regions"
+        },
+        {
+            "@value": "Beef"
+        },
+        {
+            "@value": "Tacos"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        Place a tortilla on each of 4 serving plates. Divide lettuce among tortillas. Top with beef, peppers and cheese. Garnish with salsa and sour cream, if desired.\n            "
+    },
+    "recipeYield": {
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

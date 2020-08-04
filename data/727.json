@@ -1,0 +1,89 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "cs",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "cs",
+            "@value": "3,0"
+        }
+    },
+    "author": {
+        "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//uzivatele/profil/CHUTaSTYL.cz/"
+    },
+    "cookTime": {
+        "@language": "cs",
+        "@value": "120 min."
+    },
+    "image": {
+        "@id": "http://media.igurmet.cz/cache/fb/23/fb23dd4d8874264deffc5a12b394feeb.jpg"
+    },
+    "ingredients": [
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/hovezi-maso/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/celer/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/cibule/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/pepr-cerny/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/stava-citronova/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/horcice/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/nove-koreni/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/mleko-acidofilni/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/bobkovy-list/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/mrkev/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/petrzel-korenova/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/olej/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/mouka-psenicna-polohruba/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/sul/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/vyvar/"
+        },
+        {
+            "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//suroviny/detail/tymian/"
+        }
+    ],
+    "recipeCategory": {
+        "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//recepty/category/maso/hovezi-maso/hovezi-svickova/"
+    },
+    "recipeCuisine": {
+        "@id": "http://www.igurmet.cz/recepty/maso/hovezi-maso/hovezi-svickova/svickova-spikovana-celerem-4641//cuisine/ceska/"
+    },
+    "recipeInstructions": {
+        "@language": "cs",
+        "@value": "Maso o\u010dist\u00edme a omyjeme, osr\u00fdm no\u017eem nebo \u0161pikovac\u00ed jehlou v n\u011bm ud\u011bl\u00e1me otvory a zasuneme do nich celer nakr\u00e1jen\u00fd na \u0161pal\u00ed\u010dky (m\u00edsto slaniny). Maso osol\u00edme, p\u0159\u00edpadn\u011b je\u0161t\u011b sv\u00e1\u017eeme prov\u00e1zkem, aby si udr\u017eelo hezk\u00fd tvar v\u00e1le\u010dku, ope\u010deme ho ze v\u0161ech stran v kastrolu na oleji a vyjmeme.\n\nVe v\u00fdpeku orestujeme za st\u00e1l\u00e9ho m\u00edch\u00e1n\u00ed na pl\u00e1tky nakr\u00e1jenou ko\u0159enovou zeleninu a kdy\u017e za\u010dne zl\u00e1tnout, p\u0159id\u00e1me nakr\u00e1jenou cibuli a pokra\u010dujeme v restov\u00e1n\u00ed, dokud i cibule neza\u010dne zl\u00e1tnout. \n\nP\u0159id\u00e1me ho\u0159\u010dici, ko\u0159en\u00ed zav\u00e1zan\u00e9 v kousku \u010dist\u00e9ho pl\u00e1tna, v\u0161e zalijeme polovinou v\u00fdvaru a pova\u0159\u00edme. Do tohoto z\u00e1kladu vlo\u017e\u00edme zp\u011bt ope\u010den\u00e9 maso a dus\u00edme pod pokli\u010dkou, dokud nen\u00ed maso m\u011bkk\u00e9.\n\nPak vyjmeme s\u00e1\u010dek s ko\u0159en\u00edm, p\u0159ilijeme zbyl\u00fd v\u00fdvar a p\u0159ivedeme k varu. Vm\u00edch\u00e1me mouku rozm\u00edchanou v acidofiln\u00edm ml\u00e9ce a va\u0159\u00edme je\u0161t\u011b alespo\u0148 20 minut. \n\nNa z\u00e1v\u011br maso vyjmeme a nakr\u00e1j\u00edme na pl\u00e1tky, om\u00e1\u010dku rozmixujeme, dochut\u00edme sol\u00ed a citronovou \u0161\u0165\u00e1vou, vr\u00e1t\u00edme do n\u00ed pl\u00e1tky masa a proh\u0159ejeme."
+    },
+    "recipeYield": {
+        "@language": "cs",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

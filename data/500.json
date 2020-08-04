@@ -1,0 +1,102 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "it-IT",
+            "@value": "8"
+        },
+        "ratingValue": {
+            "@language": "it-IT",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "it-IT",
+        "@value": "Margherita"
+    },
+    "image": {
+        "@id": "https://www.lapetitecasserole.com/wp-content/uploads/2016/01/g\u00e2teau-ricotta-et-orange--1024x683.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "it-IT",
+            "@value": "3 tablespoons of almond flakes table to decorate"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "4 eggs"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "300 gr. of high quality ricotta"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "\u00bd slice of a lemon"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "240 gr. of ground almonds (almond meal)"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Zest of 1 orange"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "170 gr. of white sugar"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "120 gr. butter, softened"
+        }
+    ],
+    "name": {
+        "@language": "it-IT",
+        "@value": "Ricotta and almond cake"
+    },
+    "recipeCategory": {
+        "@language": "it-IT",
+        "@value": "Cake"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "it-IT",
+            "@value": "Drain the ricotta with a strainer, set aside;"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Whisk the egg whites until stiff with 2-3 drops of lemon juice;"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Using a whisk cream the butter with the sugar and the orange zest;"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Preheat oven to 150 \u00b0, line a cake pan with parchment paper, set aside;"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Add the drained ricotta, almond flour, mix until you obtain a smooth batter;"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Add the egg yolks one at a time gently mixing;"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Add the egg whites in the ricotta mixture making big and delicate movements;"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Let cool for at least 1 hour before unfolding it, sprinkle with icing sugar and serve."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Pour the mixture into the mold, decorate with almond flakes and bake about 50 minutes;"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

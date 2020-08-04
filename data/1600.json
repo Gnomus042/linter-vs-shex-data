@@ -1,0 +1,217 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-us",
+            "@value": "4.29"
+        },
+        "reviewCount": {
+            "@language": "en-us",
+            "@value": "809"
+        }
+    },
+    "author": {
+        "@language": "en-us",
+        "@value": "SOMEONESWT"
+    },
+    "description": {
+        "@language": "en-us",
+        "@value": "\n\"Absolutely delicious. I know it doesn't sound appetizing, but it's unbelievable how tasty it is, and so easy too!\"        "
+    },
+    "image": {
+        "@id": "https://images.media-allrecipes.com/userphotos/560x315/270553.jpg"
+    },
+    "mainEntityOfPage": {
+        "@language": "en-us",
+        "@value": "True"
+    },
+    "name": {
+        "@language": "en-us",
+        "@value": "Pumpkin Turkey Chili"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-us",
+            "@value": "285 calories;"
+        },
+        "carbohydrateContent": {
+            "@language": "en-us",
+            "@value": "14.9"
+        },
+        "cholesterolContent": {
+            "@language": "en-us",
+            "@value": "76 "
+        },
+        "fatContent": {
+            "@language": "en-us",
+            "@value": "16.6 "
+        },
+        "proteinContent": {
+            "@language": "en-us",
+            "@value": "21.2 "
+        },
+        "sodiumContent": {
+            "@language": "en-us",
+            "@value": "321 "
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "en-us",
+            "@value": "Soups, Stews and Chili"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Chili"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Turkey Chili"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en-us",
+            "@value": "1 pound ground turkey"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 cup chopped green bell pepper"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 (14.5 ounce) can diced tomatoes"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 cup shredded Cheddar cheese"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 tablespoon vegetable oil"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 cups pumpkin puree"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 teaspoon ground black pepper"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 cup sour cream"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 cup chopped yellow bell pepper"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 clove garlic, minced"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 1/2 tablespoons chili powder"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 cup chopped onion"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 dash salt"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-us",
+        "@value": "\n                        \n                            Heat the oil in a large skillet over medium heat, and saute the onion, green bell pepper, yellow bell pepper, and garlic until tender. Stir in the turkey, and cook until evenly brown. Drain, and mix in tomatoes and pumpkin. Season with chili powder, pepper, and salt. Reduce heat to low, cover, and simmer 20 minutes. Serve topped with Cheddar cheese and sour cream.\n                            \n                        \n            "
+    },
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "6"
+    },
+    "review": [
+        {
+            "@id": "_:N4155f387abe244b68255c5c357d6f469"
+        },
+        {
+            "@id": "_:N3692c35be3cb46ea89b3ebbc6c0195d2"
+        },
+        {
+            "@id": "_:N3ec02d919a9f4c08a5aca9d707bc5b8e"
+        },
+        {
+            "@id": "_:N1cd6010ab7234c64ab2bf8291a81ee50"
+        },
+        {
+            "@id": "_:N5376a8c9adc84d4a831a48b6c01bfbc4"
+        },
+        {
+            "@id": "_:N53c51d0873b348c5a63e3c098958a3f5"
+        },
+        {
+            "@id": "_:N0737892facd34e0c99ad0a83de5020d1"
+        },
+        {
+            "@id": "_:N013549f0a40f44d982d1fe8fa11e7868"
+        },
+        {
+            "@id": "_:Nda949b7b64b24eb9b3a61a864873c4fb"
+        },
+        {
+            "@id": "_:Nfae137b8f5634078814b8571c230fad0"
+        },
+        {
+            "@id": "_:N14b405f13b7c4a569090748337a247a6"
+        }
+    ],
+    "url": {
+        "@id": "https://www.allrecipes.com/recipe/77797/pumpkin-turkey-chili/"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "contentURL": {
+            "@language": "en-us",
+            "@value": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1033249144001/92b35c9e-efe1-471c-9c2a-05e2fa944ad3/10s/master.m3u8?fastly_token=5607560986001&pubId=1033249144001"
+        },
+        "description": {
+            "@language": "en-us",
+            "@value": "Absolutely delicious. I know it doesn't sound appetizing, but it's unbelievable how tasty it is, and so easy too!"
+        },
+        "duration": {
+            "@language": "en-us",
+            "@value": "PT56.056S"
+        },
+        "embedUrl": {
+            "@language": "en-us",
+            "@value": "https://sadmin.brightcove.com/viewer/us20160520.1717/BrightcoveBootloader.swf?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=5607560986001&autoStart=true&debuggerID="
+        },
+        "image": {
+            "@language": "en-us",
+            "@value": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/71ea05db-913a-4de3-8593-e315fcb613fc/74e48c26-e4d2-474d-8a27-4805c1380635/1280x720/match/image.jpg"
+        },
+        "interactionstatistic": {
+            "@language": "en-us",
+            "@value": "0"
+        },
+        "name": {
+            "@language": "en-us",
+            "@value": "Pumpkin Turkey Chili"
+        },
+        "publisher": {
+            "@id": "_:N347d955c6db14faea4ecba3285f957a3"
+        },
+        "thumbnailUrl": {
+            "@language": "en-us",
+            "@value": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/71ea05db-913a-4de3-8593-e315fcb613fc/d2944b32-4f59-4340-a0d5-4215ddd973c7/160x90/match/image.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-us",
+            "@value": "2019-04-01 23:46:54"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

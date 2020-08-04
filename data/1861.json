@@ -1,0 +1,69 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://stage.verybestbaking.com/recipes/28063/thai-style-pumpkin-soup/?recipeBrand=libbys&recipeFoodType=appetizers~breakfast-brunch~brownies-bars~evaporated-milk/Null"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1 can (11.5 fl. oz.) mango nectar"
+        },
+        {
+            "@language": "en",
+            "@value": "2 cloves  garlic, finely chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4  to 1/2 teaspoon crushed red pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "1 can (15 oz.) LIBBY'S\u00ae 100% Pure Pumpkin"
+        },
+        {
+            "@language": "en",
+            "@value": "1 teaspoon  finely chopped fresh ginger or 3/4 teaspoon ground ginger"
+        },
+        {
+            "@language": "en",
+            "@value": "1   MAGGI Vegetable Flavor Bouillon Cubes"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup  finely chopped cilantro, divided"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons  rice vinegar"
+        },
+        {
+            "@language": "en",
+            "@value": "2 cups  water"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup  creamy peanut butter"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons  finely chopped green onion"
+        },
+        {
+            "@language": "en",
+            "@value": "2/3 cup (5 fl.-oz. can) NESTL\u00c9\u00ae CARNATION\u00ae Evaporated Fat Free Milk"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Thai-Style Pumpkin Soup"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\n                        COMBINE water, pumpkin, nectar, bouillon, ginger, garlic and crushed red pepper in large saucepan.  Bring to a boil, stirring occasionally.  Reduce heat to low.  STIR in peanut butter, vinegar, green onion and 1 tablespoon cilantro.  Cook, stirring occasionally, for 5 to 8 minutes or until soup returns to a boil.  Stir in evaporated milk.  Sprinkle with remaining cilantro before serving.  \n\nFOR FREEZE AHEAD:\nPREPARE as above; do not sprinkle with remaining cilantro.  Cool soup completely.  Place in airtight container; freeze for up to 2 months.  Thaw overnight in refrigerator.\n\nHEAT in medium saucepan over medium heat, stirring occasionally, for 15 to 20 minutes or until heated through.  Sprinkle with remaining cilantro before serving.NOTE: For a richer and creamier version of this recipe, substitute NESTL\u00c9 CARNATION Evaporated Milk for Evaporated Fat Free Milk.\n\n                    "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n                            Makes\n                            5\n                            \n                            servings, 1 cup each\n                        "
+    },
+    "@id": "http://example.org/recipe"
+}

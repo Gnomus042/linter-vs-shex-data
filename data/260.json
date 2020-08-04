@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ko",
+        "@value": "ADPLO"
+    },
+    "brand": {
+        "@language": "ko",
+        "@value": "rwito.website"
+    },
+    "image": {
+        "@language": "ko",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1mQkFHVXXXXXoXFXXq6xXFXXXu/Pixco-PK-NIK-\ud39c\ud0c1\uc2a4-k-\ub80c\uc988-\uc6a9-\uad11\ud559-\uc5b4\ub311\ud130-\uc288\ud2b8-nikon-f-d7000-d7100-d90-d5100.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ko",
+            "@value": "1596011667"
+        },
+        {
+            "@language": "ko",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "ko",
+        "@value": "Pixco PK-NIK \ud39c\ud0c1\uc2a4 k \ub80c\uc988 \uc6a9 \uad11\ud559 \uc5b4\ub311\ud130 \uc288\ud2b8 nikon f d7000 d7100 d90 d5100 d5300 d610 d300s d5000 d600 d800 \uce74\uba54\ub77c"
+    },
+    "@id": "http://example.org/recipe"
+}

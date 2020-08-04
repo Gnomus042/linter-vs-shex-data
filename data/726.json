@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@value": "\t\t\t\t\t\t\n    5\n        "
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Annie"
+        }
+    },
+    "image": {
+        "@id": "https://cdn.lacuisinedannie.com/images/1297.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "About 4-5 heads (450 g)  of endive "
+        },
+        {
+            "@value": "1 handful of seasonal salad, mache and frisee to decorate... "
+        },
+        {
+            "@value": "1 large handful of nuts (8 walnuts) "
+        },
+        {
+            "@value": "4 tablespoons vinaigrette dressing"
+        },
+        {
+            "@value": "1-2 ounces (50 g) Roquefort cheese"
+        }
+    ],
+    "name": {
+        "@value": "Endive Salad with Roquefort and Walnuts recipe        \t        "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "\n165 kCal"
+        },
+        "servingSize": {
+            "@value": "Per Serving"
+        }
+    },
+    "recipeInstructions": {
+        "@value": "Prepare the vinaigrette in a bowl  Cut off the ends of the endives (the base) and remove the outer leaves if necessary. Cut the endives into slices Wash and spin-dry the leaves and place them on the dish first to give a decorative touch then add the diced roquefort (or purchase crumbled) and walnuts   "
+    },
+    "recipeYield": {
+        "@value": "4 person(s)"
+    },
+    "@id": "http://example.org/recipe"
+}

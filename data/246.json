@@ -1,0 +1,111 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Kalyn Denny for Kalyn's Kitchen."
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT2-3MPlusT"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Low-Carb Shrimp and Avocado Tacos are such a quick and easy dinner and this is a perfect season-spanning meal!\n"
+    },
+    "image": [
+        {
+            "@id": "https://kalynskitchen.com/low-carb-shrimp-and-avocado-tacos/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
+        },
+        {
+            "@id": "https://k8643br9gv-flywheel.netdna-ssl.com/wp-content/uploads/2018/09/2-650-shrimp-avocado-tacos-300x300.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "8 low-carb tortillas (We used Mission Carb Balance Whole Wheat Tortillas, Fajita Size with 3 net carbs per tortilla, see note. This would be delicious served in lettuce wraps for an option that\u2019s Keto and gluten-free.)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 lb. frozen shrimp, thawed in the fridge overnight and drained well (I used 31-40 size shrimp but larger shrimp would work.)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup finely diced red onion"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Lime pieces, to squeeze on at the table (optional but recommended)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 ripe avocados, peeled and cut into pieces about 1/2 \u2013 3/4 inch across"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 tsp. Ancho chile powder (or use any chile powder you have on hand; use more or less chile powder to taste.)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 T olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 T lime juice\u00a0(I used my fresh-frozen lime juice, see note)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup chopped cilantro (more or less to taste)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp. Green Tabasco Sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 tsp. ground cumin (or slightly more if you really like cumin"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 T lime juice (I used my fresh-frozen lime juice, see note.)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tsp. olive oil (plus a little more to cook the shrimp)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "salt and fresh-ground black pepper to taste"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Low-Carb Shrimp and Avocado Tacos"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT15MPlusM"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\nThaw frozen shrimp overnight in the fridge, then drain well and pat shrimp dry with paper towels if they seem extra wet.\nPull the tails off the shrimp if needed and discard. Cut each shrimp into 3 pieces, or maybe 4 for larger shrimp.\nWhisk together the lime juice, olive oil, ground Ancho chile powder (any chile powder that\u2019s not too spicy), ground cumin, and Green Tabasco Sauce to make the marinade.\nPut shrimp pieces in a bowl and toss with the marinade. Let it marinate for 10-20 minutes while you\u2019re chopping the avocado and other ingredients and preparing to heat the tortillas.\nTo make the avocado mixture, chop up two avocados into pieces about 1/2 \u2013 3/4 inches square. (I ALWAYS use my Avocado Slicer Tool now after I ended up in the emergency room when I stabbed my hand instead of the avocado seed!)\nFinely chop the red onion and chop the cilantro.\nToss the avocado, red onion, chopped cilantro, lime juice, 2 tsp. olive oil, and season with salt and fresh-ground pepper.\nBefore you start to cook the shrimp have the flour tortillas ready with a large frying pan where you will warm the tortillas. (A cast-iron frying pan or griddle is ideal for this if you have one.)\nDrain the marinating liquid from the shrimp in a colander placed over the sink. Let it drain for a minute or two so the shrimp aren\u2019t too wet.\nHeat a few teaspoons of olive oil (depending on your pan) in a large non-stick frying pan over medium-high heat. (I used my favorite Green Pan Frying Pan.)\nAdd the shrimp and cook about 2 minutes, or maybe a tiny bit longer. Watch carefully and stop cooking as soon as the shrimp are firm and have turned slightly pink. Don\u2019t overcook, that will ruin the shrimp and make it rubbery.\nStart to heat the dry frying pan to warm the tortillas as the shrimp cooks.\nAs soon as the shrimp is cooked through, mix it with the avocado-cilantro mixture.\nHeat each taco shell just until it\u2019s hot and starting to brown, then fold over into a taco shape and heat enough to firm it into that shape. (This just takes a minute or two.) Fill each taco shell with the shrimp-avocado mixture.\nServe right away, with pieces of lime and maybe some more\u00a0Green Tabasco Sauce\u00a0to add at the table!\n\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "8 tacos"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "PT20MPlusM"
+    },
+    "url": [
+        {
+            "@language": "en-US",
+            "@value": "https://kalynskitchen.com/low-carb-shrimp-and-avocado-tacos"
+        },
+        {
+            "@id": "https://kalynskitchen.com"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

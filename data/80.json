@@ -1,0 +1,71 @@
+{
+    "@type": "Recipe",
+    "description": [
+        {
+            "@language": "en",
+            "@value": "Sliced, breaded chicken tenders with shredded lettuce, avocado, tomato and mayo on a flour tortilla, roll or bread. This yummy chicken wrap recipe is simple and quick to prepare!"
+        },
+        {
+            "@language": "en",
+            "@value": "\n                Sliced, breaded chicken tenders with shredded lettuce, avocado, tomato and mayo on a flour tortilla, roll or bread. This yummy chicken wrap recipe is simple and quick to prepare!\n            "
+        }
+    ],
+    "image": {
+        "@id": "http://www.delianytime.com/Meal-Ideas/Yum-Yum-Chicken-Wrap//Cache/161b771183ea6f74839bbdf6a1753de0-635x390-Auto-0-0-CenterCenter.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1Olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cupShredded lettuce"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cupLow-fat sour cream"
+        },
+        {
+            "@language": "en",
+            "@value": "1Italian bread crumbs with wheat germ"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cupVanilla yogurt"
+        },
+        {
+            "@language": "en",
+            "@value": "1Diced avocado"
+        },
+        {
+            "@language": "en",
+            "@value": "1Diced large tomato"
+        },
+        {
+            "@language": "en",
+            "@value": "1 lb.Chicken tenders, from the deli"
+        },
+        {
+            "@language": "en",
+            "@value": "6Medium flour tortillas"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Yum Yum Chicken Wrap"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Mix yogurt and sour cream together.Dip and fully cover each chicken tender in mix.Dip in bread crumbs.Cook in olive oil over med/high heat in pan few minutes until cooked.Place chicken tenders on tortillas. Slice and add all other ingredients on top.Roll and enjoy."
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "6"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "http://www.delianytime.com/Meal-Ideas/Yum-Yum-Chicken-Wrap"
+    },
+    "@id": "http://example.org/recipe"
+}

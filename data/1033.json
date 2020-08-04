@@ -1,0 +1,10 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.belvederevodka.com/fr-fr/vodka-cocktails/recette/cocktail-avec-jus-abricot//upload/cocktail-belvedere-vodka-avec-abricot.jpg"
+    },
+    "name": {
+        "@value": "\n\t\t\t\t\n\t\t\t\t\t\t\tBelvedere Sweet Apricot\n\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

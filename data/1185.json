@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "2.1"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "110"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Jade C. Jamison"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT4H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "The First Four Books In The Nicki Sosebee Series In One Neat Bundle If You Liked Jade C Jamison S Tangled Web, You Ll Love The Nicki Sosebee Series.Got The Life Nicki Sosebee Has Been Working Low Paying Jobs Ever Since She Finished School, But Now That She S Older, She Wants She S A Novice Reporter Trying To Learn The Ropes Just As She S Getting Her Career Goals On Track, Though, Her Love Life Gets Worse And Worse Sure, She Has No Problems Picking Up Good Looking Guys For Brief Flings, But Relationships Out Of The Question Maybe It S Because Sean, Her Gorgeous Best Friend, Just Can T See Her As Than A Buddy So When Sean Encourages Her As She Pursues Her First Headline Producing Story, Nicki Realizes That Her Life S Pretty Sweet If Only She Can Live Long Enough To See Tomorrow S Front Page.Dead Nicki S Love Life Might Suck, But Her Sex Life Is Great The Only Way Both Could Be Spectacular Would Be If Her Best Friend Sean Would Look At Her As Than Just A Friend Nicki Knows She S Stuck In The Friend Zone, So She Focuses Her Energies On Her Job She S Becoming A Better Reporter Every Day, So When Her Editor Asks Her To Interview A Local Politician, Nicki Is Thrilled But When The Politician S Secretary Ends Up Dead, It S Anybody S Guess As To Who Did It Nicki Has A Few Ideas, Though, And Finds Herself In Deep Trouble As She Pokes Her Nose Where She Thinks It Belongs.No Place To Hide The Winchester Tribune Publishes An Article Warning The Women Of Winchester That There Is A Sexual Predator On The Loose In The Streets Of The Town They Once Thought Was Safe Danger Doesn T Stop Nicki, Though, And It S Not Till It S Too Late That She Discovers The Criminal In The Place She Least Suspects And There S No One Who Can Save Her This Time Meanwhile, She Decides That Her New Love Interest Jesse Might Be Worth Of Her Timebut He S Not Making It Easy.Right Now Nicki Is Becoming A Better Reporter, So Much So That Her Boss Neal Leans On Her And To Get The Good Stuff So When A Rash Of Robberies Hits The Downtown Winchester Area, Nicki Is Reporting The Damageand Probably Getting A Little Too Close For The Bad Guys Comfort As If That Weren T Enough, Nicki Finds Herself In A Full Fledged Love Triangle Between Jesse And Seanand She Can T Bear To Choose Between Them.Discover What Other Jade C Jamison Fans Have Been Buzzing About Warning Not For The Faint Of Heart This Book Contains Explicit Sex And Naughty Language Proceed With Cautionif You Dare."
+    },
+    "image": {
+        "@id": "http://couponpromocode.us/wp-content/upload/2017/b99e52efc668ff6c3c7bd50586fb592fimages7d5f8db39d5dcb03b79cd2ec533fd077gr-assets7d5f8db39d5dcb03b79cd2ec533fd077com/books/1346931469l/157355727d5f8db39d5dcb03b79cd2ec533fd077jpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "110"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "Nicki Sosebee Foursome (Nicki Sosebee, #1-4) ,download, read online, e-pub, pdf, free, kindle ebook"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Nicki Sosebee Foursome (Nicki Sosebee, #1-4) "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "!!> EPUB \u2743 Nicki Sosebee Foursome (Nicki Sosebee, #1-4)  \u273e Author Jade C. Jamison \u2013 Couponpromocode.us The First Four Books In The Nicki Sosebee Series In One Neat Bundle If You Liked Jade C Jamison S Tangled Web, You Ll Love The Nicki Sosebee Series.Got The Life Nicki Sosebee Has Been Working Low Payi"
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT26M"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "cozy mystery"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "!!> EPUB \u2743 Nicki Sosebee Foursome (Nicki Sosebee, #1-4)  \u273e Author Jade C. Jamison \u2013 Couponpromocode.us The First Four Books In The Nicki Sosebee Series In One Neat Bundle If You Liked Jade C Jamison S Tangled Web, You Ll Love The Nicki Sosebee Series.Got The Life Nicki Sosebee Has Been Working Low Payi"
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "Nicki Sosebee Foursome (Nicki Sosebee, #1-4) "
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://couponpromocode.us/wp-content/upload/2017/b99e52efc668ff6c3c7bd50586fb592fimages7d5f8db39d5dcb03b79cd2ec533fd077gr-assets7d5f8db39d5dcb03b79cd2ec533fd077com/books/1346931469l/157355727d5f8db39d5dcb03b79cd2ec533fd077jpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2018-12-18T03:03+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

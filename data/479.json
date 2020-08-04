@@ -1,0 +1,88 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "vi",
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@language": "vi",
+            "@value": "1521"
+        },
+        "ratingValue": {
+            "@language": "vi",
+            "@value": "9"
+        }
+    },
+    "author": {
+        "@language": "vi",
+        "@value": "Nguy\u1ec5n Danh Thao"
+    },
+    "cookTime": {
+        "@language": "vi",
+        "@value": "PT1H"
+    },
+    "datePublished": {
+        "@language": "vi",
+        "@value": "2019-05-08"
+    },
+    "description": {
+        "@language": "vi",
+        "@value": "keo cha ron, keo dan gach. senda khang dinh chat luong."
+    },
+    "image": {
+        "@id": "http://senda.com.vn/wp-content/uploads/2018/08/logo.png"
+    },
+    "keywords": {
+        "@language": "vi",
+        "@value": "keo cha ron, keo dan gach"
+    },
+    "name": {
+        "@language": "vi",
+        "@value": "keo cha ron, keo dan gach. senda khang dinh chat luong"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "vi",
+            "@value": "240 calories"
+        },
+        "fatContent": {
+            "@language": "vi",
+            "@value": "9 grams fat"
+        }
+    },
+    "prepTime": {
+        "@language": "vi",
+        "@value": "PT15M"
+    },
+    "recipeCategory": {
+        "@language": "vi",
+        "@value": "\"recipeCategory\": \"keo cha ron\""
+    },
+    "recipeCuisine": {
+        "@language": "vi",
+        "@value": "\"recipeCuisine\": \"keo cha ron\""
+    },
+    "recipeIngredient": {
+        "@language": "vi",
+        "@value": "\"recipeIngredient\": \"keo cha ron\""
+    },
+    "recipeInstructions": {
+        "@language": "vi",
+        "@value": "\"recipeInstructions\": \"keo cha ron\""
+    },
+    "recipeYield": {
+        "@language": "vi",
+        "@value": "1 loaf"
+    },
+    "suitableForDiet": {
+        "@id": "http://schema.org/LowFatDiet"
+    },
+    "video": {
+        "@language": "vi",
+        "@value": "\n  \"video\": [\n    {\n      \"name\": \"Keo cha ron\",\n      \"description\": \"huong dan su dung keo cha ron, keo dan gach senda.\",\n      \"thumbnailUrl\": [\n        \"http://senda.com.vn/wp-content/uploads/2019/05/keo-dan-gach-op-tuong-2.jpg\",\n        \"http://senda.com.vn/wp-content/uploads/2018/11/keo-cha-ron.png\",\n        \"http://senda.com.vn/wp-content/uploads/2018/08/logo.png\"\n      ],\n      \"contentUrl\": \"http://senda.com.vn/wp-content/uploads/2018/09/senda1.mp4\",\n      \"embedUrl\": \"http://senda.com.vn/videoplayer?id=123\",\n      \"uploadDate\": \"2018-02-05T08:00:00+08:00\"\n    }\n  ]"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,138 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "By Stitching Cuisines"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2017-06-21 01:25:09"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Middle Eastern stuffed pancakes are the perfect Ramadan dessert for nuts and cheese lovers!"
+    },
+    "image": {
+        "@id": "http://stitchingcuisines.com/wp-content/uploads/2017/06/IMG_5885-SC1-1-1024x683.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 cups finely ground semolina"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbs lemon juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tbsp yeast"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 12 oz. Ackawi cheese [whole milk cheese]"
+        },
+        {
+            "@language": "en-US",
+            "@value": "[WET INGREDIENTS]"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pinch of salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp baking powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8 cups raw walnuts"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tbsp sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "5 cups of warm water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tbsp dry milk [Nido]"
+        },
+        {
+            "@language": "en-US",
+            "@value": "[DRY INGREDIENTS]"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 cups sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Heaping 1 tbsp cinnamon"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Katayef [Qatayef]"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\tPreheat oven to 375\u00ba F\t\t\t\tPlace flat on pan\t\t\t\tBrush both sides of Katayef with melted butter (not oil)\t\t\t\tBake for 20 minutes\t\t\t\tTake out of oven and dip in a bowl containing the sweet syrup**\t\t\t\tGarnish with coconut or pistachios\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\tPlace each Katayef on palm of hand\t\t\t\tPinch together the edges of one half of the Katayef\t\t\t\tPlace 1 tsp of filling [push the filling in if it\u2019s cheese]\t\t\t\tMake sure no filling touches the edges or it will be difficult to close\t\t\t\tPinch together the rest of the Katayef making sure it is completely closed\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\tCrush the walnuts in a food processor for a few seconds\t\t\t\t[You want the pieces to stay large]\t\t\t\tAdd the sugar and cinnamon and mix thoroughly\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\tIn a medium sized saucepan on high heat, combine your sugar and water\t\t\t\tContinue stirring until the syrup boils\t\t\t\tOnce it boils, turn down the heat to low and add the lemon juice\t\t\t\tKeep stirring until the sugar completely dissolves\t\t\t\tThe syrup should be transparent.\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\tShred the cheese\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\tSift the semolina and flour together\t\t\t\tAdd the dry ingredients [baking powder, dry milk, salt] and mix\t\t\t\tStir wet ingredients [yeast, sugar, water] together and let sit until it rises\t\t\t\tIn a mixer, add 5 cups of warm water\t\t\t\tAdd the wet ingredient mixture\t\t\t\tTurn on the mixer on level 4\t\t\t\tBegin to add the dry ingredients slowly as everything mixes together\t\t\t\tRaise the mixing level and mix until all the ingredients are incorporated together\t\t\t\tMix the batter until it reaches a thick consistency\t\t\t\tCover the batter for 30 minutes\t\t\t\tPrepare the filling [see below]\t\t\t\tUncover the batter and whisk thoroughly to remove any bubbles\t\t\t\tTurn the griddle on 200\u00ba F\t\t\t\tUse a ladle or item with a spout to pour small pancake-like circles onto the griddle [as shown in picture]\t\t\t\tDo not turn over the Katayef! Unlike pancakes, you only cook one side.\t\t\t\tWait until small bubbles begin to form across the entire Katayef\t\t\t\tRemove and place onto dry towel, without forming layers, and cover with towel so they don\u2019t dry out\t\t\t"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

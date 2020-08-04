@@ -1,0 +1,104 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "Friessinger-M\u00fchle"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "10-15 minutes"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Scones are a classic british tea time treat. Light, fluffy and massively moreish when served with the traditional fresh strawberries, jam and clotted cream. Here we have used mascarpone as a great alternative to clotted cream."
+    },
+    "headline": {
+        "@language": "en",
+        "@value": "Traditional Scones"
+    },
+    "image": {
+        "@id": "https://www.friessinger-muehle.de/en/recipes/baked-goods/traditional-scones.html/files/friessinger/media/Rezepte/Kleingebaeck/Scones/scones_2.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "200 g fresh strawberries"
+        },
+        {
+            "@language": "en",
+            "@value": "3 tbsp. sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "3 tbsp. Sweet Nature Cane Sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1 pck. baking powder"
+        },
+        {
+            "@language": "en",
+            "@value": "175 ml buttermilk"
+        },
+        {
+            "@language": "en",
+            "@value": "250 g clotted cream/mascarpone"
+        },
+        {
+            "@language": "en",
+            "@value": "Strawberry jam"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00a0"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 tsp. salt"
+        },
+        {
+            "@language": "en",
+            "@value": "350 g K\u00fcchenmeister Wheat Flour T405"
+        },
+        {
+            "@language": "en",
+            "@value": "85 g cold butter"
+        },
+        {
+            "@language": "en",
+            "@value": "1 egg"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Traditional Scones"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "15 minutes"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\nPreheat your oven (electric 220\u00b0C / circulated air 200\u00b0C). Line a baking sheet with parchment paper and place in the oven.\nSieve the flour, salt, and baking powder atleast 3 times (the scones are guaranteed to be lighter and fluffier when the flour mixture is sieved more). Now slice the cold butter into small pieces and add it to the flour mixture. Using your hands rub the butter and flour together until it appears like fine crumbs. Mix in the sugar, and form a well. Pour the butter milk into the well, and using a cutlery knife quickly combine together.\nSprinkle flour onto your work surface, and tip the dough out. Flour your hands and the dough before gently kneading the dough 2-3 times until it appears slightly smoother. Lightly pat the dough into a round shape ca. 4 cm thick (Tip: scones remain fluffier and lighter when the dough is less handled). Using a glass (ca. 4-5 cm diameter) cut out four scones from the dough. Gently reform the dough and cut out another 4 scones. Be careful not to twist the glass as you cut out the scones.\nCrack the egg into a small bowl and whisk it. Brush each scone with a thin layer of the whisked egg and sprinkle with cane sugar. Carefully place the scones onto the hot baking tray. Bake the scones for ca. 10 minutes, or until they have risen and have turned a lovely gold brown colour. Remove the scones from the oven, allow to cool briefly on the baking sheet before transferring them to a wire rack to cool.\nWash, dry and slice the strawberries. Briefly beat the clotted cream or mascarpone and place in a bowl. Slice the scones and fill with the jam, fresh strawberries and cream. Now make yourself your favourite cup of tea and enjoy your tea break british style.\nScones also taste great fresh from the oven and spread with butter.\t\t\t\t"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://www.friessinger-muehle.de/en/recipes/baked-goods/traditional-scones.html"
+    },
+    "@id": "http://example.org/recipe"
+}

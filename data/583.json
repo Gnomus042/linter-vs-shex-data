@@ -1,0 +1,46 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "es-es",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "es-es",
+            "@value": "0"
+        },
+        "worstRating": {
+            "@language": "es-es",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "es-es",
+        "@value": "Pronaca"
+    },
+    "description": {
+        "@language": "es-es",
+        "@value": "Null"
+    },
+    "image": {
+        "@language": "es-es",
+        "@value": "https://www.tqma.com.ec/images/com_yoorecipe/img_preview/1368.jpg"
+    },
+    "name": {
+        "@language": "es-es",
+        "@value": "\nPollo con yogurt y macadamia"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "es-es",
+            "@value": "248Porci\u00f3n"
+        }
+    },
+    "recipeYield": {
+        "@language": "es-es",
+        "@value": "6 Porciones\n"
+    },
+    "@id": "http://example.org/recipe"
+}

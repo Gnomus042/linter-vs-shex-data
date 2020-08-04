@@ -1,0 +1,54 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "28"
+        },
+        "ratingValue": {
+            "@value": "2,8"
+        },
+        "worstRating": {
+            "@value": "0.5"
+        }
+    },
+    "author": {
+        "@value": "Kristin J\u00f8tun"
+    },
+    "description": {
+        "@value": "Ostekake h\u00f8rer med n\u00e5r det er kakefest. Denne er litt annerledes, og har hvit sjokolade i fyllet."
+    },
+    "image": {
+        "@id": "http://static.klikk.no/recipe/2015.05.26/556431f00cf2d2b5b06754d4/BRIMI_festkaker-50800_244_BIG.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\n200\u00a0g\n\nhvit sjokolade\n"
+        },
+        {
+            "@value": "\n3\u00a0stk\n\neggeplommer\n"
+        },
+        {
+            "@value": "\n12\u00a0stk\n\nglutenfrie digestivekjeks\n"
+        },
+        {
+            "@value": "\n100\u00a0g\n\nsm\u00f8r\n"
+        },
+        {
+            "@value": "\n4\u00a0dl\n\nkremfl\u00f8te\n"
+        },
+        {
+            "@value": "\n200\u00a0g\n\nkremost naturell\n"
+        }
+    ],
+    "name": {
+        "@value": "Glutenfri ostekake"
+    },
+    "recipeInstructions": {
+        "@value": "Knus kjeks i en food processor og tilsett smeltet sm\u00f8r. Trykk bunnen ut i en bakepapirkledd rund form, ca. 24 cm. Sett formen kaldt.\nBland eggeplommene med 1 dl av kremfl\u00f8ten og varm opp under omr\u00f8ring til det tykner. Avkj\u00f8l blandingen noe, smelt sjokolade i vannbad og r\u00f8r den inn i blandingen.\nPisk resten av kremfl\u00f8ten stiv. Pisk forsiktig kremosten inn i sjokoladeblandingen og tilsett kremen. Hell blandingen over bunnen og la kaken st\u00e5 kaldt ca. 3 t.\nKaken kan ogs\u00e5 serveres som iskake, men da m\u00e5 den fryses i minimum 2 t. En halv time f\u00f8r servering tempereres kaken i kj\u00f8leskap.\nPynt gjerne med friske bringeb\u00e6r, stjernefrukt og physalis."
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "vi-vn",
+        "@value": "langqueviet.net"
+    },
+    "datePublished": {
+        "@language": "vi-vn",
+        "@value": "2012-5-3"
+    },
+    "image": {
+        "@id": "http://langqueviet.net:7777/mediaroot/media/userfiles/useruploads/46/image/flash/LOGO11.png"
+    },
+    "name": {
+        "@language": "vi-vn",
+        "@value": "langqueviet.net"
+    },
+    "@id": "http://example.org/recipe"
+}

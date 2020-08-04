@@ -1,0 +1,34 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@value": "1.0"
+        },
+        "reviewCount": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@value": "Fun4hairshop"
+    },
+    "datePublished": {
+        "@value": "2012-01-03 01:25:26"
+    },
+    "description": {
+        "@value": "Wilt u ook linkpartner worden?\n\nStuur een email naar info@fun4hairshop.nl met de vraag voor een link plaatsing. \nMaak een retour link aan op uw site en vermeld in uw email waar de retourlink is geplaatst.\n Wij plaatsen geen sex of erotische getinte websitelinks.\n\nRetourlink:\n<p><a title="
+    },
+    "image": {
+        "@value": "https://www.fun4hairshop.nl/images/logofun4hairshop.jpg"
+    },
+    "name": {
+        "@value": "Link Partners"
+    },
+    "recipeCategory": {
+        "@value": "Uncategorised"
+    },
+    "@id": "http://example.org/recipe"
+}

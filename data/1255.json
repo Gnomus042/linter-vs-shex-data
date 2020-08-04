@@ -1,0 +1,100 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2013-12-03 11:36:00"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Soft, flaky and buttery Cinnamon Rolls make for the ultimate Christmas morning breakfast."
+    },
+    "image": {
+        "@id": "http://deliciouslyyum.com/wp-content/uploads/2013/12/CinnamonRolls-300x200.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup butter, softened"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1-2 tablespoons milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons melted butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 tablespoons butter, cut into chunks"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/2 tablespoons ground cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup white sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/2 cups confectioners\u2019 sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 1/4 \u2013 3 1/2 cups all-purpose flour, divided"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 egg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 package instant or \u2018rapid rise\u2019 yeast (about 2 1/4 teaspoons)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup brown sugar"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Christmas Morning Cinnamon Rolls"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tGrease a 9 x 13 inch baking pan and set aside.\t\t\t\t1. Starting with the dough, place milk and butter in a microwave-safe bowl and heat until butter is almost melted and milk is warm. Stir until butter is completely melted. Set aside. In the bowl of a stand mixer, combine 2 cups of flour, yeast, sugar, and salt. Mix until well combined with the beater paddle attached. Add the egg and milk mixture to the dry mix and continue stirring until thoroughly combined. Substitute dough hook for the beater paddle and add remaining flour or until dough starts to pull away from the sides, about 1-2 minutes. Continue to knead the dough for 5 minutes. Slightly flour your work surface and place dough on top. Let rest for 10 minutes while you prepare the filling.\t\t\t\t2. In a small bowl, combine the brown sugar, cinnamon and butter until well mixed. You are basically making a cinnamon butter. Set aside.\t\t\t\t3. Roll out your dough until it measures 12 x 14 inches (rectangular shape). Spread filling evenly over the dough. Beginning with the longer side that\u2019s closest to you, roll dough into a log. Pinch edges closed and cut into 12 equal pieces. Place cinnamon rolls in four rows of three into the prepared pan and cover with a clean kitchen towel. Let rise in a warm place for 30 minutes. Meanwhile, preheat the oven to 350 degrees F. When the rolls are finished rising, bake them for 20 minutes or until the tops are golden brown.\t\t\t\t4. While the cinnamon rolls are baking, prepare the icing by combining the confectioners\u2019 sugar, butter, vanilla and milk. Once the rolls have finished baking, let cool for 5 minutes and spread icing evenly over the top. Enjoy!\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "12"
+    },
+    "@id": "http://example.org/recipe"
+}

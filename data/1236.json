@@ -1,0 +1,50 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "By Put on Your Cake Pants"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2016-11-05 17:20:32"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "6 cups chicken broth"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pound sausage"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (24-ounce) jar spaghetti sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "5 ounces kale"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (16-ounce) package gnocchi"
+        },
+        {
+            "@language": "en-US",
+            "@value": "grated parmesan cheese (optional)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Italian Tomato Gnocchi Soup"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tPlace the spaghetti sauce and chicken broth in a stockpot and bring to a boil.\t\t\t\tMeanwhile, crumble and cook the sausage in a skillet until lightly browned and no pink remains. Set aside.\t\t\t\tOnce the soup comes to a boil, add the kale and cook for 2 minutes, stirring occasionally.\t\t\t\tAdd the gnocchi and cook 2-3 minutes, or until they rise to the surface of the soup (if the kale is covering the surface, gently push some aside with a spoon to check if the gnocchi float up to the top). Stir in the cooked sausage. Serve and sprinkle grated parmesan on top of individual bowls if desired.\t\t\t"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "20 min "
+    },
+    "@id": "http://example.org/recipe"
+}

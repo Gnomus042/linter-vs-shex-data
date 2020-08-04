@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "nb-NO",
+            "@value": "Jartrud"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2017-03-26"
+    },
+    "name": {
+        "@language": "nb-NO",
+        "@value": "Hummus med spisskummen og lite olje"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "he",
+        "@value": "Liancheng CatuoCar Store"
+    },
+    "brand": {
+        "@language": "he",
+        "@value": "rwito.website"
+    },
+    "image": {
+        "@language": "he",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB16BxObL5G3KVjSZPxq6zI3XXaa/4-\u05e1\u05d8\u05d9\u05dd-\u05e9\u05dc-\u05e8\u05db\u05d1-\u05e4\u05dc\u05e1\u05d8\u05d9\u05e7-\u05e4\u05e0\u05dc-\u05de\u05ea\u05d2\u05d9-\u05de\u05ea\u05d2-\u05e4\u05e0\u05dc-Foocles12v-40a-\u05e8\u05db\u05d1-\u05e8\u05db\u05d1-\u05de\u05e9\u05d0\u05d9\u05ea-4-\u05e1\u05d9\u05db\u05d5\u05ea.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "he",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "he",
+            "@value": "33032112001"
+        }
+    ],
+    "name": {
+        "@language": "he",
+        "@value": "4 \u05e1\u05d8\u05d9\u05dd \u05e9\u05dc \u05e8\u05db\u05d1 \u05e4\u05dc\u05e1\u05d8\u05d9\u05e7 \u05e4\u05e0\u05dc \u05de\u05ea\u05d2\u05d9 \u05de\u05ea\u05d2 \u05e4\u05e0\u05dc Foocles12v 40a \u05e8\u05db\u05d1 \u05e8\u05db\u05d1 \u05de\u05e9\u05d0\u05d9\u05ea 4 \u05e1\u05d9\u05db\u05d5\u05ea Spst \u05de\u05e2\u05d5\u05e8\u05e8 \u05de\u05de\u05e1\u05e8 Socket"
+    },
+    "@id": "http://example.org/recipe"
+}

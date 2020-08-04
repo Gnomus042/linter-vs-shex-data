@@ -1,0 +1,81 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "189"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Barbara Kafka"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT30M"
+    },
+    "image": {
+        "@language": "en-US",
+        "@value": "https://static01.nyt.com/applications/cooking/25b1a2a/assets/23.png?1"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\n              Pork Tenderloin With Apples\n        "
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    tablespoon Dijon mustard\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    4\n                  \n                  \n                    large Granny Smith apples, peeled, cored and each cut into 8 wedges\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Kosher salt to taste\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    2\n                  \n                  \n                    1-pound pork tenderloins, each 10 inches long and 2 inches thick\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u2153\n                  \n                  \n                    cup fresh lemon juice\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    tablespoon canola oil\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Freshly ground black pepper to taste\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bc\n                  \n                  \n                    cup heavy cream\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Dijon mustard to taste\n                  \n                "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                Heat oven to 500 degrees.\n                Place tenderloins in roasting pan 14 by 12 by 2 inches. Season with salt and pepper to taste. Rub each with 1 1/2 teaspoons mustard. Toss apples with lemon juice and oil and add to pan, spreading around and between tenderloins. Put pan on middle rack of oven. Roast 10 minutes. Turn tenderloins over and gently turn apple pieces with a metal spoon. Roast 12 minutes longer.\n                Remove the tenderloins to a platter. Combine cream and mustard to taste and stir gently into the apples. Season with salt and pepper.\n                Slice pork across grain into thin slices and serve with apples, which will have dissolved into a sauce.\n              "
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

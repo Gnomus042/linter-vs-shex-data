@@ -1,0 +1,68 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://www.supermomix.com/author/fb-anne-raulinvigneron/"
+    },
+    "cookTime": {
+        "@language": "fr-FR",
+        "@value": "PT60M"
+    },
+    "datePublished": {
+        "@language": "fr-FR",
+        "@value": "2014-08-11"
+    },
+    "image": {
+        "@id": "https://www.supermomix.com/wp-content/uploads/2014/08/Terrine_volailles_thermomix--150x150.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "Bardes de lard blanc - 200 gr "
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Poivre - 1/2 cuill\u00e8re \u00e0 caf\u00e9 "
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Raisins de corinthe - 25 gr "
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Jaunes d'oeufs - 3 "
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Sel - 10 gr "
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Foies de volaille et de canard - 250 gr "
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Porto ou pineau - 2 cuill\u00e8re \u00e0 soupe "
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "4 \u00e9pices - 1 pinc\u00e9e "
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Terrine de foie de volaille"
+    },
+    "prepTime": {
+        "@language": "fr-FR",
+        "@value": "PT15M"
+    },
+    "recipeInstructions": {
+        "@language": "fr-FR",
+        "@value": "\n\nLa veille, mettre a tremper les foies dans de l'eau que vous changez souvent.\nEgouter les foies pendant au moins 1 heure puis mettez les dans le bol avec le lard et les autres ingr\u00e9dients. Mixer vitesse 4 pendant 3 minutes.\nMettre dans une terrine et cuire 1 heure au four, au bain-marie temp\u00a0100 degr\u00e9s.\nD\u00e9gustez froid sur des tartines grill\u00e9es.\n\nBon app\u00e9tit !\nMeilleur pr\u00e9par\u00e9 la veille.\n\u00a0\n"
+    },
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "6 personnes"
+    },
+    "@id": "http://example.org/recipe"
+}

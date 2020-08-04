@@ -1,0 +1,8 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@language": "it-IT",
+        "@value": "Cast Bari \u2013 Boomdabash"
+    },
+    "@id": "http://example.org/recipe"
+}

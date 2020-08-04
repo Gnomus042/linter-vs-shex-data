@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "fr-FR",
+            "@value": "11"
+        },
+        "ratingValue": {
+            "@language": "fr-FR",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "fr-FR",
+        "@value": "Samar"
+    },
+    "image": {
+        "@id": "https://www.mesinspirationsculinaires.com/wp-content/uploads/2019/01/cake-aux-noix-et-dattes-1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "200 g de dattes coup\u00e9es en petits morceaux (j'ai pris 125 g seulement)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "50g de noix concass\u00e9s (m\u00e9lange de noix et noix de pecan concass\u00e9es grossi\u00e8rement)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "100g de mascarpone"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "150g de farine"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "50 g de beurre ramolli"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 sachet de levure"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "100g de sucre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "2 \u0153ufs"
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Cake aux noix et dattes moelleux"
+    },
+    "recipeCategory": {
+        "@language": "fr-FR",
+        "@value": "Cake"
+    },
+    "recipeCuisine": {
+        "@language": "fr-FR",
+        "@value": "Francaise"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "fr-FR",
+            "@value": "Laisser tiedir avant de d\u00e9mouler sur une grille jusqu\u2019\u00e0 refroidissement."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Finir avec les noix et les dattes (la p\u00e2te est \u00e9paisse mais c'est normal)."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Enfourner environ 25 minutes ou jusqu\u2019\u00e0 ce que la surface soit dor\u00e9e et que le cure-dent en ressorte sec."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Pr\u00e9chauffer le four \u00e0 180 C (350 F)."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Dans un saladier m\u00e9langer battre le sucre et les oeufs."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "M\u00e9langer la farine \u00e0 la levure et l'incorporer \u00e0 la pr\u00e9paration pr\u00e9c\u00e9dente."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Incorporer le fromage mascarpone ainsi que le beurre mou."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Beurrer et fariner des mini-moules \u00e0 cake ou un moule \u00e0 cake."
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

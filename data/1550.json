@@ -1,0 +1,112 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "By Meghan McCarthy"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "40 min "
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2016-03-24 05:13:44"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Asparagus, Asiago cheese and spring onions are the perfect match in this super simple quiche recipe."
+    },
+    "image": {
+        "@id": "http://cleaneatsfastfeets.com/wp-content/uploads/2016/03/Asparagus-Asiago-and-Green-Onion-Quiche-C.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 cloves Garlic, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 tsp. Garlic Powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tsps. Dried Chives"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 large Eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Quiche Crust (http://www.food.com/recipe/quick-n-easy-quiche-crust-18185) or premade, but this is the easiest crust recipe ever, so you should just make it. I promise; you can\u2019t mess this up."
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 tsp. Onion Powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 bunch of Asparagus, chopped into half inch piece (about 3 cups), reserving 6 two inch tips"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 tsp Dry Mustard"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Tbsp. Olive Oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 tsp. Salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup unsweetened Original Almond Milk or milk of choice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup Asiago Cheese"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 small yellow Onion, diced (about 1/3 to 1/2 a cup)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Green (Spring) Onions white and green parts, diced (approximately half a cup)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Asparagus, Asiago and Spring Onion Quiche"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "20 min "
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tPreheat oven to 350.\t\t\t\tMake quiche crust (or use premade). This crust can be prepared ahead of time. It\u2019s four simple ingredients (flour, salt, olive oil and water) mixed together and then pressed into your 9.5 inch pie plate. Yes, you read that correctly. No rolling pins involved just your nimble little fingers, and don\u2019t worry if you leave imprints. It will be covered with filling and no one will be the wiser. Make the crust and set it aside or prick it all over with a fork and then pop it into the oven for 5 minutes. I do the latter because I like my crust to be a bit more crispy. Quiche Crust Recipe: http://www.food.com/recipe/quick-n-easy-quiche-crust-18185\t\t\t\tIn medium skillet, add 2 Tbsp. olive oil over and warm up on medium to medium high heat. Once warmed, add diced onions and cook until just starting to turn translucent, about 6 minutes. Add minced garlic and let cook for one minute longer. Add diced asparagus, reserving 6 two inch tips for later, a simple twist of salt and a sprinkle of pepper and cook until bright green about 5 minutes. Remove from heat and let rest.\t\t\t\tWhile the above is resting, whisk together eggs, milk and spices from the salt through to the spring onions into a small bowl or directly in a four cup measuring cup.\t\t\t\tAdd the saut\u00e9ed asparagus, onions, and garlic to the prepared quiche crust. Top with Asiago cheese. Pour egg and milk mixture over top. It\u2019s perfectly ok if the liquid mixture doesn\u2019t complete cover the veggies. Lay 6 remaining asparagus tips in the middle center of the quiche in a pinwheel pattern.\t\t\t\tBake in 350 degree oven until top just starts to turn golden brown, about 40 to 50 minutes.\t\t\t"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "1 hr "
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,54 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "linzmilner"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2013-06-18"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "An impressive picnic sandwich"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "Easy"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Picnic Loaf"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "English"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Preheat grill, halve and deseed peppers place on a baking tray under grill unitl skins turn black. Place courgettes on a separate baking tray and grill until just cooked. Peel peppers."
+        },
+        {
+            "@language": "en",
+            "@value": "Cut the lid off the loaf and pull out the middle, leaving a good crust so it will keep its shape once filled. Layer all the ingredients inside, season with black pepper."
+        },
+        {
+            "@language": "en",
+            "@value": "Replace the lid, wrap in cling film and chill in the fridge for 1hr."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Serves 4 "
+    },
+    "sourceOrganization": {
+        "@language": "en",
+        "@value": "BBC Good Food"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT45M"
+    },
+    "@id": "http://example.org/recipe"
+}

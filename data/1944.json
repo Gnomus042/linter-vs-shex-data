@@ -1,0 +1,43 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ru",
+            "@value": "100"
+        },
+        "ratingCount": {
+            "@language": "ru",
+            "@value": "Null"
+        },
+        "ratingValue": {
+            "@language": "ru",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "ru",
+        "@value": "\u041d\u0430\u0431\u043e\u0440 \u0413\u0430\u0435\u0447\u043d\u044b\u0445"
+    },
+    "description": {
+        "@language": "ru",
+        "@value": "\u0422\u0438\u043f \u041a\u043b\u044e\u0447\u0438 \u043a\u043e\u043c\u0431\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0440\u043e\u0436\u043a\u043e\u0432\u043e-\u043d\u0430\u043a\u0438\u0434\u043d\u043e\u0439, \u041d\u0430\u0431\u043e\u0440 \u0434\u0430, \u041a\u043b\u044e\u0447\u0435\u0439 \u0432 \u043d\u0430\u0431\u043e\u0440\u0435 12, \u0420\u0430\u0437\u043c\u0435\u0440 \u043a\u043b\u044e\u0447\u0430 \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 8, \u0420\u0430\u0437\u043c\u0435\u0440 \u043a\u043b\u044e\u0447\u0430 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 19, \u0422\u0440\u0435\u0449\u043e\u0442\u043a\u0430 \u043d\u0435\u0442, \u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b \u043a\u043b\u044e\u0447\u0430 Cr-V \u0441\u0442\u0430\u043b\u044c, \u041f\u043e\u043a\u0440\u044b\u0442\u0438\u0435 \u043a\u043b\u044e\u0447\u0430 \u0445\u0440\u043e\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435, \u0428\u0430\u0440\u043d\u0438\u0440\u043d\u044b\u0439 \u043d\u0435\u0442"
+    },
+    "image": {
+        "@language": "ru",
+        "@value": "//ejlot.pl/wp-content/19825.jpg"
+    },
+    "ingredients": {
+        "@language": "ru",
+        "@value": "227219825"
+    },
+    "keywords": {
+        "@language": "ru",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "ru",
+        "@value": "\u041d\u0430\u0431\u043e\u0440 \u0413\u0430\u0435\u0447\u043d\u044b\u0445 \u041a\u043b\u044e\u0447\u0435\u0439 Cimco 112505 (8 - 19 \u041c\u043c)"
+    },
+    "@id": "http://example.org/recipe"
+}

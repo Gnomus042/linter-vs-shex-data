@@ -1,0 +1,119 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "nl",
+        "@value": "Hapjes.info"
+    },
+    "image": {
+        "@id": "https://www.hapjes.info/wp-content/uploads/2016/07/Hapjes3-2-768x510.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "nl",
+            "@value": "1 ui gesnipperd"
+        },
+        {
+            "@language": "nl",
+            "@value": "500 gram rundergehakt"
+        },
+        {
+            "@language": "nl",
+            "@value": "peper en zout"
+        },
+        {
+            "@language": "nl",
+            "@value": "olijfolie"
+        },
+        {
+            "@language": "nl",
+            "@value": "scheutje rode wijn"
+        },
+        {
+            "@language": "nl",
+            "@value": "1 ei"
+        },
+        {
+            "@language": "nl",
+            "@value": "1 theelepel sambal"
+        },
+        {
+            "@language": "nl",
+            "@value": "2 eetlepels paneermeel"
+        },
+        {
+            "@language": "nl",
+            "@value": "1 eetlepel gehakte peterselie (vers) (houd iets achter ter decoratie)"
+        },
+        {
+            "@language": "nl",
+            "@value": "Blikje tomatenblokjes"
+        },
+        {
+            "@language": "nl",
+            "@value": "2 teentjes knoflook gesnipperd"
+        },
+        {
+            "@language": "nl",
+            "@value": "1 uitje fijngesnipperd"
+        },
+        {
+            "@language": "nl",
+            "@value": "1 theelepel suiker"
+        },
+        {
+            "@language": "nl",
+            "@value": "zout en peper"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Balletjes gehakt in tomatensaus"
+    },
+    "recipeCategory": {
+        "@language": "nl",
+        "@value": "Warme hapjes"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "nl",
+            "@value": "Voeg nu de tomatenblokjes toe, wat zout en peper en de suiker"
+        },
+        {
+            "@language": "nl",
+            "@value": "Proef na en breng eventueel op smaak met wat extra zout en peper"
+        },
+        {
+            "@language": "nl",
+            "@value": "Giet een scheutje olijfolie in de pan en voeg de gesnipperde ui en knoflook toe, laat zachtjes pruttelen maar zorg dat de knoflook niet kleurt."
+        },
+        {
+            "@language": "nl",
+            "@value": "Voeg de balletjes dan bij de tomatensaus en laat nog even goed doorwarmen tot de balletjes gaar zijn"
+        },
+        {
+            "@language": "nl",
+            "@value": "Maak de balletjes gehakt door alle ingredi\u00ebnten door elkaar te kneden en draai er dan gelijkmatige balletjes gehakt van."
+        },
+        {
+            "@language": "nl",
+            "@value": "Serveer de hapjes in een schaal en bestrooi met wat gehakte peterselie, serveer er prikkertjes bij."
+        },
+        {
+            "@language": "nl",
+            "@value": "Laat zachtjes pruttelen voor een uurtje"
+        },
+        {
+            "@language": "nl",
+            "@value": "Blus het af met een scheutje rode wijn en laat even de alcohol verdampen"
+        },
+        {
+            "@language": "nl",
+            "@value": "Zet een koekenpan op het vuur met een klontje boter en bak hier de gehaktballetjes rondom in bruin en laat 5 minuutjes pruttelen"
+        }
+    ],
+    "recipeYield": {
+        "@language": "nl",
+        "@value": "20 balletjes"
+    },
+    "@id": "http://example.org/recipe"
+}

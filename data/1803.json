@@ -1,0 +1,62 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "en-US",
+        "@value": "https://noblepig.com/site/wp-content/uploads/2013/09/Chunky-Apple-Snack-Cake1-125x125.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 cup vegetable oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon table salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup chopped walnuts"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tablespoon vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups all-purpose flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 cups (6-8 apples) Granny Smith apples, peeled, quartered and diced coarsley"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups granulated sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2  large eggs, slightly beaten"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tablespoon ground cinnamon"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Chunky Apple Snack Cake"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\tPreheat oven to 350 degrees F. Prepare a 9 x 13 pan by spraying it with cooking spray. \nIn a large bowl combine sugar, flour, cinnamon, salt and baking soda. In a small bowl combine eggs, oil and vanilla; add this to the sugar-flour mixture in the large bowl. Mix thoroughly. Batter will be stiff (do not use mixer). \nAdd the apples and walnuts. Pour into baking pan and cook for 50-60 minutes or until the middle springs back when touched. \nServe with whipped cream. Feel free to make this cake a day ahead, the flavor only improves.\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "one 9 x 13 cake"
+    },
+    "@id": "http://example.org/recipe"
+}

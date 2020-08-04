@@ -1,0 +1,61 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "By Little Bits Bakery "
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2018-03-12 17:46:04"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "snap, crackle, pop! "
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "6 cups (160 grams) rice krispy cereal"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 10-ounce (285-gram) bag marshmallows"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 teaspoons coarse sea salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 ounces (113 grams) unsalted butter"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Salted Brown Butter Krispy Treats"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tPrepare an 8-inch square pan with two pieces of parchment paper, so that the paper overhangs all four sides. This will make removing and serving bars easier.\t\t\t\tIn a large pot on the stove, melt butter over medium-low heat. As it melts, it will begin to foam and turn golden brown. Stir the melted butter frequently, scraping up the bits on the bottom, until the color darkens and gives off a nutty fragrance - about 90 seconds in total. Be sure to stir constantly and keep the heat low, or else the butter can quickly over-brown and become burned.\t\t\t\tOnce the butter reaches the nutty brown color, reduce heat to low and add the marshmallows, stiring gently to melt.\t\t\t\tTurn off heat and fold in the cereal and salt until evenly combined.\t\t\t\tPour mixture into prepared pan and spread into all four corners. Using a piece of parchment paper, press the top of the mixture to create a flat top and bars that are dense.\t\t\t\tLet cool at room temperature, then cut into squares.\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "16"
+    },
+    "@id": "http://example.org/recipe"
+}

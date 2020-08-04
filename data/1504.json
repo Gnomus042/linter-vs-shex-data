@@ -1,0 +1,127 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "By Tiffany Bui | TiffanyBee.com"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "30 min "
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2014-09-28 19:01:38"
+    },
+    "image": {
+        "@id": "https://tiffanybee.com/wordpress/wp-content/uploads/2014/09/0008-150x150.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 tsp black peppercorns, freshly grated"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Tbsp vegan butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 garlic cloves, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tbsp rosemary"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8 small to medium gold potatoes, scrubbed & quartered (about 4 cups)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tbsp + 1 tsp salt (for boiling potatoes & then mashing the potatoes)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8 oz almond, coconut, or soy milk, unsweetened & unflavored"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Rosemary Garlic Mashed Potatoes"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "2635 calories"
+        },
+        "carbohydrateContent": {
+            "@language": "en-US",
+            "@value": "293 g"
+        },
+        "cholesterolContent": {
+            "@language": "en-US",
+            "@value": "61 g"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "143 g"
+        },
+        "proteinContent": {
+            "@language": "en-US",
+            "@value": "77 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en-US",
+            "@value": "24 g"
+        },
+        "servingSize": {
+            "@language": "en-US",
+            "@value": "1657 g"
+        },
+        "sodiumContent": {
+            "@language": "en-US",
+            "@value": "9527 g"
+        },
+        "sugarContent": {
+            "@language": "en-US",
+            "@value": "22 g"
+        },
+        "transFatContent": {
+            "@language": "en-US",
+            "@value": "1 g"
+        },
+        "unsaturatedFatContent": {
+            "@language": "en-US",
+            "@value": "111 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "5 min "
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\t1. In a large stock pot, fill the pot with water enough to cover the potatoes. Add the salt to water & bring the pot to a rolling boiling on medium-high heat. Once the water is boiling, add the potatoes & cover with a lid for about 15-20 minutes depending on how long it takes for your potatoes to cook.\t\t\t\t2. When the potatoes have softened, drain the water & add butter, garlic, & rosemary. Your potatoes should be soft enough for you to easily stir your spoon around to mash them with ease.\t\t\t\t3. Slowly incorporate the milk into the potatoes, stirring to fluff & mash them simultaneously.\t\t\t\t4. Once all the milk is added & the potatoes are at your desired consistency, add the salt & top with some peppercorns. Enjoy them with my delicious Mushroom & Sage Gravy recipe & a tablespoon of microgreens. Top with olive oil if desired.\t\t\t"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "35 min "
+    },
+    "@id": "http://example.org/recipe"
+}

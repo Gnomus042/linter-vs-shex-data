@@ -1,0 +1,59 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Christy Morgan"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "This is tastier than store-bought vegan yogurt, but it's missing the acidophilus. No worries - you won't miss it, because it's still healthy and actually has no refined sugar like store brands."
+    },
+    "image": {
+        "@id": "http://purethyme.com/wp-content/uploads/2013/05/BlissfulBites_frontcover-796x1024.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon vanilla flavoring"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 packages Mori-Nu silken tofu"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup maple syrup or brown rice syrup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 limes, zested and juiced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 small lemon, juiced"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Key-Lime Soy Yogurt"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Spring"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Layer with Coconut Bliss Granola and fresh berries for a parfait."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Blend all ingredients in a food processor. Be sure to scrape the edges of the bowl a few times to incorporate all the tofu. Blend until smooth."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4-6"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,124 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "zh-TW",
+        "@value": "\u4e94\u9846\u9d28\u86cb\uff0c\u8b8a\u51fa\u6eff\u8db3\u5169\u684c\u5ba2\u4eba\u5473\u857e\u7684\u65e5\u6708\u96d9\u6487\u3002\u7c21\u55ae\u7684\u98df\u6750\uff0c\u537b\u56e0\u5e2b\u5085\u5805\u6301\u624b\u5241\u8207\u7e41\u8907\u529f\u6cd5\uff0c\u5275\u9020\u51fa\u9a5a\u8277\u7684\u8996\u89ba\u5c64\u6b21\u8207\u53e3\u611f\u3002"
+    },
+    "image": {
+        "@language": "zh-TW",
+        "@value": "https://sifu.unileversolutions.com/image/zh-TW/recipe-topvisual/2/1260-709/\u65e5\u6708\u96d9\u6487-50331127.jpg"
+    },
+    "name": {
+        "@language": "zh-TW",
+        "@value": "\u65e5\u6708\u96d9\u6487"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "zh-TW",
+            "@value": "\u592a\u767d\u7c89\u9069\u91cf"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "(\u4e00\u5927\u5319)"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u9b5a\u6f3f"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u9752\u8525\u672b"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "(\u534a\u5c0f\u5319)"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u7d05\u863f\u8514"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u80e1\u6912\u7c89"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u9d28\u86cb"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u9999\u6cb9"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u8c6c\u7d5e\u8089"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u5eb7\u5bf6\u9bae\u96de\u6c41"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "(\u4e00\u5c0f\u5319)"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u767d\u863f\u8514"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u99ac\u8e44\u672b"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": " (\u4e00\u5927\u5319)"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "(\u5207\u5927\u4e01)"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u7d30\u7802\u7cd6 "
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u96de\u7c89"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u9999\u83c7\u672b"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u9752\u6c5f\u83dc"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u7d05\u863f\u8514\u672b"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u9ad8\u6e6f\uff1a"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\u6c34"
+        },
+        {
+            "@language": "zh-TW",
+            "@value": " (\u5207\u5927\u4e01)"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "zh-TW",
+            "@value": "\n                        \u65e5\u6708\u96d9\u6487\n                        \n                        \n    \u6d17\u6de8\u9d28\u86cb\uff0c\u653e\u5165\u934b\u4e2d\u4e26\u52a0\u6eff\u6c34\uff0c\u653e\u5165\u4e9b\u8a31\u9e7d\u5df4\uff0c\u4ee5\u5c0f\u706b\u716e10\u5206\u9418\u81f3\u719f\uff0c\u53d6\u51fa\u5f8c\u51b7\u537b ,\u525d\u6bbc\u5c0d\u5256\u5099\u7528\u3002 \n    \u8d77\u934b\u653e\u51651T\u6cb9\uff0c\u7092\u9999\u8525\u672b\uff0c\u53d6\u51fa\u5f8c\u653e\u5165\u8c6c\u7d5e\u8089\u3001\u9b5a\u6f3f\u3001\u9999\u83c7\u672b\u3001\u7d05\u863f\u8514\u672b\u3001\u99ac\u8e44\u53ca\u8abf\u5473\u6599A\u62cc\u5747\u52fb\u5f8c\u70ba\u5167\u9921\u3002 \n    \u53d6\u9d28\u86cb\uff0c\u518d\u5207\u9762\u62b9\u4e0a\u5c11\u8a31\u592a\u767d\u7c89\uff0c\u88f9\u4e0a\u5167\u9921\uff0c\u6574\u5f62\u6210\u86cb\u5f62\uff0c\u518d\u6cbe\u4e0a\u4e9b\u8a31\u592a\u767d\u7c89\u5099\u7528\u3002 \n    \u653e\u5165\u6cb9\u934b(140\u5ea6)\u4e2d\u70b8\u7d048\u4efd\u4e2d\uff0c\u70b8\u719f\u5f8c\u53d6\u51fa\uff0c\u5256\u534a\u3002 \n    \u5c07\u70b8\u597d\u5256\u534a\u7684\u86cb\u7f6e\u5165\u84b8\u7897\u4e2d\uff0c\u4e2d\u592e\u4ee5\u7d5e\u8089\u56fa\u5b9a\uff0c\u52a0\u5165\u7d05\u3001\u767d\u863f\u8514\u505a\u5e95\uff0c\u5165\u84b8\u7c60\u4ee5\u5927\u706b\u84b840\u5206\u9418\u5f8c\u53d6\u51fa,\u53cd\u6263\u5165\u5927\u7897\u4e2d \n    \u84b8\u597d\u53d6\u51fa\uff0c\u52a0\u5165\u5ddd\u71d9\u597d\u7684\u9752\u6c5f\u83dc\u53ca\u9ad8\u6e6f\u5373\u5b8c\u6210\u3002 \n\n                    "
+        },
+        {
+            "@language": "zh-TW",
+            "@value": "\n                        \u8abf\u5473\u6599A\n                        \n                        \n    \u8a73\u898b\u4e0b\u8abf\u5473\u6599\u8868\n\n                    "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

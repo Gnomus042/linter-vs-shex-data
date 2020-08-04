@@ -1,0 +1,15 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "pl",
+        "@value": "Kukurydziaki to placki z platkow kukurydzianych. Mozna je przyrzadzic na slodko lub wytrawnie. Ostatnio czesto u mnie goscilo sniadanie na slodko, wiec tym razem postanowilam zrobic placki w wersji wytrawnej - wegetarianskiej... z cebula, pieczarkami i papryka. Rowniez mozna przygotowac je w warianc..."
+    },
+    "image": {
+        "@id": "https://aduparosnie.pl/przepis,kukurydziaki-wegetariaskie.html/./files/498/fb/137113.jpg"
+    },
+    "name": {
+        "@language": "pl",
+        "@value": "KUKURYDZIAKI WEGETARIA\u0143SKIE"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,184 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "ro",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "ro",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "ro",
+        "@value": "Lau"
+    },
+    "datePublished": {
+        "@language": "ro",
+        "@value": "2011-10-04"
+    },
+    "description": {
+        "@language": "ro",
+        "@value": " Intr-un pahar se amesteca drojdia cu apa calduta si o lingura de zahar, se lasa 10 minute sa faca besicute deasupra.    Se cerne faina intr-un lighean, se adauga zaharul si sarea. Se amesteca si se face gaura in mijloc, unde se adauga drojdia, iaurtul amestecat cu bicarbonatul. Framantam adaugand ulei treptat, apoi acoperim cu un prosop curat. Lasam la dospit o ora, intr-un loc ferit de curent.    Intindem o foaie, adaugam banana si marul taiat cubulete. Se presara zahar deasupra fructelor si rulam cat mai strans. Taiem rondele, le presam putin cu mana. Se prajesc in baie de ulei incins.    Se pudreaza cu zahar pudra. "
+    },
+    "image": {
+        "@id": "https://www.bucataras.ro/retete/gogosi-de-post-cu-mere-si-banane-25585.html//uploads/modules/news/25585/656x440_gogosi-de-post-cu-mere-si-banane-127708.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ro",
+            "@value": "150 g iaurt vegetal"
+        },
+        {
+            "@language": "ro",
+            "@value": "50 g ulei"
+        },
+        {
+            "@language": "ro",
+            "@value": "500 g faina"
+        },
+        {
+            "@language": "ro",
+            "@value": "100 g zahar"
+        },
+        {
+            "@language": "ro",
+            "@value": "1 mar"
+        },
+        {
+            "@language": "ro",
+            "@value": "4 linguri apa calda"
+        },
+        {
+            "@language": "ro",
+            "@value": "1/2 lingurita de bicarbonat"
+        },
+        {
+            "@language": "ro",
+            "@value": "un praf de sare"
+        },
+        {
+            "@language": "ro",
+            "@value": "1 cub drojdie"
+        },
+        {
+            "@language": "ro",
+            "@value": "esenta de lamie"
+        },
+        {
+            "@language": "ro",
+            "@value": "1 banana"
+        }
+    ],
+    "keywords": {
+        "@language": "ro",
+        "@value": "gogosi,"
+    },
+    "name": {
+        "@language": "ro",
+        "@value": "Gogosi de post cu mere si banane"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ro",
+            "@value": "188"
+        }
+    },
+    "recipeCategory": {
+        "@language": "ro",
+        "@value": "Dulciuri"
+    },
+    "recipeCuisine": {
+        "@language": "ro",
+        "@value": "Romania"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ro",
+            "@value": "\n    4 linguri apa calda"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1/2 lingurita de bicarbonat"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1 mar"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1 banana"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    50 g ulei"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    100 g zahar"
+        },
+        {
+            "@language": "ro",
+            "@value": "Null"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    500 g faina"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1 cub drojdie"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    150 g iaurt vegetal"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    esenta de lamie"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    un praf de sare"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ro",
+        "@value": " Intr-un pahar se amesteca drojdia cu apa calduta si o lingura de zahar, se lasa 10 minute sa faca besicute deasupra.    Se cerne faina intr-un lighean, se adauga zaharul si sarea. Se amesteca si se face gaura in mijloc, unde se adauga drojdia, iaurtul amestecat cu bicarbonatul. Framantam adaugand ulei treptat, apoi acoperim cu un prosop curat. Lasam la dospit o ora, intr-un loc ferit de curent.    Intindem o foaie, adaugam banana si marul taiat cubulete. Se presara zahar deasupra fructelor si rulam cat mai strans. Taiem rondele, le presam putin cu mana. Se prajesc in baie de ulei incins.    Se pudreaza cu zahar pudra. "
+    },
+    "totalTime": {
+        "@language": "ro",
+        "@value": "PT120M"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "ro",
+            "@value": " Intr-un pahar se amesteca drojdia cu apa calduta si o lingura de zahar, se lasa 10 minute sa faca besicute deasupra.    Se cerne faina intr-un lighean, se adauga zaharul si sarea. Se amesteca si se face gaura in mijloc, unde se adauga drojdia, iaurtul amestecat cu bicarbonatul. Framantam adaugand ulei treptat, apoi acoperim cu un prosop curat. Lasam la dospit o ora, intr-un loc ferit de curent.    Intindem o foaie, adaugam banana si marul taiat cubulete. Se presara zahar deasupra fructelor si rulam cat mai strans. Taiem rondele, le presam putin cu mana. Se prajesc in baie de ulei incins.    Se pudreaza cu zahar pudra. "
+        },
+        "name": {
+            "@language": "ro",
+            "@value": "Gogosi de post cu mere si banane"
+        },
+        "thumbnailURL": {
+            "@language": "ro",
+            "@value": "https://www.bucataras.ro/uploads/modules/news/25585/656x440_gogosi-de-post-cu-mere-si-banane-127708.jpg"
+        },
+        "uploadDate": {
+            "@language": "ro",
+            "@value": "2011-10-04 15:58:12"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,151 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "35"
+        },
+        "ratingValue": {
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "email": {
+            "@value": "ambra@littlebitesofbeauty.com"
+        },
+        "familyName": {
+            "@value": "Torelli"
+        },
+        "givenName": {
+            "@value": "Ambra"
+        },
+        "image": {
+            "@id": "https://i.mealz.com/production/uploads/user/picture/5959/medium_avatar.jpg?e5a359f55f"
+        },
+        "name": {
+            "@value": "Ambra Torelli"
+        },
+        "url": {
+            "@id": "https://mealz.com/recipes/littlebitesofbeauty-apple-fennel-casserole-with-a-coconut-turmeric-twi/www.littlebitesofbeauty.com"
+        }
+    },
+    "cookTime": {
+        "@value": "PT40M"
+    },
+    "dateCreated": {
+        "@value": "2016-03-30T10:31:53Z"
+    },
+    "dateModified": {
+        "@value": "2019-11-20T06:54:00Z"
+    },
+    "datePublished": {
+        "@value": "2016-03-30T10:31:53Z"
+    },
+    "description": {
+        "@value": "Today I am sharing a quick and easy gluten free recipe that is super healthy and suitable also for those who are on a paleo diet or that are following the AIP (Auto Immune Protocol).\n\nI love this dish because it has an exotic, earthy flavor and it almost tastes like a curry dish while being very light and clean."
+    },
+    "image": {
+        "@id": "https://i.mealz.com/production/uploads/picture/name/1601/picture.jpg"
+    },
+    "keywords": [
+        {
+            "@value": "nut free"
+        },
+        {
+            "@value": "gluten free"
+        },
+        {
+            "@value": "recipe"
+        },
+        {
+            "@value": "immunity boost"
+        },
+        {
+            "@value": "vegetable sides"
+        },
+        {
+            "@value": "energy"
+        },
+        {
+            "@value": "vegetarian"
+        },
+        {
+            "@value": "food"
+        },
+        {
+            "@value": "international"
+        },
+        {
+            "@value": "entr\u00e9e"
+        }
+    ],
+    "name": {
+        "@value": "Apple Fennel Casserole with Coconut-Turmeric Twist"
+    },
+    "prepTime": {
+        "@value": "PT10M"
+    },
+    "recipeCategory": {
+        "@value": "Entr\u00e9e"
+    },
+    "recipeCuisine": {
+        "@value": "International"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 tsp Turmeric"
+        },
+        {
+            "@value": "3 piece Carrots"
+        },
+        {
+            "@value": "1 tsp Olive Oil"
+        },
+        {
+            "@value": "1/2 piece Apple"
+        },
+        {
+            "@value": "4 tbsp Coconut Milk"
+        },
+        {
+            "@value": "2 piece large Fennels"
+        }
+    ],
+    "recipeInstructions": {
+        "@type": "ItemList",
+        "itemListElement": [
+            {
+                "@value": "Enjoy."
+            },
+            {
+                "@value": "Thinly cut the apple, grate the carrots and top them over the fennels."
+            },
+            {
+                "@value": "Wash the fennels and cut them widthwise. Grease a casserole pan with olive oil and put the sliced fennels in it and dust them with turmeric."
+            },
+            {
+                "@value": "Preheat the oven to 380 F"
+            },
+            {
+                "@value": "Sprinkle the coconut milk on top and bake for about 20 minutes."
+            },
+            {
+                "@value": "Flip the fennels upside down, mix them well, put a cover on the casserole and bake for 20 more minutes."
+            }
+        ],
+        "numberOfItems": {
+            "@value": "6"
+        }
+    },
+    "recipeSubCategory": {
+        "@value": "Vegetable sides"
+    },
+    "recipeYield": {
+        "@value": "2"
+    },
+    "totalTime": {
+        "@value": "PT50M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,141 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ro-RO",
+        "@value": "crockpot-romania.ro"
+    },
+    "cookTime": {
+        "@language": "ro-RO",
+        "@value": "PT"
+    },
+    "datePublished": {
+        "@language": "ro-RO",
+        "@value": "27-09-2018"
+    },
+    "description": {
+        "@language": "ro-RO",
+        "@value": "\n            Amesteca intr-un bol piureul de dovleac (se obtine din dovleac ras, calit in putin unt si indulcit dupa gust, pana scade) cu zaharul brun cu ajutorul unui tel. Incorporeaza apoi ouale. Pune scortisoara si vanilia si amesteca. Adauga la final smantana pentru frisca si se omogeanizeaza bine.In vasul slow cooker-ului\u00a0Crock-Pot Saute 6l DuraCeramic pune hartie de copt, apoi rupe feliile de paine. Rastoarna compozitia cu dovleac deasupra si amesteca usor, astfel incat lichidul sa patrunda bine printre feliile rupte de paine.Pune capacul si seteaza modul de gatire High pentru 2 ore si jumatate.Cand programul s-a terminat scoate vasul din aparat, cu grija scoate si budinca pe un platou, apoi pune o farfurie mare deasupra si intoarce-o invers.Indeparteaza hartia de copt si lasa budinca la racit.Serveste budinca cu dovleac rece sau calda, dupa plac, cu o cupa de inghetata alaturi si sos caramel.Pofta buna!            "
+    },
+    "image": {
+        "@id": "https://www.crockpot-romania.ro/retete/desert/reteta-budinca-cu-dovleac//assets/files/thumb/900x450x2/recipe/fdb_1538047709_rtd-0450.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ro-RO",
+            "@value": "480 ml smanatana lichida pentru frisca"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "400 g piure de dovleac indulcit"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "300 g paine alba feliata"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "4 oua"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "1 lingurita scortisoara"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "2 lingurite vanilie"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "150 g zahar brun"
+        }
+    ],
+    "name": {
+        "@language": "ro-RO",
+        "@value": "Reteta - Budinca cu dovleac"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ro-RO",
+            "@value": "0"
+        }
+    },
+    "recipeCategory": {
+        "@language": "ro-RO",
+        "@value": "Retete crockpot-romania.ro"
+    },
+    "recipeCuisine": {
+        "@language": "ro-RO",
+        "@value": "Romania"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ro-RO",
+            "@value": "150 g zahar brun"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "4 oua"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "2 lingurite vanilie"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "400 g piure de dovleac indulcit"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "300 g paine alba feliata"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "480 ml smanatana lichida pentru frisca"
+        },
+        {
+            "@language": "ro-RO",
+            "@value": "1 lingurita scortisoara"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ro-RO",
+        "@value": "Amesteca intr-un bol piureul de dovleac (se obtine din dovleac ras, calit in putin unt si indulcit dupa gust, pana scade) cu zaharul brun cu ajutorul unui tel. Incorporeaza apoi ouale. Pune scortisoara si vanilia si amesteca. Adauga la final smantana pentru frisca si se omogeanizeaza bine.In vasul slow cooker-ului  Crock-Pot Saute 6l DuraCeramic pune hartie de copt, apoi rupe feliile de paine. Rastoarna compozitia cu dovleac deasupra si amesteca usor, astfel incat lichidul sa patrunda bine printre feliile rupte de paine.Pune capacul si seteaza modul de gatire High pentru 2 ore si jumatate.Cand programul s-a terminat scoate vasul din aparat, cu grija scoate si budinca pe un platou, apoi pune o farfurie mare deasupra si intoarce-o invers.Indeparteaza hartia de copt si lasa budinca la racit.Serveste budinca cu dovleac rece sau calda, dupa plac, cu o cupa de inghetata alaturi si sos caramel.Pofta buna!"
+    },
+    "recipeYield": {
+        "@language": "ro-RO",
+        "@value": "8"
+    },
+    "totalTime": {
+        "@language": "ro-RO",
+        "@value": "PT"
+    },
+    "url": {
+        "@language": "ro-RO",
+        "@value": "https://www.crockpot-romania.ro/retete/desert/reteta-budinca-cu-dovleac"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "ro-RO",
+            "@value": "Amesteca intr-un bol piureul de dovleac (se obtine din dovleac ras, calit in putin unt si indulcit dupa gust, pana scade) cu zaharul brun cu ajutorul unui tel. Incorporeaza apoi ouale. Pune scortisoara si vanilia si amesteca. Adauga la final smantana pentru frisca si se omogeanizeaza bine.In vasul slow cooker-ului\u00a0Crock-Pot Saute 6l DuraCeramic pune hartie de copt, apoi rupe feliile de paine. Rastoarna compozitia cu dovleac deasupra si amesteca usor, astfel incat lichidul sa patrunda bine printre feliile rupte de paine.Pune capacul si seteaza modul de gatire High pentru 2 ore si jumatate.Cand programul s-a terminat scoate vasul din aparat, cu grija scoate si budinca pe un platou, apoi pune o farfurie mare deasupra si intoarce-o invers.Indeparteaza hartia de copt si lasa budinca la racit.Serveste budinca cu dovleac rece sau calda, dupa plac, cu o cupa de inghetata alaturi si sos caramel.Pofta buna!"
+        },
+        "embedURL": {
+            "@language": "ro-RO",
+            "@value": "https://www.youtube.com/embed/QMf_zL0CDXc"
+        },
+        "name": {
+            "@language": "ro-RO",
+            "@value": "Reteta - Budinca cu dovleac"
+        },
+        "thumbnailURL": {
+            "@language": "ro-RO",
+            "@value": "https://img.youtube.com/vi/QMf_zL0CDXc/hqdefault.jpg"
+        },
+        "uploadDate": {
+            "@language": "ro-RO",
+            "@value": "2018-09-27 14:29:35"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

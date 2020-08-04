@@ -1,0 +1,182 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ru-RU",
+        "@value": "\u0410\u0432\u0442\u043e\u0440: \u041e\u043b\u044f \u0410\u0444\u0438\u043d\u0441\u043a\u0430\u044f"
+    },
+    "comment": [
+        {
+            "@id": "_:N30d7aa8d24fe4652883f3f8337aeeb9d"
+        },
+        {
+            "@id": "_:Neac4abc5f5c84be8bb7e71fff865d9b5"
+        },
+        {
+            "@id": "_:Na25b42978a1d498e88f2871acdc292e7"
+        },
+        {
+            "@id": "_:Nc6a4551f4b4c436f80e4f1e1a6ea511f"
+        },
+        {
+            "@id": "_:N5965064ef354446c867961aab37c2ccf"
+        },
+        {
+            "@id": "_:Na768c3937ac84a6b9cee1722964a20c2"
+        },
+        {
+            "@id": "_:Nac3b89bc05ba40cdb7507c5cb7b5d143"
+        },
+        {
+            "@id": "_:Nba93b6a5c4ad4711aef8bb485d795d09"
+        },
+        {
+            "@id": "_:N4c31f4fa890a4ed7ab8ba62a2e60baff"
+        },
+        {
+            "@id": "_:N1398d5526d084335b40aa71783f3d8a0"
+        },
+        {
+            "@id": "_:N058203a233dc4ab9b826e590f5b54857"
+        },
+        {
+            "@id": "_:N88989f7f3ef04fc8875645bd31253913"
+        },
+        {
+            "@id": "_:N57182a15e84e458086f7bc02b68bd130"
+        },
+        {
+            "@id": "_:Nc57afd946fb44b0f92dbebf400fd0b8c"
+        },
+        {
+            "@id": "_:N012b090944674246b416c8673c918ef5"
+        },
+        {
+            "@id": "_:N7b395d966cb2492e9750c20d303399e5"
+        },
+        {
+            "@id": "_:Necc079307b4d467c983a944323992bc9"
+        },
+        {
+            "@id": "_:N9667ccd8543d4ba7ae703ea457ffcec0"
+        },
+        {
+            "@id": "_:N325b58b7c37f47988dc6e6a345c57f2b"
+        },
+        {
+            "@id": "_:N1e28dc8b63e0457496dd599445c6bdd4"
+        },
+        {
+            "@id": "_:Nb29339236923418b95a7fbc143c0eba8"
+        },
+        {
+            "@id": "_:N6463b4e57f1a41ee85d25b0558484393"
+        },
+        {
+            "@id": "_:N97238f538535425186162233209d0614"
+        },
+        {
+            "@id": "_:N7df91f7fd9944ec7a92bb771e5b9b9d7"
+        },
+        {
+            "@id": "_:N133c4f13f82445be995198f5f01d8924"
+        },
+        {
+            "@id": "_:N89ab94c081b247e98e3a1c89955384a4"
+        },
+        {
+            "@id": "_:Nc9f6410916504ffb9c76caedfb3a8e6b"
+        },
+        {
+            "@id": "_:N0f9b83925fcc44b4829658c6709d0351"
+        },
+        {
+            "@id": "_:N8b5358048eac49f39b5ab47f358ce02e"
+        },
+        {
+            "@id": "_:Nb7079f960c094cd1994dd19c224d20f6"
+        },
+        {
+            "@id": "_:N7c32f1e9f25a49b28cff0e566766e99c"
+        }
+    ],
+    "dateModified": {
+        "@language": "ru-RU",
+        "@value": "2019-04-15T09:26:55+02:00"
+    },
+    "datePublished": {
+        "@language": "ru-RU",
+        "@value": "04.04.2018 | 19:56"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "contentUrl": {
+            "@id": "https://sladkiexroniki.ru/wp-content/uploads/2018/04/kulich-3.jpg"
+        },
+        "height": {
+            "@language": "ru-RU",
+            "@value": "427"
+        },
+        "url": {
+            "@id": "https://sladkiexroniki.ru/wp-content/uploads/2018/04/kulich-3.jpg"
+        },
+        "width": {
+            "@language": "ru-RU",
+            "@value": "640"
+        }
+    },
+    "ingredients": [
+        {
+            "@language": "ru-RU",
+            "@value": "\u0441\u0438\u043b\u044c\u043d\u0430\u044f \u043c\u0443\u043a\u0430 (\u0445\u043b\u0435\u0431\u043e\u043f\u0435\u043a\u0430\u0440\u043d\u0430\u044f, 13 \u0433\u0440. \u0431\u0435\u043b\u043a\u0430)\u00a0\u2014 80 \u0433\u0440."
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0442\u0435\u043f\u043b\u0430\u044f \u0432\u043e\u0434\u0430\u00a0\u2014 40 \u0433\u0440."
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0441\u0443\u0445\u0438\u0435 \u0434\u0440\u043e\u0436\u0436\u0438\u00a0\u2014 5 \u0433\u0440."
+        }
+    ],
+    "mainEntityOfPage": {
+        "@language": "ru-RU",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "ru-RU",
+        "@value": "\u0420\u0435\u0446\u0435\u043f\u0442 \u043f\u0430\u043d\u0435\u0442\u0442\u043e\u043d\u0435"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "address": {
+            "@language": "ru-RU",
+            "@value": "\u0410\u0444\u0438\u043d\u044b"
+        },
+        "logo": {
+            "@id": "_:N8ae79c9c9d214ceaa4e03fde739775dc"
+        },
+        "name": {
+            "@language": "ru-RU",
+            "@value": "\u0421\u043b\u0430\u0434\u043a\u0438\u0435 \u0445\u0440\u043e\u043d\u0438\u043a\u0438"
+        },
+        "telephone": {
+            "@language": "ru-RU",
+            "@value": "+7 000 00 00"
+        }
+    },
+    "resultPhoto": {
+        "@id": "https://sladkiexroniki.ru/wp-content/uploads/2018/04/kulich-3.jpg"
+    },
+    "url": [
+        {
+            "@id": "https://sladkiexroniki.ru/category/vse-recepti/"
+        },
+        {
+            "@id": "https://sladkiexroniki.ru/category/vse-recepti/drozhzhevaya-vypechka/"
+        },
+        {
+            "@id": "https://sladkiexroniki.ru/"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

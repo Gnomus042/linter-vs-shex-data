@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "en-US",
+            "@value": "528"
+        },
+        "url": {
+            "@language": "en-US",
+            "@value": "https://www.cscassets.com/recipes/large_cknew/large_23991.jpg"
+        },
+        "width": {
+            "@language": "en-US",
+            "@value": "610"
+        }
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Chocolate Crescent Wraps"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT15M"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "0.666 cup semi-sweet mini chocolate chips"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1   egg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2   of a 17.3 ounce package Pepperidge Farm\u00ae Puff Pastry Sheets(1 sheet), thawed"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\tHeat the oven to 350\u00b0F.\u00a0Beat the\u00a0egg and water in a small bowl with a fork or whisk.Unfold the pastry sheet on a lightly floured surface. Roll the pastry into a 16-inch square. Cut the pastry square into 8 (8 x 4-inch) rectangles. Cut the rectangles diagonally into 16 triangles. Arrange about 2 teaspoons chocolate chips down\u00a0the center of each triangle. Starting at the wide end, roll each\u00a0triangle up, bending the edges in to form a crescent. Place the pastries seam-side down on a baking sheet and\u00a0brush with the egg mixture.Bake the pastries for\u00a020 minutes or until they're golden brown.\t\t\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "16"
+    },
+    "@id": "http://example.org/recipe"
+}

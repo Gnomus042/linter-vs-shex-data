@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@value": "s\u00f3l, pieprz (do smaku)"
+        },
+        {
+            "@value": "2 jajka"
+        },
+        {
+            "@value": "1 \u015brednia cebula"
+        },
+        {
+            "@value": "4 \u015brednie pomidory"
+        },
+        {
+            "@value": "kilka gar\u015bci tartego sera mozzarella"
+        },
+        {
+            "@value": "1 szklanka m\u0105ki"
+        },
+        {
+            "@value": " szczypta soli"
+        },
+        {
+            "@value": "kilka ga\u0142\u0105zek oregano"
+        },
+        {
+            "@value": "2 \u0142y\u017cki oleju"
+        },
+        {
+            "@value": "kilka ga\u0142\u0105zek bazylii"
+        },
+        {
+            "@value": "1 szklanka mleka"
+        }
+    ],
+    "name": {
+        "@value": "Pomidorowo-zio\u0142owy tort nale\u015bnikowy"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "W naczyniu \u017caroodpornym lub zwyk\u0142ej tortownicy uk\u0142adamy warstwowo nale\u015bnik-pomidory (posolone i popieprzone)-cebulka i posypujemy startym serem. Czynno\u015b\u0107 powtarzamy do wyczerpania sk\u0142adnik\u00f3w. Wierzch posypujemy tartym serem. Zapiekamy ok. 30-40 min. w 180\u00b0C."
+        },
+        {
+            "@value": "Pomidory kroimy w cienkie plasterki (mo\u017cna te\u017c pozby\u0107 si\u0119 sk\u00f3rki, sparzaj\u0105c je w gor\u0105cej wodzie). Cebul\u0119 kroimy w cienkie pi\u00f3rka."
+        },
+        {
+            "@value": "Podstaw\u0105 przepisu s\u0105 nale\u015bniki ze \u015bwie\u017cymi zio\u0142ami (je\u015bli nie mamy \u015bwie\u017cych, to mog\u0105 by\u0107 suszone, ale to ju\u017c nie b\u0119dzie to samo). Sk\u0142adniki na ciasto nale\u015bnikowe poda\u0142am orientacyjnie, bo zawsze robi\u0119 \"na oko\", wi\u0119c ka\u017cdy mo\u017ce  zrobi\u0107 je ze swojego sprawdzonego przepisu. Do ciasta dodajemy du\u017c\u0105 ilo\u015b\u0107 drobno poszatkowanych \u015bwie\u017cych zi\u00f3\u0142 i sma\u017cymy, jak zwyk\u0142e nale\u015bniki."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

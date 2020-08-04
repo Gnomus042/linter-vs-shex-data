@@ -1,0 +1,96 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-gb",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-gb",
+            "@value": "0"
+        },
+        "worstRating": {
+            "@language": "en-gb",
+            "@value": "0"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2009-08-18"
+    },
+    "description": {
+        "@language": "en-gb",
+        "@value": "(From Lucinda Hutson\u2019s book Tequila! Cooking with the Spirit of Mexico)\nThroughout Jalisco, this refreshing drink is served in large, wide-mouthed clay bowls, called cazuelas, so that the citrus wedges in it may be picked up and eaten or squeezed into the drink. Mexicans pop chunks of watermelon and fresh pineapple into their mouths and sip the tequila-laced libation through a straw. I present this punch in a large glass jar, which shows off the colorful fruits, and serve it in long-stemmed jumbo margarita glasses filled with cracked ice. A guest once called this drink \u201cthe quintessential finger bowl;\u201d I call it the ultimate fruit cocktail. Make sure that guests get plenty of the spiked watermelon and pineapple!"
+    },
+    "image": {
+        "@id": "http://edibleaustin.com/index.php/component/yoorecipe/recipe/143//images/com_yoorecipe/recipe-63/cropped-CazuelaGuadalajaraPunch.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-gb",
+            "@value": "46-oz. can unsweetened pineapple juice"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "gold tequila"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "1-liter bottle silver tequila"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "star fruit sliced into stars"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "limes, quartered"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "12-oz. cans Squirt"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "oranges, cut into wedges"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "small watermelon, cut into bite-size chunks or triangles"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "lime juice"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "fresh orange juice"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "fresh pineapple, cut into bite-size chunks"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "lemons, sliced"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "small ruby grapefruit, cut into wedges"
+        }
+    ],
+    "name": {
+        "@language": "en-gb",
+        "@value": "\nCazuela Guadalajara (Guadalajara Punch)"
+    },
+    "recipeInstructions": {
+        "@language": "en-gb",
+        "@value": "\n\t\t\tPlace watermelon and pineapple in a 2-gallon, wide-mouthed glass jar. Add tequila, juices, oranges, lemons and star fruit. Chill for 6 to 8 hours, stirring occasionally.\nAdd grapefruit and limes a few hours before serving. Serve in wide-mouthed glasses or bowls filled with cracked ice, a generous splash of Squirt and a straw.\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-gb",
+        "@value": "1 Person(s)"
+    },
+    "@id": "http://example.org/recipe"
+}

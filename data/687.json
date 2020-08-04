@@ -1,0 +1,95 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-GB",
+        "@value": "Rosannagh Hilleary"
+    },
+    "image": {
+        "@id": "http://www.rosannaghhilleary.co.uk/wp-content/uploads/2015/01/Clem-Cake-683x1024.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-GB",
+            "@value": "150ml of runny honey"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "250ml (5tbsp) of water"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "75ml of clementine juice"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "5 whole clementines"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "3 tablespoons of date syrup (or runny honey)"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "225g (8.8oz / 1\u2153 cups) of ground almonds"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u00bc teaspoon of cinnamon"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u00bc teaspoon of vanilla extract"
+        }
+    ],
+    "name": {
+        "@language": "en-GB",
+        "@value": "Null"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-GB",
+            "@value": "Next, fold the clementine mixture into the ground almonds. In a separate (and clean) bowl, whisk the egg whites until they reach stiff peaks. Take a generous spoonful of the egg whites and stir it through the almond mixture. Once incorporated, fold through the remaining egg whites as gently as you can."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Pre-heat the oven to 180\u00b0C and grease and line a 24cm cake tin with baking parchment."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Peel the skin from 2-3 clementines, slice them thinly and use to decorate the top of your cake. I like to scatter some chopped toasted almonds over the top, too."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Transfer the clementines to a food processor and blitz until almost smooth. Add the honey and pulse until incorporated, then set aside and allow to cool for 5-10 minutes."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Serve with vanilla ice cream or fresh yoghurt."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Weigh out the ground almonds in a bowl and add the cinnamon and vanilla. Separate the eggs from the yolks and add the yolks to the slightly-cooled clementine mix. Lightly pulse to incorporate (being sure not to overdo it though, as if you do, the eggs will curdle)."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Cut the clementines into quarters, keeping the skin on, and place in a pan with the water. Bring the liquid to the boil and then turn down to a simmer and cook for around 30 minutes or until the clementines are nice and soft."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Evenly pierce the top of the cake 10-15 times with a small knife or skewer so as to allow for the syrup to soak into the cake. Pour the syrup over the top of the cake while it is still warm and set aside."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Transfer the mixture to the cake tin and bake in the oven for 30-40 minutes or until a skewer placed into the middle of the cake comes out clean."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Meanwhile make the syrup by combining the date syrup and freshly squeezed clementine juice in pan. Simmer over a medium heat until the sauce has reduced and begins to thicken."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-GB",
+        "@value": "Serves 6-8"
+    },
+    "@id": "http://example.org/recipe"
+}

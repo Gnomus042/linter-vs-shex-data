@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "http://www.foodreporter.fr/user/index/id/13173"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2017-04-04"
+    },
+    "image": {
+        "@id": "http://www.foodreporter.fr/upload/original/5/l/2/y/2/1218172.jpg"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Avocado Toast"
+    },
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n                        Moi qui ai toujours clam\u00e9 ne pas c\u00e9der aux tendances (culinaires ou autres),  me voil\u00e0 prise \u00e0 mon propre pi\u00e8ge! L'Avocado Toast, je l'aime, un peu beaucoup, passionn\u00e9ment, \u00e0 la folie... A tel point que c'est devenu mon rituel pr\u00e9f\u00e9r\u00e9 du week-end.\nJe le pr\u00e9pare parfois avec de la truite ou du saumon fum\u00e9, toujours avec des \u0153ufs et du bon pain frais, mais c'est un fait, je ne m'en lasse pas!\nJe vous pr\u00e9sente ici ma version chouchou du moment : cr\u00e8me d'avocat soyeuse, pain aux c\u00e9r\u00e9ales, saumon fum\u00e9, \u0153ufs au plat et graines craquantes.\nFrais, sain, gourmand... Et tendance oui, voil\u00e0 c'est dit!\nLa recette ici : http://claireaumatcha.blogspot.fr/2017/01/avocado-toast-deuxieme-round.html?m=1\n                    "
+    },
+    "@id": "http://example.org/recipe"
+}

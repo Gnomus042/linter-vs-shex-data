@@ -1,0 +1,68 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "fr-CA",
+        "@value": "Galettes de b\u0153uf hach\u00e9 bien juteuses rehauss\u00e9es de fromage fondu, de poivron rouge et de mayonnaise aux olives."
+    },
+    "image": {
+        "@language": "fr-CA",
+        "@value": "https://sifu.unileversolutions.com/image/fr-CA/recipe-topvisual/2/1260-709/hamburger-espagnol-50202933.jpg"
+    },
+    "name": {
+        "@language": "fr-CA",
+        "@value": "Hamburger Espagnol"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fr-CA",
+            "@value": "Olives noires hach\u00e9es"
+        },
+        {
+            "@language": "fr-CA",
+            "@value": "Poivrons rouges r\u00f4tis, \u00e9p\u00e9pin\u00e9s et pel\u00e9s"
+        },
+        {
+            "@language": "fr-CA",
+            "@value": "Mayonnaise aux olives"
+        },
+        {
+            "@language": "fr-CA",
+            "@value": "Galettes de b\u0153uf"
+        },
+        {
+            "@language": "fr-CA",
+            "@value": "Fromage manchego"
+        },
+        {
+            "@language": "fr-CA",
+            "@value": "Petits pains kaiser"
+        },
+        {
+            "@language": "fr-CA",
+            "@value": "Paprika"
+        },
+        {
+            "@language": "fr-CA",
+            "@value": "C\u00e2pres \u00e9goutt\u00e9es et hach\u00e9es"
+        },
+        {
+            "@language": "fr-CA",
+            "@value": "Hellmann's\u00ae Vraie Mayonnaise 2 x 4 L"
+        },
+        {
+            "@language": "fr-CA",
+            "@value": "Oignon doux"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "fr-CA",
+            "@value": "\n                        Pr\u00e9paration de la mayonnaise aux olives\n                        \n                        \n    M\u00e9langer les ingr\u00e9dients et r\u00e9server.\n\n                    "
+        },
+        {
+            "@language": "fr-CA",
+            "@value": "\n                        Pr\u00e9parer le burger\n                        \n                        \n    Faire griller les galettes de b\u0153uf hach\u00e9 sur le barbecue ou au four jusqu\u2019\u00e0 ce qu\u2019elles atteignent la temp\u00e9rature d\u00e9sir\u00e9e, puis garnir de fromage. \n    Fermer le couvercle du barbecue ou placer sous la salamandre pour faire fondre le fromage. \n    Couper l'oignon en tranches \u00e9paisses et griller jusqu'\u00e0 ce qu'il soit l\u00e9g\u00e8rement carbonis\u00e9.\n    \u00c9tendre la brioche uniform\u00e9ment avec la mayonnaise aux olives pr\u00e9par\u00e9e et construire un hamburger.\n\n                    "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

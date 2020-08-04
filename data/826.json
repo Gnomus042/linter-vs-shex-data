@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "fi",
+            "@value": "11"
+        },
+        "ratingValue": {
+            "@language": "fi",
+            "@value": "4"
+        }
+    },
+    "description": {
+        "@language": "fi",
+        "@value": "Ihana pastakastike, jossa grillattu kana ja paprika sulautuvat hyvin aurinkokuivattujen tomaattien ja v\u00e4limerillesen juuston kanssa."
+    },
+    "image": {
+        "@id": "https://cdn-rdb.arla.com/Files/arla-fi/2680812273/a3e843ec-a7ac-4cb3-a2c0-2605073d50de.jpg?mode=crop&w=1680&h=750&scale=both&ak=814e15de&hm=8c2fa9df"
+    },
+    "name": {
+        "@language": "fi",
+        "@value": "Broileri- Apetina juustopasta"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fi",
+            "@value": "\n1 pkt Arla Apetina Snack aurinkokuivatut tomaatit\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                1 rkl Arla Meijerivoita\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n1 punainen paprika\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n2 dl maissia\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                1\u00bd dl Arla Lempi Cr\u00e8me fra\u00eechea\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\u00bd grillattu kana\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n1 punasipuli\n        "
+        }
+    ],
+    "recipeYield": {
+        "@language": "fi",
+        "@value": "4 annosta"
+    },
+    "@id": "http://example.org/recipe"
+}

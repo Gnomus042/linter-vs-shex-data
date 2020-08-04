@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://great-recipes.familyoven.com/"
+    },
+    "description": {
+        "@value": "\nAn old-fashioned recipe from way back. A cake-like brownie will surface on the top, and a rich, warm chocolate pudding will be on the bottom of the pan...a wonderful chocolate treat, served with icecream.\n"
+    },
+    "ingredients": [
+        {
+            "@value": "3 tablespoons cocoa powder"
+        },
+        {
+            "@value": "3/4 teaspoon salt"
+        },
+        {
+            "@value": "1 cup sugar"
+        },
+        {
+            "@value": "1 1/2 teaspoons vanilla"
+        },
+        {
+            "@value": "6 tablespoons cocoa powder"
+        },
+        {
+            "@value": "1 cup brown sugar"
+        },
+        {
+            "@value": "2 tablespoons brown sugar"
+        },
+        {
+            "@value": "2 2/3 cups hot water"
+        },
+        {
+            "@value": "1 1/2 cups flour"
+        },
+        {
+            "@value": "1 cup chopped walnuts"
+        },
+        {
+            "@value": "2 tablespoons sugar (or to taste)"
+        },
+        {
+            "@value": "3/4 cup half-and-half cream or milk"
+        },
+        {
+            "@value": "1 tablespoon baking powder"
+        },
+        {
+            "@value": "3 tablespoons oil (not olive oil)"
+        }
+    ],
+    "name": {
+        "@value": "Chocolate Brownie Pudding"
+    },
+    "recipeInstructions": {
+        "@value": "Set oven to 350 degrees.Grease a 13 x 9-inch baking pan.In a mixing bowl, combine flour, sugar, 3 tablespoons cocoa, baking powder and salt.Add in cream, oil, vanilla; mix until smooth.Stir in nuts.Pour the mixture into prepared baking pan.In a small bowl mix together brown sugar, 6 tablespoons cocoa and hot water.Pour over the batter in the pan (do not mix).Bake for 45-50 minutes.Serve in single dessert bowls topped with ice cream."
+    },
+    "@id": "http://example.org/recipe"
+}

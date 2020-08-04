@@ -1,0 +1,68 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 egg yolk \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup butterscotch chips\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups flour \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup chocolate toffee bits "
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup light brown sugar, firmly packed \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup unsalted butter, softened \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon vanilla extract \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon almond extract \n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Butterscotch Toffee Bars"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Preheat the oven to 350. Line an 8-inch square pan with aluminum foil, leaving enough to hang over the sides. Coat with cooking spray. \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "In the bowl of a stand mixer, beat the margarine and brown sugar until fluffy. Add the egg yolk and extracts and mix again. Gradually add the flour, mixing until just incorporated. \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pat the cookie dough onto the prepared pan evenly. Bake for 20-25 minutes until golden.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spread the melted butterscotch chips evenly over the surface of the bars and sprinkle the chocolate toffee bits on top. Cool completely.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Turn the oven off and take out the bars. Sprinkle the butterscotch chips on top and return the pan to the oven for two minutes.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cut into squares. Store in an airtight container. \n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

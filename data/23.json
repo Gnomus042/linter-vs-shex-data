@@ -1,0 +1,102 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Cooking with Michele"
+    },
+    "image": {
+        "@id": "http://cookingwithmichele.com/wp-content/uploads/2013/04/banana-quinoa-oatmeal-muffins-1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup cooked quinoa"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup plain nonfat yogurt, (Greek style)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups oats, divided"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup whole wheat flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon baking powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 teaspoons cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup extra virgin olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc teaspoon salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 large eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd cups banana, mashed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon baking soda"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Banana Quinoa Oatmeal Muffins"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Breakfast"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Add sugar and olive oil to the bowl of a mixer and mix on medium until combined; add eggs one at a time, mixing until incorporated. Add banana and yogurt and mix until smooth."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Combine quinoa with the dry ingredients and add to the mixer on low until incorporated. Remove mixing bowl from stand, add remaining oats, and stir with a wooden spoon to make sure everything is combined."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place 1 cup of the oats in a food processor and process until the texture of flour; add to a mixing bowl along with the whole wheat flour, baking soda and powder, cinnamon, and salt. Stir together and set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Line muffin tins with paper liners and spray with cooking spray. Use an ice cream scoop to portion the batter into 18 muffins. Bake at 375 degrees until cooked through, about 15 minutes."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "18"
+    },
+    "@id": "http://example.org/recipe"
+}

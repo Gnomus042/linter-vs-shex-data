@@ -1,0 +1,68 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Katie Workman"
+    },
+    "description": {
+        "@value": "\nMy friend Catherine just turned 50, and didn\u2019t want any fanfare. \u00a0And she wasn\u2019t just saying it in the way that some of us do sometimes, \u201cOh, no\u2026.no party for little ol\u2019 me, I don\u2019t want to be a bother.\u201d \u00a0She insisted on no celebration with an ardor that left nothing to be wrongly interpreted.\nAs in, if you even thought about something like a surprise party she would enter, turn on her heel and march out, but not before bursting into tears and point a finger at you and yelling, \u201cJ\u2019accuse!\u201d or something dramatic.\nSo, because I love her and because I am a little bit afraid of her, I left her a nice birthday message, and then I made and dropped off this warm, sweet banana bread pudding, leaving it with her doorman so she wouldn\u2019t even have to see me and acknowledge that I was making a birthday gesture. \u00a0\u00a0She sent me gracious and complimentary texts, and at some point in the near future I am allowed to take her out for a girls\u2019 night, where we will have a lovely time and not mention that she is 50.\n\nHere are 3 more treats you can make with bananas:Mini Banana Bread LoavesMini Cinnamon-ey Banana LoavesHonestly the Best Banana Bread\n\n"
+    },
+    "image": [
+        {
+            "@id": "https://i0.wp.com/themom100.com/wp-content/uploads/2016/02/banana-pudding.jpg?fit=675%2C900&ssl=1"
+        },
+        {
+            "@id": "https://themom100.com/recipe/banana-bread-pudding/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
+        }
+    ],
+    "keywords": {
+        "@value": "\n\t\t\t\t\t\t\tbanana, banana bread, birthday, bread, dessert, pudding\t\t\t\t\t\t"
+    },
+    "name": {
+        "@value": "Banana Bread Pudding"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "servingSize": {
+            "@value": "6"
+        }
+    },
+    "recipeCategory": {
+        "@value": "Desserts"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t3\t\t\t\t\t\t\t\t\t\tcups\t\t\t\t\t\t\t\t\t\twhole milk\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tegg challah (about 1 pound), cubed\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1\t\t\t\t\t\t\t\t\t\tteaspoon\t\t\t\t\t\t\t\t\t\tground cinnamon\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t4\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tlarge eggs\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1\t\t\t\t\t\t\t\t\t\ttablespoon\t\t\t\t\t\t\t\t\t\tvanilla extract\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t4\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvery ripe bananas, mashed\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t2/3\t\t\t\t\t\t\t\t\t\tcup\t\t\t\t\t\t\t\t\t\tbrown sugar\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\u00bd\t\t\t\t\t\t\t\t\t\tteaspoon\t\t\t\t\t\t\t\t\t\tkosher salt\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1\t\t\t\t\t\t\t\t\t\tcup\t\t\t\t\t\t\t\t\t\theavy cream\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t1. Preheat the oven to 350\u00b0F.  Butter a 9 x 13-inch baking dish.\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t2. Spread the bread cubes on a rimmed baking sheet and toast them for 4 minutes, just until the outsides firm up a bit.  Remove the bread, but leave the oven on.\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t3. In a large bowl whisk together the eggs, milk, cream, sugar, vanilla, cinnamon and salt.  Add the mashed bananas.  Stir in the bread cubes, and let sit for about 10 minutes so the bread absorbs some of the sauce.\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t4. Transfer the bread pudding to the pan and bake for about 50 minutes, until the pudding sets, and the top is golden brown.  Let sit on a wire rack for 15 to 20 minutes until it firms up a bit, but is still warm.  Serve warm.\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@value": "Serving Size: 6"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,10 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.from-snuggs-kitchen.com/2015/12/wir-retten-winterliche-heissgetranke.html?showComment=1452086182426///1.bp.blogspot.com/-8GD6Hm8lQwA/VmcDPxih2EI/AAAAAAAANI4/BKNpQbDtVLs/s1600/Chai-Kakao%2B2.jpg"
+    },
+    "recipeYield": {
+        "@value": "ca. 10 Tassen Chai-Gew\u00fcrzmischung bzw. 1 Tasse Chai-Kakao"
+    },
+    "@id": "http://example.org/recipe"
+}

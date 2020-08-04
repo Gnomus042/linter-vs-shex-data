@@ -1,0 +1,33 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Cocktail Caviar"
+    },
+    "image": {
+        "@id": "http://cocktailcaviar.com/wp-content/uploads/2017/05/La-Cave-at-Wynn.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "Raspberry Cocktail Caviar"
+        },
+        {
+            "@value": "Absolut Elix"
+        },
+        {
+            "@value": "Liqueur 43"
+        },
+        {
+            "@value": "Pear liqueur"
+        }
+    ],
+    "name": {
+        "@value": "Mon Ami Gabi"
+    },
+    "recipeCategory": {
+        "@value": "Cocktail"
+    },
+    "recipeYield": {
+        "@value": "1"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,58 @@
+{
+    "@type": "Recipe",
+    "QuantitativeValue": {
+        "@language": "en",
+        "@value": "8"
+    },
+    "nutrition": [
+        {
+            "@id": "_:N042247d63a6e440a900fe7d43363207a"
+        },
+        {
+            "@id": "_:N031e57838d0044f6b24eb85fc9af2468"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "2 cloves garlic ( chopped ) "
+        },
+        {
+            "@language": "en",
+            "@value": "3/4 cup stuffing "
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup whole berry cranberry sauce "
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup mashed potatoes "
+        },
+        {
+            "@language": "en",
+            "@value": "1 ( 13.8-ounce tube refrigerated pizza crust dough ) "
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup shredded Cheddar cheese "
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup turkey gravy "
+        },
+        {
+            "@language": "en",
+            "@value": "2 cups chopped cooked turkey "
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup milk "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\n \tHeat oven to 400 degrees F.\n \tPress pizza dough into rectangle on greased baking sheet. Bake 8 minutes or until lightly browned. Set aside.\n \tMelt butter over medium heat in 10-inch skillet until sizzling; ..."
+    },
+    "@id": "http://example.org/recipe"
+}

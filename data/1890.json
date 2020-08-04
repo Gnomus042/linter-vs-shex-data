@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "April Carter"
+    },
+    "description": {
+        "@value": "The material cake pop who knows what she wants and how to espress(o) herself."
+    },
+    "image": {
+        "@id": "https://www.cooked.com.au/April-Carter/Hardie-Grant-Books/Top-of-the-Cake-Pops/Recipes/Mochadonna-recipe///cdn.cooked.com.au/-/media/cooked/mediabucket/2014/02/27/02/25/530e06de0dbc7_totcp_mochadonna_1.ashx?w=1066"
+    },
+    "ingredients": [
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tred blossom tint\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tblack blossom tint\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t200g\n\t\t\t\t\t\t\t\t\t\tyellow candy melts\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tpaintbrushes\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tpolystyrene block\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\ttoothpicks\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\trejuvenator spirit\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tsmall, microwave-safe plastic bowl\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tyellow non-pareils sprinkles\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t6\n\t\t\t\t\t\t\t\t\t\tBody pops\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tgold lustre dust\n\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tpalette\n\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "name": {
+        "@value": "Mochadonna"
+    },
+    "recipeInstructions": {
+        "@value": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tTo really make Mochadonna live up to her name, start with the mocha-flavoured cake variation. Set aside to dry.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tShape Mochadonna\u2019s pointy bra before making your girl body pops in the usual way. To do this, mould 12 small bra balls of dough into a conical shape with your fingers. Attach them with melted candy melts and dip. Set aside to dry.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tPrepare the yellow candy melts in the plastic bowl according to the instructions on the packet.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDip Mochadonna\u2019s head into the melts to create her hair. Before her hair has dried, use a toothpick to make a curly texture and sprinkle on some of the yellow sprinkles. Repeat for the remaining pops and set aside to dry.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tMix a small amount of black blossom tint with a few drops of rejuvenator spirit and, with a fine brush, paint on eyes and beauty spot to each pop. Do the same for Mochadonna\u2019s lips in red, and her outfit in gold. Set aside to dry completely in a polystyrene block.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

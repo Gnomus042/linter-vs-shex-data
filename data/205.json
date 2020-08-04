@@ -1,0 +1,74 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@value": "Null"
+        }
+    },
+    "datePublished": {
+        "@value": "2016-09-21 17:40:44"
+    },
+    "image": [
+        {
+            "@id": "http://divaliciousrecipes.com/wp-content/uploads/2016/09/Pumpkin-Spiced-300x200.jpg"
+        },
+        {
+            "@id": "https://divaliciousrecipes.com/caribbean-spiced-pumpkin/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
+        }
+    ],
+    "ingredients": [
+        {
+            "@value": "1/4 teaspoon black pepper"
+        },
+        {
+            "@value": "1 tin tomatoes, chopped"
+        },
+        {
+            "@value": "1/4 teaspoon all spice"
+        },
+        {
+            "@value": "2 cloves garlic, chopped"
+        },
+        {
+            "@value": "2 sticks celery, chopped"
+        },
+        {
+            "@value": "2 teaspoons fresh ginger, finely chopped"
+        },
+        {
+            "@value": "1 onion, peeled and chopped"
+        },
+        {
+            "@value": "1 red pepper, deseeded and cut in chunks"
+        },
+        {
+            "@value": "2 cups pumpkin, diced and peeled"
+        },
+        {
+            "@value": "1/4 teaspoon salt"
+        },
+        {
+            "@value": "1 teaspoon thyme"
+        },
+        {
+            "@value": "2 tablespoon coconut oil"
+        },
+        {
+            "@value": "1 scotch bonnet pepper, finely chopped"
+        }
+    ],
+    "name": {
+        "@value": "Caribbean Spiced Pumpkin"
+    },
+    "recipeInstructions": {
+        "@value": "Heat the oil in a saucepan on a medium heat.Add the onion, garlic, celery and ginger and saut\u00c3\u00a9 for 5 minutes until soft.Add the pumpkin, red peppers, chilli and spices and cook for a further 3 minutes, stirring so that the spices are evenly distributed.Add the tomatoes, bring to the boil and cover.Simmer for 20 minutes until the pumpkin is soft, yet still firm. You don\u00e2\u0080\u0099t want it too mushy.Season to taste and serve."
+    },
+    "@id": "http://example.org/recipe"
+}

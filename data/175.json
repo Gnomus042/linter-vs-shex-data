@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "tr",
+        "@value": "Shop4154007 Store"
+    },
+    "brand": {
+        "@language": "tr",
+        "@value": "belallure.me"
+    },
+    "image": {
+        "@language": "tr",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1E7ztxDtYBeNjy1Xdq6xXyVXaj/\u00dccretsiz-kargo-sat\u0131\u015f-AC85-265V-500-W-100-w-LED-sokak-lambas\u0131-IP65-Bridgelux-130LM-W.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "tr",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "tr",
+            "@value": "32885140452"
+        }
+    ],
+    "name": {
+        "@language": "tr",
+        "@value": "\u00dccretsiz kargo sat\u0131\u015f AC85-265V 500 W 100 w LED sokak lambas\u0131 IP65 Bridgelux 130LM/W LED LED sokak lambas\u0131 3 y\u0131l garanti"
+    },
+    "@id": "http://example.org/recipe"
+}

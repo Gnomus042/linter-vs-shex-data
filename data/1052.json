@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "carbohydrateContent": {
+        "@value": "49.3"
+    },
+    "cholesterolContent": {
+        "@value": "0.0"
+    },
+    "fatContent": {
+        "@value": "31.7"
+    },
+    "fiberContent": {
+        "@value": "8.4"
+    },
+    "name": {
+        "@value": "Class\u0131c Bitter \u00c7ikolata"
+    },
+    "proteinContent": {
+        "@value": "7.4"
+    },
+    "sodiumContent": {
+        "@value": "0.1"
+    },
+    "@id": "http://example.org/recipe"
+}

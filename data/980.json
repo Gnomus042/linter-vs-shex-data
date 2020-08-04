@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "12"
+        },
+        "ratingValue": {
+            "@value": "1.7"
+        }
+    },
+    "author": {
+        "@value": "Alletiders Kogebog"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2004-07-19"
+    },
+    "keywords": {
+        "@value": "Pizza-sauce, Opskrift, Alletiders, Kogebog"
+    },
+    "name": {
+        "@value": " Pizza-sauce "
+    },
+    "recipeCategory": {
+        "@value": "Hovedretter"
+    },
+    "recipeCuisine": {
+        "@value": "Danmark"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 ds. fl\u00e5ede/hakkede tomater"
+        },
+        {
+            "@value": "2 spsk. olie"
+        },
+        {
+            "@value": "3 spsk. krydderier (oregano \u2013 basilikum \u2013 timian - hvidl\u00f8g eller chili alle kan bruges )"
+        },
+        {
+            "@value": "Null"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "Tomaterne kan evt. blendes, ellers skal alle ingredienserne bare blandes."
+    },
+    "recipeYield": {
+        "@value": "4\u00a0Pers."
+    },
+    "url": {
+        "title": {
+            "@value": "Pizza-sauce - opskrift - Alletiders Kogebog"
+        },
+        "item": {
+            "@id": "_:N1af731ef19a24bcdacb3570e99c9f2d0"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

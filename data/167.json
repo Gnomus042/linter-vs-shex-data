@@ -1,0 +1,51 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://cinnamonsugarandalittlebitofmurder.com/wp-content/uploads/2016/12/Christmas-Crackles-10.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "One can canister (approx. 5 oz.) of La Choy Chow Mein Noodles"
+        },
+        {
+            "@language": "en-US",
+            "@value": "One package of semi-sweet chocolate morsels (approx. 12 oz.)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "One package of butterscotch morsels (approx. 11 oz.)\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Christmas Crackles"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "On a tray lined with wax or parchment paper, use a tea spoon to scoop the mixture and arrange into little clusters.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "*You can also refrigerate these if you're going to consume within a few days but for long term storage it's best to freeze."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Stir in the chow mien noodles until they are completely coated with the chocolate mixture.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a medium-sized pan, melt the chocolate and butterscotch together over low heat until entirely melted. \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Let thaw 15 minutes before eating (to save your teeth.)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Freeze until hard.*\n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

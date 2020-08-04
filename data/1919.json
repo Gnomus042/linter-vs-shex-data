@@ -1,0 +1,116 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "fi",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "fi",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "fi",
+            "@value": "3.5"
+        },
+        "worstRating": {
+            "@language": "fi",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@id": "https://www.hellapoliisi.fi/author/jamihp/"
+    },
+    "cookTime": {
+        "@language": "fi",
+        "@value": "PT30M"
+    },
+    "datePublished": {
+        "@language": "fi",
+        "@value": "2017-02-01"
+    },
+    "description": [
+        {
+            "@language": "fi",
+            "@value": "Null"
+        },
+        {
+            "@language": "fi",
+            "@value": "Itse tehty pulla on ihana huomionosoitus, sill\u00e4 sen eteen t\u00e4ytyy n\u00e4hd\u00e4 v\u00e4h\u00e4n vaivaa. Lado yll\u00e4tykselliset pullat syd\u00e4nvuokaan ja paista isoksi syd\u00e4meksi, josta riitt\u00e4\u00e4 jaettavaa. Syd\u00e4mellinen Bostonkakku 10-15 annosta \u00bd l maitoa 50 g tuorehiivaa 1 rkl kardemummaa 2 dl Dansukker Siro erikoishienoa sokeria tai Taloussokeria 1 tl suolaa yhden appelsiinin raastettu kuori 13-15 dl vehn\u00e4jauhoja [\u2026]"
+        }
+    ],
+    "image": {
+        "@id": "https://www.hellapoliisi.fi/wp-content/uploads/2017/02/sydanystavan_bostonkakku_3_web_D8S2513-Edit-150x150.jpg"
+    },
+    "ingredients": [
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/suola/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/appelsiinimehu/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/dansukker-mansikanmakuinen-tomusokeri/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/tuorehiiva/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/vehnajauho/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/dansukker-siro-erikoishieno-sokeri/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/maito/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/dansukker-vaniljasokeri/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/kananmuna/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/dansukker-raesokeri/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/voi/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/paistonkestava-marmeladi/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/kardemumma/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/vaniljakreemijauhe/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/appelsiinin-kuoriraaste/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/margariini/"
+        },
+        {
+            "@id": "https://www.hellapoliisi.fi/ainesosa/dansukker-taloussokeri/"
+        }
+    ],
+    "name": {
+        "@language": "fi",
+        "@value": "Syd\u00e4mellinen Bostonkakku"
+    },
+    "prepTime": {
+        "@language": "fi",
+        "@value": "PT01H30M"
+    },
+    "recipeInstructions": {
+        "@language": "fi",
+        "@value": "Null"
+    },
+    "recipeYield": {
+        "@language": "fi",
+        "@value": "10-15"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingValue": {
+            "@value": "9"
+        },
+        "reviewCount": {
+            "@value": "12973"
+        }
+    },
+    "author": {
+        "@value": "T\u01af V\u1ea4N DU H\u1eccC"
+    },
+    "image": {
+        "@id": "http://www.toancauco.edu.vn/style/images/logo.png"
+    },
+    "name": {
+        "@value": "DU HOC MY | TU VAN DU HOC MY | DU H\u1eccC M\u1ef8 | T\u01af V\u1ea4N DU H\u1eccC M\u1ef8"
+    },
+    "@id": "http://example.org/recipe"
+}

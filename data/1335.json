@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://res.cloudinary.com/norgesgruppen/image/upload/c_fill,f_auto,h_214,q_auto,w_380/xw0fspaaqrbkymydefdv.jpg"
+    },
+    "name": {
+        "@language": "no",
+        "@value": "Kandisert sitrus med sjokolade"
+    },
+    "totalTime": {
+        "@language": "no",
+        "@value": "PT60M"
+    },
+    "url": {
+        "@language": "no",
+        "@value": "/Kolonialen/Oppskrifter-kolonialen/Snacks/Kandisert-sitrus-med-sjokolade/"
+    },
+    "@id": "http://example.org/recipe"
+}

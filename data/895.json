@@ -1,0 +1,109 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "en-US",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Organixx"
+        }
+    },
+    "image": {
+        "@id": "https://2egwzw1m6a5z39ymwe4eysa0-wpengine.netdna-ssl.com/wp-content/uploads/Avocado-Broccoli-Sprout-Soup.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Avocado, Broccoli Sprout Soup"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n              Quality salt to taste, such as pink or sea salt \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              2 tablespoons hemp OR extra virgin olive oil \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              1 cup yellow bell pepper, with seeds removed and chopped in large pieces \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              1\u20442 teaspoon lemon zest (optional) \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              Fresh ground pepper to taste\n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              1 tablespoon fresh turmeric root, finely chopped OR 1 teaspoon powdered turmeric \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              1 pint fresh broccoli sprouts, rinsed and set aside \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              2 cups spring OR filtered water \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              3 tablespoons lemon juice, freshly squeezed \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              1 1\u20442 cups ripe medium Haas avocados, with skins and seeds removed \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              1\u20442 teaspoon cayenne pepper powder OR flakes \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              2 cloves fresh garlic, crushed \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              1 red onion, chopped in large pieces OR substitute yellow onion \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n              1 handful cilantro, with stems removed, rinsed and chopped OR substitute parsley \n            "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "\n            Place all ingredients and spices except broccoli sprouts in a blender or food processor and blend until smooth. \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n            If a warm soup is desired, pour into a pot and warm on the stove on med-low, stirring constantly until just hot to the touch. \n            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n            Ladle into bowls and garnish with avocado slices and 1\u20444 cup or more broccoli sprouts on top and serve with raw crackers. \n            "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

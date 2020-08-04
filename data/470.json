@@ -1,0 +1,86 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Itsy Bitsy Foodies"
+    },
+    "description": {
+        "@value": "This could also be called the cleaning-out-the-fridge salad because that's literally what I was doing the first time I made it. But we knew it was a keeper when we went to the store the next day to buy the same ingredients for another batch."
+    },
+    "image": {
+        "@id": "http://itsybitsyfoodies.com/wp-content/uploads/2013/03/IMG_19141.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "Dash of sugar"
+        },
+        {
+            "@value": "\u215b tsp black pepper"
+        },
+        {
+            "@value": "\u00bc tsp salt, to taste"
+        },
+        {
+            "@value": "\u00bc - \u00bd cup feta cheese crumbles"
+        },
+        {
+            "@value": "Ham slices or turkey kielbasa, chopped"
+        },
+        {
+            "@value": "\u00bd - 1 cup ricotta cheese"
+        },
+        {
+            "@value": "1 Tbsp oregano"
+        },
+        {
+            "@value": "1 cup quinoa, cooked according to instructions on package"
+        },
+        {
+            "@value": "1 6-ounce can tomato paste"
+        },
+        {
+            "@value": "Roasted red, yellow, and/or orange bell peppers, chopped"
+        },
+        {
+            "@value": "\u00bd cup chicken broth"
+        },
+        {
+            "@value": "\u00bc tsp crushed red peppers"
+        },
+        {
+            "@value": "\u00bd cup chopped artichoke hearts (seasoned or plain)"
+        }
+    ],
+    "name": {
+        "@value": "Italian Quinoa Salad"
+    },
+    "recipeCategory": {
+        "@value": "Salad"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "In a large bowl, toss the cooked quinoa, tomato sauce (to taste), chopped ham/sausage, feta cheese, chopped peppers and chopped artichoke hearts."
+        },
+        {
+            "@value": "Mix the tomato paste, chicken broth (to consistency) and Italian seasonings in a small saucepan."
+        },
+        {
+            "@value": "Let the pizza sauce simmer for a few minutes."
+        },
+        {
+            "@value": "Stir in the ricotta cheese to taste."
+        },
+        {
+            "@value": "Let them cool enough to be able to handle them and then remove the charred skin."
+        },
+        {
+            "@value": "To roast the peppers, place them on a pan and broil them for 20 minutes, or until the skin is mostly charred, flipping them part way through to cook them evenly."
+        },
+        {
+            "@value": "Chop the flesh of the roasted peppers."
+        }
+    ],
+    "recipeYield": {
+        "@value": "2-4"
+    },
+    "@id": "http://example.org/recipe"
+}

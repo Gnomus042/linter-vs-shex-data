@@ -1,0 +1,93 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "de",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "de",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "de",
+            "@value": "4"
+        }
+    },
+    "copyrightHolder": {
+        "@language": "de",
+        "@value": "\u00a9 GUSTO / Koeb Ulrike"
+    },
+    "image": {
+        "@id": "https://www.gusto.at/rezepte/liebstoeckel-pesto//_storage/asset/6372303/storage/womanat:slideshow-large/file/95333426/52406115.jpg"
+    },
+    "name": {
+        "@language": "de",
+        "@value": "Liebst\u00f6ckel-Pesto"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "de",
+            "@value": "256 kcal"
+        },
+        "carbohydrateContent": {
+            "@language": "de",
+            "@value": "4 g"
+        },
+        "cholesterolContent": {
+            "@language": "de",
+            "@value": "k. A."
+        },
+        "fatContent": {
+            "@language": "de",
+            "@value": "25 g"
+        },
+        "proteinContent": {
+            "@language": "de",
+            "@value": "k. A."
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "de",
+            "@value": "Pasta & Pizza"
+        },
+        {
+            "@language": "de",
+            "@value": "Beilage"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "de",
+            "@value": "\nDistel\u00f6l\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nSalz\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nPinienkerne\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nPetersilie\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nLiebst\u00f6ckel\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "de",
+        "@value": "\n\nKr\u00e4uter in Wasser kurz \u00fcberkochen, in Eiswasser abschrecken, gut ausdr\u00fccken, fein schneiden. Mit Pinienkernen und \u00d6l cremig mixen. Mit Salz abschmecken.\n\n"
+    },
+    "recipeYield": {
+        "@language": "de",
+        "@value": "4 Portionen"
+    },
+    "@id": "http://example.org/recipe"
+}

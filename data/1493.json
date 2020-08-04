@@ -1,0 +1,52 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "author": {
+            "@language": "ro-RO",
+            "@value": "Iuliana Florentina Avram"
+        },
+        "dateModified": {
+            "@language": "ro-RO",
+            "@value": "2016-10-02T06:07:48+00:00"
+        },
+        "datePublished": {
+            "@language": "ro-RO",
+            "@value": "2011-09-25T06:55:00+00:00"
+        },
+        "description": {
+            "@language": "ro-RO",
+            "@value": "\n\n\n\nIn niciun an nu-mi lipseste din camara acest delicios\u00a0gem de gutui.Are un gust deosebit si imi aduce aminte de copilarie pentru ca bunicii mei aveau in curte un gutui mare care, in fiecare toa..."
+        },
+        "headline": {
+            "@language": "ro-RO",
+            "@value": "GEM DE GUTUI"
+        },
+        "image": {
+            "@id": "_:N9711ba7c9f5648d2b132c8b7c1fb156d"
+        },
+        "mainEntityOfPage": {
+            "@language": "ro-RO",
+            "@value": "https://retetefeldefel.ro/gem-de-gutui/"
+        },
+        "name": {
+            "@language": "ro-RO",
+            "@value": "GEM DE GUTUI"
+        },
+        "publisher": {
+            "@id": "_:N22304ab01e1f434f84d33201ab878b66"
+        },
+        "url": {
+            "@language": "ro-RO",
+            "@value": "https://retetefeldefel.ro/gem-de-gutui/"
+        }
+    },
+    "image": {
+        "@id": "https://retetefeldefel.ro/wp-content/uploads/2011/09/gem-de-gutui-585x368.jpg"
+    },
+    "recipeInstructions": {
+        "@language": "ro-RO",
+        "@value": "\n\t\t\t\t\t\t\t\n\n\n\nIn niciun an nu-mi lipseste din camara acest delicios\u00a0gem de gutui.Are un gust deosebit si imi aduce aminte de copilarie pentru ca bunicii mei aveau in curte un gutui mare care, in fiecare toamna, ne daruia foarte multe fructe parfumate,amarui,cu puf galben ca de pui. Bunica si mama faceau cel mai bun gem de gutui,aromat si gustos,al carui gust a ramas intiparit in mintea si sufletul meu.\nIngrediente\n\n1 kg pulpa de gutui\n650 g zahar\nsucul de la o lamaie\n400 ml apa\n\n\n    (adsbygoogle = window.adsbygoogle || []).push({}); \n\nMod de preparare gem de gutui\n\n\n\n\n\nSpalam fructele si le dam pe razatoarea cu ochiuri mari,stropindu-le cu suc de lamaie.Cand am terminat adaugam zaharul si apa si amestecam\u00a0 pana acesta se topeste.Punem la foc mediu si fierbem pana ne place consistenta gemului.Al meu a fost gata intr-o ora.\n\n\n\nAm pus gemul in borcane sterilizate pe care le-am acoperit cu prosoape de bucatarie si le-am lasat pana a doua zi.\nDelicios,pofta buna!\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,97 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "sr",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "sr",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "sr",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "sr",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@id": "https://www.recepti.com/profile/view/31095"
+    },
+    "image": {
+        "@id": "https://www.recepti.com/img/recipe/41506-kiflice.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "sr",
+            "@value": "2 ka\u0161ike \u0161e\u0107era"
+        },
+        {
+            "@language": "sr",
+            "@value": "malo susama"
+        },
+        {
+            "@language": "sr",
+            "@value": "100 g margarina"
+        },
+        {
+            "@language": "sr",
+            "@value": "550 g bra\u0161na meko tip 400"
+        },
+        {
+            "@language": "sr",
+            "@value": "1 ka\u0161ika mleka"
+        },
+        {
+            "@language": "sr",
+            "@value": "250 ml mleka"
+        },
+        {
+            "@language": "sr",
+            "@value": "1 ka\u0161ika soli"
+        },
+        {
+            "@language": "sr",
+            "@value": "1 \u017eumance"
+        },
+        {
+            "@language": "sr",
+            "@value": "1 kocka kvasca"
+        },
+        {
+            "@language": "sr",
+            "@value": "150 ml ulja"
+        }
+    ],
+    "interactionCount": {
+        "@language": "sr",
+        "@value": "UserComments:6"
+    },
+    "name": {
+        "@language": "sr",
+        "@value": "Kiflice (14)"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "sr",
+            "@value": "50 gr margarina otopiti, a 50 gr izrendati po tepsiji velikoj od \u0161poreta.\nUzeti testo i razvu\u0107i tanko, premazati sa polovinom otopljenog margarina ise\u0107i na 16 trouglova pa umotati kifle, uradititi isto i sa drugim delom testa.\nKiflice pore\u0111ati na tepsiju po kojoj smo izrendali margarin. \nPrekriti krpom i ostaviti da miruju pola sata. Rernu zagrejati na 200\u00b0C.\nKiflice premazati me\u0161avinom \u017eumanceta i mleka i posuti ih susamom.\nPe\u0107i kiflice 15-20 minuta."
+        },
+        {
+            "@language": "sr",
+            "@value": "U vanglicu sipati mlako mleko, dodati \u0161e\u0107er, kvasac i ka\u0161iku bra\u0161na prome\u0161ati prekriti krpom i ostaviti 5 minuta da odstoji.\nU nado\u0161ao kvasac sipati ulje, bra\u0161no i so. Zamesiti glatko testo. Testo ostaviti da udupla masu.\nPremesiti i podeliti na 2 dela."
+        }
+    ],
+    "recipeYield": {
+        "@language": "sr",
+        "@value": "\n\t\t\t\t\t10 osoba\n\t\t\t\t"
+    },
+    "totalTime": {
+        "@language": "sr",
+        "@value": "PT90M"
+    },
+    "@id": "http://example.org/recipe"
+}

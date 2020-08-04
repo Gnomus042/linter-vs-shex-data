@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "sv",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "sv",
+            "@value": "35"
+        },
+        "ratingValue": {
+            "@language": "sv",
+            "@value": "2.83"
+        },
+        "worstRating": {
+            "@language": "sv",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "sv",
+        "@value": "Av Monika Ahlberg"
+    },
+    "container": {
+        "@language": "sv",
+        "@value": "Gott till gl\u00f6ggen eller som snapas.Ber\u00e4knas f\u00f6r ca 6 personer."
+    },
+    "image": {
+        "@language": "sv",
+        "@value": "https://img.koket.se/microdata/dadlar-med-bacon-och-mandel.jpg"
+    },
+    "name": {
+        "@language": "sv",
+        "@value": "Dadlar med bacon och mandel"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "sv",
+            "@value": "16  dadlar"
+        },
+        {
+            "@language": "sv",
+            "@value": "16  s\u00f6tmandlar, sk\u00e5llade rostade"
+        },
+        {
+            "@language": "sv",
+            "@value": "8 skivor bacon"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "sv",
+        "@value": "S\u00e4tt ugnen p\u00e5 225 garder. Snitta dadlarna p\u00e5 l\u00e4ngden och k\u00e4rna ur dem. Rosta mandlarna i en torr inte alltf\u00f6r het panna. Stoppa in en mandel i varje dadel. Vira en halv baconskiva runt varje dadel.\nBaka i 225\u00b0 varm ugn i ca 10 minuter tills baconet \u00e4r knaprigt och servera p\u00e5 fat eller liten snapasgaffel."
+    },
+    "@id": "http://example.org/recipe"
+}

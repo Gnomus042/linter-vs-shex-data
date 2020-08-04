@@ -1,0 +1,66 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@value": "PT60M"
+    },
+    "image": {
+        "@value": "https://assets.afcdn.com/skins/8/recettes/images/default-recipe-picture_80x80.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1 1/2 kg \u00c4pfel"
+        },
+        {
+            "@value": "Null"
+        },
+        {
+            "@value": "100 g Zucker"
+        },
+        {
+            "@value": "20 g Speisest\u00e4rke"
+        },
+        {
+            "@value": "5 E\u00dfl. Zucker"
+        },
+        {
+            "@value": "300 g Mandelbl\u00e4ttchen"
+        },
+        {
+            "@value": "250 g Sahne"
+        },
+        {
+            "@value": "800 g Milch"
+        },
+        {
+            "@value": "2 Eigelb"
+        },
+        {
+            "@value": "Lasagneplatten (soviel wie n\u00f6tig)"
+        },
+        {
+            "@value": "2 Eiwei\u00dfe"
+        },
+        {
+            "@value": "2 P\u00e4ckchen Vanillepudding"
+        }
+    ],
+    "name": {
+        "@value": "Apfellasagne"
+    },
+    "prepTime": {
+        "@value": "PT30M"
+    },
+    "recipeInstructions": {
+        "@value": "1-Milch zum Kochen bringen, Vanillepulver mit dem Zucker und der Speisest\u00e4rke anr\u00fchren, in die \nkochende Milch geben, aufkochen, dann kalt stellen.\n\n2- \u00c4pfel sch\u00e4len, grob raspeln oder in kleinere W\u00fcrfel schneiden, mit etwas Zitronensaft und Wasser kurz and\u00fcnsten. Mandelbl\u00e4ttchen mit etwas Butter und Zucker in einer Pfanne anbr\u00e4unen.\n\n3- Sahne steif schlagen, Eiwei\u00dfe mit 2 EL Zucker steif schlagen und die 2 Eigelbe mit 3 EL Zucker schaumig r\u00fchren. \nDen abgek\u00fchlten Pudding nochmals kurz durchr\u00fchren, Sahne, Eigelb und Eiwei\u00df vorsichtig unterheben.\n\n4- Eine Auflaufform mit Margarine ausfetten, dann zuerst die \u00c4pfel (evtl.Rosinen) einschichten, dann abwechselt Puddingmasse, Mandelbl\u00e4ttchen, Lasagnebl\u00e4tter...\nSo oft wiederholen bis die Masse aufgebraucht ist. Den Abschluss bilden Puddingmasse und Mandelbl\u00e4ttchen.\n\n5 - Bei 175-180\u00b0C im vorgeheizten Backofen zugedeckt 35-40 Min. backen, dann nochmal 15 Min. ohne Deckel."
+    },
+    "recipeYield": {
+        "@value": "10 10"
+    },
+    "totalTime": {
+        "@value": "PT90M"
+    },
+    "url": {
+        "@value": "https://kochen.gofeminin.de/rezepte/rezept_apfellasagne_198433.aspx"
+    },
+    "@id": "http://example.org/recipe"
+}

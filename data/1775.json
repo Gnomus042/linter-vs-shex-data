@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT8M"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "This is a quick and easy, delicious dinner that is perfect for busy weeknights."
+    },
+    "image": {
+        "@id": "https://www.recipeboy.com/wp-content/uploads/2018/08/Shrimp-5-280x280.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "Kosher salt and freshly ground black pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon or more finely chopped fresh rosemary"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 large cloves garlic, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 pounds medium shrimp, peeled and de-veined"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Easy Baked Garlic Shrimp"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT15M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n \tPreheat your oven to 400 degrees F.\u00a0 Line a large, rimmed baking sheet with parchment paper.\n \tPlace shrimp in a large bowl and toss with olive oil and garlic.\n \tSpread the shrimp out onto the prepared pan.\u00a0 It's okay if they are snuggled next to each other.\u00a0 Sprinkle with rosemary, salt and pepper.\n \tBake for 8 to 10 minutes, depending on the size of your shrimp.\u00a0 The shrimp will curl up and turn pink when done.\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

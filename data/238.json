@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "tr",
+        "@value": "Makrot nas\u0131l yap\u0131l\u0131r ?  Tarifin p\u00fcf noktalar\u0131, binlerce yemek tarifi ve daha fazlas\u0131..."
+    },
+    "image": {
+        "@id": "https://www.mutfaksirlari.com/wp-content/uploads/2009/05/makrot.jpg"
+    },
+    "name": {
+        "@language": "tr",
+        "@value": "\n\t\t\t\tMakrot\t\t\t"
+    },
+    "recipeCuisine": {
+        "@language": "tr",
+        "@value": "Turkish Cuisine"
+    },
+    "@id": "http://example.org/recipe"
+}

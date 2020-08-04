@@ -1,0 +1,113 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en",
+            "@value": "2.7"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "3"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://i.cdn.pp.ua/25/25/c/user/0/000/000/e59/18115503231.png"
+        },
+        "name": {
+            "@language": "en",
+            "@value": "\n\n\u043d\u0438\u043a\u0438\u0442\u0430 \n"
+        },
+        "url": {
+            "@id": "https://4cook.net/en/user/9/"
+        }
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2015-04-21 20:42:52"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\nThere is nothing more delicious and home than the cakes with eggs and green onions. In the season of fresh greens I offer to cook, not only tasty, but also useful cake with green onions and eggs. Yes, with hot broth or soup! Song, and more! And it is possible, and just like that, too, very well. Try it! "
+    },
+    "image": {
+        "@type": "ImageObject",
+        "contentUrl": {
+            "@id": "https://i.cdn.pp.ua/750/450/c/a/0/000/004/a91/57220739858.jpeg"
+        },
+        "name": {
+            "@language": "en",
+            "@value": "Tart with eggs and green onion"
+        },
+        "url": {
+            "@id": "https://i.cdn.pp.ua/750/450/c/a/0/000/004/a91/57220739858.jpeg"
+        }
+    },
+    "recipeCategory": {
+        "@id": "https://4cook.net/en/category/11-baking/"
+    },
+    "recipeIngredient": [
+        {
+            "@id": "https://4cook.net/en/ingredients/17-sour-cream/"
+        },
+        {
+            "@id": "https://4cook.net/en/ingredients/47-chicken-egg/"
+        },
+        {
+            "@id": "https://4cook.net/en/ingredients/48-wheat-flour/"
+        },
+        {
+            "@id": "https://4cook.net/en/ingredients/63-green-onions/"
+        },
+        {
+            "@id": "https://4cook.net/en/ingredients/79-baking-soda/"
+        },
+        {
+            "@id": "https://4cook.net/en/ingredients/9-salt/"
+        },
+        {
+            "@id": "https://4cook.net/en/ingredients/88-mayonnaise/"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\n1\nBeat eggs with salt. Add the sour cream and mayonnaise. Mix.\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n4\npour half of the dough into a greased bowl or Multivarki vypechki.Vykladyvaem form filling and top distribute the rest of the dough.\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n6\nBake in the oven for about 30 minut.Vkusny useful pie with eggs and green onion can bring to the table.\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n3\nFor stuffing cut the boiled eggs, green onions. Season with salt and stir.\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n5\nPrepare cake with eggs and green onion on mode \"Baking\" 50 minutes. For 5-7 minutes before the end of the cake can be perevernut.Gotovy cake is taken out by a steaming bowl steamed. Let cool.\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n2\nAdd baking soda and flour. Knead the dough.\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "6"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n40 min "
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,21 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@value": "Broiled Lobster"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Melt 1/4 pound butter, then add 1 tablespoon lemon juice and 2 medium pods\npressed garlic. Simmer for 5 minutes."
+        },
+        {
+            "@value": "Garnish with very thin slices of lemon and fresh sprigs of parsley."
+        },
+        {
+            "@value": "Cut the raw meat from the shell of the tail, but do not remove. Discard\nthe \"apron\" which protects the belly."
+        },
+        {
+            "@value": "Pour butter sauce over lobster tails and bake at 300 degrees F until meat\nis tender."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

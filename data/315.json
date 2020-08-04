@@ -1,0 +1,54 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "en-US",
+        "@value": "https://noblepig.com/site/wp-content/uploads/2012/01/Slow-Cooker-Super-Saucy-Chicken-over-Angel-Hair-Pasta-2-125x125.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "16 ounces sliced mushrooms, button or shitake"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cans condensed golden mushroom soup*"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 lbs angel hair pasta"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup dry white wine"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (8 oz) tub chive and onion cream cheese"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 Tablespoons butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (0.7 oz) package dry Italian dressing mix"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 lbs skinless boneless chicken breasts"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Slow Cooked Super Saucy Chicken over Angel Hair Pasta"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\tPlace sliced mushrooms in the bottom of the slow cooker.  Place chicken breasts over the mushrooms.\nMelt butter in a saucepan over low heat.  Stir in Italian dressing packet until fully incorporated.  Add soup, wine and cream cheese until fully combined and cream cheese has melted.  Pour sauce over chicken and mushrooms in the slow cooker.\nSet slow-cooker on low for 5 hours.  Before serving, remove chicken and coarsely slice.  Place chicken back in the slow cooker to absorb all the sauce.\nMake angel hair according to package directions and serve with saucy chicken on top.  \n*If you would like to make a homemade version, their is a link above to a homemade recipe.\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6-8"
+    },
+    "@id": "http://example.org/recipe"
+}

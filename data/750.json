@@ -1,0 +1,86 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-US",
+        "@value": "Just because it's summer doesn't mean soup season is over! This light corn chowder is stuffed with summer vegetables and fresh clean flavors, and topped with a dollop of chive-infused ricotta for a hint of indulgence."
+    },
+    "image": {
+        "@id": "https://joanne-eatswellwithothers.com/wp-content/uploads/2014/08/summer-vegetable-corn-chowder-with-chive-ricotta.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 cup ricotta"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd lb yukon gold potatoes, peeled and cut into \u00bd-inch dice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 ears corn"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 cups vegetable broth"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 onion, diced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup chives, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 red bell pepper, diced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "5 sprigs of thyme"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp kosher salt, plus more to taste"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Summer Vegetable Corn Chowder with Chive Ricotta"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "servingSize": {
+            "@language": "en-US",
+            "@value": "1 bowl"
+        }
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Meanwhile, in a small bowl, stir together the ricotta and chives."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add the thyme and vegetable broth to the pot, scraping the bottom of the pot to pull up any brown bits. Bring to a boil and then simmer, covered, for 20 minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large pot over medium heat, melt the butter. Add the onions to the pot and saute for 3-4 minutes, or until tender. Add the salt, potatoes, bell pepper and corn kernels to the pot. Saute for 4-5 minutes, stirring frequently."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Season soup to taste with salt and black pepper. Remove the thyme sprigs before serving. Divide the soup evenly among four bowls and top each with a dollop of ricotta."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4-5 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

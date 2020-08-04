@@ -1,0 +1,63 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "13"
+        },
+        "ratingValue": {
+            "@value": "2,8"
+        },
+        "worstRating": {
+            "@value": "0.5"
+        }
+    },
+    "author": {
+        "@value": "Wenche Andersen"
+    },
+    "cookTime": {
+        "@value": "PT180M"
+    },
+    "description": {
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "http://static.klikk.no/recipe/2008.08.27/5057610ad05abede063dfd03/039704_BIG.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\n4\u00a0stk\n\nspeke sild/kryddersildfilet\n"
+        },
+        {
+            "@value": "\n\u00a0\n\nsalt\n"
+        },
+        {
+            "@value": "\n2\u00a0stk\n\neple\n"
+        },
+        {
+            "@value": "\n1\u00a0stk\n\nliten l\u00f8k\n"
+        },
+        {
+            "@value": "\n1,5\u00a0dl\n\nlettr\u00f8mme\n"
+        },
+        {
+            "@value": "\n\u00a0\n\npepper\n"
+        },
+        {
+            "@value": "\n4\u00a0skiver\n\nsyltet r\u00f8dbet\n"
+        },
+        {
+            "@value": "\n4\u00a0ss\n\nr\u00f8dbetlake\n"
+        }
+    ],
+    "name": {
+        "@value": "Sildesalat"
+    },
+    "recipeInstructions": {
+        "@value": "Hvis silden er salt legg den i skummet melk 1-2 timer. Skj\u00e6r epler og r\u00f8dbeter i terninger og finhakk l\u00f8ken. Bland alt i r\u00f8mmen og smak til med r\u00f8dbetelake, salt og pepper. La salaten st\u00e5 og trekke i v\u00e6relsestemperatur ca.1 time. Server ev med hardkokte egg."
+    },
+    "@id": "http://example.org/recipe"
+}

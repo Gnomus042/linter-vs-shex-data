@@ -1,0 +1,170 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "no",
+            "@value": "3"
+        },
+        "reviewCount": {
+            "@language": "no",
+            "@value": "6"
+        }
+    },
+    "cookTime": {
+        "@language": "no",
+        "@value": "PT40M"
+    },
+    "datePublished": {
+        "@language": "no",
+        "@value": "2018-07-03"
+    },
+    "description": {
+        "@language": "no",
+        "@value": "En enkel men smaksrik krabbesuppe som kan nytes \u00e5ret rundt."
+    },
+    "image": {
+        "@language": "no",
+        "@value": "https://krabbe.no/dynamic/imager/dynamic/upload/bilder/1444/557406eb184f2eebec25238e1503589a.jpg"
+    },
+    "name": {
+        "@language": "no",
+        "@value": "Skalldyrsuppe med krabbe"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "recipeCategory": {
+        "@language": "no",
+        "@value": "Kos"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "no",
+            "@value": "200 g Fl\u00f8te"
+        },
+        {
+            "@language": "no",
+            "@value": "1 stk L\u00f8k"
+        },
+        {
+            "@language": "no",
+            "@value": "  Salt"
+        },
+        {
+            "@language": "no",
+            "@value": "  Pepper"
+        },
+        {
+            "@language": "no",
+            "@value": "1.7 l Vann"
+        },
+        {
+            "@language": "no",
+            "@value": "1 stk Fennikel, tynne skiver"
+        },
+        {
+            "@language": "no",
+            "@value": "2 ts Ingef\u00e6r"
+        },
+        {
+            "@language": "no",
+            "@value": "2 stk Tomater"
+        },
+        {
+            "@language": "no",
+            "@value": "  Kj\u00f8rvel"
+        },
+        {
+            "@language": "no",
+            "@value": "1 stk Gulerot"
+        },
+        {
+            "@language": "no",
+            "@value": "0.5 stk Fennikel"
+        },
+        {
+            "@language": "no",
+            "@value": "2 dl Hvitvin"
+        },
+        {
+            "@language": "no",
+            "@value": "  Olivenolje"
+        },
+        {
+            "@language": "no",
+            "@value": "  Sitron"
+        },
+        {
+            "@language": "no",
+            "@value": "3 stk Stangselleristenger, sk\u00e5ret tynt"
+        },
+        {
+            "@language": "no",
+            "@value": "500 g Rekeskall"
+        },
+        {
+            "@language": "no",
+            "@value": "2 stk Gulerot, staver"
+        },
+        {
+            "@language": "no",
+            "@value": "3 ss Tomatpur\u00e8"
+        },
+        {
+            "@language": "no",
+            "@value": "  Krabbeklokj\u00f8tt"
+        },
+        {
+            "@language": "no",
+            "@value": "1 stk Loff (eller annet lyst br\u00f8d)"
+        },
+        {
+            "@language": "no",
+            "@value": "3 stk Stangselleristenger"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "no",
+            "@value": "Tilsett vann, kok opp og la det hele trekke i ca. 20 minutter."
+        },
+        {
+            "@language": "no",
+            "@value": "Grovhakk alle gr\u00f8nnsakene. Tilsett gr\u00f8nnsaker og rekeskall i en dypbunnet kasserolle. Fres dette blankt (ca 2 minutter). Tilsett tomatpur\u00e9 og brun i ytterligere 2 minutter."
+        },
+        {
+            "@language": "no",
+            "@value": "Trekk kasserollen til siden, og kj\u00f8r suppen med en stavmikser."
+        },
+        {
+            "@language": "no",
+            "@value": "Tilsett hvitvin og reduser hvitvinen til det er igjen 20%."
+        },
+        {
+            "@language": "no",
+            "@value": "Skj\u00e6r vekk all skorpe fra loffen. Skj\u00e6r den s\u00e5 i mindre biter ca. 2x2 cm kuber. Vend dem inn med olivenolje, salt og pepper. Bak krutongene p\u00e5 160 grader i ca 12 minutter. R\u00f8r litt i dem hvert 4 minutt. De skal v\u00e6re spr\u00f8 og gyllen."
+        },
+        {
+            "@language": "no",
+            "@value": "Vend oppsk\u00e5rede gr\u00f8nnsaker i olivenolje, salt og sitron. La de ligge i blandingen i 1 minutt. Legg dem over p\u00e5 kj\u00f8kkenpapir."
+        },
+        {
+            "@language": "no",
+            "@value": "Anrett  gr\u00f8nnsakene i suppesk\u00e5l med rikelig med kokt krabbekj\u00f8tt fra kl\u00f8r. Hell over med suppe. Serveres med br\u00f8dkrutonger og kj\u00f8rvel."
+        },
+        {
+            "@language": "no",
+            "@value": "Sil minimum 2 ganger. Dette er for \u00e5 skille ut det groveste av rekeskallet. Ha s\u00e5 tilbake i en ren kjele. Kok opp og smak til med salt og sitron."
+        }
+    ],
+    "recipeYield": {
+        "@language": "no",
+        "@value": "4 Porsjoner"
+    },
+    "totalTime": {
+        "@language": "no",
+        "@value": "PT40M"
+    },
+    "@id": "http://example.org/recipe"
+}

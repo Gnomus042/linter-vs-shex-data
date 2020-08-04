@@ -1,0 +1,172 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "ro",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "ro",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "ro",
+        "@value": "LUK"
+    },
+    "datePublished": {
+        "@language": "ro",
+        "@value": "2011-08-08"
+    },
+    "description": {
+        "@language": "ro",
+        "@value": " Haideti sa vedem cum se prepara aceasta delicioasa  negresa      Mixam bine ouale cu zaharul si cu un praf de sare pana cand isi dubleaza volumul.Adaugam apoi uleiul si mixam in continuare.Punem si gemul si amestecam usor.Turnam si laptele si amestecam.Incorporam cacao si praful de copt in faina apoi o turnam usor peste compozitia lichida.Omogenizam.    Ungem o tava cu unt si turnam compozitia.Coacem cca 40min in cuptorul preincalzit la 150 de grade(foc mediu).Inainte de portionare lasati  negresa  sa se raceasca. "
+    },
+    "image": {
+        "@id": "https://www.bucataras.ro/retete/negresa-a-la-miha-24189.html//uploads/modules/news/24189/656x440_negresa-a-la-miha-119738.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ro",
+            "@value": "putina sare"
+        },
+        {
+            "@language": "ro",
+            "@value": "200ml lapte"
+        },
+        {
+            "@language": "ro",
+            "@value": "150gr zahar"
+        },
+        {
+            "@language": "ro",
+            "@value": "3 linguri gem(de care va place)"
+        },
+        {
+            "@language": "ro",
+            "@value": "250gr faina"
+        },
+        {
+            "@language": "ro",
+            "@value": "2 oua"
+        },
+        {
+            "@language": "ro",
+            "@value": "1 praf de copt"
+        },
+        {
+            "@language": "ro",
+            "@value": "100ml ulei"
+        },
+        {
+            "@language": "ro",
+            "@value": "3 linguri de cacao"
+        }
+    ],
+    "keywords": {
+        "@language": "ro",
+        "@value": "prajitura,negresa,"
+    },
+    "name": {
+        "@language": "ro",
+        "@value": "Negresa a la Miha"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ro",
+            "@value": "172"
+        }
+    },
+    "recipeCategory": {
+        "@language": "ro",
+        "@value": "Prajituri"
+    },
+    "recipeCuisine": {
+        "@language": "ro",
+        "@value": "Romania"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ro",
+            "@value": "\n    100ml ulei"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    3 linguri gem(de care va place)"
+        },
+        {
+            "@language": "ro",
+            "@value": "Null"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    3 linguri de cacao"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    putina sare"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    2 oua"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1 praf de copt"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    250gr faina"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    200ml lapte"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    150gr zahar"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ro",
+        "@value": " Haideti sa vedem cum se prepara aceasta delicioasa  negresa      Mixam bine ouale cu zaharul si cu un praf de sare pana cand isi dubleaza volumul.Adaugam apoi uleiul si mixam in continuare.Punem si gemul si amestecam usor.Turnam si laptele si amestecam.Incorporam cacao si praful de copt in faina apoi o turnam usor peste compozitia lichida.Omogenizam.    Ungem o tava cu unt si turnam compozitia.Coacem cca 40min in cuptorul preincalzit la 150 de grade(foc mediu).Inainte de portionare lasati  negresa  sa se raceasca. "
+    },
+    "recipeYield": {
+        "@language": "ro",
+        "@value": "1 portii"
+    },
+    "totalTime": {
+        "@language": "ro",
+        "@value": "PT60M"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "ro",
+            "@value": " Haideti sa vedem cum se prepara aceasta delicioasa  negresa      Mixam bine ouale cu zaharul si cu un praf de sare pana cand isi dubleaza volumul.Adaugam apoi uleiul si mixam in continuare.Punem si gemul si amestecam usor.Turnam si laptele si amestecam.Incorporam cacao si praful de copt in faina apoi o turnam usor peste compozitia lichida.Omogenizam.    Ungem o tava cu unt si turnam compozitia.Coacem cca 40min in cuptorul preincalzit la 150 de grade(foc mediu).Inainte de portionare lasati  negresa  sa se raceasca. "
+        },
+        "name": {
+            "@language": "ro",
+            "@value": "Negresa a la Miha"
+        },
+        "thumbnailURL": {
+            "@language": "ro",
+            "@value": "https://www.bucataras.ro/uploads/modules/news/24189/656x440_negresa-a-la-miha-119738.jpg"
+        },
+        "uploadDate": {
+            "@language": "ro",
+            "@value": "2011-08-08 22:38:02"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

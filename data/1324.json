@@ -1,0 +1,61 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "de",
+        "@value": "www.spirituosenworld.de"
+    },
+    "cookTime": {
+        "@language": "de",
+        "@value": "PT1M"
+    },
+    "description": {
+        "@language": "de",
+        "@value": "Der White Russian ist ein leckerer, s\u00fc\u00dfer Shortdrink, der die Herzen von Kaffeefans h\u00f6her schlagen l\u00e4sst. Bestehend aus einem Kaffeelik\u00f6r, Wodka und Sahne wird der s\u00fc\u00df-cremige Cocktail gern als After-Dinner-Drink gereicht. Erste Erw\u00e4hnung fand der White Russian im Jahr 1965 in einer Werbeanzeige des Spirituosenherstellers Southern Comfort, der daf\u00fcr seinen Kaffeelik\u00f6r empfahl. F\u00fcr weitere Bekanntheit sorgte 1998 der Spielfilm The Big Lebowski, in dem sich die Hauptfigur mit dem Genuss vom White Russian den Tag vertreibt."
+    },
+    "image": {
+        "@id": "https://spirituosenworld.de/images/cocktails/white-russian-shortdrink-2019.jpg"
+    },
+    "keywords": {
+        "@language": "de",
+        "@value": "White Russian, Shortdrink, Wodka, Lik\u00f6r"
+    },
+    "name": {
+        "@language": "de",
+        "@value": "White Russian Cocktailrezept"
+    },
+    "prepTime": {
+        "@language": "de",
+        "@value": "PT1M"
+    },
+    "recipeCategory": {
+        "@language": "de",
+        "@value": "Shortdrink"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "de",
+            "@value": "Eisw\u00fcrfel"
+        },
+        {
+            "@language": "de",
+            "@value": "Wodka (4 cl)"
+        },
+        {
+            "@language": "de",
+            "@value": "Kahlua (2 cl)"
+        },
+        {
+            "@language": "de",
+            "@value": "Sahne"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "de",
+        "@value": "Den Wodka und Kahlua im R\u00fchrglas mit Eisw\u00fcrfeln vermischen und in einen Tumbler abgie\u00dfen. Anschlie\u00dfend die zuvor leicht geschlagene Sahne in den Russen einarbeiten.Bei der Zubereitung des White Russian gibt es mehrere Variationen: Die Sahne kann ungeschlagen hinzugegeben werden oder durch Milch ersetzt werden. Des Weiteren gibt es Rezepte mit crushed ice oder es wird bei der Zubereitung g\u00e4nzlich auf Eis verzichtet, um den Cocktail nicht zu verw\u00e4ssern. In diesem Fall empfehlen wir, den White Russian im vorgek\u00fchlten Glas zu reichen."
+    },
+    "recipeYield": {
+        "@language": "de",
+        "@value": "1 Drink"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2016-06-13 15:57:22"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "A delicious mix of bananas, strawberries and nut butter is the perfect filling for whole wheat crepes. For quicker morning preparation, the crepes batter can be made the day before and refrigerated.\n"
+    },
+    "image": {
+        "@id": "https://fruits.com/wp-content/uploads/2016/06/Banana_Strawberry_Nut_Butter_Crepes_500.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "4 Del Monte\u00ae bananas"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 container strawberries"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Dairy/Eggs \u00be cup non\u00adfat milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Brown sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Margarine"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Whole wheat flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 large eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Herbs/Dressings/Oils/Baking Almond butter"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Banana Strawberry Nut Butter Crepes"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tMix flour, salt, eggs, \u00be cup milk and canola oil in a food processor, blender or mixer until smooth. Place batter in a bowl\u037e cover and refrigerate at least 30 minutes. Clean out food processor or blender\u037e add 2 bananas, almond butter and remaining 2 Tbsp milk\u037e process until smooth. (Or mash bananas by hand and mix with almond butter and milk.) Transfer to a small bowl.\t\t\t\tCoat a 9\u00ad12\u201d non\u00adstick skillet (or crepe pan) with cooking spray and heat over medium flame. Ladle about 2\u00ad3 Tbsp of batter into skillet, then tilt pan to spread batter. Cook crepe until edges start to crisp (about 1 minute), then flip with a spatula and cook about 30 more seconds\u037e remove from pan. Repeat with remaining batter, coating skillet with cooking spray as needed.\t\t\t\tSlice remaining 2 bananas and strawberries. Set strawberries aside. Melt margarine in non\u00adstick skillet, add bananas and\t\t\t\tbrown sugar. Stirring gently, cook about 3\u00ad4 minutes, until brown sugar is dissolved. Remove from heat.\t\t\t\tTo assemble, spread about 1 Tbsp banana \u00adnut butter mixture on crepe, add 1/8 of banana and strawberry slices. Roll up or fold crepe.\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

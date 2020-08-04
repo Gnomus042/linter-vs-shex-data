@@ -1,0 +1,71 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "\u9ad8\u57ce\u9806\u5b50"
+    },
+    "description": {
+        "@value": "\n    \u5375\u713c\u304d\u306b\u660e\u592a\u5b50\u3068\u3048\u306e\u304d\u3060\u3051\u3092\u306e\u305b\u3066\u84b8\u3057\u713c\u304d\u306b\u3057\u307e\u3057\u305f\u3002\u660e\u592a\u5b50\u306b\u706b\u3092\u901a\u3057\u3059\u304e\u306a\u3044\u3088\u3046\u306b\u6ce8\u610f\u3057\u3066\u3002\n  "
+    },
+    "image": {
+        "@id": "https://production-orp.s3.amazonaws.com/uploads/recipes/image/0000100395/20131003142415_w300hf.jpg"
+    },
+    "keywords": {
+        "@value": "\u5375,\u660e\u592a\u5b50,\u3048\u306e\u304d"
+    },
+    "name": {
+        "@value": "\u660e\u592a\u5b50\u5375"
+    },
+    "recipeCategory": {
+        "@value": "\u526f\u83dc"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\u3048\u306e\u304d\u3060\u3051\u30001/2\u682a"
+        },
+        {
+            "@value": "\u8f9b\u5b50\u660e\u592a\u5b50\u30001/2\u306f\u3089"
+        },
+        {
+            "@value": "\u30af\u30ec\u30bd\u30f3\u3000\u9069\u5b9c"
+        },
+        {
+            "@value": "\u30b3\u30b7\u30e7\u30a6\u3000\u5c11\u3005"
+        },
+        {
+            "@value": "\u5375\u30004\u500b"
+        },
+        {
+            "@value": "\u30b5\u30e9\u30c0\u6cb9\u3000\u5927\u3055\u30581/2"
+        },
+        {
+            "@value": "\u5869\u3000\u5c0f\u3055\u30581/4"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n  \n    \n      \u4f5c\u308a\u65b9\n      \n        \n          \n            \n            \u30dc\u30fc\u30eb\u306b\u5375\u3092\u5272\u308a\u307b\u3050\u3057\u3001\u5869\u3001\u30b3\u30b7\u30e7\u30a6\u3067\u8abf\u5473\u3059\u308b\u3002\n          \n        \n        \n          \n            \n            \u8f9b\u5b50\u660e\u592a\u5b50\u306f1cm\u5e45\u306b\u5207\u308b\u3002\n          \n        \n        \n          \n            \n            \u3048\u306e\u304d\u3060\u3051\u306f\u77f3\u3065\u304d\u3092\u5207\u308a\u843d\u3068\u3057\u3001\u5c0f\u623f\u306b\u5206\u3051\u308b\u3002\n          \n        \n        \n          \n            \n            \u30d5\u30e9\u30a4\u30d1\u30f3\u306b\u30b5\u30e9\u30c0\u6cb9\u3092\u71b1\u3057\u3066\u5375\u3092\u4e00\u5ea6\u306b\u6d41\u3057\u5165\u308c\u3001\u3056\u3063\u304f\u308a\u3068\u6df7\u305c\u3066\u5e73\u3089\u306b\u306a\u3089\u3057\u305f\u3042\u3068\u3001\u4e0a\u306b\u3048\u306e\u304d\u3060\u3051\u3068\u660e\u592a\u5b50\u3092\u6563\u3089\u3057\u3001\u3075\u305f\u3092\u3057\u3066\u5f31\u706b\u3067\u3055\u3063\u3068\u84b8\u3057\u713c\u304d\u306b\u3059\u308b\u3002\u5207\u308a\u5206\u3051\u3066\u5668\u306b\u76db\u308a\u3001\u30af\u30ec\u30bd\u30f3\u3092\u98fe\u308b\u3002\n          \n        \n    \n    \n      \u30ec\u30b7\u30d4\u63b2\u8f09\u65e5\uff1a1986.4.2\n    \n  \n"
+    },
+    "step": {
+        "@type": "HowToSection",
+        "itemListElement": [
+            {
+                "@id": "_:N79db32738b6c44488a477af855c7e8af"
+            },
+            {
+                "@id": "_:Ncffcb98c611f4e09872f81ce90522dcf"
+            },
+            {
+                "@id": "_:Nd995c6bae0f149fd9212d017ca53a059"
+            },
+            {
+                "@id": "_:N21e78d433ce34cdb877b29a78e55fa3f"
+            }
+        ],
+        "name": {
+            "@value": "\u4f5c\u308a\u65b9"
+        },
+        "position": {
+            "@value": "1"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

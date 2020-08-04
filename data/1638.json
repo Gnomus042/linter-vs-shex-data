@@ -1,0 +1,12 @@
+{
+    "@type": "Recipe",
+    "image": [
+        {
+            "@id": "https://www.deerrecipes.online/mable-toups-venison-spaghetti/data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "@id": "http://www.deerrecipes.online/wp-content/uploads/2017/09/Deer-Recipes-Spaghetti.jpg"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

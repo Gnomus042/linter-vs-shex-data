@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "da",
+        "@value": "2017-09-09T05:27:12"
+    },
+    "image": {
+        "@id": "https://www.rosekylling.dk/opskrifter/407/stegte-kylling-underlar-med-mild-harissa//Static/Images/ffffff-0.png?preset=roseRecipe"
+    },
+    "name": {
+        "@language": "da",
+        "@value": "Stegte underl\u00e5r med mild harissa"
+    },
+    "recipeInstructions": {
+        "@language": "da",
+        "@value": "\n                                \nSaut\u00e9r gr\u00f8nsagerne indtil de er glasklare. \nResten af ingredienserne tils\u00e6ttes og reduceres ned til halvdelen. \nMassen blendes grundigt og smages evt. til med lidt citronsaft og stilles p\u00e5 k\u00f8l.\nKyllingel\u00e5rene vendes i ca. 4 spsk. harissa og str\u00f8s med lidt salt. \nBages ved 200 \u00baC cirka 35 minutter.\u00a0\nOlivenolie, hvidl\u00f8g, l\u00f8vstikke og purl\u00f8g blandes og asparges, hjertesalat og slik\u00e6rter blandes i. \nSserveres evt. med rugbr\u00f8d og ekstra harissa.\u00a0\n\n                            "
+    },
+    "@id": "http://example.org/recipe"
+}

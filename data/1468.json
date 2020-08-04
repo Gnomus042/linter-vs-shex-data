@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "it",
+        "@value": "Xiangshang Car Parts Store"
+    },
+    "brand": {
+        "@language": "it",
+        "@value": "vnv.me"
+    },
+    "image": {
+        "@language": "it",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/H90e3d947f0df4afba3e76b010d49a548R/Adatto-per-Nissan-Pathfinder-Armada-Sport-Utility-2005-2006-2014-25-24-pollici-Posteriore-Hatch-Boot.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "it",
+            "@value": "32743989789"
+        },
+        {
+            "@language": "it",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "it",
+        "@value": "Adatto per Nissan Pathfinder Armada Sport Utility 2005 2006-2014 25.24 pollici Posteriore Hatch Boot Gas Ascensore Supporta Prop asta Braccio Urti"
+    },
+    "@id": "http://example.org/recipe"
+}

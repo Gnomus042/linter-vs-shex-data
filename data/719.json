@@ -1,0 +1,77 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "it",
+        "@value": "\n                                                            50\n                                                    "
+    },
+    "image": {
+        "@id": "http://www.fnstatic.it/images/content/recipe/ricotta-orange-cheesecake-jpeg.jpeg"
+    },
+    "ingredients": [
+        {
+            "@language": "it",
+            "@value": "1 tazza di panna da montare, molto fredda"
+        },
+        {
+            "@language": "it",
+            "@value": "Una tavoletta da 100g di cioccolato fondente"
+        },
+        {
+            "@language": "it",
+            "@value": "Scorza di 2 arance (circa 1 cucchiaio)"
+        },
+        {
+            "@language": "it",
+            "@value": "Sale fino"
+        },
+        {
+            "@language": "it",
+            "@value": "1 panetto di burro, fuso"
+        },
+        {
+            "@language": "it",
+            "@value": "6 uova, leggermente sbattute"
+        },
+        {
+            "@language": "it",
+            "@value": "1 \u00bc tazza di zucchero semolato"
+        },
+        {
+            "@language": "it",
+            "@value": "3 cucchiai di zucchero a velo"
+        },
+        {
+            "@language": "it",
+            "@value": "2 cucchiaini di estratto puro di vaniglia"
+        },
+        {
+            "@language": "it",
+            "@value": "2 \u00bd tazze di biscotti tritati finemente (circa 18 biscotti)"
+        },
+        {
+            "@language": "it",
+            "@value": "\u00bd cucchiaino di estratto di mandorle"
+        },
+        {
+            "@language": "it",
+            "@value": "900g di ricotta di latte fresco intero"
+        }
+    ],
+    "name": {
+        "@language": "it",
+        "@value": "\n                                    Cheesecake alla ricotta e arancia\n                                "
+    },
+    "prepTime": {
+        "@language": "it",
+        "@value": "\n                                                            25\n                                                    "
+    },
+    "recipeInstructions": {
+        "@language": "it",
+        "@value": "\n                                                Inserire la teglia al centro del forno e preriscaldare a 160\u00b0C. Stendere la carta stagnola sulla base della tortiera. Portare a ebollizione un pentolino d\u0092acqua e mantenerla calda. Schiacciare la ricotta in un colino sopra un\u0092ampia ciotola finch\u00e9 non sar\u00e0 ben asciutta.Spazzolare con un po\u0092 di burro fuso l\u0092interno della tortiera. Amalgamare i biscotti tritati, il burro fuso rimanente, \u00bc di tazza di zucchero semolato e \u00bc di cucchiaino di sale. Premere con forza l\u0092impasto sulla base della tortiera fino a ricoprire anche parte dei bordi. Cuocere finch\u00e9 non sar\u00e0 dorato, circa 15 minuti. Mettere la tortiera su una teglia per farla raffreddare. Alzare la temperatura del forno a 175\u00b0C.Battere la ricotta, la tazza rimanente di zucchero semolato, la vaniglia, l\u0092estratto di mandorle e la scorza d\u0092arancia in una ciotola di robot da cucina a velocit\u00e0 media finch\u00e9 non sar\u00e0 ben amalgamato. Aggiungere le uova finch\u00e9 non saranno ben integrate, fare attenzione a non sbattere troppo l\u0092impasto. Versare la miscela sopra la base raffreddata e riporre la tortiera in un\u0092ampia teglia per arrosto. Collocare la teglia al centro del forno e versare delicatamente al suo interno l\u0092acqua calda fino a raggiungere il livello di met\u00e0 della tortiera. Cuocere fino a che non sar\u00e0 cotta e leggermente dorata, per 1 ora e 35 minuti. La farcitura dovrebbe essere vaporosa ai bordi e pi\u00f9 soffice nel centro. Rimuovere delicatamente la teglia per arrosto dal forno e trasferire immediatamente la cheesecake su una teglia per farla raffreddare del tutto. Depositare in frigorifero per almeno 2 ore o per una notte. Appena prima di aprire l\u0092anello della tortiera, passare un coltello per tutto la circonferenza della tortiera. Togliere delicatamente l\u0092anello. Sbattere la panna e lo zucchero a velo in una ciotola media finch\u00e9 non sar\u00e0 soffice. Con l\u0092ausilio di un pelapatate, creare dei riccioli di cioccolato dalla tavoletta e disporli su un piatto per usarli successivamente come guarnizione.Almeno trenta minuti prima di servire, passare un coltello lungo la circonferenza della teglia per rimuovere con pi\u00f9 facilit\u00e0 l\u0092anello della tortiera. Lasciare riposare a temperatura ambiente per almeno 30 minuti. Aggiungere la panna montata e i riccioli di cioccolato sulla cheesecake.Copyright 2013 Television Food Network, G.P. Tutti i diritti riservati.\n                    "
+    },
+    "recipeYield": {
+        "@language": "it",
+        "@value": "\n                                                            12\n                                                    "
+    },
+    "@id": "http://example.org/recipe"
+}

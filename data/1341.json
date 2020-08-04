@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://www.clubnoor.com/uploads/recipes/1bd529bf109c444a9f944457b182c483.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\n                                    \n                                    \n                                        \u00bd\n                                    tsp\u00a0salt"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        4\n                                     tbsp \u00a0yoghurt"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1 \u00bd \n                                    cups \u00a0milk"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1\n                                    tsp \u00a0salt"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        \n                                    Noor Oil for frying"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1\n                                    star anise"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        8\n                                    lamb chops"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1\n                                    tsp \u00a0garam masala"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        \u00bd\n                                    tsp\u00a0garam masala"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        2-3 \n                                    cloves"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        2-3\n                                    cardamom pods, bruised"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        \u00bd\n                                    cup \u00a0water"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        \u2153\n                                    cup\u00a0chickpea flour"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1\n                                    tsp \u00a0chilli powder"
+        }
+    ],
+    "name": {
+        "@value": "\n                    Batter fried lamb chops"
+    },
+    "recipeYield": {
+        "@value": "\n                            Makes4servings"
+    },
+    "@id": "http://example.org/recipe"
+}

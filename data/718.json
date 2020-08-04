@@ -1,0 +1,88 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "719"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Mark Bittman"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT1H30M"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n                Migliaccio, often served at Carnival, is a lemon-ricotta cheesecake with a difference: a base of semolina flour, which makes it lighter than your typical cheesecake.\n                  \n      Featured in: \n      A Family Affair.\u00a0\n   \n\n\n\n              "
+    },
+    "image": {
+        "@id": "https://static01.nyt.com/images/2015/02/22/magazine/22eat4/22mag-22eat.t_CA1-articleLarge.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\n              Italian Lemon-Ricotta Cake\n        "
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1 \u00be\n                  \n                  \n                    cups sugar\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \u00bd\n                  \n                  \n                    teaspoon kosher salt\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    4\n                  \n                  \n                    large eggs\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Confectioners\u2019 sugar for sprinkling\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    pound (2 cups) fresh ricotta cheese, strained\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    quart whole milk\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1\n                  \n                  \n                    large or 2 small lemons\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    3\n                  \n                  \n                    tablespoons unsalted butter\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Raspberry sauce (see recipe)\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    1 \u00be\n                  \n                  \n                    cups semolina flour\n                  \n                "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                Preheat the oven to 325. Butter an 11-inch round cake pan.\n                Heat the milk in a medium saucepan over medium heat until simmering, then whisk in the semolina and salt. Boil, stirring constantly, for 2 minutes. Remove the saucepan from the heat, and stir in the sugar and butter until combined. Transfer the batter to a bowl to cool it down to warm, stirring frequently to prevent a skin from forming.\n                Zest the lemons, using only the yellow part, and stir into the batter. Beat in the eggs, one at a time, until combined. Beat in the ricotta.\n                Pour the batter into the pan, and bake until set and golden in places, about 1 hour. Transfer the pan to a rack to cool, and sprinkle with confectioners\u2019 sugar while still hot. Once the cake has cooled, sprinkle with confectioners\u2019 sugar once more, then serve.\n              "
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "12 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

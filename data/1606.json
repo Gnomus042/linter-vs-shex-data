@@ -1,0 +1,165 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Betty Crocker Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "12/12/2013"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "03/06/2014"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "This comforting casserole recipe features summer squash baked in a creamy two-cheese sauce \u2013 a winner side-dish on any menu."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/12c747c8-6ee1-4c8e-83d6-d776a9ce4e2f.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "two-cheese squash casserole"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Two-Cheese Squash Casserole"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "250 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "14 g"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "1 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "2 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "13 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "9 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Serving "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "480 mg"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H25M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Side"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    large sweet onion, finely chopped (1 cup)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon garlic salt\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    4\n                \n            \n            \n                \n                    \n                        \n                    \n                    lb yellow summer squash, sliced\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    container (8 oz) sour cream\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    eggs, slightly beaten\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoons butter or margarine, melted\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup shredded Cheddar cheese (4 oz)\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2 1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cups soft bread crumbs \n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon freshly ground pepper\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1 1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    cups freshly grated Parmesan cheese (5 oz) \n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup chopped fresh chives\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:Ncafc1d06e756425184076f970cd390f4"
+        },
+        {
+            "@id": "_:N281a3b5c006d4a58a76f713cda6d9874"
+        },
+        {
+            "@id": "_:N4da5b7ae30ad400fbbad4ec878303095"
+        },
+        {
+            "@id": "_:N48a4815128994e5faa8ce2f9fec49cec"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "12"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT1H10M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,100 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "fi",
+            "@value": "11"
+        },
+        "ratingValue": {
+            "@language": "fi",
+            "@value": "5"
+        }
+    },
+    "description": {
+        "@language": "fi",
+        "@value": "Omenagalette on helposti valmistuva ja ihanan rustiikkinen ranskalainen piiras. Tarjoile yhdess\u00e4 herkullisen suolakaramellikastikkeen kanssa! "
+    },
+    "image": {
+        "@id": "https://cdn-rdb.arla.com/Files/arla-fi/3289338803/329973fd-9f2d-47f7-8649-0ef5d35ec30d.jpg?mode=crop&w=1680&h=750&scale=both&ak=814e15de&hm=8c2fa9df"
+    },
+    "name": {
+        "@language": "fi",
+        "@value": "Omenagalette ja suolakaramellikastike"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fi",
+            "@value": "\n\u00bd tl kardemummaa\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\u00be dl kylm\u00e4\u00e4 vett\u00e4\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                85 g Arla normaalisuolaista Meijerivoita (huoneenl\u00e4mp\u00f6ist\u00e4)\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                1\u2155 dl Arla Kuohukerma\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n200 g sokeria\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n1\u00bd dl sokeria\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n3 dl vehn\u00e4jauhoja\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n1 tl tuoretta inkiv\u00e4\u00e4ri\u00e4\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                110 g Arla normaalisuolaista Meijerivoita\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n4 omenaa\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n                10 g Arla normaalisuolaista Meijerivoita (j\u00e4\u00e4kaappikylm\u00e4\u00e4)\n\n                \n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n1 rkl hunajaa\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\u00bc tl suolaa\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\nn. 1 tl sormisuolaa\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\u00bd tl kanelia\n        "
+        },
+        {
+            "@language": "fi",
+            "@value": "\n2 rkl sokeria\n        "
+        }
+    ],
+    "recipeYield": {
+        "@language": "fi",
+        "@value": "6 annosta"
+    },
+    "totalTime": {
+        "@language": "fi",
+        "@value": "\n        \n        60+ min\n    "
+    },
+    "@id": "http://example.org/recipe"
+}

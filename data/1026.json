@@ -1,0 +1,121 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "0"
+        }
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Whole chickens are so easy to make and really look impressively appetising on the dinner table. Check out other recipes in MAGGI\u00ae Arabia for more home cooking inspirations."
+    },
+    "image": {
+        "@id": "https://www.maggime.com/en/recipes/roasted-chicken-stuffed-with-rice/10594//sites/default/files/recipes/en/10594.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Roasted Chicken Stuffed with Rice"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": " 786.00 Kcal"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": " 41.00 g"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": " 47.00 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": " 48.00 g"
+        }
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Oriental"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "  \u00bc teaspoon ground cinnamon"
+        },
+        {
+            "@language": "en",
+            "@value": "  1 large whole chicken or 1400 g"
+        },
+        {
+            "@language": "en",
+            "@value": "  1\u00bd tablespoons vegetable oil"
+        },
+        {
+            "@language": "en",
+            "@value": "  \u00bc teaspoon ground black pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "  1\u00bd cups water or 375 ml"
+        },
+        {
+            "@language": "en",
+            "@value": "  \u00bd cup pine seeds or 75 g"
+        },
+        {
+            "@language": "en",
+            "@value": "  1 cup long grain white rice or 200 g"
+        },
+        {
+            "@language": "en",
+            "@value": "  1 small onion chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "  2 cubes MAGGI\u00ae Chicken Bouillon"
+        },
+        {
+            "@language": "en",
+            "@value": "  \u00bd cup raisins or 75 g"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Add rice, cinnamon, black pepper, water,MAGGI\u00ae Chicken Bouillon and raisins. Cook over low heat for 10 mins or until rice is almost cooked."
+        },
+        {
+            "@language": "en",
+            "@value": "Stuff the chicken with as much rice as possible and continue cooking the remaining rice to be served with the chicken."
+        },
+        {
+            "@language": "en",
+            "@value": "Roast the chicken in a 190\u00b0C preheated oven for 45-50 mins or until chicken is cooked."
+        },
+        {
+            "@language": "en",
+            "@value": "Heat oil in a medium saucepan, add and cook onions and pine seeds over medium heat for 4-5 mins or until almost golden."
+        },
+        {
+            "@language": "en",
+            "@value": "Serve roasted chicken with the rest of rice and fresh green salad."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "6 persons"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": " 01:00 Hr"
+    },
+    "@id": "http://example.org/recipe"
+}

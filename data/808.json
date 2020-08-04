@@ -1,0 +1,68 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating"
+    },
+    "image": {
+        "@id": "https://myfoodbook.com.au/sites/default/files/styles/single_recipe/public/recipe_photo/West20186102_0.jpg?itok=dBt1LCtJ"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "500g gnocchi"
+        },
+        {
+            "@language": "en",
+            "@value": " Salt & pepper"
+        },
+        {
+            "@language": "en",
+            "@value": " 200g Perfect Italiano Ricotta"
+        },
+        {
+            "@language": "en",
+            "@value": " 1 sprig parsley & thyme, chopped"
+        },
+        {
+            "@language": "en",
+            "@value": " 2 garlic cloves, chopped"
+        },
+        {
+            "@language": "en",
+            "@value": " 2 sprigs basil, shredded"
+        },
+        {
+            "@language": "en",
+            "@value": " 150g Western Star Original Salted Butter"
+        },
+        {
+            "@language": "en",
+            "@value": " 1/2 onion, diced"
+        },
+        {
+            "@language": "en",
+            "@value": " 40g pine nuts"
+        },
+        {
+            "@language": "en",
+            "@value": " 100g spinach"
+        },
+        {
+            "@language": "en",
+            "@value": " 1 lemon (zest & juice)"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Garlic, Lemon Pan Fried Gnocchi with Basil Ricotta"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n4"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://myfoodbook.com.au/recipes/show/garlic-lemon-pan-fried-gnocchi-with-basil-ricotta"
+    },
+    "@id": "http://example.org/recipe"
+}

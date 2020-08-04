@@ -1,0 +1,56 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "\u5e73\u5ca1\u6df3\u5b50"
+        }
+    },
+    "description": {
+        "@value": "\n                                      \u3082\u305a\u304f\u306e\u3082\u3061\u3063\u3068\u3057\u305f\u98df\u611f\u304c\u30af\u30bb\u306b\u306a\u308b\n                                                        \u8863\u306f\u6df7\u305c\u308b\u969b\u306b\u6e29\u5ea6\u304c\u9ad8\u3044\u3068\u306d\u3070\u308a\u304c\u51fa\u308b\u306e\u3067\u3001\u8584\u529b\u7c89\u306f\u76f4\u524d\u307e\u3067\u51b7\u8535\u5eab\u3067\u51b7\u3084\u3057\u3066\u304a\u304f\u306e\u304c\u304a\u3059\u3059\u3081\u3002\u30b5\u30af\u30c3\u3068\u8efd\u3084\u304b\u306b\u63da\u304c\u308a\u307e\u3059\u3002\u624b\u8efd\u306b\u3064\u307e\u3081\u308b\u3001\u5c0f\u3055\u3081\u30b5\u30a4\u30ba\u304c\u3046\u308c\u3057\u3044\u3002\n                                  "
+    },
+    "image": {
+        "@id": "https://cdn.kurashijouzu.jp/contents/uploads/2018/06/recipe-1260_key-e1536291225420.jpg"
+    },
+    "name": {
+        "@value": "\u3082\u305a\u304f\u3068\u30cb\u30f3\u30b8\u30f3\u3001\u306d\u304e\u306e\u304b\u304d\u63da\u3052"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\u8584\u529b\u7c89  \u2026\uff11\u30ab\u30c3\u30d7\uff08\u51b7\u8535\u5eab\u3067\u51b7\u3084\u3057\u3066\u304a\u304f\uff09"
+        },
+        {
+            "@value": "\u3082\u305a\u304f  \u2026150\uff47"
+        },
+        {
+            "@value": "\u5375  \u2026\uff11\u500b"
+        },
+        {
+            "@value": "\u63da\u3052\u6cb9  \u2026\u9069\u91cf"
+        },
+        {
+            "@value": "\u30cb\u30f3\u30b8\u30f3  \u2026\uff11\u672c"
+        },
+        {
+            "@value": "\u4e07\u80fd\u306d\u304e  \u20261/3\u675f"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "\n                      \n                                                  2\n                                                \u8863\u3092\u7528\u610f\u3059\u308b                      \n                      \u8a08\u91cf\u30ab\u30c3\u30d7\u306b\u5375\u3092\u5272\u308a\u307b\u3050\u3057\u3001\u6c34\u9069\u91cf\uff08\u5206\u91cf\u5916\uff09\u3092\u52a0\u3048\u3066200ml\u306b\u306a\u308b\u3088\u3046\u306b\u3059\u308b\u3002\uff11\u3068\u306f\u5225\u306e\u30dc\u30a6\u30eb\u306b\u79fb\u3057\u3001\u8584\u529b\u7c89\u3092\u3075\u308b\u3044\u306a\u304c\u3089\u52a0\u3048\u3001\u6df7\u305c\u308b\u3002\n                    "
+        },
+        {
+            "@value": "\n                      \n                                                  4\n                                                \u63da\u3052\u308b                      \n                      \u30d5\u30e9\u30a4\u30d1\u30f3\u307e\u305f\u306f\u934b\u306b\u63da\u3052\u6cb9\u3092\u4e2d\u6e29\u306b\u71b1\u3057\u3001\uff13\u3092\u30b9\u30d7\u30fc\u30f3\u3067\u3059\u304f\u3063\u3066\u83dc\u7bb8\u3067\u3059\u3079\u3089\u3059\u3088\u3046\u306b\u3057\u3066\u843d\u3068\u3057\u5165\u308c\u3001\u63da\u3052\u308b\u3002\u63da\u3052\u8272\u304c\u3064\u3044\u305f\u3089\u6cb9\u3092\u304d\u3063\u3066\u3001\u76bf\u306b\u76db\u308b\u3002\n                    "
+        },
+        {
+            "@value": "\n                      \n                                                  1\n                                                \u4e0b\u3054\u3057\u3089\u3048\u3092\u3059\u308b                      \n                      \u3082\u305a\u304f\u306f\u3056\u308b\u306b\u3042\u3052\u3066\u6c34\u6c17\u3092\u304d\u308a\u3001\u30cb\u30f3\u30b8\u30f3\u306f3cm\u9577\u3055\u306e\u7d30\u5207\u308a\u306b\u3059\u308b\u3002\u4e07\u80fd\u306d\u304e\u306f\u5c0f\u53e3\u5207\u308a\u306b\u3059\u308b\u3002\u3059\u3079\u3066\u30dc\u30a6\u30eb\u306b\u5165\u308c\u308b\u3002\n                    "
+        },
+        {
+            "@value": "\n                      \n                                                  3\n                                                \u8863\u3092\u548c\u3048\u308b                      \n                      \uff11\u306b\uff12\u306e\u8863\u3092\u3055\u3063\u3068\u548c\u3048\u308b\u3002\n                    "
+        }
+    ],
+    "totalTime": {
+        "@value": "\u8abf\u7406\u6642\u959320\u5206"
+    },
+    "@id": "http://example.org/recipe"
+}

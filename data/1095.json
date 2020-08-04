@@ -1,0 +1,47 @@
+{
+    "@type": "Recipe",
+    "description": [
+        {
+            "@language": "en-US",
+            "@value": "50 grams of butter, cut into small pieces"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Ingredients:"
+        }
+    ],
+    "image": {
+        "@id": "https://prod-jimdo-fileupload.s3-eu-west-1.amazonaws.com/203105-597644b1d34aa"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "3 duck breasts"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon vinegar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8 tablespoons Jahiot Creme de Cassis"
+        },
+        {
+            "@language": "en-US",
+            "@value": "50 grams of butter, cut into small pieces"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Salt and pepper to taste"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "Carefully cook the duck breasts in order to render the fat until pink inside. Boil the creme de cassis in a saucepan until reduced by 1/3. Remove from\n            heat, and stir in the butter in small pieces. Slice the duck breast and arrange on plates. Drizzle with sauce. Serve warm with celery root puree and roasted figs. Garnish with fresh\n            parsley."
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "Serves 4"
+    },
+    "@id": "http://example.org/recipe"
+}

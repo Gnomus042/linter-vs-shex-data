@@ -1,0 +1,36 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating"
+    },
+    "image": {
+        "@id": "http://glace-sorbet.fr/wp-content/uploads/2010/10/Mango-Sorbet-3-225x300.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "100 g de sucre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "2 mangues bien m\u00fbres"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "le jus d\u20191 demi citron"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "15 cL d\u2019eau"
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Sorbet \u00e0 la mangue"
+    },
+    "recipeInstructions": {
+        "@language": "fr-FR",
+        "@value": "Mettre l\u2019eau et le sucre dans une casserole. Porter \u00e0 \u00e9bullition et retirer du feu d\u00e8s que le sucre est dissout.\n\u00c9plucher et d\u00e9noyauter les mangues. Mixer la chair.\nM\u00e9langer le sirop, la pur\u00e9e de mangue et le jus de citron."
+    },
+    "@id": "http://example.org/recipe"
+}

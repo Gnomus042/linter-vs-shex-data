@@ -1,0 +1,214 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "",
+        "name": {
+            "@language": "en",
+            "@value": "Amanda James"
+        }
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "2017-11-07T14:55:35+00:00"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2017-11-07T19:00:25+00:00"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Check out our tuna steak dish with a simple bean salad. This low calorie recipe takes 20 minutes to make and comes in under 400 calories per serving"
+    },
+    "headline": {
+        "@language": "en",
+        "@value": "Tuna steak with bean salad and preserved lemon dressing"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "en",
+            "@value": "574"
+        },
+        "url": {
+            "@language": "en",
+            "@value": "https://images.immediate.co.uk/production/volatile/sites/2/2017/11/OLI1217-Healthy-TunaSteak_018806-6c34c5a.jpg?quality=45&resize=768,574"
+        },
+        "width": {
+            "@language": "en",
+            "@value": "768"
+        }
+    },
+    "keywords": [
+        {
+            "@language": "en",
+            "@value": "Tuna"
+        },
+        {
+            "@language": "en",
+            "@value": "Cherry tomatoes"
+        },
+        {
+            "@language": "en",
+            "@value": "Cannellini beans"
+        }
+    ],
+    "mainEntityOfPage": {
+        "title": {
+            "@language": "en",
+            "@value": "Tuna Steak Recipe with Bean Salad and Preserved Lemon Dressing - olivemagazine"
+        },
+        "item": [
+            {
+                "@id": "_:Nb1e444abdede4be8bb44924c89bde8d3"
+            },
+            {
+                "@id": "_:Nf6aebc3befb84e57a1355c5c16005db6"
+            }
+        ]
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Tuna steak with bean salad and preserved lemon dressing"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "\n                    386"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "\n                    25.7g"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "\n                    10.4g"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "\n                    6.3g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "\n                    44.3g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "\n                    1.5g"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "\n                    0.8g"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "\n                    6.3g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "Null"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:Nd9389904dc7d4163ae3c17234b4c472d"
+        },
+        "name": {
+            "@language": "en",
+            "@value": "olivemagazine"
+        },
+        "url": {
+            "@language": "en",
+            "@value": "https://www.olivemagazine.com"
+        }
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n                                                                    cannellini beans 400g,\n                                                                    drained and rinsed\n                                                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                    balsamic vinegar 1 tbsp\n                                                                    \n                                                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                    rocket 1 handful\n                                                                    \n                                                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                    cherry tomatoes a handful,\n                                                                    halved\n                                                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                    red onion \u00bc,\n                                                                    thinly sliced\n                                                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                    flat-leaf parsley a few leaves,\n                                                                    torn\n                                                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                    mint a few leaves,\n                                                                    torn\n                                                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                    lemon \u00bd,\n                                                                    zested and juiced\n                                                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                    vegetable oil 2 tsp\n                                                                    \n                                                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                    green beans 150g\n                                                                    \n                                                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                    tuna steaks 2\n                                                                    \n                                                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                    preserved lemon 1,\n                                                                    pulp removed and discarded, skin finely chopped\n                                                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                                                    extra-virgin olive oil 1 tbsp\n                                                                    \n                                                                "
+        }
+    ],
+    "recipeInstructions": {
+        "@type": "ItemList",
+        "itemListElement": [
+            {
+                "@language": "en",
+                "@value": "\n                        Step 3\n                        \n                            Heat a griddle or frying pan to hot, rub the oil into the tuna steaks and season generously. Once the pan is scorching, cook the tuna steaks for 30 seconds on each side.\n\n                        \n                    "
+            },
+            {
+                "@language": "en",
+                "@value": "\n                        Step 4\n                        \n                            Toss the rocket, mint and parsley with the salad, serve, and top with the tuna steaks.\n\n                        \n                    "
+            },
+            {
+                "@language": "en",
+                "@value": "\n                        Step 2\n                        \n                            Whisk together all of the dressing ingredients with some seasoning in a bowl and add the cannellini beans, onion and cherry tomatoes. Cut the green beans in half, add to the bowl and toss well.\n\n                        \n                    "
+            },
+            {
+                "@language": "en",
+                "@value": "\n                        Step 1\n                        \n                            Put the green beans in a large pan of simmering salted water for 1-2 minutes, then drain and refresh in ice-cold water.\n\n                        \n                    "
+            }
+        ]
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "serves 2"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT20M"
+    },
+    "@id": "http://example.org/recipe"
+}

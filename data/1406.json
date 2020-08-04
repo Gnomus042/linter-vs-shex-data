@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "az-AZ",
+            "@value": "Naira Martikian"
+        }
+    },
+    "datePublished": {
+        "@language": "az-AZ",
+        "@value": "\nOktyabr 10, 2017"
+    },
+    "name": {
+        "@language": "az-AZ",
+        "@value": "Erm\u0259nistanda \u0259m\u0259k yarmarkas\u0131: i\u015f yeri h\u0259dd\u0259n az, t\u0259l\u0259bat is\u0259 h\u0259dd\u0259n \u00e7oxdur"
+    },
+    "@id": "http://example.org/recipe"
+}

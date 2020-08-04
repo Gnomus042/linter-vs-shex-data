@@ -1,0 +1,91 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://www.matprat.no"
+    },
+    "description": {
+        "@language": "no",
+        "@value": "Pai er veldig popul\u00e6rt og tilsvarende enkelt \u00e5 servere. Denne bli ekstra god hvis du f\u00f8lger v\u00e5r oppskrift."
+    },
+    "image": {
+        "@id": "https://www.aperitif.no/artikler/dagens-rett-en-pai-som-denne-vil-alle-spise/172544///img.gfx.no/1492/1492022/original.580x237c.jpg"
+    },
+    "name": {
+        "@id": "https://www.aperitif.no/artikler/dagens-rett-en-pai-som-denne-vil-alle-spise/172544//oppskrifter/oppskrift/ost-og-lokpai/231601"
+    },
+    "ratingCount": {
+        "@language": "no",
+        "@value": "Null"
+    },
+    "ratingValue": {
+        "@language": "no",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "no",
+            "@value": "salt"
+        },
+        {
+            "@language": "no",
+            "@value": "pepper"
+        },
+        {
+            "@language": "no",
+            "@value": "revet parmesan"
+        },
+        {
+            "@language": "no",
+            "@value": "egg"
+        },
+        {
+            "@language": "no",
+            "@value": "l\u00f8k"
+        },
+        {
+            "@language": "no",
+            "@value": "sm\u00f8r"
+        },
+        {
+            "@language": "no",
+            "@value": "hvetemel"
+        },
+        {
+            "@language": "no",
+            "@value": "melk"
+        },
+        {
+            "@language": "no",
+            "@value": "vann"
+        },
+        {
+            "@language": "no",
+            "@value": "hakket frisk timian, evt. litt t\u00f8rket timian"
+        },
+        {
+            "@language": "no",
+            "@value": "revet hvitost"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "no",
+        "@value": "Smuldre sm\u00f8r og mel. Tilsett kaldt vann og lag en jevn deig. La deigen st\u00e5 kaldt i ca. 30 minutter.\nTrykk deigen ut i en paiform og prikk den med en gaffel. Stek bunnen ved 200 grader i 12 - 15 minutter til den er litt gyllen.\nSurr strimlet l\u00f8k s\u00e5 vidt i en panne (til den blir blank) og ha den i det ferdige paiskallet.\nBland egg, melk, timian, salt og pepper og hell blandingen over l\u00f8ken. Dryss over revet ost.\nStek paien videre ved 180 grader i ca. 25 minutter til eggeblandingen er stiv.\nServer paien varm med en frisk salat ved siden av.\n Flere paioppskrifter finner du her\nLag din egen personlige kokebok enten ved \u00e5 legge denne oppskriften direkte inn fra aperitif.nos oppskrifter eller komponere dine egne\nF\u00e5 dagens rett som nyhetsbrev\u00a0\nHer f\u00e5r du sv\u00e6rt s\u00e5 praktiske kokketips\n\u00a0"
+    },
+    "recipeYield": {
+        "@language": "no",
+        "@value": "6"
+    },
+    "sameAs": {
+        "@language": "no",
+        "@value": "https://www.aperitif.no/oppskrifter/oppskrift/ost-og-lokpai/231601"
+    },
+    "totalTime": {
+        "@language": "no",
+        "@value": "PT1H"
+    },
+    "url": {
+        "@language": "no",
+        "@value": "https://www.aperitif.no/oppskrifter/oppskrift/ost-og-lokpai/231601"
+    },
+    "@id": "http://example.org/recipe"
+}

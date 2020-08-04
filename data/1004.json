@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "fi",
+        "@value": "\n\t\t            Kes\u00e4kurpitsa on oiva lisuke monelle ruoalle, kokeile t\u00e4t\u00e4 maukasta paistosta vaihteeksi. Makeutta tuovat rusinat, suolaiset kaprikset ja raikas sipuli siivitt\u00e4v\u00e4t kes\u00e4kurpitsan maukkaimmaksi lisukkeeksi!\n\n\t\t        "
+    },
+    "image": {
+        "@id": "https://www.lejos.fi/wp-content/uploads/2019/04/Sun-Maid-Kes\u00e4kurpitsapaistos.jpg"
+    },
+    "name": {
+        "@language": "fi",
+        "@value": "Kes\u00e4kurpitsapaistos"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\u00bd dl\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\trusinoita\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t1 rkl\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\ttuoretta oreganoa\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tpunasipuli\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\u00bd dl\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tisoja kapriksia viipaloituna\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\toliivi\u00f6ljy\u00e4, suolaa ja pippuria\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fi",
+            "@value": "\n\t\t\t\t\t\t\t\t\t2\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tpient\u00e4 kes\u00e4kurpitsaa\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "fi",
+        "@value": "\n\t\t\t\t\tValmistusohje\n\t\t\t\t\t\nKiehauta rusinat tilkassa vett\u00e4\nHalkaise kes\u00e4kurpitsa pituussuunnassa ja viipaloi siit\u00e4 sentin paksuisia paloja\nLeikkaa punasipuli ohuiksi veneiksi\nPaista kaikkia aineksia tilkassa \u00f6ljy\u00e4 miedolla l\u00e4mm\u00f6ll\u00e4 paksupohjaisessa paistinpannussa kunnes kes\u00e4kurpitsa on l\u00e4hes kyps\u00e4\u00e4\nMausta kes\u00e4kurpitsapaistos suolalla ja pippurilla\n\nTarjoa kes\u00e4kurpitsapaistos lihan tai kalan lisukkeena tai sekoita joukkoon kyps\u00e4\u00e4 pastaa sek\u00e4 parmesanjuustoa ja tarjoa pastasalaattina.\n\n\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "fi",
+        "@value": "4\n\t\t            annosta"
+    },
+    "totalTime": {
+        "@language": "fi",
+        "@value": "PT20M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,64 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en",
+            "@value": "6"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5"
+        }
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Perfect for easy entertaining!"
+    },
+    "image": {
+        "@id": "https://myfoodbook.com.au/sites/default/files/styles/single_recipe/public/recipe_photo/P501b6f73_0.jpg?itok=jYXSZBeI"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1 unfilled plain double sponge cake"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup thickened cream"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup Creative Gourmet frozen Blueberries"
+        },
+        {
+            "@language": "en",
+            "@value": "\u2153 cup caster sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "500g Creative Gourmet frozen Raspberries"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tablespoon icing sugar mixture, sifted"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup Creative Gourmet frozen Raspberries"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Berry & Cream Sponge with Raspberry Coulis"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n8"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://myfoodbook.com.au/recipes/show/berry-and-cream-sponge-with-raspberry-coulis"
+    },
+    "@id": "http://example.org/recipe"
+}

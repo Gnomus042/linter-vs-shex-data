@@ -1,0 +1,34 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "sv-se",
+            "@value": "3.67"
+        },
+        "reviewCount": {
+            "@language": "sv-se",
+            "@value": "3"
+        }
+    },
+    "cookTime": {
+        "@language": "sv-se",
+        "@value": "PT30M"
+    },
+    "description": {
+        "@language": "sv-se",
+        "@value": "Tacopanerad kyckling och broccoli, tillsammans med sallad, klyftpotatis och picklad l\u00f6k blir det snabbt en favorit."
+    },
+    "image": {
+        "@id": "https://www.coop.se/recept/panerad-kyckling///res.cloudinary.com/coopsverige/image/upload/w_800,h_800/v1488206907/189241.jpg"
+    },
+    "name": {
+        "@language": "sv-se",
+        "@value": "Panerad kyckling"
+    },
+    "recipeInstructions": {
+        "@language": "sv-se",
+        "@value": "\n        \n                    Sk\u00e4r potatis i klyftor och f\u00f6rdela p\u00e5 en ugnspl\u00e5t, v\u00e4nd runt i olja, salt och rosta mitt i ugnen ca 30 min.\n                    \n                Picklad l\u00f6k:\n                \n                \n                    Skiva r\u00f6dl\u00f6ken tunt. V\u00e4rm vatten, \u00e4ttika och socker tills sockret sm\u00e4lt och l\u00e4gg i l\u00f6ken.\n                    Sk\u00e4r kycklingen i mindre bitar och broccolin i buketter. Salta och sk\u00f6lj broccolin i vatten s\u00e5 att mj\u00f6let fastnar.\n                    Blanda tacokryddan med conflakes. Doppa kycklingen i mj\u00f6l, l\u00e4ttvispat \u00e4gg och sist i krossad cornflakes eller kokosflingor eller panko str\u00f6br\u00f6d. G\u00f6r samma sak med broccolin. Hetta upp olja i en stekpanna och klicka i sm\u00f6r.  \n                    L\u00e4gg i kycklingbitarna och broccolin. Stek tills gyllene och kycklingen \u00e4r genomstekt. \nServera kycklingen och broccoli i salladsblad med picklad r\u00f6dl\u00f6k och klyftpotatis.\n        \n    "
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "dateModified": {
+        "@language": "pl",
+        "@value": "2016-11-29"
+    },
+    "datePublished": {
+        "@language": "pl",
+        "@value": "2016-11-29"
+    },
+    "image": [
+        {
+            "@language": "pl",
+            "@value": "http://wielkiezarcie.com/file/18214726148230697000g.jpeg"
+        },
+        {
+            "@language": "pl",
+            "@value": "Null"
+        }
+    ],
+    "ingredients": {
+        "@language": "pl",
+        "@value": "\n\t\t\t\n\t\n\t\t1,5 kg burak\u00f3w1 ma\u0142y suszony podgrzybeksok z cytryny do smaku1 \u0142y\u017cka oleju1 \u0142y\u017cki mielonej suszonej w\u0142oszczyzny (opcjonalnie naturalnej wegety) - lub p\u0119czek w\u0142oszczyznypieprzs\u00f3lli\u015b\u0107 laurowy1 \u0142y\u017ceczka suszonego majeranku\n\t\n\n\t\t"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "pl",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "pl",
+            "@value": "3"
+        }
+    },
+    "name": {
+        "@language": "pl",
+        "@value": "Barszcz pyszny wegetaria\u0144ski "
+    },
+    "prepTime": {
+        "@language": "pl",
+        "@value": "Null"
+    },
+    "recipeInstructions": {
+        "@language": "pl",
+        "@value": "\n\t\t\t\n\t\n\t\tBuraki umyj, u\u0142\u00f3\u017c na blasze wy\u0142o\u017conej foli\u0105 aluminiow\u0105. Upiecz w temp. ok. 200 st. C. Powinny by\u0107 gotowe po ok. 1,5 godzinie, gdy sk\u00f3rka zacznie si\u0119 przypieka\u0107. Ostud\u017a, obierz i zetrzyj na tarce o du\u017cych oczkach. Mo\u017cesz to zrobi\u0107 drugiego dnia, gdy b\u0119dziesz mie\u0107 czas. Ugotuj wywar na bazie du\u017cego p\u0119czka w\u0142oszczyzny lub na bazie mielonej suszonej w\u0142oszczyzny (w wolnej chwili mo\u017cesz zmieli\u0107 kupion\u0105 na wag\u0119 mieszank\u0119 warzyw - powstanie zdrowsza wersja wegety), li\u015bcia laurowego, suszonego grzybka. Dodaj tarte buraki, majeranek, szczypt\u0119 soli i zmniejsz temperatur\u0119 do minimum, przykryj i podgrzewaj do momentu zagotowania. Przypraw sokiem z cytryny i pieprzem. Wy\u0142\u0105cz kuchenk\u0119 i pozostaw barszcz do ostudzenia. Najlepiej pozostawi\u0107 barszcz na jedn\u0105 dob\u0119, aby buraczki odda\u0142y jak najwi\u0119cej smaku wywarowi.\nvar bbkeywords=\"\";\n\nPrzeced\u017a barszcz, buraczki mo\u017cesz wykorzysta\u0107 je do pysznej obiadowej sa\u0142atki. Wlej 2 \u0142y\u017cki oleju. Podgrzej i je\u015bli trzeba dopraw do smaku. Podaj gor\u0105cy z krokietami lub pasztecikami.\n\t\n\n\t\t"
+    },
+    "recipeYield": {
+        "@language": "pl",
+        "@value": "4\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tporcje\n\t\t\t\t\t\t\n\t\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

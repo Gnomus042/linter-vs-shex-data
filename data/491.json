@@ -1,0 +1,68 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-gb",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-gb",
+            "@value": "0"
+        },
+        "worstRating": {
+            "@language": "en-gb",
+            "@value": "0"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2017-10-25"
+    },
+    "description": {
+        "@language": "en-gb",
+        "@value": "Yields 1 1/2 gallons of ice cream.Photography by Knoxy"
+    },
+    "image": {
+        "@id": "http://edibleaustin.com/index.php/component/yoorecipe/recipe/1153-jeane-family-homemade-ice-cream?tmpl=component&print=1//images/stories/Heirloom2017/cropped-ice-cream-recipe.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-gb",
+            "@value": "eggs"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "Eagle Brand milk"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "half & half"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "vanilla"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "whipping cream"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "sugar"
+        }
+    ],
+    "name": {
+        "@language": "en-gb",
+        "@value": "\nJeane Family Homemade Ice Cream"
+    },
+    "recipeInstructions": {
+        "@language": "en-gb",
+        "@value": "\n\t\t\tPlace all ingredients in a large mixing bowl, and whisk together thoroughly.\nPour mixture into ice cream freezer, and if needed add milk to bring level two inches from the top.\nFollow the freezing instructions from the ice cream freezer. Enjoy!\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-gb",
+        "@value": "1 Batch(es)"
+    },
+    "@id": "http://example.org/recipe"
+}

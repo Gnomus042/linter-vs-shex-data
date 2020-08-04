@@ -1,0 +1,44 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "\u6885\u8bed\u65f6\u8282"
+        }
+    },
+    "image": {
+        "@id": "http://i2.chuimg.com/4e7bcdd0871911e6b87c0242ac110003_490w_649h.jpg?imageView2/2/w/660/interlace/1/q/90"
+    },
+    "name": {
+        "@value": "\n      \u6930\u4e1d\u86cb\u767d\u997c\u5e72\n    "
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n                \n                  \n\n    \u6930\u4e1d\n\n                \n                \n                    100\u514b\n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u7ec6\u7802\u7cd6\n\n                \n                \n                    60\u514b\n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u86cb\u767d\n\n                \n                \n                    \u4e09\u4e2a\n                \n              "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "\n              \u86cb\u767d\u52a0\u51e0\u6ef4\u67e0\u6aac\u6c41,\u7528\u7535\u52a8\u6253\u86cb\u5668\u6253\u51fa\u5927\u6ce1,\u5206\u4e09\u6b21\u52a0\u5165\u7ec6\u7802\u7cd6,\u5e76\u4e0d\u65ad\u6405\u6253\u81f3\u6e7f\u6027\u53d1\u6ce1,\u5373\u6253\u86cb\u5668\u63d0\u8d77\u540e,\u86cb\u767d\u5448\u73b0\u5f2f\u5c16\n            "
+        },
+        {
+            "@value": "\n              \u5728\u6253\u597d\u7684\u86cb\u767d\u4e2d\u62cc\u5165\u6930\u4e1d,\u62cc\u5300\u5373\u53ef,\u4e0d\u8981\u8fc7\u5ea6\u6405\u62cc\n            "
+        },
+        {
+            "@value": "\n              \u70e4\u76d8\u94fa\u597d\u70d8\u7119\u7eb8,\u7528\u52fa\u5b50\u76db\u4e9b\u6930\u4e1d\u86cb\u767d\u7cca,\u6392\u653e\u5728\u70e4\u76d8\u4e0a,\u6ce8\u610f\u7559\u51fa\u95f4\u8ddd\n            "
+        },
+        {
+            "@value": "\n              \u70e4\u597d\u7684\u997c\u5e72\u653e\u51c9\u540e\u5bc6\u5c01\u4fdd\u5b58,\u4ee5\u4fdd\u6301\u9165\u8106\u7684\u53e3\u611f\n            "
+        },
+        {
+            "@value": "\n              \u70e4\u76d8\u5165\u9884\u70ed\u5230325F(170C)\u7684\u70e4\u7bb1\u4e2d,\u70e420-25\u5206\u949f\n            "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

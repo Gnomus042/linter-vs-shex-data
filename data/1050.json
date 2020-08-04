@@ -1,0 +1,73 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "40 min"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-09-27"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Chocolate chi cookies have always been a favorite dessert for large number people. They can be used as a dessert, after-school treat or sweet snack and this chocolate chip cookies recipe teaches you h..."
+    },
+    "image": {
+        "@id": "https://www.recipes.camp/recipes/chocolate-chip-cookies//shot2/cz/chocolate-chip-cookies.jpg"
+    },
+    "mainEntityOfPage": {
+        "@language": "en",
+        "@value": "True"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Chocolate Chip Cookies"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "url": {
+        "title": {
+            "@language": "en",
+            "@value": "Recipe  Chocolate Chip Cookies - Recipes.camp"
+        },
+        "item": [
+            {
+                "@id": "_:N42249701a3cc4f558836c6a59849144b"
+            },
+            {
+                "@id": "_:N4794737f385047aeb76a0d6ab318ef06"
+            },
+            {
+                "@id": "_:N97204120ce734843981cfea26c48bc89"
+            },
+            {
+                "@id": "_:Nd3beba17ef9d4416b3327e0210a29034"
+            },
+            {
+                "@id": "_:N3ac75fdb1a7b42f48cca4c63f59678d9"
+            }
+        ]
+    },
+    "@id": "http://example.org/recipe"
+}

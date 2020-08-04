@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Jamie Geller"
+    },
+    "cookingMethod": {
+        "@id": "https://jamiegeller.com/recipes/halva-inspired-frozen-yogurt/recipes/collection/no-bake"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2015-05-11"
+    },
+    "description": {
+        "@value": "Null"
+    },
+    "headline": {
+        "@value": "Halva-Inspired Frozen Yogurt"
+    },
+    "image": {
+        "@value": "https://jamiegeller.com/.image/t_share/MTY1NTI1MTIzMDM2ODgyNDcw/halva-inspired-frozen-yogurt.jpg"
+    },
+    "inLanguage": {
+        "@value": "en"
+    },
+    "keywords": [
+        {
+            "@value": "silanQuick (under 30 Minutes)Freezer FriendlypecansKid FriendlyMake AheadpistachiosFrozen YogurtFROYOhalvaIsraeli Friendly Recipes"
+        },
+        {
+            "@value": "Shavuot Recipes"
+        },
+        {
+            "@value": "Dairy"
+        },
+        {
+            "@value": "JOK Tested"
+        },
+        {
+            "@value": "Milk or milk substitute"
+        },
+        {
+            "@value": "No Bake"
+        },
+        {
+            "@value": "Desserts"
+        },
+        {
+            "@value": "Gluten Free"
+        }
+    ],
+    "name": {
+        "@value": "Halva-Inspired Frozen Yogurt"
+    },
+    "recipeCategory": {
+        "@id": "https://jamiegeller.com/recipes/halva-inspired-frozen-yogurt//recipes/collection/meal-type-desserts/"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "2 teaspoons silan/date syrup"
+        },
+        {
+            "@value": "10 pistachios, shelled and coarsely chopped, about 1 tablespoon"
+        },
+        {
+            "@value": "2 Medjool dates, pitted and coarsely chopped, about 2 heaping tablespoons"
+        },
+        {
+            "@value": "Null"
+        },
+        {
+            "@value": "1 to 2 teaspoons 100% natural tahini, or more, to taste"
+        },
+        {
+            "@value": "1 cup vanilla frozen yogurt"
+        },
+        {
+            "@value": "5 pecans, coarsely chopped, about 1 tablespoon"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "1. Place yogurt in a small bowl and top with remaining ingredients."
+    },
+    "recipeYield": {
+        "@value": "1 Servings"
+    },
+    "suitableForDiet": {
+        "@id": "https://jamiegeller.com/recipes/halva-inspired-frozen-yogurt//recipes/dietary-restrictions/gluten-free"
+    },
+    "@id": "http://example.org/recipe"
+}

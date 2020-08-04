@@ -1,0 +1,40 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@value": "80"
+        }
+    },
+    "author": {
+        "@value": "H\u00fclya (TurkseKok)"
+    },
+    "datePublished": {
+        "@value": "2011-08-29"
+    },
+    "description": {
+        "@value": "Beschrijving  Baklava wordt gemaakt van filodeeg, gemalen nootjes, gesmolten boter  en natuurlijk de zoete stroop. Het wordt vaak ..."
+    },
+    "image": {
+        "@id": "http://www.turksekok.nl/?qa=blob&qa_blobid=14236582334593647445"
+    },
+    "name": {
+        "@value": "Baklava"
+    },
+    "recipeCategory": {
+        "@value": "Toetjes"
+    },
+    "recipeCuisine": {
+        "@value": "Turks"
+    },
+    "recipeYield": {
+        "@value": "16"
+    },
+    "totalTime": {
+        "@value": "3 uur 0 min"
+    },
+    "@id": "http://example.org/recipe"
+}

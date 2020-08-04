@@ -1,0 +1,155 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Pillsbury Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "01/29/2008"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "12/24/2009"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Garden variety, in this case, is far from mediocre. Seasoned with herbs and cooked on the grill, these veggies are memorable!"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/d6295526-59ab-4f6d-a759-8c4c33ecb2e1.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "grilled zucchini and tomatoes"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Grilled Zucchini and Tomatoes"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "130 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "6 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "0 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "2 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "2 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "2 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "1 1/2 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Serving "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "85 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "3 g"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H20M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Side"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    4\n                \n            \n            \n                \n                    \n                        \n                    \n                    medium plum (Roma) tomatoes, cut in half lengthwise, seeded\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoons chopped fresh thyme leaves\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon kosher (coarse) salt\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    3\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoons olive oil\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon finely chopped fresh rosemary leaves\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    4\n                \n            \n            \n                \n                    \n                        \n                    \n                    small zucchini (5x1 inch), cut in half lengthwise\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/8\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon ground cumin\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N03fc6864ac064a1b968db52a1b2516ce"
+        },
+        {
+            "@id": "_:Nac612ff5d63c449fba990af567397fb0"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT0H20M"
+    },
+    "@id": "http://example.org/recipe"
+}

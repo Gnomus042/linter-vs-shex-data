@@ -1,0 +1,80 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Jess (Paleo Grubs)"
+    },
+    "description": {
+        "@value": "I just couldn\u00e2\u0080\u0099t wait to get home today so that I could share a very special paleo dessert recipe with you guys. What\u00e2\u0080\u0099s so special about it? Well, it\u00e2\u0080\u0099s only just an out of this world coconut cream brownie ice cream recipe. That\u00e2\u0080\u0099s right\u00e2\u0080\u0094brownies and ice cream in one, so you can understand my excitement with this recipe. It\u00e2\u0080\u0099s one of those recipes you never knew you were missing out on, but once you try it, it\u00e2\u0080\u0099ll be there to stay. This is actually a dessert that you can freely enjoy on the paleo diet because it only uses all-natural ingredients. Cacao powder and dark chocolate chips bring the chocolatey goodness, while the coconut cream and honey provide a perfectly sweet ice cream texture when frozen. And to top it all off? The recipe even adds in some hazelnuts for good measure."
+    },
+    "image": {
+        "@id": "https://paleogrubs.com/wp-content/uploads/2019/07/5a-paleo-almond-butter-brownie-ice-cream-1024x1024.jpg"
+    },
+    "name": {
+        "@value": "Almond Butter Brownie Ice Cream (Paleo-Friendly)"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": " 229"
+        },
+        "carbohydrateContent": {
+            "@value": " 15.1 g"
+        },
+        "fatContent": {
+            "@value": " 19.8 g"
+        },
+        "fiberContent": {
+            "@value": " 2.6 g"
+        },
+        "proteinContent": {
+            "@value": " 2.8 g"
+        },
+        "sugarContent": {
+            "@value": " 9.5 g"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@value": "2 tbsp paleo friendly dark chocolate chips"
+        },
+        {
+            "@value": "1/4 cup cacao powder"
+        },
+        {
+            "@value": "2 tbsp coarsely chopped hazelnuts"
+        },
+        {
+            "@value": "1/4 cup honey"
+        },
+        {
+            "@value": "1 (14 oz) can coconut cream 14 oz"
+        }
+    ],
+    "recipeInstructions": {
+        "@type": "ItemList",
+        "itemListElement": [
+            {
+                "@value": "Add the coconut cream, cacao powder and honey to a high speed blender and blend until well combined."
+            },
+            {
+                "@value": "Transfer the mixture to a loaf pan."
+            },
+            {
+                "@value": "Let the ice cream thaw for 10 to 15 minutes before serving."
+            },
+            {
+                "@value": "Fold in the chopped hazelnuts and dark chocolate chips."
+            },
+            {
+                "@value": "Cover and freeze until firm, about 4 hours."
+            }
+        ]
+    },
+    "recipeYield": {
+        "@value": "1"
+    },
+    "yield": {
+        "@value": "1"
+    },
+    "@id": "http://example.org/recipe"
+}

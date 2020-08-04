@@ -1,0 +1,26 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "vi",
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@language": "vi",
+            "@value": "0"
+        },
+        "ratingValue": {
+            "@language": "vi",
+            "@value": "10"
+        }
+    },
+    "image": {
+        "@id": "http://www.watchmoviesonline88.com/uploads/2016/09/all-stars-rupauls-drag-race.jpg"
+    },
+    "name": {
+        "@language": "vi",
+        "@value": "All Stars RuPaul's Drag Race"
+    },
+    "@id": "http://example.org/recipe"
+}

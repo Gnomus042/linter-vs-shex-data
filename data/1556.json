@@ -1,0 +1,84 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "fr",
+        "@value": "La Table \u00e0 Dessert"
+    },
+    "cookTime": {
+        "@language": "fr",
+        "@value": "9 min"
+    },
+    "description": {
+        "@language": "fr",
+        "@value": "Madeleines au chocolat, zeste d'orange et nougat"
+    },
+    "image": [
+        {
+            "@id": "https://www.latableadessert.fr/sites/default/files/styles/header_push_list/public/images/recipe/field_recipe_single_carousel_img/recette-petales-croustillants_7722_0.jpg?itok=wvcsHQ0V"
+        },
+        {
+            "@id": "https://www.latableadessert.fr/sites/default/files/styles/mega_fiche/public/default_images/ltad_imagedefautrecette_0-min.jpg?itok=txEGrhe_"
+        },
+        {
+            "@id": "https://www.latableadessert.fr/sites/default/files/styles/header_push_list/public/default_images/ltad_imagedefautrecette_0-min.jpg?itok=BW2enLP3"
+        }
+    ],
+    "name": {
+        "@language": "fr",
+        "@value": "Madeleines au chocolat, zeste d'orange et nougat"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "fr",
+            "@value": "284 kcal/ personne"
+        }
+    },
+    "prepTime": {
+        "@language": "fr",
+        "@value": "15 min"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  70 g de nougat\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  50 g desucreen poudre\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  2\u0153ufs\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  100 g de farine\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  100 g deChocolat NESTL\u00c9 DESSERT Noir\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  1/2 sachet de levurechimique\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  100 g debeurre \n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  2oranges\n\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "Pr\u00e9chauffez votre four Th.6/7 (200\u00b0C).\nDans une casserole, faites fondre le chocolat avec le beurre.\nLavez et r\u00e2pez le zeste des oranges. Coupez le nougat en petits d\u00e9s.\nDans un saladier, m\u00e9langez la farine, la levure, le sucre et les oeufs. Ajoutez le chocolat fondu et le zeste des oranges.\nBeurrez et farinez les moules \u00e0 madeleines. Versez la pr\u00e9paration jusqu'au 3/4 et ajoutez quelques morceaux de nougat.\nFaites cuire dans votre four 8 \u00e0 9 minutes. S'il vous reste de la p\u00e2te, renouvelez l'op\u00e9ration.\n"
+    },
+    "recipeYield": {
+        "@language": "fr",
+        "@value": "9 personnes"
+    },
+    "@id": "http://example.org/recipe"
+}

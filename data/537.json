@@ -1,0 +1,56 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "pt-PT",
+        "@value": "Inspire-se com as nossas receitas!"
+    },
+    "image": {
+        "@language": "pt-PT",
+        "@value": "https://sifu.unileversolutions.com/image/pt-PT/recipe-topvisual/2/1260-709/panna-cotta-tricolor-50219205.jpg"
+    },
+    "name": {
+        "@language": "pt-PT",
+        "@value": "Panna Cotta Tricolor"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "pt-PT",
+            "@value": "\n                                                \n                                                    Vaqueiro Profissional Alternativa \u00e0s Natas Creme & Creme 1Lt\n                                                \n                                                \n                                            "
+        },
+        {
+            "@language": "pt-PT",
+            "@value": "Leite"
+        },
+        {
+            "@language": "pt-PT",
+            "@value": "\n                                                \n                                                    Carte D\u2019Or pudim desidratado Panna Cotta 520Gr\n                                                \n                                                \n                                            "
+        },
+        {
+            "@language": "pt-PT",
+            "@value": "\n                                                \n                                                    Carte D\u2019Or decora\u00e7\u00e3o spray Creme Dolce 500Ml\n                                                \n                                                \n                                            "
+        },
+        {
+            "@language": "pt-PT",
+            "@value": "\n                                                \n                                                    Carte D\u2019Or topping l\u00edquido Chocolate 1Kg\n                                                \n                                                \n                                            "
+        },
+        {
+            "@language": "pt-PT",
+            "@value": "Chocolate raspado"
+        },
+        {
+            "@language": "pt-PT",
+            "@value": "Caf\u00e9 Sol\u00favel"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "pt-PT",
+            "@value": "\n                        A servir\n                        \n    Decorar com Carte D'Or Creme Dolce Spray 500Ml e polvilhar com chocolate.\n\n                        \n                    "
+        },
+        {
+            "@language": "pt-PT",
+            "@value": "\n                        Para a Panna Cotta\n                        \n    Ferver o leite; \n    Dissolver Carte D'Or Panna Cotta 500 Gr e juntar a Vaqueiro Creme & Creme 1 Lt; \n    Dividir em 3 tigelas; \n    Numa dissolver o caf\u00e9 e na outra Carte D'Or Topping de Chocolate 1 Kg; \n    Dividir em ta\u00e7as e deixar solidificar entre cada camada. \n\n                        \n                    "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

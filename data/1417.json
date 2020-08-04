@@ -1,0 +1,81 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Sa pamamagitan ng Pagluluto madali"
+    },
+    "cookTime": {
+        "@value": "30 min"
+    },
+    "datePublished": {
+        "@value": "2018-02-21 09:16:48"
+    },
+    "image": {
+        "@id": "https://recetasdecocinafaciles.net/wp-content/uploads/2018/02/tarta-de-arroz-para-celiacos.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "50 g de frutas confitadas"
+        },
+        {
+            "@value": "Asin"
+        },
+        {
+            "@value": "20 g de aroma de almendra"
+        },
+        {
+            "@value": "La c\u00e1scara rallada de un lim\u00f3n"
+        },
+        {
+            "@value": "2 itlog"
+        },
+        {
+            "@value": "1 sobre de levadura qu\u00edmica"
+        },
+        {
+            "@value": "1 itlog"
+        },
+        {
+            "@value": "Az\u00facar en polvo"
+        },
+        {
+            "@value": "150 g ng asukal"
+        },
+        {
+            "@value": "250 g ng maliit na bahay keso"
+        },
+        {
+            "@value": "360 g de Mix C Sch\u00e4r"
+        },
+        {
+            "@value": "250 ml de leche"
+        },
+        {
+            "@value": "20 g de leche"
+        },
+        {
+            "@value": "80 g bigas (deber\u00e1 ponerse en remojo 24 horas antes)"
+        },
+        {
+            "@value": "50 g ng mga pasas"
+        },
+        {
+            "@value": "80 g ng asukal"
+        },
+        {
+            "@value": "150 g mantikilya"
+        }
+    ],
+    "name": {
+        "@value": "Tarta de arroz para celiacos"
+    },
+    "prepTime": {
+        "@value": "30 min"
+    },
+    "recipeInstructions": {
+        "@value": "Mezcle todos los ingredientes de la masa y d\u00e9jelos reposar media hora en la nevera.Sa habang panahon, prepare la cobertura. Escurra el arroz y cu\u00e9zalo en la leche hasta que est\u00e9 en su punto y haya absorbido toda la leche. A\u00f1ada el reques\u00f3n, ang asin, ang yolks, la c\u00e1scara de lim\u00f3n rallada, el az\u00facar y por \u00faltimo el aroma, y mezcle todo bien. Incorpore las claras montadas a punto de nieve y a\u00f1ada las pasas y las frutas confitadas.Extienda la masa en un molde redondo apartando un pu\u00f1ado de masa. Eche la cobertura sobre la tarta y coloque por encima tiras formadas con la masa restante.Hornee 30-35 minutos en el horno previamente calentado a 180\u00baC."
+    },
+    "totalTime": {
+        "@value": "1 hr"
+    },
+    "@id": "http://example.org/recipe"
+}

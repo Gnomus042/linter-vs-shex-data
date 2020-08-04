@@ -1,0 +1,26 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "vi",
+            "@value": "4.5"
+        },
+        "ratingCount": {
+            "@language": "vi",
+            "@value": "80"
+        },
+        "ratingValue": {
+            "@language": "vi",
+            "@value": "5"
+        }
+    },
+    "image": {
+        "@id": "http://trochoi2k.wap.sh/img/st.png"
+    },
+    "name": {
+        "@language": "vi",
+        "@value": "T\u1eed Vi 12 Cung Ho\u00e0ng \u0110\u1ea1o Ng\u00e0y 30/07/2015"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,18 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "pt",
+            "@value": "0"
+        }
+    },
+    "image": {
+        "@id": "http://bimbo.pt/uploads/recetas/detalle/pate-huevo2.JPG"
+    },
+    "name": {
+        "@language": "pt",
+        "@value": "Crusty p\u00e3o com ovo e pat\u00ea"
+    },
+    "@id": "http://example.org/recipe"
+}

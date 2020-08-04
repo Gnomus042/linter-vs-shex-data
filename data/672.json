@@ -1,0 +1,71 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://www.milujivareni.cz/profil/143-marsalka/#recipes"
+    },
+    "cookTime": {
+        "@value": "35 minut"
+    },
+    "description": {
+        "@value": "Houbov\u00fd kr\u00e9m - c\u00edt\u00edte tu v\u016fni? Zkuste si uva\u0159it chu\u0165ovku podle receptu s fotkami. Za 45 minut pod\u00e1v\u00e1me. M\u00e1te hlad? Jdeme na to!"
+    },
+    "image": [
+        {
+            "@id": "http://www.milujivareni.cz/_sites/basic/static/images/logo-milujivareni.jpg"
+        },
+        {
+            "@id": "http://cdn.milujivareni.cz/image/eyJ0eXBlIjoicmVjaXBlIiwiaW1hZ2VJZCI6IjEwNTYiLCJ0aHVtYiI6MX0=/houbovy-krem.jpg?ver=11"
+        }
+    ],
+    "name": {
+        "@value": "Houbov\u00fd kr\u00e9m"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "276 kcal"
+        },
+        "fatContent": {
+            "@value": "21 g"
+        }
+    },
+    "prepTime": {
+        "@value": "10 minut"
+    },
+    "recipeCuisine": {
+        "@id": "http://www.milujivareni.cz/recepty/24910-houbovy-krem//top-recepty/zeme-puvodu/evropa/zapad-evropy/francie/"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "  1 \u0161petka    S\u016fl   "
+        },
+        {
+            "@value": "  80 g    M\u00e1slo \u010derstv\u00e9   "
+        },
+        {
+            "@value": "  800 g   Houby \u010derstv\u00e9  "
+        },
+        {
+            "@value": "  200 ml   Hov\u011bz\u00ed v\u00fdvar z\u00e1kladn\u00ed  "
+        },
+        {
+            "@value": "  100 ml   Smetana 12% (konzumn\u00ed)  "
+        },
+        {
+            "@value": "  1 \u0161petka    Pep\u0159 \u010dern\u00fd mlet\u00fd   "
+        },
+        {
+            "@value": "  60 g   \u0160alotka  "
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "   1   Houby omyjeme, o\u010dist\u00edme a pokr\u00e1j\u00edme na men\u0161\u00ed kousky. D\u00e1me va\u0159it v osolen\u00e9 vod\u011b. Uva\u0159en\u00e9 houby slijeme a pot\u00e9 rozmixujeme. Odlo\u017e\u00edme stranou.      2   Cibuli pokr\u00e1j\u00edme najemno a na rozeh\u0159\u00e1t\u00e9m m\u00e1sle sma\u017e\u00edme 2 minuty. P\u0159ilijeme smetanu, v\u00fdvar a rozmixovan\u00e9 houby. Osol\u00edme a opep\u0159\u00edme.      3   Pova\u0159\u00edme 2 minuty a ihned pod\u00e1v\u00e1me.   "
+    },
+    "recipeYield": {
+        "@value": "Null"
+    },
+    "totalTime": {
+        "@value": "45 minut"
+    },
+    "@id": "http://example.org/recipe"
+}

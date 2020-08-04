@@ -1,0 +1,42 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Halladays Harvest Barn"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "2 Tbsp. Halladay's Buffalo Chicken & Blue Cheese Seasoning"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00ef\u00bf\u00bd bunch scallions, chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cups cheddar cheese, shredded"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup chicken, cooked and finely shredded"
+        },
+        {
+            "@language": "en",
+            "@value": "1 (8 oz.) bar cream cheese, softened"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Buffalo Chicken Cheeseball"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\nCombine all ingredients except scallions. Let chill 2 hours. Roll in scallions.\n"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://www.halladays.com/recipes/appetizers/#buffalo-chicken-cheeseball"
+    },
+    "@id": "http://example.org/recipe"
+}

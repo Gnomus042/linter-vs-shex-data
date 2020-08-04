@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Recipe by Our Cookbook Collection"
+    },
+    "image": {
+        "@language": "en-US",
+        "@value": "https://i0.wp.com/spryliving.com/wp-content/uploads/2011/09/fettuccine-betty-crocker-pasta-recipe-healthy-cookbook-spry.jpg?resize=150%2C150&ssl=1"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2cloves garlic, finely chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1teaspoon olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1cup dry white whine or chicken broth"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1pound fresh mushrooms, sliced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4teaspoon pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4cup freshly grated Parmesan cheese"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3tablespoons chopped fresh parsley"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1pound thin fresh asparagus spears, broken into 2-inch pieces"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1cup cup chicken broth"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2tablespoons cornstarch"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4cup sun-dried tomatoes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2teaspoon salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8ounces uncooked fettuccine"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2tablespoons fresh basil leaves, chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Null"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2tablespoons pine nuts"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Fettuccine with Asparagus and Mushrooms"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\t1. Cover dried tomatoes with boiling water. Let stand for 10 minutes; drain. Chop tomatoes.\n2. Cook and drain fettuccine as directed on package.\n3. Meanwhile, in 12-inch skillet, heat oil over medium heat. Add asparagus, mushrooms, garlic, parsley, and basil; cook 5 minutes, stirring occassionally. Stir in tomatoes. Simmer 2 to 3 minutes, until tomatoes are heated.\n4. In a small bowl, place wine and broth, beat in cornstarch, salt and pepper with whisk until blended. Stir into vegetable mixture. Heat to boiling over with medium heat, stirring constantly, until mixture is smooth and bubbly. Boil and stir 1 minute. Serve over fettuccine. Sprinkle with nuts and cheese.\nRecipe reprinted with permission from Betty Crocker\u2019s Living with Cancer Cookbook by Kris Gosh, M.D., M.B.A. and Linda Carson, M.D. (c) John Wiley & Sons Inc.\n\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "Yield:  servings"
+    },
+    "@id": "http://example.org/recipe"
+}

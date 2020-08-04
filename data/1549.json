@@ -1,0 +1,31 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@value": "5"
+        },
+        "worstRating": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@id": "https://www.neizvestniy-geniy.ru/cat/photo/rasten/2034901.html?all//users/2578.html"
+    },
+    "description": {
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://www.neizvestniy-geniy.ru/cat/photo/rasten/2034901.html?all//images/works/photo/2019/05/small/2034901_1.jpg"
+    },
+    "name": {
+        "@value": "\u043f\u0457\u0405\u043f\u0457\u0405\u043f\u0457\u0405\u043f\u0457\u0405\u043f\u0457\u0405\u043f\u0457\u0405-\u043f\u0457\u0405\u043f\u0457\u0405\u043f\u0457\u0405\u043f\u0457\u0405\u043f\u0457\u0405\u043f\u0457\u0405\u043f\u0457\u0405\u043f\u0457\u0405..."
+    },
+    "@id": "http://example.org/recipe"
+}

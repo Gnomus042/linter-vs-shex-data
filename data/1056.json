@@ -1,0 +1,64 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1/2 cup of canned black beans, drained\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 (8 oz) package of SeaPak Butterfly Shrimp\n"
+        },
+        {
+            "@language": "en",
+            "@value": "Juice of 1 lime\n"
+        },
+        {
+            "@language": "en",
+            "@value": "4 ripe plantains, peeled\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 avocado, mashed\n"
+        },
+        {
+            "@language": "en",
+            "@value": "Chopped cilantro for garnish\n"
+        },
+        {
+            "@language": "en",
+            "@value": "Salt and Pepper\n"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Ripe Plantain Baskets with Shrimp, Avocado and Beans"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Mix the mashed avocado with lime, salt and pepper and place equal amounts into the plantain baskets. Add black beans and top with a cooked shrimp. Garnish each cup with cilantro and serve immediately.\n"
+        },
+        {
+            "@language": "en",
+            "@value": "Grease 12 serving non-stick muffin pan with spray oil.\n"
+        },
+        {
+            "@language": "en",
+            "@value": "To cook the baskets: Heat the oven to 425\u00b0F. Place the muffin pan in the oven and until they are cooked, about 10 to 15 minutes. Remove from the oven.\n"
+        },
+        {
+            "@language": "en",
+            "@value": "Preheat oven to 425\u00b0F. Bake Butterfly Shrimp according to package instructions. Set aside.\n"
+        },
+        {
+            "@language": "en",
+            "@value": "Mash the plantains and place equal parts into the greased muffin pan. Using a small glass or spoon, press against the muffin tin forming the baskets and spray the plantain baskets with more oil.\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "12"
+    },
+    "@id": "http://example.org/recipe"
+}

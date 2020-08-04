@@ -1,0 +1,70 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemreviewed": {
+            "@language": "da",
+            "@value": " Dadler med lakridspulver "
+        },
+        "ratingCount": {
+            "@language": "da",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "da",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "da",
+        "@value": "Tanja & Thor"
+    },
+    "description": {
+        "@language": "da",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://www.maduniverset.dk/images/10991-dadler-med-lakridspulver.jpg"
+    },
+    "name": {
+        "@language": "da",
+        "@value": "\nDadler med lakridspulver\n"
+    },
+    "recipeCategory": {
+        "@language": "da",
+        "@value": "\n\n \nMadopskrifter\n \nJulekonfekt (95)\nMad til k\u00f8returen\nJulefrokost (98)\nJul\n\n"
+    },
+    "recipeIngredient": {
+        "@language": "da",
+        "@value": "\nT\u00f8rret dadler (gerne uden sten)\nLakridspulver\n"
+    },
+    "recipeInstructions": {
+        "@language": "da",
+        "@value": "\n- H\u00e6ld lakridspulver ned i en stor sk\u00e5l\n- H\u00e6ld nu alle dadlerne ned i sk\u00e5len og vend alle dadler rundt, til de alle har lakrids p\u00e5\n- Klar til servering\n"
+    },
+    "url": {
+        "title": {
+            "@language": "da",
+            "@value": "Dadler med lakridspulver | L\u00e6kker opskrift | Find den p\u00e5 Maduniverset"
+        },
+        "item": [
+            {
+                "@id": "_:Ne9c55e45cca14583b7cd21ac43016142"
+            },
+            {
+                "@id": "_:N05c91fbca899496db981f712bcaf911f"
+            },
+            {
+                "@id": "_:N84701ddbd7bb4bbea28df196d8990954"
+            },
+            {
+                "@id": "_:N31f8e0bcf8ef4837bae864842d5a2d5f"
+            }
+        ]
+    },
+    "yield": {
+        "@language": "da",
+        "@value": "Tid ialt: 5"
+    },
+    "@id": "http://example.org/recipe"
+}

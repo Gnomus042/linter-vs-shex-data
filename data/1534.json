@@ -1,0 +1,92 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Angela Boggiano"
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT40M"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2013-11-01"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "This traditional shortcrust lattice pie is filled with sweet, ripe fruit- serve warm with plenty of custard, cream or ice cream"
+    },
+    "image": {
+        "@id": "https://www.bbcgoodfood.com/recipes/pear-blackberry-crostata///www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/sweet.jpg?itok=rNQ546Jv"
+    },
+    "keywords": [
+        {
+            "@language": "en",
+            "@value": "Family favourite"
+        },
+        {
+            "@language": "en",
+            "@value": "Fruit pie"
+        },
+        {
+            "@language": "en",
+            "@value": "Sunday lunch"
+        },
+        {
+            "@language": "en",
+            "@value": "Autumn"
+        },
+        {
+            "@language": "en",
+            "@value": "Easy"
+        },
+        {
+            "@language": "en",
+            "@value": "Pastry"
+        },
+        {
+            "@language": "en",
+            "@value": "lattice pie"
+        },
+        {
+            "@language": "en",
+            "@value": "autumn fruit"
+        },
+        {
+            "@language": "en",
+            "@value": "Fibre"
+        },
+        {
+            "@language": "en",
+            "@value": "1 of 5-a-day"
+        },
+        {
+            "@language": "en",
+            "@value": "Freezable"
+        },
+        {
+            "@language": "en",
+            "@value": "Fruit tart"
+        },
+        {
+            "@language": "en",
+            "@value": "Comfort"
+        }
+    ],
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT10M"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": " Serves 6 "
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT50M"
+    },
+    "@id": "http://example.org/recipe"
+}

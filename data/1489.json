@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Davina Da Vegan"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "July 13, 2018"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "For the durian lover, this delicate dessert presents the Malaysian 'King of Fruits' in Italian fashion, a melt-in-your-mouth experience to be slowly savoured for full effect."
+    },
+    "image": {
+        "@id": "https://i2.wp.com/davinadavegan.com/wp-content/uploads/2018/07/DSC_0500ed.jpg?resize=1024%2C683&ssl=1"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Durian Panna Cotta"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup fresh durian pulp"
+        },
+        {
+            "@language": "en-US",
+            "@value": "500ml coconut milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp agar powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 1/2 tbsp brown sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp turmeric powder for colouring (optional)"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                        Step 1 Blend durian pulp with coconut milk, brown sugar and optional turmeric powder until smooth.\n                        Step 2 Add agar powder to water in a cooking pot. Stir to dissolve.\n                        Step 3 Cook over low fire for 2 minutes, stirring constantly until the liquid starts to become thick and viscous.\n                        Step 4 Add blended durian mixture to the pot. Keep the pot on low heat as you continue to stir, for the agar water to mix evenly into the durian mix. Remove mixture from heat after stirring for approximately 30 seconds, or at the first sign of bubbling or steam, whichever comes first.\n                        Step 5 Pour mixture into small glasses or jelly moulds.\n                        Step 6 Place in the fridge and allow to set for minimum 2 hours.\n                        Step 7 Serve directly in glasses. If with moulds, turn them upside down onto a plate and tap on the top lightly to get the panna cotta out and resting on the plate. Serve immediately.\n                    "
+    },
+    "@id": "http://example.org/recipe"
+}

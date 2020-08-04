@@ -1,0 +1,82 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "fr-FR",
+            "@value": "6"
+        },
+        "ratingValue": {
+            "@language": "fr-FR",
+            "@value": "4.8"
+        }
+    },
+    "author": {
+        "@language": "fr-FR",
+        "@value": "Samar"
+    },
+    "image": {
+        "@id": "https://www.mesinspirationsculinaires.com/wp-content/uploads/2014/04/confiture-de-poire-fait-maison-1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "Jus de citron"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "6 poires (Type Williams)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Vanille (ou b\u00e2tonnet de cannelle, gingembre frais)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Sucre"
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Confiture de Poire-Gingembre"
+    },
+    "recipeCategory": {
+        "@language": "fr-FR",
+        "@value": "Confiture"
+    },
+    "recipeCuisine": {
+        "@language": "fr-FR",
+        "@value": "Francaise"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "fr-FR",
+            "@value": "R\u00e9duire le feu et laisser cuire la confiture pendant 20 minutes en remuant de temps en temps."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Verser les morceaux de poires et leurs jus dans une casserole profonde, ajouter le b\u00e2tonnet de cannelle et porter \u00e0 \u00e9bullition."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Mixer la confiture de poire si d\u00e9sir\u00e9 ou garder ainsi les morceaux de poire (je la mixe l\u00e9g\u00e8rement) et Verser dans les pots \u00e0 confiture aussit\u00f4t. Retourner et laisser refroidir avant de les stocker."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Pendant ce temps pr\u00e9parer les pots st\u00e9rilis\u00e9s."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Rincer, \u00e9plucher et \u00e9p\u00e9piner les poires. Couper en morceaux et arroser de jus de citron."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Peser les poires et peser la m\u00eame quantit\u00e9 de sucre. Verser le tout dans un saladier. Couvrir d'un film alimentaire et laisser mac\u00e9rer au minimum 4 heures au r\u00e9frig\u00e9rateur (ou toute une nuit)."
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

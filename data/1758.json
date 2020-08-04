@@ -1,0 +1,7 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://www.tvonlinehd.org/img/cameras/radio-jornal-recife.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,67 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.foodista.com/sites/default/files/styles/recype/public/DSC06555.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "fresh rosemary sprig, for garnish (optional)"
+        },
+        {
+            "@language": "en",
+            "@value": "2 ounces cranberry juice"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 ounce creme de cassis"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tablespoon fresh cranberry sauce or cranberry jam"
+        },
+        {
+            "@language": "en",
+            "@value": "blood orange slice, for garnish"
+        },
+        {
+            "@language": "en",
+            "@value": "1 teaspoon honey"
+        },
+        {
+            "@language": "en",
+            "@value": "2 dashes orange bitters"
+        },
+        {
+            "@language": "en",
+            "@value": "2 1/2 ounces dry, fruity white wine"
+        },
+        {
+            "@language": "en",
+            "@value": "splash of ginger beer (optional)"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Cranberry-Cassis White Wine Spritzer "
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Add a splash of ginger beer (if using) and garnish with a blood orange slice and a sprig of rosemary."
+        },
+        {
+            "@language": "en",
+            "@value": "Place a handful of ice into a lowball glass and set aside."
+        },
+        {
+            "@language": "en",
+            "@value": "Using a cocktail shaker, add the cranberry sauce, honey, wine, cassis, cranberry juice and bitters. Shake vigorously for about 20 seconds. Double strain into the prepared cocktail class."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "1"
+    },
+    "@id": "http://example.org/recipe"
+}

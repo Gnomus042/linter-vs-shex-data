@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "3.0"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Alka"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Traditional Sindhi Pickle of Onions Pickled in Mustard seeds and water, flavored with fresh green garlic. A zero oil pickle Recipe."
+    },
+    "image": {
+        "@id": "http://sindhirasoi.com/wp-content/uploads/2012/04/onion_pickle_3.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "Yellow mustard seeds 3tbsp"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Baby Onions ( Red onions or white or spring onions ) 500 gm"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Red chilly powder 2 tsp"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Salt Approx 2 tsp (more or less)."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Turmeric powder 2 heaped tbsp"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Fresh garlic 25 gm (with green stalks)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Water (preferably boiled and cooled)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Basar Ji khatairn| Onion Pickle| No Oil Pickle"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Indian Pickle"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Keep the jar in sun light or at warm place for 2-3 days.The pickle is ready to be consumed now !"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Coarsely pound the yellow mustard seeds.Chop the fresh garlic along with green stalks"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Take a sterilized, airtight jar (preferably of glass or porcelain) and mix all the ingredients (The water must be above the levels of Onions)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "If fresh garlic is unavailable, you can add green stalks of spring onions or even chives.For that missing garlic flavor, just add 2 cloves of crushed garlic."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Peel baby onions and rinse well."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Slit the onions at the broader end to make a *+*"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

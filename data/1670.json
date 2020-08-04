@@ -1,0 +1,35 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "nl-NL",
+        "@value": "Deze hartige taart is toevallig ontstaan en bleek een succes. Je kunt hem ook gerust aan een vleeseter voorschotelen. Maar als vegetari\u00ebr kun je er natuurlijk zelf ook lekker van genieten :-)."
+    },
+    "image": {
+        "@id": "https://eetsuggestie.nl/vegetarische-recepten/images/vega-recepten/290x290/255.jpg"
+    },
+    "name": {
+        "@language": "nl-NL",
+        "@value": " Hartige vegetarische taart met quorn gehakt en aubergine "
+    },
+    "recipeCategory": {
+        "@language": "nl-NL",
+        "@value": "\n\thoofdgerecht"
+    },
+    "recipeCuisine": {
+        "@language": "nl-NL",
+        "@value": "\n\tvegetarisch"
+    },
+    "recipeInstructions": {
+        "@language": "nl-NL",
+        "@value": "\nAls je nog geen gekookte aardappels hebt dan deze koken en laten afkoelen, of met een heel klein beetje water en in magnetronfolie gewikkeld in 6 minuten op 1000Watt de aardappels koken en daarna laten afkoelen.\nVerwarm de elektrische oven voor op 180\u00b0C.\nWas de aubergine en snijd deze in miniscule blokjes (3mm).\nSnijd de aardappels in kleine platte stukjes.\nSnijd de ui fijn, en ook de knoflook.\nVerwarm 1 eetlepel olijfolie in een koekenpan met anti-aanbaklaag en voeg daar het quorn gehakt aan toe. Bak het 1 minuut al roerend om.\nVoeg de helft van de knoflook en ui toe aan het quorn gehakt en bak het geheel mooi bruin aan. \nBreng het gehakt mengsel op smaak met maggi en peper en roer het nog een paar keer al bakkend om. Zet het gehakt mengsel tijdelijk in een bakje weg (niet in de koelkast).\nHaal het bladerdeeg uit de vriezer en knip de verpakking open. Leg de plakjes naast elkaar op het aanrechtblad zodat het kan ontdooien.\nDoe in dezelfde koekenpan 2 eetlepels olijfolie, verwarm deze en voeg daarna de aubergine blokjes toe. Roer regelmatig om. Na een paar minuten voeg je de rest van de ui en knoflook toe samen met de italiaanse kruiden en ook wat maggi en peper. Bak de aubergine nog even aan totdat deze beetgaar is.\nVoeg het quorn gehakt toe aan de aubergine en meng het geheel.\nSnijd de tomaten in hele kleine stukjes.\nLeg een vel bakpapier op de bodem van de springvorm. Doe daar de rand bovenop en sluit deze. Smeer de rand en de bodem in met een klein beetje olijfolie.\nLeg de bladerdeegplakjes dakpansgewijs in de springvorm waarbij je ongeveer 3-4cm omhoog laat komen langs de rand. Vul de gaten op met stukjes van de overlappende gedeeltes.\nStrooi de gekookte aardappelstukjes over de bladerdeegbodem en daarover de aromat en wat peper. \nDoe daar bovenop het aubergine vega gehakt mengsel.\nDoe de 3 eieren in een kom met de room, kerriepoeder, paprikapoeder, zout, peper en klop los.\nGiet het eiermengsel over de hartige taart en hou de vorm schuin en klop zachtjes tegen de zijkanten om het mengsel goed in alle plekjes te laten doorsijpelen.\nDoe daar bovenop de tomaatstukjes en bestrooi het geheel met de geraspte kaas.\nZet de hartige taart in de oven en laat deze in 30-45 minuten gaar worden. Controleer tussentijds of de kaas en de rand niet te donker wordt: leg er in dat geval een stukje aluminiumfolie overheen om aanbranden te voorkomen.\n"
+    },
+    "recipeYield": {
+        "@language": "nl-NL",
+        "@value": "\n\t4 personen"
+    },
+    "totalTime": {
+        "@language": "nl-NL",
+        "@value": "50 minuten"
+    },
+    "@id": "http://example.org/recipe"
+}

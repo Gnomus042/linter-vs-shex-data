@@ -1,0 +1,128 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "4.83"
+        },
+        "reviewCount": {
+            "@value": "12"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://images.media-allrecipes.com/userphotos/50x50/5346107.jpg"
+        },
+        "name": {
+            "@value": "EatingWell Test Kitchen"
+        }
+    },
+    "description": {
+        "@value": "Whole-wheat couscous soaks up this savory saffron-infused broth. "
+    },
+    "image": {
+        "@value": "http://images.media-allrecipes.com/userphotos/960x960/3756338.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\u00bc cup vegetable broth"
+        },
+        {
+            "@value": "\u00bd cup whole-wheat couscous"
+        },
+        {
+            "@value": "2 teaspoons extra-virgin olive oil"
+        },
+        {
+            "@value": "\u00bd teaspoon fennel seed"
+        },
+        {
+            "@value": "4 ounces bay scallops, tough muscle removed"
+        },
+        {
+            "@value": "\u00bc teaspoon salt"
+        },
+        {
+            "@value": "1 cup no-salt-added diced tomatoes, with juice"
+        },
+        {
+            "@value": "1 medium onion, chopped"
+        },
+        {
+            "@value": "\u00bd teaspoon dried thyme"
+        },
+        {
+            "@value": "4 ounces small shrimp, (41-50 per pound), peeled and deveined"
+        },
+        {
+            "@value": "\u00bc teaspoon freshly ground pepper"
+        },
+        {
+            "@value": "1 clove garlic, minced"
+        },
+        {
+            "@value": "Pinch of crumbled saffron threads"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "True"
+    },
+    "name": {
+        "@value": "Seafood Couscous Paella"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "403 calories;"
+        },
+        "carbohydrateContent": {
+            "@value": "60"
+        },
+        "cholesterolContent": {
+            "@value": "105"
+        },
+        "fatContent": {
+            "@value": "7"
+        },
+        "fiberContent": {
+            "@value": "10"
+        },
+        "proteinContent": {
+            "@value": "27"
+        },
+        "saturatedFatContent": {
+            "@value": "1"
+        },
+        "sodiumContent": {
+            "@value": "1,019"
+        },
+        "sugarContent": {
+            "@value": "7"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@value": "Fish & Seafood"
+        },
+        {
+            "@value": "Ingredients"
+        },
+        {
+            "@value": "Shellfish"
+        },
+        {
+            "@value": "Shrimp"
+        },
+        {
+            "@value": "Pasta"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        Heat oil in a large saucepan over medium heat. Add onion; cook, stirring constantly, for 3 minutes. Add garlic, thyme, fennel seed, salt, pepper and saffron; cook for 20 seconds.\n                        Stir in tomatoes and broth. Bring to a simmer. Cover, reduce heat and simmer for 2 minutes.\n                        Increase heat to medium, stir in scallops and cook, stirring occasionally, for 2 minutes. Add shrimp and cook, stirring occasionally, for 2 minutes more. Stir in couscous. Cover, remove from heat and let stand for 5 minutes; fluff.\n            "
+    },
+    "recipeYield": {
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

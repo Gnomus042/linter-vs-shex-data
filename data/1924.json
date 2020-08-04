@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@value": "Null"
+        },
+        {
+            "@value": "1/2 tsp vanilla"
+        },
+        {
+            "@value": "1 tbsp vegetable/canola oil"
+        },
+        {
+            "@value": "3 tbsp sugar"
+        },
+        {
+            "@value": "1/2 tsp salt"
+        },
+        {
+            "@value": "1 tsp baking powder"
+        },
+        {
+            "@value": "2/3 cup chocolate chips"
+        },
+        {
+            "@value": "3 tbsp sliced almonds"
+        },
+        {
+            "@value": "2 tbsp vegetable/canola oil"
+        },
+        {
+            "@value": "1 egg"
+        },
+        {
+            "@value": "6 tbsp milk"
+        },
+        {
+            "@value": "1 tbsp butter, melted"
+        },
+        {
+            "@value": "1/2 cup unsweetened cocoa powder"
+        },
+        {
+            "@value": "3 tbsp shredded coconut"
+        },
+        {
+            "@value": "1 cup flour"
+        }
+    ],
+    "name": {
+        "@value": "Double Chocolate Coconut Almond Donuts"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Take the sliced almonds and break them into smaller pieces by using your fingers. Do the same with the shredded coconut, break them into smaller pieces. Combine the almonds and the coconut in a shallow bowl, set aside for later."
+        },
+        {
+            "@value": "Dip the donuts into the almond/coconut mixture, slightly pressing the donut into the mixture so the chocolate is completely covered."
+        },
+        {
+            "@value": "Bake the donuts for 10 minutes, or until a toothpick comes out clean. Remove from the oven and let the donuts sit in the pan for 10 minutes before moving them to a wire rack."
+        },
+        {
+            "@value": "Transfer the batter to a large piping bag or use a ziploc bag with one corner cut off. Pipe the batter into the donut pan, filling each donut hole about 2/3 full."
+        },
+        {
+            "@value": "Preheat the oven to 325 degrees F. Spray a donut pan with cooking spray, use a paper towel to lightly spread/remove excess spray."
+        },
+        {
+            "@value": "For the chocolate ganache: Combine the chocolate and oil in a shallow microwave safe bowl and microwave on 60% power, stirring every 30 seconds for about 2 minutes. You do not want the chocolate to be too runny. Let the chocolate sit for a few minutes so it can thicken before you dip the donuts into the chocolate. Dip each donut into the chocolate, allowing the excess to fall off. Let the chocolate covered donuts sit for 2-3 minutes on a cooling rack before dipping them into the coconut and sliced almonds."
+        },
+        {
+            "@value": "In a large bowl, combine the flour, cocoa powder, sugar, baking powder and salt. In another bowl, combine the milk, eggs, vanilla, butter and oil. Stir the dry ingredients into the wet ingredients, mix just until combined."
+        }
+    ],
+    "recipeYield": {
+        "@value": "6 donuts"
+    },
+    "totalTime": {
+        "@value": "35 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

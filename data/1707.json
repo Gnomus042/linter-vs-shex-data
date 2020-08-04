@@ -1,0 +1,102 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Debjani Chatterjee"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Indian dessert Posto badam Halwa prepared with Poppyseed and Almond"
+    },
+    "image": {
+        "@id": "https://kitchenofdebjani.com/wp-content/uploads/2012/10/Posto-badam-2BHalwa-320x320.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "Milk: \u00bd Cup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Poppyseed/ Posto/Khuskhus: 150g"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Condensed Milk: \u00bd cup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Sugar: 100g"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Ghee/ Clarified Butter: 75 g"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Almond/ Kath Badam/Badam: 100g"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Kuskhus Badam Halwa | Posto badam halwa"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Dessert"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Bengali"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Heat ghee in a non-stick pan and add paste of posto to it. Saute on low flame for 5 to 7 minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Make a paste of almonds as well."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Drain water from posto and grind to a semi-thick paste. If required, add 1 tbsp milk."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add condensed milk and normal milk."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Now add sugar to the mixture and saute until sugar dissolves completely."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add almond paste and saute for five more minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cook until halwa turns to semi-solid consistency and stops sticking to the pan."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Remove from flame and garnish Posto Badam Halwa with whole almonds. Serve hot."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Soak posto and almonds separately in hot water for five hours or overnight."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

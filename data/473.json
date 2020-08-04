@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.5"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "970"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Sandra Maggs"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT1H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "A Teenage World Where Boredom Overcomes Fear Provides The Background For A Crime When The Crows, A Small Gang From The Village Of Oxmarsh, Become Involved In A Murder Investigation, Loyalty Is Forgotten Finger Pointing And Accusations Fly As All Roads Lead Back To The Leader Of The Gang, Raven Aubry But Is She Being Framed Or Is The Fifteen Year Old Capable Of Killing Without Remorse Subtle Clues Lead In A Direction That Only The Sharpest Detective Will Identify And As DS Herman Deverick Attempts To Solve The Final Crime Of His Career, The Leads He Follows Take An Irregular Twist Can He Get To The Bottom Of It Or Is This One Murder That Just Can T Be Solved"
+    },
+    "image": {
+        "@id": "http://new-books.run/wp-content/upload/2017/3f0b3a8c0bc24c0768ef4cbf113a5ad7images9b3f423fdef5a2e32dd978913b01d7d8gr-assets9b3f423fdef5a2e32dd978913b01d7d8com/books/1544134331l/421846879b3f423fdef5a2e32dd978913b01d7d8jpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "970"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "Scavenger ,download, read online, e-pub, pdf, free, kindle ebook"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "[KINDLE] \u2741 Scavenger  \u2744 Sandra Maggs \u2013 New-books.run"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "[KINDLE] \u2741 Scavenger  \u2744 Sandra Maggs \u2013 New-books.run A Teenage World Where Boredom Overcomes Fear Provides The Background For A Crime When The Crows, A Small Gang From The Village Of Oxmarsh, Become Involved In A Murder Investigation, Loyalty Is Forgott"
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT14M"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "applied mathematics"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "[KINDLE] \u2741 Scavenger  \u2744 Sandra Maggs \u2013 New-books.run A Teenage World Where Boredom Overcomes Fear Provides The Background For A Crime When The Crows, A Small Gang From The Village Of Oxmarsh, Become Involved In A Murder Investigation, Loyalty Is Forgott"
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "Scavenger "
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://new-books.run/wp-content/upload/2017/3f0b3a8c0bc24c0768ef4cbf113a5ad7images9b3f423fdef5a2e32dd978913b01d7d8gr-assets9b3f423fdef5a2e32dd978913b01d7d8com/books/1544134331l/421846879b3f423fdef5a2e32dd978913b01d7d8jpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2018-07-06T09:34+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

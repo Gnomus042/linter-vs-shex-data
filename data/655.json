@@ -1,0 +1,166 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ru-RU",
+        "@value": "\u041e\u043b\u044f"
+    },
+    "comment": [
+        {
+            "@id": "_:N28600841475348d185916b05b9b81fbf"
+        },
+        {
+            "@id": "_:N07824c207978495786d763387b423357"
+        },
+        {
+            "@id": "_:Nd1267b4ac0a442ceb7dc0652db5114a5"
+        },
+        {
+            "@id": "_:Ne3805aaad6234b9ba8f5409a9bc3d792"
+        },
+        {
+            "@id": "_:Nace8834ab27041e19c974c239e89a1e5"
+        },
+        {
+            "@id": "_:N4b24c3876cad4a2e9a83d0b2a2e410d4"
+        },
+        {
+            "@id": "_:N2cf54313751e42a2a79f208e8a2955e6"
+        },
+        {
+            "@id": "_:N88028228fa1749f59daa0032b30b7d70"
+        },
+        {
+            "@id": "_:N8b0d648006b34b209a63e6d4df7a3f68"
+        },
+        {
+            "@id": "_:N283ad6b3911c4e32b00a9a8a4bbcbc89"
+        },
+        {
+            "@id": "_:Nf254801f4b534358912b89317f2763ed"
+        }
+    ],
+    "image": [
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_08.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_04.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_07.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_16.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_14.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_01.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_13.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/plugins/share-buttons/images/social/original_count/facebook_ru.png"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_11.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_15.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_03.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_09.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_17.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_12.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/plugins/share-buttons/images/social/original_count/liveinternet.png"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_05.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_06.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/plugins/wp-images-lazy-loading/images/grey.gif"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/plugins/share-buttons/images/social/original_count/yandex.png"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_10.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/shokoladny-j-tort-s-chernoj-smorodinoj-venetsianskij-kupets//wp-content/uploads/2013/07/shokoladniy-tort-s-chernoy-smorodinoy-venecianskiy-kupec_02.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "ru-RU",
+            "@value": "300 \u0433 \u0447\u0435\u0440\u043d\u043e\u0439 \u0441\u043c\u043e\u0440\u043e\u0434\u0438\u043d\u044b"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "2,5 \u0441\u0442\u0430\u043a\u0430\u043d\u0430 \u043c\u0443\u043a\u0438"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "1 \u0441\u0442\u0430\u043a\u0430\u043d \u0441\u0430\u0445\u0430\u0440\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "6 \u0441\u0442\u043e\u043b\u043e\u0432\u044b\u0445 \u043b\u043e\u0436\u0435\u043a \u043a\u0430\u043a\u0430\u043e"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "2 \u043f\u0430\u043a\u0435\u0442\u0438\u043a\u0430 \u0440\u0430\u0437\u0440\u044b\u0445\u043b\u0438\u0442\u0435\u043b\u044f"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "1 \u0441\u0442\u0430\u043a\u0430\u043d \u0441\u0430\u0445\u0430\u0440\u0430 (\u043f\u043e \u0432\u043a\u0443\u0441\u0443)"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "2 \u0441\u0442\u0430\u043a\u0430\u043d\u0430 \u0441\u0430\u0445\u0430\u0440\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "1/2 \u0441\u0442\u0430\u043a\u0430\u043d\u0430 \u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043c\u0430\u0441\u043b\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "1 \u0441\u0442\u0430\u043a\u0430\u043d \u043c\u043e\u043b\u043e\u043a\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "1 \u0441\u0442\u0430\u043a\u0430\u043d \u043a\u0438\u043f\u044f\u0442\u043a\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "2 \u044f\u0439\u0446\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "500 \u0433 \u0436\u0438\u0440\u043d\u043e\u0439 \u0441\u043c\u0435\u0442\u0430\u043d\u044b \u043d\u0435 \u043c\u0435\u043d\u0435\u0435 30% (\u043c\u043e\u0436\u043d\u043e \u0441\u043b\u0438\u0432\u043a\u0438)"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "1 \u043f\u0430\u043a\u0435\u0442\u0438\u043a \u0432\u0430\u043d\u0438\u043b\u0438"
+        }
+    ],
+    "name": {
+        "@language": "ru-RU",
+        "@value": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434\u043d\u044b\u0439 \u0442\u043e\u0440\u0442 \u0441 \u0447\u0435\u0440\u043d\u043e\u0439 \u0441\u043c\u043e\u0440\u043e\u0434\u0438\u043d\u043e\u0439 \u00ab\u0412\u0435\u043d\u0435\u0446\u0438\u0430\u043d\u0441\u043a\u0438\u0439 \u043a\u0443\u043f\u0435\u0446\u00bb"
+    },
+    "@id": "http://example.org/recipe"
+}

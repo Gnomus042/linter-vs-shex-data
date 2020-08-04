@@ -1,0 +1,8 @@
+{
+    "@type": "Recipe",
+    "headline": {
+        "@language": "hu",
+        "@value": "Csokis kal\u00e1cs"
+    },
+    "@id": "http://example.org/recipe"
+}

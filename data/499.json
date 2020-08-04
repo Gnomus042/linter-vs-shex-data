@@ -1,0 +1,61 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "sk",
+        "@value": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t20\n\t\t\t\t\t\t\tmin\u00fat\n\t\t\t\t\t\t"
+    },
+    "image": {
+        "@id": "https://zvolensky.com/wp-content/uploads/2016/12/Kurac\u00ed-sendvi\u010d-1024x576.jpg"
+    },
+    "name": {
+        "@language": "sk",
+        "@value": "Kurac\u00ed sendvi\u010d"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "sk",
+            "@value": "rukola"
+        },
+        {
+            "@language": "sk",
+            "@value": "maslo"
+        },
+        {
+            "@language": "sk",
+            "@value": "BAGETA:"
+        },
+        {
+            "@language": "sk",
+            "@value": "2-3 PL bieleho Zvolensk\u00e9ho smotanov\u00e9ho jogurtu"
+        },
+        {
+            "@language": "sk",
+            "@value": "1 PL javorov\u00e9ho sirupu"
+        },
+        {
+            "@language": "sk",
+            "@value": "kuracie prsia"
+        },
+        {
+            "@language": "sk",
+            "@value": "1 ly\u017ei\u010dka pikantnej chilli om\u00e1\u010dky"
+        },
+        {
+            "@language": "sk",
+            "@value": "OM\u00c1\u010cKA:"
+        },
+        {
+            "@language": "sk",
+            "@value": "1 vajce"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "sk",
+        "@value": "\n\t\t\t\t\t\tOm\u00e1\u010dka: Do misky vlo\u017e\u00edme 2 a\u017e 3 PL bieleho Zvolensk\u00e9ho smotanov\u00e9ho jogurtu. Prid\u00e1me 1 PL javorov\u00e9ho sirupu a 1 ly\u017ei\u010dku pikantnej chilli om\u00e1\u010dky. Dobre zamie\u0161ame.\u00a0\nBageta:\u00a0Kuracie m\u00e4so priprav\u00edme na pr\u00edrodno. Na rozohriatej panvici si priprav\u00edme volsk\u00e9 oko. Bagetu rozkroj\u00edme na dve polky a ope\u010dieme ju bu\u010f v toastova\u010di alebo na panvici. Jednu polovicu potom potrieme maslom. Prid\u00e1me kuracie m\u00e4so a polejeme ho na\u0161ou om\u00e1\u010dkou, ktor\u00e1 ho skvelo dochut\u00ed. Navrch d\u00e1me rukolu, volsk\u00e9 oko a prikryjeme druhou polovicou bagety.\n\u00a0\n\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "sk",
+        "@value": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t1x\n\t\t\t\t\t\t\tporcia/e\n\t\t\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

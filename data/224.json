@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5.0"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://res.cloudinary.com/mealthy1/image/upload/c_fill,f_auto,h_70,q_auto:best,w_70/v1517416109/profile_images/a47tww59o6bha8irweov.png"
+        },
+        "name": {
+            "@language": "en",
+            "@value": "Team Mealthy"
+        }
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n            This recipe trims some of the fat from traditional creamed spinach through the use of Greek yogurt and reduced-fat milk, while bringing plenty of garlic and Parmesan cheese flavor. \n          "
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://res.cloudinary.com/mealthy1/image/upload/ar_16:11,c_fill,f_auto,h_688,q_auto:best,w_1000/v1513097807/Skinny-Cream-Spinach-1-1_edkktl.png"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Skinny Creamed Spinach"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://mealthy.com/recipes/1612/skinny-creamed-spinach"
+    },
+    "@id": "http://example.org/recipe"
+}

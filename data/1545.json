@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://mag.the4blades.com/author/ronaldcalma/"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT46M"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2018-10-01"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "This is a great recipe that can be prepared ahead of time. It uses ingredients that you probably have in your cupboard right now, and it's a recipe you can set and forget. Keep it in the freezer ready to defrost, then cook up this tasty meal on a busy night with minimal effort! It's so simple to make that you could easily go and do other things whilst dinner is cooking.\nRecipe Tester Feedback: \u201cWe actually had this for dinner as a spaghetti Bolognese base, and the kids loved it! My 10 year old is extremely fussy, and she ate all of it and said it was really yummy!\" - Claire\nNo: Gluten / Dairy / Egg / Nuts\nPreparation Time 5 minutes\nCooking Time 46 minutes\nServes 6 with meatballs\nCan be frozen\nYou will need:\nknife\nchopping board\nspatula\ninternal steaming basket\nairtight container\n"
+    },
+    "image": {
+        "@id": "https://mag.the4blades.com/wp-content/uploads/2018/09/Tuscan-Meatballs-Meal-Base_01-150x150.jpg"
+    },
+    "ingredients": [
+        {
+            "@id": "https://mag.the4blades.com/ingredients/meatballs-of-choice/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/salt/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/dried-basil/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/dried-oregano/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/dried-rosemary/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/pasta/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/tomato-paste/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/tinned-tomatoes/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/olive-oil/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/garlic-cloves/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/red-wine/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/pepper/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/onion/"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Tuscan Meatballs Meal Base"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT5M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n            \nAdd the peeled and quartered onions (2) and peeled garlic cloves (5) to the bowl. Chop Speed 7 / 3 seconds. Scrape down sides.\nAdd the olive oil (30g) to the bowl. Program 6 minutes / 110C* / Speed 2.\nAdd the diced tomatoes (800g tin), tomato paste (50g), red wine (200g), dried basil (1 Tbsp), dried oregano (1 Tbsp), dried rosemary (1 Tbsp), salt (1 tsp) and cracked black pepper (1 tsp) to the bowl. Program 40 minutes / 100C / Speed 2. Set the internal steaming basket on top of the lid to prevent spatters.\nStore in an airtight container in the refrigerator or freezer until needed.\n\n\u00a0\nServing suggestion:\n\nPlace chilled meatballs of choice into a large casserole dish and cover them in the meal base sauce.\nBake at 180C for 20-30 minutes until meatballs are cooked through.\nServe over cooked pasta of choice.\nEnjoy!\n\n*If your machine does not go above 100C, set to Steaming Temperature which is usually between 110-115C. Please refer to your user manual for correct information for the appropriate setting for your machine.\nMake your own!\n* Make your own tomato paste with the Pizza Sauce / Tomato Paste recipe from The Make Your Own Bonus Issue.\n\n        "
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,73 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://livinglasvegans.com/lvgns/uploads/2017/03/16996006_10212053042991639_5898127554201522326_n.jpg"
+    },
+    "name": {
+        "@language": "es",
+        "@value": "Ensalada de cous cous y garbanzos"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "es",
+            "@value": "250 gr de cous cous"
+        },
+        {
+            "@language": "es",
+            "@value": "1 zanahoria grande rallada"
+        },
+        {
+            "@language": "es",
+            "@value": "Para el ali\u00f1o:"
+        },
+        {
+            "@language": "es",
+            "@value": "Media cucharadita de comino"
+        },
+        {
+            "@language": "es",
+            "@value": "50 ml de aceite de oliva"
+        },
+        {
+            "@language": "es",
+            "@value": "1 pu\u00f1ado de pipas de calabaza"
+        },
+        {
+            "@language": "es",
+            "@value": "1 buen pu\u00f1ado de perejil fresco picado"
+        },
+        {
+            "@language": "es",
+            "@value": "1 chorrito de sirope de agave"
+        },
+        {
+            "@language": "es",
+            "@value": "250 ml de agua"
+        },
+        {
+            "@language": "es",
+            "@value": "6 d\u00e1tiles sin hueso"
+        },
+        {
+            "@language": "es",
+            "@value": "Media cucharadita de sal"
+        },
+        {
+            "@language": "es",
+            "@value": "200 gr de garbanzos cocidos"
+        },
+        {
+            "@language": "es",
+            "@value": "El zumo de 1 lim\u00f3n"
+        },
+        {
+            "@language": "es",
+            "@value": "2 cebolletas"
+        }
+    ],
+    "recipeYield": {
+        "@language": "es",
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

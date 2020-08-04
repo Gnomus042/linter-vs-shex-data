@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Tracey | The Kitchen is My Playground"
+        }
+    },
+    "cookTime": {
+        "@value": "cook time: 50 M"
+    },
+    "description": {
+        "@value": "\nAre you buying a packaged mix to make beer bread?  Stop!  With just four simple ingredients, you can make your own beer bread at home ~ no mix required.  And one of those simple ingredients?  You guessed it.  It's a beer."
+    },
+    "image": {
+        "@id": "https://4.bp.blogspot.com/-grzNy0jnYFs/Wz2EUvyIVMI/AAAAAAAAogE/MBdx2CGXoy0uzFM-iDb8Vyld9KbKGV1-wCLcBGAs/s640/Beer-Bread-Image%2B1.JPG"
+    },
+    "keywords": {
+        "@value": "\nHow to Make Beer Bread without a mix, How to Make Beer Bread, beer bread recipe"
+    },
+    "name": {
+        "@value": "\nHow to Make Beer Bread: 3 Simple Ingredients + a Beer"
+    },
+    "prepTime": {
+        "@value": "prep time: 10 M"
+    },
+    "recipeCategory": {
+        "@value": "\nBREADS"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "4 T. butter, melted"
+        },
+        {
+            "@value": "3 c. self-rising flour"
+        },
+        {
+            "@value": "3 T. granulated sugar"
+        },
+        {
+            "@value": "1 (12 oz.) beer {any kind will do}"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Bake at 375 degrees for 45 - 50 minutes. Serve warm or at room temperature."
+        },
+        {
+            "@value": "Pour melted butter evenly over the top of batter in the pan. Do not stir."
+        },
+        {
+            "@value": "In a mixing bowl, stir together flour and sugar. Add beer; mix until well combined. Place batter in a greased loaf pan."
+        }
+    ],
+    "recipeYield": {
+        "@value": "10-12 servings"
+    },
+    "totalTime": {
+        "@value": "total time: 60 M"
+    },
+    "url": {
+        "title": {
+            "@value": "\nHow to Make Beer Bread: 3 Simple Ingredients + a Beer | The Kitchen is My Playground\n"
+        },
+        "item": [
+            {
+                "@id": "_:Nb8c4cebaf9cf4c508448c34bf66c581e"
+            },
+            {
+                "@id": "_:Na637230ed22f4d89ac25f54ea726dd70"
+            },
+            {
+                "@id": "_:Nf18335f04064473bb8f78e0e2ebbf6f6"
+            },
+            {
+                "@id": "_:N7a268208590f4d5ca389c876dfc5e93a"
+            },
+            {
+                "@id": "_:Nc045f51cbdb3437d94d98f5ce2660932"
+            },
+            {
+                "@id": "_:N381d9a63715b4882b134816fde85b562"
+            },
+            {
+                "@id": "_:Ned218649b7f24c14a1ea8c659fa716b0"
+            }
+        ]
+    },
+    "@id": "http://example.org/recipe"
+}

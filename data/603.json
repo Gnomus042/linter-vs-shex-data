@@ -1,0 +1,119 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Joan Donogh"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Raisins are boiled and the remaining raisin water is used to flavor this tasty spice cake."
+    },
+    "image": {
+        "@id": "https://www.nowyourecookingrecipes.com/wp-content/uploads/2014/06/boiledraisincake.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups raisins"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 cups water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon cloves"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup brown sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon nutmeg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup icing (confectioners') sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons whole milk or cream"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup sugar"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Pat's Boiled Raisin Cake"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Dessert"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "American"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Drain raisins and reserve juice. Add raisins to the creamed mixture. Add flour mixture and stir to combine. Add reserved raisin juice (1 cup) last."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Boil raisins and water until there is one cup of juice remaining. Remove from heat and cool."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Remove from heat and add icing sugar. Beat until creamy. Stir in vanilla. Spread over top of cooled cake."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Melt butter. Add brown sugar. Stir over low heat for 2 minutes. Add milk and stir until it comes to a boil."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat oven to 350 degrees F. In a small bowl, combine flour, baking soda, and spices. In mixer bowl, cream together butter and sugar. Beat in eggs. Stir in vanilla."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spread batter in a greased 11 by 7 inch oblong or 9 inch square pan. Bake for 35 to 40 minutes, until top of cake springs back when touched lightly. Cool."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "12"
+    },
+    "@id": "http://example.org/recipe"
+}

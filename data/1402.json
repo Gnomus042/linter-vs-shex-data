@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemreviewed": {
+            "@language": "it",
+            "@value": "Scaricare video da Youtube"
+        },
+        "ratingValue": {
+            "@language": "it",
+            "@value": "4.9"
+        },
+        "reviewCount": {
+            "@language": "it",
+            "@value": "231"
+        }
+    },
+    "image": {
+        "@id": "https://it.savefrom.net//img/icon_100.png"
+    },
+    "ingredients": {
+        "@language": "it",
+        "@value": "SaveFrom.Net Youtube Video Downloader \u00e8 un eccellente servizio che ti aiuta a scaricare video o musica da Youtube in modo rapido e gratuito. Non \u00e8 necessario installare altri software o cercare un servizio online funzionale per scaricare video online. Ecco SaveFrom.Net! Ti aiuta a scaricare video, spettacoli televisivi o giochi sportivi da vari siti web inserendo l'URL del video e cliccando su Download. La nostra estensione di download video \u00e8 disponibile anche per Chrome."
+    },
+    "name": {
+        "@language": "it",
+        "@value": "Scaricare video da Youtube"
+    },
+    "@id": "http://example.org/recipe"
+}

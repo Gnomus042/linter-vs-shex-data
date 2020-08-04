@@ -1,0 +1,11 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2016-06-08"
+    },
+    "image": {
+        "@id": "http://www.foodreporter.fr/upload/original/1/8/m/j/p/1146352.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

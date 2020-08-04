@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "1.0"
+        },
+        "reviewCount": {
+            "@value": "29"
+        }
+    },
+    "datePublished": {
+        "@value": "2013-05-19"
+    },
+    "description": {
+        "@value": "M\u00e9langer les oeufs, les petits suisses et le sirop d'\u00e9rable \u00e9nergiquement. Ajouter la farine et la levure, m\u00e9langer \u00e0 nouveau. Ajouter les bananes coup\u00e9es en rondelle. Mettre le tout dans un moule \u00e0 cake en silicone sans mati\u00e8re grasse. Faire cuire pendant 30-40min dans un four pr\u00e9chauff\u00e9 \u00e0 150\u00b0, v\u00e9rifier la cuisson avant de sortir du four.\n"
+    },
+    "image": {
+        "@id": "https://lel.s3.amazonaws.com/assets/images/recettes/cake_banane.JPG"
+    },
+    "ingredients": [
+        {
+            "@value": "2 c. \u00e0 c. Levure"
+        },
+        {
+            "@value": "2 Petits suisses"
+        },
+        {
+            "@value": "130g Sirop d'\u00e9rable"
+        },
+        {
+            "@value": "2 unit\u00e9s Oeufs"
+        },
+        {
+            "@value": "100g Farine"
+        },
+        {
+            "@value": "150g pes\u00e9 sans la peau Banane"
+        }
+    ],
+    "name": {
+        "@value": "Cake \u00e0 la banane et au sirop d'\u00e9rable peu calorique"
+    },
+    "recipeCategory": {
+        "@value": "Dessert"
+    },
+    "recipeYield": {
+        "@value": "10 personnes"
+    },
+    "totalTime": {
+        "@value": "PT5M"
+    },
+    "url": {
+        "@value": "https://www.ligne-en-ligne.com/recettes/dessert/1026-cake-a-la-banane-et-au-sirop-d-erable-peu-calorique"
+    },
+    "@id": "http://example.org/recipe"
+}

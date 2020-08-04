@@ -1,0 +1,98 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "fr-FR",
+        "@value": "Greedy Sophie"
+    },
+    "cookTime": {
+        "@language": "fr-FR",
+        "@value": "Cook time:  15 minutes "
+    },
+    "datePublished": {
+        "@language": "fr-FR",
+        "@value": "4 mars 2018"
+    },
+    "description": {
+        "@language": "fr-FR",
+        "@value": "Null"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "fr-FR",
+            "@value": "Null"
+        },
+        "image": {
+            "@id": "http://www.greedysophie.fr/wp-content/uploads/2018/03/DSC_0037.jpg"
+        },
+        "url": {
+            "@language": "fr-FR",
+            "@value": "http://www.greedysophie.fr/wp-content/uploads/2018/03/DSC_0037.jpg"
+        },
+        "width": {
+            "@language": "fr-FR",
+            "@value": "Null"
+        }
+    },
+    "name": {
+        "@language": "fr-FR",
+        "@value": "ENERGY BALLS HEALTHY, VEGAN & CRUES"
+    },
+    "prepTime": {
+        "@language": "fr-FR",
+        "@value": "Prep time:  20 minutes "
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fr-FR",
+            "@value": "Env 100 g de coco r\u00e2p\u00e9e"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "40 g de beurre de cacahu\u00e8tes"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "200 g de dattes d\u00e9noyaut\u00e9es"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "50 g de flocons de ch\u00e2taignes"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "50 g de flocons de sarrasin"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "fr-FR",
+            "@value": "D\u00e9noyautez votre dattes et faites les trempez dans de l\u2019eau ti\u00e8de durant 15 minutes minimum.\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Apr\u00e8s la phase de repos, prenez la p\u00e2te. Roulez des petites boules de p\u00e2te dans les mains et passez les dans la coco r\u00e2p\u00e9e. Vos energy balls sont pr\u00eates !\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Mettez votre p\u00e2te au frais durant 15 minutes minimum.\n"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Dans le bol de votre mixeur, ajoutez votre dattes \u00e9goutt\u00e9es avec les 2 types de flocons et le beurre de cacahu\u00e8tes. Mixez pendant environ 2 minutes \u00e0 vitesse moyenne, jusqu\u2019\u00e0 obtenir une p\u00e2te bien homog\u00e8ne.\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "Serves: Une quinzaine"
+    },
+    "totalTime": {
+        "@language": "fr-FR",
+        "@value": "Total time:  40 minutes "
+    },
+    "url": {
+        "@language": "fr-FR",
+        "@value": "http://www.greedysophie.fr/recipe/energy-balls-healthy-vegan-crues/"
+    },
+    "@id": "http://example.org/recipe"
+}

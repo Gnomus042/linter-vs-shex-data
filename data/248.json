@@ -1,0 +1,140 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Jess (Paleo Grubs)"
+    },
+    "description": {
+        "@value": "No meat for your chili? No problem, not with this recipe that will show you how to make the best instant pot vegetarian chili that I\u00e2\u0080\u0099ve ever tried. What it lacks in meat, it makes up for with flavor and texture thanks to the fresh garden veggies, savory herbs, and fiery hot spices. You\u00e2\u0080\u0099ll be making it with everything from onion, garlic, mushrooms, bell peppers, carrots, and sweet potatoes, so it\u00e2\u0080\u0099s still incredibly filling and of course, since it\u00e2\u0080\u0099s full of vegetables, you get a wide variety of vitamins and minerals, not to mention fiber as well. Save this recipe the next time you want to change up your meat-based dishes."
+    },
+    "image": {
+        "@id": "https://paleogrubs.com/wp-content/uploads/2019/05/5a-instant-pot-vegetarian-chili-1024x1024.jpg"
+    },
+    "name": {
+        "@value": "The Best Instant Pot Vegetarian Chili (Spicy, Rich and Hearty)"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": " 114"
+        },
+        "carbohydrateContent": {
+            "@value": " 20.1 g"
+        },
+        "fatContent": {
+            "@value": " 3.3 g"
+        },
+        "fiberContent": {
+            "@value": " 6.6 g"
+        },
+        "proteinContent": {
+            "@value": " 3.6 g"
+        },
+        "sugarContent": {
+            "@value": " 9 g"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 large red bell pepper, diced"
+        },
+        {
+            "@value": "1 tbsp olive oil"
+        },
+        {
+            "@value": "2 medium carrots, chopped"
+        },
+        {
+            "@value": "1 tbsp chili powder"
+        },
+        {
+            "@value": "1 \u00c2\u00bd cups sliced fresh mushrooms"
+        },
+        {
+            "@value": "salt, black pepper to taste"
+        },
+        {
+            "@value": "1 \u00c2\u00bd tsp dried oregano"
+        },
+        {
+            "@value": "3 tbsp chopped fresh cilantro"
+        },
+        {
+            "@value": "1 (28 ounce) can diced tomatoes"
+        },
+        {
+            "@value": "2 celery stalks, chopped"
+        },
+        {
+            "@value": "1 tbsp ground cumin"
+        },
+        {
+            "@value": "1 \u00c2\u00bd tsp dried basil"
+        },
+        {
+            "@value": "3 garlic cloves, minced"
+        },
+        {
+            "@value": "1 large green bell pepper, diced"
+        },
+        {
+            "@value": "1 large onion, finely chopped"
+        },
+        {
+            "@value": "1 large sweet potato, peeled and diced"
+        }
+    ],
+    "recipeInstructions": {
+        "@type": "ItemList",
+        "itemListElement": [
+            {
+                "@value": "Press the SAUTE button on the Instant pot and let stand until screen reads \u00e2\u0080\u009cHOT\u00e2\u0080\u009d."
+            },
+            {
+                "@value": "Turn the venting knob to SEALING and press PRESSURE COOK button."
+            },
+            {
+                "@value": "Close and seal the Instant pot."
+            },
+            {
+                "@value": "Add the onion and cook for 2-3 minutes."
+            },
+            {
+                "@value": "Remove the lid."
+            },
+            {
+                "@value": "Add the olive oil."
+            },
+            {
+                "@value": "Stir in the chopped cilantro."
+            },
+            {
+                "@value": "When finished cooking, quick-release pressure according to manufacturer\u00e2\u0080\u0099s directions."
+            },
+            {
+                "@value": "Add the sliced mushrooms and cook for 3-4 minutes."
+            },
+            {
+                "@value": "Top with your favorite toppings (sliced jalapeno, avocado, extra cilantro etc\u00e2\u0080\u00a6) and serve."
+            },
+            {
+                "@value": "Season with salt and black pepper to taste."
+            },
+            {
+                "@value": "Add the carrots, celery, bell peppers, chili powder, cumin, oregano, basil, sweet potato and diced tomatoes and mix to combine."
+            },
+            {
+                "@value": "Adjust the timer to 8 minutes."
+            },
+            {
+                "@value": "Add the garlic and cook for 30 seconds."
+            }
+        ]
+    },
+    "recipeYield": {
+        "@value": "1"
+    },
+    "yield": {
+        "@value": "1"
+    },
+    "@id": "http://example.org/recipe"
+}

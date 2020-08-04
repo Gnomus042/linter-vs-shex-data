@@ -1,0 +1,63 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "PacificRim Brew Co"
+    },
+    "cookTime": {
+        "@value": "PT60M"
+    },
+    "description": {
+        "@value": "Author: Pacific Rim / Yaxx, Method: All Grain, Style: British Brown Ale, ABV 9.43%, IBU 52.2, SRM 20.49, Fermentables: (Pale 2-Row, Caramel / Crystal 60L, Flaked Oats, Victory, Chocolate) Hops: (Fuggles, East Kent Goldings) "
+    },
+    "name": {
+        "@value": "\n\t\t\tMad Squirrel - Protect Your Nuts\t\t\t\t\t"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "321 calories"
+        },
+        "carbs": {
+            "@value": "33 carbs"
+        }
+    },
+    "prepTime": {
+        "@value": "PT60M"
+    },
+    "recipeCategory": {
+        "@value": "\n\t\t\t\t\tBritish Brown Ale\t\t\t\t\t"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1.9999999954251 oz East Kent Goldings Hops"
+        },
+        {
+            "@value": "2 oz East Kent Goldings Hops"
+        },
+        {
+            "@value": "0.5 lb Victory"
+        },
+        {
+            "@value": "0.25 lb Chocolate"
+        },
+        {
+            "@value": "2.5 oz Fuggles Hops"
+        },
+        {
+            "@value": "2 lb Caramel / Crystal 60L"
+        },
+        {
+            "@value": "15 lb Pale 2-Row"
+        },
+        {
+            "@value": "2.4999999942814 oz Fuggles Hops"
+        },
+        {
+            "@value": "1 lb Flaked Oats"
+        }
+    ],
+    "recipeYield": {
+        "@value": "5.5 gallons"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,86 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "3"
+        },
+        "ratingValue": {
+            "@value": "4.3"
+        },
+        "worstRating": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@value": "Nufica"
+    },
+    "cookTime": {
+        "@value": "PT60M"
+    },
+    "image": {
+        "@id": "https://img.povar.ru/main/56/67/57/13/govyadina_s_yaicom-151148.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\u041c\u0430\u0441\u043b\u043e \u0441\u043b\u0438\u0432\u043e\u0447\u043d\u043e\u0435                            \u00a0\u2014\u00a060-100\u00a0\u0413\u0440\u0430\u043c\u043c"
+        },
+        {
+            "@value": "\u0413\u043e\u0440\u0447\u0438\u0446\u0430 \u0433\u043e\u0442\u043e\u0432\u0430\u044f                            \u00a0\u2014\u00a030\u00a0\u0413\u0440\u0430\u043c\u043c"
+        },
+        {
+            "@value": "\u0413\u043e\u0432\u044f\u0434\u0438\u043d\u0430 \u0444\u0438\u043b\u0435                            \u00a0\u2014\u00a0600\u00a0\u0413\u0440\u0430\u043c\u043c"
+        },
+        {
+            "@value": "\u0421\u043e\u043b\u044c, \u043f\u0435\u0440\u0435\u0446                            \u00a0\u2014\u00a0\u041f\u043e \u0432\u043a\u0443\u0441\u0443"
+        },
+        {
+            "@value": "\u041c\u0430\u0441\u043b\u043e \u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435                            \u00a0\u2014\u00a0\u041f\u043e \u0432\u043a\u0443\u0441\u0443"
+        },
+        {
+            "@value": "\u041b\u0443\u043a \u0440\u0435\u043f\u0447\u0430\u0442\u044b\u0439                            \u00a0\u2014\u00a01\u00a0\u0428\u0442\u0443\u043a\u0430"
+        },
+        {
+            "@value": "\u042f\u0439\u0446\u0430 \u043a\u0443\u0440\u0438\u043d\u044b\u0435                            \u00a0\u2014\u00a04\u00a0\u0428\u0442\u0443\u043a\u0438"
+        }
+    ],
+    "name": {
+        "@value": "\u0413\u043e\u0432\u044f\u0434\u0438\u043d\u0430 \u0441 \u044f\u0439\u0446\u043e\u043c"
+    },
+    "prepTime": {
+        "@value": "PT60M"
+    },
+    "recipeCategory": {
+        "@value": "\u041c\u044f\u0441\u043e / \u0413\u043e\u0432\u044f\u0434\u0438\u043d\u0430 / \u042f\u0439\u0446\u0430"
+    },
+    "recipeInstructions": {
+        "@type": "ItemList",
+        "image": [
+            {
+                "@id": "https://img.povar.ru/steps/33/79/2e/6c/govyadina_s_yaicom-150979.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/5a/2d/c5/31/govyadina_s_yaicom-150981.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/aa/d2/cf/90/govyadina_s_yaicom-150980.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/12/1c/2a/30/govyadina_s_yaicom-150983.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/8a/ba/cd/b0/govyadina_s_yaicom-150984.jpg"
+            },
+            {
+                "@id": "https://img.povar.ru/steps/62/80/d6/a7/govyadina_s_yaicom-150986.jpg"
+            }
+        ]
+    },
+    "recipeYield": {
+        "@value": "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043f\u043e\u0440\u0446\u0438\u0439: 4"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.4"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "789"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Brenda Joyce"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT5H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "WHEN RIVALRY BECOMES PASSION With Warfare Blazing Through Scotland, The Fate Of The Comyn MacDougall Legacy Depends On One Woman Recently Orphaned, Young Margaret Comyn Must Secure Her Clan S Safety Through An Arranged Marriage But When An Enemy Invasion Puts Her At The Mercy Of The Notorious Wolf Of Lochaber, Her Every Loyalty And Secret Want Will Be Challenged AND A KINGDOM IS AT STAKE Legendary Warrior Alexander The Wolf MacDonald Rides With Robert Bruce To Seize The Throne Of Scotland But When He Takes The Fiery Lady Margaret Prisoner, She Quickly Becomes Far Than A Valuable Hostage For, The Passion Between Them Threatens To Betray Their Families, Their Countryand Their Hearts Joyce S Tale Of The Dangers And Delights Of Passion Fulfilled Will Enchant Those Who Like Their Reads Long And Rich Publishers Weekly On The Masquerade"
+    },
+    "image": {
+        "@id": "http://www.bogou.us/wp-content/upload/2017/40de13d0976f1e5c16566af7d6446751images4ef604b0ad1cb0c8924fb14a00d3ae0egr-assets4ef604b0ad1cb0c8924fb14a00d3ae0ecom/books/1365327771l/171635774ef604b0ad1cb0c8924fb14a00d3ae0ejpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "789"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "A Rose In The Storm (Scottish Medieval, #2) ,download, read online, e-pub, pdf, free, kindle ebook"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "!!> PDF \u26a3 A Rose In The Storm (Scottish Medieval, #2)  \u2708 Author Brenda Joyce \u2013 Bogou.us"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "!!> PDF \u26a3 A Rose In The Storm (Scottish Medieval, #2)  \u2708 Author Brenda Joyce \u2013 Bogou.us WHEN RIVALRY BECOMES PASSION With Warfare Blazing Through Scotland, The Fate Of The Comyn MacDougall Legacy Depends On One Woman Recently Orphaned, Young Margaret Comyn Must Secure Her Clan S Safety T"
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT21M"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "helicopters"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "!!> PDF \u26a3 A Rose In The Storm (Scottish Medieval, #2)  \u2708 Author Brenda Joyce \u2013 Bogou.us WHEN RIVALRY BECOMES PASSION With Warfare Blazing Through Scotland, The Fate Of The Comyn MacDougall Legacy Depends On One Woman Recently Orphaned, Young Margaret Comyn Must Secure Her Clan S Safety T"
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "A Rose In The Storm (Scottish Medieval, #2) "
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://www.bogou.us/wp-content/upload/2017/40de13d0976f1e5c16566af7d6446751images4ef604b0ad1cb0c8924fb14a00d3ae0egr-assets4ef604b0ad1cb0c8924fb14a00d3ae0ecom/books/1365327771l/171635774ef604b0ad1cb0c8924fb14a00d3ae0ejpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2017-08-21T18:09+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

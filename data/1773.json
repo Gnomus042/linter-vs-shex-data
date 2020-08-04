@@ -1,0 +1,16 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@value": "In essence, cellulitis is a common skin problem which happens when the bacteria enter a skin break and spread. As result, an infection appears and causes redness, swelling, warmth and pain. In many cases, cellulitis happens on the legs, despite ...Read more"
+    },
+    "image": {
+        "@id": "https://healthyguide.com/wp-content/uploads/2017/02/home-remedies-for-cellulitis-750x450.jpg"
+    },
+    "name": {
+        "@value": "27 Home Remedies for Cellulitis Treatment on Face, Leg and Toe"
+    },
+    "recipeCategory": {
+        "@value": "Skin Care"
+    },
+    "@id": "http://example.org/recipe"
+}

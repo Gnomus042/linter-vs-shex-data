@@ -1,0 +1,87 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://mag.the4blades.com/author/abesolutions/"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT35M"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2018-01-23"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "This is a summery and fresh rice salad that is so delicious and full of colour. It is an impressive dish to take to your next BBQ.\nRecipe Tester Feedback: \u201cThis dish was so easy and exceptionally tasty! It is the dish I will bring to share at my next social event. The vibrant summer colours scream 'Eat me!'... and you won't regret doing so!\" - Claire\nNo: Gluten / Dairy / Egg / Nuts\nPreparation Time 15 minutes\nCooking Time 35 minutes\nServes 4-6\nCannot be frozen\n"
+    },
+    "image": {
+        "@id": "https://mag.the4blades.com/wp-content/uploads/2018/01/Mexican-Brown-Rice-Salad_2-150x150.jpg"
+    },
+    "ingredients": [
+        {
+            "@id": "https://mag.the4blades.com/ingredients/cumin/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/salt/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/lime/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/cherry-tomatoes/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/olive-oil/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/black-beans/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/fresh-coriander/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/brown-rice/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/pepper/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/corn/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/onion/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/water/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/recipe/mexican-brown-rice-salad/Null"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/paprika/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/lime-juice/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/honey/"
+        },
+        {
+            "@id": "https://mag.the4blades.com/ingredients/garlic-clove/"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Mexican Brown Rice Salad"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT15M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n            Dressing:\n\nAdd the peeled garlic clove (1), lime juice (60g), lime peel (3cm strip), olive oil (60g), honey (20g), ground cumin (1 tsp), paprika (1/2 tsp), salt (1 tsp), pepper (1 tsp) and jalape\u00f1o (1/2, if using) to the bowl. Blitz Speed 9 / 10 seconds. Scrape down sides and use your spatula to wipe around the base of the jug in case any honey hasn't been blended.\nBlend again Speed 9 / 10 seconds. Pour into a jar and place into the fridge.\n\nSalad:\n\nFill the bowl with water (1.2L) and place the rice (300g) into the internal steaming basket. Rinse well under running water, then set the basket in place. Program 35 minutes / Steaming Temperature / Speed 3, measuring cap on.\nOnce cooked, allow to cool completely.\nPlace the diced avocados (2) into a large serving bowl and cover with lime juice (20g). Stir well. This will keep them from going brown.\nAdd the diced red onion (1/2), quartered cherry tomatoes (200g), drained corn (125g tin), rinsed beans (400g tin), sliced spring onions (4) and chopped coriander (1/2 bunch) to a large serving bowl.\nFluff the brown rice with a fork and add it to the serving bowl. Mix to combine.\nCover with dressing and mix to combine well.\nServe or refrigerate for a few hours to allow the flavours to develop.\nEnjoy!\n\nNote: You might like to add beef or chicken fajita strips to this salad.\n\n        "
+    },
+    "@id": "http://example.org/recipe"
+}

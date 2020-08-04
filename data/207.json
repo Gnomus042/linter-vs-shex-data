@@ -1,0 +1,67 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@value": "4.5"
+    },
+    "cookTime": {
+        "@value": "PT20M"
+    },
+    "description": {
+        "@value": "Dijon, Bordeaux, mustard from Me, sweet Bavarian, D\u00fcsseldorf - all kinds of mustard do not count! What is the difference between \"Mustard\" from \"Mustard\"? Mustard, as we know, upset. :-) In Russia, PPE mustard began to cultivate since the 18th century. In the city of Sarepta (within present-day Volgograd) in 1810 was started the first special plant for the production of mustard oil. Russian mustard has THE PUNGENT TASTE \"the mustard scale.\" Its characteristic odor, bitterness, and pungency of mustard isothiocyanates, the main component of the essential oil of mustard and also the famous \"mustard gas\" mustard..."
+    },
+    "image": [
+        {
+            "@id": "https://en.edunclub.ru/recipe/31897-mustard-in-russian///edunclub.ru/upload/ea084729d0ba291ec3f430e3968b67bf.jpg"
+        },
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2013jun/05/52/325810_37239-300x0.jpg"
+        },
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2013mar/23/52/325809_66150-300x0.jpg"
+        }
+    ],
+    "ingredients": {
+        "@value": "\n                \n                                    \n                                        Powder mustard\n                                                    \n                                    \n                                        Sugar\n                                                    \n                                    \n                                        Water\n                                                    \n                                    \n                                        Salt\n                                                    \n                                    \n                                        Citric acid\n                                                    \n                                \n            "
+    },
+    "keywords": {
+        "@value": "Null"
+    },
+    "name": {
+        "@value": "Mustard in Russian"
+    },
+    "recipeCategory": {
+        "@id": "https://en.edunclub.ru/catalog/23-sauces/"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n                                        Powder mustard\n                                                    "
+        },
+        {
+            "@value": "\n                                        Water\n                                                    "
+        },
+        {
+            "@value": "\n                                        Citric acid\n                                                    "
+        },
+        {
+            "@value": "\n                                        Salt\n                                                    "
+        },
+        {
+            "@value": "\n                                        Sugar\n                                                    "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "\n                    Classic Russian mustard, except brewed with hot water powder, salt, sugar, vinegar does not contain other components remaining the basis of pure burning taste! \n\nSelect a clean glass jar for cooking and storage of mustard. Fill jar a little more than half of the mustard powder. (When you purchase mustard powder always make sure to be fresh, in any case, not overdue!) \nMix the mustard powder with a small amount of sugar (1/4-1/2 teaspoon, depending on the volume of the jar), a pinch of salt.                "
+        },
+        {
+            "@value": "\n                    Pour boiling water stirring constantly. It is necessary to stir very thoroughly to \"lumps\". Adding the boiling water, gradually bring to the consistency of thick yogurt. Add a little lemon acid on a knife tip (you can substitute a few drops of lemon juice or vinegar). Very tight fitting screw-on lid. The jar is very well wrap it up and put it in a dry, warm place for 1 night. (The mustard can be consumed in 2 hours, but better to give her a \"brew\". ) Prepared mustard can be stored in the refrigerator, always in a sealed cover up to 1 month. Further, it significantly loses its pungency. On the table is better to put a separate small gorcichner each time filling it with fresh mustard from the jar. Bon appetit!                "
+        }
+    ],
+    "recipeYield": {
+        "@value": "100"
+    },
+    "resultPhoto": {
+        "@id": "https://en.edunclub.ru/recipe/31897-mustard-in-russian///edunclub.ru/upload/ea084729d0ba291ec3f430e3968b67bf.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

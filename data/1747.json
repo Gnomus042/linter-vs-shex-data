@@ -1,0 +1,164 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Pillsbury Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "05/29/2013"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "04/01/2014"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Who doesn't love strawberries and cream? Here's a tasty way to serve up the combo."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/c5ced92b-360c-4719-9317-f31de65f3dd2.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "strawberry cream cheese cream puffs"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Strawberry Cream Cheese Cream Puffs"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "290 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "23 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "105 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "4 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "0 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "4 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "12 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Serving "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "150 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "4 g"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "1/2 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H30M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Dessert"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup strawberry preserves\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    4\n                \n            \n            \n                \n                    \n                        \n                    \n                    eggs\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoon powdered sugar\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    container (8 oz) frozen whipped topping, thawed\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup Pillsbury BEST\u00ae All Purpose Flour\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup butter\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    package (8 oz) cream cheese, softened\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N7492d540d3ab4ce1b511e32423190200"
+        },
+        {
+            "@id": "_:N90caf17bdbbf422084c61e3918a63117"
+        },
+        {
+            "@id": "_:Ne7f29db098e44c1f85b5181fccb4844d"
+        },
+        {
+            "@id": "_:Nf016e58f09e04acabcb2e9477cc4f78e"
+        },
+        {
+            "@id": "_:N777f823b510d47e0b4d489627825086c"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "12"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT1H30M"
+    },
+    "@id": "http://example.org/recipe"
+}

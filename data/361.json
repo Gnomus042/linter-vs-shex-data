@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Author: Jan Bennett"
+    },
+    "description": {
+        "@value": "\nChicken with crispy, crunchy cheesy crumbs; now this was good.Based on a recipe by Barefoot Contessa I tweaked it a tiny bit by using Panko crumbs and I still used the same amount of Parmesan even though I only made two fillets."
+    },
+    "image": {
+        "@id": "https://3.bp.blogspot.com/_hlxGFZiqsfg/SiZSB3u3rjI/AAAAAAAAB9U/ea_rah3QcjA/s1600/parmesan-chicken2.jpg"
+    },
+    "name": {
+        "@value": "\nCrispy Parmesan Chicken"
+    },
+    "recipeIngredient": {
+        "@value": "\n\n\n2 boneless skinless chicken breasts\n\n1/2 a cup of plain flour\n\na little salt\n\na little freshly ground black pepper\n\n1 large egg - beaten\n\n1/2 a tablespoon of water\n\n3/4 of a cup of Panko (Japanese breadcrumbs)\n\nunsalted butter\n\nextra virgin olive oil\n\n1/2 a cup of freshly grated Parmesan\n\n\n\n\n\n"
+    },
+    "recipeInstructions": {
+        "@value": "\n\n\n\nI like to lightly 'toast' the panko crumbs in a dry frying pan - just to give them a tiny bit of colour and also they'll then be even more crunchy.\n\n\n\nFirst get yourself 3 plates all in a row. Put each chicken fillets between a large sheet of cling film.\u00a0\n\n\n\nUsing something flat and bashable then bash them a little (not too hard) until they are thinner. Each fillets need to be about about 1/4 inch thick.\n\n\n\nNow combine the flour, salt, & pepper on the first plate.\u00a0\n\n\n\nLightly beat the egg together with the water and pour onto the second plate.\u00a0\n\n\n\nOn the third plate mix together the Panko crumbs and the Parmesan.\u00a0\n\n\n\nNow coat the chicken breasts on both sides with the flour mixture, then dip both sides into the egg mixture and dredge both sides in the crumb and cheese mixture, lightly pressing them in it to coat all over.\u00a0\n\n\n\nHeat a good sized knob of butter and a little olive oil (about 1 tablespoon of oil) in a frying pan large enough to hold both the chicken pieces at the same time.\n\n\n\nCook over a medium-low heat for 2 to 3 mins on each side, until cooked through. Serve immediately with whatever takes your fancy. I served mine with salad and the lemon vinaigrette.\u00a0\n\n\n\n\nLemon Vinaigrette:\n\nIn a small jug or bowl whisk together the following; 1/4 of a cup of extra virgin olive oil, the juice of a lemon and a little salt and pepper to your taste.\n\n\n\nJob done; pour over your salad but not till the last minute before serving.\n\n"
+    },
+    "recipeYield": {
+        "@value": "Yield: 2"
+    },
+    "@id": "http://example.org/recipe"
+}

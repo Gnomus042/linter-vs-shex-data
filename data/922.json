@@ -1,0 +1,49 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "vi-VN",
+        "@value": "Tr\u00fac Nguy\u1ec5n"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-10-22"
+    },
+    "description": {
+        "@language": "vi-VN",
+        "@value": "C\u00e1ch l\u00e0m th\u1ea1ch rau c\u00e2u con c\u00e1 d\u1ebbo c\u00f3 th\u00eam \u0111\u1ed9 gi\u00f2n ngon, kh\u00f4ng g\u00e2y ng\u00e1n v\u1edbi c\u00e1c b\u01b0\u1edbc th\u1ef1c hi\u1ec7n \u0111\u01a1n gi\u1ea3n nh\u01b0 sau."
+    },
+    "image": {
+        "@language": "vi-VN",
+        "@value": "https://webnauan.vn/wp-content/uploads/2018/10/cach-lam-thach-rau-cau-con-ca-deo.jpg"
+    },
+    "name": {
+        "@language": "vi-VN",
+        "@value": "C\u00e1ch l\u00e0m th\u1ea1ch rau c\u00e2u con c\u00e1 d\u1ebbo gi\u00f2n ng\u00e0y h\u00e8"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "vi-VN",
+            "@value": "39 calo"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@language": "vi-VN",
+            "@value": "2. N\u01b0\u1edbc c\u1ed1t \u00e9p t\u1eeb l\u00e1 d\u1ee9a: 50 ml"
+        },
+        {
+            "@language": "vi-VN",
+            "@value": "3. \u0110\u01b0\u1eddng: 250 gram"
+        },
+        {
+            "@language": "vi-VN",
+            "@value": "4. B\u1ed9t rau c\u00e2u con c\u00e1 d\u1ebbo: 1 g\u00f3i"
+        },
+        {
+            "@language": "vi-VN",
+            "@value": "1. N\u01b0\u1edbc c\u1ed1t d\u1eeba: 1,8 l\u00edt (lo\u1ea1i lon ho\u1eb7c b\u1ed9t n\u01b0\u1edbc c\u1ed1t d\u1eeba pha)"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

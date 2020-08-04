@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "de",
+        "@value": "lighting solution Store"
+    },
+    "brand": {
+        "@language": "de",
+        "@value": "brandnewmedia.asia"
+    },
+    "image": {
+        "@language": "de",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1cN_HT3HqK1RjSZJnq6zNLpXaC/Bronze-Europ\u00e4ischen-Klassische-Vintage-LED-Anh\u00e4nger-Lichter-Lampe-Mit-1-Licht-F\u00fcr-Wohnzimmer-Lustre-Pendente-Kostenloser.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "de",
+            "@value": "33010072187"
+        },
+        {
+            "@language": "de",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "de",
+        "@value": "Bronze Europ\u00e4ischen Klassische Vintage LED Anh\u00e4nger Lichter Lampe Mit 1 Licht F\u00fcr Wohnzimmer Lustre Pendente Kostenloser Versand"
+    },
+    "@id": "http://example.org/recipe"
+}

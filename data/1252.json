@@ -1,0 +1,21 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "pl-PL",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWiele razy pisa\u0142am o\u00a0tym, jak ogromn\u0105 metamorfoz\u0119 przechodz\u0105 warzywa po\u00a0wyj\u0119ciu z\u00a0buchaj\u0105cego \u017carem piekarnika.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t Jednak jeszcze wi\u0119ksz\u0105 przemian\u0119 przechodz\u0105.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "name": {
+        "@language": "pl-PL",
+        "@value": "Wega\u0144skie lody cha\u0142wowe"
+    },
+    "recipeCategory": {
+        "@id": "http://www.jadlonomia.com/rodzaj_dania/ciasta-i-desery/"
+    },
+    "recipeIngredient": {
+        "@id": "http://www.jadlonomia.com/skladnik/maliny/"
+    },
+    "url": {
+        "@id": "http://www.jadlonomia.com/przepisy/weganskie-lody-chawowe/"
+    },
+    "@id": "http://example.org/recipe"
+}

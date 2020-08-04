@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2016-11-12"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Spice up an ordinary burger with our Cuban Black Bean spread!\n"
+    },
+    "image": {
+        "@id": "https://betterbeanco.com/wp-content/uploads/2016/11/burgerfeatured.png"
+    },
+    "ingredients": {
+        "@language": "en-US",
+        "@value": "1 container Better Bean Cuban Black BeansHilary's brand Black Rice veggie burgersArugulaHamburger buns"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Veggie Burger with Black Bean Spread"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "Arugula"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Hamburger buns"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Hilary's brand Black Rice veggie burgers"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 container Better Bean Cuban Black Beans"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "Cook veggie burger according to package. While burgers cook, heat beans in a small skillet.\nJust spread the beans on your burgers, top with arugula and you\u2019re good to go!\n"
+    },
+    "@id": "http://example.org/recipe"
+}

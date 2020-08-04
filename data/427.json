@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Recipe submitted by Cary Aungst"
+    },
+    "image": {
+        "@id": "https://www.flumc.org/recipedetail/2922549//files/tables/content/2922549/fields/primaryimage/18a313bd33094a96995f0d71fbee2afc/baby+spinach.jpg?width=500&height=300"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Blackberry Spinach Salad"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n    \t    \nBlackberry Spinach Salad\n\nIngredients:\n3 cups baby spinach\n1 pint blackberries\n6 oz crumbled feta cheese\n1 pint cherry tomatoes\n1/4 cup finely chopped walnuts\n\nDirections:\nToss all ingredients together. Top with raspberry vinaigrette dressing.\n        "
+    },
+    "@id": "http://example.org/recipe"
+}

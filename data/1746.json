@@ -1,0 +1,20 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "en",
+        "@value": "2013-07-08"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "\n                  Grilled Marshmallow, Raspberry & Chocolate Banana Boats Recipe"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n          Heat gas or charcoal grill to approximately 400\u00b0F or use a wire rack over campfire.\n\u00a0\nCut 6 (1-foot) sheets of heavy-duty foil, set aside.\n\u00a0\nUsing a sharp knife, make a deep incision lengthwise along the top curve of each banana; take care not to cut through the bottom peel.\n\u00a0\nGently push both banana ends toward each other to create a pocket. Place banana on the center diagonal of tin foil.\n\u00a0\nStuff each banana with approximately 2 tablespoons of marshmallows and 6 raspberries.\n\u00a0\nPull up corners of tin foil to create a tent over the top of banana, leaving a few inches of headroom so marshmallows won\u2019t melt all over the foil.\n\u00a0\nPlace banana packets on heat source, close lid and cook for approximately 10 minutes or until marshmallows are softened.\n\u00a0\nCarefully remove banana packets and open foil. Banana skins may have turned brown; however, this does not affect taste.\n\u00a0\nDrizzle each banana with one single-serve container of Litehouse Chocolate Dip. Eat warm.\n        "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

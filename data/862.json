@@ -1,0 +1,14 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://heerlijkzoeken.nl/ingredienten/26798-middelfijn-broodkruim//uploads/book/cover/19887/thumb_9789038807485_VRK.jpg"
+    },
+    "name": {
+        "@language": "nl-NL",
+        "@value": "Hamkroketten - Claudia Roden, 2013"
+    },
+    "sameAs": {
+        "@id": "https://heerlijkzoeken.nl/boeken/19887-het-krokettenboek/recepten/81482-hamkroketten-claudia-roden-2013"
+    },
+    "@id": "http://example.org/recipe"
+}

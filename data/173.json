@@ -1,0 +1,66 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.0"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Wendy Cray Kaufman"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "A homemade sugar scrub made with food-grade almond oil, pure honey and sugar. Heaven for your skin!"
+    },
+    "image": {
+        "@id": "https://i2.wp.com/abcsandgardenpeas.com/wp-content/uploads/2015/07/NOW-Honey-Almond-Scrub-578x900.jpg?w=205&ssl=1"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 Tbsp honey"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Tbsp almond oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup superfine sugar"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Honey Almond Sugar Scrub"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Beauty"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "n/a"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "May be used as a mild exfoliator on skin. Wet hands and rub gently in a circular motion to soften rough patches. If using on face, use extra gentle pressure so as not to scratch skin."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add all ingredients to a small bowl or jar. Mix until well blended; use promptly."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "\u00bc cup"
+    },
+    "@id": "http://example.org/recipe"
+}

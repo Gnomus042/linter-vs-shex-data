@@ -1,0 +1,114 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "de",
+        "@value": "\nWolfgang Schl\u00fcter\n"
+    },
+    "copyrightHolder": {
+        "@language": "de",
+        "@value": "\u00a9 GUSTO / Theresa Schrems"
+    },
+    "image": {
+        "@id": "https://www.gusto.at/rezepte/mini-kuerbisse-lachsforellen-kraeuterfuelle//_storage/asset/8442767/storage/womanat:slideshow-large/file/140557999/69107145.jpg"
+    },
+    "name": {
+        "@language": "de",
+        "@value": "Mini-K\u00fcrbisse mit Lachsforellen-Kr\u00e4uterf\u00fclle"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "de",
+            "@value": "222 kcal"
+        },
+        "carbohydrateContent": {
+            "@language": "de",
+            "@value": "19 g"
+        },
+        "cholesterolContent": {
+            "@language": "de",
+            "@value": "101 mg"
+        },
+        "fatContent": {
+            "@language": "de",
+            "@value": "11 g"
+        },
+        "proteinContent": {
+            "@language": "de",
+            "@value": "15 g"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "de",
+            "@value": "Vorspeise"
+        },
+        {
+            "@language": "de",
+            "@value": "Gem\u00fcse"
+        },
+        {
+            "@language": "de",
+            "@value": "Fisch "
+        },
+        {
+            "@language": "de",
+            "@value": "Hauptspeise"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "de",
+            "@value": "\nPfeffer\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nKnoblauchzehe\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nPatisson-K\u00fcrbis\n(mini, gelb & gr\u00fcn)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nToastbrot\n(gerieben)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nZitronensaft\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nDille\n(gehackt)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\n\u00d6l\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nFrischk\u00e4se\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nLachsforellenfilets\n(ohne Haut & Gr\u00e4ten)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nmittleres Ei\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nSalz\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "de",
+        "@value": "\n\nRohr auf 150\u00b0C vorheizen. Backblech d\u00fcnn mit \u00d6l bestreichen.\n\n\n\n\nDie Kappen der K\u00fcrbisse als Deckel abschneiden. K\u00fcrbisse an der Unterseite gerade schneiden. K\u00fcrbisse und Deckel in Salzwasser bissfest kochen. Abseihen, abschrecken und gut abtropfen lassen.\n\n\n\nif(typeof adition !== 'undefined' && typeof displayAd !== 'undefined' && displayAd('Content_mobile')){\nadition.srq.push(function(api) {\napi.renderSlot('Content_mobile');\n})\n}\n\n\n\n\nOptanon.InsertScript('//a.teads.tv/page/80589/tag', 'teadsWrapper', null, null, 4);\n\n\n\n\n\n\nF\u00fcr die F\u00fclle Knoblauch sch\u00e4len und hacken. Toastbrot klein schneiden und im Kutter p\u00fcrieren. Fischfilet klein schneiden, im Kutter ebenfalls fein p\u00fcrieren. Mit Brot, Ei, Frischk\u00e4se und Dille verr\u00fchren. Mit Salz, Pfeffer, Zitronensaft und Knoblauch w\u00fcrzen.\n\n\n\n\nAuf jeden K\u00fcrbisboden ein wenig von der Lachsmasse setzen, Deckel aufsetzen und behutsam andr\u00fccken. K\u00fcrbisse auf das Blech geben und im Rohr (mittlere Schiene) ca. 14 Minuten \u00fcberbacken.\n\n"
+    },
+    "recipeYield": {
+        "@language": "de",
+        "@value": "4 Portionen"
+    },
+    "@id": "http://example.org/recipe"
+}

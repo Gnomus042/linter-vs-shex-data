@@ -1,0 +1,64 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "fr",
+        "@value": "\n        35 min"
+    },
+    "image": {
+        "@id": "https://s2.croquonslavie.fr/cdn/farfuture/NT7IMY7aLs0hLSPP3om9jZd4lrm1EsNrIUu6L4Wd0mE/mtime:1572493645/sites/default/files/styles/mega_fiche/public/images/recipe/field_recipe_single_carousel_img/CD451N17467_12218.jpg?itok=_sRFCy1j"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Tarte Normande aux pommes"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "fr",
+            "@value": "308 kcal/ personne"
+        }
+    },
+    "prepTime": {
+        "@language": "fr",
+        "@value": "\n        10 min"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fr",
+            "@value": "\n        \n\n  \n  \n    \n          \n        100 ml de \n      \n\n\n    \n          \n        lait demi-\u00e9cr\u00e9m\u00e9 UHT\n      \n\n\n    \n          \n        \n      \n\n\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n        \n\n  \n  \n    \n          \n        1\n      \n\n\n    \n          \n        P\u00e2te Feuillet\u00e9e TR\u00c9SOR DE GRAND-M\u00c8RE HERTA\n      \n\n\n    \n          \n        \n      \n\n\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n        \n\n  \n  \n    \n          \n        100 ml de \n      \n\n\n    \n          \n        cr\u00e8me liquide \n      \n\n\n    \n          \n        \n      \n\n\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n        \n\n  \n  \n    \n          \n        1 cuiller\u00e9e \u00e0 soupe de \n      \n\n\n    \n          \n        farine\n      \n\n\n    \n          \n        \n      \n\n\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n        \n\n  \n  \n    \n          \n        2 cuiller\u00e9es \u00e0 soupe de \n      \n\n\n    \n          \n        sucre\n      \n\n\n    \n          \n        \n      \n\n\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n        \n\n  \n  \n    \n          \n        2\n      \n\n\n    \n          \n        \u0153ufs\n      \n\n\n    \n          \n        \n      \n\n\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n        \n\n  \n  \n    \n          \n        3\n      \n\n\n    \n          \n        pommes\n      \n\n\n    \n          \n        \n      \n\n\n\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n        Pour votre Tarte Normande aux pommes, pr\u00e9chauffez le four Th. 7 (200\u00b0C). Epluchez et coupez les pommes en cubes.\nDans un saladier, m\u00e9langez les oeufs, le sucre, la farine et \u00e0 la fin le lait et la cr\u00e8me liquide.\nD\u00e9roulez la p\u00e2te dans un moule \u00e0 tarte en conservant la feuille de cuisson. Piquez le fond de tarte avec une fourchette. Placez les cubes de pommes puis versez la pr\u00e9paration \u00e0 base d'oeufs.\nFaites cuire votre tarte Normande aux pommes pendant 35 minutes dans votre four.\n"
+    },
+    "recipeYield": {
+        "@language": "fr",
+        "@value": "\n        6 personnes"
+    },
+    "@id": "http://example.org/recipe"
+}

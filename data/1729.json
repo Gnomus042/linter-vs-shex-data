@@ -1,0 +1,99 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "fi",
+        "@value": "HUOM: Valmistusaikaan ei kuulu y\u00f6nyliaikaa j\u00e4\u00e4kaapissa"
+    },
+    "image": {
+        "@id": "https://www.myberryforest.com/wp-content/uploads/2018/05/Berry-cream-overnight-oats-parfait.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fi",
+            "@value": "1 dl vadelmia (pakaste tai tuore)"
+        },
+        {
+            "@language": "fi",
+            "@value": "Null"
+        },
+        {
+            "@language": "fi",
+            "@value": "1 dl mustikoita (pakastemustikat toimivat hyvin)"
+        },
+        {
+            "@language": "fi",
+            "@value": "makeutusta maun mukaan"
+        },
+        {
+            "@language": "fi",
+            "@value": "1,5 rkl chiansiemeni\u00e4"
+        },
+        {
+            "@language": "fi",
+            "@value": "Marjatuorepuuro"
+        },
+        {
+            "@language": "fi",
+            "@value": "Marjavaahto"
+        },
+        {
+            "@language": "fi",
+            "@value": "1 dl gluteenittomia kaurahiutaleita"
+        },
+        {
+            "@language": "fi",
+            "@value": "2 dl kasvipohjaista jogurttia esim.soija tai kaura"
+        },
+        {
+            "@language": "fi",
+            "@value": "~2 dl soijavispi\u00e4 (Alpro) tai kookoskermavaahtoa"
+        },
+        {
+            "@language": "fi",
+            "@value": "Tarjoiluun marjoja"
+        },
+        {
+            "@language": "fi",
+            "@value": "1 rkl kookossokeria"
+        },
+        {
+            "@language": "fi",
+            "@value": "ripaus suolaa"
+        },
+        {
+            "@language": "fi",
+            "@value": "\u00bd tl aitovaniljajauhetta esim.Urtekram"
+        },
+        {
+            "@language": "fi",
+            "@value": "1,5 dl t\u00e4ysrasvaista kookosmaitoa"
+        }
+    ],
+    "name": {
+        "@language": "fi",
+        "@value": "MARJATUOREPUURO-PARFAIT"
+    },
+    "recipeCuisine": {
+        "@language": "fi",
+        "@value": "vegaaninen, gluteeniton"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "fi",
+            "@value": "Sekoita hyvin tuorepuuron ainekset, laita tiiviiseen rasiaan (esim.lasipurkkiin) ja anna tekeyty\u00e4 j\u00e4\u00e4kaapissa y\u00f6n yli tai v\u00e4hint\u00e4\u00e4n kaksi tuntia."
+        },
+        {
+            "@language": "fi",
+            "@value": "Kun puuro on valmista, vispaa kasvipohjainen vaahto. Lis\u00e4\u00e4 joukkoon vadelmat ja vatkaa, kunnes vaahto on unelmaisen pehme\u00e4\u00e4."
+        },
+        {
+            "@language": "fi",
+            "@value": "Laita vuorotellen tarjoiluastioihin tuorepuuroa ja marjavaahtoa. Tarjoile marjojen kanssa."
+        }
+    ],
+    "recipeYield": {
+        "@language": "fi",
+        "@value": "2-4"
+    },
+    "@id": "http://example.org/recipe"
+}

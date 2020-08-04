@@ -1,0 +1,102 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "cs-CZ",
+        "@value": "30 minutes"
+    },
+    "image": {
+        "@id": "http://www.chute-sveta.cz/wp-content/uploads/2012/09/kr%C3%A9mov%C3%A1-bramborov%C3%A1-pol%C3%A9vka.jpg"
+    },
+    "name": {
+        "@language": "cs-CZ",
+        "@value": "kr\u00e9mov\u00e1 bramborov\u00e1 pol\u00e9vka"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@language": "cs-CZ",
+        "@value": "10 minutes"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "cs-CZ",
+            "@value": "\n              2 PL ojele\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n              4 v\u011btvi\u010dky tymi\u00e1nu\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n              1,5 litru vody\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n              1/2 \u010cL pep\u0159e\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n              200 g p\u00f3rku, nakr\u00e1jen\u00e9ho na slab\u00e9 pl\u00e1tky\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n              700 g brambor, oloupan\u00fdch a nakr\u00e1jen\u00fdch na mal\u00e9 kousky\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n              strouhan\u00fd \u010dedar, zelen\u00e1 cibulka, pa\u017eitka na ozdobu\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n              1 kostka ku\u0159ec\u00edho buj\u00f3nu\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n              180 g kysan\u00e9 smetany\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n              100 g anglick\u00e9 slaniny, nakr\u00e1jen\u00e9 na mal\u00e9 kousky\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n              2 \u010cL soli\n            "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "cs-CZ",
+            "@value": "\n            Ve v\u011bt\u0161\u00edm hrnci osma\u017e\u00edme na oleji slaninu dok\u0159upava, vynd\u00e1me ji, nech\u00e1me okapat a d\u00e1me nap\u0159. do misti\u010dky. Olej nech\u00e1me v hrnci. \n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n            Pod\u00e1v\u00e1me s chlebem nebo bagetou.\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n            Nalijeme zp\u011bt do hrnce, p\u0159id\u00e1me kysanou smetanu a dochut\u00edme sol\u00ed a pep\u0159em. Udr\u017eujte tepl\u00e9, ale u\u017e nenech\u00e1vejte proj\u00edt varem!\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n            Do stejn\u00e9ho hrnce p\u0159id\u00e1me p\u00f3rek, brambory, tymi\u00e1n a kostku ku\u0159ec\u00edho buj\u00f3nu, zalijeme vodou. P\u0159ivedeme k varu a va\u0159\u00edme cca 15 - 20 minut, a\u017e jsou brambory m\u011bkk\u00e9 a daj\u00ed se dob\u0159e rozma\u010dkat vidli\u010dkou. \n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n            Na tal\u00ed\u0159i ozdob\u00edme k\u0159upavou slaninou, s\u00fdrem, cibulkou nebo pa\u017eitkou.\n            "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "\n            Odstran\u00edme v\u011btvi\u010dky tymi\u00e1nu a zeleninu umixujeme dohladka v klasick\u00e9m mix\u00e9ru, kuchy\u0148sk\u00e9m robotu nebo ponorn\u00e9m mix\u00e9ru. \n            "
+        }
+    ],
+    "recipeYield": {
+        "@language": "cs-CZ",
+        "@value": "6"
+    },
+    "totalTime": {
+        "@language": "cs-CZ",
+        "@value": "40 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

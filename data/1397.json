@@ -1,0 +1,96 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "nl",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "nl",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "nl",
+        "@value": "Ohmydish"
+    },
+    "cookTime": {
+        "@language": "nl",
+        "@value": "PT10M"
+    },
+    "datePublished": {
+        "@language": "nl",
+        "@value": "2016-03-23"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Mooie frambozen Charlotte Russe voor Pasen die smaakt naar een kwarktaart, gegarneerd met lange vingers en paas chocolaatjes. Perfect als pronkstuk op tafel"
+    },
+    "image": {
+        "@id": "http://ohmydish.nl/wp-content/uploads/sites/2/2016/07/Frambozen-Charlotte-Russe-voor-Pasen-vierkant.jpg"
+    },
+    "keywords": {
+        "@language": "nl",
+        "@value": "diepvries frambozen, framboos, frambozen charlotte russe, frambozen taart, gelatine, gelatine blaadjes, koekjes, lange vingers, naturel yoghurt, paas chocolaatjes, paaschocola, paastaart, pasen, room, slagroom, suiker, verse frambozen, water, yoghurt taart"
+    },
+    "name": {
+        "@language": "nl",
+        "@value": "Frambozen Charlotte Russe voor Pasen"
+    },
+    "prepTime": {
+        "@language": "nl",
+        "@value": "PT15M"
+    },
+    "recipeCategory": {
+        "@language": "nl",
+        "@value": "Lente recepten, Paasrecepten, Taart en cake"
+    },
+    "recipeCuisine": {
+        "@language": "nl",
+        "@value": "Europees, Frans"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "nl",
+            "@value": "500 ml naturel yoghurt"
+        },
+        {
+            "@language": "nl",
+            "@value": "8 gelatine blaadjes"
+        },
+        {
+            "@language": "nl",
+            "@value": "250 gram frambozen"
+        },
+        {
+            "@language": "nl",
+            "@value": "ongeveer 250 gram lange vingers"
+        },
+        {
+            "@language": "nl",
+            "@value": "250 ml slagroom"
+        },
+        {
+            "@language": "nl",
+            "@value": "Paas chocolaatjes ter garnering"
+        },
+        {
+            "@language": "nl",
+            "@value": "5 eetlepels suiker"
+        },
+        {
+            "@language": "nl",
+            "@value": "2 eetlepels water"
+        }
+    ],
+    "recipeYield": {
+        "@language": "nl",
+        "@value": "8 personen"
+    },
+    "totalTime": {
+        "@language": "nl",
+        "@value": "PT25M"
+    },
+    "@id": "http://example.org/recipe"
+}

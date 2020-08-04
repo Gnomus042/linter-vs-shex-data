@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ar",
+        "@value": "A+ Car Store"
+    },
+    "brand": {
+        "@language": "ar",
+        "@value": "rwito.website"
+    },
+    "image": {
+        "@language": "ar",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1g7RKaVP7gK0jSZFjq6A5aXXaT/\u0648\u0627\u0642\u064a\u0627\u062a-\u0627\u0644\u0637\u064a\u0646-\u0644\u0644\u062f\u0631\u0627\u062c\u0627\u062a-\u0627\u0644\u0646\u0627\u0631\u064a\u0629-\u063a\u0637\u0627\u0621-\u0631\u0641\u0631\u0641-\u0623\u0645\u0627\u0645\u064a-\u0647\u062f\u064a\u0629-\u0644\u0647\u0648\u0646\u062f\u0627-\u0627\u0644\u0638\u0644-VT600-VLX-600-ABS-\u0627\u0644\u0628\u0644\u0627\u0633\u062a\u064a\u0643-\u0627\u0644\u0623\u0633\u0648\u062f.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ar",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "ar",
+            "@value": "4000022959473"
+        }
+    ],
+    "name": {
+        "@language": "ar",
+        "@value": "\u0648\u0627\u0642\u064a\u0627\u062a \u0627\u0644\u0637\u064a\u0646 \u0644\u0644\u062f\u0631\u0627\u062c\u0627\u062a \u0627\u0644\u0646\u0627\u0631\u064a\u0629 \u063a\u0637\u0627\u0621 \u0631\u0641\u0631\u0641 \u0623\u0645\u0627\u0645\u064a \u0647\u062f\u064a\u0629 \u0644\u0647\u0648\u0646\u062f\u0627 \u0627\u0644\u0638\u0644 VT600 VLX 600 ABS \u0627\u0644\u0628\u0644\u0627\u0633\u062a\u064a\u0643 \u0627\u0644\u0623\u0633\u0648\u062f \u062f\u0627\u0626\u0645"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,59 @@
+{
+    "@type": "Recipe",
+    "copyrightHolder": {
+        "@language": "en-US",
+        "@value": "All images copyright Normal Cooking (http://normalcooking.com)"
+    },
+    "image": {
+        "@id": "http://normalcooking.files.wordpress.com/2012/09/salsa-sloppy-joes.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 lb lean ground beef\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 t brown sugar\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 c salsa\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Null"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (10 oz) can condensed tomato soup, undiluted\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 whitewheat hamburger buns\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Salsa Sloppy Joes"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "In a medium skillet, brown beef until no longer pink; drain.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Serve on buns.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Stir in soup, salsa, and brown sugar. Cover and simmer 10 min or until heated through.\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

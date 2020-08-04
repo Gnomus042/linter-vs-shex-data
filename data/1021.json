@@ -1,0 +1,67 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Julie Daniluk RHN"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Are you missing hash browns? These golden jewels made with sweet potatoes are great with eggs for a tasty weekend brunch. "
+    },
+    "image": {
+        "@id": "https://www.avogel.ca/en/food/recipes/messy-gingered-sweet-potatoes//images/recipe-page/messy-gingered-sweet-potatoes.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "2 tsp coconut oil"
+        },
+        {
+            "@language": "en",
+            "@value": "2 Tbsp organic lemon juice"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp ground cinnamon"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd cup finely chopped onions"
+        },
+        {
+            "@language": "en",
+            "@value": "1\u20444-1/2 tsp Herbamare"
+        },
+        {
+            "@language": "en",
+            "@value": "4 cups grated unpeeled sweet potatoes"
+        },
+        {
+            "@language": "en",
+            "@value": "2 Tbsp freshly grated ginger"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Messy Gingered Sweet Potatoes"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t1.  Place the coconut oil in a large pan over medium heat, and saut\u00e9 the onions and ginger until soft, about 5 minutes.\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t3. Season with the cinnamon and Herbamare to taste. Cook for another 2 to 3 minutes. Remove from the heat and serve warm.\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t2. Add the grated sweet potatoes and lemon juice. Reduce the heat to low and saut\u00e9 for 10 minutes, stirring constantly, until the sweet potatoes start to soften.\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Serves 6"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "http://www.foodreporter.fr/user/index/id/74634"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2014-07-04"
+    },
+    "image": {
+        "@id": "http://www.foodreporter.fr/upload/original/2/o/p/j/q/839199.jpg"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Z\u00e9bra Cake - Z\u00e9bra Muffins - Z\u00e9bra Oursons"
+    },
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n                        Petite impro de z\u00e9bra cake en 3 versions ;\nLe g\u00e2teau , les muffins, et parce que les oursons pour les enfants ( j'ai bien dit les enfants ) c'est trop mignon \ufe0f chocolat vanille dessert sucr\u00e9 patisserie\n                    "
+    },
+    "@id": "http://example.org/recipe"
+}

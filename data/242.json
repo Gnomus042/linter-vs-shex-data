@@ -1,0 +1,158 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "no",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "no",
+            "@value": "1"
+        }
+    },
+    "cookTime": {
+        "@language": "no",
+        "@value": "PT45M"
+    },
+    "datePublished": {
+        "@language": "no",
+        "@value": "2018-03-02"
+    },
+    "description": {
+        "@language": "no",
+        "@value": "Enkel og deilig rett, ypperlig som kos eller enkelt m\u00e5ltid."
+    },
+    "image": {
+        "@language": "no",
+        "@value": "https://krabbe.no/dynamic/imager/dynamic/upload/bilder/924/a8538214f3469142d70d3def5928ab87.jpg"
+    },
+    "name": {
+        "@language": "no",
+        "@value": "Krabbefritters med ketchup"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "recipeCategory": {
+        "@language": "no",
+        "@value": "Kos"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "no",
+            "@value": "1 ts Fennikelfr\u00f8, knust"
+        },
+        {
+            "@language": "no",
+            "@value": "1 stk Boks hermetiske tomater"
+        },
+        {
+            "@language": "no",
+            "@value": "0.5 stk Chilli, r\u00f8d"
+        },
+        {
+            "@language": "no",
+            "@value": "1.5 dl Honning"
+        },
+        {
+            "@language": "no",
+            "@value": "2 stk Egg"
+        },
+        {
+            "@language": "no",
+            "@value": "0.5 ts Kajennepepper"
+        },
+        {
+            "@language": "no",
+            "@value": "1.2 dl Tamarind, konsentrat"
+        },
+        {
+            "@language": "no",
+            "@value": "75 g Mel"
+        },
+        {
+            "@language": "no",
+            "@value": "  Klype salt"
+        },
+        {
+            "@language": "no",
+            "@value": "1 stk Hvitl\u00f8ksfedd"
+        },
+        {
+            "@language": "no",
+            "@value": "1 ts Salt"
+        },
+        {
+            "@language": "no",
+            "@value": "240 g Krabbekj\u00f8tt, h\u00e5ndpillet eller vanlig"
+        },
+        {
+            "@language": "no",
+            "@value": "1 stk V\u00e5rl\u00f8k"
+        },
+        {
+            "@language": "no",
+            "@value": "25 g Sm\u00f8r"
+        },
+        {
+            "@language": "no",
+            "@value": "1.2 dl Vann"
+        },
+        {
+            "@language": "no",
+            "@value": "  N\u00f8ytral olje til steking"
+        },
+        {
+            "@language": "no",
+            "@value": "1 stk L\u00f8k, liten & grovhakket"
+        },
+        {
+            "@language": "no",
+            "@value": "1 ss Eplecidereddik"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "no",
+            "@value": "Kok opp vann og sm\u00f8r, tilsett deretter mel og r\u00f8r godt sammen."
+        },
+        {
+            "@language": "no",
+            "@value": "R\u00f8r inn krabbekj\u00f8ttet, v\u00e5rl\u00f8ken og krydderne."
+        },
+        {
+            "@language": "no",
+            "@value": "Ha over i en kjele med resterende ingredienser. Reduser til tyktflytende konsistens."
+        },
+        {
+            "@language": "no",
+            "@value": "Varm n\u00f8ytral olje i en stekepanne (ca. 2 cm h\u00f8yt). N\u00e5r oljen er varm (170-180 grader) form krabbeblandingen i en spiseskje og legg forsiktig ned i oljen, ikke klem p\u00e5 dem etter \u00e5 ha lagt dem i pannen."
+        },
+        {
+            "@language": "no",
+            "@value": "Smak til med salt. Avkj\u00f8l og oppbevar kaldt."
+        },
+        {
+            "@language": "no",
+            "@value": "Stekes til de er gyldne og spr\u00f8 p\u00e5 begge sider. Legg over p\u00e5 t\u00f8rkepapir. Serveres med tamarindketchup."
+        },
+        {
+            "@language": "no",
+            "@value": "Tilsett ett og ett egg om gangen og r\u00f8r godt mellom hver speing. Deigen skal v\u00e6re tykk og holde formen."
+        },
+        {
+            "@language": "no",
+            "@value": "Kj\u00f8r tomat, l\u00f8k, hvitl\u00f8k og chili i en blender til glatt konsistens."
+        }
+    ],
+    "recipeYield": {
+        "@language": "no",
+        "@value": "18 Stk"
+    },
+    "totalTime": {
+        "@language": "no",
+        "@value": "PT45M"
+    },
+    "@id": "http://example.org/recipe"
+}

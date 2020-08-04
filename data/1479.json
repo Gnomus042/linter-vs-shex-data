@@ -1,0 +1,78 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "fr",
+        "@value": "15 min"
+    },
+    "image": [
+        {
+            "@id": "https://s1.croquonslavie.fr/cdn/farfuture/Gk4jOXy58SxPR5omfwIs863ngxpCUTaa3AzqGYKqyI4/mtime:1572490807/sites/default/files/styles/mobile_teaser/public/images/recipe/field_recipe_single_carousel_img/recette-tagliatelles-sauge-rape-jambon_9719.jpg?itok=xOE1LCSl"
+        },
+        {
+            "@id": "https://s1.croquonslavie.fr/cdn/farfuture/P-wfS7k93W67WJolKJk5XDA2gWFDtRLEFt1gUQz7Khc/mtime:1456482313/sites/all/modules/custom/ft_social/images/print.png"
+        },
+        {
+            "@id": "https://s3.croquonslavie.fr/cdn/farfuture/ZADvNoO-bui3-4XxuNs5wOkSjKlWuOKYJGiCooUh_co/mtime:1572492237/sites/default/files/styles/mobile_full_527x370/public/images/recipe/field_recipe_single_carousel_img/recette-tagliatelles-fruits_8636.jpg?itok=LjO9VHRr"
+        },
+        {
+            "@id": "https://s1.croquonslavie.fr/cdn/farfuture/rJ-Ex3z9xGAUDznd2hPYaJEg8ucZ9f3X9zoB_kDkEkg/mtime:1572490505/sites/default/files/styles/mobile_teaser/public/default_images/default_1_0.jpg?itok=NUXVZF2v"
+        },
+        {
+            "@id": "https://s3.croquonslavie.fr/cdn/farfuture/TmKOcmcqwgcd7YnS8vJPFOUrQEXRJiu3GamregiOKrw/mtime:1553180602/sites/all/modules/custom/ft_social/images/forward.png"
+        }
+    ],
+    "name": {
+        "@language": "fr",
+        "@value": "Tagliatelles aux fruits de mer"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "fr",
+            "@value": "209 kcal/ pers"
+        }
+    },
+    "prepTime": {
+        "@language": "fr",
+        "@value": "15 min"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  1 pinc\u00e9e depoivre\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  3\u00e9chalotes\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  1 filet d'huile d'olive\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  250 g defruit de mersurgel\u00e9s\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  250 g de sauce tomatesnapolitaine\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  350 g detagliatelles\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  1 pinc\u00e9e desel\n\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "La veille, faites d\u00e9congeler les fruits de mer dans votre r\u00e9frig\u00e9rateur.\nEssuyez-les bien avec du papier absorbant et faites-les revenir dans un filet d'huile d'olive avec les \u00e9chalotes hach\u00e9es. Ajoutez la sauce napolitaine et laissez chauffer \u00e0 feu doux.\nFaites cuire les p\u00e2tes selon le mode d'emploi.\nM\u00e9langez les p\u00e2tes et les fruits de mer avec la sauce et servez.\n"
+    },
+    "recipeYield": {
+        "@language": "fr",
+        "@value": "4 pers"
+    },
+    "@id": "http://example.org/recipe"
+}

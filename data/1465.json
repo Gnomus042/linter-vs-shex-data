@@ -1,0 +1,34 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "admin"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2015-05-12"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "File de cod la cuptor cu unt si lamaie din: file de cod, unt, lamaie, usturoi, patrunjel, sare"
+    },
+    "image": {
+        "@id": "https://www.restaurantedelux.ro/wp-content/uploads/2015/05/File_de_cod_la_cuptor_cu_unt_si_lamaie_08.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "File de cod la cuptor cu unt si lamaie "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "file de cod, unt, lamaie, usturoi, patrunjel, sare"
+    },
+    "@id": "http://example.org/recipe"
+}

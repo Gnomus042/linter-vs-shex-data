@@ -1,0 +1,126 @@
+{
+    "@type": "Recipe",
+    "AggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "nl",
+            "@value": "5"
+        },
+        "itemReviewed": {
+            "@language": "nl",
+            "@value": "Flantaart"
+        },
+        "ratingCount": {
+            "@language": "nl",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "nl",
+            "@value": "3"
+        },
+        "reviewCount": {
+            "@language": "nl",
+            "@value": "4"
+        },
+        "worstRating": {
+            "@language": "nl",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "nl",
+        "@value": "Marianne jaspaert"
+    },
+    "cookTime": {
+        "@language": "nl",
+        "@value": "PT40M"
+    },
+    "dateCreated": {
+        "@language": "nl",
+        "@value": "2009-03-10"
+    },
+    "dateModified": {
+        "@language": "nl",
+        "@value": "2019-11-21"
+    },
+    "datePublished": {
+        "@language": "nl",
+        "@value": "2009-03-10"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Een heerlijk flantaart recept uit de belgische keuken wat echt de moeite waard is om uit te proberen."
+    },
+    "image": {
+        "@language": "nl",
+        "@value": "https://www.kookjij.nl/img/no-image-recipe.png"
+    },
+    "ingredients": [
+        {
+            "@language": "nl",
+            "@value": "\n150 gr cr\u00e8me patissi\u00e8re "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n70 gr bloem  "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n5 dl melk  "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n3 eiwitten "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n100 gr suiker  "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n1 bladerdeegvel "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n3 eigelen "
+        }
+    ],
+    "keywords": {
+        "@language": "nl",
+        "@value": "Flantaart,"
+    },
+    "name": {
+        "@language": "nl",
+        "@value": "Flantaart"
+    },
+    "recipeCategory": {
+        "@language": "nl",
+        "@value": "> Dieet & Slank - Gebak"
+    },
+    "recipeCuisine": [
+        {
+            "@language": "nl",
+            "@value": "Belgie"
+        },
+        {
+            "@id": "https://www.kookjij.nl/recepten/keuken/belgische"
+        }
+    ],
+    "recipeIngredient": {
+        "@language": "nl",
+        "@value": "1 bladerdeegvel 5 dl melk 3 eigelen 3 eiwitten 100 gr suiker 150 gr cr\u00e8me patissi\u00e8re 70 gr bloem "
+    },
+    "recipeInstructions": {
+        "@language": "nl",
+        "@value": "Beleg de taartvorm met het bladerdeegvel.\nKlop de eigelen met 50 gr suiker (witte suiker)\nKlop de eiwitten met 50 gr suiker tot ze heel stijf zijn\nMeng de cr\u00e8me patissi\u00e8re met de eigelen\nVoeg er de bloem en de eiwitten bij en daarna de melk\nGiet dit mengsel in de vorm en bak de taart 30 minuten op 190\u00b0"
+    },
+    "recipeYield": {
+        "@language": "nl",
+        "@value": "5 \u00e0 6 personen"
+    },
+    "totalTime": {
+        "@language": "nl",
+        "@value": "PT40M"
+    },
+    "@id": "http://example.org/recipe"
+}

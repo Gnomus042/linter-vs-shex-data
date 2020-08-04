@@ -1,0 +1,44 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "sl",
+            "@value": "5.0"
+        },
+        "reviewCount": {
+            "@language": "sl",
+            "@value": "3"
+        }
+    },
+    "description": {
+        "@language": "sl",
+        "@value": "Pi\u0161\u010danec se pe\u010de na mre\u017ei, kar omogo\u010di enakomerno pe\u010denje na vseh straneh."
+    },
+    "image": {
+        "@id": "http://binevolcic.si/recept/pecen_piscanec_v_kosu//media/uploads/public/product/230-piscanec_koracno_pecenje.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "sl",
+            "@value": "50 g masla"
+        },
+        {
+            "@language": "sl",
+            "@value": "1 \u017eli\u010dka karija v prahu"
+        },
+        {
+            "@language": "sl",
+            "@value": "1 cel pi\u0161\u010danec"
+        }
+    ],
+    "name": {
+        "@language": "sl",
+        "@value": "Pe\u010den pi\u0161\u010danec v kosu"
+    },
+    "recipeYield": {
+        "@language": "sl",
+        "@value": "4 osebe"
+    },
+    "@id": "http://example.org/recipe"
+}

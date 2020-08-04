@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@value": "10 mins"
+    },
+    "image": {
+        "@id": "https://www.lovepotatoes.co.uk/recipes/tuna-edamame-potato-and-macadamia-poke-buddha-bowl//media/1408/buddhabowl_tuna_l.jpg?anchor=center&mode=crop&width=650&height=345&rnd=131364825100000000&Format=Jpeg"
+    },
+    "ingredients": [
+        {
+            "@value": "Coriander to garnish"
+        },
+        {
+            "@value": "60g fresh sushi quality tuna steak"
+        },
+        {
+            "@value": "\u00bd cucumber, seeded and cubed"
+        },
+        {
+            "@value": "2tbsp Goji berries or pomegranate seeds"
+        },
+        {
+            "@value": "200g new potato cubes"
+        },
+        {
+            "@value": "1tbsp edamame beans, cooked"
+        },
+        {
+            "@value": "2 chillies, sliced"
+        },
+        {
+            "@value": "1tbsp sesame oil"
+        },
+        {
+            "@value": "\u00bd tbsp soy sauce"
+        },
+        {
+            "@value": "2 spring onions, shredded"
+        },
+        {
+            "@value": "50g red cabbage, thinly sliced"
+        },
+        {
+            "@value": "Juice and zest of two limes, plus one lime in wedges"
+        },
+        {
+            "@value": "\u00bd avocado, peeled and cubed"
+        },
+        {
+            "@value": "50g macadamia nuts, toasted"
+        },
+        {
+            "@value": "2tbsp sesame seeds"
+        },
+        {
+            "@value": "1 sheets nori seaweed, crumbled"
+        }
+    ],
+    "name": {
+        "@value": "Tuna, Edamame, Potato and Macadamia Poke Buddha Bowl"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@value": "10 mins"
+    },
+    "recipeInstructions": {
+        "@value": "\n                    This Buddha Bowl recipe is a colourful creation bursting with flavour! Ideal for those warmer evenings or when you have a few people to feed at a party or gathering. If you're vegan or vegetarian then all you need to do is substitute the tuna for more avocado. A fantastic easy-to-follow dish which you can whip up in no time at all!\n-\nBoil the potatoes, drain and cool.\nCube the tuna and mix with the lime juice and zest, soy sauce and sesame oil and leave to marinade for 4 minutes.\nServe with all the remaining ingredients and some coriander, a sprinkle of sesame seeds and more lime wedges.\n\u00a0\nFor the vegan version, omit the tuna and add more avocado\n\n\n                "
+    },
+    "recipeYield": {
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

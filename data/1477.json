@@ -1,0 +1,34 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "3"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "friv4school2019.net"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://media.friv4school2019.net/images/french-chef-real-cooking.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "French Chef Real Cooking"
+    },
+    "@id": "http://example.org/recipe"
+}

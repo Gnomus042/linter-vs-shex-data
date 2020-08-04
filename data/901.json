@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-us",
+        "@value": "Krysie"
+    },
+    "description": {
+        "@language": "en-us",
+        "@value": "\n\"A delicious and different side dish that goes with any meat. It works equally well for a family supper or a special dinner. Wild rice can be substituted for brown rice for a more formal dinner.\"        "
+    },
+    "image": {
+        "@id": "https://images.media-allrecipes.com/userphotos/560x315/817932.jpg"
+    },
+    "mainEntityOfPage": {
+        "@language": "en-us",
+        "@value": "True"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-us",
+            "@value": "285 calories;"
+        },
+        "carbohydrateContent": {
+            "@language": "en-us",
+            "@value": "53.4"
+        },
+        "cholesterolContent": {
+            "@language": "en-us",
+            "@value": "62 "
+        },
+        "fatContent": {
+            "@language": "en-us",
+            "@value": "6.1 "
+        },
+        "proteinContent": {
+            "@language": "en-us",
+            "@value": "9.9 "
+        },
+        "sodiumContent": {
+            "@language": "en-us",
+            "@value": "620 "
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-us",
+            "@value": "2/3 cup whole wheat flour"
+        },
+        {
+            "@language": "en-us",
+            "@value": "salt and ground black pepper to taste"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 tablespoons chopped fresh chives"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 cups cooked brown rice, cooled"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 tablespoon olive oil, or as needed"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 (15.25 ounce) cans whole kernel sweet corn, drained"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 cup skim milk"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 eggs, beaten"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/8 teaspoon ground nutmeg"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 teaspoons baking powder"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "6"
+    },
+    "review": [
+        {
+            "@id": "_:N09249b01c6ff49fdbafc777b822c9f5e"
+        },
+        {
+            "@id": "_:N21d648db048a49ceb1629b271fe9930f"
+        },
+        {
+            "@id": "_:N7ca50966e11e439c8f2b4842d2c441f8"
+        }
+    ],
+    "url": {
+        "@id": "https://www.allrecipes.com/recipe/220697/brown-rice-and-corn-cakes/"
+    },
+    "@id": "http://example.org/recipe"
+}

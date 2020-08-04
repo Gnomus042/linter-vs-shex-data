@@ -1,0 +1,54 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "it",
+        "@value": "Elisa"
+    },
+    "ingredients": [
+        {
+            "@language": "it",
+            "@value": "1 uovo, \n"
+        },
+        {
+            "@language": "it",
+            "@value": "450g di lonza di maiale in una sola fetta, \n"
+        },
+        {
+            "@language": "it",
+            "@value": "sale e pepe."
+        },
+        {
+            "@language": "it",
+            "@value": "600g filetto di manzo in una sola fetta, \n"
+        },
+        {
+            "@language": "it",
+            "@value": "200g salame crudo, \n"
+        },
+        {
+            "@language": "it",
+            "@value": "70g burro, \n"
+        },
+        {
+            "@language": "it",
+            "@value": "1 spicchio d'aglio, rosmarino, \n"
+        },
+        {
+            "@language": "it",
+            "@value": "100g pancetta, \n"
+        }
+    ],
+    "name": {
+        "@language": "it",
+        "@value": "Arrosto doppio"
+    },
+    "recipeCategory": {
+        "@language": "it",
+        "@value": "Secondi Piatti"
+    },
+    "recipeInstructions": {
+        "@language": "it",
+        "@value": "\nPreparazione della ricetta \"Arrosto doppio\":\n\n\nTritare la pancetta col salame e impastarli in una ciotola con l'uovo e un pizzico di sale. \n\nAppiattire bene col batticarne la fetta di manzo e spalmarla con met\u00ef\u00bf\u00bd composto di salumi.\nSovrapporre la fetta di maiale ben appiattita e spalmarla col composto rimanente.\n\nArrotolare la carne a polpettone, legarla con lo spago da cucina, strofinare questo arrosto con l'aglio tritato, ungerlo di burro, cospargerlo di sale e pepe e metterlo in una pirofila con qualche rametto di rosmarino e il burro a pezzetti.\n\nInfornare a 180c per circa un'ora e mezza."
+    },
+    "@id": "http://example.org/recipe"
+}

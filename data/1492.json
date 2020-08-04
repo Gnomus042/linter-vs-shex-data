@@ -1,0 +1,10 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating"
+    },
+    "image": {
+        "@id": "https://www.droetker.com.tr/tr-tr/tarifler/r/kumlu-pasta//Recipe/Recipes/droetker.com.tr/tr-tr/baking/image-thumb__25854__RecipeDetail/kumlu-pasta.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

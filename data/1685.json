@@ -1,0 +1,44 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://www.dishmaps.com/from/martha-stewart"
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "Published 2014-09-09 13:45:09 (5 years ago)."
+    },
+    "image": {
+        "@id": "http://www.dishmaps.com/thumbs/watermelon-mojito-martha-stewart_380.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1 tablespoon superfine sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 lime"
+        },
+        {
+            "@language": "en",
+            "@value": "4 ounces seedless watermelon, cut into 1/2-inch cubes (about 3/4 cup), plus a small wedge for garnish"
+        },
+        {
+            "@language": "en",
+            "@value": "2 ounces white rum"
+        },
+        {
+            "@language": "en",
+            "@value": "4 large mint leaves"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup ice cubes"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Watermelon Mojito"
+    },
+    "@id": "http://example.org/recipe"
+}

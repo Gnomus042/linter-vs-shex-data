@@ -1,0 +1,97 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "30 min "
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2015-04-28 21:58:20"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "For app. 15 medium \"choux\", or the double if they are made smaller."
+    },
+    "image": {
+        "@id": "https://i2.wp.com/www.popandsoda.com/blog/wp-content/uploads/2015/04/jardin_culinaire4-150x150.jpg?resize=150%2C150"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4l milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 vanilla bean"
+        },
+        {
+            "@language": "en-US",
+            "@value": "50gr caster sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "For the choux"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 eggs yolk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "10gr floor"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pinch of salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "70gr butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "120gr floor"
+        },
+        {
+            "@language": "en-US",
+            "@value": "250cl water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "25gr Maizena"
+        },
+        {
+            "@language": "en-US",
+            "@value": "10gr maizena"
+        },
+        {
+            "@language": "en-US",
+            "@value": "For the p\u00e2tissi\u00e8re cream"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Choux \u00e0 la cr\u00e8me and its p\u00e2tissi\u00e8re cream"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "40 min "
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tPreheat the oven at 200\u00b0 (th. 6/7) in normal mode\t\t\t\tHeat the water, butter, sugar and salt over low heat.\t\t\t\tWhen it start to boil, remove from heat and add the floor.\t\t\t\tReplace on heat while mixing until the pastry is completely dry and stick to nothing.\t\t\t\tAdd the eggs in three times while mixing until well combined.\t\t\t\tFill a pastry bag, and draw your choux on a plate covered with greaseproof paper\t\t\t\tBake for approximately 30 minutes. More if your choux are large.\t\t\t\tAfter 30 minutes, open the oven door, and let them cool down inside the oven.\t\t\t\tThe p\u00e2tissi\u00e8re cream\t\t\t\tScratch the vanilla seeds on eggs\t\t\t\tAdd sugar and whisk until white\t\t\t\tAdd the floor without mixing too much\t\t\t\tAdd milk and vanilla, mix well with the eggs, than pour the preparation in a pan.\t\t\t\tLet it boil and leave it to simmer for 1 minute\t\t\t\tRemove from the heat and let it cool down.\t\t\t\tMake a cut along the back of the choux and fullfill them with a pastry bag.\t\t\t"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "1 hr 10 min "
+    },
+    "@id": "http://example.org/recipe"
+}

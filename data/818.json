@@ -1,0 +1,103 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@value": "4.75"
+        },
+        "worstRating": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@value": "guenstig-kochen.at"
+    },
+    "dateModified": {
+        "@value": "2018-01-14T18:28:11+01:00"
+    },
+    "datePublished": {
+        "@value": "2017-04-28T19:39:54+02:00"
+    },
+    "description": [
+        {
+            "@value": "Die klassische gef\u00fcllte Krautroulade (Kohlroulade) kennt jeder und ist auf die Dauer doch etwas \u00f6de. Warum also nicht mal was Neues probieren, mit mehr Pfiff und Power? Bist Du neugierig? Dann ist mein Rezept vielleicht etwas f\u00fcr Dich. "
+        },
+        {
+            "@value": " Die klassische gef\u00fcllte Krautroulade (Kohlroulade) kennt jeder und ist auf die Dauer doch etwas \u00f6de. Warum also nicht mal was Neues probieren, mit mehr Pfiff und Power? Bist Du neugierig? Dann ist mein Rezept vielleicht etwas f\u00fcr Dich."
+        }
+    ],
+    "headline": {
+        "@value": "Krautrouladen"
+    },
+    "image": [
+        {
+            "@id": "_:N73de0a5c42dc4c76b5cdfbb7e04bc984"
+        },
+        {
+            "@id": "https://guenstig-kochen.at/rezept/krautrouladen-kohlrouladen/data:image/gif;base64,R0lGODdhAQABAIAAANk7awAAACH5BAEAAAEALAAAAAABAAEAAAICTAEAOw=="
+        }
+    ],
+    "keywords": {
+        "@value": "Null"
+    },
+    "mainEntityOfPage": {
+        "@value": "https://guenstig-kochen.at/rezept/krautrouladen-kohlrouladen/"
+    },
+    "name": {
+        "@value": "Krautrouladen"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:N2e18dfdf77d34214b65eaaedccdcdb56"
+        },
+        "name": {
+            "@value": "guenstig-kochen.at"
+        }
+    },
+    "recipeCategory": {
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 TL Majoran getrocknet"
+        },
+        {
+            "@value": "Salz, Pfeffer"
+        },
+        {
+            "@value": "300 g Faschiertes gemischt"
+        },
+        {
+            "@value": "16 Bl\u00e4tter Kraut (Wei\u00dfkohl)"
+        },
+        {
+            "@value": "K\u00fcmmel ganz"
+        },
+        {
+            "@value": "100 g Speckw\u00fcrfel"
+        },
+        {
+            "@value": "250 g Mettwurst (Teewurst fein)"
+        },
+        {
+            "@value": "1 mittlere Zwiebel gehackt"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": " Alle Zutaten, bis auf die Bl\u00e4tter vom Kraut, in einer Sch\u00fcssel zu einer gleichm\u00e4\u00dfigen Masse kneten. Einen Topf Wasser, mit Salz und K\u00fcmmel, zum Kochen bringen und die Krautbl\u00e4tter darin 4 \u2013 5 Minuten blanchieren. Aus dem Topf nehmen und im kalten Wasserbad abschrecken. Das erh\u00e4lt die Farbe und bricht den weiteren Garprozess ab. Danach auf einem Geschirrtuch abtrocknen.  \n\t\n\t\n\t\n\t\t (adsbygoogle = window.adsbygoogle || []).push({});\n\t\n\t  Jetzt erst entfernen wir den Strunk mit einem V-Schnitt und setzen in die Mitte des Blattes ca. 2 Essl\u00f6ffel der F\u00fclle, schlagen die Seiten des Kohls ein und rollen das Ganze zu einem P\u00e4ckchen. Die fertigen Roul\u00e4dchen schichten wir in eine geeignete (beschichtete) Auflaufform. Und jetzt kommst Du ins Spiel! \u00dcbergie\u00dfe die Rouladen mit Deiner Lieblings-Sauce. Ich bin hier sehr puristisch und koche 500 ml Schlagobers (Sahne) auf und w\u00fcrze etwas mit Muskatnuss, Salz & Pfeffer. Das reicht mir, da die Krautrouladen sehr viel Geschmack an die Sauce abgeben. Danach wandern die Rouladen f\u00fcr 30 Minuten, bei 180\u00b0C Ober- / Unterhitze in das vorgeheizte Backrohr."
+    },
+    "recipeYield": {
+        "@value": "16"
+    },
+    "totalTime": {
+        "@value": "PT60M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Author: Bobbi Hass-Burleson"
+    },
+    "description": {
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://1.bp.blogspot.com/-1X1w77pCt8A/WjFoGGUQnAI/AAAAAAAAXjA/jOJeBbDK0P09vKzfe1XeCGDiDRNPTy21gCLcBGAs/s320/Boneless%2BRib%2BRoast%2Bwith%2BRoasted%2BGarlic%2Band%2BHerbs%2BSquare%2B1.jpg"
+    },
+    "name": {
+        "@value": "\nBoneless Rib Roast with Roasted Garlic and Herbs"
+    },
+    "recipeYield": {
+        "@value": "Yield: 6 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

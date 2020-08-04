@@ -1,0 +1,15 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://webpolitics.us/wp-content/upload/2017/25a8726a912a22ac37cb649119cd2022imagesec27087f268519607483f9992675c5dcgr-assetsec27087f268519607483f9992675c5dccom/books/1407813625l/134894ec27087f268519607483f9992675c5dcjpg.jpg"
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "Heraclitus Seminar ,download, read online, e-pub, pdf, free, kindle ebook"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "@id": "http://example.org/recipe"
+}

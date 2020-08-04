@@ -1,0 +1,161 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemReviewed": {
+            "@language": "en",
+            "@value": "Egg Casserole"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5.0"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "2"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "H-E-B"
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t35 minutes"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2016-04-11 08:45:24.314"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Add croutons to milk and let sit for 10 minutes.,Beat eggs and add salt and pepper.,Combine eggs, milk mixture with sausage and cheese. Mix thoroughly.,Pour mixture into a greased 8 x 8-inch pan and add grated cheddar cheese to the top of the mixture. Refrigerate overnight.,Preheat oven to 350\u00b0F.,Bake for 35 minutes or until mixture is set."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images.heb.com/is/image/HEBGrocery/recipe-hm-large/egg-casserole-recipe.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Egg Casserole"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "520"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "24"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "175"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "33"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "26"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "14"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "1090"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "3"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0.0"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t15 minutes"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Main Dish"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "1 cup(s) seasoned croutons"
+        },
+        {
+            "@language": "en",
+            "@value": "2 Oz cheddar cheese, grated"
+        },
+        {
+            "@language": "en",
+            "@value": "3 eggs, beaten"
+        },
+        {
+            "@language": "en",
+            "@value": "1/8 Tsp black pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "1/8 Tsp salt"
+        },
+        {
+            "@language": "en",
+            "@value": "5 Oz breakfast sausage, cooked, drained and crumbled"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup(s) H-E-B Select Ingredients Whole Milk"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBeat eggs and add salt and pepper."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBake for 35 minutes or until mixture is set."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPour mixture into a greased 8 x 8-inch pan and add grated cheddar cheese to the top of the mixture. Refrigerate overnight."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPreheat oven to 350\u00b0F."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAdd croutons to milk and let sit for 10 minutes."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCombine eggs, milk mixture with sausage and cheese. Mix thoroughly."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t2\u00a0 People\n\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t50 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

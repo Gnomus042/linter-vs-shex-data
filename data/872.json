@@ -1,0 +1,55 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://ricette.pourfemme.it/articolo/asparagi-lessi/36439//utenti/carmela1986/"
+    },
+    "calories": {
+        "@language": "es",
+        "@value": "51\u00a0Kcal/100gr"
+    },
+    "description": {
+        "@language": "es",
+        "@value": "\nRicetta e preparazioneEcco a voi le istruzioni per la ricetta facile degli asparagi lessi.\n\n\n Per prima cosa dedicatevi alla pulizia degli asparagi: tagliate la parte finale del gambo e pelate la parte pi\u00f9 esterna. Lavateli con acqua corrente per eliminare il terriccio ed asciugateli con un canovaccio. \n\n\n Per cuocere gli asparagi, prendete una pentola dai bordi alti e mettete l\u2019acqua a bollire. Quando l\u2019acqua bolle, salatela e buttatevi gli asparagi chiusi in mazzetti. \n\n\n Lasciate cuocere gli asparagi per circa 10 minuti; poi scolateli con attenzione per evitare di romperli. \n\n\n Ponete gli asparagi in un piatto da portata oppure in una insalatiera e lasciateli intiepidire per circa 10-15 minuti.  \n\n\n Una volta intiepiditi, condite gli asparagi con sale, olio e il succo di un limone: pronti da servire in tavola! \n\n\n\n                                                                \nConsigli\nGli asparagi lessi possono essere conservati in frigo anche per un paio di giorni: ricordatevi che prima di servirli devono stare fuori per qualche minuto. Inoltre gli asparagi lessi sono la base per la preparazione di altre ricette. Provate la ricetta degli asparagi al burro e quella degli asparagi gratinati: due contorni perfetti da portare in tavola per una cena di famiglia. \nVarianti\nEsistono numerose varianti per preparare gli asparagi lessi: diverse infatti possono essere le tecniche di cottura. Provate a cuocere gli asparagi lessi al microonde: il risultato \u00e8 praticamente identico alla cottura degli asparagi in pentola. Potete preparare anche gli asparagi lessi con pentola a pressione: in questo caso il tempo di cottura degli asparagi lessi \u00e8 dimezzato! Infine provate a preparare gli asparagi lessi al vapore: questa cottura ha il vantaggio, rispetto alle altre, di lasciare inalterate le propriet\u00e0 nutritive ed organolettiche degli asparagi.\n "
+    },
+    "image": {
+        "@id": "https://static.pourfemme.it/pp/850x480/ricette/pourfemme/it/img/ricetta-asparagi-lessi2.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "es",
+            "@value": " Asparagi: 500 gr "
+        },
+        {
+            "@language": "es",
+            "@value": " Olio: 3 cucchiai "
+        },
+        {
+            "@language": "es",
+            "@value": " Sale q.b. "
+        },
+        {
+            "@language": "es",
+            "@value": " Limone: 1 "
+        }
+    ],
+    "name": {
+        "@language": "es",
+        "@value": "Asparagi lessi"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@language": "es",
+        "@value": "30 min"
+    },
+    "publisher": {
+        "@language": "es",
+        "@value": "NanoPress"
+    },
+    "recipeYield": {
+        "@language": "es",
+        "@value": "4 Persone"
+    },
+    "@id": "http://example.org/recipe"
+}

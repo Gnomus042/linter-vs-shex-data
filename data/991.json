@@ -1,0 +1,103 @@
+{
+    "@type": "Recipe",
+    "TotalTime": {
+        "@language": "pt-br",
+        "@value": "PT1H20M"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "pt-br",
+            "@value": "1.25"
+        },
+        "reviewCount": {
+            "@language": "pt-br",
+            "@value": "8"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "pt-br",
+            "@value": "Weblaranja\n                     "
+        }
+    },
+    "cookTime": {
+        "@language": "pt-br",
+        "@value": "PT1H"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2016-10-30"
+    },
+    "description": {
+        "@language": "pt-br",
+        "@value": "Um pudim com textura macia por\u00e9m firme. O miolo de p\u00e3o faz um pudim mais durinho. Com um molho, n\u00e3o calda, de yogurte e baunilha para acompanhar"
+    },
+    "image": {
+        "@id": "https://www.weblaranja.com/receitas/img_receitas/no-img.png"
+    },
+    "name": {
+        "@language": "pt-br",
+        "@value": "Pudim de P\u00e3o com molho de baunilha"
+    },
+    "prepTime": {
+        "@language": "pt-br",
+        "@value": "PT20M"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "pt-br",
+            "@value": "3 x\u00edcaras -ch\u00e1 de leite"
+        },
+        {
+            "@language": "pt-br",
+            "@value": "1 x\u00edcara -ch\u00e1 de miolo de p\u00e3o franc\u00eas"
+        },
+        {
+            "@language": "pt-br",
+            "@value": "1 colher -ch\u00e1 de casca de laranja ralada"
+        },
+        {
+            "@language": "pt-br",
+            "@value": "2 gemas sem a pele"
+        },
+        {
+            "@language": "pt-br",
+            "@value": "\u00bd x\u00edcara -ch\u00e1 de a\u00e7\u00facar ou a gosto"
+        },
+        {
+            "@language": "pt-br",
+            "@value": "1 colher -ch\u00e1 de baunilha "
+        },
+        {
+            "@language": "pt-br",
+            "@value": "1 x\u00edcara -ch\u00e1 de a\u00e7\u00facar"
+        },
+        {
+            "@language": "pt-br",
+            "@value": "2 colheres -sopa de margarina"
+        },
+        {
+            "@language": "pt-br",
+            "@value": "2 x\u00edcaras -ch\u00e1 de yogourt natural"
+        },
+        {
+            "@language": "pt-br",
+            "@value": "1/4 x\u00edcara -ch\u00e1 de uvas passas"
+        },
+        {
+            "@language": "pt-br",
+            "@value": "2 ovos"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "pt-br",
+        "@value": "\n  \n      \t\tDissolva o miolo de p\u00e3o no leite. No liquidificador bata os ovos, o a\u00e7\u00facar, a margarina e as raspas de laranja. Adicione o leite com o miolo. Bata at\u00e9 obter um creme uniforme e consistente.Acrescente as uvas passas e misture. Se desejar voc\u00ea pode bater no liquidificador junto com os outros ingredientes. Reserve.Unte uma forma de pudim com margarina. Despeje na forma o creme. Leve ao forno m\u00e9dio (180\u00ba), em banho-maria e asse por cerca de 1 hora. Ou enfiando um palito, esse saia limpo.Deixe esfriar. Leve a geladeira, se poss\u00edvel na mesma forma. Por cerca de 4 horas. Desenforme em uma travessa e sirva. Em uma panela, aque\u00e7a o yogourt, as gemas, o a\u00e7\u00facar e a baunilha. Ferva por 2 minutos. Retire do fogo e deixe esfriar. Cubra o pudim com o molho.     \n     \n    \n"
+    },
+    "recipeYield": {
+        "@language": "pt-br",
+        "@value": "8 Por\u00e7\u00f5es"
+    },
+    "@id": "http://example.org/recipe"
+}

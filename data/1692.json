@@ -1,0 +1,68 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 tsp vanilla\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup of crisped rice cereal\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups of rolled oats\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2/3 cup of honey {of agave, or maple syrup...just something STICKY}\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2/3 cup of peanut butter\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup of m&'s - I used a mix of m&ms and chocolate chips}"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "{no bake} Monster Cookie Granola Bars"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "spoon into a square baking dish\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "add the m&ms\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "press firmly in to the pan\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "{cooling in the fridge also works well}\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "mix until everything is thoroughly coated\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "add in the peanut butter, honey and vanilla\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "let the bars rest for at least 30 minutes before cutting\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "combine the oats, and the rice cereal\n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

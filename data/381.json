@@ -1,0 +1,91 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en",
+        "@value": "5 min "
+    },
+    "description": {
+        "@language": "en",
+        "@value": "One bite...and you'll think this was really fried!"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://www.breyers.com%7B%7B_result.recipe.imageUrl%7D%7D"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Unfried Ice Cream"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "210"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "39g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "15mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "5g"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "2g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "2g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "2.5g"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "14g"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "15 min "
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": " 4 cups (1 L) Breyers\u00ae Creamery Style\u2122 Natural Vanilla Ice Cream "
+        },
+        {
+            "@language": "en",
+            "@value": " 3 cups (750 mL) toasted cinnamon cereal, coarsely crushed "
+        },
+        {
+            "@language": "en",
+            "@value": " 1/2 cup (125 mL) caramel ice cream topping, heated "
+        },
+        {
+            "@language": "en",
+            "@value": " 1 cup (250 mL) fresh blueberries and/or sliced strawberries "
+        }
+    ],
+    "recipeInstructions": {
+        "@type": "HowTo",
+        "step": {
+            "@id": "_:N163aef1b216d4cea983879f3a58a3e36"
+        }
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "8 servings "
+    },
+    "@id": "http://example.org/recipe"
+}

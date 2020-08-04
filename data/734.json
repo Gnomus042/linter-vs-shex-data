@@ -1,0 +1,59 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Laney Schwartz"
+    },
+    "image": {
+        "@id": "https://honestcooking.com/almond-butter-berry-chia-pudding/data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons strawberry jam"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons maple syrup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons almond butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup chia seeds"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup Dream Ultimate Almond, unsweetened"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc teaspoon pure vanilla extract"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Almond Butter and Berry Chia Pudding"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Breakfast, Snack"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Pour into a bowl and whisk in the chia seeds. Transfer to jars, or individual bowls, cover and put in the fridge for four hours or overnight. Top with your favorite toppings and enjoy!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Blend together the Dream Ultimate Almond, vanilla, maple syrup, almond butter, and jam until smooth."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "2 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

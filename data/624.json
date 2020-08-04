@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://allerezepte.v22015012394022726.yourvserver.net/rezept/cranberry-aprikosen-zopf-1001470//upload/_rezept/bilder330x248/rezept-1001470.jpg"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "de",
+            "@value": "\u2013"
+        }
+    },
+    "reviews": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "de",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "de",
+            "@value": "3.6"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

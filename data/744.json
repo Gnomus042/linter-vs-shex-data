@@ -1,0 +1,154 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-US",
+        "@value": "A popular Indian recipe made from whole black lentils simmered with spices and butter. These are probably the most delicious lentils you will ever eat!"
+    },
+    "image": {
+        "@id": "https://joanne-eatswellwithothers.com/wp-content/uploads/2014/05/dal-makhani.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 cups vegetable broth"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1-inch piece of cinnamon stick"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc tsp ground black pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup dried black lentils"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd tbsp garam masala"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 bay leaf"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 dried small hot red chili peppers"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp coarse kosher salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "water, to soak and cook beans"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6 oz tomato paste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "14 oz canned diced tomatoes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be tsp chili powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 tbsp unsalted butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tbsp olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be tsp cumin"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be tsp sweet paprika"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup dried adzuki beans"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 large onions, chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1-inch piece of fresh ginger, grated"
+        },
+        {
+            "@language": "en-US",
+            "@value": "6 large cloves garlic, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cardamom pods"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be tsp coriander"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc tsp ground fenugreek"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup lowfat milk"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Dal Makhani (Black Lentils with Rich Tomato Sauce)"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "servingSize": {
+            "@language": "en-US",
+            "@value": "1 bowl"
+        }
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Stir in the butter and milk until combined. Serve warm, over rice or with naan."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Soak the lentil and the adzuki beans in a large bowl of water overnight. Drain off the water the next day."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour the tomatoes, vegetable broth, and tomato pasta into the pot, along with the cooked beans and lentils. Bring to a boil and then simmer until thickened, about 15 minutes. Season to taste with salt and black pepper. Remove the bay leaf, cinnamon stick, and cardamom pods from the pot."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large pot, combine the beans. Cover with water by 1 inch. Add a big pinch of salt and bring to a boil. Cover and lower the heat to a simmer, cooking for 1 hour or until tender. Drain."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add the bay leaf, cinnamon stick, cardamom pods, chili peppers, garam masala, coriander, cumin, chili powder, paprika, fenugreek, black pepper, and salt to the pot. Cook, stirring constantly, for 30 seconds."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Meanwhile, heat the olive oil in a large skillet. Cook the onions over medium-low heat for 15 minutes, or until starting to caramelize, stirring frequently."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Stir in the garlic and ginger, and cook for 1 minute, or until fragrant."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6-8 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,150 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "ro",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "ro",
+        "@value": "admin"
+    },
+    "description": {
+        "@language": "ro",
+        "@value": "Reteta Tocanita cu vita si dovleac din Carte de bucate, Slow Cooking. Specific Romania. Cum sa faci Tocanita cu vita si dovleac"
+    },
+    "image": {
+        "@id": "https://www.culinar.ro/retete/slow-cooking-567/carne/retete-slow-cooking-tocanita-cu-vita-si-dovleac-la-crock-pot-6-l-saute//assets/files/thumb/800x600x2/recipe/26429/fdb_1444081134_lead_800x600_26429.jpg"
+    },
+    "keywords": {
+        "@language": "ro",
+        "@value": "dovleac,tocana,tocanita,tocanita de vitel,reteta de tocanita"
+    },
+    "name": {
+        "@language": "ro",
+        "@value": "Reteta Tocanita cu vita si dovleac"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ro",
+            "@value": "125"
+        }
+    },
+    "prepTime": {
+        "@language": "ro",
+        "@value": "PT55M"
+    },
+    "recipeCategory": {
+        "@language": "ro",
+        "@value": "Carne"
+    },
+    "recipeCuisine": {
+        "@language": "ro",
+        "@value": "Romania"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Dovleac \u2013 300 g"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Cimbru \u2013 2 fire"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Chives \u2013 10-15 fire"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Vrabioara vita \u2013 800 g"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Vin rosu \u2013 80 ml"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Morcovi \u2013 2 buc"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Cartofi \u2013 2 buc"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Usturoi \u2013 4 catei"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Ardei rosu \u2013 2 buc"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Ulei de masline \u2013 2 linguri"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Ceapa verde \u2013 4 fire"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Masline kalamata \u2013 200 g"
+        },
+        {
+            "@language": "ro",
+            "@value": "\u00a0\u00a0\u00a0Sare si piper negru \u2013 dupa gust"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ro",
+        "@value": "\n                                    Curata si taie vita cuburi; Curata si taie cartofii, morcovii, ardeiul si dovleacul cuburi; Toaca usturoiul si ceapa marunt; Pune vasul de aluminiu pe foc, lasa-l sa se incinga si adauga uleiul de masline; Adauga sare pentru a face o emulsie si caleste carnea; Pune peste aceasta usturoiul, ceapa si firicelele de cimbru; Potriveste de piper si adauga maslinele si morcovii; Stinge cu vinul rosu si lasa-l sa se reduca; Ia de pe foc, introdu in Crock Pot 6L , seteaza timpul de 3 ore si 30 min si programul \u201clow\u201d; Adauga cartofii si sucul de rosii peste, amesteca bine si pune capacul; Cu o ora inainte de final adauga dovleacul si ardeiul gras; La final potriveste de sare si piper si serveste cu chives tocat; Pofta buna !                                "
+    },
+    "recipeYield": {
+        "@language": "ro",
+        "@value": "0"
+    },
+    "totalTime": {
+        "@language": "ro",
+        "@value": "PT55M"
+    },
+    "url": {
+        "@language": "ro",
+        "@value": "https://www.culinar.ro/retete/slow-cooking-567/carne/retete-slow-cooking-tocanita-cu-vita-si-dovleac-la-crock-pot-6-l-saute"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "ro",
+            "@value": "Curata si taie vita cuburi; Curata si taie cartofii, morcovii, ardeiul si dovleacul cuburi; Toaca usturoiul si ceapa marunt; Pune vasul de aluminiu pe foc, lasa-l sa se incinga si adauga uleiul de masline; Adauga sare pentru a face o emulsie si caleste carnea; Pune peste aceasta usturoiul, ceapa si firicelele de cimbru; Potriveste de piper si adauga maslinele si morcovii; Stinge cu vinul rosu si lasa-l sa se reduca; Ia de pe foc, introdu in Crock Pot 6L , seteaza timpul de 3 ore si 30 min si programul \u201clow\u201d; Adauga cartofii si sucul de rosii peste, amesteca bine si pune capacul; Cu o ora inainte de final adauga dovleacul si ardeiul gras; La final potriveste de sare si piper si serveste cu chives tocat; Pofta buna !"
+        },
+        "name": {
+            "@language": "ro",
+            "@value": "Tocanita cu vita si dovleac"
+        },
+        "thumbnailURL": {
+            "@language": "ro",
+            "@value": "https://www.culinar.ro/recipe/26429/fdb_1444081134_lead_800x600_26429.jpg"
+        },
+        "uploadDate": {
+            "@language": "ro",
+            "@value": "2015-10-05 22:40:54"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

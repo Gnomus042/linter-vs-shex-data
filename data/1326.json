@@ -1,0 +1,116 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//file/4840843408559484976a.jpeg"
+        },
+        "name": {
+            "@language": "pl",
+            "@value": "Wkn"
+        }
+    },
+    "commentCount": {
+        "@language": "pl",
+        "@value": "0"
+    },
+    "dateModified": {
+        "@language": "pl",
+        "@value": "2016-02-25"
+    },
+    "datePublished": {
+        "@language": "pl",
+        "@value": "2016-02-25"
+    },
+    "image": {
+        "@language": "pl",
+        "@value": "http://wielkiezarcie.com/file/40126674g.jpeg"
+    },
+    "ingredients": {
+        "@language": "pl",
+        "@value": "\n\t\t\t\t\n\t\n\t\tporcja dla 6 os\u00f3b\nGulasz wo\u0142owy:\n1 kg wo\u0142owiny o jasnor\u00f3\u017cowym kolorze mi\u0119sa\n2-3 \u0142y\u017cki oleju\n2-3 szkl wody\nkilka suszonych podgrzybk\u00f3w\n2 cebule\n2-3 str\u0105ki papryki\ns\u00f3l, pieprz\nKluseczki:\n2 ma\u0142e jajka\n280g m\u0105ki pszennej (ok. 1,5 szkl)\n2-3 \u0142y\u017cki wody\nSur\u00f3wka:\n4 marchewki\n\u0107wiartka du\u017cego selera\nsok z cytryny\n1-2 \u0142y\u017ceczki oliwy\ns\u00f3l, pieprz\n1-2 \u0142y\u017ceczki cukru\n1 \u0142y\u017cka posiekanej natki pietruszki\n\t\n\n\t\t\t"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "pl",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "pl",
+            "@value": "0"
+        }
+    },
+    "keywords": [
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//tags/4100022586"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//tags/4100009856"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//tags/4100010123"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//tags/4100009469"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//tags/4100009337"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//tags/4100009596"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//tags/4100010867"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//tags/4100009498"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//tags/4100009651"
+        }
+    ],
+    "name": {
+        "@language": "pl",
+        "@value": "Gulasz wo\u0142owy z domowymi kluseczkami i sur\u00f3wk\u0105 z marchewki"
+    },
+    "prepTime": {
+        "@language": "pl",
+        "@value": "PT70M"
+    },
+    "recipeCategory": [
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//artykuly/group/20000083"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//artykuly/group/20000059"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//artykuly/group/20000005"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//artykuly/group/20000019"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//artykuly/group/20000279"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//artykuly/group/20000261"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//artykuly/group/20000006"
+        },
+        {
+            "@id": "http://wielkiezarcie.com/przepisy/gulasz-wolowy-z-domowymi-kluseczkami-i-surowka-z-marchewki-30076116//artykuly/group/20000016"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "pl",
+        "@value": "\n\t\t\t\t\n\t\n\t\tUgotuj gulasz:\nMi\u0119so pokr\u00f3j w kostk\u0119, podsma\u017c partiami na mocno rozgrzanym oleju, os\u00f3l, zalej wrz\u0105tkiem i wkrusz grzyby. Przykryj i gotuj na ma\u0142ym ogniu oko\u0142o godziny.\nDodaj pokrojon\u0105 i podsma\u017con\u0105 cebul\u0119. Gotuj do mi\u0119kko\u015bci. W mi\u0119dzyczasie przekr\u00f3j papryki, pozbaw gniazd nasiennych, u\u0142\u00f3\u017c sk\u00f3rk\u0105 do g\u00f3ry na blasze wy\u0142o\u017conej foli\u0105 aluminiow\u0105. Piecz w termoobiegu w temp. ok. 180 st. C oko\u0142o 30 minut.\nPapryk\u0119 ostud\u017a, zdejmij sk\u00f3rk\u0119 i pokr\u00f3j w kostk\u0119. Dodaj do gulaszu, gdy mi\u0119so b\u0119dzie mi\u0119kkie. Przypraw do smaku sol\u0105 i \u015bwie\u017co zmielonym pieprzem.\nvar bbkeywords=\"\";\n\n\nPrzygotuj kluseczki:\nJajko, m\u0105k\u0119 i s\u00f3l umie\u015b\u0107 w misie robota kuchennego. Po\u0142\u0105cz sk\u0142adniki za pomoc\u0105 no\u017ca do wyrabiania ciasta. Je\u015bli ciasto b\u0119dzie sypkie, wlej 2-3 \u0142y\u017cki wody i wyr\u00f3b elastyczne ciasto. Ca\u0142o\u015b\u0107 mo\u017cesz te\u017c wyrobi\u0107 r\u0119cznie.\nPosyp ciasto m\u0105k\u0105, urywaj jednakowej wielko\u015bci kawa\u0142ki i formuj w d\u0142oniach ma\u0142e kluseczki. Gotuj w osolonym wrz\u0105tku do mi\u0119kko\u015bci. Podawaj natychmiast.\nZetrzyj warzywa na sur\u00f3wk\u0119:\nObierz warzywa, zetrzyj drobno. Wymieszaj z \u0142y\u017ck\u0105 \u015bwie\u017co wyci\u015bni\u0119tego soku z cytryny, oliw\u0105, natk\u0105 pietruszki, szczypt\u0105 soli i \u015bwie\u017co mielonym pieprzem. Dopraw do smaku odrobin\u0105 cukru.\n\u00a0\n\t\n\n\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "pl",
+        "@value": "8\u00a0\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tporcji\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

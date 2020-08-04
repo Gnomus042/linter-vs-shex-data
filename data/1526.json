@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.bbcgoodfood.com/recipes/fudgy-fig-roll///www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/figroll.jpg?itok=xOTpxtq2"
+    },
+    "keywords": [
+        {
+            "@language": "en",
+            "@value": "Afternoon tea recipes"
+        },
+        {
+            "@language": "en",
+            "@value": "Cakes and Bakes"
+        },
+        {
+            "@language": "en",
+            "@value": "More effort"
+        },
+        {
+            "@language": "en",
+            "@value": "Celebration"
+        },
+        {
+            "@language": "en",
+            "@value": "Indulgent"
+        },
+        {
+            "@language": "en",
+            "@value": "Family recipes"
+        },
+        {
+            "@language": "en",
+            "@value": "Father's Day"
+        },
+        {
+            "@language": "en",
+            "@value": "CAKE"
+        },
+        {
+            "@language": "en",
+            "@value": "Cake sale"
+        },
+        {
+            "@language": "en",
+            "@value": "roll cake"
+        },
+        {
+            "@language": "en",
+            "@value": "Swiss roll"
+        },
+        {
+            "@language": "en",
+            "@value": "Bake sale"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

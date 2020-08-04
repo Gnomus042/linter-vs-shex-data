@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "2.1"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "112"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "J.Ivor Hanson"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT3H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "J.Ivor Hanson S Personal Diary Describes His Experiences As A Gunner On The Western Front In The First World War, Which Left A Deep And Lasting Impression On Him He Wrote About The Officers And Men With Whom He Served, And The Horror And Humor Of Trench Life All Subjects Of Hanson S Intense Scrutiny And Incisive Wit He Vividly Describes The German Army S Crushing Spring Offensive In March 1918, When The British Army On The Western Front Was Almost Pushed Back To The Channel Coast Imperial War Museum Historian Alan Wakefield Has Edited The Diaries And Provides Engaging Explanatory Narratives For Each Chapter To Set Them Within The Context Of The First World War."
+    },
+    "image": {
+        "@id": "http://chainnews.us/wp-content/upload/2017/15235268b6f5e798b641961df2b41058images236502bf17d695a17f5b94ad0b6ed831gr-assets236502bf17d695a17f5b94ad0b6ed831com/books/1328727998l/7490690236502bf17d695a17f5b94ad0b6ed831jpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "112"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "Plough and Scatter ,download, read online, e-pub, pdf, free, kindle ebook"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "!!> Reading \u27b6 Plough and Scatter  \u27ae Author J.Ivor Hanson \u2013 Chainnews.us"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "!!> Reading \u27b6 Plough And Scatter  \u27ae Author J.Ivor Hanson \u2013 Chainnews.us J.Ivor Hanson S Personal Diary Describes His Experiences As A Gunner On The Western Front In The First World War, Which Left A Deep And Lasting Impression On Him He Wrote About The Officers And Men Wi"
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT10M"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "european history"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "!!> Reading \u27b6 Plough And Scatter  \u27ae Author J.Ivor Hanson \u2013 Chainnews.us J.Ivor Hanson S Personal Diary Describes His Experiences As A Gunner On The Western Front In The First World War, Which Left A Deep And Lasting Impression On Him He Wrote About The Officers And Men Wi"
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "Plough and Scatter "
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://chainnews.us/wp-content/upload/2017/15235268b6f5e798b641961df2b41058images236502bf17d695a17f5b94ad0b6ed831gr-assets236502bf17d695a17f5b94ad0b6ed831com/books/1328727998l/7490690236502bf17d695a17f5b94ad0b6ed831jpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2018-03-17T10:07+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,74 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "nl",
+        "@value": "The Lion Kitchen"
+    },
+    "cookingMethod": {
+        "@language": "nl",
+        "@value": "Koken"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Stamppotjes winterkost? Nee hoor, helemaal niet. Er zijn ook\u00a0stamppotjes die lekker zijn voor wat warme seizoenen. Neem bijvoorbeeld deze stamppot met\u00a0zoete aardappel, bloemkool en andijvie. Super lekker en perfect voor in de zomer. \u00a0Serveer met Parmezaanse kaas en genieten maar. Zeker weten dat je dit zomerse stamppotje kunt waarderen. Geniet ervan.\u00a0"
+    },
+    "image": {
+        "@language": "nl",
+        "@value": "Null"
+    },
+    "ingredients": [
+        {
+            "@id": "http://www.foody.nl/recepten/zomerstamppot-met-zoete-aardappel-24465.html//ingredienten/groente/rode-ui.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zomerstamppot-met-zoete-aardappel-24465.html//ingredienten/groente/zoete-aardappelen.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zomerstamppot-met-zoete-aardappel-24465.html//ingredienten/kruiden-en-specerijen/peper.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zomerstamppot-met-zoete-aardappel-24465.html//ingredienten/zuivel-en-zuivelvervangers/boter.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zomerstamppot-met-zoete-aardappel-24465.html//ingredienten/smaakmaker/zout.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zomerstamppot-met-zoete-aardappel-24465.html//ingredienten/kaas/parmezaanse-kaas.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zomerstamppot-met-zoete-aardappel-24465.html//ingredienten/groente/bloemkool.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zomerstamppot-met-zoete-aardappel-24465.html//ingredienten/smaakmaker/groentebouillion.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zomerstamppot-met-zoete-aardappel-24465.html//ingredienten/groente/andijvie.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zomerstamppot-met-zoete-aardappel-24465.html//ingredienten/kruiden-en-specerijen/nootmuskaat.html"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Zomerstamppot met zoete aardappel"
+    },
+    "recipeCategory": [
+        {
+            "@language": "nl",
+            "@value": "Hoofdgerecht"
+        },
+        {
+            "@language": "nl",
+            "@value": "Stamppot"
+        }
+    ],
+    "recipeCuisine": {
+        "@language": "nl",
+        "@value": "Nederlands"
+    },
+    "recipeYield": {
+        "@language": "nl",
+        "@value": "4 personen"
+    },
+    "@id": "http://example.org/recipe"
+}

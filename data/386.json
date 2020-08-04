@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "By becky plotner"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2013-10-14 18:53:40"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "a GAPS approved nutrient dense meal that's delicious!"
+    },
+    "image": {
+        "@id": "http://nourishingplot.com/wp-content/uploads/2013/10/P1080580-300x225.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 pound free range ground pork sausage"
+        },
+        {
+            "@language": "en-US",
+            "@value": "salt and pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons almond flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 caramelized onions"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pound free range ground pork"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup dry red wine"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3-4 peppers of your choice (hot, bell, sweet)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pound grass fed, grass finished ground beef"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Meat Pie"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tThoroughly cook all meat. Add caramelized onions and chopped peppers. Stir in almond flour, salt and pepper. Add ingredients to partially cooked pie shell. Top with more pie crust or shredded cheddar cheese. Cook 350 degrees for 20-30 minutes until top is browned.\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

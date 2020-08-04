@@ -1,0 +1,70 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "cs-CZ",
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@language": "cs-CZ",
+            "@value": "286"
+        }
+    },
+    "author": {
+        "@language": "cs-CZ",
+        "@value": "..."
+    },
+    "description": {
+        "@language": "cs-CZ",
+        "@value": "zmrzlina ze zelen\u00e9ho \u010daje (hana aisu), sladkosti, zmrzlina, nanuky, poh\u00e1ry"
+    },
+    "image": {
+        "@id": "http://kucharka.cbmonitor.cz/recepty/zmrzlina-ze-zeleneho-caje--hana-aisu/4707//recepty/none.png"
+    },
+    "ingredients": [
+        {
+            "@language": "cs-CZ",
+            "@value": "1 l\u017e\u00edce pr\u00e1\u0161kov\u00e9ho zelen\u00e9ho \u010daje Maccha "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "3 l\u017e\u00edce hork\u00e9 vody "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "5 l\u017eic cukru krystal "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "180 ml ml\u00e9ka "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "200 ml tu\u010dn\u011bj\u0161\u00ed smetany "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "2 \u017eloutky "
+        }
+    ],
+    "name": {
+        "@language": "cs-CZ",
+        "@value": "Zmrzlina ze zelen\u00e9ho \u010daje (Hana Aisu)"
+    },
+    "recipeCategory": [
+        {
+            "@language": "cs-CZ",
+            "@value": "zmrzlina, nanuky, poh\u00e1ry"
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "sladkosti"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "cs-CZ",
+        "@value": "Recept zmrzlina ze zelen\u00e9ho \u010daje (hana aisu) p\u0159iprav\u00edme takto: V misce d\u016fkladn\u011b sm\u00edch\u00e1me horkou vodu s \u010dajem a odlo\u017e\u00edme. V mal\u00e9m hrnci zam\u00edch\u00e1me \u017eloutky s cukrem a dob\u0159e \u0161leh\u00e1n\u00edm zhomogenizujeme. A\u017e dokud bude sm\u011bs sv\u011btlo\u017elut\u00e1 a vl\u00e1\u010dn\u00e1, p\u0159id\u00e1me do sm\u011bsi postupn\u011b ml\u00e9ko a op\u011bt dob\u0159e m\u00edch\u00e1me. Hrnec se sm\u011bs\u00ed pak pono\u0159\u00edme do v\u011bt\u0161\u00edho hrnce s vodou, tu p\u0159ivedeme k varu a op\u011bt m\u00edch\u00e1me, dokud sm\u011bs medovit\u011b nezhoustne (m\u016f\u017ee to trvat i 20 minut). A\u017e je sm\u011bs hust\u00e1 a medovit\u011b st\u00e9k\u00e1 ze \u0161pachtle, ihned odstav\u00edme a hrnec d\u00e1me do n\u00e1doby se studenou vodou. Do vychlazovan\u00e9 sm\u011bsi p\u0159id\u00e1me rozmixovan\u00fd zelen\u00fd \u010daj a dob\u0159e pro\u0161leh\u00e1me (hrnec m\u00e1me st\u00e1le pono\u0159en\u00fd ve studen\u00e9 vod\u011b). Smetanu jemn\u011b na\u0161leh\u00e1me v misce, aby trochu zhoustla, pak vlijeme do sm\u011bsi, lehce prom\u00edch\u00e1me a nech\u00e1me vychladnout. Pak sm\u011bs nalijeme do n\u00e1dobky a nech\u00e1me na cca 4 hodiny zamrazit. B\u011bhem mra\u017een\u00ed n\u011bkolikr\u00e1t v n\u00e1dob\u011b lehce prom\u00edch\u00e1me.Dal\u0161\u00ed recepty v kategorii Sladkosti \u00a0 Dal\u0161\u00ed recepty v kategorii Zmrzlina, nanuky, poh\u00e1ry "
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "fr-FR",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "fr-FR",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "fr-FR",
+        "@value": "Samar"
+    },
+    "image": {
+        "@id": "http://www.mesinspirationsculinaires.com/wp-content/uploads/2013/09/coleslaw-salade-de-chou-rouge-1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "2 tasses et demi d'un mix de chou rouge r\u00e2p\u00e9 au robot ou \u00e0 la mandoline, chou blanc r\u00e2p\u00e9 finement au robot ou \u00e0 la mandoline et carotte en julienne. (on peut aussi bien ajouter des oignons, des pommes r\u00e2p\u00e9es aussi)."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "une poign\u00e9e de cranberries ou raisins secs, graines de s\u00e9sames"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\u00bd tasse de mayonnaise"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\u00bc c-a-th\u00e9 de moutarde en poudre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "2 c-a-soupe de sucre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "sel, poivre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "2 c-a-soupe de vinaigre blanc ou vinaigre de cidre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\u215b c-a-th\u00e9 de graine de c\u00e9leri (facultatif)"
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Coleslaw (Salade de chou rouge et blanc)"
+    },
+    "recipeCategory": {
+        "@language": "fr-FR",
+        "@value": "Salade"
+    },
+    "recipeCuisine": {
+        "@language": "fr-FR",
+        "@value": "Americaine"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "fr-FR",
+            "@value": "Saupoudrer de graines de s\u00e9same, de cranberries s\u00e9ch\u00e9s si d\u00e9sir\u00e9e"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Ajouter les choux (rouge et blanc) ainsi que la carotte en julienne."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "M\u00e9langer bien le tout et mettre au frais au moins 2 heures."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Dans un saladier, pr\u00e9parer la vinaigrette en versant le vinaigre le sucre et le sel afin de les dissoudre. Ajouter le reste des ingr\u00e9dients (mayonnaise, moutarde c\u00e9leri en graine et poivre)."
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,184 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "ro",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "ro",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "ro",
+        "@value": "reisnaor_2006"
+    },
+    "datePublished": {
+        "@language": "ro",
+        "@value": "2014-03-17"
+    },
+    "description": {
+        "@language": "ro",
+        "@value": " Intr-o oala cu presiune punem fasolea la fiert. Dupa 10 minute fasolea impreuna cu ciolanul afumat se pune in alta oala si se mai lasa la fiert 30 de minute.Se adauga legumele date prin razatoare sau taiate cubulete (patrunjelul,telina,ardeiul gras,rosile sau bulionul). Separat intr-o tigaie calesc ceapa si morcovul ras si adaug in oala,foile de dafin,sarea piperul,cateva frunze de tarhon taiate marunt si zeama din borcanul cu tarhon.    Ciolanul il putem lasa intreg in oala cand este ciorba gata.Eu il scot afara si dezosez carnea de pe os,o tai marunt si o introduc in ciorba.    Pofta buna. "
+    },
+    "image": {
+        "@id": "https://www.bucataras.ro/retete/ciorba-de-fasole-boabe-cu-ciolan-afumat-si-tarhon-57931.html//uploads/modules/news/57931/656x440_ciorba-de-fasole-boabe-cu-ciolan-afumat-si-tarhon-304198.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ro",
+            "@value": "un ciolan afumat"
+        },
+        {
+            "@language": "ro",
+            "@value": "un ardei"
+        },
+        {
+            "@language": "ro",
+            "@value": "o ceapa mare"
+        },
+        {
+            "@language": "ro",
+            "@value": "rosii sau bulion de casa"
+        },
+        {
+            "@language": "ro",
+            "@value": "tarhon"
+        },
+        {
+            "@language": "ro",
+            "@value": "fasole"
+        },
+        {
+            "@language": "ro",
+            "@value": "2 foi de dafin"
+        },
+        {
+            "@language": "ro",
+            "@value": "o telina mica"
+        },
+        {
+            "@language": "ro",
+            "@value": "un patrunjel,radacina"
+        },
+        {
+            "@language": "ro",
+            "@value": "sare,piper"
+        },
+        {
+            "@language": "ro",
+            "@value": "2 morcovi"
+        }
+    ],
+    "keywords": {
+        "@language": "ro",
+        "@value": "ciorba de fasole,"
+    },
+    "name": {
+        "@language": "ro",
+        "@value": "Ciorba de fasole boabe cu ciolan afumat si tarhon"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ro",
+            "@value": "106"
+        }
+    },
+    "recipeCategory": {
+        "@language": "ro",
+        "@value": "Ciorbe"
+    },
+    "recipeCuisine": {
+        "@language": "ro",
+        "@value": "Romania"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ro",
+            "@value": "\n    un ardei"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    rosii sau bulion de casa"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    tarhon"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    2 morcovi"
+        },
+        {
+            "@language": "ro",
+            "@value": "Null"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    un ciolan afumat"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    un patrunjel,radacina"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    fasole"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    o telina mica"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    o ceapa mare"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    2 foi de dafin"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    sare,piper"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ro",
+        "@value": " Intr-o oala cu presiune punem fasolea la fiert. Dupa 10 minute fasolea impreuna cu ciolanul afumat se pune in alta oala si se mai lasa la fiert 30 de minute.Se adauga legumele date prin razatoare sau taiate cubulete (patrunjelul,telina,ardeiul gras,rosile sau bulionul). Separat intr-o tigaie calesc ceapa si morcovul ras si adaug in oala,foile de dafin,sarea piperul,cateva frunze de tarhon taiate marunt si zeama din borcanul cu tarhon.    Ciolanul il putem lasa intreg in oala cand este ciorba gata.Eu il scot afara si dezosez carnea de pe os,o tai marunt si o introduc in ciorba.    Pofta buna. "
+    },
+    "totalTime": {
+        "@language": "ro",
+        "@value": "PT60M"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "ro",
+            "@value": " Intr-o oala cu presiune punem fasolea la fiert. Dupa 10 minute fasolea impreuna cu ciolanul afumat se pune in alta oala si se mai lasa la fiert 30 de minute.Se adauga legumele date prin razatoare sau taiate cubulete (patrunjelul,telina,ardeiul gras,rosile sau bulionul). Separat intr-o tigaie calesc ceapa si morcovul ras si adaug in oala,foile de dafin,sarea piperul,cateva frunze de tarhon taiate marunt si zeama din borcanul cu tarhon.    Ciolanul il putem lasa intreg in oala cand este ciorba gata.Eu il scot afara si dezosez carnea de pe os,o tai marunt si o introduc in ciorba.    Pofta buna. "
+        },
+        "name": {
+            "@language": "ro",
+            "@value": "Ciorba de fasole boabe cu ciolan afumat si tarhon"
+        },
+        "thumbnailURL": {
+            "@language": "ro",
+            "@value": "https://www.bucataras.ro/uploads/modules/news/57931/656x440_ciorba-de-fasole-boabe-cu-ciolan-afumat-si-tarhon-304198.jpg"
+        },
+        "uploadDate": {
+            "@language": "ro",
+            "@value": "2014-03-17 12:16:27"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

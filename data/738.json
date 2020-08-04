@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "copyrightHolder": {
+        "@value": "As receitas de Portugal"
+    },
+    "image": [
+        {
+            "@id": "https://asreceitasdeportugal.com/eclairs-de-chocolate/data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs="
+        },
+        {
+            "@id": "https://asreceitasdeportugal.com/wp-content/uploads/2017/05/\u00c9clairs-de-Chocolate.jpg"
+        }
+    ],
+    "name": {
+        "@value": "\u00c9clairs de Chocolate"
+    },
+    "recipeIngredient": [
+        {
+            "@value": " 0,5 dl leite meio-gordo"
+        },
+        {
+            "@value": " 4 gemas M"
+        },
+        {
+            "@value": " 18 mirtilos"
+        },
+        {
+            "@value": " 6 c. sopa farinha"
+        },
+        {
+            "@value": " 0,5 dl \u00e1gua"
+        },
+        {
+            "@value": " 2 ovos M"
+        },
+        {
+            "@value": " 0,5 c. caf\u00e9 a\u00e7\u00facar"
+        },
+        {
+            "@value": " 200 g chocolate culin\u00e1ria"
+        },
+        {
+            "@value": " 30 g pist\u00e1cios"
+        },
+        {
+            "@value": " 2 c. sopa farinha"
+        },
+        {
+            "@value": " 1 c. sopa a\u00e7\u00facar"
+        },
+        {
+            "@value": " 9 framboesas"
+        },
+        {
+            "@value": " 2,5 c. sopa manteiga"
+        },
+        {
+            "@value": " 3 quadrados de chocolate preto com pepitas de framboesa e am\u00eandoas caramelizadas"
+        },
+        {
+            "@value": " 1 dl \u00e1gua"
+        },
+        {
+            "@value": " 50 g a\u00e7\u00facar em p\u00f3"
+        },
+        {
+            "@value": " 0,25 c. caf\u00e9 sal fino"
+        },
+        {
+            "@value": " 100 g chocolate preto"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": " Coloque ao lume o leite com o chocolate, grosseiramente picado, e mexa at\u00e9 derreter. Retire do lume."
+        },
+        {
+            "@value": " Coloque ao lume um tacho com a \u00e1gua, o a\u00e7\u00facar, o sal e a manteiga e ferva at\u00e9 derreter."
+        },
+        {
+            "@value": " Leve novamente a lume brando, mexendo sempre, durante 1 minuto. Retire, deixe arrefecer um pouco e adicione os ovos, previamente batidos, um a um, mexendo bem ap\u00f3s cada adi\u00e7\u00e3o."
+        },
+        {
+            "@value": " Leve ao lume o a\u00e7\u00facar com a \u00e1gua at\u00e9 derreter, junte o chocolate finamente picado, mexendo at\u00e9 obter um creme espesso. Retire e reserve."
+        },
+        {
+            "@value": " Pr\u00e9-aque\u00e7a o forno a 220\u00b0 C."
+        },
+        {
+            "@value": " Bata as gemas com a farinha e o a\u00e7\u00facar at\u00e9 obter um creme e envolva-o, delicadamente e mexendo sempre, com chocolate derretido. Leve novamente a lume brando at\u00e9 engrossar. Retire e deixe arrefecer."
+        },
+        {
+            "@value": " Coloque a massa num saco de pasteleiro com um bico liso de 1 cm e molde \u00e9clairs (com 8 a 10cm), dispondo-os num tabuleiro de forno forrado com papel vegetal."
+        },
+        {
+            "@value": " Leve ao forno 15 minutos. Reduza a temperatura para 200\u00b0 C e coza mais 15 minutos ou at\u00e9 ficarem dourados. Desligue o forno e deixe-os arrefecer no interior com a porta aberta."
+        },
+        {
+            "@value": " Com a ajuda da seringa de pasteleiro recheie os \u00e9clairs com o creme de chocolate e cubra os com a cobertura. Decore com o chocolate partido em pequenos tri\u00e2ngulos, as framboesas, os mirtilos e os pist\u00e1cios picados."
+        },
+        {
+            "@value": " Retire do lume, adicione a farinha, duma s\u00f3 vez, e mexa energicamente com uma colher de pau at\u00e9 formar uma bola."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,56 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@value": "https://www.orogel.it/media/immagini/7909_z_baccelli_edamame_lg.png"
+    },
+    "inLanguage": {
+        "@value": "IT"
+    },
+    "name": {
+        "@value": "Baccelli di edamame al sesamo"
+    },
+    "performTime": {
+        "@value": "PT20M"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "2 cucchiai di semi di sesamo"
+        },
+        {
+            "@value": "Per la salsa aromatica: 80 g di yogurt greco e mezzo cucchiaino di curry"
+        },
+        {
+            "@value": "Per la salsa piccante: 80 g di polpa di pomodoro, aglio, mezzo peperoncino"
+        },
+        {
+            "@value": "Per la salsa agrodolce: 40 g di salsa di sia e 20 g di miele"
+        },
+        {
+            "@value": "sale, pepe e olio evo"
+        },
+        {
+            "@value": "500 g di Soia Edamame in Baccello Orogel"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Versare la Soia Edamame in baccello surgelata in acqua bollente con un pizzico di sale. Coprire e cuocere per 2 minuti dalla ripresa dell\u2019ebollizione."
+        },
+        {
+            "@value": "Per la salsa agrodolce: scaldare in padella un filo d'olio, appassire l'aglio tritato, unire la polpa di pomodoro e il peperoncino tritato, cuocere per 5 minuti e salare."
+        },
+        {
+            "@value": "Preparare la salsa agrodolce mescolando insieme la salsa di soia e il miele."
+        },
+        {
+            "@value": "Saltare la Soia Edamame in baccello in padella con l\u2019olio e i semi di sesamo, poi servirla accompagnata dalle tre salse."
+        },
+        {
+            "@value": "Per la salsa aromatica: mescolare lo yogurt greco con il curry e regolare a piacere di sale e pepe."
+        }
+    ],
+    "recipeYield": {
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

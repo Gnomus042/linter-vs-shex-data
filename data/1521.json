@@ -1,0 +1,93 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "2"
+        }
+    },
+    "description": {
+        "@language": "en",
+        "@value": "A beloved Italian dish gets a touch of the Levant with our yogurt and mint sauce. Simply irresistible!"
+    },
+    "image": {
+        "@id": "https://www.maggime.com/en/recipes/spaghetti-with-yogurt-and-sumac/499730//sites/default/files/recipes/en/Spaghetti-yogurt-and-sumac.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Spaghetti with Yogurt and Sumac"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Levant"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "  6 cloves garlic, finely chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "  1 sachet MAGGI\u00ae Powder Chicken Bouillon"
+        },
+        {
+            "@language": "en",
+            "@value": "  \u00bd cup fresh mint leaves, chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "  1 tablespoon olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "  3 cups yogurt"
+        },
+        {
+            "@language": "en",
+            "@value": "  1-2 tablespoons sumac"
+        },
+        {
+            "@language": "en",
+            "@value": "  300 g spaghetti, boiled and drained"
+        },
+        {
+            "@language": "en",
+            "@value": "  1 medium onion, finely chopped"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "In a large saucepan, saut\u00e9 onions in olive oil until soft. Add garlic, spaghetti and MAGGI\u00ae Powder Chicken Bouillon and toss gently to coat. \n\n"
+        },
+        {
+            "@language": "en",
+            "@value": "Before serving, add yogurt sauce to the pasta and gently toss to warm the sauce. "
+        },
+        {
+            "@language": "en",
+            "@value": "Prepare sauce by combining and mixing yogurt and mint leaves in a large bowl. Then set aside. "
+        },
+        {
+            "@language": "en",
+            "@value": "Transfer to a serving dish and garnish with sumac.\n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "6 persons"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "15 Mins"
+    },
+    "@id": "http://example.org/recipe"
+}

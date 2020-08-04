@@ -1,0 +1,82 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "9"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.9"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "SpicieFoodie.com & Nancy Lopez-McHugh"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "How to Roast Tomatoes. Easy vegan recipe anyone can prepare in no time."
+    },
+    "image": {
+        "@id": "http://www.spiciefoodie.com/blogimages/2011/09/HowTo_RoastTomatoes01.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "garlic,minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "thyme"
+        },
+        {
+            "@language": "en-US",
+            "@value": "oregano"
+        },
+        {
+            "@language": "en-US",
+            "@value": "pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "raw tomatoes, halved and seeded*"
+        },
+        {
+            "@language": "en-US",
+            "@value": "salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "basil"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "How To Roast Tomatoes"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Appetizer, Ingredient, Main Entree"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Preheat 200c or 392f"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Bake in the center of the oven for 25-45 minutes depending on size of tomatoes. They should be slightly browned and shriveled but not burnt. Allow to cool completely before using. Store in a sealed container in the refrigerator."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Slice tomatoes in half and remove the seeds. This can be done by ether scooping the seeds out with a spoon or gently squeeze between thumb and index finger, and the juice and seeds will flow out. *If using small cherry tomatoes the seeds can be left inside. Mix all of the spices with the olive oil in a large bowl. Toss the tomatoes to coat them well with the spice oil mixture. Place on a baking sheet lined with baking paper, making sure the tomatoes are hollow side up."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,159 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "it-IT",
+        "@value": "Rita"
+    },
+    "image": {
+        "@id": "https://lacucinadinonnarita.altervista.org/wp-content/uploads/2019/01/Rotolo-crema-pistacchio-e-cioccolato-bianco-La-cucina-di-nonna-Rita.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "it-IT",
+            "@value": "100 g cioccolato bianco"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "250 gr di mascarpone"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Granella di pistacchio q.b"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 pizzico bicarbonato o se preferite un cucchiaino di lievito per dolci"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "200 gr di crema al pistacchio"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "PER LA PASTA BISCOTTO"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "100 ml panna fresca liquida"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "30 g burro"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Confettini colorati q.b"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "200 ml di panna da montare non zuccherata"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "80 gr zucchero semolato"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "PER LA CREMA AL PISTACCHIO:"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "PER LA GLASSATURA AL CIOCCOLATO:"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "4 uova"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "PER DECORARE:"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "50 gr farina 00"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "50 gr fecola patate"
+        }
+    ],
+    "name": {
+        "@language": "it-IT",
+        "@value": "Rotolo pasta biscotto con crema al pistacchio glassato al cioccolato bianco"
+    },
+    "recipeCategory": {
+        "@language": "it-IT",
+        "@value": "Facile"
+    },
+    "recipeCuisine": {
+        "@language": "it-IT",
+        "@value": "Dolci e dessert"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "it-IT",
+            "@value": "Incorporiamo delicatamente e un po\u2019 per volta gli albumi montati utilizzando una spatola con movimenti dall\u2019alto verso il basso per non far sgonfiare gli albumi."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Rivestiamo con carta forno una leccarda e versiamo il composto avendo cura di livellarlo bene battento la leccarda sul piano lavoro per evitare il formarsi di bolle di aria."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Prendiamo la pasta biscotto e lasciare il lato pi\u00f9 bello rivolto verso il basso, di modo che sar\u00e0 quello visibile esteriormente."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Con lo sbattitore elettrico, montare mascarpone, crema al pistacchio e zucchero a velo fino ad ottenere un composto cremoso ed omogeneo."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Lasciamo raffreddare bene prima di farcire e arrotolare."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Stendiamo sopra la pasta la crema al mascarpone e pistacchio e distribuiamola in modo omogeneo. Arrotoliamo la pasta su se stessa, partendo dal lato pi\u00f9 lungo, fino a formare un rotolo e avendo cura di lasciare la chiusura nascosta sotto. Mettiamo in frigo."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Adesso possiamo assemblare il nostro rotolo."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Prepariamo la glassatura al cioccolato.Tritiamo finemente al coltello il cioccolato e mettiamolo in una ciotolina. Nel frattempo facciamo bollire in un pentolino la panna. Quando il composto arriver\u00e0 a bollore versiamolo nel cioccolato a pezzetti e mescoliamo fino a farlo sciogliere completamente. Appena sar\u00e0 sciolto il cioccolato aggiungiamo anche il burro e continuiamo a mescolare fino a che si sar\u00e0 sciolto e incorporato alla glassa Lasciamo intiepidire la glassa, versiamola sul rotolo cercando di farla colare leggermente ai lati, Cospargiamo subito la glassa con un pochino di granella di pistacchio e decoriamo con i confettini colorati. Lasciamo riposare in frigorifero per almeno un\u2019ora prima di servire."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Adesso prepariamo la pasta biscotto. Separiamo i tuorli dagli albumi. Montiamo gli albumi a neve con lo sbattitore elettrico."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Inforniamo in forno gi\u00e0 caldo a 180\u00b0C statico per circa 10/15 minuti fin quando la pasta biscotto risulter\u00e0 leggermente dorata."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Sforniamo, distribuiamo sulla superficie dello zucchero semolato e copriamo per bene con un foglio di pellicola trasparente per alimenti (questo serve a far trattenere, alla pasta biscotto, tutta l\u2019umidit\u00e0 che servir\u00e0 a renderla elastica e facilmente arrotolabile)."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Lavoriamo con lo sbattitore i tuorli insieme allo zucchero, fino ad ottenere un composto chiaro e spumoso."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Per prima cosa, preparariamo la crema al pistacchi. Con lo sbattitore elettrico, montare la panna e mettere momentaneamente in disparte."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Aggiungere la panna, precedentemente montata, al composto di mascarpone e pistacchio e incorporarla mescolando dall\u2019alto verso il basso con una spatola."
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Setacciamo la farina con la fecola e il pizzico di bicarbonato e aggiungiamolo al composto spumoso dei tuorli, amalgamare bene il tutto continuando a lavorare con lo sbattitore."
+        }
+    ],
+    "recipeYield": {
+        "@language": "it-IT",
+        "@value": "1 rotolo"
+    },
+    "@id": "http://example.org/recipe"
+}

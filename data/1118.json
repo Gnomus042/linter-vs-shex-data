@@ -1,0 +1,135 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-us",
+            "@value": "4.67"
+        },
+        "reviewCount": {
+            "@language": "en-us",
+            "@value": "10"
+        }
+    },
+    "author": {
+        "@language": "en-us",
+        "@value": "Lisa"
+    },
+    "description": {
+        "@language": "en-us",
+        "@value": "\n\"Coffee liqueur, coconut rum, Irish cream, vodka and amaretto (whew!) mixed with coconut cream.\"        "
+    },
+    "image": {
+        "@id": "https://images.media-allrecipes.com/userphotos/250x250/334550.jpg"
+    },
+    "mainEntityOfPage": {
+        "@language": "en-us",
+        "@value": "True"
+    },
+    "name": {
+        "@language": "en-us",
+        "@value": "Bushwacker"
+    },
+    "recipeCategory": [
+        {
+            "@language": "en-us",
+            "@value": "Vodka Drinks"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Cocktails"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Drinks"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en-us",
+            "@value": "2 fluid ounces coconut rum"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 fluid ounces cream of coconut"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 fluid ounces amaretto liqueur"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 pinch ground nutmeg"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 fluid ounces coffee flavored liqueur"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 fluid ounces Irish cream liqueur"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 fluid ounces vodka"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-us",
+        "@value": "\n                        \n                            In a one-quart blender half filled with ice, combine coffee liqueur, rum, Irish cream, vodka, amaretto and coconut cream. Blend until smooth. Pour into cup and sprinkle a little nutmeg on top and enjoy a little taste of the Islands.\n                            \n                        \n            "
+    },
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "1"
+    },
+    "review": [
+        {
+            "@id": "_:Na9f77789cc864deb9cd09e7bfede35af"
+        },
+        {
+            "@id": "_:Neb9cb4d285d34323bde313bc6008b921"
+        },
+        {
+            "@id": "_:N05dd997891994916a25cdb2effdad83c"
+        },
+        {
+            "@id": "_:Nddab02d7d7644c768e89ba91ce5726bb"
+        },
+        {
+            "@id": "_:N34d55a5eef764dc08f3b44ab1283997d"
+        },
+        {
+            "@id": "_:Nc51d018cf49b4936a3532558bf0cf9c7"
+        },
+        {
+            "@id": "_:Nabbd5b1a0bd84af8b1c238faf20241e1"
+        },
+        {
+            "@id": "_:Na3bdd641b4bf4bdf9346dc443e5534de"
+        },
+        {
+            "@id": "_:Nab6c4620bb5b49a281debeb060ed3a4a"
+        },
+        {
+            "@id": "_:N35eabf09bddc4742a287ea6139a2d0c9"
+        },
+        {
+            "@id": "_:Na65231ce9db04edda9bf264e7c1a93c8"
+        }
+    ],
+    "url": {
+        "title": {
+            "@language": "en-us",
+            "@value": "Bushwacker Recipe - Allrecipes.com"
+        },
+        "item": [
+            {
+                "@id": "_:N678ab0ec5f884a9ebbd5ac29c107bcbb"
+            },
+            {
+                "@id": "_:N56b2457a7e954b079a6d05bc26977314"
+            }
+        ]
+    },
+    "@id": "http://example.org/recipe"
+}

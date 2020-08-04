@@ -1,0 +1,40 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://www.dishmaps.com/from/allrecipes"
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "Published 2014-09-09 11:25:49 (5 years ago)."
+    },
+    "image": {
+        "@id": "http://www.dishmaps.com/thumbs/filet-mignon-with-rich-balsamic-glaze-allrecipes_380.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "2 (4 ounce) filet mignon steaks"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup dry red wine"
+        },
+        {
+            "@language": "en",
+            "@value": "salt to taste"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup balsamic vinegar"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 teaspoon freshly ground black pepper to taste"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Filet Mignon With Rich Balsamic Glaze"
+    },
+    "@id": "http://example.org/recipe"
+}

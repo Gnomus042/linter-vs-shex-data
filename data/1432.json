@@ -1,0 +1,95 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "marianna1289"
+    },
+    "datePublished": {
+        "@value": "06.11.2019"
+    },
+    "description": {
+        "@value": "\n                                        Syc\u0105ca i aromatyczna zupa ,doskona\u0142a na jesienne ch\u0142ody,wzbogacona o dodatki np. groszek ptysiowy mo\u017ce by\u0107 daniem jednogarnkowym.                                    "
+    },
+    "image": {
+        "@id": "https://smaker.pl/przepisy-zupy/przepis-zupa-gulaszowa,176338,marianna1289.html///static.smaker.pl/photos/c/8/7/c8745983e59a14f249df39b9c3697ab6_376161_5dc2d6189c42b_wm.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\n                                                                        Ziemniaki 5 szt                                                            "
+        },
+        {
+            "@value": "\n                                                                    \n                                                                        Bazylia,oregano,rozmaryn                                                                    \n                                                            "
+        },
+        {
+            "@value": "\n                                                                    \n                                                                        Li\u015b\u0107 laurowy 2 szt                                                                    \n                                                            "
+        },
+        {
+            "@value": "\n                                                                        Pietruszka 1 szt                                                            "
+        },
+        {
+            "@value": "\n                                                                    \n                                                                        Ziele angielskie 2 ziarna                                                                    \n                                                            "
+        },
+        {
+            "@value": "\n                                                                        Mi\u0119so wieprzowe \u0142opatka 30 dag                                                            "
+        },
+        {
+            "@value": "\n                                                                        S\u00f3l, pieprz czarny mielony                                                            "
+        },
+        {
+            "@value": "\n                                                                        Pieczarki 20 dag                                                            "
+        },
+        {
+            "@value": "\n                                                                        Seler korze\u0144 1/3 szt                                                            "
+        },
+        {
+            "@value": "\n                                                                        \u015amietana 18% 1/2 szklanki                                                            "
+        },
+        {
+            "@value": "\n                                                                        Czosnek 2 z\u0105bki                                                            "
+        },
+        {
+            "@value": "\n                                                                        Papryka czerwona 1/2 szt                                                            "
+        },
+        {
+            "@value": "\n                                                                        Przyprawa do mi\u0119sa wieprzowego                                                            "
+        },
+        {
+            "@value": "\n                                                                        Olej do sma\u017cenia                                                            "
+        },
+        {
+            "@value": "\n                                                                        Przecier pomidorowy 1/2 kartonika 500g                                                            "
+        },
+        {
+            "@value": "\n                                                                        Por 1/3 szt                                                            "
+        },
+        {
+            "@value": "\n                                                                        Marchewka 1 szt                                                            "
+        },
+        {
+            "@value": "\n                                                                        Cebula bia\u0142a 1 szt                                                            "
+        }
+    ],
+    "interactionCount": [
+        {
+            "@value": "UserComments:0"
+        },
+        {
+            "@value": "UserPageVisits:144"
+        },
+        {
+            "@value": "UserLikes:0"
+        }
+    ],
+    "name": {
+        "@value": "Zupa gulaszowa"
+    },
+    "recipeCategory": {
+        "@value": "Zupy"
+    },
+    "recipeYield": {
+        "@value": "> 6 os."
+    },
+    "totalTime": {
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

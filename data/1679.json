@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ko",
+        "@value": "Shenzhen Veayas Lighting Factory Store"
+    },
+    "brand": {
+        "@language": "ko",
+        "@value": "pixity.asia"
+    },
+    "image": {
+        "@language": "ko",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB16XdVUBLoK1RjSZFuq6xn0XXaa/\ud604\ub300-led-\ucc9c\uc7a5-\uc0f9\ub4e4\ub9ac\uc5d0-\uc870\uba85-\uac70\uc2e4-\uce68\uc2e4-\uc0f9\ub4e4\ub9ac\uc5d0-\ud06c\ub9ac-\uc5d0\uc774-\ud2f0\ube0c-\ud648-\uc870\uba85\uae30\uad6c-ac110v-220-v.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ko",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "ko",
+            "@value": "33010724722"
+        }
+    ],
+    "name": {
+        "@language": "ko",
+        "@value": "\ud604\ub300 led \ucc9c\uc7a5 \uc0f9\ub4e4\ub9ac\uc5d0 \uc870\uba85 \uac70\uc2e4 \uce68\uc2e4 \uc0f9\ub4e4\ub9ac\uc5d0 \ud06c\ub9ac \uc5d0\uc774 \ud2f0\ube0c \ud648 \uc870\uba85\uae30\uad6c ac110v/220 v \ubb34\ub8cc \ubc30\uc1a1"
+    },
+    "@id": "http://example.org/recipe"
+}

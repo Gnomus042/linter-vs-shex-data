@@ -1,0 +1,119 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en",
+        "@value": "35 min "
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2017-10-21 18:26:50"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Deliciously sweet, and moist pumpkin muffins, spiked with autumn's favourite spice - pumpkin pie spice.  "
+    },
+    "image": {
+        "@id": "http://www.fourfootsmall.com/wp-content/uploads/2017/10/Pumpkin-Spice-2.png"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "1 1/2 tsp pumpkin pie spice"
+        },
+        {
+            "@language": "en",
+            "@value": "2 T all purpose flour"
+        },
+        {
+            "@language": "en",
+            "@value": "1 T butter, melted"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 c. whole wheat flour"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp vanilla extract"
+        },
+        {
+            "@language": "en",
+            "@value": "1 c. sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 c. vegetable oil"
+        },
+        {
+            "@language": "en",
+            "@value": "pinch of salt"
+        },
+        {
+            "@language": "en",
+            "@value": "2 T whole milk"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 c. pumpkin puree"
+        },
+        {
+            "@language": "en",
+            "@value": "1 T + 3/4 tsp sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 tsp salt"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp baking powder"
+        },
+        {
+            "@language": "en",
+            "@value": "1 large egg"
+        },
+        {
+            "@language": "en",
+            "@value": "3/4 c. all purpose flour"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 c. toasted, chopped walnuts (optional)"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 tsp pumpkin pie spice (see note below)"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Pumpkin Spice Muffins"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "15 min "
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\t\t\t\tPreheat oven to 375\u00b0F.  Line a 6 cup muffin tin with liners and set aside.\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\t\t\t\tCombine all the dry ingredients together in a small bowl.\t\t\t\tPour melted butter and mix until mixture resembles wet sand; set aside.\t\t\t"
+        },
+        {
+            "@language": "en",
+            "@value": "\t\t\t\tWhisk together dry ingredients (flours, sugar, pumpkin pie spice, baking powder, salt) in a small bowl.  Stir in toasted walnuts, if using.\t\t\t\tWhisk the remaining wet ingredients (pumpkin puree, oil, milk, egg, and vanilla extract) together in a medium bowl.\t\t\t\tFold dry mixture into the wet mixture.  Stir until just combined.\t\t\t\tSpoon muffin batter into prepared muffin tins.  If making streusel topping, sprinkle reserved topping over each muffin.\t\t\t\tBake muffins until tops are golden brown, and a toothpick inserted in the middle comes out clean; approximately 30 to 35 minutes.\t\t\t\tEnjoy!\t\t\t"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "6"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "50 min "
+    },
+    "@id": "http://example.org/recipe"
+}

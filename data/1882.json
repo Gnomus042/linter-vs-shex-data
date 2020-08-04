@@ -1,0 +1,64 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "15"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.9"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Hemapriya"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Introduce your baby to the wonderful world of bananas with this yummy and nutritious Raw Kerala Banana Powder Recipe."
+    },
+    "image": {
+        "@id": "https://www.mylittlemoppet.com/wp-content/uploads/2015/06/raw-banana-powder.jpg"
+    },
+    "ingredients": {
+        "@language": "en-US",
+        "@value": "Bunch of raw firm bananas"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Raw Kerala Banana Powder Recipe for Babies"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Breakfast"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Indian"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "To make Raw Banana Porridge for Babies: Take 1 tablespoon of powder and mix it with 100ml of water or cold milk. Cook for 5 minutes on a low flame. Serve lukewarm."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Once completely dry, grind to a powder. Sieve to get rid of the coarse particles so you're left with a fine powder. Store in an airtight container."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spread out the slices on a sheet and dry them in the sun till crisp (it may take at least 2 to 3 days, depending upon the climate in your region)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Use a slicer to slice them into thin strips. The thinner they are, the faster they'll dry out."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Chop both ends of the banana and peel the skin."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

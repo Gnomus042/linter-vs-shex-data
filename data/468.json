@@ -1,0 +1,78 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "fr",
+        "@value": "La Table \u00e0 Dessert"
+    },
+    "cookTime": {
+        "@language": "fr",
+        "@value": "15 min"
+    },
+    "description": {
+        "@language": "fr",
+        "@value": "Tartelettes orange caf\u00e9 cardamome"
+    },
+    "image": [
+        {
+            "@id": "https://www.latableadessert.fr/sites/default/files/styles/header_push_list/public/images/recipe/field_recipe_single_carousel_img/recette-tartelettes-flan-coco-ganache-chocolat-noir-absolu_717985_0.jpg?itok=cpUcCBBw"
+        },
+        {
+            "@id": "https://www.latableadessert.fr/sites/default/files/styles/header_push_list/public/images/recipe/field_recipe_single_carousel_img/recette-tartelettes-chocolat-pana-cotta-orange_721664_0.jpg?itok=FqxMrZLu"
+        },
+        {
+            "@id": "https://www.latableadessert.fr/sites/default/files/styles/header_push_list/public/default_images/ltad_imagedefautrecette_0-min.jpg?itok=BW2enLP3"
+        },
+        {
+            "@id": "https://www.latableadessert.fr/sites/default/files/styles/header_push_list/public/images/recipe/field_recipe_single_carousel_img/recette-tartelettes-banane-chocolat-pramine-noix-pecan-caramelisees_577275.jpg?itok=85JmBt1F"
+        },
+        {
+            "@id": "https://www.latableadessert.fr/sites/default/files/styles/mega_fiche/public/default_images/ltad_imagedefautrecette_0-min.jpg?itok=txEGrhe_"
+        }
+    ],
+    "name": {
+        "@language": "fr",
+        "@value": "Tartelettes orange caf\u00e9 cardamome"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "fr",
+            "@value": "0 kcal/ personne"
+        }
+    },
+    "prepTime": {
+        "@language": "fr",
+        "@value": "15 min"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  1/2 cuiller\u00e9e \u00e0 caf\u00e9 de cardamomeen poudre\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  100 ml decr\u00e8me liquide \n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  1P\u00e2te Bris\u00e9e TARTE EN OR HERTA\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  1 tablette de 180 g deChocolat NESTL\u00c9 DESSERT Caf\u00e9\n\n"
+        },
+        {
+            "@language": "fr",
+            "@value": "\n\n  \n  2oranges\n\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "Pr\u00e9chauffez votre Four Th.7/8 (220\u00b0C). Faites cuire la p\u00e2te \u00e0 blanc dans 5 cercles.\nFaites chauffer la cr\u00e8me et versez-la sur le chocolat cass\u00e9 en morceaux. Ajoutez la cardamome et m\u00e9langez. Versez dans les tartelettes. Placez au r\u00e9frig\u00e9rateur 1 heure.\nPelez les oranges \u00e0 vif, retirez les segments puis ajoutez-les sur les tartelettes.\n"
+    },
+    "recipeYield": {
+        "@language": "fr",
+        "@value": "5 personnes"
+    },
+    "@id": "http://example.org/recipe"
+}

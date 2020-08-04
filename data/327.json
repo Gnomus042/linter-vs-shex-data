@@ -1,0 +1,156 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "USA Pears"
+    },
+    "cookTime": [
+        {
+            "@language": "en-US",
+            "@value": "PT00H25M"
+        },
+        {
+            "@language": "en-US",
+            "@value": "25"
+        }
+    ],
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "September 23, 2015"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n                                                Here is a fun fall take on the classic morning glory muffin, a popular recipe published in Gourmet Magazine back in the 1980s. These muffins are chock-full of fruit, vegetables, and nuts, making them hearty and filling, but they retain a soft, light texture, as any great muffin should. They will keep very well in the refrigerator and reheat wonderfully thanks to their high moisture content. If you prefer your muffins warm from the oven, you can even mix up a batch and bake off just a few at a time, saving the remaining batter for up to 5 days in the refrigerator.                                            "
+    },
+    "image": {
+        "@id": "https://usapears.org/recipe/wp-content/uploads/2015/09/pear-carrot-coconut-muffins-400.jpg"
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Pear Carrot and Coconut Muffins"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "Calories: 330"
+        },
+        "carbohydrateContent": {
+            "@language": "en-US",
+            "@value": "Carbohydrate: 38g"
+        },
+        "fat": {
+            "@language": "en-US",
+            "@value": "Fat: 20g"
+        },
+        "fiberContent": {
+            "@language": "en-US",
+            "@value": "Dietary Fiber: 4g"
+        },
+        "proteinContent": {
+            "@language": "en-US",
+            "@value": "Protein: 5g"
+        },
+        "servingSize": {
+            "@language": "en-US",
+            "@value": "Serving Size: 1 Muffin"
+        }
+    },
+    "prepTime": [
+        {
+            "@language": "en-US",
+            "@value": "PT00H15M"
+        },
+        {
+            "@language": "en-US",
+            "@value": "15"
+        }
+    ],
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Breakfast"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "1 \u00bd teaspoons baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons demerara sugar, for sprinkling on top (optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                                                \n2 cups whole wheat pastry flour\n1 cup lightly packed brown sugar\n2 teaspoons cinnamon\n\u215b teaspoon nutmeg\n1 \u00bd teaspoons baking soda\n\u00bd teaspoon salt\n1 \u00bd cups finely shredded carrot (about 2 medium carrots)\n1 \u00bd cups finely diced pear (from about 2 ripe USA Pears, such as Bartlett)\n\u2154 cup unsweetened shredded coconut\n\u00bd cup walnuts, roughly chopped\n\u00be cup neutral-flavored oil, such as canola or safflower\n2 large eggs\n1 teaspoon vanilla\n2 tablespoons demerara sugar, for sprinkling on top (optional)\n\n\n                                            "
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 large eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 \u00bd cups finely shredded carrot (about 2 medium carrots)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd teaspoon salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup walnuts, roughly chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups whole wheat pastry flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 teaspoons cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u215b teaspoon nutmeg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup lightly packed brown sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup neutral-flavored oil, such as canola or safflower"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2154 cup unsweetened shredded coconut"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 \u00bd cups finely diced pear (from about 2 ripe USA Pears, such as Bartlett)"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                                                Preheat the oven to 350 degrees. In a large bowl, combine the flour, sugar, cinnamon, nutmeg, soda, and salt, and whisk to combine. Add the carrot, pear, coconut, and walnuts to the flour mixture and stir gently to coat the fruit and vegetables. In a separate small bowl, whisk together the oil, eggs, and vanilla. Add the liquid mixture to the dry and stir gently until no dry pockets of flour remain. Line a muffin tin with papers and fill each cup \u00be full with the batter. Sprinkle each muffin with a little demerara sugar. Transfer to the preheated oven and bake the muffins for 25-30 minutes, or until a toothpick inserted in the center of a muffin comes out clean.\n                                            "
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "12"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "PT00H40M"
+    },
+    "@id": "http://example.org/recipe"
+}

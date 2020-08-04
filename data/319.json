@@ -1,0 +1,74 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Leslie Cerier"
+    },
+    "description": {
+        "@value": "Flavored with sweet juicy tomatoes, fresh basil, garlic, and decorated with bright green peppers, here is an irresistible summer repast. Serve garnished with grated Fontina, Parmesan, Manchego, or sliced rounds of chevre."
+    },
+    "image": {
+        "@id": "https://cdn.teffco.com/wp-content/uploads/2012/12/Teff-Polenta-1-300x300.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\u2154 cup Maskal Teff\u2122 grain"
+        },
+        {
+            "@value": "2 Tbsp extra virgin olive oil"
+        },
+        {
+            "@value": "1 cup green peppers, coarsely chopped"
+        },
+        {
+            "@value": "\u00bd tsp sea salt"
+        },
+        {
+            "@value": "2 cups water"
+        },
+        {
+            "@value": "8 cloves garlic, thickly sliced"
+        },
+        {
+            "@value": "1 cup coarsely chopped fresh basil"
+        },
+        {
+            "@value": "2 cups coarsely chopped plum tomatoes"
+        },
+        {
+            "@value": "1 cup onions, coarsely chopped"
+        }
+    ],
+    "name": {
+        "@value": "Teff Polenta"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Taste and adjust the seasonings, if desired."
+        },
+        {
+            "@value": "Turn off the heat to prevent splattering, and SLOWLY add boiling water and salt. Resume heat and let simmer for 2 minutes."
+        },
+        {
+            "@value": "Place oil in a 10-inch skillet, and warm over medium heat."
+        },
+        {
+            "@value": "Add garlic and onions, and saut\u00e9, stirring occasionally, for 5 minutes, or until fragrant. Add peppers, and saut\u00e9 for 2 minutes or, until bright green. Stir in the teff."
+        },
+        {
+            "@value": "Transfer it to an un-oiled 9-inch pie plate. Let cool for about 30 minutes. Slice and serve."
+        },
+        {
+            "@value": "Place water in a medium saucepan and bring to boil."
+        },
+        {
+            "@value": "Add tomatoes and basil."
+        },
+        {
+            "@value": "Cover and simmer for 10-15 minutes, stirring occasionally, until the water is absorbed. There may be some extra liquid from the tomatoes, but as long as the teff is not crunchy, the polenta is done."
+        }
+    ],
+    "recipeYield": {
+        "@value": "4-6"
+    },
+    "@id": "http://example.org/recipe"
+}

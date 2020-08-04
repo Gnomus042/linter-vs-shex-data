@@ -1,0 +1,62 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "don@bibliophotography.com"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2013-06-18"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "A popular and quick chicken dish for the family"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "Easy"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Chicken Cacciatore"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Italian"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Heat a little oil in the pan and fry the chicken both sides until golden. Transfer to a baking dish and pour over the sauce. Cook for 30 mins or until chicken is cooked through. Scatter over the rest of the basil."
+        },
+        {
+            "@language": "en",
+            "@value": "Serve with a short pasta, like fusilli , or a big bowl potatoes roasted with olive oil and rosemary."
+        },
+        {
+            "@language": "en",
+            "@value": "Heat oven to fan 170/gas mark 5"
+        },
+        {
+            "@language": "en",
+            "@value": "Take off heat and stir in the mascarpone and half the basil."
+        },
+        {
+            "@language": "en",
+            "@value": "Fry onions, garlic in 3 tbsp oil until softened. Add tomatoes, season, then simmer for 10-15 mins until thick and glossy."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Serves 6 "
+    },
+    "sourceOrganization": {
+        "@language": "en",
+        "@value": "BBC Good Food"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT1H"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,110 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "40"
+        },
+        "ratingValue": {
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Garima Rastogi (Garu's Kitchen)"
+        }
+    },
+    "description": {
+        "@value": "This Arbi Masala Recipe for Navratri is a wonderful and tasty dish which is easy to cook. "
+    },
+    "image": {
+        "@id": "https://1.bp.blogspot.com/-HR5iDd9rhIM/WNxEr1hKzKI/AAAAAAAABE8/fQg30wY_yMg_YMaV5X4jV05fKzXpBK9dACLcB/s1600/Recipe%2BCard.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "Coriander powder - 2 Tsp"
+        },
+        {
+            "@value": "Coriander Leaves (Dhaniya) - 1 Tbsp (Finely chopped)"
+        },
+        {
+            "@value": "Colocasia (Arbi) - 500 grams"
+        },
+        {
+            "@value": "Oil/Ghee - 2-3 Tbsp"
+        },
+        {
+            "@value": "Green chillies - 1 (Finely chopped)"
+        },
+        {
+            "@value": "Lemon Juice - 1-2 Tsp"
+        },
+        {
+            "@value": "Red chilli powder - \u00bd Tsp"
+        },
+        {
+            "@value": "Carom seeds (ajwain) - \u00bd Tsp"
+        },
+        {
+            "@value": "Sendha Namak (Rock Salt) - To Taste"
+        }
+    ],
+    "name": {
+        "@value": "Arbi Masala Recipe for Navratri Fast | Arbi (Colocasia) Sabzi Recipe for Vrat or Fasting or Upwas"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "180 cal"
+        },
+        "fatContent": {
+            "@value": "8 g"
+        },
+        "servingSize": {
+            "@value": "1 medium Bowl"
+        }
+    },
+    "recipeCategory": {
+        "@value": "Side"
+    },
+    "recipeCuisine": {
+        "@value": "North Indian"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Heat oil in a heavy bottomed wok/kadai. When oil is hot, add ajwain into it. Let them splutter for one minute."
+        },
+        {
+            "@value": "After that add lemon juice. Mix well and cook for another 5-10 minutes on low flame."
+        },
+        {
+            "@value": "Now Switch off the flame."
+        },
+        {
+            "@value": "Stirring from time to time until the vegetables become golden brown."
+        },
+        {
+            "@value": "Hot Arbi Masala for Navratri Fast is ready to be served. It can served with Pooris and Parathas."
+        },
+        {
+            "@value": "Clean, wash and chop coriander leaves and green chillies."
+        },
+        {
+            "@value": "After sauteing the masala, add chopped arbi and mix well."
+        },
+        {
+            "@value": "Now add chopped green chillies, coriander powder and red chilli powder and cook for another 1-2 minutes."
+        },
+        {
+            "@value": "Wash and boil arbi. Peel and cut into 2 cm length pieces. In this dish we boil the Arbi first before peeling it. Boiled Arbi does not caused itching in the skin as peeling the raw Arbi does."
+        },
+        {
+            "@value": "Now add salt, cook on low heat stirring in between for 5-10 minutes."
+        }
+    ],
+    "recipeYield": {
+        "@value": "4 Servings"
+    },
+    "@id": "http://example.org/recipe"
+}

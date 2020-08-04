@@ -1,0 +1,55 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://lacucinadinonnarita.altervista.org/wp-content/uploads/2016/06/Salmoriglio-La-cucina-di-nonna-Rita-4.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "it-IT",
+            "@value": "sale e pepe q.b"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "origano q.b"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "2 limoni"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 bicchiere di olio extra vergine di oliva"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "2 spicchi di aglio (potete omettere se non vi piace il gusto forte)"
+        }
+    ],
+    "name": {
+        "@language": "it-IT",
+        "@value": "Salmoriglio"
+    },
+    "recipeCategory": {
+        "@language": "it-IT",
+        "@value": "Facilissima"
+    },
+    "recipeCuisine": {
+        "@language": "it-IT",
+        "@value": "Salse e condimenti"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "it-IT",
+            "@value": "Versiamo l'olio in una ciotola e aggiungiamo il succo di limone che avremo filtrato, gli spicchi di aglio sbucciato e tagliata a pezzetti, una presa di sale, una spolverata di pepe e un pizzico abbondante di origano. Sbattiamo il tutto con una forchetta o con una frusta fino a quando tutti gli ingredienti si saranno amalgamati e l'emulsione non diventa chiara. A questo punto la salsina \u00e8 pronta!"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Possiamo utilizzarla per marinare carne o pesce arrosto, prima della cottura, durante la cottura o portarla a tavola in una ciotola dalla quale ognuno si servir\u00e0."
+        }
+    ],
+    "recipeYield": {
+        "@language": "it-IT",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

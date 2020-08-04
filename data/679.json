@@ -1,0 +1,55 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-US",
+        "@value": "A decadently rich winters drink which sees chai tea paired with hot cacao and finished with Roasted Hazelnut milk"
+    },
+    "image": {
+        "@id": "http://tohercore.com/wp-content/uploads/2015/06/chilli-chai-hot-chocolate-roasted-hazelnut-milk-2-to-her-core.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 cup hot water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tbsp Masala Chai tea blend"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tbsp raw cacao powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tbsp raw honey"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 slices red chilli"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup Roasted Hazelnut Milk"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Chilli chai hot chocolate"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Add the chai mix and chilli to a saucepan or cast iron teapot and let steep at least 10 - 15 minutes. Add the reemaining ingredients and bring to a boil."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Remove from heat, and pour into two cups and enjoy immediately,"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "2 cups"
+    },
+    "@id": "http://example.org/recipe"
+}

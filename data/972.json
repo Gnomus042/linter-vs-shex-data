@@ -1,0 +1,125 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": [
+        {
+            "@id": "_:N18e31f02882a4dc5aacaa50dd98931c4"
+        },
+        {
+            "@id": "_:Nbdc891216409464492160e0ad9d29058"
+        },
+        {
+            "@id": "_:N5665d7433706428abd329cc279ed78fa"
+        },
+        {
+            "@id": "_:N048cd82b6b6242e98dfd83adcdbe6e1c"
+        },
+        {
+            "@id": "_:Nd22f0e0d51964c9389de0b6eae8c1f54"
+        },
+        {
+            "@id": "_:N251ed5b301ac4aa3b3a61bea54934b7e"
+        },
+        {
+            "@id": "_:N2f181e9643be4754ae69e9a9853586bd"
+        },
+        {
+            "@id": "_:N94ad9d2a7c724da896374768d15fd0a7"
+        },
+        {
+            "@id": "_:N69bf6633f9434488af5d00ccff988d30"
+        },
+        {
+            "@id": "_:N67fa97bfebdd4e899826c964880ea894"
+        },
+        {
+            "@id": "_:Neddfabfb4d4844218cce50d361609d78"
+        },
+        {
+            "@id": "_:N49e563d652604a70825de85c4de05b1c"
+        },
+        {
+            "@id": "_:N6fce586a9ece4aadbde3c9ff4358d09e"
+        },
+        {
+            "@id": "_:N9c2c9e48c0de409aae2432c057583736"
+        },
+        {
+            "@id": "_:N1c0a0b7df3f94986ab1425579fecd079"
+        },
+        {
+            "@id": "_:N9c8bfa54c2624f628a86587847ef221a"
+        },
+        {
+            "@id": "_:Na6528f1a6c70444483d7a2997d522887"
+        },
+        {
+            "@id": "_:Nd1f83268406247e899d0f93e28f77aae"
+        },
+        {
+            "@id": "_:N14d2421af11944a7907cb3fb89ed0d66"
+        },
+        {
+            "@id": "_:Na5038f0bb4504c83a8cc7e239f2a5dfa"
+        },
+        {
+            "@id": "_:Ncc8b2c0cc1414474a0e004f390c01489"
+        },
+        {
+            "@id": "_:N5193e8d8c8d84c53b0d91a2e2f0fe247"
+        },
+        {
+            "@id": "_:Ne610cf4d22ae4767a841f6365472582e"
+        },
+        {
+            "@id": "_:N198e47b68f0b4b79af8c50bf304bc9f9"
+        },
+        {
+            "@id": "_:N4a993eed3e3d4fac98336143587c0097"
+        }
+    ],
+    "author": {
+        "@value": "THERMOMIX \u00ae REZEPT"
+    },
+    "dateModified": {
+        "@value": "2017-09-01"
+    },
+    "datePublished": {
+        "@value": "2009-01-01"
+    },
+    "description": {
+        "@value": "\n                                                                \n                                                                                                            \n                                                                                    \n                                    1. Zucker in den Mixtopf geben und 20 Sek./Stufe 10 pulverisieren.2. Fruchtst\u00fccke und Eisw\u00fcrfel zugeben, 1 Min./ Stufe 5\u20137\u20139 stufenweise hochdrehen und mithilfe des Spatels p\u00fcrieren.\n                                \n                                                                                                            "
+    },
+    "image": {
+        "@id": "https://de.rc-cdn.community.thermomix.com/assets/20191001-000000/bundles/tmrcfront/images/no-recipe-image-big.png"
+    },
+    "keywords": {
+        "@value": "einfach,naturlich,schnell,mittagessen,abendessen,dessert,"
+    },
+    "name": {
+        "@value": "Zitrussorbet"
+    },
+    "recipeCategory": {
+        "@id": "https://www.rezeptwelt.de/desserts-rezepte/zitrussorbet/k4m2rs45-e2d56-820173-cfcd2-ucflyfwv//kategorien/desserts"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n                                    180\n                                                    g\n                                                    Zucker                                            "
+        },
+        {
+            "@value": "\n                                    300\n                                                    g\n                                                    Zitronen,                                                     und Orangen, unbehandelt, gesch\u00e4lt, halbiert, ohne Kerne, gek\u00fchlt\n                            "
+        },
+        {
+            "@value": "\n                                    700\n                                                    g\n                                                    Eisw\u00fcrfel                                            "
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        \n                        5\n                                            Zubereitung\n        \n                                                                \n                                                                                                            \n                                                                                    \n                                    1. Zucker in den Mixtopf geben und 20 Sek./Stufe 10 pulverisieren.2. Fruchtst\u00fccke und Eisw\u00fcrfel zugeben, 1 Min./ Stufe 5\u20137\u20139 stufenweise hochdrehen und mithilfe des Spatels p\u00fcrieren.\n                                \n                                                                                                            \n                        "
+    },
+    "recipeYield": {
+        "@value": "\n     6 Portion/en\n"
+    },
+    "url": {
+        "@value": "/desserts-rezepte/zitrussorbet/k4m2rs45-e2d56-820173-cfcd2-ucflyfwv"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "de-DE",
+            "@value": "5.0"
+        },
+        "reviewCount": {
+            "@language": "de-DE",
+            "@value": "8"
+        }
+    },
+    "author": {
+        "@language": "de-DE",
+        "@value": "www.houseno15.de"
+    },
+    "image": {
+        "@id": "http://houseno15.de/wp-content/uploads/2015/02/Ravioli3-682x1024.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "de-DE",
+            "@value": "\u215b Liter Sahne"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "\u00bd kleiner Kopf Radicchio in Streifen geschnitten"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 EL Honig"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Handvoll Waln\u00fcsse"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Salz und Pfeffer"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "150 g Gorgonzola, in kleine W\u00fcrfel geschnitten"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 EL Butter"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "2 Eigelb"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "\u215b Liter Wein, wei\u00df"
+        }
+    ],
+    "name": {
+        "@language": "de-DE",
+        "@value": "Gorgonzolasauce mit Walnuss und Radicchio"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "de-DE",
+            "@value": "Mit Wein und Sahne abl\u00f6schen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Nach Gusto frischen schwarzen Pfeffer dar\u00fcber geben."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Gorgonzola hinzugeben und schmelzen lassen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Eigelbe glatt r\u00fchren und in die So\u00dfe einr\u00fchren."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Nicht mehr kochen. Mit Salz und Pfeffer abschmecken."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Waln\u00fcsse in einer neuen Pfanne mit dem Honig kurz aufkochen bis der Honig Blasen wirft."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Butter in einem Topf schmelzen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Dann alles auf einem St\u00fcck Backpapier geben und abk\u00fchlen lassen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Sauce \u00fcber die gew\u00fcnschten Nudeln geben und mit den kramellisierten Waln\u00fcssen und dem Radicchio garnieren."
+        }
+    ],
+    "recipeYield": {
+        "@language": "de-DE",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

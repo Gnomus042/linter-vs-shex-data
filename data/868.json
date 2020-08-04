@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Sukaldaritza erraza"
+    },
+    "cookTime": {
+        "@value": "20 min"
+    },
+    "datePublished": {
+        "@value": "2018-04-11 13:36:29"
+    },
+    "image": {
+        "@id": "https://recetasdecocinafaciles.net/wp-content/uploads/2018/04/escalopes-de-pavo.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "un vaso y medio de vino blanco"
+        },
+        {
+            "@value": "50 gramo gurin"
+        },
+        {
+            "@value": "8 lonchas de jamon cocido"
+        },
+        {
+            "@value": "gatza eta piperra"
+        },
+        {
+            "@value": "1 lata de nata para cocinar"
+        },
+        {
+            "@value": "1 lata de esparragos"
+        },
+        {
+            "@value": "4 escalopes de pavo"
+        },
+        {
+            "@value": "50 gramo irina"
+        },
+        {
+            "@value": "1 pastilla de caldo de pollo"
+        }
+    ],
+    "name": {
+        "@value": "Escalopes de pavo a la crema de vino"
+    },
+    "prepTime": {
+        "@value": "20 min"
+    },
+    "recipeInstructions": {
+        "@value": "Dora la harina en la mantequilla, vierte el vino y la pastilla de caldo disuelta en un vaso y medio de agua y cuecelo a fuego suave removiendo continuamente durante 20 min, a\u00f1ade la nata y sazona con sal y pimienta.En una fuente de horno untada con mantequilla pon los esparragos bien escurridos y encima las lonchas de jamon dobladas.Frie ligeramente en aceite los escalopes de pavo sazonados con sal y colocalos encima de las lonchas de jamon.Cubrelo con la salsa y calientalo todo unos minutos al horno."
+    },
+    "recipeYield": {
+        "@value": "4"
+    },
+    "totalTime": {
+        "@value": "40 min"
+    },
+    "@id": "http://example.org/recipe"
+}

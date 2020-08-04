@@ -1,0 +1,93 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://healthtastesgood.co/author/admin/"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT60M"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2019-10-21"
+    },
+    "image": {
+        "@id": "http://healthtastesgood.co/wp-content/uploads/2019/10/caramelapplecake-e1571701222593-150x150.jpg"
+    },
+    "ingredients": [
+        {
+            "@id": "http://healthtastesgood.co/ingredients/3t-apple-cider-or-white-vinegar/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/10-inch-bundt-baking-pan/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/1t-cinnamon/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/1-2-cup-vitafiber-powder/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/1-cup-spelt-flour/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/1-can-full-fat-coconut-milk/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/1t-baking-soda/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/1-1-2-cups-powdered-sugar/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/1-1-2-tsps-pure-vanilla-extract/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/food/salted-caramel-apple-poke-cake-vegan/Null"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/2-cups-peeled-and-grated-granny-smith-apple/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/3-4-tsp-nutmeg/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/1-2-cup-olive-oil/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/1-cup-packed-light-brown-sugar/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/1-1-4-cup-unsweetened-applesauce/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/flakey-sea-salt-i-use-maldon/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/1-3-cup-pure-maple-syrup/"
+        },
+        {
+            "@id": "http://healthtastesgood.co/ingredients/1t-pure-vanilla-extract/"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Salted Caramel Apple Poke Cake"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT15M"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n            For the caramel: (can be made several days in advance and stored in the fridge)\n\nIn a medium sauce pan, stir together the coconut milk, syrup, and brown sugar until smooth.\u00a0 Over medium-high heat, bring to a boil and let boil about 4 minutes, stirring frequently.\u00a0 NOTE: Once it starts boiling, it will continuously foam up and try to spill over.\u00a0 I watch it heavily during this time and pull it off the burner while giving it a stir, every time it is about to spill over.\u00a0 Once 4 minutes has passed, you can turn the heat to low (stirring constantly the first few minutes as the heat subsides) and then let simmer another 40-45 minutes, stirringly every 5-10 minutes until thickened.\nOnce the caramel has slightly thickened (don't worry if it still seems thin, it will thicken as the coconut milk sits), stir in the vanilla extract.\u00a0 Then using a sifter or a pasta strainer, sift the powdered sugar into the pan, and stir to combine.\n\n*Sifting is an annoying extra step, but this is how you avoid lumps in your caramel \ud83d\ude42\nNOTE: If making the caramel and the cake the day of, once the boiling stage is over is a good time to preheat the oven and start making the cake for pretty equal timing!\nFor the Cake:\n\nPreheat oven to 325F.\nIn a medium mixing bowl, combine all the dry ingredients until evenly mixed.\u00a0 Add the apple sauce, oil, and vanilla- stir until combined.\nPeel the apples then grate into pieces using the regular side of a cheese grater.\u00a0 A lot of water will be released- you need about 2 cups of the apples and will leave most of the juice out of the cake, but you don't have to bee *too serious* on draining all the moisture from the grated pieces. Stir the apples in to the cake batter.\nLast, add the vinegar and stir until evenly mixed (this creates the \"egg\" reaction in the cake, so you will see some bubbles!)\nHeavily spray the bundt pan.\u00a0 Spread the cake batter evenly in to the pan.\u00a0 Bake for 40-45 minutes, until a toothpick comes out clean.\nAllow to cool in the pan 5-10 minutes. Put a plate on top of the bundt pan and then flip the pan over so the cake falls on to the plate, flat side down.\nIf your caramel is no longer warm, heat in the microwave 1-2 minutes until smooth and hot.\u00a0 Use a skewer to poke holes ALL OVER the cake (tops, outside, and inside).\u00a0 Slowly pour at least 1-cup of the hot caramel over the cake, giving it some time to soak in.\u00a0 You can poke more holes in the cake and keep spooning the caramel over it to your preference, allowing it to slowly absorb.\u00a0 When finished, sprinkle generously with sea salt.\nI prefer to eat this cake hot or cold! (It can be eaten at room temp too, if that's your preference, but I think it taste best in one of the extremes).\u00a0 I recommend serving with any remaining caramel served hot and drizzled over the top!\n\nNOTE: Once refrigerated, the caramel with solidify on the edges because it is made from coconut as the base. This is fine! Just warm it up a bit to get rid of any solids, or just enjoy the change in texture \ud83d\ude42\n\n        "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "8-10 slices"
+    },
+    "@id": "http://example.org/recipe"
+}

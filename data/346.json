@@ -1,0 +1,182 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-us",
+            "@value": "4.80"
+        },
+        "reviewCount": {
+            "@language": "en-us",
+            "@value": "3"
+        }
+    },
+    "author": {
+        "@language": "en-us",
+        "@value": "Bumble Bee"
+    },
+    "description": {
+        "@language": "en-us",
+        "@value": "\n\"Who knew that a humble staple like a can of tuna could be transformed into such a snazzy lunch or brunch?  The Asian flavor is subtle, making the fresh albacore tuna the star!\"        "
+    },
+    "image": {
+        "@id": "https://images.media-allrecipes.com/userphotos/560x315/3511815.jpg"
+    },
+    "mainEntityOfPage": {
+        "@language": "en-us",
+        "@value": "True"
+    },
+    "name": {
+        "@language": "en-us",
+        "@value": "Asian Tuna with Poached Egg"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-us",
+            "@value": "241 calories;"
+        },
+        "carbohydrateContent": {
+            "@language": "en-us",
+            "@value": "15.5"
+        },
+        "cholesterolContent": {
+            "@language": "en-us",
+            "@value": "218 "
+        },
+        "fatContent": {
+            "@language": "en-us",
+            "@value": "7.5 "
+        },
+        "proteinContent": {
+            "@language": "en-us",
+            "@value": "25.8 "
+        },
+        "sodiumContent": {
+            "@language": "en-us",
+            "@value": "462 "
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "en-us",
+            "@value": "Trusted Brands: Recipes and Tips"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Bumble Bee Seafoods"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en-us",
+            "@value": "1 tablespoon white vinegar"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 tablespoon seasoned rice vinegar"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Chopped cilantro"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 English muffin, split and toasted"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/2 teaspoon sesame oil"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Salt and pepper to taste"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 teaspoon minced red bell pepper"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 tablespoon frozen green peas, thawed"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Garnish:"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Tuna:"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 teaspoon freshly squeezed lime juice"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Dressing:"
+        },
+        {
+            "@language": "en-us",
+            "@value": "2 large fresh eggs"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 teaspoon finely chopped red onion"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 teaspoon grated carrot"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 (5 ounce) can Bumble Bee\u00ae Solid White Albacore Tuna in Water, drained and chunked"
+        },
+        {
+            "@language": "en-us",
+            "@value": "Black sesame seeds (optional)"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1/4 teaspoon sriracha chili garlic sauce"
+        },
+        {
+            "@language": "en-us",
+            "@value": "1 teaspoon minced fresh ginger"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-us",
+        "@value": "\n                        \n                            Place the red onion, red bell pepper, peas, ginger, carrots, salt, and pepper in a medium bowl.  Stir together, and then fold in the tuna.\n                            \n                        \n                        \n                            In a small bowl, whisk the sesame oil, rice vinegar, lime juice, and Sriracha(R).  Pour over the tuna mixture and toss gently, trying not to break up the tuna.\n                            \n                        \n                        \n                            Add a tablespoon of vinegar to a pan of lightly-salted water and bring it to a gentle simmer, not a hard boil (you'll see little bubbles in the pan).  Crack each egg into a ramekin.  Stir the water in a wide circle (like a whirlpool), and then slide in the egg; repeat for the second egg.  Poach the eggs at a simmer for 4-5 minutes for soft yolks.  Remove the poached eggs with a slotted spoon to a paper towel and allow to drain.\n                            \n                        \n                        \n                            To serve, top half of an English muffin with half of the tuna mixture, place a poached egg on top, and then sprinkle with the chopped cilantro and black sesame seeds.\n                            \n                        \n            "
+    },
+    "recipeYield": {
+        "@language": "en-us",
+        "@value": "2"
+    },
+    "review": [
+        {
+            "@id": "_:N72e84808a4c1476190bf2c2ae7998087"
+        },
+        {
+            "@id": "_:N6e3415968d384da1b284fb31ad2c3fbc"
+        },
+        {
+            "@id": "_:Nb02334e34a7b4757af65809424997558"
+        }
+    ],
+    "url": {
+        "title": {
+            "@language": "en-us",
+            "@value": "Asian Tuna with Poached Egg Recipe - Allrecipes.com"
+        },
+        "item": [
+            {
+                "@id": "_:Nee373bf59bd248ec8eefaeb7d7c5f5e9"
+            },
+            {
+                "@id": "_:N35fbe4be162b48cd9dbdd215ed6da8d4"
+            }
+        ]
+    },
+    "@id": "http://example.org/recipe"
+}

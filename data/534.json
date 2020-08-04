@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.petitnavire.fr/sites/default/files/media/recipes/pr-shp-carpaccio12707.jpg"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Carpaccio de radis blanc et roses sardines huile olive piment vinaigrette citron vert"
+    },
+    "prepTime": {
+        "@language": "fr",
+        "@value": "10min"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fr",
+            "@value": "- huile d\u2019olive"
+        },
+        {
+            "@language": "fr",
+            "@value": "- 10 radis roses"
+        },
+        {
+            "@language": "fr",
+            "@value": "- quelques brins de ciboulette"
+        },
+        {
+            "@language": "fr",
+            "@value": "- 1 boite de sardines huile olive piment\u00a0"
+        },
+        {
+            "@language": "fr",
+            "@value": "- Le jus d'1 citron vert"
+        },
+        {
+            "@language": "fr",
+            "@value": "- 1 radis noir"
+        },
+        {
+            "@language": "fr",
+            "@value": "- sel, poivre"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n\n                                                      1. Lavez les radis, coupez leurs extr\u00e9mit\u00e9s et les gratter avec la pointe d\u2019un couteau.\n                                                      A l\u2019aide d\u2019une mandoline, taillez tous les radis en carpaccio. Disposez les rondelles dans un grand plat.\n                                                      \u00a0\n                                                      2. Egouttez les sardines et d\u00e9tachez les sardines en petits morceaux.\u00a0\n                                                      \n                                                      3. Ajoutez les sur le carpaccio de radis. Ciselez la ciboulette et parsemez sur les radis,\n                                                      Salez, poivrez et recouvrez d\u2019huile d\u2019olive.\n                                                      \n                                                      \n                                                      \u00a0\n                                                  "
+    },
+    "recipeYield": {
+        "@language": "fr",
+        "@value": "Ingr\u00e9dients (pour 6)"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,70 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemreviewed": {
+            "@language": "da",
+            "@value": " Julemuffins "
+        },
+        "ratingCount": {
+            "@language": "da",
+            "@value": "198"
+        },
+        "ratingValue": {
+            "@language": "da",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "da",
+        "@value": "G\u00e6stekok"
+    },
+    "description": {
+        "@language": "da",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "da",
+        "@value": "\nJulemuffins\n"
+    },
+    "recipeCategory": {
+        "@language": "da",
+        "@value": "\n\n \nMadopskrifter\n \nBagv\u00e6rk (2070)\n\n\nMuffin (94)\nJul\n\n"
+    },
+    "recipeIngredient": {
+        "@language": "da",
+        "@value": "\n175 g sm\u00f8r/margarine\n175 g sukker\n100 g marcipan\nreven skal af 1 appelsin\n2 \u00e6g\n225 g mel\n1 tsk. bagepulver\n50 g chokolade\n50 g rosiner\n"
+    },
+    "recipeInstructions": {
+        "@language": "da",
+        "@value": "\nR\u00f8r fedtstof, sukker, reven marcipan og reven appelsinskal sammen. R\u00f8r \u00e6ggene i et ad gangen. Bland mel og bagepulver og r\u00f8r det forsigtigt i sammen med hakket chokolade og rosiner.\nfordel dejen i18 - 20 papirforme eller smurte linseforme. Bag kagerne ved 200\u00b0 i 18 - 20 min.\n"
+    },
+    "url": {
+        "title": {
+            "@language": "da",
+            "@value": "Julemuffins | L\u00e6kker opskrift | Find den p\u00e5 Maduniverset"
+        },
+        "item": [
+            {
+                "@id": "_:N14ed3837a90e4c459c5f9d9897464b0b"
+            },
+            {
+                "@id": "_:N15a2d316b9cd43e491f830df338d2db1"
+            },
+            {
+                "@id": "_:Nfc143f01174a4256b13d9855a7d71da4"
+            },
+            {
+                "@id": "_:Nff08946498f84ed0b59cc5b64ecac1a9"
+            },
+            {
+                "@id": "_:N5fff2078fa574ddabd178440ed5bbda9"
+            }
+        ]
+    },
+    "yield": {
+        "@language": "da",
+        "@value": "til 20 stk"
+    },
+    "@id": "http://example.org/recipe"
+}

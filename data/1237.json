@@ -1,0 +1,78 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "By Put on Your Cake Pants"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2018-09-30 22:55:33"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 cup pumpkin puree"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup grated zucchini"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup chocolate chips (plus extra for the top if desired)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 egg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 cup sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon baking powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/3 cup butter or margarine (dairy-free is fine)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/4 cups flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 teaspoon ground cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/3 cup chopped walnuts"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Pumpkin Zucchini Muffins"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tPreheat the oven to 350 degrees. Grease and flour the cups of a muffin pan or line with paper liners.\t\t\t\tIn the bowl of a mixer, cream together the butter and sugar. Add the egg and mix until incorporated. In a separate bowl, sift together the flour, baking powder, baking soda, cinnamon, and salt. Add the dry ingredients to the mixing bowl. Stir in the remaining ingredients.\t\t\t\tPortion the batter into the muffin pan, filling each cup no more than 3/4 full. Sprinkle extra chocolate chips on top, if desired.\t\t\t\tBake for 17 minutes, or until an inserted toothpick comes out clean. Cool on a wire rack.\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "18"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "35 min "
+    },
+    "@id": "http://example.org/recipe"
+}

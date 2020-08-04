@@ -1,0 +1,28 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@value": "9"
+        },
+        "ratingValue": {
+            "@value": "9"
+        }
+    },
+    "author": {
+        "@value": "T\u00f9ng \u0110\u1eb7ng Thanh"
+    },
+    "description": {
+        "@value": "Ban nh\u1ea1c Flamenco Tumbadora Thanh T\u00f9ng bi\u1ec3u di\u1ec5n nh\u1eefng b\u1ea3n nh\u1ea1c acoustic hay nh\u1ea5t m\u1ecdi th\u1eddi \u0111\u1ea1i, cho thu\u00ea ban nh\u1ea1c Flamenco s\u00e0i g\u00f2n chuy\u00ean nghi\u1ec7p- 0908232718"
+    },
+    "image": {
+        "@id": "https://bizweb.dktcdn.net/100/061/141/files/logo.jpg?v=1502549411897"
+    },
+    "name": {
+        "@value": "Ban nh\u1ea1c Flamenco Tumbadora | Ban nh\u1ea1c acoustic s\u00e0i g\u00f2n"
+    },
+    "@id": "http://example.org/recipe"
+}

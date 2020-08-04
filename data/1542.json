@@ -1,0 +1,105 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "nl",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "nl",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "nl",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@id": "https://www.solo.be/nl/recepten/aardappellasagne-met-zalm//nl/user/nelekep/"
+    },
+    "cookTime": {
+        "@language": "nl",
+        "@value": "PT50M"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Op zoek naar het lekkerste aardappellasagne met zalm recept? Ontdek nu de heerlijke recepten van Solo Open Kitchen. Laat je inspireren en ga aan de slag!"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "contentUrl": {
+            "@id": "https://www.solo.be/nl/recepten/aardappellasagne-met-zalm//uploadedimages/recepten/afbeeldingen/642/436/1-hoofdgerecht.jpg"
+        },
+        "url": [
+            {
+                "@language": "nl",
+                "@value": "/uploadedimages/recepten/afbeeldingen/642/436/1-hoofdgerecht.jpg"
+            },
+            {
+                "@id": "https://www.solo.be/nl/recepten/aardappellasagne-met-zalm//uploadedimages/recepten/afbeeldingen/642/436/1-hoofdgerecht.jpg"
+            }
+        ]
+    },
+    "interactionCount": {
+        "@language": "nl",
+        "@value": "UserComments:0"
+    },
+    "keywords": {
+        "@language": "nl",
+        "@value": "vastkokende aardappels bv Charlotte, Ratte, Nicola,room,dille fijngesnipperd,sap van 1 limoen,gerookte zalm,verse zalmfilets,boter,peper en zout,NelekeP"
+    },
+    "name": {
+        "@language": "nl",
+        "@value": "\n                Aardappellasagne met zalm\n            "
+    },
+    "recipeCategory": {
+        "@id": "https://www.solo.be/nl/recepten/aardappellasagne-met-zalm//nl/zoeken/hoofdgerecht/"
+    },
+    "recipeCuisine": {
+        "@id": "https://www.solo.be/nl/recepten/aardappellasagne-met-zalm//nl/zoeken/italiaanse-keuken/"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "nl",
+            "@value": "\n                    4 sneetjes         gerookte zalm\n\n                "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                    700 gr         vastkokende aardappels bv Charlotte, Ratte, Nicola\n\n                "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                              peper en zout\n\n                "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                    4 takjes          dille fijngesnipperd\n\n                "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                              sap van 1 limoen\n\n                "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                    200 GR         verse zalmfilets\n\n                "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                    20 GR         boter\n\n                "
+        },
+        {
+            "@language": "nl",
+            "@value": "\n                    15 CL         room\n\n                "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "nl",
+        "@value": "\n                        Kook de aardappels (in de schil) in gezouten water gedurende 15 minuten (van zodra het water kookt).  Giet af en spoel onder koud water.  Schil de aardappelen, snij ze in plakjes en zet opzij.  Meng de room, de dille en het sap van de limoen en kruid met peper en zout.Wrijf een ovenschotel in met wat boter en schik een laagje aardappelschijfjes op de bodem.  Bedek met een laagje gerookte zalm en giet er de helft van het roommengsel over.  Leg opnieuw een laagje aardappel, vervolgens de filets van verse zalm en de andere helft van de room.  Eindig met een derde aardappellaagje.  Kruid met peper uit de molen en verwarm 15 minuten in een voorverwarmde oven. (180\u00b0C)\n                    "
+    },
+    "recipeYield": {
+        "@language": "nl",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

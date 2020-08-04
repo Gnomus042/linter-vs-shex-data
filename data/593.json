@@ -1,0 +1,81 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5"
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "\n          \n              \n              \n                  \n                  \n                      \n                      \n                      \n                      \n                          15 minutes\n                      \n                               \n                  \n                  \n              \n          \n          "
+    },
+    "image": {
+        "@id": "https://www.waitrose.com/home/recipes/recipe_directory/b/buttered-spinachtomatoandmozzarellatoasts.html///d1v30bmd12dhid.cloudfront.net/static/version2/content/dam/waitrose/recipes/images/b/Buttered-spinach-toasts.jpg/_jcr_content/renditions/cq5dam.thumbnail.200.200.png"
+    },
+    "ingredients": {
+        "@language": "en",
+        "@value": "200g baby plum tomatoes \n2 tbsp extra virgin olive oil, plus extra to serve \n2 tbsp red wine vinegar \n260g spinach \n30g unsalted butter \n4 slices sourdough bread \n1 garlic clove \n1 ball buffalo mozzarella, drained, at room temperature \n80g black olives, pitted and roughly chopped \n\u00bd x 25g pack flat leaf parsley, leaves roughly chopped\u00a0\n\n        "
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Buttered spinach, tomato and mozzarella toasts"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "\n                                1,897kJ 455kcals\n                            "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "\n                        \t\t31g\n                        \t"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "\n                                29g\n                            "
+        },
+        "fibreContent": {
+            "@language": "en",
+            "@value": "\n                                4.9g\n                            "
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "\n                                14g\n                            "
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "\n                                11g\n                            "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "\n                        \t\t1.3g\n                        \t"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "\n                        \t\t4.3g\n                        \t"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "\n          \n              \n              \n                  \n                  \n                      \n                      \n                      \n                      \n                          10 minutes\n                      \n                               \n                  \n                  \n              \n          \n          "
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "1. Preheat the oven to 200\u02daC, gas mark 6. Put the tomatoes, oil and vinegar in a roasting tin and season. Roast for 10-15 minutes until the tomatoes are just bursting open. Meanwhile, rinse and drain the spinach, then transfer to a large, high-sided pan and set over a high heat. Cook, turning now and again, until just starting to wilt. Scrape into a sieve and press out as much liquid as possible. \n2. Reduce the heat under the spinach pan and add the butter. When sizzling, return the wilted spinach to the pan. Stir to coat in the butter and cook for 1-2 minutes. Season and transfer to a plate. Toast the sourdough and rub the (peeled) garlic clove over each slice, almost grating it into the crispy surface of the toast. \n3. Spoon the oil and tomato juices from the roasting tin over the toast, then put the spinach and tomatoes on top. Tear the mozzarella into large chunks and nestle beside the spinach. Season and drizzle over a little more oil. Scatter over the olives and parsley before serving immediately.\n\n        "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n          \n              \n              \n                  \n                      \n                  \n                  \n                      \n                      \n                              25 minutes\n                      \n                      \n                      \n                               \n                  \n                  \n                      \n                  \n              \n          \n          "
+    },
+    "@id": "http://example.org/recipe"
+}

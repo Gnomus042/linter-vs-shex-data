@@ -1,0 +1,49 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "it-IT",
+        "@value": " 18 minuti"
+    },
+    "image": {
+        "@id": "https://www.ilricettariodicris.it/wp-content/uploads/2019/09/IMG_20190922_123355.jpg"
+    },
+    "name": {
+        "@language": "it-IT",
+        "@value": "Salsa ai peperoni"
+    },
+    "prepTime": {
+        "@language": "it-IT",
+        "@value": " Prep 3 min; Cottura: 15 min"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "it-IT",
+            "@value": "1 peperone rosso (circa 250 gr)"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "200 ml di panna da cucina"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "30 ml di olio EVO"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 spicchio di aglio"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "10 gr di parmigiano grattugiato (facoltativo)"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1/4 di cucchiaino di sale"
+        }
+    ],
+    "recipeYield": {
+        "@language": "it-IT",
+        "@value": " 6 porzioni"
+    },
+    "@id": "http://example.org/recipe"
+}

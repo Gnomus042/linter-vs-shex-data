@@ -1,0 +1,72 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://www.kenwoodcookingblog.it/author/admin/"
+    },
+    "cookTime": {
+        "@language": "it-IT",
+        "@value": "PT45M"
+    },
+    "datePublished": {
+        "@language": "it-IT",
+        "@value": "2017-10-28"
+    },
+    "image": {
+        "@id": "https://i0.wp.com/www.kenwoodcookingblog.it/wp-content/uploads/2013/06/IMG_2829.jpg?resize=150%2C150&ssl=1"
+    },
+    "ingredients": [
+        {
+            "@id": "https://www.kenwoodcookingblog.it/ingredients/frusta-k/"
+        },
+        {
+            "@id": "https://www.kenwoodcookingblog.it/ingredients/zucchero/"
+        },
+        {
+            "@id": "https://www.kenwoodcookingblog.it/ingredients/burro/"
+        },
+        {
+            "@id": "https://www.kenwoodcookingblog.it/ingredients/aroma-limone/"
+        },
+        {
+            "@id": "https://www.kenwoodcookingblog.it/ingredients/uova/"
+        },
+        {
+            "@id": "https://www.kenwoodcookingblog.it/ingredients/latte/"
+        },
+        {
+            "@id": "https://www.kenwoodcookingblog.it/ingredients/lievito-per-dolci/"
+        },
+        {
+            "@id": "https://www.kenwoodcookingblog.it/ingredients/farina-00/"
+        },
+        {
+            "@id": "https://www.kenwoodcookingblog.it/ingredients/gocce-di-cioccolato/"
+        },
+        {
+            "@id": "https://www.kenwoodcookingblog.it/ingredients/cacao-in-polvere/"
+        },
+        {
+            "@id": "https://www.kenwoodcookingblog.it/ingredients/sale/"
+        }
+    ],
+    "name": {
+        "@language": "it-IT",
+        "@value": "Ricetta Torta crema e cioccolato Kenwood"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@language": "it-IT",
+        "@value": "PT10M"
+    },
+    "recipeInstructions": {
+        "@language": "it-IT",
+        "@value": "\n            \nMontare la Frusta a K nel Kenwood Cooking Chef\nVersare nella ciotola il burro\u00a0morbido a pezzetti (200 gr), una parte dello zucchero (250 gr), le 4 uova intere\n \nAggiungere un pizzico di sale, l'aroma al limone\u00a0la farina (325 gr) 4 cucchiai di latte (che noi abbiamo sostituito con la panna in questa fotografica, mezzo cartoccio da 125 ml) e il lievito (1 bustina).\n   \nPortate lentamente la velocit\u00e0 del Kenwood al massimo e impastare per 2 minuti\n\n\nVersare circa met\u00e0 impasto in uno stampo a ciambella o in una tortiera imburrata e infarinata.\n \nSe volete aggiungere le gocce di cioccolato per una torta pi\u00f9 golosa spargerle sopra l'impasto\n\nQuindi continuare a lavorare il resto dell'impasto presente ancora nella ciotola per creare la parte al cioccolato.\nAggiungere al composto il latte (4 cucchiai, noi il restante cartoccio di panna), aggiungere lo zucchero (50 gr rimanenti) e il cacao amaro (40 gr).\n \nImpastare il tutto portando lentamente al massimo per 1 minuto.\n\nVersare il composto ottenuto sopra a quello bianco\n\nCuocere in forno statico gi\u00e0 caldo a 180\u00b0 per 45 minuti circa.\nVerificare sempre con lo stecchino la cottura della torta e servire volendo con una spolverata di zucchero a velo.\n  \n\nAccessori utilizzati in questa ricetta\n             \n\n        "
+    },
+    "recipeYield": {
+        "@language": "it-IT",
+        "@value": "12"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,89 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Vitamix"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\nWith a recipe as simple as this sauce and this dough, there\u2019s really no reason to order out for pizza anymore! Bonus: You probably already have most of the ingredients in your pantry. Make a big batch and can or freeze the extra for future use.\n"
+    },
+    "image": {
+        "@id": "https://www.vitamix.com/nz/en_GB/recipes/easy-pizza-sauce//media/recipe/rcp290016/images/500xNxCauliflower-Pizza-Crust.jpg.pagespeed.ic.R0C5J_qKrz.jpg"
+    },
+    "ingredients": {
+        "@language": "en",
+        "@value": "\n\n500 ml (2 cups) water\n\n\n340 g (12 ounces) tomato pur\u00e9e\n\n\n2 garlic cloves, peeled\n\n\n4 teaspoons onion powder\n\n\n1 Tablespoon dried parsley\n\n\n1 teaspoon dried oregano\n\n\n1 teaspoon dried basil\n\n"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Easy Pizza Sauce"
+    },
+    "recipeCategory": [
+        {
+            "@id": "https://www.vitamix.com/nz/en_GB/recipes/easy-pizza-sauce//browse/recipes/Gluten-Free"
+        },
+        {
+            "@id": "https://www.vitamix.com/nz/en_GB/recipes/easy-pizza-sauce//browse/recipes/Vegan"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n1 Tablespoon dried parsley\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n1 teaspoon dried oregano\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n500 ml (2 cups) water\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n4 teaspoons onion powder\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n2 garlic cloves, peeled\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n1 teaspoon dried basil\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n340 g (12 ounces) tomato pur\u00e9e\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\nPlace water, tomato paste, garlic, and onion powder into your Vitamix container in the order listed and secure the lid.\nSelect Variable 1 or the Pur\u00e9e program (if available). Start the machine, slowly increase to its highest speed, and blend for 1 minute; or start the machine and allow the Pur\u00e9e program to complete. Stop the machine. \nTransfer mixture to a saucepot and add the dried parsley flakes, oregano, and basil. Simmer over low heat for 10 minutes.\n"
+    },
+    "relatedItem": [
+        {
+            "@id": "https://www.vitamix.com/nz/en_GB/recipes/easy-pizza-sauce//nz/en_gb/Recipes/Cauliflower-Pizza-Crust"
+        },
+        {
+            "@id": "https://www.vitamix.com/nz/en_GB/recipes/easy-pizza-sauce//nz/en_gb/recipes/homemade-pizza-sauce"
+        },
+        {
+            "@id": "https://www.vitamix.com/nz/en_GB/recipes/easy-pizza-sauce//nz/en_gb/recipes/naan-pizza"
+        },
+        {
+            "@id": "https://www.vitamix.com/nz/en_GB/recipes/easy-pizza-sauce//nz/en_gb/Recipes/Italian-Herb-Pizza-Sauce"
+        },
+        {
+            "@id": "https://www.vitamix.com/nz/en_GB/recipes/easy-pizza-sauce//nz/en_gb/Recipes/Pizza"
+        },
+        {
+            "@id": "https://www.vitamix.com/nz/en_GB/recipes/easy-pizza-sauce//nz/en_gb/Recipes/Marinara-Sauce"
+        }
+    ],
+    "totalTime": {
+        "@language": "en",
+        "@value": "\nTotal Time:\n"
+    },
+    "@id": "http://example.org/recipe"
+}

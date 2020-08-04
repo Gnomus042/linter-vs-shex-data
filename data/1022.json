@@ -1,0 +1,72 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "3.3"
+        },
+        "reviewCount": {
+            "@value": "23"
+        }
+    },
+    "datePublished": {
+        "@value": "2013-05-19"
+    },
+    "description": {
+        "@value": "Voila une recette d'un plat riche en fibres et en vitamines:  \n  2 pommes de terre \n  4 carottes \nles cuire \u00e0 la vapeur \npuis ajoutez : \n       1 oignon \n        1 piment vert \n        1 tomate \n         un peu de champinon ( concerve) \n         1 c. \u00e0 s. huile d'olive \n        1 c. \u00e0 c. sel et poivre \n        1 boite de thon \n        2 c. \u00e0 s. de citron\n"
+    },
+    "image": {
+        "@id": "https://lel.s3.amazonaws.com/assets/images/recettes/unnamed.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1 c. \u00e0 c. Sel"
+        },
+        {
+            "@value": "1 Piment"
+        },
+        {
+            "@value": "1 boite Thon"
+        },
+        {
+            "@value": "1 c. \u00e0 s. Huile d' olive"
+        },
+        {
+            "@value": "1c. \u00e0 c. Poivre"
+        },
+        {
+            "@value": "1 Oignon"
+        },
+        {
+            "@value": "1 Tomate"
+        },
+        {
+            "@value": "2 c. \u00e0 s. Citron"
+        },
+        {
+            "@value": "2 Pomme de terre"
+        },
+        {
+            "@value": "0 Champignon"
+        },
+        {
+            "@value": "4 Carotte"
+        }
+    ],
+    "name": {
+        "@value": "Salade tunisienne"
+    },
+    "recipeCategory": {
+        "@value": "Plat"
+    },
+    "recipeYield": {
+        "@value": "2 personnes"
+    },
+    "totalTime": {
+        "@value": "PT30M"
+    },
+    "url": {
+        "@value": "https://www.ligne-en-ligne.com/recettes/plat/1022-salade-tunisienne"
+    },
+    "@id": "http://example.org/recipe"
+}

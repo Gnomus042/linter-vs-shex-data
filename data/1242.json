@@ -1,0 +1,46 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "it",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "it",
+            "@value": "13"
+        },
+        "ratingValue": {
+            "@language": "it",
+            "@value": "5"
+        }
+    },
+    "comment": {
+        "@language": "it",
+        "@value": "Null"
+    },
+    "description": {
+        "@language": "it",
+        "@value": "Ricetta Vegan - Germogli di tarassaco speziati: Fare rosolare la cipolla tagliata a fettine, aggiungere il curry, la curcuma, l'uvetta, fare insaporire, aggiungere il tarasacco ben lavato e scolato, farlo ben appassire mettendo un coperchio, ag"
+    },
+    "image": {
+        "@id": "https://www.vegan3000.info/foto/Foto-1478-00.jpg"
+    },
+    "ingredients": {
+        "@language": "it",
+        "@value": "Per 4 persone\ngermogli di tarasacco (da raccogliere in luoghi non inquinati)\n2 cucchiai di olio evo\n1 cipolla\n1 cucchiaino di curry\n1 cucchiaino di curcuma\n1 manciata di uvetta secca\n1 cucchiaio di cocco grattugiato\npanna di soia o di cocco\n"
+    },
+    "name": {
+        "@language": "it",
+        "@value": "Germogli di tarassaco speziati"
+    },
+    "recipeCategory": {
+        "@language": "it",
+        "@value": "Null"
+    },
+    "recipeInstructions": {
+        "@language": "it",
+        "@value": "Fare rosolare la cipolla tagliata a fettine, aggiungere il curry, la curcuma, l'uvetta, fare insaporire, aggiungere il tarasacco ben lavato e scolato, farlo ben appassire mettendo un coperchio, aggiungere in ultimo un p\u00f2 di cocco grattugiato e irrorate il tutto con la panna di soia.\n"
+    },
+    "@id": "http://example.org/recipe"
+}

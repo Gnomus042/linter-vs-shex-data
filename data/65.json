@@ -1,0 +1,39 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "es-ES",
+            "@value": "4.8"
+        },
+        "reviewCount": {
+            "@language": "es-ES",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "es-ES",
+        "@value": "Blog de cuina de la dolorss."
+    },
+    "cookTime": {
+        "@language": "es-ES",
+        "@value": "1 hora. "
+    },
+    "description": {
+        "@language": "es-ES",
+        "@value": "Me encanta hornear por la tarde cuando empieza a refrescar m\u00e1s, aunque lo mejor es poder tener a la ma\u00f1ana siguiente un rico desayuno, si es que\u00a0 llega al d\u00eda siguiente J. \nUn plum cake perfecto, con sus almendras, ar\u00e1ndanos y su toque de especias, os animo a hacerlo, no os arrepentir\u00e9is. \n\u00a0\nIngredientes para 6 personas:\n2 huevos\n150 gr. de az\u00facar\n125 gr. de mantequilla\n125 cc. de \nSigue leyendo la Receta: Plum cake especiado con almendras y ar\u00e1ndanos\u2026\n\nLee entera esta receta y comenta en el BLOG:\nBlog de cuina  de la dolorss\n\u2026\n"
+    },
+    "name": {
+        "@language": "es-ES",
+        "@value": "Plum cake especiado con almendras y ar\u00e1ndanos"
+    },
+    "prepTime": {
+        "@language": "es-ES",
+        "@value": "30 min. "
+    },
+    "recipeYield": {
+        "@language": "es-ES",
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

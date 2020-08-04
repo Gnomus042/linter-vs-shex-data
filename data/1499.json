@@ -1,0 +1,114 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.08"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "53"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Almo \u010catlak"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2018-07-07 06:00:29"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "U na\u0161em video receptu saznajte kako pripremiti zaliveni kola\u010d od vi\u0161anja."
+    },
+    "image": {
+        "@id": "https://finirecepti.net.hr/wp-content/uploads/2015/02/zaliveni-kolac-od-visanja-img.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": " sol "
+        },
+        {
+            "@language": "en-US",
+            "@value": " \u0161krobno bra\u0161no, 1 \u017elica"
+        },
+        {
+            "@language": "en-US",
+            "@value": " maslac, 200 g"
+        },
+        {
+            "@language": "en-US",
+            "@value": " \u0161e\u0107er, 200 g"
+        },
+        {
+            "@language": "en-US",
+            "@value": " kiselo vrhnje, 250 ml"
+        },
+        {
+            "@language": "en-US",
+            "@value": " vanilin \u0161e\u0107er, 2 vre\u0107ice"
+        },
+        {
+            "@language": "en-US",
+            "@value": " limun, 1/2 limuna"
+        },
+        {
+            "@language": "en-US",
+            "@value": " pra\u0161ak za pecivo, 1/2 vre\u0107ice"
+        },
+        {
+            "@language": "en-US",
+            "@value": " jaja, 6 "
+        },
+        {
+            "@language": "en-US",
+            "@value": " vi\u0161nje, 500 g"
+        },
+        {
+            "@language": "en-US",
+            "@value": " \u0161e\u0107er u prahu "
+        },
+        {
+            "@language": "en-US",
+            "@value": " bra\u0161no, 300 g"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Zaliveni kola\u010d od vi\u0161anja"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT45M"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Kola\u010d izvadimo iz pe\u0107nice, po njemu raspodijelimo vi\u0161nje i sve zajedno prelijemo smjesom od vrhnja. Vra\u010damo u pe\u0107nicu na jo\u0161 20-25 minuta."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Za to vrijeme pomije\u0161amo vrhnje s preostalim \u0161e\u0107erom, jajima, vanilin \u0161e\u0107erom i \u0161krobnim bra\u0161nom. "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Svje\u017ee vi\u0161nje o\u010distimo i izvadimo im ko\u0161tice. U zdjeli ru\u010dnim mikserom izmije\u0161amo 4 jaja s 150 g \u0161e\u0107era, limunovom koricom i malo soli. "
+        },
+        {
+            "@language": "en-US",
+            "@value": "Zatim umije\u0161amo omek\u0161ali maslac te smjesu bra\u0161na i pra\u0161ka za pecivo. Ulijemo u maslacem nama\u0161\u0107en i bra\u0161nom posipan lim (32x38) i stavljamo pe\u0107i u zagrijanu pe\u0107nicu na 200\u00b0C 10 minuta. "
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6 osobe"
+    },
+    "url": {
+        "@language": "en-US",
+        "@value": "https://finirecepti.net.hr/priprema/zaliveni-kolac-od-visanja/"
+    },
+    "@id": "http://example.org/recipe"
+}

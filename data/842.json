@@ -1,0 +1,68 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Annie"
+        }
+    },
+    "description": {
+        "@value": "C\u2019est un plat d\u2019automne tout indiqu\u00e9 pour une r\u00e9union familiale ou amicale pour qui aime le go\u00fbt sucr\u00e9-sal\u00e9 avec les pommes qui apportent une note \u00e0 la fois sucr\u00e9e et acidul\u00e9e."
+    },
+    "image": {
+        "@id": "https://cdn.lacuisinedannie.com/images/1493.jpg"
+    },
+    "keywords": [
+        {
+            "@value": "Automne"
+        },
+        {
+            "@value": "Hiver"
+        }
+    ],
+    "name": {
+        "@value": "Recette R\u00f4ti porc aux pommes et au cidre                                      \n                                    "
+    },
+    "recipeCategory": {
+        "@value": "Viandes"
+    },
+    "recipeCuisine": {
+        "@value": "Porc"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "6  oignons (1 kg environ)"
+        },
+        {
+            "@value": "1 bouquet garni"
+        },
+        {
+            "@value": "1,2 kg de r\u00f4ti porc (dans l'\u00e9chine)"
+        },
+        {
+            "@value": "6 pommes de terre (600 g environ)"
+        },
+        {
+            "@value": "2 gousses d\u2019ail"
+        },
+        {
+            "@value": "1 bouteille de cidre brut"
+        },
+        {
+            "@value": "1 kg de pommes tenant \u00e0 la cuisson (Elstar, Tentation)"
+        },
+        {
+            "@value": "50 g de beurre.                            "
+        },
+        {
+            "@value": "Sel, poivre"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        Dans 1 cocotte, faire revenir les oignons hach\u00e9s dans l'huile ajouter le r\u00f4ti et faire dorer 5 mn de chaque c\u00f4t\u00e9 puis ajouter le cidre pour recouvrir la viande    Ajouter le bouquet garni, couvrir et laisser cuire doucement pendant 1 h 30  Au bout d\u2019une heure de cuisson de la viande ajouter dans la cocotte les 6 pommes de terre \u00e9pluch\u00e9es et 2 gousses d\u2019ail   Les pommes : \u00e9plucher les pommes et les couper en 8. Les faire revenir dans une po\u00eale avec du beurre  pour les faire dorer et  ajouter 1 pinc\u00e9e cannelle r\u00e9server     Couper la viande en tranches fines sur une planche et servir la viande avec pommes de terre et les tranches de pommes autour sans oublier le jus.                          "
+    },
+    "recipeYield": {
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

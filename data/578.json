@@ -1,0 +1,48 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "https://www.przyslijprzepis.pl/przepis/jablecznik-na-biszkopcie-z-bita-smietanka//uzytkownik/bienpyt"
+        }
+    },
+    "cookTime": {
+        "@value": "PT70M"
+    },
+    "datePublished": {
+        "@value": "\n                            Opublikowany: 19.07.2018\n                        "
+    },
+    "description": {
+        "@value": "Super jab\u0142ecznik na biszkoptowym spodzie z dodatkiem ciastek biszkoptowych z galaretk\u0105 i czekolad\u0105. Ca\u0142o\u015b\u0107 smaku i wygl\u0105du uzupe\u0142nia bita \u015bmietanka i wi\u00f3rki czekoladowe."
+    },
+    "headline": {
+        "@value": "Jab\u0142ecznik na biszkopcie z bit\u0105 \u015bmietank\u0105"
+    },
+    "image": [
+        {
+            "@id": "_:N977f054234bd46068730a3b16144bd4f"
+        },
+        {
+            "@id": "_:N540e944249ef4ca28ebe3cf67885d5e0"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "https://www.przyslijprzepis.pl/przepis/jablecznik-na-biszkopcie-z-bita-smietanka"
+    },
+    "name": {
+        "@value": "Jab\u0142ecznik na biszkopcie z bit\u0105 \u015bmietank\u0105"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:N61598b8626554763b9af125b5895e356"
+        },
+        "name": {
+            "@value": "PrzyslijPrzepis.pl"
+        }
+    },
+    "recipeIngredient": {
+        "@value": "Sk\u0142adniki\n            Forma:20x36 cm\nSk\u0142adniki ciasto:\n4 jajka\n\u00be szklanki drobnego cukru\n\u00be szklanki m\u0105ki tortowej\n2 \u0142y\u017cki m\u0105ki ziemniaczanej\n1 \u0142y\u017ceczka proszku do pieczenia\nPapier do pieczenia\nS\u00f3l do smaku\nNadzienie:\n1 kg jab\u0142ek\n1/3 szklanki drobnego cukru\n2 galaretki cytrynowe\nCynamon do smaku\n600 ml \u015bmietanki 30%\n1/3 szklanki cukru pudru\n1 zag\u0119stnik do \u015bmietanki\n3 p\u0142askie \u0142y\u017ceczki \u017celatyny\n300 g ciastek delicji o smaku pomara\u0144czowym \nWi\u00f3rki gorzkiej czekolady\n        "
+    },
+    "@id": "http://example.org/recipe"
+}

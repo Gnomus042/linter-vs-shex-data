@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "fr-fr",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "fr-fr",
+            "@value": "0"
+        },
+        "worstRating": {
+            "@language": "fr-fr",
+            "@value": "0"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2019-09-14"
+    },
+    "description": {
+        "@language": "fr-fr",
+        "@value": "Avec 1 salade de l\u00e9gumes de saison accompagn\u00e9e de graines germ\u00e9es de votre choix, c'est 1 plat sain et \u00e9quilibr\u00e9."
+    },
+    "image": {
+        "@id": "https://www.sosbouffe.fr/recettes-vegetariennes/recette/903-souffle-fromage-de-brebis-et-flocons-d-avoine.html//images/com_yoorecipe/42/cropped-souffle-brebis-avoine.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-fr",
+            "@value": "de flocons d'avoine"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "d'huile d'olive"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de cerneaux de noix "
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de sel"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "\u0153ufs"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de farine de riz ou de ma\u00efs"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de fromage de brebis"
+        },
+        {
+            "@language": "fr-fr",
+            "@value": "de m\u00e9lange de 5 poivres"
+        }
+    ],
+    "name": {
+        "@language": "fr-fr",
+        "@value": "\n\tSouffl\u00e9 fromage de brebis et flocons d'avoine E-mail Imprimer"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "recipeYield": {
+        "@language": "fr-fr",
+        "@value": "4 Personne(s)"
+    },
+    "@id": "http://example.org/recipe"
+}

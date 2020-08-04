@@ -1,0 +1,212 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "tr",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "tr",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "tr",
+            "@value": "1"
+        },
+        "worstRating": {
+            "@language": "tr",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@language": "tr",
+        "@value": "Civil Engineer"
+    },
+    "cookTime": {
+        "@language": "tr",
+        "@value": "PT15M"
+    },
+    "dateModified": {
+        "@language": "tr",
+        "@value": "2018-11-13T13:34:00+00:00"
+    },
+    "datePublished": {
+        "@language": "tr",
+        "@value": "2016-04-24T12:50:23+00:00"
+    },
+    "description": {
+        "@language": "tr",
+        "@value": "Tam Bu\u011fday Unlu Bebek Ekme\u011fi (6 Ay) Tarifi nas\u0131l yap\u0131l\u0131r? 1.109 ki\u015finin defterindeki bu tarifin resimli anlat\u0131m\u0131 ve deneyenlerin foto\u011fraflar\u0131 burada. Yazar: Civil Engineer"
+    },
+    "headline": {
+        "@language": "tr",
+        "@value": "Tam Bu\u011fday Unlu Bebek Ekme\u011fi (6 Ay)"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "tr",
+            "@value": "333"
+        },
+        "url": {
+            "@language": "tr",
+            "@value": "https://i.nefisyemektarifleri.com/2016/04/24/tam-bugday-unlu-bebek-ekmegi-6-ay-500x333.jpeg"
+        },
+        "width": {
+            "@language": "tr",
+            "@value": "500"
+        }
+    },
+    "ingredients": [
+        {
+            "@language": "tr",
+            "@value": "5 yemek ka\u015f\u0131\u011f\u0131 yo\u011furt"
+        },
+        {
+            "@language": "tr",
+            "@value": "1 tatl\u0131 ka\u015f\u0131\u011f\u0131 instant maya"
+        },
+        {
+            "@language": "tr",
+            "@value": "2 yemek ka\u015f\u0131\u011f\u0131 zeytinya\u011f\u0131"
+        },
+        {
+            "@language": "tr",
+            "@value": "T\u00fcm malzemeler kar\u0131\u015ft\u0131r\u0131larak yumu\u015fak k\u0131vaml\u0131 bir hamur elde edilir."
+        },
+        {
+            "@language": "tr",
+            "@value": "3 su barda\u011f\u0131 tam bu\u011fday unu"
+        },
+        {
+            "@language": "tr",
+            "@value": "1/2 (yar\u0131m) su barda\u011f\u0131 su"
+        },
+        {
+            "@language": "tr",
+            "@value": "\u0130stenen \u015fekil verilerek \u00f6nceden \u0131s\u0131t\u0131lm\u0131\u015f 180 derece f\u0131r\u0131nda alt\u0131 hafif pembele\u015finceye kadar pi\u015firilir.\nAfiyet olsun. ."
+        }
+    ],
+    "mainEntityOfPage": [
+        {
+            "@language": "tr",
+            "@value": "https://www.nefisyemektarifleri.com/tam-bugday-unlu-bebek-ekmegi-6-ay/"
+        },
+        {
+            "@language": "tr",
+            "@value": "True"
+        }
+    ],
+    "name": {
+        "@language": "tr",
+        "@value": "Tam Bu\u011fday Unlu Bebek Ekme\u011fi (6 Ay)"
+    },
+    "prepTime": {
+        "@language": "tr",
+        "@value": "PT10M"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:N2cf744172029412387624636ab8b56ea"
+        },
+        "name": {
+            "@language": "tr",
+            "@value": "Nefis Yemek Tarifleri"
+        },
+        "url": {
+            "@language": "tr",
+            "@value": "https://www.nefisyemektarifleri.com"
+        }
+    },
+    "recipeYield": {
+        "@language": "tr",
+        "@value": "6-8 "
+    },
+    "review": [
+        {
+            "@id": "_:Nbf4651a9ef9e424eb0d809eeaafe5639"
+        },
+        {
+            "@id": "_:N2f87dbb74a3749f28dc42c05599f0d5b"
+        },
+        {
+            "@id": "_:N8a1630b7bbdf4342b6098f900be7dd2c"
+        },
+        {
+            "@id": "_:Nd8a8cb15b2ee470e85e77de7b7b8d462"
+        },
+        {
+            "@id": "_:N468b6239a52a4e28b884e6e2d0bd0622"
+        },
+        {
+            "@id": "_:Nc54315ec7af04da198e8f9b7b8034e99"
+        },
+        {
+            "@id": "_:N643dbe1982a1482a9cc7220d985e23cf"
+        },
+        {
+            "@id": "_:N55bd7cb0f7734b5b8d6fa638c8d46bcb"
+        },
+        {
+            "@id": "_:Ndc10cf355b264486a9a94be7ada7220b"
+        },
+        {
+            "@id": "_:N543c41721c804876af9e1fc7c94187cf"
+        },
+        {
+            "@id": "_:Nf5bb1796871a424ba197e52a4d5fffa1"
+        },
+        {
+            "@id": "_:N099ab2a3ce6845109ce17107920abd85"
+        },
+        {
+            "@id": "_:N0055e87df9a64c0697118300ee60deb3"
+        },
+        {
+            "@id": "_:N198d735f930441f5ad875730250fc603"
+        },
+        {
+            "@id": "_:Nb97a038a7f34439092dd08c3a2596317"
+        },
+        {
+            "@id": "_:N28d3357e6da34e73bb4b9210d0555c6f"
+        },
+        {
+            "@id": "_:Nfe8615225c1c42499622e8fd92179aa0"
+        },
+        {
+            "@id": "_:Nadc12e970a064679b8658fd6705f47eb"
+        },
+        {
+            "@id": "_:N12466a07230c464d861086d82cb2bb49"
+        },
+        {
+            "@id": "_:N6745464453c141f688ca96d4fe39da4a"
+        },
+        {
+            "@id": "_:N9c65b893729344a992f48a31fe736bb2"
+        },
+        {
+            "@id": "_:N01659918a7034afaab56d3cdc80dfc9c"
+        },
+        {
+            "@id": "_:Na0298a1e6c274cf79d4c8693dadaf85c"
+        }
+    ],
+    "totalTime": {
+        "@language": "tr",
+        "@value": "PT25M"
+    },
+    "url": [
+        {
+            "@language": "tr",
+            "@value": "https://www.nefisyemektarifleri.com/tam-bugday-unlu-bebek-ekmegi-6-ay/"
+        },
+        {
+            "@id": "https://www.nefisyemektarifleri.com/tam-bugday-unlu-bebek-ekmegi-6-ay/"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

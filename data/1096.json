@@ -1,0 +1,100 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "By Meghan McCarthy"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "25 min "
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2014-04-27 17:38:25"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "This granola tastes like Fall: soft baked oats, chopped nuts galore, coupled with warm apples and cinnamon."
+    },
+    "image": {
+        "@id": "http://cleaneatsfastfeets.com/wp-content/uploads/2012/09/Apple-Pie-Granola-Final1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 Tbsps. Wheat Germ (or Flax Powder)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp. Vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 Maple Syrup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups Rolled Oats"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup dried Cranberries"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 tsp. All Spice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp. Cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/2 to 2 cups nuts: chopped Walnuts, chopped Pecans and sliced Almonds."
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup of Olive Oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 large Apple, peeled and roughly chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 tsp. Nutmeg"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Apple Pie Granola"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "15 min "
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tPreheat oven to 350 degrees.\t\t\t\tCombine dry ingredients in a large bowl: oats, wheat germ, nuts, cinnamon, nutmeg and all spice.\t\t\t\tMix in wet ingredients one a time fully incorporating each into the mix: vanilla, olive oil and maple syrup. Mix in apple pieces.\t\t\t\tPlace granola on a baking sheet in a large pile. Do not spread out. Cook for 25 minutes stirring at the halfway mark (13 minutes). For crunchier granola, cook longer.\t\t\t\tLet cool for 30 minutes. Once cool, add dried cranberries.\t\t\t"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "35 min "
+    },
+    "@id": "http://example.org/recipe"
+}

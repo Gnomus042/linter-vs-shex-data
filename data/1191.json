@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@value": "\n            Kdor u\u017eiva v jagnjetini, se najpogosteje masti s pe\u010deno z ra\u017enja. Tole pa je odli\u010den ragu, preprost za pripravo in polnega okusa. Na ko\u0161\u010dke zrezano meso pripravimo s panceto, s kuhanim belim fi\u017eolom, s \u010debulo, s paradi\u017enikovim pirejem in z za\u010dimbami.            "
+    },
+    "image": {
+        "@id": "https://www.gurman.eu/recepti/jagnjecji-ragu-z-belim-fizolom-12274/images/old_images/12535_medium.jpg"
+    },
+    "name": {
+        "@value": "Jagnje\u010dji ragu z belim fi\u017eolom"
+    },
+    "recipeYield": {
+        "@value": "\u0161t. oseb: za 6\u20138 oseb"
+    },
+    "totalTime": {
+        "@value": "\u010das priprave: 60\u201390 min."
+    },
+    "@id": "http://example.org/recipe"
+}

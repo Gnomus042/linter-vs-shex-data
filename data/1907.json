@@ -1,0 +1,103 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Nisha Madhulika"
+    },
+    "image": {
+        "@id": "http://indiangoodfood.com/wp-content/uploads/2016/07/methi-dana-sabji-50x50.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "Turmeric powder \u2013 \u00bc tsp"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Salt \u2013 1 tsp or to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Red chilly powder \u2013 \u00bd tsp"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Mustard oil \u2013 2-3 tbsp"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Raisins \u2013 10-12"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cumin powder \u2013 \u00bd tsp"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Coriander powder \u2013 1 tsp"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Fennel powder \u2013 1 tsp"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Asafoetida \u2013 2 pinch"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Dry dates \u2013 2"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Fenugreek seeds \u2013 \u00bc cup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Dry mango powder \u2013 \u00bd tsp"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Dana Methi Ki Sabji - Fenugreek Seeds Curry "
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Main Course"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Indian"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Heat pan with some oil and add asafoetida, cumin powder, coriander powder, fennel powder, turmeric powder, fenugreek seeds, salt, dry mango powder and red chilly powder into the sabzi. Mix all the ingredients really well."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour \u00bd cup of water into the pan along with sliced dry dates and raisins. Mix it well. Cover and cook the sabzi for 5-6 minutes on low flame. Check later."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cut the soaked dry dates into thin slices."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Serve this tantalizing and delicious fenugreek seeds sabzi steaming hot as an accompaniment with chapatti, parantha or rice. Keep this sabzi in refrigerator and have it within 5-6 days. Enjoy!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Transfer the sabzi into a serving bowl."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Soak fenugreek seeds in water for 2 hours."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

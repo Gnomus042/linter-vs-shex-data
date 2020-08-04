@@ -1,0 +1,139 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "George Graham - AcadianaTable.com"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "A big time-saver is to find the drumettes, the thick first section of a chicken wing that resembles a drumstick that are already cut and packaged together. Most supermarkets sell them separately from the wings."
+    },
+    "image": {
+        "@id": "https://acadianatable.com/2013/12/09/cajun-glazed-chicken-lollipops//wp-content/uploads/2013/09/img_0926-300x223.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons kosher salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup green onion tops, finely diced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup squeezable butter, such as Parkay"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons smoked paprika"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups buttermilk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup finely chopped Louisiana pecans"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons cayenne"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups rice flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons garlic powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Louisiana sweet potatoes, peeled"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons black pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup vinegar-based barbecue sauce, such as Jack Miller\u2019s"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons onion powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 dozen chicken drumettes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon Sriracha sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 gallon peanut oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tablespoons mild hot sauce"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Cajun Glazed Chicken Lollipops on Sweet Potato Hay"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "To create the \u201clollipop,\u201d stand the drumette on its meaty end and while holding the narrow bone end at the top, use a sharp paring knife to cut the flesh away from the bone while pushing and scraping the skin and meat downward to expose the bone. With your fingers, pull the meat over the tip end of the bone and make a plump \u201clollipop\u201d of chicken. Repeat with the remaining chicken. You can either leave the bone end as is, or take a pair of kitchen shears and snip the end knob of the bone off for a cleaner look."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large shallow mixing bowl, mix the flour with all dry ingredients and blend."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large mixing bowl, add all the ingredients and combine. Microwave on high for 2 minutes until the sauce is just warmed through. Keep warm for serving."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large pot, add the peanut oil and heat to 350\u00baF."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a colander placed over the sink, pour the chicken pieces and buttermilk marinade. Strain the marinade from the chicken and move the still-soaked chicken pieces to a platter. Add the chicken pieces to the flour mixture and coat. Move the floured chicken to a platter."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large storage container with lid, add the buttermilk along with all the dry ingredients. Mix well."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large pot, add the peanut oil and heat to 350\u00baF. Add the sweet potatoes and fry until golden brown. Drain on paper towels."
+        },
+        {
+            "@language": "en-US",
+            "@value": "For serving, mound the sweet potato fries in a shallow serving bowl, platter or skillet. Add the fried chicken pieces to the mixing bowl containing the glaze and shake to coat the chicken. Arrange the chicken lollipops on top of the sweet potato hay and garnish with green onion tops and finely chopped pecans. Serve with ice-cold beer and plenty of napkins."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Submerge the chicken lollipops in the marinade. Cover and refrigerate overnight or for at least 2 hours."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Using a mandoline, julienne the sweet potatoes to long matchstick size."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Working in batches, drop the chicken pieces into the hot oil. Fry until golden brown and remove to a paper towel-lined platter to drain. Finish frying all the chicken and keep warm until serving."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

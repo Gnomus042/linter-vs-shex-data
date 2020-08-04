@@ -1,0 +1,68 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Itsy Bitsy Foodies"
+    },
+    "description": {
+        "@value": "Top your yogurt with this nutrient-packed granola baked with applesauce instead of oil for a healthy and filling meal or snack."
+    },
+    "image": {
+        "@id": "http://itsybitsyfoodies.com/wp-content/uploads/2011/11/IMG_2945-400x400.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "4 cups old-fashioned oats"
+        },
+        {
+            "@value": "1 cup All-bran"
+        },
+        {
+            "@value": "1 cup wheat germ"
+        },
+        {
+            "@value": "\u00bc cup honey"
+        },
+        {
+            "@value": "\u00be cup chopped walnuts"
+        },
+        {
+            "@value": "\u00bc cup brown sugar"
+        },
+        {
+            "@value": "\u00bd tsp cinnamon"
+        },
+        {
+            "@value": "1 cup applesauce"
+        },
+        {
+            "@value": "\u00bc cup flax seed"
+        }
+    ],
+    "name": {
+        "@value": "Apple Walnut Granola"
+    },
+    "recipeCategory": {
+        "@value": "Snack"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Spread them onto an ungreased baking sheet."
+        },
+        {
+            "@value": "Stir it again when you remove it from the oven and then let it cool on the pan."
+        },
+        {
+            "@value": "Toss all of the ingredients together."
+        },
+        {
+            "@value": "Store it in a sealed container."
+        },
+        {
+            "@value": "Bake the granola at 300 degrees for 30 minutes or until it is golden brown, stirring it every five minutes or so to ensure that it doesn't stick to the pan and/or burn."
+        }
+    ],
+    "recipeYield": {
+        "@value": "8+"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,94 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "hu",
+        "@value": "Bardi, Carla"
+    },
+    "image": [
+        {
+            "@id": "https://gasztroabc.hu/recept/15515_gnocchi-paprikaszosszal//kepek/Fuz/gnocchi-paprikaszosszal.jpg"
+        },
+        {
+            "@id": "https://gasztroabc.hu/recept/15515_gnocchi-paprikaszosszal//kepek/FuA/gnocchi-paprikaszosszal.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "hu",
+            "@value": "\n                4 ev\u0151kan\u00e1l extrasz\u0171z ol\u00edvaolaj\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                \u00edzl\u00e9s szerint s\u00f3\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                2 szem finomra v\u00e1gva mogyor\u00f3hagyma\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                1 ev\u0151kan\u00e1l vaj\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                2 nagyobb kimagozott, finomra v\u00e1gva piros h\u00fas\u00fa kaliforniai paprika\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                40 dkg h\u00e1mozottparadicsom-konzerv\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                75 dkg k\u00e9szen v\u00e1s\u00e1rolt burgonyagnocchi\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                4 ev\u0151kan\u00e1l sz\u00e1raz feh\u00e9rbor\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                ig\u00e9ny szerint forr\u00f3 v\u00edz\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                2 ev\u0151kan\u00e1l kapribogy\u00f3\n              "
+        },
+        {
+            "@language": "hu",
+            "@value": "\n                1 ev\u0151kan\u00e1l \u00f6sszev\u00e1gott snidling\n              "
+        }
+    ],
+    "interactionCount": {
+        "@language": "hu",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "hu",
+        "@value": "Gnocchi paprikasz\u00f3sszal"
+    },
+    "prepTime": {
+        "@language": "hu",
+        "@value": "15 perc"
+    },
+    "recipeCategory": {
+        "@language": "hu",
+        "@value": "T\u00e9szta\u00e9telek"
+    },
+    "recipeCuisine": {
+        "@language": "hu",
+        "@value": "olasz"
+    },
+    "recipeInstructions": {
+        "@language": "hu",
+        "@value": "\n              1. Az olajon, k\u00f6zepes h\u0151fokon a hagym\u00e1t 2 perc alatt megfonnyasztjuk. Hozz\u00e1adjuk a kapribogy\u00f3t, a kaliforniai paprik\u00e1t \u00e9s a paradicsomot.\n\n              2. Letakarjuk \u00e9s 10 perc alatt k\u00e9szre f\u0151zz\u00fck. Fel\u00f6ntj\u00fck a borral, 1 percig m\u00e9g s\u0171r\u00edtj\u00fck \u00e9s megs\u00f3zzuk.\n\n              3. A gnocchit s\u00f3s, forr\u00f3 v\u00edzben kif\u0151zz\u00fck, akkor van k\u00e9szen, ha a gomb\u00f3ck\u00e1k (vagy nudlik) felj\u00f6nnek a v\u00edz felsz\u00edn\u00e9re.\n\n              4. A gnocchit sz\u0171r\u0151kan\u00e1llal a m\u00e1rt\u00e1sba szedj\u00fck. Belekeverj\u00fck a vajat, r\u00e1sz\u00f3rjuk a snidlinget, \u00e9s azonnal t\u00e1laljuk.\n            "
+    },
+    "recipeYield": {
+        "@language": "hu",
+        "@value": "4-6 f\u0151re"
+    },
+    "totalTime": {
+        "@language": "hu",
+        "@value": "30 perc"
+    },
+    "@id": "http://example.org/recipe"
+}

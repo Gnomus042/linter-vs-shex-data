@@ -1,0 +1,94 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "40 pieces TOMATO CONFIT:"
+        },
+        {
+            "@language": "en",
+            "@value": "FOR THE TERRINE:"
+        },
+        {
+            "@language": "en",
+            "@value": "10 basil leaves, torn"
+        },
+        {
+            "@language": "en",
+            "@value": "4 sprigs rosemary"
+        },
+        {
+            "@language": "en",
+            "@value": "4 garlic cloves, peeled and crushed"
+        },
+        {
+            "@language": "en",
+            "@value": "8 leaves sage"
+        },
+        {
+            "@language": "en",
+            "@value": "Salt"
+        },
+        {
+            "@language": "en",
+            "@value": "2 pounds fresh sardine fillets, (from about 4 pounds whole sardines) ***you can also use salmon fillets"
+        },
+        {
+            "@language": "en",
+            "@value": "12 ounces piquillo or roasted red bell peppers"
+        },
+        {
+            "@language": "en",
+            "@value": "6 sprigs thyme"
+        },
+        {
+            "@language": "en",
+            "@value": "20 ripe plum tomatoes, peeled"
+        },
+        {
+            "@language": "en",
+            "@value": "4 sprigs thyme, leaves only"
+        },
+        {
+            "@language": "en",
+            "@value": "3 cloves garlic, peeled, split, germ removed and finely sliced"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup extra-virgin olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "2 bay leaves, broken"
+        },
+        {
+            "@language": "en",
+            "@value": "3 pounds eggplant, trimmed, peeled, and cut into 1/2-inch thick slices (on the   bias)"
+        },
+        {
+            "@language": "en",
+            "@value": "Freshly ground white pepper"
+        },
+        {
+            "@language": "en",
+            "@value": "3 tablespoons extra virgin olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 to 1/2 teaspoon sugar"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Daniel's Sardine And Red Pepper Terrine"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n          \n                          FOR THE TERRINE:                          2 pounds fresh sardine fillets, (from about 4 pounds whole sardines) ***you can also use salmon fillets                          Salt                          Freshly ground white pepper                          1/4 cup extra-virgin olive oil                          8 leaves sage                          6 sprigs thyme                          4 sprigs rosemary                          4 garlic cloves, peeled and crushed                          3 pounds eggplant, trimmed, peeled, and cut into 1/2-inch thick slices (on the   bias)                          12 ounces piquillo or roasted red bell peppers                          40 pieces TOMATO CONFIT:                          3 tablespoons extra virgin olive oil                          Salt                          Freshly ground white pepper                          3 cloves garlic, peeled, split, germ removed and finely sliced                          10 basil leaves, torn                          4 sprigs thyme, leaves only                          2 bay leaves, broken                          20 ripe plum tomatoes, peeled                          1/4 to 1/2 teaspoon sugar                       \n        "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Yield:"
+    },
+    "@id": "http://example.org/recipe"
+}

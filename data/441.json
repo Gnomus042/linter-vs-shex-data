@@ -1,0 +1,124 @@
+{
+    "@type": "Recipe",
+    "articleBody": {
+        "@value": "\n                        \n                        \n\n\n\n\n        \n        \n\n\n\n    \n            \n                Ingredients\n                         200g packet pikelets (8), halved\n                         180g block Caramello chocolate, broken into pieces\n                         1 \u00bd cups milk\n                         \u00be cup thickened cream\n                         3 eggs\n                         \u00bd cup Hershey\u2019s Caramel Syrup \n                         Extra caramel syrup and vanilla ice-cream, to serve\n            \n\n        \n            Method\n            \n                \n                    Grease a 22cm round x 6cm deep, ovenproof dish (7-cup capacity).\u00a0\n                                        \n                \n                \n                    Arrange pikelets in a circle, slightly overlapping in prepared dish, placing half the chocolate in between the pikelets. Scatter over remaining chocolate.\u00a0\n                                        \n                \n                \n                    Combine milk and cream in a heatproof jug. Microwave on High (100%) for about 2 minutes, or until warm.\u00a0\n                                        \n                \n                \n                    Whisk eggs into syrup in a jug. Gradually whisk into warm milk mixture.\u00a0\n                                        \n                \n                \n                    Pour over pikelets. Sit dish in a large roasting pan. Pour enough boiling water into pan to come halfway up side of the dish.\u00a0\n                                        \n                \n                \n                    Cook in a moderately slow oven (160C) for about 35 minutes, or until custard is just set in the centre and top is golden and crisp. (Pudding should have a slight wobble once it\u2019s cooked.) Remove dish from water. Stand for 10 minutes.\u00a0\n                                        \n                \n                \n                    Drizzle over extra syrup. Serve with ice-cream. \u00a0\n                                        \n                \n            \n        \n    \n\n\n\n\n\n        \n        \n\n\n\n\n                    "
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Rebecca O\u2019Reilly "
+        },
+        "url": {
+            "@value": "/rebecca-o-reilly"
+        }
+    },
+    "cookTime": [
+        {
+            "@value": "PT35M"
+        },
+        {
+            "@value": "00:35:00"
+        }
+    ],
+    "dateModified": {
+        "@value": "2019-09-02T02:21:39.0000000Z"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2019-09-02"
+    },
+    "description": {
+        "@value": "\n                    Now this is one hell of a dessert! \n                    \n\n                            - by\n                            \n\n                                \n                                    Rebecca O\u2019Reilly \n                                    \n                                    \n                                \n\n                            \n                    \n                "
+    },
+    "headline": {
+        "@value": "Choc-Caramel Pikelet Pudding"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@value": "1000"
+        },
+        "representativeOfPage": {
+            "@value": "true"
+        },
+        "url": {
+            "@value": "/media/18928/add-a-little-bit-of-body-text-168.jpg"
+        },
+        "width": {
+            "@value": "1500"
+        }
+    },
+    "mainEntityOfPage": {
+        "@id": "https://www.newideafood.com.au/choc-caramel-pikelet-pudding//choc-caramel-pikelet-pudding"
+    },
+    "name": {
+        "@value": "Choc-Caramel Pikelet Pudding"
+    },
+    "prepTime": [
+        {
+            "@value": "PT10M"
+        },
+        {
+            "@value": "00:10:00"
+        }
+    ],
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:Nf332396f2ee94fa1ab539e94c3eec6d4"
+        },
+        "name": {
+            "@value": "New Idea Food"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@value": " \u00bd cup Hershey\u2019s Caramel Syrup "
+        },
+        {
+            "@value": " 3 eggs"
+        },
+        {
+            "@value": " \u00be cup thickened cream"
+        },
+        {
+            "@value": " 180g block Caramello chocolate, broken into pieces"
+        },
+        {
+            "@value": " Extra caramel syrup and vanilla ice-cream, to serve"
+        },
+        {
+            "@value": " 200g packet pikelets (8), halved"
+        },
+        {
+            "@value": " 1 \u00bd cups milk"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "\n                    Pour over pikelets. Sit dish in a large roasting pan. Pour enough boiling water into pan to come halfway up side of the dish.\u00a0\n                                        \n                "
+        },
+        {
+            "@value": "\n                    Drizzle over extra syrup. Serve with ice-cream. \u00a0\n                                        \n                "
+        },
+        {
+            "@value": "\n                    Arrange pikelets in a circle, slightly overlapping in prepared dish, placing half the chocolate in between the pikelets. Scatter over remaining chocolate.\u00a0\n                                        \n                "
+        },
+        {
+            "@value": "\n                    Cook in a moderately slow oven (160C) for about 35 minutes, or until custard is just set in the centre and top is golden and crisp. (Pudding should have a slight wobble once it\u2019s cooked.) Remove dish from water. Stand for 10 minutes.\u00a0\n                                        \n                "
+        },
+        {
+            "@value": "\n                    Whisk eggs into syrup in a jug. Gradually whisk into warm milk mixture.\u00a0\n                                        \n                "
+        },
+        {
+            "@value": "\n                    Combine milk and cream in a heatproof jug. Microwave on High (100%) for about 2 minutes, or until warm.\u00a0\n                                        \n                "
+        },
+        {
+            "@value": "\n                    Grease a 22cm round x 6cm deep, ovenproof dish (7-cup capacity).\u00a0\n                                        \n                "
+        }
+    ],
+    "recipeYield": {
+        "@value": "Serves 4-6"
+    },
+    "@id": "http://example.org/recipe"
+}

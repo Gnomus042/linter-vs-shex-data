@@ -1,0 +1,116 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "5.00"
+        },
+        "reviewCount": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://images.media-allrecipes.com/userphotos/50x50/3926653.jpg"
+        },
+        "name": {
+            "@value": "Carolyn Casner"
+        }
+    },
+    "description": {
+        "@value": "Apples contribute a touch of sweetness to a traditional cabbage slaw, and pecans give it a delicious crunchy finish. To save time, substitute 3 cups prepared coleslaw mix for the sliced cabbage and shredded carrots."
+    },
+    "image": {
+        "@value": "http://images.media-allrecipes.com/userphotos/960x960/5121291.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\u00bc cup coarsely chopped pecans or almonds, toasted"
+        },
+        {
+            "@value": "2 tablespoons cider vinegar"
+        },
+        {
+            "@value": "1 cup shredded carrot"
+        },
+        {
+            "@value": "\u00bc cup mayonnaise"
+        },
+        {
+            "@value": "2 cups thinly sliced green cabbage"
+        },
+        {
+            "@value": "\u00bc teaspoon ground pepper"
+        },
+        {
+            "@value": "\u00bc teaspoon salt"
+        },
+        {
+            "@value": "2 medium apples, julienned"
+        },
+        {
+            "@value": "1 tablespoon canola oil or avocado oil"
+        },
+        {
+            "@value": "1 teaspoon poppy seeds"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@value": "True"
+    },
+    "name": {
+        "@value": "Apple Slaw with Poppy Seed Dressing"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "98 calories;"
+        },
+        "carbohydrateContent": {
+            "@value": "7"
+        },
+        "cholesterolContent": {
+            "@value": "2"
+        },
+        "fatContent": {
+            "@value": "8"
+        },
+        "fiberContent": {
+            "@value": "2"
+        },
+        "proteinContent": {
+            "@value": "1"
+        },
+        "saturatedFatContent": {
+            "@value": "1"
+        },
+        "sodiumContent": {
+            "@value": "104"
+        },
+        "sugarContent": {
+            "@value": "5"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@value": "Salad"
+        },
+        {
+            "@value": "Dressing"
+        },
+        {
+            "@value": "Nutrient-Focused Diets"
+        },
+        {
+            "@value": "Low-Sodium"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        Whisk mayonnaise, vinegar, oil, poppy seeds, salt and pepper together in a large bowl. Add apples, cabbage and carrot; toss to coat. Serve sprinkled with pecans (or almonds).\n            "
+    },
+    "recipeYield": {
+        "@value": "10"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,12 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "es",
+        "@value": "\n24 febrero, 2015"
+    },
+    "name": {
+        "@language": "es",
+        "@value": "Agenda"
+    },
+    "@id": "http://example.org/recipe"
+}

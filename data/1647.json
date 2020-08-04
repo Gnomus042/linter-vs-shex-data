@@ -1,0 +1,93 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "3"
+        },
+        "ratingValue": {
+            "@value": "2.5"
+        }
+    },
+    "author": {
+        "@value": "Alletiders Kogebog"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2003-03-22"
+    },
+    "keywords": {
+        "@value": "Kylling i surs\u00f8d sauce, Opskrift, Alletiders, Kogebog"
+    },
+    "name": {
+        "@value": " Kylling i surs\u00f8d sauce "
+    },
+    "recipeCategory": {
+        "@value": "Hovedretter"
+    },
+    "recipeCuisine": {
+        "@value": "Ukendt oprindelsesland"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "3 dl. kyllingesuppe "
+        },
+        {
+            "@value": "  salt"
+        },
+        {
+            "@value": "1 fed hvidl\u00f8g "
+        },
+        {
+            "@value": "2 spsk. tomatpur\u00e9 "
+        },
+        {
+            "@value": "  peber "
+        },
+        {
+            "@value": "1/2 tsk. salt "
+        },
+        {
+            "@value": "1 pk. frossen kyllingebryst (500g) "
+        },
+        {
+            "@value": "1  l\u00f8g "
+        },
+        {
+            "@value": "  SAUCE: "
+        },
+        {
+            "@value": "3 tsk. olie "
+        },
+        {
+            "@value": "Null"
+        },
+        {
+            "@value": "1/2 glas Atjas Taug\u00e9 "
+        },
+        {
+            "@value": "1 tsk. ingef\u00e6r "
+        },
+        {
+            "@value": "1/2 tsk. sambal Manis "
+        },
+        {
+            "@value": "3 tsk. hvedemel "
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "Kyllingebrystet opt\u00f8s, og k\u00f8det sk\u00e6res fra benene. Benene kommes i en gryde med 3 dl vand og 1/2 tsk salt og koger i under l\u00e5g ca. 10 min. \n\nKyllingek\u00f8det sk\u00e6res i smalle strimler, der steges p\u00e5 en godt varn pande i olie. Stegetid: 3-4 min. Drysses med salt og tages fra varmen. Kyllingesuppen sies. L\u00f8g og hvidl\u00f8g sk\u00e6res i terninger og svitses i en gryde i olien. Melet drysses over, og der sp\u00e6des med kyllingesuppe. Tomatpur\u00e9, ingef\u00e6r og Sambal Manis tils\u00e6ttes, og saucen smages til med salt og peber. Kyllingek\u00f8det og Atjar Taug\u00e9 kommes i saucen og varmes igennem. \n Tips:Ajar Taug\u00e9 er b\u00f8nnespirer og r\u00f8d peber i lage."
+    },
+    "recipeYield": {
+        "@value": "8\u00a0"
+    },
+    "url": {
+        "title": {
+            "@value": "Kylling i surs\u00f8d sauce - opskrift - Alletiders Kogebog"
+        },
+        "item": {
+            "@id": "_:Nf1a57d5d480a450d80f5b6c4e0d9fe5b"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

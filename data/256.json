@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "da-DK",
+            "@value": "webmaster"
+        }
+    },
+    "datePublished": {
+        "@language": "da-DK",
+        "@value": "\n08/07/17"
+    },
+    "name": {
+        "@language": "da-DK",
+        "@value": "Sp\u00f8rgsm\u00e5l til Hjerteforeningen"
+    },
+    "@id": "http://example.org/recipe"
+}

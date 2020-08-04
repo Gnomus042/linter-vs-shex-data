@@ -1,0 +1,29 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.verybestbaking.com/recipes/30321/marshmallow-sandwich-cookies/?recipeBrand=tollhouse&recipeFoodType=100-pure-pumpkin~breads-muffins~butterscotch-flavored-morsels~chocolate-chip-cookie-dough~cookies~pies-tarts~pumpkin-pie-mix/Null"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "8  large marshmallows"
+        },
+        {
+            "@language": "en",
+            "@value": "1 pkg. (16.5 oz.) * NESTL\u00c9\u00ae TOLL HOUSE\u00ae Refrigerated Chocolate Chip Cookie Dough"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Marshmallow Sandwich Cookies"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\n                        PREPARE refrigerated cookie dough according to package directions. (If using dough from one batch Original cookie dough, make 16 cookies, baked 9 to 11 minutes.)  Cool on baking sheets on wire racks for 1 minute; remove to wire racks to cool completely.PLACE marshmallow on bottom side of one cookie.  Microwave on MEDIUM (50%) power for 10 to 20 seconds or until marshmallow expands.  Top with second cookie.  Cool for 1 to 2 minutes.  Repeat with remaining cookies and marshmallows.*NOTE: Or substitute dough from one batch Original NESTL\u00c9\u00ae TOLL HOUSE\u00ae Chocolate Chip Cookies (NESTL\u00c9\u00ae TOLL HOUSE\u00ae Semi-Sweet Chocolate Morsels 6-oz. pkg. recipe).\n\n                    "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n                            Makes\n                            8\n                            \n                            sandwich cookies\n                        "
+    },
+    "@id": "http://example.org/recipe"
+}

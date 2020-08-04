@@ -1,0 +1,96 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "itemReviewed": {
+            "@value": " Om\u00e1\u010dka Adlon "
+        },
+        "name": {
+            "@value": "Om\u00e1\u010dka Adlon"
+        },
+        "ratingCount": {
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@value": "5"
+        },
+        "worstRating": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@id": "http://www.milujivareni.cz/profil/52-jana-pavlova/#recipes"
+    },
+    "cookTime": {
+        "@value": "0 minut"
+    },
+    "description": {
+        "@value": "Om\u00e1\u010dka Adlon - c\u00edt\u00edte tu v\u016fni? Zkuste si uva\u0159it chu\u0165ovku podle receptu s fotkami. Za 20 minut pod\u00e1v\u00e1me. M\u00e1te hlad? Jdeme na to!"
+    },
+    "image": {
+        "@id": "http://cdn.milujivareni.cz/image/eyJ0eXBlIjoicmVjaXBlIiwiaW1hZ2VJZCI6IjAiLCJ0aHVtYiI6MX0=/omacka-adlon.jpg?ver=11"
+    },
+    "name": {
+        "@value": "Om\u00e1\u010dka Adlon"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "491 kcal"
+        },
+        "fatContent": {
+            "@value": "41 g"
+        }
+    },
+    "prepTime": {
+        "@value": "20 minut"
+    },
+    "recipeCuisine": {
+        "@id": "http://www.milujivareni.cz/recepty/3056-omacka-adlon//top-recepty/zeme-puvodu/evropa/"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "  100 ml   V\u00fdvar zeleninov\u00fd  "
+        },
+        {
+            "@value": "  1 k\u00e1vov\u00e1 l\u017ei\u010dka   Om\u00e1\u010dka s\u00f3jov\u00e1  "
+        },
+        {
+            "@value": "  1 ks    Citrony   "
+        },
+        {
+            "@value": "  2 ks    Vaje\u010dn\u00fd \u017eloutek slepi\u010d\u00ed   "
+        },
+        {
+            "@value": "  0,5 k\u00e1vov\u00e1 l\u017ei\u010dka    Ho\u0159\u010dice   "
+        },
+        {
+            "@value": "  1 \u0161petka    S\u016fl   "
+        },
+        {
+            "@value": "  1 k\u00e1vov\u00e1 l\u017ei\u010dka   Kavi\u00e1r  "
+        },
+        {
+            "@value": "  1 \u0161petka    Pep\u0159 \u010dern\u00fd mlet\u00fd   "
+        },
+        {
+            "@value": "  1 k\u00e1vov\u00e1 l\u017ei\u010dka   Sardelov\u00e1 pasta  "
+        },
+        {
+            "@value": "  1 pol\u00e9vkov\u00e1 l\u017e\u00edce    M\u00e1slo \u010derstv\u00e9   "
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "   1   Nejprve ut\u0159eme \u017eloutky s m\u00e1slem, 1 l\u017e\u00edc\u00ed citronov\u00e9 \u0161\u0165\u00e1vy, sol\u00ed a pep\u0159em. Vlo\u017e\u00edme do hork\u00e9 vodn\u00ed l\u00e1zn\u011b a \u0161leh\u00e1me, dokud sm\u011bs nezhoustne. Neva\u0159\u00edme. Pot\u00e9 vm\u00edch\u00e1me zeleninov\u00fd v\u00fdvar, odstav\u00edme a nech\u00e1me vychladnout.      2   P\u0159im\u00edch\u00e1me sardelovou pastu, s\u00f3jovou om\u00e1\u010dku, ho\u0159\u010dici a kavi\u00e1r. Om\u00e1\u010dku vychlad\u00edme.      3   Je vhodn\u00e1 ke studen\u00e9 pe\u010deni.   "
+    },
+    "recipeYield": {
+        "@value": "Null"
+    },
+    "totalTime": {
+        "@value": "20 minut"
+    },
+    "@id": "http://example.org/recipe"
+}

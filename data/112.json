@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "http://www.foodreporter.fr/user/index/id/101024"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2019-09-27"
+    },
+    "image": {
+        "@id": "http://www.foodreporter.fr/upload/original/1/r/k/b/r/1274701.jpg"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Tarte amandine aux figues de Conticini"
+    },
+    "recipeInstructions": {
+        "@language": "fr",
+        "@value": "\n                        la recette en cliquant sur le lien:\nhttps://www.aprendresansfaim.com/2019/09/tarte-amandine-aux-figues-de-conticini.html\n desserts tartes chefs figues amandes dessert patisserie recette\n                    "
+    },
+    "@id": "http://example.org/recipe"
+}

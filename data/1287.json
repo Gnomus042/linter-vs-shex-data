@@ -1,0 +1,91 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "TheSpicedLife"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Adapted from Victor Sodsook, David Thompson & Sompon Nabnian Serves 4-6"
+    },
+    "image": {
+        "@id": "http://3.bp.blogspot.com/_1O3aX8oSRho/SlbLR2MvueI/AAAAAAAADVw/u8Fo2eGMI4c/s400/IMG_7391-1.JPG"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 sweet bell pepper, thinly sliced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup red curry paste, see recipe below"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup loosely packed Thai or purple basil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2-4 T palm sugar (to taste, start with 2 and taste at end)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 14-oz can coconut milk, optional, depending on thickness of finished curry"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 bunch cleaned red grapes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2-3 T fish sauce (to taste, start with 2 and taste at end)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 pairs (6 total) kaffir lime leaves, de-veined"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 chicken leg/thigh pieces, roasted and shredded"
+        },
+        {
+            "@language": "en-US",
+            "@value": "approx. 4 cups eggplant or summer squash of choice, cut into bite sized chunks"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 19-oz can coconut milk cream separated from water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 small pineapple, peeled, cored and cut into sections"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Thai Red Curry With Roasted Chicken"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Entree"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Thai"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Before serving, check for salty and sweet (sugar and fish sauce) or more coconut milk if it sounds good to you (just coconut water to make it thinner, cream and water to make it milder) and add the basil leaves (whole) and grapes. Remove the kaffir lime leaves if desired before serving--but I leave them in so they can flavor the leftovers. Serve with jasmine rice and chopped hot green chilies in fish sauce (which you see sprinkled on the curries here) for anyone who likes more heat."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add the rest of the 19-oz can of coconut milk (reserving the 14-oz can to see if you want additional coconut milk) and fish sauce and kaffir lime leaves. Add the pineapple, sweet bell pepper and eggplant and/or summer squash. Simmer, stirring occasionally, for 5 minutes. Add the roasted shredded chicken. At this point the sauce can barely simmer for as long as you want it to, stirring occasionally. The longer the flavors have to meld the better---leftovers are always great."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Remove the cream from the top of the 19-oz can of coconut milk (Mae Ploy makes a good one). Heat a large pot over medium heat and add the thick coconut cream. Fry, stirring, until the oil begins to separate from the cream. Add the curry paste and fry for 5 minutes, until the oil has once again separated from the cream and it is quite fragrant, stirring frequently. Add the palm sugar (light brown sugar subs ok) and stir."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

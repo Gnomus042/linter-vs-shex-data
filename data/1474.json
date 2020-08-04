@@ -1,0 +1,73 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "pl",
+            "@value": "oprac. Katarzyna Gileta"
+        }
+    },
+    "cookingMethod": [
+        {
+            "@id": "https://kuchnia.wp.pl/jak-przyrzadzic-szparagi-pomysl-na-makaron-ze-szpatagami-i-lososiem-6379098593162881c//gotowanie-6425767594010241c"
+        },
+        {
+            "@id": "https://kuchnia.wp.pl/jak-przyrzadzic-szparagi-pomysl-na-makaron-ze-szpatagami-i-lososiem-6379098593162881c//smazenie-6427991792023681c"
+        }
+    ],
+    "description": {
+        "@language": "pl",
+        "@value": "Sezon na szparagi jest kr\u00f3tki. W sklepach i na bazarkach ju\u017c mo\u017cemy znale\u017a\u0107 te pyszne warzywa. Jak przyrz\u0105dzi\u0107 szparagi? Pomys\u0142\u00f3w na dania ze szparagami jest mn\u00f3stwo. Tym razem polecamy makaron w kremowym sosie. "
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "pl",
+            "@value": "1033"
+        },
+        "url": {
+            "@language": "pl",
+            "@value": "https://d.wpimg.pl/823477446-579080523/szparagi-przepis.jpg"
+        },
+        "width": {
+            "@language": "pl",
+            "@value": "1571"
+        }
+    },
+    "keywords": {
+        "@id": "https://kuchnia.wp.pl/jak-przyrzadzic-szparagi-pomysl-na-makaron-ze-szpatagami-i-lososiem-6379098593162881c//kluski-6428698658240641c"
+    },
+    "name": {
+        "@language": "pl",
+        "@value": "Jak przyrz\u0105dzi\u0107 szparagi? Pomys\u0142 na makaron ze szparagami i \u0142ososiem"
+    },
+    "recipeCategory": {
+        "@id": "https://kuchnia.wp.pl/jak-przyrzadzic-szparagi-pomysl-na-makaron-ze-szpatagami-i-lososiem-6379098593162881c//makarony-6428719865849473c"
+    },
+    "recipeCuisine": {
+        "@id": "https://kuchnia.wp.pl/jak-przyrzadzic-szparagi-pomysl-na-makaron-ze-szpatagami-i-lososiem-6379098593162881c//kuchnia-polska-6425768184674433c"
+    },
+    "recipeIngredient": [
+        {
+            "@id": "https://kuchnia.wp.pl/jak-przyrzadzic-szparagi-pomysl-na-makaron-ze-szpatagami-i-lososiem-6379098593162881c//makaron-6428685263407233c"
+        },
+        {
+            "@id": "https://kuchnia.wp.pl/jak-przyrzadzic-szparagi-pomysl-na-makaron-ze-szpatagami-i-lososiem-6379098593162881c//szparagi-6428951870789761c"
+        },
+        {
+            "@id": "https://kuchnia.wp.pl/jak-przyrzadzic-szparagi-pomysl-na-makaron-ze-szpatagami-i-lososiem-6379098593162881c//losos-6428685180590209c"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "pl",
+        "@value": "PrzepisSzparagi przep\u0142uka\u0107, od\u0142ama\u0107 zdrewnia\u0142e ko\u0144c\u00f3wki, a nast\u0119pnie pokroi\u0107 na mniejsze kawa\u0142ki. Cz\u0119\u015b\u0107 kwiatow\u0105 warzywa nale\u017cy zostawi\u0107 d\u0142u\u017csz\u0105 (ok. 3 cm). Makaron ugotowa\u0107 al dente wed\u0142ug instrukcji na opakowaniu. W tym czasie rozgrza\u0107 na patelni oliw\u0119 i mas\u0142o, doda\u0107 czosnek i sma\u017cy\u0107 minut\u0119. Nast\u0119pnie doda\u0107 szalotk\u0119 i sma\u017cy\u0107 kolejne 3 minuty. Doda\u0107 szparagi i wszystko razem sma\u017cy\u0107 oko\u0142o 3-5 minut (nale\u017cy zwr\u00f3ci\u0107 uwag\u0119 na szparagi, kt\u00f3re lekko chrupi\u0105ce, a nie przesma\u017cone). Gdy szparagi b\u0119d\u0105 odpowiednio mi\u0119kkie,  nale\u017cy wla\u0107 \u015bmietank\u0119 i doda\u0107 podzielonego na kawa\u0142ki \u0142ososia. Gotowa\u0107, a\u017c sos zg\u0119stnieje. Na koniec dodajemy makaron i delikatnie mieszamy. Na talerzu posypujemy serem. "
+    },
+    "recipeYield": {
+        "@language": "pl",
+        "@value": "1-2"
+    },
+    "suitableForDiet": {
+        "@id": "https://kuchnia.wp.pl/jak-przyrzadzic-szparagi-pomysl-na-makaron-ze-szpatagami-i-lososiem-6379098593162881c//dieta-wegetarianska-6433887775409793c"
+    },
+    "@id": "http://example.org/recipe"
+}

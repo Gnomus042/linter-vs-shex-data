@@ -1,0 +1,23 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "it-IT",
+        "@value": "\t\nPasta integrale con pomodorini confit agretti e caprino.\nIeri ho provato la linea Bio di Granoro che oltre ad essere una pasta integrale \u00e8 anche biologica!\nCosa posso chiedere di pi\u00f9?\nCome sempre Granoro punta l\u2019attenzione sul consumatore finale e sull\u2019ambiente.\nGestisce il controllo di tutta la filiera partendo dalla coltivazione nei campi fino al processo produttivo presso il pastificio.\nIn questa ricetta ho utilizzato pochi e semplici ingredienti, facili da reperire in questo periodo, che ne esaltano le caratteristiche organolettiche.\nSiete curiosi anche voi di provarla?\n\nPasta integrale con pomodorini confit agretti e caprino\nIngredienti:\n\n250 gr di Rustiche Linea Bio Granoro\n80 gr di caprino\ncirca 20 pomodorini confit (q.b.) clicca qui per la ricetta\n180 gr di agretti\nolio extra vergine di oliva\nsale\npepe\nmet\u00e0 scalogno\n1 cucchiaio di formaggio frattugiato\nPreparazione:\nMondiamo gli agretti eliminando la parte della radice.\nLaviamoli bene sotto l\u2019acqua corrente cos\u00ec da eliminare tutte le impurit\u00e0 di terreno\nLessiamo gli agretti in abbondate acqua salata.\nCon una forchetta schiacciamo il caprino.\nCuociamo la pasta in acqua e sale.\nIn una padella scaldiamo un filo di olio con met\u00e0 scalogno\nSaltiamo all\u2019 interno gli agretti e 10/15 pomodorini confit\nAggiungiamo il caprino e un mestolo di acqua di cottura.\nPreleviamo la pasta al dente e continuiamo a cuocerla in padella.\nNon appena cotta, la togliamo dal fuoco, spolveriamo con 1 solo cucchiaio di formaggio grattugiato e leghiamo tutti gli ingredienti.\nSistemiamo nei piatti e condiamo ancora con un filo di olio e pomodorini confit.\n\n\n\n\n\n"
+    },
+    "image": {
+        "@id": "https://www.mieledilavanda.it/wp-content/uploads/2018/03/Pasta-integrale-con-pomodorini-confit-agretti-e-caprino_s.jpg"
+    },
+    "ingredients": {
+        "@language": "it-IT",
+        "@value": "\n\n\n    \n\t\n \n\t\n\t \n\n\t\n  \n\n \t\t\t\n\t\t\t\t Porzioni : \n\t\t\t\t 4  \n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t  Pronta in :\t\t\t\t  40 Minuti  \n\t\t\t\n\t\t\t\n\n\n\n\nCategoria Ricetta :Primi piatti\n\n Ingredient : agretti, caprino, pasta integrale\n\n\n\n\n"
+    },
+    "name": {
+        "@language": "it-IT",
+        "@value": "Pasta integrale con pomodorini confit agretti e caprino"
+    },
+    "recipeInstructions": {
+        "@language": "it-IT",
+        "@value": "\n  \n\n \t\t\t\n\t\t\t\t Porzioni : \n\t\t\t\t 4  \n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t  Pronta in :\t\t\t\t  40 Minuti  \n\t\t\t\n\t\t\t\n\n\n\n\nCategoria Ricetta :Primi piatti\n\n Ingredient : agretti, caprino, pasta integrale\n\n\n\n"
+    },
+    "@id": "http://example.org/recipe"
+}

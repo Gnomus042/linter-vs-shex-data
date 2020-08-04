@@ -1,0 +1,137 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Emily Bartlett"
+    },
+    "cookTime": {
+        "@value": "PT7H30M"
+    },
+    "datePublished": {
+        "@value": "2016-08-22"
+    },
+    "description": {
+        "@value": "Slow cooked in a robust sauce, this Lamb Korma is tender and juicy. \u00a0Serve over cauliflower rice for an easy but satisfying\u00a0meal."
+    },
+    "image": {
+        "@value": " https://realplans.com/wp-content/uploads/2016/07/RealPlans-RECIPES-Lamb-Korma.png"
+    },
+    "name": {
+        "@value": " Lamb Korma"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": " 853 "
+        },
+        "carbohydrateContent": {
+            "@value": " 33g "
+        },
+        "cholesterolContent": {
+            "@value": " 146mg "
+        },
+        "fatContent": {
+            "@value": " 51g "
+        },
+        "fiberContent": {
+            "@value": " 6g "
+        },
+        "proteinContent": {
+            "@value": " 56g "
+        },
+        "saturatedFatContent": {
+            "@value": " 31g "
+        },
+        "sodiumContent": {
+            "@value": " 1924mg "
+        },
+        "sugarContent": {
+            "@value": " 11g "
+        }
+    },
+    "prepTime": {
+        "@value": "PT30M"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 tbsp. curry powder"
+        },
+        {
+            "@value": "1 c raw cashews"
+        },
+        {
+            "@value": "2 tbsp. paprika"
+        },
+        {
+            "@value": "1 can coconut milk"
+        },
+        {
+            "@value": "2 lb lamb stew meat"
+        },
+        {
+            "@value": "1 tbsp. garam masala"
+        },
+        {
+            "@value": "5 cloves garlic"
+        },
+        {
+            "@value": "1/2 tsp. fresh ground black pepper"
+        },
+        {
+            "@value": "1 onion"
+        },
+        {
+            "@value": "1 tsp. cardamom"
+        },
+        {
+            "@value": "1 tbsp. raw honey"
+        },
+        {
+            "@value": "14 oz diced tomatoes"
+        },
+        {
+            "@value": "2 inches ginger"
+        },
+        {
+            "@value": "2 tbsp. coconut oil"
+        },
+        {
+            "@value": "1 tsp. ground cumin"
+        },
+        {
+            "@value": "1 tbsp. coarse sea salt, plus more to taste"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N8df48ee59b334e26bd8da72b45054b4c"
+        },
+        {
+            "@id": "_:N226e865ae1c54ee986df79fa6dd425c5"
+        },
+        {
+            "@id": "_:N675e0a82028448279239e46abd04bff8"
+        },
+        {
+            "@id": "_:Nb3e3a5d3b4184a25b7af89b1ec5fd54e"
+        },
+        {
+            "@id": "_:N7cee5ded53b4402b9f91ef58657c015e"
+        },
+        {
+            "@id": "_:Nb3596e4b7b5043e8a01861479b51f59d"
+        }
+    ],
+    "recipeYield": {
+        "@value": " 4 "
+    },
+    "servingSize": {
+        "@value": " 1 "
+    },
+    "totalTime": {
+        "@value": "PT8H"
+    },
+    "url": {
+        "@value": "https://realplans.com/dairy-free-meal-plans/recipes/lamb-korma/"
+    },
+    "@id": "http://example.org/recipe"
+}

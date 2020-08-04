@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.4"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "724"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "Helen Gilbert"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT6H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n\t\t\n\t\t        This Collection Of Contemporary Postcolonial Plays Demonstrates The Extraordinary Vitality Of A Body Of Work That Is Currently Influencing The Shape Of Contemporary World Theatre This Anthology Encompasses Both Internationally Admired Classics And Previously Unpublished Texts, All Dealing With Imperialism And Its Aftermath It Includes Work From Canada, The Carribean, South And West Africa, Southeast Asia, India, New Zealand And Australia A General Introduction Outlines Major Themes In Postcolonial Plays Introductions To Individual Plays Include Information On Authors As Well As Overviews Of Cultural Contexts, Major Ideas And Performance History.Dramaturgical Techniques In The Plays Draw On Western Theatre As Well As Local Performance Traditions And Include Agit Prop Dialogue, Musical Routines, Storytelling, Ritual Incantation, Epic Narration, Dance, Multimedia Presentation And Puppetry The Plays Dramatize Diverse Issues, Such As Globalization Political Corruption Race And Class Relations Slavery Gender And Sexuality Media Representation Nationalism [Ebook] \u21a0 Fisica 1 - Principios y Problemas  Author Paul W. Zitzewitz \u2013 Videoelemental.co.uk All Dealing With Imperialism And Its Aftermath It Includes Work From Canada [Ebook] \u27a8 The Beautiful Disruption  \u27ae G.G. Renee Hill \u2013 Videoelemental.co.uk The Carribean [Ebook] Games Rednecks Play  By Jeff Foxworthy \u2013 Videoelemental.co.uk South And West Africa !!> Reading \u27b3 The Magic Cottage  \u27ac Author James Herbert \u2013 Videoelemental.co.uk Southeast Asia !!> KINDLE \u2765 Practical Object-Oriented Design in Ruby: An Agile Primer (Addison-Wesley Professional Ruby Series) 1, Sandi Metz, eBook - Amazon.com \u2746 Auteur Sandi Metz \u2013 Videoelemental.co.uk India !!> BOOKS \u2739 Eski Yunanca - T\u00fcrk\u00e7e S\u00f6zl\u00fck  \u272f Author G\u00fcler \u00c7elgin \u2013 Videoelemental.co.uk New Zealand And Australia A General Introduction Outlines Major Themes In Postcolonial Plays Introductions To Individual Plays Include Information On Authors As Well As Overviews Of Cultural Contexts [ Epub ] \u279d Dont Leave Me Alone  Author GG \u2013 Videoelemental.co.uk Major Ideas And Performance History.Dramaturgical Techniques In The Plays Draw On Western Theatre As Well As Local Performance Traditions And Include Agit Prop Dialogue [Ebook] I Won a Spaceship  By Harrison Park \u2013 Videoelemental.co.uk Musical Routines \u27be The Black Mask Boys  Download \u27b9 Author William F. Nolan \u2013 Videoelemental.co.uk Storytelling [Ebook] \u27a8 Born to Ride (Sons of Chaos MC,  \u27ae Eva Grace \u2013 Videoelemental.co.uk Ritual Incantation [Epub] \u27a4 Evangelical Hermeneutics And The New Testament Use Of The Old Testament  \u27a5 Rynold D Dean \u2013 Videoelemental.co.uk Epic Narration  \u2601 May and Amy  Author Josceline Dimbleby \u2013 Videoelemental.co.uk Dance [ PDF / Epub ] \u2606 The Tale of Miss Berta London  Author Jihan Latimer \u2013 Videoelemental.co.uk Multimedia Presentation And Puppetry The Plays Dramatize Diverse Issues \u279b personality development  free download \u27a0 Author rajiv k mishra \u2013 Videoelemental.co.uk Such As Globalization Political Corruption Race And Class Relations Slavery Gender And Sexuality Media Representation Nationalism \t\t"
+    },
+    "image": {
+        "@id": "http://www.videoelemental.co.uk/wp-content/upload/2017/21fe45f7564ee0a3c0b2f63a4a105002i0bef08da0169ac4bc932b2ddd09e7a60gr-assets0bef08da0169ac4bc932b2ddd09e7a60com/images/S/compressed0bef08da0169ac4bc932b2ddd09e7a60photo0bef08da0169ac4bc932b2ddd09e7a60goodreads0bef08da0169ac4bc932b2ddd09e7a60com/books/1174674658l/4290010bef08da0169ac4bc932b2ddd09e7a60_SX318_0bef08da0169ac4bc932b2ddd09e7a60jpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "724"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "explained Postcolonial Plays  Text Kindle, files Postcolonial Plays , read online Postcolonial Plays , free Postcolonial Plays , free Postcolonial Plays , Postcolonial Plays "
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Postcolonial Plays "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "explained Postcolonial Plays  Text Kindle \u27bd This Collection Of Contemporary Postcolonial Plays Demonstrates The Extraordinary Vitality Of A Body Of Work That Is Currently Influencing The Shape Of Contemporary World Theatre This Anthology Encompasses Both Internationally Admired Classics And Previously Unpublished Texts, All Dealing With Imperialis."
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT36M"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "book"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "explained Postcolonial Plays  Text Kindle \u27bd This Collection Of Contemporary Postcolonial Plays Demonstrates The Extraordinary Vitality Of A Body Of Work That Is Currently Influencing The Shape Of Contemporary World Theatre This Anthology Encompasses Both Internationally Admired Classics And Previously Unpublished Texts, All Dealing With Imperialis."
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "Postcolonial Plays "
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://www.videoelemental.co.uk/wp-content/upload/2017/21fe45f7564ee0a3c0b2f63a4a105002i0bef08da0169ac4bc932b2ddd09e7a60gr-assets0bef08da0169ac4bc932b2ddd09e7a60com/images/S/compressed0bef08da0169ac4bc932b2ddd09e7a60photo0bef08da0169ac4bc932b2ddd09e7a60goodreads0bef08da0169ac4bc932b2ddd09e7a60com/books/1174674658l/4290010bef08da0169ac4bc932b2ddd09e7a60_SX318_0bef08da0169ac4bc932b2ddd09e7a60jpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2018-01-14T09:42+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

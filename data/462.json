@@ -1,0 +1,55 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Philadelphia Brand Cream Cheese, 1951"
+    },
+    "image": {
+        "@id": "http://www.midcenturymenu.com/wp-content/uploads/2014/12/IMG_9790-630x420.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 3oz pkg cream cheese"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Dash of salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups sifted confectioner's sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup chopped pecans"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 1-oz squares of unsweetened chocolate, melted"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc tsp vanilla"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Chocolate Philly Fudge"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Add vanilla salt and chopped pecans and mix until well blended."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place cream cheese in a bowl; cream it until soft and smooth. Slowly blend the sugar into it. Add the melted chocolate. Mix well."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Press into a well-greased, shallow pan. Place in refrigerator until firm (about 15 mins). Cut into squares."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

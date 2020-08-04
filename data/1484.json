@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "nl",
+        "@value": "Fast & Efficient Electronical Components Co.,Ltd"
+    },
+    "brand": {
+        "@language": "nl",
+        "@value": "vnv.me"
+    },
+    "image": {
+        "@language": "nl",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB19yPxQVXXXXa8XXXXq6xXFXXXJ/Freeshipping-Vijf-baksteen-reputatie-ZSP3806-003G-500BZ3-12-24E-Rip-encoder-REP.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "nl",
+            "@value": "32808448263"
+        },
+        {
+            "@language": "nl",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Freeshipping Vijf baksteen reputatie ZSP3806-003G-500BZ3-12-24E Rip encoder REP"
+    },
+    "@id": "http://example.org/recipe"
+}

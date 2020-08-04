@@ -1,0 +1,42 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "\u00bd cup all-purpose flour"
+        },
+        {
+            "@language": "en",
+            "@value": "1 pint fresh blueberries"
+        },
+        {
+            "@language": "en",
+            "@value": "1 \u00bc cups milk"
+        },
+        {
+            "@language": "en",
+            "@value": "2/3 cup white sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1 pinch salt"
+        },
+        {
+            "@language": "en",
+            "@value": "3 large eggs"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tablespoon vanilla extract"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Chef John's Blueberry Clafoutis"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "1. Preheat oven to 425 degrees F (220 degrees C). Generously butter a 2 1/2-quart baking dish.\n2. Pour blueberries into prepared baking dish.\n3. Blend milk, sugar, flour, eggs, vanilla extract, and salt in a blender until batter is smooth. Pour batter over blueberries and gently shake to remove a..."
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,52 @@
+{
+    "@type": "Recipe",
+    "copyrightHolder": {
+        "@language": "en-US",
+        "@value": "Printed from Crumbs and Chaos (www.crumbsandchaos.net)"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "Null"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Tablespoons MINI CHOCOLATE CHIPS\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/4 cup MILK\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "pinch of SALT\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/3 cup BROWN SUGAR, packed\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon VANILLA\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Cookie Dough Popsicles"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Place 1/2 teaspoon of chocolate chips in the bottom of each popsicle mold.  Top with milk mixture.  Insert sticks and place in freezer.  Freeze until solid, at least 3 hours.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a glass measuring cup, microwave milk for 30 seconds or until warm to the touch.  Add brown sugar and salt and stir until dissolved.  Add vanilla.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "To release popsicles, run under warm water for 20 to 30 seconds .  ENJOY!!  Makes 4 to 6 pops depending on the mold size."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "nl",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "nl",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "nl",
+            "@value": "Null"
+        }
+    },
+    "datePublished": {
+        "@language": "nl",
+        "@value": "2014-01-12 22:13:14"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Een koekjesbodem bedekt met zalvige caramel, banaan en slagroom maken samen een heerlijke taart. Speciaal voor een verjaardag of gewoon omdat je zin hebt in taart."
+    },
+    "image": {
+        "@id": "https://i2.wp.com/www.bakkenzoalsoma.nl/wp-content/uploads/2014/01/banoffee-pie-19-150x100.jpg?resize=150%2C100"
+    },
+    "ingredients": [
+        {
+            "@language": "nl",
+            "@value": "1 eetlepel bloem"
+        },
+        {
+            "@language": "nl",
+            "@value": "1 eetlepel cacao"
+        },
+        {
+            "@language": "nl",
+            "@value": "18 digestive koekjes"
+        },
+        {
+            "@language": "nl",
+            "@value": "2 eidooiers"
+        },
+        {
+            "@language": "nl",
+            "@value": "150 gram boter, gesmolten"
+        },
+        {
+            "@language": "nl",
+            "@value": "1 verkruimeld digestive koekje"
+        },
+        {
+            "@language": "nl",
+            "@value": "1 blik Dulce de Leche Caramel"
+        },
+        {
+            "@language": "nl",
+            "@value": "4 rijpe bananen"
+        },
+        {
+            "@language": "nl",
+            "@value": "50 gram suiker"
+        },
+        {
+            "@language": "nl",
+            "@value": "250 ml slagroom"
+        },
+        {
+            "@language": "nl",
+            "@value": "250 ml melk"
+        },
+        {
+            "@language": "nl",
+            "@value": "1 vanillestokje (dit kan je vervangen door 1 theelepel vanille-extract)"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Banoffee pie"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "nl",
+            "@value": "\t\t\t\tZet alvast een grote platte schaal klaar.\t\t\t\tDoe de melk en vanille in steelpannetje. Breng dit aan de kook. Als het kookpunt is bereikt zet je het vuur lager. Roer af en toe rustig door de kokende melk. Laat de melk nog 5 minuten zachtjes doorkoken.\t\t\t\tKlop intussen de eidooiers en suiker samen. Het eimengsel moet een luchtige custardkleurige cr\u00e8me worden.\t\t\t\tVoeg de bloem toe. Roer de bloem door het eimengsel.\t\t\t\tGiet vervolgens de melk al roerend op het eimengsel. Schenk alles terug in de pan. Laat nu 5 minuten zachtjes koken. Blijf de room zachtjes roeren terwijl het op het vuur staat.\t\t\t\tGiet de room nu in de grote platte schaal. Dek de room af met een stuk plastic folie. Dit voorkomt velvorming op de room. Zet de banketbakkersroom nu in de koelkast om volledig af te koelen.\t\t\t"
+        },
+        {
+            "@language": "nl",
+            "@value": "\t\t\t\tKlop de 250 ml slagroom stijf met een beetje suiker. Zet het in de koelkast.\t\t\t"
+        },
+        {
+            "@language": "nl",
+            "@value": "\t\t\t\tVerwarm de oven voor op 180 C\t\t\t\tVerkruimel de koekjes. Doe de koekjes in een plastic boterhamzak. Plet met een glas de koekjes tot er fijne kruimels ontstaan. Je kunt hiervoor ook de hakfunctie van een keukenmachine voor gebruiken.\t\t\t\tSmelt de boter in een steelpan. Meng de gesmolten boter met de koekkruimels.\t\t\t\tBekleed een ronde bakvorm (24 cm) met bakpapier. Doe het koekjesmengsel in de met bakpapier beklede bakvorm. Druk het koekjesmengsel met de achterkant van een lepel goed aan. Zorg ervoor dat je rand hebt van ongeveer 1,5 cm.\t\t\t\tBak de bodem in 12 minuten in de oven op 180 C.\t\t\t\tHaal de bodem uit de oven. Laat de bodem helemaal afkoelen.\t\t\t"
+        },
+        {
+            "@language": "nl",
+            "@value": "\t\t\t\tAls de bodem en de banketbakkersroom helemaal zijn afgekoeld kan je de taart gaan opmaken.\t\t\t\tSnijd de bananen in plakjes. Leg de plakjes op de afgekoelde koekbodem.\t\t\t\tSmeer een laag karamel bovenop de laag bananenplakjes. Zorg ervoor de dat hele bodem bedekt is met karamel.\t\t\t\tNeem de banketbakkersroom uit de koelkast. Smeer de banketbakkersroom boven op de karamellaag. Het smeren van de room gaat het makkelijkst met een spatel of de achterkant van een lepel.\t\t\t\tZet de taart nu 10 minuten in de koelkast.\t\t\t\tHaal na de 10 minuten de taart en de slagroom uit de koelkast. Smeer de slagroom bovenop de laag banketbakkersroom.\t\t\t\tBesprenkel de bovenkant van de taart met de koekkruimels. Zeef de cacao vervolgens over de taart heen. Zet de taart terug in de koelkast. Laat de taart nog minstens een uur afkoelen in de koelkast voor het serveren.\t\t\t"
+        },
+        {
+            "@language": "nl",
+            "@value": "Null"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

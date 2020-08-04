@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Olive@LatestRecipes.net"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "garlic, lots of it ( 1 head), minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 big knob ginger"
+        },
+        {
+            "@language": "en-US",
+            "@value": "sea salt and ground black ppper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "sesame seed oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "500g fish fillet, cut into serving pieces"
+        },
+        {
+            "@language": "en-US",
+            "@value": "snow peas"
+        },
+        {
+            "@language": "en-US",
+            "@value": "evoo"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tablespoons mirin"
+        },
+        {
+            "@language": "en-US",
+            "@value": "chili flakes, optional"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon soysauce"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Garlic Fish Fillet and Snow Peas"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Seafood, fish fillet"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Spoon garlic out of the pan. Add water \u2153 - \u00bd cup of water to the pan; let it boil then add fish fillet including the marinade liquid, add chill flakes. Let it boil then lower heat to simmer; when water is reduced to half, add the snow peas."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Let cook for one more minute before tasting; adjust seasoning according to taste; turn off heat and plate and serve. Enjoy!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Meanwhile, heat some olive oil and sesame oil; saut\u00e9 minced garlic until well-browned."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Put fish fillet into a bowl, season with sea salt and black pepper. Grate ginger and squeeze out the juice onto a small bowl; add the ginger pulp to the fish fillet. Combine ginger juice, mirin and soy sauce. Pour the mixture on the fish fillet to marinate it."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

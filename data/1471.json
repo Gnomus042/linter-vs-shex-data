@@ -1,0 +1,98 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "no",
+        "@value": "2016-10-18"
+    },
+    "description": {
+        "@language": "no",
+        "@value": "Pizzabunnen trenger ikke alltid v\u00e6re av den tradisjonelle typen. Pr\u00f8v en utmerket variasjon med polentabunn, glutenfri og full av smak, noe som gj\u00f8r den til en perfekt seng for sesongens gr\u00f8nnsaker.\n"
+    },
+    "image": {
+        "@language": "no",
+        "@value": "https://cdn-rdb.arla.com/apetina-no/polenta-pizza/3206273576.jpg?crop=(0,0,-734,0)&w=2000&h=1500&mode=crop&transform=downfill&quality=80&ak=1ea0b694&hm=c08dadf2"
+    },
+    "name": {
+        "@language": "no",
+        "@value": "Polenta-pizza"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "no",
+            "@value": "2,5 dl  polenta "
+        },
+        {
+            "@language": "no",
+            "@value": "1 ss t\u00f8rket  oregano "
+        },
+        {
+            "@language": "no",
+            "@value": "1 ss  olivenolje "
+        },
+        {
+            "@language": "no",
+            "@value": "6 dl  gr\u00f8nnsaksbuljong "
+        },
+        {
+            "@language": "no",
+            "@value": "1  l\u00f8k "
+        },
+        {
+            "@language": "no",
+            "@value": "1 ts  hvitl\u00f8kspulver "
+        },
+        {
+            "@language": "no",
+            "@value": "250 g fersk  spinat "
+        },
+        {
+            "@language": "no",
+            "@value": "\n                            150 g \n                            Apetina\u00ae Cooking Cheese Slice\n                            \n                        "
+        },
+        {
+            "@language": "no",
+            "@value": "1 ss t\u00f8rket  basilikum "
+        },
+        {
+            "@language": "no",
+            "@value": "150 g  Apetina\u00ae Kremost Hvitl\u00f8k & Urter "
+        },
+        {
+            "@language": "no",
+            "@value": "10  cherrytomater "
+        },
+        {
+            "@language": "no",
+            "@value": "6  sjampinjong "
+        },
+        {
+            "@language": "no",
+            "@value": "1 ts  salt "
+        },
+        {
+            "@language": "no",
+            "@value": "2 ss  Apetina\u00ae Kremost Lett Naturell "
+        },
+        {
+            "@language": "no",
+            "@value": "  salt og pepper "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "no",
+        "@value": "\n                            \nI motsetning til andre pizzabunner jeg har pr\u00f8vd er denne rask og enkel \u00e5 lage. Bare lag en polentagr\u00f8t og krydre den godt.  Ha den utover et bakepapir og stek den f\u00f8rst for seg selv slik at den holder p\u00e5 fyllet uten \u00e5 bli altfor myk. Det beste med denne bunnen er smaken og i tillegg kan du jo variere fyllet etter eget \u00f8nske. \n                                Fremgangsm\u00e5te\n                            \nLag bunnen. Kok opp gr\u00f8nnsaksbuljong og pisk inn polentaen. Tilsett resten av ingrediensene, og fortsett \u00e5 r\u00f8re til det er tykt og kremet, cirka 3\u20135 minutter.\n\n                            \nSett til avkj\u00f8ling og deretter i kj\u00f8leskapet i \u00bd time. Ha den utover p\u00e5 et bakepapir i et cirka 1 cm tykt lag. Stek polentabunnen p\u00e5 220 \u00b0 i 20\u201325 minutter, til kanten begynner \u00e5 bli spr\u00f8.\n\n                            \nSkrell og hakk l\u00f8ken, samt skj\u00e6r soppen i tynne skiver. Fres l\u00f8k og sopp i olivenolje i 2\u20133 minutter, tilsett s\u00e5 spinat og la den koke til den faller sammen. Smak til med salt og pepper.\n\n                            \nSm\u00f8r kremost p\u00e5 toppen av den lett avkj\u00f8lte polentabunnen. Topp det hele med sautert spinat. Del cherrytomatene i to og skj\u00e6r osten i terninger.  Legg dette p\u00e5 toppen av pizzaen. Stekes i ovnen p\u00e5 220\u00b0 i 10 minutter, og serveres rett fra ovnen. \n                    "
+    },
+    "recipeYield": {
+        "@language": "no",
+        "@value": "Porsjoner: 12"
+    },
+    "totalTime": {
+        "@language": "no",
+        "@value": "PT1H10M"
+    },
+    "url": {
+        "@language": "no",
+        "@value": "https://www.apetina.com/no/oppskrifter/polenta-pizza/"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,42 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@value": "2014-12-18 11:48:24"
+    },
+    "image": {
+        "@id": "https://recetasdecocinafaciles.net/wp-content/uploads/2014/12/papas-con-salsa-de-aj\u00ed.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1 piment fort, de pr\u00e9f\u00e9rence sans veines et les graines"
+        },
+        {
+            "@value": "1/2 Tasse de cr\u00e8me \u00e9paisse, fouetter, 125 grammes"
+        },
+        {
+            "@value": "1 cuill\u00e8re \u00e0 soupe citron jus"
+        },
+        {
+            "@value": "4 pommes de terre moyennes et 1 petit, autour de 1 kilo"
+        },
+        {
+            "@value": "1 1/2 Fromage blanc, demi-dure, en bits"
+        },
+        {
+            "@value": "1 cuill\u00e8re \u00e0 caf\u00e9 de sel."
+        },
+        {
+            "@value": "4 tasses d\u2019eau et 1 cuill\u00e8re \u00e0 caf\u00e9 de sel pour la cuisson des pommes de terre \u2022 3/4 huile de coupe"
+        },
+        {
+            "@value": "1 Petits filets de poivre \u2022 patate douce vis\u00e9 ci-dessus, cuit et client"
+        }
+    ],
+    "name": {
+        "@value": "Pommes de terre avec sauce chili (Chorreadas pommes de terre)"
+    },
+    "recipeInstructions": {
+        "@value": "Pommes de terre \u00e9pluch\u00e9es sont mis dans un pot tonne de l\u2019eau et de sel et faire cuire jusqu'\u00e0 tendret\u00e9. Suppression d\u2019incendie, ils \u00e9goutter et garder au chauds dans le four tr\u00e8s doux.Hacher le reste des ingr\u00e9dients, y compris la petite pomme de terre, dans un broyeur pour 3 ou 4 minutes et est servi imm\u00e9diatement sur pommes de terre chaudes."
+    },
+    "@id": "http://example.org/recipe"
+}

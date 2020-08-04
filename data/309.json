@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4"
+        }
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Support the brands that support Foodbank. This recipe is made with Primo Premium English Leg Ham. "
+    },
+    "image": {
+        "@id": "https://myfoodbook.com.au/sites/default/files/styles/single_recipe/public/recipe_photo/Food20177963_0.jpg?itok=Gm8uVuki"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": " 1/2 onion, diced"
+        },
+        {
+            "@language": "en",
+            "@value": "10 eggs"
+        },
+        {
+            "@language": "en",
+            "@value": " 1/3 cup feta, crumbled"
+        },
+        {
+            "@language": "en",
+            "@value": " 1 tablespoon olive oil"
+        },
+        {
+            "@language": "en",
+            "@value": " 1/3 cup red capsicum, diced"
+        },
+        {
+            "@language": "en",
+            "@value": " 100g Primo Premium English Leg Ham, chopped"
+        },
+        {
+            "@language": "en",
+            "@value": " 1/2 cup baby spinach, chopped"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Mini Breakfast Muffins"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://myfoodbook.com.au/recipes/show/mini-breakfast-muffins"
+    },
+    "@id": "http://example.org/recipe"
+}

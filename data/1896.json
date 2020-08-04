@@ -1,0 +1,140 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "es",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "es",
+            "@value": "20"
+        },
+        "ratingValue": {
+            "@language": "es",
+            "@value": "4.9"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "es",
+            "@value": "VelSid"
+        },
+        "url": {
+            "@id": "https://gastronomiaycia.republica.com/author/velsid/"
+        }
+    },
+    "dateModified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2014-09-06"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2011-04-15"
+    },
+    "description": {
+        "@language": "es",
+        "@value": "[photopress:atun_glaseadolima2.jpg,full,centro]\n\nUnas habas frescas y tiernas son un complemento ideal de muchos platos, fijaos que sencillo pero result\u00f3n es acompa\u00f1arlas con un poco de arroz y pesc..."
+    },
+    "headline": {
+        "@language": "es",
+        "@value": "At\u00fan glaseado con lima, arroz negro y habitas"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "es",
+            "@value": "420"
+        },
+        "url": {
+            "@language": "es",
+            "@value": "https://gastronomiaycia.republica.com/wp-content/uploads/2013/09/atun_glaseadolima2.jpg"
+        },
+        "width": {
+            "@language": "es",
+            "@value": "600"
+        }
+    },
+    "ingredients": [
+        {
+            "@language": "es",
+            "@value": " pimienta negra reci\u00e9n molida"
+        },
+        {
+            "@language": "es",
+            "@value": "5 gramos de pasta de lima"
+        },
+        {
+            "@language": "es",
+            "@value": "100 gramos de habas peladas"
+        },
+        {
+            "@language": "es",
+            "@value": " una pizca de sal."
+        },
+        {
+            "@language": "es",
+            "@value": "25 gramos de salsa Hoisin\n"
+        },
+        {
+            "@language": "es",
+            "@value": "1 c/s de s\u00e9samo negro"
+        },
+        {
+            "@language": "es",
+            "@value": "3 dientes de ajo"
+        },
+        {
+            "@language": "es",
+            "@value": " sal"
+        },
+        {
+            "@language": "es",
+            "@value": " aceite de oliva virgen extra."
+        },
+        {
+            "@language": "es",
+            "@value": "4 lomos de at\u00fan"
+        },
+        {
+            "@language": "es",
+            "@value": "100 gramos de arroz negro"
+        },
+        {
+            "@language": "es",
+            "@value": "1 c/c de humo en polvo"
+        }
+    ],
+    "interactionCount": {
+        "@language": "es",
+        "@value": "1"
+    },
+    "mainEntityOfPage": {
+        "@language": "es",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "es",
+        "@value": "At\u00fan glaseado con lima, arroz negro y habitas"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:N41e46d3ce39a464093311b8f379700b2"
+        },
+        "name": {
+            "@language": "es",
+            "@value": "Velsid"
+        }
+    },
+    "recipeCategory": {
+        "@language": "es",
+        "@value": "Carne y Pescado"
+    },
+    "url": {
+        "@language": "es",
+        "@value": "https://gastronomiaycia.republica.com/2011/04/15/atun-glaseado-con-lima-arroz-negro-y-habitas/"
+    },
+    "@id": "http://example.org/recipe"
+}

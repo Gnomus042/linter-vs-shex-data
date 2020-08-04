@@ -1,0 +1,189 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.8"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "10"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Angela Liddon"
+    },
+    "cookingMethod": {
+        "@language": "en-US",
+        "@value": "Blend, Roast"
+    },
+    "dateModified": {
+        "@language": "en-US",
+        "@value": "2018-07-13T01:42:30+00:00"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2017-06-27T13:42:58+00:00"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "If you think you\u2019re not a fan of cauliflower or broccoli, this might just be the recipe that changes your mind. Roasted to perfection and served with an addictive (seriously, addictive) cashew-based garlic lemon tahini sauce, these veggies get downright dreamy. The addition of roasted chickpeas boosts the dish to a full-blown meal, and lends it a delightful crunch, too. I love serving it on a bed of warm quinoa. Pro tip: The dressing recipe makes only half a cup (125 mL), so if you\u2019re someone who likes a lot of dressing with your bowls (or even a versatile dressing for workweek lunches!), I recommend doubling it. \n"
+    },
+    "image": {
+        "@id": "https://ohsheglows.com/gs_images/2017/06/Roasted-BUddha-Bowl-00376.jpg"
+    },
+    "inLanguage": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Roasted Buddha Bowl"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "330 calories"
+        },
+        "carbohydrateContent": {
+            "@language": "en-US",
+            "@value": "35 grams"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "15 grams"
+        },
+        "fiberContent": {
+            "@language": "en-US",
+            "@value": "10 grams"
+        },
+        "proteinContent": {
+            "@language": "en-US",
+            "@value": "16 grams"
+        },
+        "saturatedFatContent": {
+            "@language": "en-US",
+            "@value": "2 grams"
+        },
+        "servingSize": {
+            "@language": "en-US",
+            "@value": "1 of 4 bowls"
+        },
+        "sodiumContent": {
+            "@language": "en-US",
+            "@value": "340 milligrams"
+        },
+        "sugarContent": {
+            "@language": "en-US",
+            "@value": "5 grams"
+        }
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Vegan, Other Main"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Vegan, Canadian"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "6 tablespoons (90 mL) water, or more if needed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup raw cashews, soaked"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon plus 1 teaspoon (20 mL) olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup (20 g) nutritional yeast"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons (30 mL) fresh lemon juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 large head cauliflower, chopped (5 to 6 cups/400g to 480g)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cooked grains (such as quinoa) (optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon (15 mL) tahini"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 (14-ounce/398 mL) can chickpeas, drained and rinsed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 large head broccoli, chopped (5 to 6 cups/325g to 390g)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 large garlic clove"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 teaspoon fine sea salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Fine sea salt, to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Freshly ground black pepper, to taste"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Soak cashews in a bowl of water overnight or for at least 8 hours. For a quick-soak method, pour boiling water over the cashews and let sit in the bowl for at least 45 minutes. Drain."
+        },
+        {
+            "@language": "en-US",
+            "@value": "If you have leftover dressing, it will keep for up to 5 days in the fridge in a sealed container. The dressing will thicken as it sits (especially when chilled), so you can add more water to thin out as necessary, or simply allow it to come to room temperature before serving. Any leftover grains, chickpeas, and veggies will keep in a sealed container in the fridge for up to a few days. I tend to reheat them in a skillet with some oil over medium heat."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Meanwhile, add all of the dressing ingredients into a blender and blend on high speed until smooth. If you are cooking grains, such as quinoa, cook them now, too."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place a tea towel on the counter and spread out the drained chickpeas. Fold the sides of the towel over the chickpeas to cover, and roll the chickpeas around until dry. Transfer chickpeas onto the parchment-lined baking sheet. Drizzle with 1 teaspoon oil and roll around the chickpeas with your hands until they are fully coated. Sprinkle with salt and place into the oven."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Plate the cooked grains (if using), and top with the roasted broccoli, cauliflower, and chickpeas. Drizzle on a generous amount of dressing. Season with salt and pepper, and any desired spices (I like to add smoked paprika and/or cayenne pepper, too)."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat the oven to 400\u00b0F (200\u00b0C) and line two large baking sheets with parchment paper."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place the chopped broccoli and cauliflower onto one baking sheet. (If it doesn\u2019t all fit on one, you can add some onto the second sheet.) Drizzle with 1 tablespoon oil and toss until coated. Sprinkle with a generous amount of salt and pepper. Place into the oven."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Roast the broccoli, cauliflower, and chickpeas for 25 to 30 minutes, until the broccoli and cauliflower are lightly browned and the chickpeas are golden. (At the halfway mark you can give the chickpea pan a gentle shake to roll them around in the pan.)"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "3 to 4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

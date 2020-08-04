@@ -1,0 +1,23 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en",
+        "@value": "\n                    In Recipes-list.com we have selected the most viewed recipes from category -\n                                                \n                                uncategorized                            \n                    .\n                    Enjoy the best recipes specially selected for you! Crab Cakes with Easy R\u00e9moulade is the right choice that will satisfy all your claims.\n                "
+    },
+    "image": {
+        "@id": "https://recipes-list.com/uploads/rec-crab-cakes-with-easy-rmoulade.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Crab Cakes with Easy R\u00e9moulade"
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n                      For the crab cakes: 1 pound lump crab meat 1/4 cup diced red bell pepper 1/4 cup diced green bell pepper 2 green onions, chopped 1 large egg, lightly beaten 1/2 cup panko crumbs, plus additional for dredging 1/4 cup lemon juice (about 2 lemons) 2 tablespoons mayonnaise 2 teaspoons mustard powder 1 teaspoon Old Bay seasoning 1/2 teaspoon kosher salt 1/4 teaspoon Worcestershire sauce Lemon wedges, for garnish   For the r\u00e9moulade: 1/4 cup mayonnaise 1 teaspoon Dijon mustard 1 teaspoon sweet relish 1/4 teaspoon Worcestershire sauce 1/4 teaspoon prepared horseradish sauce Couple dashes of hot sauce Squeeze of lemon    For the crab cakes, combine the crab meat, bell peppers, and green onions in a large bowl. Add all of the remaining ingredients and mix gently until well-combined. Using a 1/4-cup measuring cup, scoop out crab mixture and form into a patty with your hands. Dredge the cakes in additional panko crumbs until completely covered. Arrange the cakes on a sheet pan and chill until ready to cook.   Heat a few glugs of canola or safflower oil in a large aluminum or cast iron skillet over medium-high to high heat. Cook crab cakes (in two batches if necessary, adding more oil as needed) until crispy and light golden-brown, 2 to 3 minutes per side. Keep the crab cakes hot in a warm oven, if desired. Serve with a lightly dressed arugula salad, a couple of lemon wedges, and a dollop of r\u00e9moulade.    For the r\u00e9moulade, combine all of the ingredients in a small bowl and chill for at least 4 hours. Adjust seasonings to suit personal taste, if desired. \n                "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n                                            Recipe Yield: serves 4 (makes 10 crab cakes)                                    "
+    },
+    "@id": "http://example.org/recipe"
+}

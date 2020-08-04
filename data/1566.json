@@ -1,0 +1,71 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "\nFelhaszn\u00e1l\u00f3 Anonymus\n"
+        },
+        "url": {
+            "@id": "https://www.receptmuhely.hu/recept/tejszines-kapros-pangasius-halfile/#"
+        }
+    },
+    "dateCreated": {
+        "@value": "Null"
+    },
+    "dateModified": {
+        "@value": "Null"
+    },
+    "datePublished": {
+        "@value": "2015-09-23"
+    },
+    "description": {
+        "@value": "\nTejsz\u00ednes-kapros pangasius halfil\u00e9  recept."
+    },
+    "image": {
+        "@id": "https://images.receptmuhely.hu/media/cache/vich_show/images/recipe/4bd374c1-2b61-4ff9-90e4-2e77e5a577c6.jpg"
+    },
+    "name": {
+        "@value": "Tejsz\u00ednes-kapros pangasius halfil\u00e9"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "pangasius fil\u00e9 60 dekagramm"
+        },
+        {
+            "@value": "liszt 1 ev\u0151kan\u00e1l"
+        },
+        {
+            "@value": "F\u0151z\u0151tejsz\u00edn 2 dl"
+        },
+        {
+            "@value": "gyors rizs 25 dekagramm"
+        },
+        {
+            "@value": "kapor 1 csokor"
+        },
+        {
+            "@value": "Rama Vajas \u00cdz 5 dekagramm"
+        },
+        {
+            "@value": "tej  liter"
+        },
+        {
+            "@value": "fokhagymagerezd 3 darab"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "K\u00f6zben a rizst, b\u0151 s\u00f3s v\u00edzben kif\u0151zz\u00fck. \nA lisztb\u0151l \u00e9s tejsz\u00ednb\u0151l habar\u00e1st k\u00e9sz\u00edt\u00fcnk \u00e9s hozz\u00e1adjuk a felapr\u00edtott kaprot.\nA halra \u00f6ntj\u00fck \u00e9s forralunk rajt egyet.\nF\u0151tt rizzsel t\u00e1laljuk."
+        },
+        {
+            "@value": "A fil\u00e9ket fokhagym\u00e1s tejbe \u00e1ztatjuk f\u00e9l \u00f3r\u00e1ra. Felkock\u00e1zzuk \u00e9s margarinon lepir\u00edtjuk."
+        }
+    ],
+    "totalTime": {
+        "@value": "PT40M"
+    },
+    "yield": {
+        "@value": "4 adag"
+    },
+    "@id": "http://example.org/recipe"
+}

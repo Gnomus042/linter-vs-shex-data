@@ -1,0 +1,54 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.kuchniabazylii.pl/wp-content/uploads/2019/07/piers-kurczaka-zapiekana-z-pesto-i-pomidorkami_1.jpg"
+    },
+    "name": {
+        "@value": "Przepis na pier\u015b kurczaka zapiekan\u0105 z pesto i pomidorkami"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "gar\u015b\u0107 startego parmezanu"
+        },
+        {
+            "@value": "2 z\u0105bki czosnku"
+        },
+        {
+            "@value": "gar\u015b\u0107 orzech\u00f3w piniowych/nerkowc\u00f3w (mo\u017cna u\u017cy\u0107 te\u017c s\u0142onecznika)"
+        },
+        {
+            "@value": "s\u00f3l i pieprz"
+        },
+        {
+            "@value": "szczypta soli"
+        },
+        {
+            "@value": "bazylia do dekoracji"
+        },
+        {
+            "@value": "2 gar\u015bci pomidork\u00f3w koktajlowych"
+        },
+        {
+            "@value": "\u0142y\u017cka oliwy z oliwek"
+        },
+        {
+            "@value": "2 piersi z kurczaka"
+        },
+        {
+            "@value": "8-10 \u0142y\u017cek oliwy z oliwek"
+        },
+        {
+            "@value": "PESTO: "
+        },
+        {
+            "@value": "2 gar\u015bcie li\u015bci bazylii"
+        },
+        {
+            "@value": "ry\u017c do podania"
+        }
+    ],
+    "recipeYield": {
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

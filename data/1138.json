@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "\n                                5\n                                 Rating :( 1 rating): "
+        },
+        "reviewCount": {
+            "@value": "1"
+        }
+    },
+    "image": {
+        "@id": "http://www.clubnoor.com/uploads/recipes/6a7d6dee83cd4e6caf7d2c5653f8a448.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\n                                    \n                                    \n                                        1\n                                    tsp\u00a0grated fresh ginger"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        \n                                    Salt and pepper"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        12\n                                    wonton skins"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        500\n                                    gms\u00a0baby spinach leaves (fresh)"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        500\n                                    ml\u00a0vegetable stock (homemade preferably)"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1\n                                    boiled large potato"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        2\n                                    large onions"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        2\n                                    garlic cloves"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        \n                                    Noor Oil"
+        },
+        {
+            "@value": "\n                                    \n                                    \n                                        1\n                                    celery stick"
+        }
+    ],
+    "name": {
+        "@value": "\n                    Baby Spinach Soup with Potato and Ginger Wonton"
+    },
+    "recipeInstructions": {
+        "@value": "\n                    \n                        Preparation\n                    \n                        Introduction:Soups are an ideal starter and sometimes even a main dish for a meal, especially in the winter!This soup has spinach as its main ingredient, which is an excellent source of iron and vitamins. It is particularly easy recipe but, when cooked the right way, the colours are so appealing that you will trick anyone into eating spinach!Steps Involved:Heat a little Noor Oil in a large pot and saut\u00e9 the finely chopped onions, garlic and celery for 5 minutes. Season and add the stock. Let it boil till the celery is very soft. This will take around 15 minutes. Allow the soup to cool to room temperature.In the meantime, prepare the wonton filling. Cut the boiled potato into cubes and quickly saut\u00e9 it in a pan with little Noor Oil and add the grated ginger.\u00a0Add salt and pepper and set aside to cool. Fill each wonton skin with the potato filling and seal the edges.\u00a0Add the raw spinach leaves to the soup and blend in a mixer/blender till smooth. It is important not to add the spinach while the soup is hot, as it will lose its bright green colour.Boil the wonton for 2 minutes in a pot filled with water.\u00a0Warm the soup. Pour into serving bowls. Place two to three wontons in each bowl of soup.Suggestion:This is a very easy recipe when cooked the right way. The colours are so appealing that you can trick anyone into eating spinach!\n                    \n                    \n                "
+    },
+    "recipeYield": {
+        "@value": "\n                            Makes4servings"
+    },
+    "@id": "http://example.org/recipe"
+}

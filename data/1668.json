@@ -1,0 +1,38 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "4 "
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2017-09-18"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Oven Baked Curly Fries - Arby's Copycat"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

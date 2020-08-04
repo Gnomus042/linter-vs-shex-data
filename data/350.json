@@ -1,0 +1,26 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1521"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "9"
+        }
+    },
+    "image": {
+        "@id": "https://sieuthidienmayhk.googleusercontent.com/-LDQpd6vHRO8/UvYkgp5SA5I/AAAAAAAAVko/vk01FxjSwMA/s150/banner150x78.gif"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Ho\u00e0ng Ki\u00ean jsc"
+    },
+    "@id": "http://example.org/recipe"
+}

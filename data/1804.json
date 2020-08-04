@@ -1,0 +1,258 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "de-DE",
+            "@value": "5.0"
+        },
+        "reviewCount": {
+            "@language": "de-DE",
+            "@value": "6"
+        }
+    },
+    "author": {
+        "@language": "de-DE",
+        "@value": "www.houseno15.de"
+    },
+    "image": {
+        "@id": "http://houseno15.de/wp-content/uploads/2016/07/Cheddar-Burger1-Kopie-683x1024.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "de-DE",
+            "@value": "Bun:"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Eigelb"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Ei"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "120 ml lauwarme Milch"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 EL \u00d6l"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Toppings:"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 W\u00fcrfel frische Hefe"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "2 Eier"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "50g Butter"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "4 Landeier"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "500 g Weizenmehl (Typ 405)"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Zwiebel"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Avocado"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "100 g Cheddar"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Patty:"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Optional BBQ Sauce"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "600g Lammhack"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Knoblauchsprossen"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 rote Chili"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 TL Salz"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "\u00bd rote Chilischote"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "100 g Frischk\u00e4se"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "200g Tomaten"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Zitrone"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 trockenes Br\u00f6tchen"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Salz, Pfeffer"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "200 ml Milch"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Prise Zucker"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "80 g geriebener Cheddar"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "4 Scheiben Cheddar"
+        }
+    ],
+    "name": {
+        "@language": "de-DE",
+        "@value": "Death by Cheddar-Lamm-Burger"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "de-DE",
+            "@value": "Die Sch\u00fcssel mit einem K\u00fcchentuch abdecken und den Vorteig f\u00fcr 10 Minuten gehen lassen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Topping:"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Chilischote sehr fein hacken. Die Schale von der Zitrone abreiben."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Zwiebel sch\u00e4len und fein hacken. Die Chilischote entkernen und ebenfalls fein hacken."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Den Burger-Bun aufschneiden, Avocado-Salsa auf die Unterseite geben, darauf einen Patty geben und diesen mit einer Scheibe Cheddar belegen (leicht schmelzen lassen)."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "(Optional BBQ Sauce dar\u00fcber geben und) ein Spiegelei oben aufsetzen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Das Mehl in eine Sch\u00fcssel f\u00fcllen und eine Mulde hineindr\u00fccken. Darin die Hefe hineinbr\u00f6ckeln."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Milch mit der Butter in einem Topf erw\u00e4rmen (nicht kochen!)."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Im vorgeheizten Ofen ca. 20 Minuten backen- darauf achten dass sie nicht zu dunkel werden."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Avocado entkernen, sch\u00e4len und in Scheiben oder W\u00fcrfel schneiden."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "In der Zwischenzeit den Backofen auf 180\u00b0 Umluft vorheizen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Avocado und die Tomaten mit Salz, Pfeffer, Zitronenabrieb und Chili abschmecken und mit Zitronensaft betr\u00e4ufeln, damit die Avocado nicht braun wird."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Bun:"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Eigelb verquirlen und den Bun damit bepinseln."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Ei, Salz und Zucker und K\u00e4se zum Vorteig geben und so lange verr\u00fchren bis der Teig Blasen wirft und sich vom Sch\u00fcsselrand l\u00f6st."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Den Teig mit Bemehlten H\u00e4nden kr\u00e4ftig durchkneten und in 12 Portionen teilen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Patties:"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Diese zu Kugeln formen und auf ein mit Backpapier belegtes Blech setzen, abdecken und weitere 10 Min ruhen lassen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Ebenso die Tomaten in W\u00fcrfel schneiden und mit der Avocado vorsichtig mischen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Das Hack mit den Zwiebeln, der Chili, Ei, Salz, Pfeffer und Br\u00f6tchen gut vermischen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Sch\u00fcssel erneut abdecken und f\u00fcr weitere 25 Minuten gehen lassen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Das Br\u00f6tchen w\u00fcrfeln und in der Milch 10 Minuten einweichen und gut ausdr\u00fccken."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Pattys f\u00fcr 4-5 Minuten von jeder Seite grillen. "
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Mit angefeuchteten H\u00e4nden 4 Kugeln formen und etwas platt dr\u00fccken. Den Cheddar reiben und mit Frischk\u00e4se mischen. Mit Salz und Pfeffer abschmecken. Die Masse auf die 4 Portionen aufteilen und in das Lammfleisch dr\u00fccken. Dann das Hack um den K\u00e4se schlie\u00dfen und zu Pattys formen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Ein paar Knoblauchsprossen dar\u00fcber geben und den Bundeckel daraufsetzten."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Das warme Butter-Milch-Gemisch \u00fcber die Hefe gie\u00dfen und mit dem Knethacken der K\u00fcchenmaschine oder Mixger\u00e4t auf langsamer Stufe zu einem Vorteig r\u00fchren."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Eine Pfanne mit 1 TL \u00d6l erhitzen und 4 Eier zu Spiegeleiern braten."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

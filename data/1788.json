@@ -1,0 +1,43 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ru",
+            "@value": "100"
+        },
+        "ratingCount": {
+            "@language": "ru",
+            "@value": "92"
+        },
+        "ratingValue": {
+            "@language": "ru",
+            "@value": "86"
+        }
+    },
+    "author": {
+        "@language": "ru",
+        "@value": "23.8 Asus"
+    },
+    "description": {
+        "@language": "ru",
+        "@value": "\u0414\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c 23.8 \u0434\u044e\u0439\u043c. \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u0438\u0435 1920x1080 \u0423\u0433\u043e\u043b \u043e\u0431\u0437\u043e\u0440\u0430 178/178 \u0433\u0440\u0430\u0434\u0443\u0441 \u0426\u0432\u0435\u0442 \u0447\u0435\u0440\u043d\u044b\u0439/\u0441\u0435\u0440\u0435\u0431\u0440\u043e \u0422\u0438\u043f \u043c\u0430\u0442\u0440\u0438\u0446\u044b IPS \u0422\u0438\u043f \u043f\u043e\u0434\u0441\u0432\u0435\u0442\u043a\u0438 W-LED \u0431\u0435\u043b\u0430\u044f \u0441\u0432\u0435\u0442\u043e\u0434\u0438\u043e\u0434\u043d\u0430\u044f \u042f\u0440\u043a\u043e\u0441\u0442\u044c 250 cd/\u043a\u0432.\u043c \u041a\u043e\u043d\u0442\u0440\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u044c 80000000 1 \u0412\u0440\u0435\u043c\u044f \u043e\u0442\u043a\u043b\u0438\u043a\u0430 5 \u043c\u0441 \u041f\u043e\u0440\u0442 D-sub \u0435\u0441\u0442\u044c ..."
+    },
+    "image": {
+        "@language": "ru",
+        "@value": "http://bq.kopyc.ru/wp-content/16952.jpg"
+    },
+    "ingredients": {
+        "@language": "ru",
+        "@value": "417416952"
+    },
+    "keywords": {
+        "@language": "ru",
+        "@value": "23.8 Asus Laptop,23.8 Asus Pro,23.8 Asus Reviews,23.8 Asus Tablet"
+    },
+    "name": {
+        "@language": "ru",
+        "@value": "23.8 Asus Vz249H Black (90Lm02Qc-B01670)"
+    },
+    "@id": "http://example.org/recipe"
+}

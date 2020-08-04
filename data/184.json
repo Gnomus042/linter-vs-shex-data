@@ -1,0 +1,48 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@value": "3"
+        },
+        "worstRating": {
+            "@value": "1"
+        }
+    },
+    "description": {
+        "@value": "Vous \u00eates comme moi et vous avez trop de pommes et un d\u00e9sir ardent de boire du vin?  Faites votre vin de pommes!\n"
+    },
+    "image": {
+        "@id": "https://chefcuisto.com/files/2013/09/pommes-624x468.jpg"
+    },
+    "name": {
+        "@value": "Vin de pommes"
+    },
+    "recipeCategory": {
+        "@value": "Vins, Le temps des pommes"
+    },
+    "recipeInstructions": [
+        {
+            "@value": " Le lendemain, lorsque le temp\u00e9rature est entre 18\u00b0C e t 25\u00b0C, ajouter la levure. Couvrir d\u2019une feuille de plastique attach\u00e9e avec un \u00e9lastique. Brasser "
+        },
+        {
+            "@value": " Brasser une fois par jour "
+        },
+        {
+            "@value": " Soutirer en tourie presser les pommes. Fixer la bonde hydraulique. "
+        },
+        {
+            "@value": " Soutirer en tourie Ajouter 3 ml d\u2019acide ascorbique pour pr\u00e9server le vin "
+        },
+        {
+            "@value": " Dissoudre le sucre dans 4 litres d\u2019eau bouillante. Ajouter 16 litres d\u2019eau froide. Laver et briser les pommes en petits morceaux et mettre en cuve. Ajouter tous les autres ingr\u00e9dients sauf la levure et l\u2019acide ascorbique "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

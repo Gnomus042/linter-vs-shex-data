@@ -1,0 +1,129 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "3"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Angela Liddon"
+    },
+    "cookingMethod": {
+        "@language": "en-US",
+        "@value": "Crock Pot | Slow Cook, Stove Top"
+    },
+    "dateModified": {
+        "@language": "en-US",
+        "@value": "2016-02-22T16:00:50+00:00"
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2014-07-03T02:46:43+00:00"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Packed with over 25 grams of protein per serving, this soup will aid with post-workout recovery and get you back in the game in no time. \n"
+    },
+    "image": {
+        "@id": "https://ohsheglows.com/gs_images/2015/03/IMG_6090.jpg"
+    },
+    "inLanguage": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Triple Lentil Recovery Soup"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "proteinContent": {
+            "@language": "en-US",
+            "@value": "25 grams"
+        }
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Vegan, Soup"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "1 sweet onion, chopped (~2 cups)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 heaping cup chopped celery"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp extra virgin olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 tsp cayenne pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup dry green/brown lentils"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup dry red lentils"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 tsp cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp cumin"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Kosher salt & pepper, to taste (I used about 1/2 tsp salt)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 tsp coriander"
+        },
+        {
+            "@language": "en-US",
+            "@value": "5-6.5 cups vegetable broth, depending on how thin/thick you want it"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup dry black beluga lentils"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 garlic cloves, minced"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Add in the celery and saut\u00e9 another few minutes. Stir in the spices and cook for another couple minutes on low."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Now, rinse and drain the lentils and stir into skillet/pot. Add the broth and stir well. Increase heat and bring to a boil. Reduce heat to low, cover, a simmer until thick and lentils are cooked, about 45 minutes to an hour. Watch closely and stir frequently so it doesn\u2019t stick to the pot. Add more broth to thin out if desired. You can also use an immersion blender to blend some of the soup a bit. I did this, but left it mostly chunky. Add salt and pepper to taste."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large skillet or pot, add the oil and saut\u00e9 the onion and garlic over low-medium heat for about 6-7 minutes."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

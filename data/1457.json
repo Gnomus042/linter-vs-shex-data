@@ -1,0 +1,155 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "417"
+        },
+        "ratingValue": {
+            "@value": "4.9"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Garima Rastogi (Garu's Kitchen)"
+        }
+    },
+    "description": {
+        "@value": "italian style white sauce pasta recipe | vegetable pasta in white sauce recipe | white sauce pasta recipe with step by step process - after the success of indian style veg macaroni pasta recipe, i tried making italian style white sauce pasta in my garu\u2019s kitchen. the key for making perfect white sauce pasta is making perfect white sauce. this white sauce is so rich, creamy, cheesy, smooth and tasty."
+    },
+    "image": {
+        "@id": "https://4.bp.blogspot.com/-jNjNz4QWACg/WYgiM9pED8I/AAAAAAAACoc/U4MPTGAMBrQQ9OuMwNFHneWlmQRCoJk6QCLcBGAs/s1600/Final%2B1.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "salt - to taste"
+        },
+        {
+            "@value": "maida - 1 tbsp"
+        },
+        {
+            "@value": "red chilli flakes - 1 tbsp"
+        },
+        {
+            "@value": "broccoli - \u00bd cup"
+        },
+        {
+            "@value": "onion - \u00bd cup (chopped)"
+        },
+        {
+            "@value": "red capsicum - \u00bd cup (chopped)"
+        },
+        {
+            "@value": "cheese - 1 tbsp (grated)"
+        },
+        {
+            "@value": "milk - 1 \u00bd cup (boiled and cooled)"
+        },
+        {
+            "@value": "butter - 2 tbsp"
+        },
+        {
+            "@value": "oregano - 1 tbsp"
+        },
+        {
+            "@value": "penne pasta - 1 \u00bd cup (you can use any shaped pasta)"
+        },
+        {
+            "@value": "olive oil - 1 tbsp"
+        },
+        {
+            "@value": "black pepper powder - 1 tsp"
+        },
+        {
+            "@value": "green capsicum - \u00bd cup (chopped)"
+        }
+    ],
+    "name": {
+        "@value": "italian style white sauce pasta recipe | vegetable pasta in white sauce recipe | white sauce pasta recipe"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "339 cal"
+        },
+        "fatContent": {
+            "@value": "10 g"
+        },
+        "servingSize": {
+            "@value": "1 plate"
+        }
+    },
+    "recipeCategory": {
+        "@value": "snacks, main"
+    },
+    "recipeCuisine": {
+        "@value": "international"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "add the black pepper powder, oregano, salt and red chilli flakes and stir well."
+        },
+        {
+            "@value": "strain the pasta in a sieve to drain the excess water."
+        },
+        {
+            "@value": "to check the pasta is cooked or not, press it with your hands. pasta has turned soft."
+        },
+        {
+            "@value": "once it changes the colour slightly, now add the milk. keep whisking and bring it to a boil. cook it on low flame until it's thick."
+        },
+        {
+            "@value": "the delicious hot italian style white sauce pasta is ready to be served."
+        },
+        {
+            "@value": "boil 6-7 cups of water in a deep pan."
+        },
+        {
+            "@value": "you can also add corn, zucchini, mushroom etc."
+        },
+        {
+            "@value": "once the butter melts, add the plain flour to it and cook for a few seconds."
+        },
+        {
+            "@value": "now add salt, oil and mix well."
+        },
+        {
+            "@value": "now add boiled penne pasta to the above mixture and mix well."
+        },
+        {
+            "@value": "now add the white sauce to the above ingredients and mix well. cook for another few minutes."
+        },
+        {
+            "@value": "cook on a medium flame for 15-20 minutes or till the pasta is 90% cooked."
+        },
+        {
+            "@value": "add the chopped onion and let it cook for 2-3 minutes. cook till the onions are translucent."
+        },
+        {
+            "@value": "heat 1 tbsp butter in a non-stick pan."
+        },
+        {
+            "@value": "wash the pasta with cold water so that cooking process is stopped and excess starch is removed. keep the boiled pasta aside."
+        },
+        {
+            "@value": "after the water comes to a boil then add the pasta."
+        },
+        {
+            "@value": "add cheese into it and cook for another 1-2 minutes."
+        },
+        {
+            "@value": "now heat 1 tbsp butter in a non-stick pan."
+        },
+        {
+            "@value": "once the sauce is thick, get it off the flame."
+        },
+        {
+            "@value": "then add finely chopped capsicums, broccoli. let them cook for 7-8 minutes."
+        }
+    ],
+    "recipeYield": {
+        "@value": "3-4"
+    },
+    "@id": "http://example.org/recipe"
+}

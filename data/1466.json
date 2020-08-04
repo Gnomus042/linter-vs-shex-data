@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@value": "10 mins"
+    },
+    "image": {
+        "@id": "https://lovepotatoes.co.uk/recipes/korean-kimchi-potato-slaw-on-sourdough-toast-topped-with-a-fried-egg//media/1417/koreanpotatokimchiwithfriedeggandtoast_l.jpg?anchor=center&mode=crop&width=650&height=345&rnd=131364825550000000&Format=Jpeg"
+    },
+    "ingredients": [
+        {
+            "@value": "Sliced spring onion to garnish"
+        },
+        {
+            "@value": "175g waxy potatoes, cut into matchsticks"
+        },
+        {
+            "@value": "1 carrot, sliced into matchsticks"
+        },
+        {
+            "@value": "2 eggs"
+        },
+        {
+            "@value": "A little rapeseed or low-cal olive oil spray to cook the eggs"
+        },
+        {
+            "@value": "2tsp Kimchi chilli paste"
+        },
+        {
+            "@value": "\u00bd savoy or chinese cabbage, shredded"
+        },
+        {
+            "@value": "1tbsp stevia or zylitol instead of sugar (optional)"
+        },
+        {
+            "@value": "Salt, pepper and chilli flakes to garnish"
+        },
+        {
+            "@value": "Salt for the cabbage"
+        },
+        {
+            "@value": "2 slices of sourdough bread"
+        }
+    ],
+    "name": {
+        "@value": "Korean Kimchi potato slaw on sourdough toast, topped with a fried egg"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "prepTime": {
+        "@value": "15 mins"
+    },
+    "recipeInstructions": {
+        "@value": "\n                    A unique and delicious creation which finds the sharp tastes of Korean Kimchi pairing with a golden slice of sourdough toast and potato slaw. The addition of a fried egg on top makes this recipe an amazing brunch idea.\u00a0\n-\nSalt the cabbage for 10-20 minutes, rinse well and dry. Mix with the carrots, chilli paste\nParboil the potatoes for 2 minutes then drain and leave to steam dry.\nMix with the carrots, cabbage and chilli paste, season with the salt and sugar to taste. Set aside.\nFry the eggs until crisp around the edges and season with salt, pepper and chilli flakes\nToast the sourdough and top with the slaw, the egg, spring onions and chilli flakes if you like.\n\n                "
+    },
+    "recipeYield": {
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

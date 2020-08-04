@@ -1,0 +1,212 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "tr",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "tr",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "tr",
+            "@value": "4"
+        },
+        "worstRating": {
+            "@language": "tr",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@language": "tr",
+        "@value": "Dilan"
+    },
+    "cookTime": {
+        "@language": "tr",
+        "@value": "PT30M"
+    },
+    "dateModified": {
+        "@language": "tr",
+        "@value": "2019-08-12T15:27:54+00:00"
+    },
+    "datePublished": {
+        "@language": "tr",
+        "@value": "2019-08-12T15:27:54+00:00"
+    },
+    "description": {
+        "@language": "tr",
+        "@value": "Kremal\u0131 Mantarl\u0131 Tavuk Tarifi nas\u0131l yap\u0131l\u0131r? 4.234 ki\u015finin defterindeki bu tarifin resimli anlat\u0131m\u0131 ve deneyenlerin foto\u011fraflar\u0131 burada. Yazar: Dilan"
+    },
+    "headline": {
+        "@language": "tr",
+        "@value": "Kremal\u0131 Mantarl\u0131 Tavuk"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "tr",
+            "@value": "333"
+        },
+        "url": {
+            "@language": "tr",
+            "@value": "https://i.nefisyemektarifleri.com/2019/08/12/kremali-mantarli-tavuk-500x333.jpg"
+        },
+        "width": {
+            "@language": "tr",
+            "@value": "500"
+        }
+    },
+    "ingredients": [
+        {
+            "@language": "tr",
+            "@value": "1 yemek ka\u015f\u0131\u011f\u0131 tereya\u011f\u0131n\u0131 tavaya alal\u0131m."
+        },
+        {
+            "@language": "tr",
+            "@value": "Pi\u015fen malzemelerin \u00fczerine 1 paket s\u0131v\u0131 kremay\u0131 tuz ve karabiberi de ekleyip krema koyula\u015fana kadar pi\u015firelim."
+        },
+        {
+            "@language": "tr",
+            "@value": "1 yemek ka\u015f\u0131\u011f\u0131 tereya\u011f\u0131"
+        },
+        {
+            "@language": "tr",
+            "@value": "Y\u0131kanm\u0131\u015f ve do\u011franm\u0131\u015f olan mantarlar\u0131m\u0131z\u0131 da ekleyip 5 dk kavural\u0131m."
+        },
+        {
+            "@language": "tr",
+            "@value": "2 adet k\u0131rm\u0131z\u0131 kapya biber"
+        },
+        {
+            "@language": "tr",
+            "@value": "Karabiber"
+        },
+        {
+            "@language": "tr",
+            "@value": "Tuz"
+        },
+        {
+            "@language": "tr",
+            "@value": "Pi\u015fen yeme\u011fimiz servise haz\u0131rd\u0131r. Dilerseniz yan\u0131nda patates p\u00fcresi ile serviste yapabilirsiniz.\nAfiyet Olsun \u263a\ufe0f"
+        },
+        {
+            "@language": "tr",
+            "@value": "500 gr kemiksiz tavuk g\u00f6\u011fs\u00fc"
+        },
+        {
+            "@language": "tr",
+            "@value": "10-12 adet mantar"
+        },
+        {
+            "@language": "tr",
+            "@value": "1 paket s\u0131v\u0131 krema"
+        },
+        {
+            "@language": "tr",
+            "@value": "Eridikten sonra j\u00fclyen kesilmi\u015f tavuklar\u0131 tavam\u0131za alal\u0131m ve kavural\u0131m."
+        },
+        {
+            "@language": "tr",
+            "@value": "Tavuklar\u0131m\u0131z pi\u015ftikten sonra \u00fczerine ince ve j\u00fclyen kesilmi\u015f k\u0131rm\u0131z\u0131 kapya biberimizi koyal\u0131m biraz kavural\u0131m."
+        }
+    ],
+    "mainEntityOfPage": [
+        {
+            "@language": "tr",
+            "@value": "True"
+        },
+        {
+            "@language": "tr",
+            "@value": "https://www.nefisyemektarifleri.com/kremali-mantarli-tavuk-6185132/"
+        }
+    ],
+    "name": {
+        "@language": "tr",
+        "@value": "Kremal\u0131 Mantarl\u0131 Tavuk"
+    },
+    "prepTime": {
+        "@language": "tr",
+        "@value": "PT15M"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "logo": {
+            "@id": "_:N5e7712b694694d36aedad6a1a27c4702"
+        },
+        "name": {
+            "@language": "tr",
+            "@value": "Nefis Yemek Tarifleri"
+        },
+        "url": {
+            "@language": "tr",
+            "@value": "https://www.nefisyemektarifleri.com"
+        }
+    },
+    "recipeYield": {
+        "@language": "tr",
+        "@value": "2-4 "
+    },
+    "review": [
+        {
+            "@id": "_:N7c68c507f93a4688a48bfb3fcdbf73b3"
+        },
+        {
+            "@id": "_:Ndc580f927f2e4836b8abcfdfc03d7c7d"
+        },
+        {
+            "@id": "_:Nb95305f5bcc54502ae39f3ab3e062aaa"
+        },
+        {
+            "@id": "_:N38015fae0d1a408397a9d2c915aa036d"
+        },
+        {
+            "@id": "_:N18202b3f16574506a34411edd120d7d6"
+        },
+        {
+            "@id": "_:Nff836598818841ab92faab1eb42f784c"
+        },
+        {
+            "@id": "_:Nc2ad8a5472c24563b6527f40a41ab297"
+        },
+        {
+            "@id": "_:Nf8c0cefb7f1b496ca8d276f1bdf6c82e"
+        },
+        {
+            "@id": "_:N259bdbdd39fe40a7a14c904e33d79d5c"
+        },
+        {
+            "@id": "_:N3484c148457047cc8c602a821eeb9d4a"
+        },
+        {
+            "@id": "_:Ne1349900bc684461b0a3d761d1b18acf"
+        },
+        {
+            "@id": "_:N9bea4986b5ea4087b3187668f883031e"
+        },
+        {
+            "@id": "_:N73735a76191448c3a24816052aa4ae72"
+        },
+        {
+            "@id": "_:Nc76264bdd935462d909ed1a923d44f80"
+        },
+        {
+            "@id": "_:Nf49979ddd3a84fcb8a521f148d98825c"
+        }
+    ],
+    "totalTime": {
+        "@language": "tr",
+        "@value": "PT45M"
+    },
+    "url": [
+        {
+            "@id": "https://www.nefisyemektarifleri.com/kremali-mantarli-tavuk-6185132/"
+        },
+        {
+            "@language": "tr",
+            "@value": "https://www.nefisyemektarifleri.com/kremali-mantarli-tavuk-6185132/"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

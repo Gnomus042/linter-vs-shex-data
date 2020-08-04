@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en-US",
+        "@value": "Serves 4-6\n"
+    },
+    "image": {
+        "@id": "http://www.eat-drink-smile.com/wp-content/uploads/2012/05/green-chile-cheddar-burger-casserole-1-375x375.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Green Chile Cheeseburger Casserole"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "Over medium-high heat, brown rice, beef, and onion in oven proof skillet. Drain fat. Add water, tomato sauce, green chiles, salt and pepper. Mix well and bring to boil. Cover and simmer 20 minutes. Stir and top with cheese.\nPlace in oven and broil until cheese melts and browns slightly, about 2 minutes.\n*for milder flavor, use only 1 4oz can of green chiles\n"
+    },
+    "@id": "http://example.org/recipe"
+}

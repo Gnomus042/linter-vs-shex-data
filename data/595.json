@@ -1,0 +1,46 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "no-NO",
+        "@value": "Pannacotta er en italiensk dessertklassiker som er lett \u00e5 lage.\u00a0Her er en variant av hvit sjokolade som passer godt med tindved."
+    },
+    "image": {
+        "@language": "no-NO",
+        "@value": "https://sifu.unileversolutions.com/image/no-NO/recipe-topvisual/2/1260-709/pannacotta-med-tindved-hvit-sjokolade-50357041.jpg"
+    },
+    "name": {
+        "@language": "no-NO",
+        "@value": "Pannacotta med tindved & hvit sjokolade"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "no-NO",
+            "@value": "Knorr Piske 31% Lavlaktose 1L (erst. av EPD: 5363601)"
+        },
+        {
+            "@language": "no-NO",
+            "@value": "Carte d'Or Panna Cotta 4L"
+        },
+        {
+            "@language": "no-NO",
+            "@value": "Geitved"
+        },
+        {
+            "@language": "no-NO",
+            "@value": "Hvit sjokolade"
+        },
+        {
+            "@language": "no-NO",
+            "@value": "Melk"
+        },
+        {
+            "@language": "no-NO",
+            "@value": "Sukker"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "no-NO",
+        "@value": "\n                        Panna cotta\n                        \n                        \n    Bland melk og fl\u00f8te, kok opp og sett til side.\n    Bland sukker og tindved, slik at sukkeret smelter.\n    N\u00e5r blandingen er avkj\u00f8lt tilsett hvit sjokolade og CARTE D'OR Panna Cotta, r\u00f8r godt slik at det ikke blir noen klumper.\n    Porsjon\u00e8r og pynt.\n\n                    "
+    },
+    "@id": "http://example.org/recipe"
+}

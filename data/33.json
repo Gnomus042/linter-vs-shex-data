@@ -1,0 +1,94 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ru-RU",
+        "@value": "\u041e\u043b\u044f"
+    },
+    "comment": [
+        {
+            "@id": "_:N36ff0d5c7f9048dbbb4bbf697ff70137"
+        },
+        {
+            "@id": "_:N8969068d1041407a993b7d87ceb30584"
+        }
+    ],
+    "image": [
+        {
+            "@id": "http://harch.ru/headline/zelenye-pomidory-marinovannye-s-petrushkoj-i-chesnokom//wp-content/plugins/share-buttons/images/social/original_count/liveinternet.png"
+        },
+        {
+            "@id": "http://harch.ru/headline/zelenye-pomidory-marinovannye-s-petrushkoj-i-chesnokom//wp-content/uploads/zelenie-pomidori-marinovanie-s-chesnokom-i-petrushkoy_3.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/zelenye-pomidory-marinovannye-s-petrushkoj-i-chesnokom//wp-content/uploads/zelenie-pomidori-marinovanie-s-chesnokom-i-petrushkoy_1.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/zelenye-pomidory-marinovannye-s-petrushkoj-i-chesnokom//wp-content/uploads/zelenie-pomidori-marinovanie-s-chesnokom-i-petrushkoy_6.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/zelenye-pomidory-marinovannye-s-petrushkoj-i-chesnokom//wp-content/plugins/share-buttons/images/social/original_count/facebook_ru.png"
+        },
+        {
+            "@id": "http://harch.ru/headline/zelenye-pomidory-marinovannye-s-petrushkoj-i-chesnokom//wp-content/uploads/zelenie-pomidori-marinovanie-s-chesnokom-i-petrushkoy_41.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/zelenye-pomidory-marinovannye-s-petrushkoj-i-chesnokom//wp-content/plugins/wp-images-lazy-loading/images/grey.gif"
+        },
+        {
+            "@id": "http://harch.ru/headline/zelenye-pomidory-marinovannye-s-petrushkoj-i-chesnokom//wp-content/uploads/zelenie-pomidori-marinovanie-s-chesnokom-i-petrushkoy_2.jpg"
+        },
+        {
+            "@id": "http://harch.ru/headline/zelenye-pomidory-marinovannye-s-petrushkoj-i-chesnokom//wp-content/plugins/share-buttons/images/social/original_count/yandex.png"
+        },
+        {
+            "@id": "http://harch.ru/headline/zelenye-pomidory-marinovannye-s-petrushkoj-i-chesnokom//wp-content/uploads/zelenie-pomidori-marinovanie-s-chesnokom-i-petrushkoy_51.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "ru-RU",
+            "@value": "3 \u0442\u0430\u0431\u043b\u0435\u0442\u043a\u0438 \u0430\u0441\u043f\u0438\u0440\u0438\u043d\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "5 \u043b\u0438\u0442\u0440\u043e\u0432 \u0432\u043e\u0434\u044b"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "2-3 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u043f\u0443\u0447\u043a\u0430 \u043f\u0435\u0442\u0440\u0443\u0448\u043a\u0438"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "100 \u0433 \u0443\u043a\u0441\u0443\u0441\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "10 \u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0447\u0435\u0441\u043d\u043e\u043a\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "500 \u0433 \u0441\u0430\u0445\u0430\u0440\u0430"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "250 \u0433 \u0441\u043e\u043b\u0438"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": " \u041e\u043a\u043e\u043b\u043e 10 \u043a\u0433 \u0437\u0435\u043b\u0435\u043d\u044b\u0445 (\u0431\u0443\u0440\u044b\u0445) \u043f\u043e\u043c\u0438\u0434\u043e\u0440"
+        }
+    ],
+    "interactionCount": {
+        "@language": "ru-RU",
+        "@value": "31 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u00bb "
+    },
+    "name": {
+        "@language": "ru-RU",
+        "@value": "\u0417\u0435\u043b\u0435\u043d\u044b\u0435 \u043f\u043e\u043c\u0438\u0434\u043e\u0440\u044b, \u043c\u0430\u0440\u0438\u043d\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0441 \u043f\u0435\u0442\u0440\u0443\u0448\u043a\u043e\u0439 \u0438 \u0447\u0435\u0441\u043d\u043e\u043a\u043e\u043c"
+    },
+    "recipeInstructions": {
+        "@language": "ru-RU",
+        "@value": " \n\n\n\n\n\u042f \u043f\u0440\u043e\u0441\u0442\u043e \u043e\u0431\u043e\u0436\u0430\u044e \u044d\u0442\u0438 \u043f\u043e\u043c\u0438\u0434\u043e\u0440\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u043e\u0433\u0443 \u0435\u0441\u0442\u044c \u0431\u0430\u043d\u043a\u0430\u043c\u0438. \u041c\u043e\u0436\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043a\u0430\u043a \u0437\u0435\u043b\u0435\u043d\u044b\u0435, \u0442\u0430\u043a \u0438 \u0431\u0443\u0440\u044b\u0435 \u043f\u043e\u043c\u0438\u0434\u043e\u0440\u044b, \u043f\u0440\u0438\u0447\u0435\u043c \u0432\u043a\u0443\u0441 \u0443 \u0442\u0435\u0445, \u0438 \u0443 \u0434\u0440\u0443\u0433\u0438\u0445 \u0432 \u043e\u0434\u043d\u043e\u0439 \u0431\u0430\u043d\u043a\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0441\u044f \u0440\u0430\u0437\u043d\u044b\u043c.\n\n\n\n\n\n\u0418\u043d\u0433\u0440\u0435\u0434\u0438\u0435\u043d\u0442\u044b:\n\n \u041e\u043a\u043e\u043b\u043e 10 \u043a\u0433 \u0437\u0435\u043b\u0435\u043d\u044b\u0445 (\u0431\u0443\u0440\u044b\u0445) \u043f\u043e\u043c\u0438\u0434\u043e\u0440\n10 \u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0447\u0435\u0441\u043d\u043e\u043a\u0430\n2-3 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u043f\u0443\u0447\u043a\u0430 \u043f\u0435\u0442\u0440\u0443\u0448\u043a\u0438\n\n\u0414\u043b\u044f \u043c\u0430\u0440\u0438\u043d\u0430\u0434\u0430:\n\n5 \u043b\u0438\u0442\u0440\u043e\u0432 \u0432\u043e\u0434\u044b\n100 \u0433 \u0443\u043a\u0441\u0443\u0441\u0430\n500 \u0433 \u0441\u0430\u0445\u0430\u0440\u0430\n250 \u0433 \u0441\u043e\u043b\u0438\n3 \u0442\u0430\u0431\u043b\u0435\u0442\u043a\u0438 \u0430\u0441\u043f\u0438\u0440\u0438\u043d\u0430\n\n\n\n\n\u0411\u0430\u043d\u043a\u0438 \u0442\u0449\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0432\u044b\u043c\u044b\u0442\u044c, \u0437\u0430\u043b\u0438\u0442\u044c \u043d\u0430 \u0442\u0440\u0435\u0442\u044c \u043a\u0438\u043f\u044f\u0442\u043a\u043e\u043c, \u043d\u0430\u043a\u0440\u044b\u0442\u044c \u043a\u0440\u044b\u0448\u043a\u0430\u043c\u0438 \u0438 \u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c:\n\n\n\n\n\n\u0423 \u043f\u043e\u043c\u0438\u0434\u043e\u0440\u043e\u0432 \u0441\u0440\u0435\u0437\u0430\u0442\u044c \u043f\u043b\u043e\u0434\u043e\u043d\u043e\u0436\u043a\u0443 \u0438 \u0440\u0430\u0437\u0440\u0435\u0437\u0430\u0442\u044c \u043f\u043e\u043f\u043e\u043b\u0430\u043c (\u0438\u043b\u0438 \u043d\u0430 \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u0438\u043d\u043a\u0438). \u0427\u0435\u0441\u043d\u043e\u043a \u043d\u0430\u0440\u0435\u0437\u0430\u0442\u044c \u043f\u043b\u0430\u0441\u0442\u0438\u043d\u043a\u0430\u043c\u0438, \u043f\u0435\u0442\u0440\u0443\u0448\u043a\u0443 \u043d\u0430\u0440\u0443\u0431\u0438\u0442\u044c:\n\n\n\n\n\n\u0418\u0437 \u0431\u0430\u043d\u043e\u043a \u0441\u043b\u0438\u0442\u044c \u0432\u043e\u0434\u0443. \u041f\u043b\u043e\u0442\u043d\u043e \u0437\u0430\u043b\u043e\u0436\u0438\u0442\u044c \u043f\u043e\u043c\u0438\u0434\u043e\u0440\u044b, \u043f\u0435\u0440\u0435\u0441\u044b\u043f\u0430\u044f \u043f\u0435\u0442\u0440\u0443\u0448\u043a\u043e\u0439 \u0438 \u0447\u0435\u0441\u043d\u043e\u043a\u043e\u043c:\n\n\n\n\n\n\u0417\u0430\u043b\u0438\u0442\u044c \u043a\u0438\u043f\u044f\u0449\u0438\u043c \u043c\u0430\u0440\u0438\u043d\u0430\u0434\u043e\u043c \u0438 \u0437\u0430\u043a\u0430\u0442\u0430\u0442\u044c:\n\n\n\n\n\n\n\u0425\u043e\u0442\u0438\u0442\u0435 \u043f\u043e\u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u0438\u0442\u044c? \u042d\u0442\u043e \u043b\u0435\u0433\u043a\u043e - \u043f\u043e\u0434\u0435\u043b\u0438\u0442\u0435\u0441\u044c \u043f\u043e\u043d\u0440\u0430\u0432\u0438\u0432\u0448\u0435\u043c\u0441\u044f \u0440\u0435\u0446\u0435\u043f\u0442\u043e\u043c \u0441 \u0434\u0440\u0443\u0437\u044c\u044f\u043c\u0438!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n0\n\n\nTweet\n\n\n\n<!--\ndocument.write(VK.Share.button(\n{\n  url: 'http://harch.ru/headline/zelenye-pomidory-marinovannye-s-petrushkoj-i-chesnokom/',\n  title: '\u0417\u0435\u043b\u0435\u043d\u044b\u0435 \u043f\u043e\u043c\u0438\u0434\u043e\u0440\u044b, \u043c\u0430\u0440\u0438\u043d\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0441 \u043f\u0435\u0442\u0440\u0443\u0448\u043a\u043e\u0439 \u0438 \u0447\u0435\u0441\u043d\u043e\u043a\u043e\u043c',\n  description: ''  \n}, \n{\n  type: 'button',\n  text: 'Share'\n}));\n-->\n\n\n\n\n\n\n\n\n\n"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,7 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://www.maisreceitas.com/wp-content/upload/2013/07/frango-recheado-de-castanhas-passas-e-ma25c325a725c325a3s.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

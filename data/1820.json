@@ -1,0 +1,66 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "description": {
+            "@value": "I am a Computer Engineer by.."
+        },
+        "name": {
+            "@value": "Poushali Sikdar"
+        },
+        "url": {
+            "@id": "http://themasalaroute.com/author/poushali/"
+        }
+    },
+    "datePublished": {
+        "@value": "2016-12-30"
+    },
+    "description": {
+        "@value": "Egg is a healthy food to be added on your regular meal, either in breakfast, lunch or dinner. But if you got bored just to eat a boiled egg or simple egg omelette in your breakfast, then this would be the right choice to make a twist taste on your regular egg. Potato Egg Omelette is really a delicious yet healthy and tasty dish to be added in your breakfast menu.Ingredients2  medium sized boiled potato4 eggssalt as required2 Tbsp olive oil\u00c2\u00bd tsp pepper or as required2 Tbsp finely chopped coriander leavesMethodStep 11.\tPeeled and mashed the boiled potato and keep it in a big bowl.  2.\tTake a bowl and beat 4 eggs well. Add salt and pepper into it and mix well.  3.\tNow, add the beaten egg in the mashed potato and mix well.  4.\tTake a pan and heat oil in it.  5.\tNow, spread the mixture of the egg potato into this pan.  6.\tAdd chopped coriander leaves on top of it.  7.\tCook it in the low flame until the bottom part of the omelette cooked properly and turn into yellowish brown in colour and upper part will set properly. If you want, you can cover the pan and cook it. IT would take approximately 10 mins.  8.\tNow, very carefully flip the other side of the omlette to cook. If you are not able to flip it at one turn, then it better to place the egg in a plate first and then close the plate and flip the omelette. After that place it on the pan again to cook. Cook it for another 5-6 min in low flame.  9.\tWhile the omelette becomes brown in colour in both side, remove it from the oven. 10.\tCut it into pieces and serve it hot.\u00a0Some More Breakfast Recipes:Kanda Poha Vegetable Rava Upma Bread Rava Toast Bread Upma Potato Carom Seeds Grilled Sandwich Junglee Chicken Sandwich Eggless Mango Mint PanCake Bread Pizza Bread Toast or Bread Besan Toast Instant Rava or Sooji Uttapam Matar Kachuri or Karaishutir Kochuri French Crepes Egg Mayo Sandwich Paneer Paratha"
+    },
+    "image": {
+        "@id": "http://themasalaroute.com/wp-content/uploads/2016/12/Potato-Omelette-575x572.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "2  medium sized boiled potato"
+        },
+        {
+            "@value": "2 Tbsp olive oil"
+        },
+        {
+            "@value": "2 Tbsp finely chopped coriander leaves"
+        },
+        {
+            "@value": "salt as required"
+        },
+        {
+            "@value": "4 eggs"
+        },
+        {
+            "@value": "\u00c2\u00bd tsp pepper or as required"
+        }
+    ],
+    "interactionCount": {
+        "@value": "UserComments:0"
+    },
+    "name": {
+        "@value": "Potato Omelette:"
+    },
+    "recipeInstructions": {
+        "@value": "1.\tPeeled and mashed the boiled potato and keep it in a big bowl.  2.\tTake a bowl and beat 4 eggs well. Add salt and pepper into it and mix well.  3.\tNow, add the beaten egg in the mashed potato and mix well.  4.\tTake a pan and heat oil in it.  5.\tNow, spread the mixture of the egg potato into this pan.  6.\tAdd chopped coriander leaves on top of it.  7.\tCook it in the low flame until the bottom part of the omelette cooked properly and turn into yellowish brown in colour and upper part will set properly. If you want, you can cover the pan and cook it. IT would take approximately 10 mins.  8.\tNow, very carefully flip the other side of the omlette to cook. If you are not able to flip it at one turn, then it better to place the egg in a plate first and then close the plate and flip the omelette. After that place it on the pan again to cook. Cook it for another 5-6 min in low flame.  9.\tWhile the omelette becomes brown in colour in both side, remove it from the oven. 10.\tCut it into pieces and serve it hot."
+    },
+    "url": {
+        "@value": "http://themasalaroute.com/recipe/potato-omelette/"
+    },
+    "@id": "http://example.org/recipe"
+}

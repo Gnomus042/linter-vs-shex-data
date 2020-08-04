@@ -1,0 +1,136 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon sugar\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon salt\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup dark chocolate chips\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon salt\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Crust\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Filling\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 can (15 oz.) pumpkin puree\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups graham cracker crumbs\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon cornstarch\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup butter, melted\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "cocoa, for dusting (optional)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 tablespoons (1/2 stick) butter\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 and 1/2 cups chocolate chips\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon vanilla\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 and 1/2 cups evaporated milk\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Null"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 and 1/2 teaspoons pumpkin pie spice\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup cocoa\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 eggs\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons firmly packed light brown sugar\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon pumpkin pie spice\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 cup firmly packed light brown sugar\n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Chocolate Pumpkin Pie"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Preheat the oven to 350. Spray a 9-inch pie pan with cooking spray.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Press the mixture into the pie pan. Bake for 10 minutes.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a bowl, combine the melted butter, graham cracker crumbs, cocoa, sugars, salt and pumpkin pie spice until all ingredients are combined and moistened.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "While you're waiting, make the filling. In a microwave-safe bowl, melt the butter and chocolate chips for 1 minute. Stir until the chocolate melts smoothly into the butter. Set aside.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spread the melted chocolate chips in the pie crust evenly over the bottom. \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "When the crust comes out of the oven, sprinkle it with the 1/2 cup of chocolate chips. Wait for a few minutes.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cool completely. Chill overnight. Dust with cocoa if desired and then cut into wedges and serve."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour the filling into the crust. Place the pie carefully on a cookie sheet and place in the oven. Bake for 65-75 minutes until the center is firm.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Combine the remaining filling ingredients in a bowl. Pour the chocolate mixture into the pumpkin mixture, making sure the filling is smooth and all ingredients are evenly incorporated.\n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,149 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemReviewed": {
+            "@language": "en",
+            "@value": "Spicy Watermelon Texas Mule"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5.0"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "3"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "H-E-B"
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\tN/A"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2016-07-20 01:26:05.513"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Place watermelon, mint leaves and candied jalapenos in a blender, and blend until smooth.,Pour through a fine mesh strainer into a cocktail shaker.,Add vodka and simple syrup, and shake about 30 seconds.,Pour into 2 glasses filled with ice then top off with ginger beer."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images.heb.com/is/image/HEBGrocery/recipe-hm-large/spicy-watermelon-texas-mule-recipe.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Spicy Watermelon Texas Mule"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "430"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "60"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "0"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "80"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "59"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0.0"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t5 minutes"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Drink"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "3 Oz simple syrup"
+        },
+        {
+            "@language": "en",
+            "@value": "6 Byers' Best Candied Jalape\u00f1os"
+        },
+        {
+            "@language": "en",
+            "@value": "4 fl oz ginger beer"
+        },
+        {
+            "@language": "en",
+            "@value": "6 Oz vodka"
+        },
+        {
+            "@language": "en",
+            "@value": "8 fresh mint leaves"
+        },
+        {
+            "@language": "en",
+            "@value": "16 Oz H-E-B Watermelon Chunks"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAdd vodka and simple syrup, and shake about 30 seconds."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlace watermelon, mint leaves and candied jalapenos in a blender, and blend until smooth."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPour through a fine mesh strainer into a cocktail shaker."
+        },
+        {
+            "@language": "en",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPour into 2 glasses filled with ice then top off with ginger beer."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t2\u00a0 People\n\t\t\t\t\t\t\t\t\t\t\t\t"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t5 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

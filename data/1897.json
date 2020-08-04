@@ -1,0 +1,24 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "nl",
+        "@value": "\n            \n                    Een heerlijke zoete dip met een vleugje pit. Bijvoorbeeld heerlijk bij gegrilde gamba's of gebakken kip.\n                "
+    },
+    "prepTime": {
+        "@language": "nl",
+        "@value": "10 min."
+    },
+    "recipeIngredient": {
+        "@language": "nl",
+        "@value": "\n                                    1 EAT ME mango1 EAT ME cayenne peper1 tomaat1 knoflookteenpeper & zout\n            \n                                "
+    },
+    "recipeInstructions": {
+        "@language": "nl",
+        "@value": "\n                        Snijd de mango langs weerszijden van de pit en lepel het vruchtvlees uit.Snijd het vruchtvlees van de mango en de tomaat in kleine blokjes.Voeg naar smaak de fijngesneden chilipeper & knoflook toe.Meng alle ingredi\u00ebnten door elkaar.Breng de salsa op smaak met peper en zout. \u00a0\n                    "
+    },
+    "recipeYield": {
+        "@language": "nl",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

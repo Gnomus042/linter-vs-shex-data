@@ -1,0 +1,146 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "de-DE",
+            "@value": "2"
+        },
+        "reviewCount": {
+            "@language": "de-DE",
+            "@value": "3"
+        }
+    },
+    "author": {
+        "@language": "de-DE",
+        "@value": "haseimglueck"
+    },
+    "datePublished": {
+        "@language": "de-DE",
+        "@value": "2016-07-28 22:17:22"
+    },
+    "image": {
+        "@id": "https://www.haseimglueck.de/wp-content/uploads/2016/07/Bl\u00e4tterteig-Zopf-Apfelkaramell-05_5507-256x384.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "de-DE",
+            "@value": "100 g Frischk\u00e4se (z.B. Arla Buko\u00ae Balance)"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "120 g Puderzucker"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "0,5 St Vanilleschote"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "2 El Milch"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "115 g Roher Rohrzucker"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 St \u00c4pfel"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "50 g Butter (z.B. Arla K\u00e6rg\u00e5rden\u00ae Ungesalzen)"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Pkg Bl\u00e4tterteig"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "20 g Haseln\u00fcsse gehackt"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 St Ei (davon das Eiwei\u00df)"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Tl Zimt"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "1 Tl Zitronensaft"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "2 Tl Wasser"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "50 g Zucker"
+        }
+    ],
+    "name": {
+        "@language": "de-DE",
+        "@value": "Bl\u00e4tterteigzopf mit K\u00e4sekuchen Apfelkaramell F\u00fcllung"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "de-DE",
+            "@value": "Den Zopf ca. 20 Minuten im vorgeheizten Backofen backen und 10 Minuten abk\u00fchlen lassen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Frischk\u00e4se und Zucker mit dem Handr\u00fchrger\u00e4t ca. 3 Minuten cremig schlagen. Das Mark der Vanilleschote hinzugeben, gut verr\u00fchren und in den K\u00fchlschrank stellen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Mischung auf einem Backpapier verteilen und komplett abk\u00fchlen lassen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Auf das mittlere (unversehrte) Teigst\u00fcck zun\u00e4chst die Frischk\u00e4se-Masse und dar\u00fcber die Apfelkaramell-Masse verteilen. Dann von au\u00dfen nach innen abwechselnd die Streifen von rechts und links nach innen \u00fcbereinander \u00fcber die F\u00fcllung legen. "
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Die Butter in einer Pfanne auf mittlerer Hitze ca. 8 Minuten erw\u00e4rmen, bis sie leicht braun wird. Die Apfelmischung in die Butter einr\u00fchren und 15 Minuten ziehen lassen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Mit dem Messer die \u00e4u\u00dferen beiden Drittel leicht diagonal von oben nach unten einschneiden (je schmaler die Streifen, umso sch\u00f6ner wird der Zopf)."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Zucker, Zimt, Zitronensaft und das Mark der Vanilleschote vermischen. Den Apfel sch\u00e4len, entkernen, in kleine W\u00fcrfel schneiden und mit der Zuckermischung verr\u00fchren."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Den Bl\u00e4tterteig auf einem Backpapier l\u00e4ngs zu einem selbst ausrollen und mit einem Messer ganz leicht einritzen, sodass er in drei gleichgro\u00dfe Teile geteilt ist."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Den Backofen auf 200 Grad Ober-/ Unterhitze vorheizen. "
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Den fertigen Zopf mit dem Eiwei\u00df bestreichen und die gehackten Haseln\u00fcsse \u00fcber dem Zopf verteilen."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Das Eiwei\u00df mit dem Wasser verr\u00fchren."
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Puderzucker und Milch verr\u00fchren, die Glasur \u00fcber dem Zopf verteilen und weitere 10 Minuten stehen lassen bevor man ihn in St\u00fccke schneidet."
+        }
+    ],
+    "recipeYield": {
+        "@language": "de-DE",
+        "@value": "6 Portionen"
+    },
+    "url": {
+        "@language": "de-DE",
+        "@value": "https://www.haseimglueck.de/recipe/blaetterteigzopf-mit-kaesekuchen-apfelkaramell-fuellung-rezept/"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,58 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "cs-CZ",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "cs-CZ",
+            "@value": "221"
+        }
+    },
+    "author": {
+        "@language": "cs-CZ",
+        "@value": "..."
+    },
+    "description": {
+        "@language": "cs-CZ",
+        "@value": "bor\u016fvkov\u00e9 smoothie, n\u00e1poje, smoothie"
+    },
+    "image": {
+        "@id": "http://kucharka.cbmonitor.cz/recepty/boruvkove-smoothie/7260//recepty/none.png"
+    },
+    "ingredients": [
+        {
+            "@language": "cs-CZ",
+            "@value": "hrst bor\u016fvek "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "b\u00edl\u00fd jogurt "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "l\u00edstek m\u00e1ty "
+        }
+    ],
+    "name": {
+        "@language": "cs-CZ",
+        "@value": "Bor\u016fvkov\u00e9 smoothie"
+    },
+    "recipeCategory": [
+        {
+            "@language": "cs-CZ",
+            "@value": "n\u00e1poje"
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "smoothie"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "cs-CZ",
+        "@value": "Recept bor\u016fvkov\u00e9 smoothie p\u0159iprav\u00edme takto: V\u0161echny suroviny d\u00e1me do mix\u00e9ru a rozmixujeme dohladka.Dal\u0161\u00ed recepty v kategorii N\u00e1poje \u00a0 Dal\u0161\u00ed recepty v kategorii Smoothie "
+    },
+    "@id": "http://example.org/recipe"
+}

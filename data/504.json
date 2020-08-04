@@ -1,0 +1,95 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "sr",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "sr",
+            "@value": "0"
+        },
+        "ratingValue": {
+            "@language": "sr",
+            "@value": "0"
+        },
+        "worstRating": {
+            "@language": "sr",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@id": "https://www.recepti.com/profile/view/20286"
+    },
+    "image": {
+        "@id": "https://www.recepti.com/img/recipe/18957-krastavci-punjeni-feferonama.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "sr",
+            "@value": "po ukusu beli luka"
+        },
+        {
+            "@language": "sr",
+            "@value": "400 g \u0161e\u0107era"
+        },
+        {
+            "@language": "sr",
+            "@value": "6 l vode"
+        },
+        {
+            "@language": "sr",
+            "@value": "po ukusu sla\u010dice"
+        },
+        {
+            "@language": "sr",
+            "@value": "1 kg feferoni"
+        },
+        {
+            "@language": "sr",
+            "@value": "2 l sir\u0107a"
+        },
+        {
+            "@language": "sr",
+            "@value": "po ukusu bibera"
+        },
+        {
+            "@language": "sr",
+            "@value": "300 g soli"
+        },
+        {
+            "@language": "sr",
+            "@value": "1 veza miro\u0111ije"
+        },
+        {
+            "@language": "sr",
+            "@value": "9 kg krastavaca "
+        },
+        {
+            "@language": "sr",
+            "@value": "2 kesice vinobrana"
+        }
+    ],
+    "interactionCount": {
+        "@language": "sr",
+        "@value": "UserComments:2"
+    },
+    "name": {
+        "@language": "sr",
+        "@value": "Krastavci punjeni feferonama"
+    },
+    "recipeInstructions": {
+        "@language": "sr",
+        "@value": "Oprati krastavce, ise\u0107i krajeve, pa izdubiti u sredini, (ja sam koristila o\u0161tra\u010d za no\u017e). Ugurati feferonu, a zatim iseckati krastavac i pore\u0111ati u teglu. Ubaciti biber, sla\u010dicu, miro\u0111iju i 2-3 \u010dena belog luka i preliti smesu."
+    },
+    "recipeYield": {
+        "@language": "sr",
+        "@value": "\n\t\t\t\t\t20 osoba\n\t\t\t\t"
+    },
+    "totalTime": {
+        "@language": "sr",
+        "@value": "PT60M"
+    },
+    "@id": "http://example.org/recipe"
+}

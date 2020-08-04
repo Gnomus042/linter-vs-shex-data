@@ -1,0 +1,115 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Lindsey Johnson"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "A creamy, non-dairy pudding infused with delicious spices and orange zest, and topped with fruit."
+    },
+    "image": {
+        "@id": "http://cafejohnsonia.com/wp-content/uploads/2011/12/Tembleque-de-Coco-640x435.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "For serving:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3-4 tablespoons pure maple syrup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup pomegranate arils"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2-3 allspice berries"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1-2 cans mandarin orange segments, or 2 fresh clementines, peeled and segmented"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup cornstarch"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 whole cloves"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2-3 strips of orange zest (removed with a vegetable peeler, orange part only)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc teaspoon sea salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp. vanilla extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2\u00bd cups canned coconut milk, light or full-fat, divided"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd\" piece peeled ginger, cut into four \u215b\" slices"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 green cardamom pods"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Spiced Tembleque de Coco with Orange and Pomegranate"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "desert"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Spanish"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Whisk in the maple syrup slowly, followed by \u00bc cup of the coconut milk. Set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a pan, heat the remaining coconut milk with whole spices. Bring to a simmer and turn off heat. Let steep for at least 30 minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Whisk constantly and cook for 1 minute, until thickened. Remove from heat and pour into four 8-ounce bowls. Press plastic wrap on the surface and chill until cold."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Sift cornstarch and whisk with salt in a medium bowl."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Strain the mixture through a fine-mesh sieve into a clean bowl or large measuring cup. Discard the spices and orange zest."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Whisk the cornstarch mixture onto the coconut milk. Pour back into the saucepan and bring to a boil."
+        },
+        {
+            "@language": "en-US",
+            "@value": "To serve \u2013 top the pudding with mandarin oranges and pomegranate arils. Serve chilled."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

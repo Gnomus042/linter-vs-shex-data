@@ -1,0 +1,95 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-GB",
+        "@value": "The Bearded Baker"
+    },
+    "image": {
+        "@id": "https://i0.wp.com/farm9.staticflickr.com/8599/15256588034_b71943ddb1_z.jpg?w=205&ssl=1"
+    },
+    "ingredients": [
+        {
+            "@language": "en-GB",
+            "@value": "\u2022 135g bread flour"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u2022 \u00bc teaspoon ground ginger"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u2022 1 teaspoon ground cinnamon"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u2022 2 eggs, beaten"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u2022 1 teaspoon vanilla extract"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u2022 220g dark brown soft sugar"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u2022 \u00bd teaspoon ground nutmeg"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u2022 \u00bd teaspoon baking powder"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u2022 175g tinned pumpkin"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u2022 \u00bd teaspoon bicarbonate of soda"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "\u2022 110g margarine"
+        }
+    ],
+    "name": {
+        "@language": "en-GB",
+        "@value": "Pumpkin Spice and Pecan Loaf"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-GB",
+            "@value": "Pour the mixture into the prepared tin. (Optional \u2013 if you want to do the swirl, mix some cinnamon with brown sugar. Add half the batter, spread some of the cinnamon sugar mix on top then pour the rest of the cake batter on top of this)."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "In the bowl of an electric mixer (or by hand) cream together the margarine and the sugar."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Preheat the oven to: 180\u00b0C and either grease or line a loaf tin."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Drizzle with icing if desired."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Allow to cool before removing from the tin."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Place in the center of the oven and bake for approx. 35 mins or until a tooth pick inserted into the center comes out clean."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Beat in the eggs one at a time. Add in the rest of the ingredients and mix until smooth."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-GB",
+        "@value": "1 Loaf"
+    },
+    "@id": "http://example.org/recipe"
+}

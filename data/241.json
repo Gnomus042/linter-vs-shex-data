@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://foodhero.org/sites/default/files/recipe-imgs/Chunky%20Black%20Bean%20Dip_0.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "es",
+            "@value": " 1 cucharada de  vinagre de sidra de manzana"
+        },
+        {
+            "@language": "es",
+            "@value": " 1  diente de  ajo finamente picado o 1/4 de cucharadita de ajo en polvo"
+        },
+        {
+            "@language": "es",
+            "@value": " 1\u20442 taza  cebolla cortada"
+        },
+        {
+            "@language": "es",
+            "@value": " 1   chile campana peque\u00f1o, cortado"
+        },
+        {
+            "@language": "es",
+            "@value": " 1   tomate mediano cortado"
+        },
+        {
+            "@language": "es",
+            "@value": " 1 cucharadita de  comino"
+        },
+        {
+            "@language": "es",
+            "@value": " 1 cucharadita de  chile en polvo"
+        },
+        {
+            "@language": "es",
+            "@value": " 1 lata (15 onzas) de  frijoles negros, enjuagados y escurridos"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

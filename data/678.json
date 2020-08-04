@@ -1,0 +1,91 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Vegan Insanity"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Easy, delicious, and vegan. What more could you ask for?"
+    },
+    "image": {
+        "@id": "http://www.veganinsanity.com/wp-content/uploads/2014/04/Vegan-Cashew-Cheeze-Toasts.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 cup raw cashews, soaked for at least 2 hours"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp onion powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "12-inch baguette, sliced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp lemon juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "fresh parsley for garnish, if desired"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 cup nutritional yeast"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 small-medium garlic cloves"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc tsp freshly ground black pepper"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Mini Garlic Bread Cheeze Toasts"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Appetizer"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Add all ingredients (except baguette) into a food processor or high-powered blender and process/blend until smooth."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Sprinkle with fresh parsley, if desired."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Spread cashew cheese onto your baguette slices and broil for about 5 minutes, or until the edges of your bread are lightly browned. Watch them carefully so they don't burn!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pre-heat your broiler."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Transfer mixture to an air-tight container and refrigerate for at least 1 hour."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "15-20 slices"
+    },
+    "@id": "http://example.org/recipe"
+}

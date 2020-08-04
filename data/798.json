@@ -1,0 +1,78 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "6"
+        },
+        "ratingValue": {
+            "@value": "                        \n    5\n        "
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Annie"
+        }
+    },
+    "description": {
+        "@value": "Ce g\u00e2teau \"terroir\" est fait d'une p\u00e2te \u00e0 pain beurr\u00e9e et sucr\u00e9e, pli\u00e9e comme une p\u00e2te feuillet\u00e9e, le tout bien caram\u00e9lis\u00e9. \nC'est un g\u00e2teau au beurre originaire de Bretagne..."
+    },
+    "image": {
+        "@id": "https://cdn.lacuisinedannie.com/images/1374.jpg"
+    },
+    "keywords": {
+        "@value": "Bretagne"
+    },
+    "name": {
+        "@value": "Recette Kouign amann                                      \n                                    "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "\n                                    345 kCal"
+        },
+        "servingSize": {
+            "@value": "1 part"
+        }
+    },
+    "recipeCategory": {
+        "@value": "Dessert"
+    },
+    "recipeCuisine": {
+        "@value": "G\u00e2teaux"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "180 g de sucre"
+        },
+        {
+            "@value": "180 g de beurre"
+        },
+        {
+            "@value": "200 g de farine de  bl\u00e9 55 (ou froment)"
+        },
+        {
+            "@value": "1 cuiller\u00e9e \u00e0 soupe de lait.                            "
+        },
+        {
+            "@value": "125 g d\u2019eau (\u00e0 130 g en fonction de la farine)"
+        },
+        {
+            "@value": "2 g de levure de boulangerie s\u00e8che (1/2 tsp) ou 8 g de levure fra\u00eeche de boulangerie"
+        },
+        {
+            "@value": "2 g de  sel (1/2 tsp)"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        La p\u00e2te \u00e0 pain :Faire une fontaine avec la farine en mettant au centre la levure. Ajouter progressivement l\u2019eau froide en incorporant la farine jusqu\u2019\u00e0 obtenir une une boule de p\u00e2te souple et \u00e9lastique. Ne pas oublier le sel en \u00e9vitant que le sel ne touche directement la levureLaisser reposer la p\u00e2te environ 30 mn environ Le feuilletage :Sur un plan de travail farin\u00e9, aplatir la p\u00e2te sur 1 cm d\u2019\u00e9paisseur environ. Poser dessus 180 g de beurre souple et froid en forme de galette et par dessus 180 g de sucre en poudre   Refermer la p\u00e2te sur le beurre et le sucre comme pour une p\u00e2te feuillet\u00e9e Aplatir et donner 1 er tour en pliant la p\u00e2te en 3   Aplatir \u00e0 nouveau et donner un 2 \u00e8me tour en pliant encore la p\u00e2te en 3 La cuissonMettre la p\u00e2te en boule et l\u2019aplatir pour la mettre dans le moule beurr\u00e9 Dorer au lait D\u00e9corer en faisant des losanges \u00e0 l\u2019aide d\u2019un couteau sans entailler la p\u00e2te Enfourner \u00e0 200\u00b0 pendant 35 \u00e0 40 min Surveiller la cuisson et au moins 1 fois  en cours de cuisson, arroser le dessus du g\u00e2teau \u00e0 l'aide d'une cuill\u00e8re \u00e0 soupe avec le beurre qui s\u2019\u00e9chappe Servir chaud                         "
+    },
+    "recipeYield": {
+        "@value": "8"
+    },
+    "@id": "http://example.org/recipe"
+}

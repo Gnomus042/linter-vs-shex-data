@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "de-DE",
+        "@value": "https://sifu.unileversolutions.com/image/de-DE/recipe-topvisual/2/1260-709/tomaten-mozzarella-salat-puerierte-kost-50388707.jpg"
+    },
+    "name": {
+        "@language": "de-DE",
+        "@value": "Tomaten-Mozzarella-Salat / P\u00fcrierte Kost"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "de-DE",
+            "@value": "KNORR Collezione Italiana Tomato Pronto"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "RAMA Cremefine Schlagcreme"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Salz"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Knorr Basis f\u00fcr p\u00fcrierte Kost und Auflauf"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Knorr Salatkr\u00f6nung Italienische Art, zubereitet"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Balsamicoessig, wei\u00df"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Buttermilch"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Oliven\u00f6l"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Mozzarella"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Tomatenp\u00fcree"
+        },
+        {
+            "@language": "de-DE",
+            "@value": "Zucker"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "de-DE",
+            "@value": "\n                        Tomaten-Espuma:\n                        \n                        "
+        },
+        {
+            "@language": "de-DE",
+            "@value": "\n                        Mozzarella-Espuma:\n                        \n                        "
+        },
+        {
+            "@language": "de-DE",
+            "@value": "\n                        Anrichten:\n                        \n                        "
+        },
+        {
+            "@language": "de-DE",
+            "@value": "\n                        Salat:\n                        \n                        "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

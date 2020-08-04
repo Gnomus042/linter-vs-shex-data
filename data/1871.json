@@ -1,0 +1,97 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-gb",
+        "@value": "30 min"
+    },
+    "image": {
+        "@id": "https://www.lurpak.co.uk/cooking-with-lurpak/carrot-cake-cardamom-orange-zest-buttercream//optimized/variable-medium/siteassets/lurpak_tk1_hero_image__r5-carrotcake_vfinal_b.jpg"
+    },
+    "name": {
+        "@language": "en-gb",
+        "@value": "Carrot cake with a cardamom and orange zest buttercream"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-gb",
+            "@value": "3 free range eggs"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "Zest of 2 oranges"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "200g Lurpak Salted Butter"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "1 tsp ground cinnamon"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "Grease and line 2 x 20cm cake tins"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "150g Unsalted Lurpak Butter, melted"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "200g carrots, peeled and finely grated"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "Preheat oven to 180c/160c fan"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "150g soft light brown sugar"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "2-3 tbsp full fat milk"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "400g icing sugar"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "2 tsp ground cardamom"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "200g self-rising flour"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "1 tsp bicarbonate of soda"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "50g pistachios, toasted and roughly chopped, plus extra to decorate"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "1/2 tsp salt"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "1/2 tsp grated nutmeg"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "For the buttercream:"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-gb",
+        "@value": "\n\t\t\t\tPreparation\n\t\t\t\t\nCome holidays, summer or autumn \u2013 our Carrot cake with a cardamom and orange zest buttercream recipe fits the bill every time. \nLayered with touches of aromatic nutmeg, cinnamon and toasted pistachios, in addition to plentiful amounts of peeled carrots, this softly spiced cake also enjoys a topping of rich buttercream with orange zest thanks to generous dashes of our Unsalted Lurpak Butter.\nServe this showstopper at any occasion and watch friends and family fall in love. Our straightforward recipe is going to show you how to make the most out of your forgotten spices in the back of cupboard in cherished dessert-classic.\nMethod:\nIn a large bowl beat together the melted butter, sugar and eggs until light and fluffy.\nYou want the mixture to have almost doubled in volume.\nMix together the flour, bicarbonate of soda, salt and spices and gently fold these into the butter mixture, trying not to knock out any of the air.\nGently fold in the carrots and pistachios and divide the mixture evenly between the two tins.\nBake on the middle shelf of the oven for about 25-30 minutes, until a skewer comes out clean when inserted to the centre of the cake. Cool in the tin for 15 minutes and then turn out onto a wire rack.\nMeanwhile, beat the salted butter for about 5 minutes until very light and fluffy. Add in the icing sugar, cardamom and orange zest and beat again until fully incorporated.\nFinally, slowly add in the milk and beat, adding just enough to loosen the mixture.\nCover the top of the first cake with half of the buttercream and place the second cake on top. Then cover the top with the other half of the buttercream and sprinkle with chopped pistachios.\nClassic, rich, moist\nSeasoned with sprinkles of mild spices including ground cardamom, cinnamon and nutmeg, aromas are warm and vivid. As they look to also deliver earthy, sweet and fresh notes, they pair beautifully with the slightly subtler nature of our moist carrot cake and buttercream garnish.\nSpeaking of, the base and top of our carrot cake enjoys the addition of toasted pistachios, in turn putting a unique yet familiar twist on this classic cake recipe. Finally, freckles of grated carrots seam the foundation as per tradition.\nFor our buttercream to attain its smooth consistency and creamy feel, it needs a rich batch of full fat milk, icing sugar and not least of all, plentiful dollops of butter, hence the name, buttercream. The addition of said butter not only helps to thicken our buttercream, it also works to boost flavour substantially.\nFor this recipe, we looked to our Lurpak Salted Butter as the main ingredient of our buttercream, as its clean palate and fresh flavours perfectly complements its surrounding ingredients. Also, in order for our carrot cake to achieve its moist feel and tender cut, melted Unsalted Lurpak Butter was our spread of choice! Together, their team-up delivers decadent flavours and rich texture.\nTips & Tricks\nThe look of your carrot cake is entirely up to you, and there are plenty of designs and techniques to choose from when deciding on how to decorate. The pliable nature of buttercream allows for wonderful creations only limited by your own imagination, and we have got a few tips and tricks to get you started just right.\nKeep your buttercream from sliding or falling off by letting your cake cool before you start applying the mixture. It might be easier said than done, but it really pays off in the end as it makes piping a lot more manageable. After about 15 minutes in the refrigerator, it should be good to go!\nWhen it comes to designing the layout and look of your carrot cake, the sky is the limit, and knowing how to work your piping bag makes a world of difference, especially if you are aiming for more intricate patterns.\nFill your piping bag two thirds of the way up, making sure to twist the end of the bag with one hand while guiding the other end with the other. When you are ready to apply your buttercream, squeeze the twisted end of the bag, allowing the cream to fall naturally \u2013 that should do it!\n\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-gb",
+        "@value": "8-10 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

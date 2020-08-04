@@ -1,0 +1,149 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": [
+        {
+            "@id": "_:N604ceef92fed4aef9b50e37f604539f8"
+        },
+        {
+            "@id": "_:N26234ca323984a08a5fd2c7bee092e1a"
+        },
+        {
+            "@id": "_:N0d7c367bbccd4cb4a26edc362d97c88b"
+        },
+        {
+            "@id": "_:N8b2619296b684a4d8f9e9194bba0a268"
+        },
+        {
+            "@id": "_:Nc700bb1e18994b30bd556eaad9c58101"
+        },
+        {
+            "@id": "_:N2f160f511c564095a20c2f5409594f91"
+        },
+        {
+            "@id": "_:N7e3803b4df4046eba8ff8614d7399d89"
+        },
+        {
+            "@id": "_:N17b8a05824924bda9ce62fb7b1f20bb4"
+        },
+        {
+            "@id": "_:N033164acdd94454e86d57fd9d6d12df4"
+        },
+        {
+            "@id": "_:Ne3ccd991aa4e48d288ab95597471b0ef"
+        },
+        {
+            "@id": "_:N658eca3208bb4678a20699d23736aa15"
+        },
+        {
+            "@id": "_:N7223ca2ff8994524b681821729c74e74"
+        },
+        {
+            "@id": "_:Nf42e0370323c4fabb2895c69d79e4585"
+        },
+        {
+            "@id": "_:N85191e8b98204ffbba46a9245ebee74e"
+        },
+        {
+            "@id": "_:N64dbbc7029934b55bc0947ea0fb5c7ba"
+        },
+        {
+            "@id": "_:N9c6365fbe92441128095241faf2c8243"
+        },
+        {
+            "@id": "_:Nad990a6c59224c13b8bb194f1d99f381"
+        },
+        {
+            "@id": "_:N2e34812b28d9479b996eb0b3121f4105"
+        },
+        {
+            "@id": "_:N311ac5fb3829437fa723a90cb2bfff70"
+        },
+        {
+            "@id": "_:N1198817ec1c04805aa9b6ee131887b7b"
+        },
+        {
+            "@id": "_:Na031e9c26efd470890baaf455a683887"
+        },
+        {
+            "@id": "_:N7b9a82919ad14671804beaa8a990e7f0"
+        },
+        {
+            "@id": "_:N0083be2154ba42b3b1d9375c03c7ba37"
+        },
+        {
+            "@id": "_:Nfdc39c266466436aacc62f0df1f1c411"
+        },
+        {
+            "@id": "_:Nb8e6b7ad62ad483395f29a2e2c1e5764"
+        }
+    ],
+    "author": {
+        "@value": "THERMOMIX \u00ae REZEPT"
+    },
+    "dateModified": {
+        "@value": "2012-12-16"
+    },
+    "datePublished": {
+        "@value": "2012-12-11"
+    },
+    "description": {
+        "@value": "\n                                                                        Teig\n                                    \n                                                                                                            \n                                                                                    \n                                    Butter, Eier und Zucker in den\u00a0 geben und 2-3 Min. auf Stufe 4 r\u00fchren.Dann Milch, Mehl und Backpulver dazugeben und alles nochmals 3 Min. auf Stufe 3 r\u00fchren. eventl. Teig \u00a0zwischendurch mit der Spatel nach untenschieben.Teig auf ein gefettetes Backblech oder mit Backpapier belegt streichen undca. 30-40 Min. bei 200 Grad im vorgeheizten Ofen backen.Sofort nach dem Backen in W\u00fcrfel schneiden (Gr\u00f6\u00dfe nach belieben) undausk\u00fchlen lassen.\n                                \n                                                                                                                                                                Schoko-Rum-Gu\u00df\n                                    \n                                                                                                            \n                                                                                    \n                                    Schoko-Rum-Gu\u00df mache ich am Herd weil ich da den Topf immererw\u00e4rmen kann und das Messer beim eintauchen der W\u00fcrfel nicht st\u00f6rt.Palmin zerlassen, Puderzuder langsam einr\u00fchren, Milch und Kakaodazugeben und alles gut erw\u00e4rmen. Zum Schlu\u00df den Rum dazugeben. Jetzt vomHerd nehmen und die erkalteten W\u00fcrfel nacheinander eintauchen und\u00a0anschl.\u00a0in Kokosraspeln wenden. Den Gu\u00df ab und zu wieder erw\u00e4rmen.\n                                \n                                                                                                            "
+    },
+    "image": {
+        "@id": "https://de.rc-cdn.community.thermomix.com/recipeimage/vdn96rsp-c55fa-105283-cfcd2-fdccmr9m/7765bb35-478e-4417-bf3e-f3e95cc4f9e7/main/kokos-rum-wuerfel.jpg"
+    },
+    "name": {
+        "@value": "Kokos-Rum-W\u00fcrfel"
+    },
+    "recipeCategory": {
+        "@id": "https://www.rezeptwelt.de/backen-suess-rezepte/kokos-rum-wuerfel/vdn96rsp-c55fa-105283-cfcd2-fdccmr9m//kategorien/backen-su%C3%9F"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n                                    600-800\n                                                    g\n                                                    Kokosraspeln                                            "
+        },
+        {
+            "@value": "\n                                    500\n                                                    g\n                                                    Mehl                                            "
+        },
+        {
+            "@value": "\n                                    500\n                                                    g\n                                                    Zucker                                            "
+        },
+        {
+            "@value": "\n                                    4\n                                                    St\u00fcck\n                                                    Eier                                            "
+        },
+        {
+            "@value": "\n                                    500\n                                                    g\n                                                    Puderzucker                                            "
+        },
+        {
+            "@value": "\n                                    160\n                                                    g\n                                                    Butter                                            "
+        },
+        {
+            "@value": "\n                                    1/2\n                                                    P\u00e4ckchen\n                                                    Backpulver                                            "
+        },
+        {
+            "@value": "\n                                    500\n                                                    g\n                                                    Palmin soft                                            "
+        },
+        {
+            "@value": "\n                                    20\n                                                    Essl\u00f6ffel\n                                                    Milch                                            "
+        },
+        {
+            "@value": "\n                                    8\n                                                    Essl\u00f6ffel\n                                                    Kakao                                            "
+        },
+        {
+            "@value": "\n                                    300\n                                                    g\n                                                    Milch                                            "
+        },
+        {
+            "@value": "\n                                    15-20\n                                                    Essl\u00f6ffel\n                                                    Rum 60%                                            "
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        \n                        5\n                                            Zubereitung\n        \n                                                                        Teig\n                                    \n                                                                                                            \n                                                                                    \n                                    Butter, Eier und Zucker in den\u00a0 geben und 2-3 Min. auf Stufe 4 r\u00fchren.Dann Milch, Mehl und Backpulver dazugeben und alles nochmals 3 Min. auf Stufe 3 r\u00fchren. eventl. Teig \u00a0zwischendurch mit der Spatel nach untenschieben.Teig auf ein gefettetes Backblech oder mit Backpapier belegt streichen undca. 30-40 Min. bei 200 Grad im vorgeheizten Ofen backen.Sofort nach dem Backen in W\u00fcrfel schneiden (Gr\u00f6\u00dfe nach belieben) undausk\u00fchlen lassen.\n                                \n                                                                                                                                                                Schoko-Rum-Gu\u00df\n                                    \n                                                                                                            \n                                                                                    \n                                    Schoko-Rum-Gu\u00df mache ich am Herd weil ich da den Topf immererw\u00e4rmen kann und das Messer beim eintauchen der W\u00fcrfel nicht st\u00f6rt.Palmin zerlassen, Puderzuder langsam einr\u00fchren, Milch und Kakaodazugeben und alles gut erw\u00e4rmen. Zum Schlu\u00df den Rum dazugeben. Jetzt vomHerd nehmen und die erkalteten W\u00fcrfel nacheinander eintauchen und\u00a0anschl.\u00a0in Kokosraspeln wenden. Den Gu\u00df ab und zu wieder erw\u00e4rmen.\n                                \n                                                                                                            \n                        "
+    },
+    "tool": {
+        "@value": "Spatel"
+    },
+    "url": {
+        "@value": "/backen-suess-rezepte/kokos-rum-wuerfel/vdn96rsp-c55fa-105283-cfcd2-fdccmr9m"
+    },
+    "@id": "http://example.org/recipe"
+}

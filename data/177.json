@@ -1,0 +1,34 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "2.46"
+        },
+        "reviewCount": {
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@value": "Null"
+    },
+    "dateCreated": {
+        "@value": "2007-09-25"
+    },
+    "image": {
+        "@id": "http://www.recetasfacil.com/view_recipe.php?id=21&recipe_title=salsa-agridulce-casera//admin/uploads/L_recipe_21.jpg"
+    },
+    "name": {
+        "@value": "Receta f\u00e1cil de Salsa agridulce casera"
+    },
+    "recipeCategory": {
+        "@value": "Muy buen acompa\u00f1ante para la carne: cerdo, chuletas, etc."
+    },
+    "recipeIngredient": {
+        "@value": "- 1 cucharada y media sopera de az\u00facar.\n- 2 cucharadas soperas de vinagre.\n- 1 cucharada sopera de concentrado de tomate.\n- 1 cucharada sopera de salsa de soja.\n- 3 cucharadas soperas de zumo de naranja.\n- 1 cucharadita de maizena.\n- 4 cucharadas soperas de agua.\n \n\n\t\t"
+    },
+    "recipeInstructions": {
+        "@value": "1- En un cazo se pone el az\u00facar, el vinagre, el concentrado de tomate, la salsa de soja y el zumo de naranja.\n\n2- En una taza ligamos la maizena con el agua.\n\n3- Se mezclan los preparados de los pasos 1 y 2, se ponen a fuego lento a hervir.\n\n4- Se sirve caliente o templada y ya tenemos una rica salsa agridulce casera         Comparte esta receta con tus amig@s!\n        \n\n        \n\n\n  {lang: 'es'}\n\n\n\n\n\n\n\n\n\n\t\t\t\n\n\t\tReceta recomendada para\n\n\t\tMuy buen acompa\u00f1ante para la carne: cerdo, chuletas, etc.\t\n\n\t\tCalor\u00edas\n\n\t\t52\t\n    \n   \n\n\t\tTiempo de preparaci\u00f3n\n\n\t\t15 min\t\n\n\t"
+    },
+    "@id": "http://example.org/recipe"
+}

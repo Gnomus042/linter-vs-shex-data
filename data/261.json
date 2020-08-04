@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "pl",
+        "@value": "JINKINGKING PhonePart Store"
+    },
+    "brand": {
+        "@language": "pl",
+        "@value": "rwito.website"
+    },
+    "image": {
+        "@language": "pl",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1Evm5adzvK1RkSnfoq6zMwVXaW/5-5-oryginalny-wy\u015bwietlacz-dla-XIAOMI-Redmi-uwaga-2-LCD-ekran-dotykowy-z-ramk\u0105-wymiana-dla.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "pl",
+            "@value": "32960680299"
+        },
+        {
+            "@language": "pl",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "pl",
+        "@value": "5.5 \"oryginalny wy\u015bwietlacz dla XIAOMI Redmi uwaga 2 LCD ekran dotykowy z ramk\u0105 wymiana dla Xiaomi Redmi uwaga 2 wy\u015bwietlacz LCD"
+    },
+    "@id": "http://example.org/recipe"
+}

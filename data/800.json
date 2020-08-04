@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ar",
+        "@value": "YSIST Official Store"
+    },
+    "brand": {
+        "@language": "ar",
+        "@value": "lpfb.us"
+    },
+    "image": {
+        "@language": "ar",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1lWzNXyLxK1Rjy0Ffq6zYdVXaL/\u062a\u062a\u062d\u0645\u0644-\u062d\u062c\u0645-57-\u0645\u0644\u0644\u064a-\u0645\u062a\u0631-0280750036-\u062a\u062c\u0645\u064a\u0639-\u062c\u0633\u0645-\u0627\u0644\u062e\u0627\u0646\u0642-\u0644\u0641\u0648\u0644\u0643\u0633-\u0648\u0627\u062c\u0646-\u0628\u0648\u0631\u0627-\u062c\u0648\u0644\u0641-\u062c\u064a\u062a\u0627-\u0628\u064a\u062a\u0644-\u0633\u0643\u0648\u062f\u0627.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ar",
+            "@value": "32915473560"
+        },
+        {
+            "@language": "ar",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "ar",
+        "@value": "\u062a\u062a\u062d\u0645\u0644 \u062d\u062c\u0645 57 \u0645\u0644\u0644\u064a \u0645\u062a\u0631 0280750036 \u062a\u062c\u0645\u064a\u0639 \u062c\u0633\u0645 \u0627\u0644\u062e\u0627\u0646\u0642 \u0644\u0641\u0648\u0644\u0643\u0633 \u0648\u0627\u062c\u0646 \u0628\u0648\u0631\u0627 \u062c\u0648\u0644\u0641 \u062c\u064a\u062a\u0627 \u0628\u064a\u062a\u0644 \u0633\u0643\u0648\u062f\u0627 \u0645\u0642\u0639\u062f 1.8L 06A133062C"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,162 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Betty Crocker Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "02/20/1998"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "08/18/2010"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Hamburger Helper\u00ae beef pasta provides a simple addition to a no-fuss beef skillet that's ready in 30 minutes. Perfect if you love Asian cuisine."
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/c2682942-fd62-4ff0-8643-34f5fa70c78a.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "ginger asian beef"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Ginger Asian Beef"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "310 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "31 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "55 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "0 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "3 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "21 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "4 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Serving "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "1110 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "6 g"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "1/2 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H30M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Entree"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Asian"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    3 2/3\n                \n            \n            \n                \n                    \n                        \n                    \n                    cups hot water\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    teaspoon ground ginger\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoons soy sauce\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    box (5.6 oz) Hamburger Helper\u2122 beef pasta\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    lb lean (at least 80%) ground beef\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    bag (16 oz) frozen stir-fry vegetables\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoon honey\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:N180efdfc277d441faae06da10d60a7d4"
+        },
+        {
+            "@id": "_:Nce862241b4d64675beeb4d07f6bf3816"
+        },
+        {
+            "@id": "_:Ncda6bb2ae7a54789a9b30ec9c477bcbe"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "5"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT0H30M"
+    },
+    "@id": "http://example.org/recipe"
+}

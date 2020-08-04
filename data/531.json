@@ -1,0 +1,72 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://devbakespace.bakespace.com/recipes/detail/Piccata-Pork-Chops/18141//members/profile/lsjlife/1187/"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "12"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Don't skip the capers even if you won't eat them. They add plenty of flavor!"
+    },
+    "image": {
+        "@id": "http://devbakespace.bakespace.com/recipes/detail/Piccata-Pork-Chops/18141//images/large/default_recipe.gif"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Piccata Pork Chops"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "15"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "1/2 cup white wine\n"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons Dijon mustard\n"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons lemon juice"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons unsalted butter\n"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tablespoons olive oil\n"
+        },
+        {
+            "@language": "en",
+            "@value": "2 eggs\n"
+        },
+        {
+            "@language": "en",
+            "@value": "3/4 cup chicken broth\n"
+        },
+        {
+            "@language": "en",
+            "@value": "3 tablespoons capers\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1/2 cup seasoned dry bread crumbs\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 large shallot, chopped\n"
+        },
+        {
+            "@language": "en",
+            "@value": "4 boneless pork chops (about 5 ounces each)\n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

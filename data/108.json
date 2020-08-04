@@ -1,0 +1,96 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@id": "http://www.skuhaj.si/recept/prigrizek/palacinke-s-fizolovo-pasto-polnjene-s-pikantno-repo//chef/5225/damjana-zgonec"
+    },
+    "dateCreated": {
+        "@value": "2014-01-20"
+    },
+    "dateModified": {
+        "@value": "2014-01-20"
+    },
+    "datePublished": {
+        "@value": "2014-01-20"
+    },
+    "image": {
+        "@id": "http://www.skuhaj.si/recept/prigrizek/palacinke-s-fizolovo-pasto-polnjene-s-pikantno-repo//upload/recipe/2/6332_25978_313x203.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "1 skodelica kuhanega stro\u010djega fi\u017eola"
+        },
+        {
+            "@value": "1 \u0161\u010depec rde\u010de parike"
+        },
+        {
+            "@value": "3 jedilna \u017elica olja"
+        },
+        {
+            "@value": "1 kos \u010debula"
+        },
+        {
+            "@value": "1 jedilna \u017elica mletega \u010desna"
+        },
+        {
+            "@value": "50 g moke"
+        },
+        {
+            "@value": "1 kos kuhano korenje (narezano na kolobarje)"
+        },
+        {
+            "@value": "1 kos jajce"
+        },
+        {
+            "@value": "1 dcl mleka"
+        },
+        {
+            "@value": "1 kos in\u010dun"
+        },
+        {
+            "@value": "1 jedilna \u017elica soli"
+        },
+        {
+            "@value": "25 dag kisle narezane repe"
+        },
+        {
+            "@value": "1 \u0161\u010depec kajenskega popra"
+        },
+        {
+            "@value": "1 \u010dajna \u017elica \u010drnega popra"
+        },
+        {
+            "@value": "1 \u0161\u010depec rde\u010de mlete paprike"
+        },
+        {
+            "@value": "1 \u0161\u010depec soli"
+        },
+        {
+            "@value": "1 \u0161\u010depec popra"
+        }
+    ],
+    "interactionCount": {
+        "@value": "UserComments:0"
+    },
+    "isFamilyFriendly": {
+        "@value": "Null"
+    },
+    "name": {
+        "@value": "Pala\u010dinke s fi\u017eolovo pasto polnjene s pikantno repo"
+    },
+    "recipeInstructions": {
+        "@value": "\n            Priprava nadevaPriprava nadeva:\n\u010cebulo in in\u010dun sesekljamo in pra\u017eimo, da postane \u010debula zlato rjava, dodamo mlet \u010desen in sol, \u010drn in kajenski poper ter mleto papriko. Preme\u0161amo in dodamo kislo repo. Kuhamo 40 minut na blagem ognju. Lahko dodamo tudi malo vode.Priprava pala\u010dinkPriprava:\nJajce zme\u0161amo s soljo, mleto papriko in poprom, dodamo moko in mleko. Preme\u0161amo in dodamo fi\u017eolovo pasto (stro\u010dji fi\u017eol in kajenski poper zmiksamo v blenderju v teko\u010do pasto). Spe\u010demo na malo olja. Nadevamo s pikantno repo in okrasimo s korenjem.\n\nDober tek!           \n                            \n                    Chefov nasvet:\n                    Kot nadev lahko uporabite tudi kuhano zelje ali krompir.\n                \n                        "
+    },
+    "recipeYield": {
+        "@value": "4"
+    },
+    "totalTime": {
+        "@value": "PT1H"
+    },
+    "@id": "http://example.org/recipe"
+}

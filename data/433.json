@@ -1,0 +1,74 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "For chicken:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup finely chopped basil leaves"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup Vegenaise or gluten-free mayonnaise"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/8 teaspoon black pepper"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 boneless, skinless chicken breasts (about 1/2 pound each)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "For salad:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup thinly sliced green onions"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup finely chopped celery (about 2 stalks)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc teaspoon salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/3 cup dried cranberries"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/3 cup chopped walnuts"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 teaspoons extra virgin olive oil, separated"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup finely chopped Gala apple"
+        },
+        {
+            "@language": "en-US",
+            "@value": "12 slices of gluten-free bread (either regular or cinnamon raisin bread)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon salt, separated"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon black pepper, separated"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\t\t\tDirections\n\t\t\tPreheat oven to 350 degrees.\nPlace chicken breasts top side down in a baking dish. Drizzle 1 teaspoon of extra virgin olive oil, \u00bc teaspoon salt and \u00bc teaspoon black pepper on each chicken breast. Flip over and repeat. Bake for 33 minutes. Remove from the oven. Immediately, cover chicken first with parchment paper and then aluminum foil. Let the chicken rest for 10 minutes before cutting into small dice.\nPlace diced chicken in a large bowl. Add the remaining ingredients (except of the bread) and mix well. Place in the fridge for 30 minutes or until cold.\nWhen you\u2019re ready to make the sandwiches, use about \u00bd cup of chicken salad on each sandwich. (If your favorite gluten-free bread tends to get soggy easily, lightly toast it before assembling). Slice diagonally and assemble on a platter. \u00a0Enjoy!\n\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,18 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating"
+    },
+    "image": [
+        {
+            "@id": "https://www.oetker.cz/cz-cs/nase-recepty/r/dort-s-maslovym-kremem-a-boruvkami/data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+        },
+        {
+            "@id": "https://www.oetker.cz/cz-cs/nase-recepty/r/dort-s-maslovym-kremem-a-boruvkami//Recipe/Recipes/oetker.cz/cz-cs/baking/image-thumb__38788__RecipeDetail/dort-s-maslovym-kremem-a-boruvkami.jpg"
+        }
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation"
+    },
+    "@id": "http://example.org/recipe"
+}

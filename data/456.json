@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.czuczucook.pl/wp-content/uploads/2019/01/paluszki-rybne_.jpg"
+    },
+    "name": {
+        "@language": "pl-PL",
+        "@value": "Paluszki rybne "
+    },
+    "recipeIngredient": [
+        {
+            "@language": "pl-PL",
+            "@value": "400-450 g \u015bwie\u017cego \u0142ososia (filet bez sk\u00f3ry) "
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "30-40 g sera cheddar"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "\u00bd \u0142y\u017ceczki soli "
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "szczypta pieprzu"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "2 jajka "
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "1,5 czerstwej bu\u0142ki (lub 2 kromki czerstwego chleba)"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "1 p\u0142aska \u0142y\u017ceczka w\u0119dzonej papryki "
+        }
+    ],
+    "recipeYield": {
+        "@language": "pl-PL",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

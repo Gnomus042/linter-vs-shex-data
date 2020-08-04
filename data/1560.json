@@ -1,0 +1,88 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en",
+        "@value": "35 minutes;  Cook time: 10 minutes "
+    },
+    "image": {
+        "@id": "https://recipes-secure-graphics.grocerywebsite.com/0_GraphicsRecipes/6286_400.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Strawberry Shells"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "160"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "17g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "26mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "10g"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "1g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "2g"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "57mg"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "honey"
+        },
+        {
+            "@language": "en",
+            "@value": "firmly packed brown sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "orange juice or Grand Marnier"
+        },
+        {
+            "@language": "en",
+            "@value": "ground cinnamon"
+        },
+        {
+            "@language": "en",
+            "@value": "butter, melted"
+        },
+        {
+            "@language": "en",
+            "@value": "wonton wrappers"
+        },
+        {
+            "@language": "en",
+            "@value": "(6 oz.) mascarpone or whipped cream cheese"
+        },
+        {
+            "@language": "en",
+            "@value": "(about 1 lb.) stemmed California strawberries"
+        },
+        {
+            "@language": "en",
+            "@value": "fresh mint leaves, optional"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Heat oven to 325 degrees F. Arrange wonton wrappers on work surface. Evenly brush tops of each with butter. In small bowl, mix together sugar and cinnamon. Sprinkle about 1 teaspoon sugar mixture over each wrapper; press lightly to make sugar mixture adhere. Carefully transfer each wrapper to a cup of an ungreased muffin tin; press down to form a cup. Bake 8 to 10 minutes or until golden brown and crisp. Remove from pan; cool on wire rack. Meanwhile, fan strawberries by cutting 4 to 5 slices into each, cutting 3/4 of the way through. Lay strawberry on its side; press down gently to fan. Set aside. In small bowl, mix together mascarpone cheese, honey and Grand Marnier; spoon scant tablespoon into each wonton cup. Garnish with strawberries and mint, if desired."
+    },
+    "@id": "http://example.org/recipe"
+}

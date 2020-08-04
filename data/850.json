@@ -1,0 +1,57 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2012-03-27"
+    },
+    "description": {
+        "@value": "The green flavor of spinach works surprisingly well in a dessert (especially when balanced by a sweet rice pudding). If you can't find purple rice, you can try the black \"forbidden\" rice that cooks up purple -- just let it simmer an extra 20 minutes or so to soften."
+    },
+    "image": {
+        "@value": "http://recipes.oregonlive.com/system/recipes/images/000/001/952/medium/8207.jpg?1444923285"
+    },
+    "ingredients": [
+        {
+            "@value": "1 1/2 cups water"
+        },
+        {
+            "@value": "1/4 teaspoon coarse salt"
+        },
+        {
+            "@value": "3/4 cup purple rice"
+        },
+        {
+            "@value": "1/2 cup sugar"
+        },
+        {
+            "@value": "1 teaspoon vanilla extract"
+        },
+        {
+            "@value": "1/4 cup chopped toasted hazelnuts"
+        },
+        {
+            "@value": "4 cups whole milk"
+        },
+        {
+            "@value": "Spinach whipped cream (recipe below)"
+        }
+    ],
+    "name": {
+        "@value": "Purple Rice Pudding With Spinach Whipped Cream"
+    },
+    "nutrition": [
+        {
+            "@id": "_:N9a0d5afd0d8e475592880d2699790076"
+        },
+        {
+            "@id": "_:N750d95c22a734f70ba9400d1e6cdaa2d"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n              Place the rice, water and salt in a large pot, and bring to a boil. Then cover and reduce heat until just simmering. Cook 15-20 minutes, until water is absorbed.\nAdd the milk and sugar, then bring to a boil. Reduce heat until it's just high enough to maintain a healthy simmer. Cook, uncovered, 30-40 minutes, stirring frequently (especially near the end), until the rice is soft and the pudding is thick and creamy (it will thicken further upon standing, so remove it before it's as thick as you'd like). Remove from heat. Stir in vanilla. Transfer to serving bowls. Serve, warm or chilled, topped with a dollop of spinach whipped cream and a scattering of chopped toasted hazelnuts.\n\n            "
+    },
+    "url": {
+        "@value": "http://recipes.oregonlive.com/recipes/purple-rice-pudding-with-spinach-whipped-cream"
+    },
+    "@id": "http://example.org/recipe"
+}

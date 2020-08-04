@@ -1,0 +1,100 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "By Lindsay Ingalls"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "20 min "
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2017-05-03 01:42:34"
+    },
+    "image": {
+        "@id": "http://runningwithtongs.com/wp-content/uploads/2017/05/So-Delicious-Brunch-Crepes_0139-768x768.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons maple syrup"
+        },
+        {
+            "@language": "en-US",
+            "@value": "pinch of salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 lemon, juice & zest"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 teaspoon vanilla powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2-4 tablespoons coconut sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon coconut sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup unsweetened vanilla coconut yogurt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup all purpose flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 pint strawberries, sliced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2/3 cup So Delicious Unsweetened Cashew Milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup melted coconut oil"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Sweet Vegan Crepes with Strawberries & Cream"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "2 hr 5 min "
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tPlace all of the CREPE ingredients into a mixing bowl and whisk together until smooth. Cover and place in the fridge for 2 hours.\t\t\t\tWhile the crepe batter is chilling make the LEMON-STRAWBERRY SAUCE. Toss the sliced strawberries with the coconut sugar, lemon juice and zest; mix to combine. Cover and chill.\t\t\t\tFor the MAPLE CREAM - place all the ingredients in a bowl and whisk together, cover and chill.\t\t\t\t2 Hours Later....Heat a medium sized frying pan over medium-high heat. Grease the pan with coconut oil or vegan margarine and then pour in 3-4 tablespoons of the batter swirling to create a thin layer. Cook 2-3 minutes on each side or until they are golden. Once cooked top with berries and cream. Enjoy!\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

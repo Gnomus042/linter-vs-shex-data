@@ -1,0 +1,38 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@value": "6 "
+        }
+    },
+    "author": {
+        "@value": "nietylkopasta.pl"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2017-05-30"
+    },
+    "description": {
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://nietylkopasta.pl/wp-content/uploads/2017/05/biszkoptzrabarbarem-4.jpg"
+    },
+    "name": {
+        "@value": "Szybki biszkopt z rabarbarem"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

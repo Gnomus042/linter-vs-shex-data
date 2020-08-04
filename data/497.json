@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "cs-CZ",
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@language": "cs-CZ",
+            "@value": "282"
+        }
+    },
+    "author": {
+        "@language": "cs-CZ",
+        "@value": "..."
+    },
+    "description": {
+        "@language": "cs-CZ",
+        "@value": "uzen\u00e1 plec v brambor\u00e1ku, hlavn\u00ed j\u00eddla, vep\u0159ov\u00e9 maso"
+    },
+    "image": {
+        "@id": "http://kucharka.cbmonitor.cz/recepty/uzena-plec-v-bramboraku/4646//recepty/none.png"
+    },
+    "ingredients": [
+        {
+            "@language": "cs-CZ",
+            "@value": "2 strou\u017eky \u010desneku "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "4 l\u017e\u00edce hladk\u00e9 mouky "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "s\u00e1dlo na pe\u010den\u00ed "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "100 g kysan\u00e9ho zel\u00ed "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "1 l\u017e\u00edce major\u00e1nky "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "s\u016fl "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "2 vejce "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "mlet\u00fd \u010dern\u00fd pep\u0159 "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "1 jablko "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "800 g uzen\u00e9 rolovan\u00e9 plece "
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "400 g brambor "
+        }
+    ],
+    "name": {
+        "@language": "cs-CZ",
+        "@value": "Uzen\u00e1 plec v brambor\u00e1ku"
+    },
+    "recipeCategory": [
+        {
+            "@language": "cs-CZ",
+            "@value": "hlavn\u00ed j\u00eddla"
+        },
+        {
+            "@language": "cs-CZ",
+            "@value": "vep\u0159ov\u00e9 maso"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "cs-CZ",
+        "@value": "Recept uzen\u00e1 plec v brambor\u00e1ku p\u0159iprav\u00edme takto: Uzen\u00e9 maso opl\u00e1chneme a osu\u0161\u00edme. Kysan\u00e9 zel\u00ed nech\u00e1me v s\u00edtu d\u016fkladn\u011b okapat. Jablko nastrouh\u00e1me na hrubo a prom\u00edch\u00e1me s kysan\u00fdm zel\u00edm. Zelnou sm\u011bs\u00ed obal\u00edme maso a nech\u00e1me ho nejm\u00e9n\u011b 30 minut marinovat. Brambory nastrouh\u00e1me do v\u011bt\u0161\u00ed m\u00edsy, rukama z nich vyma\u010dk\u00e1me p\u0159ebyte\u010dnou vodu a tu slijeme. K brambor\u00e1m p\u0159id\u00e1me vejce, prolisovan\u00fd \u010desnek, dochut\u00edme sol\u00ed, pep\u0159em a major\u00e1nkou a zahust\u00edme hladkou moukou. Dob\u0159e prom\u00edch\u00e1me - t\u011bsto by m\u011blo b\u00fdt hust\u011bj\u0161\u00ed. Pek\u00e1\u010d vyma\u017eeme s\u00e1dlem, odle\u017eel\u00e9 uzen\u00e9 maso i se zel\u00edm pe\u010dliv\u011b obal\u00edme v brambor\u00e1kov\u00e9m t\u011bst\u011b, polo\u017e\u00edme do pek\u00e1\u010de a pe\u010deme asi 80 minut v p\u0159edeh\u0159\u00e1t\u00e9 troub\u011b p\u0159i 180\u00b0C. B\u011bhem pe\u010den\u00ed p\u0159el\u00e9v\u00e1me vype\u010denou \u0161\u0165\u00e1vou a p\u0159\u00edpadn\u011b i pivem (bude m\u00edt lep\u0161\u00ed chu\u0165). Upe\u010den\u00e9 maso nakr\u00e1j\u00edme na pl\u00e1tky.Dal\u0161\u00ed recepty v kategorii Hlavn\u00ed j\u00eddla \u00a0 Dal\u0161\u00ed recepty v kategorii Vep\u0159ov\u00e9 maso "
+    },
+    "@id": "http://example.org/recipe"
+}

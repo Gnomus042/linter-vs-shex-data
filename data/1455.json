@@ -1,0 +1,56 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://thenourishinghome.com/wp-content/uploads/2012/03/269653_203531459699609_152814431437979_610824_1169560_n.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "3 tbsp butter, melted (or ghee, or melted coconut oil)"
+        },
+        {
+            "@value": "1 tbsp pure honey (I prefer sage honey due to its mild flavor)"
+        },
+        {
+            "@value": "1/4 tsp apple cider vinegar"
+        },
+        {
+            "@value": "1/2 tsp baking soda"
+        },
+        {
+            "@value": "2 large eggs (room temperature is best)"
+        },
+        {
+            "@value": "1/4 tsp sea salt"
+        },
+        {
+            "@value": "2 1/2 cups blanched almond flour"
+        },
+        {
+            "@value": "2 tbsp pure coconut milk (room temperature is best)"
+        }
+    ],
+    "name": {
+        "@value": "Almond Flour Biscuits"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "For classic-style rolled-looking biscuits: Scoop a large spoonful of batter into your hands and roll into a ball about the size of an apricot. Then place the dough balls on a parchment-lined baking sheet and gently flatten using the palm of your hand."
+        },
+        {
+            "@value": "For quick and easy drop biscuits: Drop biscuit dough by large spoonfuls onto a baking sheet lined with parchment paper, placing the biscuits approximately two-inches apart."
+        },
+        {
+            "@value": "Preheat oven to 350 degrees. In a medium bowl, combine almond flour, baking soda and salt."
+        },
+        {
+            "@value": "Bake about 15 minutes, until golden brown on top and a toothpick inserted in middle comes out clean. Serve warm with butter, raw honey or homemade jam."
+        },
+        {
+            "@value": "In a small bowl, whisk together melted butter (or coconut oil) and honey, until smooth. Add the coconut milk, eggs and vinegar, whisking together until well combined. Using a spoon, stir the wet mixture into the dry mixture until thoroughly combined."
+        }
+    ],
+    "recipeYield": {
+        "@value": "8 biscuits"
+    },
+    "@id": "http://example.org/recipe"
+}

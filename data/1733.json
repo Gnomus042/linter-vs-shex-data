@@ -1,0 +1,8 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@language": "it-IT",
+        "@value": "Conferma di ascolti per la terza puntata di Radionorba Battiti Live"
+    },
+    "@id": "http://example.org/recipe"
+}

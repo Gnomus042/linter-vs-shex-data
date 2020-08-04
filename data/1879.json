@@ -1,0 +1,79 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "ru",
+            "@value": "1 \u0447. \u043b. \u0441\u043e\u0434\u044b"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e"
+        },
+        {
+            "@language": "ru",
+            "@value": "2-4 \u0441\u0442. \u043b. \u0441\u0432\u0438\u043d\u043e\u0433\u043e \u0436\u0438\u0440\u0430"
+        },
+        {
+            "@language": "ru",
+            "@value": "1 \u0441\u0442. \u043c\u0430\u0446\u043e\u043d\u0438"
+        },
+        {
+            "@language": "ru",
+            "@value": "\u0441\u043e\u043b\u044c"
+        },
+        {
+            "@language": "ru",
+            "@value": "2 \u0441\u0442. \u043c\u0443\u043a\u0438"
+        },
+        {
+            "@language": "ru",
+            "@value": "1 \u0441\u0442. \u043e\u0442\u0432\u0430\u0440\u0435\u043d\u043d\u043e\u0439 \u0444\u0430\u0441\u043e\u043b\u0438 \"\u0411\u044d\u0439\u0431\u0438 \u041b\u0438\u043c\u0430\""
+        }
+    ],
+    "name": {
+        "@language": "ru",
+        "@value": "\u041b\u043e\u0431\u0438\u0430\u043d\u0438"
+    },
+    "recipeCuisine": {
+        "@language": "ru",
+        "@value": "\u0413\u0440\u0443\u0437\u0438\u043d\u0441\u043a\u0430\u044f \u043a\u0443\u0445\u043d\u044f"
+    },
+    "recipeYield": {
+        "@language": "ru",
+        "@value": "\u041d\u0430 4-5 \u0448\u0442\u0443\u043a"
+    },
+    "resultPhoto": [
+        {
+            "@id": "https://fasol.tv/recipes/lobiani//upload/iblock/366/366c5600158ab5be5861c8a64cdf2e74.jpg"
+        },
+        {
+            "@id": "https://fasol.tv/recipes/lobiani//upload/iblock/51a/51a41c61582931455df9f3e5cf756757.jpg"
+        },
+        {
+            "@id": "https://fasol.tv/recipes/lobiani//upload/iblock/35d/35d0d1ccc5dd0a783793c836afadcf8e.jpg"
+        },
+        {
+            "@id": "https://fasol.tv/recipes/lobiani//upload/iblock/17e/17e9b709896a3189d65500a147be839c.jpg"
+        },
+        {
+            "@id": "https://fasol.tv/recipes/lobiani//upload/iblock/f30/f3029d250492729dc62486b4e82218b8.jpg"
+        },
+        {
+            "@id": "https://fasol.tv/recipes/lobiani//upload/iblock/92d/92d69c638e612e7077b76842fbfb569a.jpg"
+        },
+        {
+            "@id": "https://fasol.tv/recipes/lobiani//upload/iblock/76b/76bea5030a6d3ac82e739dd67268175a.png"
+        },
+        {
+            "@id": "https://fasol.tv/recipes/lobiani//upload/iblock/2ea/2ea2684ddaf3e1f5f94a39d0ce0a6853.jpg"
+        },
+        {
+            "@id": "https://fasol.tv/recipes/lobiani//upload/iblock/bc2/bc2f6653f06fb2f44683b3ba5577148d.jpg"
+        }
+    ],
+    "totalTime": {
+        "@language": "ru",
+        "@value": "0,5 \u0447\u0430\u0441\u0430"
+    },
+    "@id": "http://example.org/recipe"
+}

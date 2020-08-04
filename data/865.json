@@ -1,0 +1,48 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "https://imaot.co.il/Book/Page/79398//Book/13669"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\u05de\u05e0\u05d9\u05e1\u05d9\u05d5\u05df \u05e2\u05dd \u05ea\u05d9\u05d1\u05d5\u05dc  , \u05d0\u05d9\u05e9\u05d9 \u05d7\u05d3\u05e9 \r\n"
+    },
+    "image": {
+        "@id": "https://imaot.co.il/Book/Page/79398//images/Uploads/RecipeImages/8055273042016.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "\u05e8\u05d9\u05d1\u05ea \u05ea\u05e4\u05d5\u05d7\u05d9\u05dd "
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "\u05e8\u05d9\u05d1\u05d5\u05ea"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "1 \u05e7\u05d9\u05dc\u05d5\u05d2\u05e8\u05dd \u05e7\u05d5\u05d1\u05d9\u05d5\u05ea \u05ea\u05e4\u05d5\u05d7\u05d9 \u05e2\u05e5 \u05de\u05e7\u05d5\u05dc\u05e4\u05d9\u05dd"
+        },
+        {
+            "@language": "en",
+            "@value": "1 \u05e7\u05d5\u05e8\u05d8 \u05e7\u05d9\u05e0\u05de\u05d5\u05df "
+        },
+        {
+            "@language": "en",
+            "@value": "1 \u05e7\u05d9\u05dc\u05d5\u05d2\u05e8\u05dd \u05e1\u05d5\u05db\u05e8"
+        },
+        {
+            "@language": "en",
+            "@value": "6 \u05d9\u05d7\u05d9\u05d3\u05d5\u05ea \u05e6\u05d9\u05e4\u05d5\u05e8\u05df"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t\t\t1\n\t\t\t\t\t\t\t\t\u05de\u05d1\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05ea\u05e4\u05d5\u05d7\u05d9 \u05e2\u05e5 \u05e2\u05dd \u05d4\u05e1\u05d5\u05db\u05e8 \u05d5\u05d4\u05e6\u05d9\u05e4\u05d5\u05e8\u05df \u05db\u05e9\u05e2\u05ea\u05d9\u05d9\u05dd\n,\u05e2\u05d3 \u05dc\u05e8\u05d9\u05db\u05d5\u05da \u05d4\u05ea\u05e4\u05d5\u05d7\u05d9\u05dd \u05e9\u05e7\u05d9\u05e4\u05d5\u05ea \u05d5\u05e6\u05d1\u05e2 \u05d6\u05d4\u05d5\u05d1 ..\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "20 \u05de\u05e0\u05d5\u05ea"
+    },
+    "@id": "http://example.org/recipe"
+}

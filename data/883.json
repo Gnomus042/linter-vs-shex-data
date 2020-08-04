@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@value": "Raspberry Cream Bars"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 cup raspberry preserves"
+        },
+        {
+            "@value": "1 teaspoon vanilla extract"
+        },
+        {
+            "@value": "1/2 cup butter"
+        },
+        {
+            "@value": "8 ounces cream cheese"
+        },
+        {
+            "@value": "2 tablespoons flour"
+        },
+        {
+            "@value": "1 (18.25 ounce) box yellow cake mix"
+        },
+        {
+            "@value": "1/4 cup granulated sugar"
+        },
+        {
+            "@value": "1/4 cup raspberry preserves "
+        },
+        {
+            "@value": "1 egg"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Filling: Stir together cream cheese, flour, sugar, vanilla extract and egg until\nwell blended; fold in preserves."
+        },
+        {
+            "@value": "Carefully spread filling over crust."
+        },
+        {
+            "@value": "Crust: combine cake mix and butter in a bowl until crumbly. Reserve 1 cup."
+        },
+        {
+            "@value": "Spread 1 cup preserves over crust."
+        },
+        {
+            "@value": "Press remaining mixture into 13 x 9 x 2-inch pan."
+        },
+        {
+            "@value": "Sprinkle reserved cake mix/butter mixture over filling."
+        },
+        {
+            "@value": "Heat oven to 350 degrees F."
+        },
+        {
+            "@value": "Bake for 30-40 minutes or until golden brown."
+        },
+        {
+            "@value": "Cool before cutting into bars."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

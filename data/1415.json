@@ -1,0 +1,176 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "ro",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "ro",
+            "@value": "5"
+        },
+        "worstRating": {
+            "@language": "ro",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "ro",
+        "@value": "mihaelaM"
+    },
+    "datePublished": {
+        "@language": "ro",
+        "@value": "2011-07-01"
+    },
+    "description": {
+        "@language": "ro",
+        "@value": " Punem maruntaiele la fiert timp de 15min.    Dupa cele 15 min aruncam acea apa si punem alta,lasam sa fiarba.    Cand maruntaiele sunt fierte le scoatem,le lasam putin sa se raceasca,apoi le taiem cubulete.     Curatam ceapa,o taiem si o punem la calit impreuna cu morcovul,amestecam usor din cand in cand.Cand ceapa devine aurie punem sucul de rosii,amestecam pana compozitia devine omogena apoi punem faina mestecand rapid si punand putin cate putin supa de la maruntaie(atentie puneti cate putin si amestecati repede sa nu se formeze cocoloase).    Punem piperul,sarea si mai lasam sa fiarba 10-15min.    Intre timp spalam si taiem mararul marunt.Cand mancarea este gata stingem focul si punem mararul. POFTA BUNA!!! "
+    },
+    "image": {
+        "@id": "https://www.bucataras.ro/retete/tochitura-22853.html//uploads/modules/news/22853/656x440_tochitura-112815.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ro",
+            "@value": "2cepe"
+        },
+        {
+            "@language": "ro",
+            "@value": "1inima porc"
+        },
+        {
+            "@language": "ro",
+            "@value": "1 bucata de ficat"
+        },
+        {
+            "@language": "ro",
+            "@value": "1morcov"
+        },
+        {
+            "@language": "ro",
+            "@value": "sare"
+        },
+        {
+            "@language": "ro",
+            "@value": "1cana suc de rosii"
+        },
+        {
+            "@language": "ro",
+            "@value": "piper"
+        },
+        {
+            "@language": "ro",
+            "@value": "marar verde"
+        },
+        {
+            "@language": "ro",
+            "@value": "1lingura faina"
+        },
+        {
+            "@language": "ro",
+            "@value": "4-5 rinichi"
+        }
+    ],
+    "keywords": {
+        "@language": "ro",
+        "@value": "carne de porc,tochitura,"
+    },
+    "name": {
+        "@language": "ro",
+        "@value": "Tochitura"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ro",
+            "@value": "153"
+        }
+    },
+    "recipeCategory": {
+        "@language": "ro",
+        "@value": "Porc"
+    },
+    "recipeCuisine": {
+        "@language": "ro",
+        "@value": "Romania"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "ro",
+            "@value": "\n    1morcov"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1 bucata de ficat"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    2cepe"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1inima porc"
+        },
+        {
+            "@language": "ro",
+            "@value": "Null"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    piper"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    4-5 rinichi"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    sare"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    marar verde"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1cana suc de rosii"
+        },
+        {
+            "@language": "ro",
+            "@value": "\n    1lingura faina"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ro",
+        "@value": " Punem maruntaiele la fiert timp de 15min.    Dupa cele 15 min aruncam acea apa si punem alta,lasam sa fiarba.    Cand maruntaiele sunt fierte le scoatem,le lasam putin sa se raceasca,apoi le taiem cubulete.     Curatam ceapa,o taiem si o punem la calit impreuna cu morcovul,amestecam usor din cand in cand.Cand ceapa devine aurie punem sucul de rosii,amestecam pana compozitia devine omogena apoi punem faina mestecand rapid si punand putin cate putin supa de la maruntaie(atentie puneti cate putin si amestecati repede sa nu se formeze cocoloase).    Punem piperul,sarea si mai lasam sa fiarba 10-15min.    Intre timp spalam si taiem mararul marunt.Cand mancarea este gata stingem focul si punem mararul. POFTA BUNA!!! "
+    },
+    "totalTime": {
+        "@language": "ro",
+        "@value": "PT60M"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "ro",
+            "@value": " Punem maruntaiele la fiert timp de 15min.    Dupa cele 15 min aruncam acea apa si punem alta,lasam sa fiarba.    Cand maruntaiele sunt fierte le scoatem,le lasam putin sa se raceasca,apoi le taiem cubulete.     Curatam ceapa,o taiem si o punem la calit impreuna cu morcovul,amestecam usor din cand in cand.Cand ceapa devine aurie punem sucul de rosii,amestecam pana compozitia devine omogena apoi punem faina mestecand rapid si punand putin cate putin supa de la maruntaie(atentie puneti cate putin si amestecati repede sa nu se formeze cocoloase).    Punem piperul,sarea si mai lasam sa fiarba 10-15min.    Intre timp spalam si taiem mararul marunt.Cand mancarea este gata stingem focul si punem mararul. POFTA BUNA!!! "
+        },
+        "name": {
+            "@language": "ro",
+            "@value": "Tochitura"
+        },
+        "thumbnailURL": {
+            "@language": "ro",
+            "@value": "https://www.bucataras.ro/uploads/modules/news/22853/656x440_tochitura-112815.jpg"
+        },
+        "uploadDate": {
+            "@language": "ro",
+            "@value": "2011-07-01 16:47:12"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

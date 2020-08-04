@@ -1,0 +1,60 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "author": {
+            "@language": "ro-RO",
+            "@value": "Mitinita"
+        },
+        "dateModified": {
+            "@language": "ro-RO",
+            "@value": "2018-01-26T22:38:45+00:00"
+        },
+        "datePublished": {
+            "@language": "ro-RO",
+            "@value": "2016-06-01T08:12:07+00:00"
+        },
+        "description": {
+            "@language": "ro-RO",
+            "@value": "Aripioare de pui la slow cooker este o reteta pe care am indragit-o foarte tare. \nSlow cooker este un aparat de gatit pe care il veti intalni si sub denumirea de Crock Pot si gateste mancarea la foc ..."
+        },
+        "headline": {
+            "@language": "ro-RO",
+            "@value": "Aripioare de pui la slow cooker"
+        },
+        "image": {
+            "@id": "_:N66ebfc8d79bb4a6b9f46e9c3bc12dbf4"
+        },
+        "mainEntityOfPage": {
+            "@language": "ro-RO",
+            "@value": "https://cartederetete.ro/aripioare-de-pui-la-slow-cooker/"
+        },
+        "name": {
+            "@language": "ro-RO",
+            "@value": "Aripioare de pui la slow cooker"
+        },
+        "publisher": {
+            "@id": "_:N1d484c3a3bf6445595789c84f91d6c09"
+        },
+        "url": {
+            "@language": "ro-RO",
+            "@value": "https://cartederetete.ro/aripioare-de-pui-la-slow-cooker/"
+        }
+    },
+    "cookTime": {
+        "@language": "ro-RO",
+        "@value": "250 min"
+    },
+    "image": {
+        "@id": "https://cartederetete.ro/wp-content/uploads/2016/05/Aripioare-de-pui-la-Crock-Pot2-585x368.jpg"
+    },
+    "recipeInstructions": {
+        "@language": "ro-RO",
+        "@value": "\n\t\t\t\t\t\t\tAripioare de pui la slow cooker este o reteta pe care am indragit-o foarte tare.\nSlow cooker este un aparat de gatit pe care il veti intalni si sub denumirea de Crock Pot si gateste mancarea la foc incet, fara sa fiarba in clocote ca intr-o oala obisnuita. E genul de aparat pe care il pornesti cand pornesti la serviciu si cand te intorci mancarea te asteapta calda.\nReteta de aripioare de pui la slow cooker iese ca in imagine doar daca urmati si ultimul pas, cel cu cuptorul. \nIngrediente aripioare de pui la slow cooker\n1 kg aripioare de pui\ncondiment pentru pui Kotanyi, dupa gust\n1 lingura de ulei\nMod de preparare reteta aripioare de pui la slow cooker\nAripioarele se spala si se curata. Se taie si se amesteca cu condimentul pentru pui.\nSe pune in slow cooker lingura de ulei, se aseaza aripioarele si se seteaza pe HIGH 4 ore.\nSe scot aripioarele din slow cooker si se pun intr-o tava. Se dau la cuptor si se tin cam 10-15 minute sau pana cand se rumenesc.\nSe servesc cu un sos iute.\nIncearca si tu aripioare de pui la slow cooker.\n\t\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "ro-RO",
+        "@value": "4 portii"
+    },
+    "@id": "http://example.org/recipe"
+}

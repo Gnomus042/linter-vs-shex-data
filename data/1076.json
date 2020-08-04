@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Jeanine Donofrio"
+    },
+    "image": {
+        "@id": "https://cdn.loveandlemons.com/wp-content/uploads/2014/02/IMG_0076.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "2 teaspoons soy sauce (tamari if gluten free)"
+        },
+        {
+            "@value": "4-6 ounces noodles (I used these brown rice noodles)"
+        },
+        {
+            "@value": "\u00bc chopped scallions"
+        },
+        {
+            "@value": "1 cup thinly sliced cabbage"
+        },
+        {
+            "@value": "\u00bd package extra firm tofu, chopped into cubes"
+        },
+        {
+            "@value": "A few cups sliced shiitake mushrooms"
+        },
+        {
+            "@value": "1 tablespoon rice vinegar"
+        },
+        {
+            "@value": "2 cups chopped kale, massaged (see notes below)"
+        },
+        {
+            "@value": "1 tablespoon toasted sesame oil"
+        },
+        {
+            "@value": "1 teaspoon sriracha (optional)"
+        },
+        {
+            "@value": "A few tablespoons of sesame seeds"
+        },
+        {
+            "@value": "2 teaspoons grated ginger"
+        },
+        {
+            "@value": "3 small carrots, chopped into matchsticks"
+        },
+        {
+            "@value": "A few radishes, thinly sliced"
+        },
+        {
+            "@value": "1 tablespoon lime juice"
+        }
+    ],
+    "name": {
+        "@value": "Cold Sesame Noodles with Kale & Shiitakes"
+    },
+    "recipeCategory": {
+        "@value": "Main dish, salad"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Whisk the dressing ingredients together."
+        },
+        {
+            "@value": "Cook your shiitakes: I baked mine in the oven - slice and toss with a good glug of olive oil and some salt. Bake in a 350 degree oven until crisp and slightly charred (about 25 minutes). Alternatively, you could cook them down in a pan with a little bit of oil & salt or soy sauce, about 10-15 minutes. Stir only occasionally."
+        },
+        {
+            "@value": "Add sesame seeds, then taste and adjust. Add more dressing, soy sauce, lime and/or sriracha to your liking. Serve chilled or at room temp. Store leftovers in the fridge. Pack in to-go containers and bring to work."
+        },
+        {
+            "@value": "Cook the noodles according to package directions. Drain and rinse in cold water."
+        },
+        {
+            "@value": "Place the noodles in a large bowl and toss with the kale, cabbage, carrots, radishes, shiitakes, and toss with most of the dressing. (Let it all sit and marinate for a while while you clean up the kitchen)."
+        }
+    ],
+    "recipeYield": {
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

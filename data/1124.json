@@ -1,0 +1,59 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Sarah"
+    },
+    "image": {
+        "@id": "http://ediblyeducated.com/wp-content/uploads/2015/04/Hemp-Pesto-17-300x200.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 cup spinach"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup packed basil leaves"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tbsp. lemon juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "sea salt and pepper, to taste (a couple turns or pinches, I'd say)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp. hemp seeds"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 clove garlic"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Raw Vegan Hemp Pesto"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Sauce"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Place all of the lively ingredients in the blender, and blend until smooth."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Store in an airtight container in the refrigerator. It will keep for a good week!"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

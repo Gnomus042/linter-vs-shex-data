@@ -1,0 +1,11 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://static.pourfemme.it/pp/850x480/ricette/pourfemme/it/img/coniglietti-di-frolla.jpg"
+    },
+    "recipeYield": {
+        "@language": "es",
+        "@value": "4 Persone"
+    },
+    "@id": "http://example.org/recipe"
+}

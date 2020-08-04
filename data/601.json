@@ -1,0 +1,142 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ru",
+        "@value": "Elenenika"
+    },
+    "description": {
+        "@language": "ru",
+        "@value": "\u0421\u0430\u043b\u0430\u0442 \u0440\u0435\u0431\u0435\u043d\u043a\u0443 \u043c\u043e\u0436\u0435\u0442 \u043d\u0435 \u043f\u043e\u043d\u0440\u0430\u0432\u0438\u0442\u044c\u0441\u044f, \u043d\u043e \u0434\u043b\u044f \u0442\u0435\u0445, \u043a\u0442\u043e \u0441\u043b\u0435\u0434\u0438\u0442 \u0437\u0430 \u0444\u0438\u0433\u0443\u0440\u043e\u0439 \u2013 \u0441\u0430\u043c\u044b\u0439 \u0440\u0430\u0437. \u0421\u0430\u043b\u0430\u0442 \u043c\u043e\u0436\u043d\u043e \u0441\u043c\u0435\u043b\u043e \u043f\u043e\u0434\u0430\u0432\u0430\u0442\u044c \u043d\u0430 \u043f\u0440\u0430\u0437\u0434\u043d\u0438\u0447\u043d\u044b\u0439 \u0441\u0442\u043e\u043b, \u0442\u0430\u043a \u043a\u0430\u043a \u0432\u043a\u0443\u0441 \u0443 \u043d\u0435\u0433\u043e \u043f\u0438\u043a\u0430\u043d\u0442\u043d\u044b\u0439.\n"
+    },
+    "image": [
+        {
+            "@id": "http://www.calorizator.ru/sites/default/files/imagecache/recipes_preview/recipes/68181-4.jpg"
+        },
+        {
+            "@id": "http://www.calorizator.ru/sites/default/files/imagecache/recipes_full/recipes/68181.jpg"
+        },
+        {
+            "@id": "http://www.calorizator.ru/sites/default/files/imagecache/recipes_preview/recipes/68181-1.jpg"
+        },
+        {
+            "@id": "http://www.calorizator.ru/sites/default/files/imagecache/recipes_preview/recipes/68181-2.jpg"
+        },
+        {
+            "@id": "http://www.calorizator.ru/sites/default/files/imagecache/recipes_preview/recipes/68181-3.jpg"
+        },
+        {
+            "@id": "http://www.calorizator.ru/sites/default/files/imagecache/recipes_preview/recipes/68181-7.jpg"
+        },
+        {
+            "@id": "http://www.calorizator.ru/sites/default/files/imagecache/recipes_preview/recipes/68181-5.jpg"
+        },
+        {
+            "@id": "http://www.calorizator.ru/sites/default/files/imagecache/recipes_preview/recipes/68181-6.jpg"
+        }
+    ],
+    "name": {
+        "@language": "ru",
+        "@value": "\u0421\u0430\u043b\u0430\u0442 \u0438\u0437 \u043a\u0440\u0430\u0441\u043d\u043e\u0439 \u043a\u0430\u043f\u0443\u0441\u0442\u044b \u0438 \u0440\u0435\u0434\u044c\u043a\u0438"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "ru",
+            "@value": "51 \u043a\u043a\u0430\u043b."
+        },
+        "carbohydrateContent": {
+            "@language": "ru",
+            "@value": "7.1 \u0433\u0440."
+        },
+        "fatContent": {
+            "@language": "ru",
+            "@value": "2.8 \u0433\u0440."
+        },
+        "proteinContent": {
+            "@language": "ru",
+            "@value": "1.1 \u0433\u0440."
+        },
+        "servingSize": {
+            "@language": "ru",
+            "@value": "100 \u0433\u0440\u0430\u043c\u043c"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/kpfc/f0"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/method/none"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/category/salads"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/time/0-30"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/kpfc/p0"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/dietary/vegetarian"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/purpose/lunch"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/dietary/fast"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/purpose/baby"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/kpfc/c0"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/kpfc/k0"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/purpose/holiday"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/dietary/separate"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/purpose/dinner"
+        },
+        {
+            "@id": "http://www.calorizator.ru/recipes/68181//recipes/purpose/snack"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "ru",
+            "@value": "\u0417\u0435\u043b\u0435\u043d\u044c (\u0434\u043b\u044f \u043f\u043e\u0434\u0430\u0447\u0438) - 2 \u0433\u0440."
+        },
+        {
+            "@language": "ru",
+            "@value": "\u0421\u043e\u043b\u044c (\u043f\u043e \u0432\u043a\u0443\u0441\u0443) - 2 \u0433\u0440."
+        },
+        {
+            "@language": "ru",
+            "@value": "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u043e\u0447\u0430\u043d\u043d\u0430\u044f \u043a\u0430\u043f\u0443\u0441\u0442\u0430 - 250 \u0433\u0440."
+        },
+        {
+            "@language": "ru",
+            "@value": "\u0420\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e - 1 \u0441\u0442.\u043b."
+        },
+        {
+            "@language": "ru",
+            "@value": "\u0420\u0435\u0434\u044c\u043a\u0430 - 100 \u0433\u0440."
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "ru",
+        "@value": "\n    \n            \n                    \n\u041a\u0430\u043f\u0443\u0441\u0442\u0443 \u043d\u0430\u0448\u0438\u043d\u043a\u043e\u0432\u0430\u0442\u044c \u0438 \u0432\u044b\u043b\u043e\u0436\u0438\u0442\u044c \u0432 \u0442\u0430\u0440\u0435\u043b\u043a\u0443.\n\u0420\u0435\u0434\u044c\u043a\u0443 \u043d\u0430\u0442\u0435\u0440\u0435\u0442\u044c \u043d\u0430 \u043a\u0440\u0443\u043f\u043d\u043e\u0439 \u0442\u0435\u0440\u043a\u0435, \u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u043a \u043a\u0430\u043f\u0443\u0441\u0442\u0435.\n\u041f\u043e\u0441\u043e\u043b\u0438\u0442\u044c \u043a\u0430\u043f\u0443\u0441\u0442\u0443 \u0438 \u0440\u0435\u0434\u044c\u043a\u0443, \u043f\u0435\u0440\u0435\u043c\u0435\u0448\u0430\u0442\u044c \u0440\u0443\u043a\u0430\u043c\u0438, \u043a\u0430\u043a \u0431\u044b \u043e\u0442\u0436\u0430\u0442\u044c.\n\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e, \u043f\u0435\u0440\u0435\u043c\u0435\u0448\u0430\u0442\u044c.\n\u0412\u044b\u043b\u043e\u0436\u0438\u0442\u044c \u0432 \u0442\u0430\u0440\u0435\u043b\u043a\u0443 \u0438 \u043f\u0435\u0440\u0435\u0434 \u043f\u043e\u0434\u0430\u0447\u0435\u0439 \u0443\u043a\u0440\u0430\u0441\u0438\u0442\u044c \u0437\u0435\u043b\u0435\u043d\u044c\u044e.\n\n        \n        \n\n"
+    },
+    "recipeYield": {
+        "@language": "ru",
+        "@value": "2"
+    },
+    "@id": "http://example.org/recipe"
+}

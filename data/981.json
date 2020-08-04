@@ -1,0 +1,144 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@value": "3.5"
+        }
+    },
+    "author": {
+        "@value": "Alletiders Kogebog"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2004-05-25"
+    },
+    "keywords": {
+        "@value": "Enchiladas / Burritos (R\u00e5 mad), Opskrift, Alletiders, Kogebog"
+    },
+    "name": {
+        "@value": " Enchiladas / Burritos (R\u00e5 mad) "
+    },
+    "recipeCategory": {
+        "@value": "Hovedretter"
+    },
+    "recipeCuisine": {
+        "@value": "Mexico"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "  peberfrugt finthakket"
+        },
+        {
+            "@value": "  Sauce:"
+        },
+        {
+            "@value": "  svampe"
+        },
+        {
+            "@value": "2 fed hvidl\u00f8g"
+        },
+        {
+            "@value": "1.5 kop revet squash"
+        },
+        {
+            "@value": "  avocado"
+        },
+        {
+            "@value": "  revet squash"
+        },
+        {
+            "@value": "  l\u00f8g finthakket"
+        },
+        {
+            "@value": "3  tomater"
+        },
+        {
+            "@value": "1/8  cayenne peber"
+        },
+        {
+            "@value": "1 spsk. mild olie"
+        },
+        {
+            "@value": "1.5 tsk. t\u00f8rret oregano"
+        },
+        {
+            "@value": "0.5 kop afstilket koriander)"
+        },
+        {
+            "@value": "1.5 kop friske majs"
+        },
+        {
+            "@value": "  eller"
+        },
+        {
+            "@value": "1 tsk. havsalt"
+        },
+        {
+            "@value": "1  dadel uden sten"
+        },
+        {
+            "@value": "8  store salatblade ( til enchilados)"
+        },
+        {
+            "@value": "  friske majs"
+        },
+        {
+            "@value": "0.5 tsk. malet spidskommen"
+        },
+        {
+            "@value": "  Fyld:"
+        },
+        {
+            "@value": "  tomater finthakket"
+        },
+        {
+            "@value": "1.5 kop avocado (ca. 2 stk.)"
+        },
+        {
+            "@value": "2 spsk. purl\u00f8g"
+        },
+        {
+            "@value": "  Skaller og pynt:"
+        },
+        {
+            "@value": "  familien Arlin\u00b4s favorit fyld:"
+        },
+        {
+            "@value": "  frisk koriander"
+        },
+        {
+            "@value": "1/16  kanel"
+        },
+        {
+            "@value": "  revet gul squash"
+        },
+        {
+            "@value": "  oliven"
+        },
+        {
+            "@value": "8  store hvidk\u00e5lsblade (til burritos)"
+        },
+        {
+            "@value": "Null"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "Fyld: \nKom alt fyldet i en sk\u00e5l og s\u00e6t den til side.\n\nSauce: \nHak tomaterne og kom dem i et viskestykke og dr\u00e6n dem i \u00bd time. Blend alle ingredienserne. Stil saucen til side. \n\nHvis du laver enchilados, kom en stribe pat\u00e9 p\u00e5 hvert salatblad. Kom noget fyld p\u00e5 og rul sammen og stil den p\u00e5 en tallerken. Kom saucen oven p\u00e5 og pynt med purl\u00f8g. \n\nHvis du laver burritos kan du bruge samme fremgangsm\u00e5de, men kom sauce og purl\u00f8g inden i f\u00f8r du ruller dem. \n\nDer bliver 8 enchilados eller burritos. 4-8 portioner.\n\n"
+    },
+    "recipeYield": {
+        "@value": "1\u00a0Portioner"
+    },
+    "url": {
+        "title": {
+            "@value": "Enchiladas / Burritos (R\u00e5 mad) - opskrift - Alletiders Kogebog"
+        },
+        "item": {
+            "@id": "_:Nc3e2727d141a417bb24f1260c0f53034"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

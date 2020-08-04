@@ -1,0 +1,100 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "es-ES",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "es-ES",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "es-ES",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "es-ES",
+        "@value": "By Gastronoming"
+    },
+    "datePublished": {
+        "@language": "es-ES",
+        "@value": "2019-08-20 13:55:14"
+    },
+    "description": {
+        "@language": "es-ES",
+        "@value": "Receta n\u00ba 62"
+    },
+    "image": {
+        "@id": "https://i0.wp.com/www.gastronoming.com/wp-content/uploads/2013/02/tartare-de-salmc3b3n-y-aguacate.jpg?resize=566%2C800"
+    },
+    "ingredients": [
+        {
+            "@language": "es-ES",
+            "@value": "2 cs AOVE"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "400 gr salm\u00f3n ahumado"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "1 cs aceite de s\u00e9samo tostado"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "\u00bd cc jengibre rallado"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "\u00bd tz aceite de oliva suave"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "1 pzc pimienta verde molida"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "1 cs hojas de eneldo picadas"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "1o hojas de cilantro picadas"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "\u00bd lima (zumo)"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "\u00be sal en escamas"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "cebolletas verdes (cebolla de verdeo)"
+        },
+        {
+            "@language": "es-ES",
+            "@value": "3 aguacates maduros"
+        }
+    ],
+    "name": {
+        "@language": "es-ES",
+        "@value": "Tartare de salm\u00f3n y aguacate"
+    },
+    "prepTime": {
+        "@language": "es-ES",
+        "@value": "25 min "
+    },
+    "recipeInstructions": {
+        "@language": "es-ES",
+        "@value": "\t\t\t\tCortar el salm\u00f3n y los aguacates en dados de \u00bd cm. reservar.\t\t\t\tEn un bol, poner el salm\u00f3n y a\u00f1adirle el jengibre rayado, 1cs de AOVE, el aceite de s\u00e9samo, el eneldo, la pimienta verde y la mitad del zumo de media lima. Remover suavemente, reposar 10 minutos.\t\t\t\tPor otra parte y en otro bol con el aguacate cortado, a\u00f1adirle 1cs de AOVE, lo que queda del zumo de lima, la cebolleta verde picada muy fina, el cilantro picado, remover con suavidad para que no se rompa y reposar 5 m.\t\t\t\tMontar el plato con ayuda de un molde, poniendo primero el salm\u00f3n como base y encima la mezcla del aguacate con cuidado.\t\t\t\tDecorar con un poco de cebolleta verde picada fina (parte verde), un chorrito de AOVE, semillas de s\u00e9samo y las escamas de sal, acompa\u00f1ar con pan tostado.\t\t\t"
+    },
+    "totalTime": {
+        "@language": "es-ES",
+        "@value": "25 min "
+    },
+    "@id": "http://example.org/recipe"
+}

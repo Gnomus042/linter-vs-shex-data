@@ -1,0 +1,110 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "GetCurried"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "Cook Time:"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Learn How To Make Creamy Egg Curry from Chef Neelam Bajwa only on Get Curried."
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Creamy Egg Curry Recipe - Neelam Bajwa"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "Sugar - 1 Pinch "
+        },
+        {
+            "@language": "en",
+            "@value": "Cashews - 1/4 Cup (4 tbs) , soaked (for 20 min)"
+        },
+        {
+            "@language": "en",
+            "@value": "Kashmiri red chilli powder - 1 Teaspoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Coriander seeds - 1 Teaspoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Coriander powder - 1/2 Teaspoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Ginger garlic paste - 1 Tablespoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Hot chilli powder - 1 Teaspoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Onions - 2  , chop"
+        },
+        {
+            "@language": "en",
+            "@value": "Turmeric powder - 1 Teaspoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Cream - 50 Milliliter "
+        },
+        {
+            "@language": "en",
+            "@value": "Salt -  To Taste "
+        },
+        {
+            "@language": "en",
+            "@value": "Tomatoes - 3  "
+        },
+        {
+            "@language": "en",
+            "@value": "Soft boiled eggs - 6  "
+        },
+        {
+            "@language": "en",
+            "@value": "Green chillies - 3  "
+        },
+        {
+            "@language": "en",
+            "@value": "Finely chopped coriander - 2 Tablespoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Cloves - 6  "
+        },
+        {
+            "@language": "en",
+            "@value": "Cumin seeds - 1/2 Teaspoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Green cardamoms - 2  "
+        },
+        {
+            "@language": "en",
+            "@value": "Peppercorns - 15  "
+        },
+        {
+            "@language": "en",
+            "@value": "Cumin powder - 1/2 Teaspoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Ghee - 2 Tablespoon "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "MAKING:\n\n1.In a saucepan heat ghee and once it melts, add cumin seeds and onions. Saute until the onions are softened.\n\n2.Then add ginger-garlic paste and fry for a bit followed by green chillies, turmeric powder, Kashmiri and hot chilli powder, cumin powder, coriander powder and stir.\n\n3.Now add the tomatoes, add salt and cook covered with a lid.\n\n4.Grind together cardamoms, peppercorns, cloves and coriander powder.\n\n5.Grind the soaked cashews with the water.\n\n6.Once the sauce is cooked turn the heat off and let it cool down for 10 minutes and blend it in a blender.\n\n7.Add the blended sauce back to the saucepan, turn the heat on and add the ground the masala to it.\n\n8. Now add the ground cashew, sugar and stir well.\n\n9.Turn the heat off and pour the cream a little at a time.\n\n10.Add the soft boiled eggs to the sauce and coat them well in it.\n\n\n\nSERVING:\n\n11.Garnish with coriander and serve."
+    },
+    "@id": "http://example.org/recipe"
+}

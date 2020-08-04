@@ -1,0 +1,80 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "15 minutes"
+    },
+    "copyrightHolder": {
+        "@language": "en-US",
+        "@value": "Copyright Dorothy Reinhold | ShockinglyDelicious.com. All rights reserved."
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "These savory appetizers are great with beer, wine or a beverage during cocktail hour, or as a go-along for soup or salad. Irish Dubliner and parsley make a classic savory filling. "
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 ounces shredded Dubliner cheese (about 1/2 cup)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 teaspoons Dijon mustard\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Null"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 sheet frozen puff pastry, thawed (half a 17.3-ounce package of Pepperidge Farm Puff Pastry Sheets)\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon Gourmet Garden lightly dried parsley  \n"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Irish Elephant Ears"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "20 minutes"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Carefully place pastry roll on a plate and pop it into the freezer for 10-15 minutes. This will make it easier to slice.\n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Makes 12. \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Heat the oven to 375\u00ba F/190\u00ba C. Line a baking sheet with parchment paper. Using a slender, long knife, cut the roll into 12 even slices. (See note below.) Place slices slightly apart on the prepared sheet and bake for 15 minutes, until golden. Remove from oven and serve warm or at room temperature \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place thawed but cold pastry on a lightly floured surface with a short side closest to you. With a rolling pin, roll gently to smooth creases. (You are not rolling to gain size.) \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Using a small offset spatula or icing spatula, spread mustard evenly over surface of puff pastry. Sprinkle with the cheese and parsley. Starting from the short side nearest you, roll up the pastry sheet tightly just to the center; similarly, roll the other side toward the center; and lightly press rolled halves together so they touch. \n"
+        },
+        {
+            "@language": "en-US",
+            "@value": "(Can be made ahead, wrapped in an airtight container and frozen. Reheat in 375\u00ba F/190\u00ba C oven for about five minutes.) \n"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "12"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "35 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "de",
+        "@value": "2016-05-29"
+    },
+    "image": {
+        "@id": "http://www.mamas-rezepte.de/rezept_Moehren___Sauce_Hollandaise-8-2669.html//bilder/moehrenmitsaucehollandaise.jpg"
+    },
+    "name": {
+        "@language": "de",
+        "@value": "M\u00f6hren mit Schneller Sauce Hollandaise"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "de",
+            "@value": "250 kcal"
+        }
+    },
+    "recipeInstructions": {
+        "@language": "de",
+        "@value": "F\u00fcr die Zubereitung von dem Rezept M\u00f6hren mit Schneller Sauce Hollandaise sollten zuerst die M\u00f6hren von der Schale befreit werden, danach die M\u00f6hren in etwa 8 cm lange Stifte, \u00e4hnlich der Form und Dicke von Pommes Frites schneiden.\nGesalzenes Kochwasser in einem Kochtopf aufkochen, die M\u00f6hrenstifte ins Wasser legen, einmal aufkochen, danach bei zur\u00fcckgedrehter Temperatur noch 5 Minuten langsam k\u00f6chelnd zu noch leicht bissfesten M\u00f6hrenst\u00fccken kochen.\n\nDie M\u00f6hren durch ein Sieb abseihen, das Kochwasser darunter auffangen.\nDie M\u00f6hren im Sieb sofort mit reichlich kaltem Wasser begie\u00dfen (blanchieren) und im Sieb abtropfen lassen. \n\nF\u00fcr die schnelle Sauce Hollandaise:\n2 Eidotter und 1 EL Joghurt in ein schmales Gef\u00e4\u00df geben und mit dem Stabmixer schaumig aufr\u00fchren.\nNach und nach die zuvor geschmolzene, wieder etwas abgek\u00fchlte noch fl\u00fcssige Butter unter weiterem R\u00fchren mit dem Stabmixer einr\u00fchren bis eine dickliche Sauce Hollandaise entstanden ist.                                                               "
+    },
+    "recipeYield": {
+        "@language": "de",
+        "@value": " f\u00fcr 4 Personen"
+    },
+    "@id": "http://example.org/recipe"
+}

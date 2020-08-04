@@ -1,0 +1,116 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "By Lauren Benning"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "50 min "
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2014-11-12 21:21:47"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "This sugar-free pumpkin bread tastes so much like the real deal that it\u2019ll blow your mind! It\u2019s moist and lightly sweetened with a hint of spiciness from the cinnamon and cloves. Add chocolate chips for extra decadence, or fill muffin cups and dollop with a cream cheese filling for a breakfast fit for any pumpkin lovers in the house!"
+    },
+    "image": {
+        "@id": "http://healthyindulgences.net/wp-content/uploads/2014/11/healthy-indulgences-pumpkin-chocolate-chip-bread-atkins-low-carb-diabetic-sugar-free-paleo-trim-healthy-mama-almond-flour-stevia-xylitol-gluten-free-71.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "3 large eggs, room temperature"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/2 teaspoons (7.5 mL) baking powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 teaspoon (1.25 mL) baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 cup natural sweetener blend**"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 cup sugar-free chocolate chips or 8 squares Lindt 70% chocolate bar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 teaspoons (20 mL) cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Tablespoons (1.0 oz, 28g) unsalted butter OR organic shortening, room temperature"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup (3.8 oz,110g) canned pumpkin"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon (5mL) vanilla extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/2 teaspoons (7.5 mL) nutmeg"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/3 cup (1.2 oz, 34g) sifted coconut flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 cup (2.0 oz, 56g) sifted oat flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 cup (7.1 oz, 200g) nut butter*"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon (5.0 mL) ground cloves"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/4 teaspoon (1.25 mL) sea salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon (5 mL) apple cider vinegar"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Sugar-Free Chocolate Chip Pumpkin Bread"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "20 min "
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\nPreheat oven to 350 degrees.\nLightly grease two 3\u2033 by 6\u2033 loaf pans with shortening or coconut oil cooking spray.\nPlace cut squares of parchment in bottoms of pans, and sift oat flour over bottom and sides of pans to prevent sticking.\nGrind erythritol and xylitol (if using) in a coffee grinder or Magic Bullet until they are the texture of powdered sugar.\nIn a large mixing bowl, combine butter or shortening, cashew butter, xylitol, erythritol, stevia, and sea salt. With a hand mixer, beat ingredients together starting at low speed, then move to high speed setting, for 2-3 minutes, or until light and fluffy.\nBeat in vanilla, then add the eggs, 1 at a time until a smooth batter forms.\nAdd dry ingredients, mixing until a smooth dough forms.\nBeat in pumpkin and vinegar until thoroughly incorporated.\nStir in chocolate chips or chocolate chunks, reserving two tablespoons for sprinkling.\nTo prevent batter from overflowing, remove two muffin\u2019s worth of it and bake separately. I like to pour extra batter into two silicone muffin cups. If you are not using chocolate chips, you can bake all the batter in the two pans.\nPour batter into loaf pans, smooth it out, then sprinkle the loaves with chocolate.\nSet loaves and muffin cups on a cookie sheet and slide into oven. Bake for 40 minutes, checking for browning at the 40 minute mark. Tent loaves with tin foil if they are browning too much, and bake for 10 more minutes.\nRemove pans to a wire rack and cool loaves for one hour. To cleanly remove loaf from pan, cut around edges before inverting on to a plate.\n"
+    },
+    "@id": "http://example.org/recipe"
+}

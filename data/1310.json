@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Phoebe Lapine"
+    },
+    "datePublished": {
+        "@value": "2012-07-25 10:40:48"
+    },
+    "description": {
+        "@value": " These little cakes make for some fab finger food, or just a light vegetarian lunch. I topped mine with a little baby arugula and pickled radishes to add crunch and color. But they'd also taste great with just a dollop of good homemade aioli. You can substitute regular flour for the rice flour if you aren't eating gluten-free."
+    },
+    "image": {
+        "@value": "https://feedmephoebe.com/wp-content/uploads/2012/07/IMG_0253.jpg"
+    },
+    "name": {
+        "@value": "Summer Squash and Cornmeal Cakes"
+    },
+    "recipeIngredient": [
+        {
+            "@value": " 2 tablespoons lemon juice"
+        },
+        {
+            "@value": " 1 tablespoon chopped fresh tarragon"
+        },
+        {
+            "@value": " 1 \u00bd cups coarsely grated zucchini about 1 medium"
+        },
+        {
+            "@value": " 3 large eggs beaten"
+        },
+        {
+            "@value": " \u00bc cup ground yellow cornmeal"
+        },
+        {
+            "@value": " 3 tablespoons white rice flour or regular AP flour"
+        },
+        {
+            "@value": " Vegetable oil"
+        },
+        {
+            "@value": " 1 teaspoon salt"
+        },
+        {
+            "@value": " Zest of 1 lemon"
+        },
+        {
+            "@value": " 1 \u00bd cups coarsely grated yellow squash about 1 medium"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Meanwhile heat a thin layer of vegetable oil in a large cast iron skillet over a medium-high flame. When the oil is hot, add the batter in tablespoon-fuls to the pan, making sure not to crowd the cakes. You should be able to fry about 8 at a time, depending on the size of your pan. Press each mound of zucchini down with the back of your spatula to form flat little patties, about 2-inches in diameter. Cook until golden brown on the first side, about 1 to 2 minutes, and then flip and cook until crispy on the second side."
+        },
+        {
+            "@value": "Serve the cakes with a dollop of aioli and garnish with some fresh herbs, lettuce, or pickled veg - radishes worked great!"
+        },
+        {
+            "@value": "Mix together the grated squashes, tarragon, lemon juice and zest, and egg in a medium bowl. Stir in the cornmeal, flour, and salt until just combined."
+        },
+        {
+            "@value": "Remove the cooked cakes to a paper towel to drain. Add more oil as necessary, and repeat with the remaining batter."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

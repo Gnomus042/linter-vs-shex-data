@@ -1,0 +1,27 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Jaishree"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2013-12-24"
+    },
+    "image": {
+        "@id": "https://i0.wp.com/healthyvegrecipes.com/wp-content/uploads/2013/12/IMG_68511.jpg?resize=570%2C474"
+    },
+    "ingredients": {
+        "@language": "en-US",
+        "@value": "Ingredients\n\n1 cup grated Mooli / radish\n\u00bd cup grated boiled potato\n1 teaspoon red chili powder\n\u00bd teaspoon turmeric powder\n1 teaspoon coriander powder\n1 teaspoon amchur\n1 teaspoon sesame seeds\n2 cup whole wheat flour (gheu ka atta) / multigrain flour\n\u00bc cup besan \u00a0(optional)\n1 \u00bd teaspoon salt\nOil to roast Paratha\n\n"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Mooli ka Paratha Recipe / Radish Paratha"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "Directions\n\nMix all the ingredients except oil to make Mooli ka Paratha dough and keep it aside for 15-20 minutes.\ningredients for mooli ka paratha\nAfter 15- 20 minutes Mooli /radish will start diffusing water in the flour and the flour will become enough wet to make a nice dough . if you find the dough little watery add little wheat flour to make firm .\nDough for mooli ka paratha\nDivide the dough in 7-8 equal balls and make Parathas from it.\nRoast the Paratha on both sides with or without brushing oil to it.\nServe it hot with raita / pudina chutney / peanut chutney /curd /jam with lots of salad\nmooli ka paratha\n\n"
+    },
+    "@id": "http://example.org/recipe"
+}

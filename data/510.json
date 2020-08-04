@@ -1,0 +1,95 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT35M"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "For a special treat, serve with a lemon coulis."
+    },
+    "image": {
+        "@id": "https://www.palaisdesthes.com/media/wysiwyg/gastronomie/recettes/recette-moelleux-orange-et-the-earl-grey-blue-of-london-desktop.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Orange Cake flavoured with Earl Grey Blue of London tea"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "Zest of 1 orange"
+        },
+        {
+            "@language": "en",
+            "@value": "6 g (0.2 oz) flour"
+        },
+        {
+            "@language": "en",
+            "@value": "2 eggs"
+        },
+        {
+            "@language": "en",
+            "@value": "250 g (9 oz) almond paste"
+        },
+        {
+            "@language": "en",
+            "@value": "6 g (0.2 oz) cornflour"
+        },
+        {
+            "@language": "en",
+            "@value": "90 g (3 oz) butter"
+        },
+        {
+            "@language": "en",
+            "@value": "0.5 g (1/8 tsp) baking powder"
+        },
+        {
+            "@language": "en",
+            "@value": "20 g (0.7 oz) caster sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "25 g (0.9 oz) grated coconut"
+        },
+        {
+            "@language": "en",
+            "@value": "1 egg white"
+        },
+        {
+            "@language": "en",
+            "@value": "2 g (0.07 oz) ground Earl Grey \n    Blue of London\n\n tea"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\n                                    Cool, then cut into pieces.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Put in a baking dish and bake at 170\u00b0C (375\u00b0F) for 15-20 minutes.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Sift the flour, cornflour, baking powder, grated coconut and ground tea into the mixture, then add the melted butter.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Mix.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Allow the almond paste to warm to room temperature, then mix with the eggs and orange zest.\n                                "
+        },
+        {
+            "@language": "en",
+            "@value": "\n                                    Beat the egg white to form soft peaks, then add the caster sugar. Fold in with the almond paste mixture.\n                                "
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Serves 6/8"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "no",
+        "@value": "\n                            En god munnfull med spennende krydret smak. Kjempefin som konfekt.\n                          "
+    },
+    "image": {
+        "@id": "https://res.cloudinary.com/norgesgruppen/image/upload/c_fill,f_auto,h_450,q_auto,w_800/96df00abfdd60253.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "no",
+            "@value": "\n                                            m\u00f8rk sjokolade, 70% kakao\n                                          "
+        },
+        {
+            "@language": "no",
+            "@value": "\n                                            lik\u00f8r\n                                                eller cointreau\n                                          "
+        },
+        {
+            "@language": "no",
+            "@value": "\n                                            valn\u00f8ttkjerner\n                                                og mandler\n                                          "
+        },
+        {
+            "@language": "no",
+            "@value": "\n                                            havregryn\n                                          "
+        },
+        {
+            "@language": "no",
+            "@value": "\n                                            appelsin\n                                                revet skal av\n                                          "
+        },
+        {
+            "@language": "no",
+            "@value": "\n                                            malt kanel\n                                          "
+        },
+        {
+            "@language": "no",
+            "@value": "\n                                            brunt sukker\n                                          "
+        },
+        {
+            "@language": "no",
+            "@value": "\n                                            t\u00f8rkede fiken\n                                          "
+        },
+        {
+            "@language": "no",
+            "@value": "\n                                            malt nellik\n                                          "
+        }
+    ],
+    "name": {
+        "@language": "no",
+        "@value": "Fikenn\u00f8ttekuler"
+    },
+    "recipeInstructions": {
+        "@language": "no",
+        "@value": "\n                                    1. Hakk fiken og n\u00f8tter. Bland inn krydder, mysli og lik\u00f8r.\n                                    2. Smelt sjokolade og sukker i vannbad og vend det inn i blandingen.\n                                    3. Form sm\u00e5 kuler og sett konfekten kj\u00f8lig.\n                              "
+    },
+    "recipeYield": {
+        "@language": "no",
+        "@value": "Null"
+    },
+    "totalTime": {
+        "@language": "no",
+        "@value": "PT10M"
+    },
+    "@id": "http://example.org/recipe"
+}

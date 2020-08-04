@@ -1,0 +1,118 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "sk",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "sk",
+            "@value": "4.5"
+        }
+    },
+    "author": {
+        "@language": "sk",
+        "@value": "Palmar\u00edn"
+    },
+    "datePublished": {
+        "@language": "sk",
+        "@value": "2013-06-05"
+    },
+    "description": {
+        "@language": "sk",
+        "@value": "Trojfarebn\u00e1 dobrota, ktor\u00e1 nielen dobre vyzer\u00e1, ale aj skvelo chut\u00ed. Ochutnajte sami a urobte si ho pod\u013ea fotopostupu."
+    },
+    "image": {
+        "@id": "http://www.najpecenie.sk/data/recipes/recipe-a1a86f0ca647bf2a7b3736cbd8c2c396-normal.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "sk",
+            "@value": "120 g cukor kry\u0161t\u00e1lov\u00fd "
+        },
+        {
+            "@language": "sk",
+            "@value": "250 g Helia"
+        },
+        {
+            "@language": "sk",
+            "@value": "300 g m\u00faka polohrub\u00e1 "
+        },
+        {
+            "@language": "sk",
+            "@value": "1 bal\u00ed\u010dek Tang pomaran\u010dov\u00fd"
+        },
+        {
+            "@language": "sk",
+            "@value": "2 ly\u017eica kakao"
+        },
+        {
+            "@language": "sk",
+            "@value": "2 ks vanil\u00ednov\u00fd cukor"
+        },
+        {
+            "@language": "sk",
+            "@value": "1 ks pr\u00e1\u0161ok do pe\u010diva"
+        },
+        {
+            "@language": "sk",
+            "@value": "2 ks Zlat\u00fd klas"
+        },
+        {
+            "@language": "sk",
+            "@value": "150 g cukor pr\u00e1\u0161kov\u00fd "
+        },
+        {
+            "@language": "sk",
+            "@value": "3 ks vajcia"
+        },
+        {
+            "@language": "sk",
+            "@value": "200 ml mlieko"
+        },
+        {
+            "@language": "sk",
+            "@value": "500 g tvaroh"
+        },
+        {
+            "@language": "sk",
+            "@value": "100 ml olej"
+        }
+    ],
+    "name": {
+        "@language": "sk",
+        "@value": "Tvarohov\u00e9 rezy s pomaran\u010dov\u00fdm \u017eel\u00e9 "
+    },
+    "prepTime": {
+        "@language": "sk",
+        "@value": "PT1H"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "sk",
+            "@value": "2. Plnka: 500g tvarohu, 2 vanilkov\u00e9 cukry, 150g pr\u00e1\u0161kov\u00e9ho cukru, treba dobre premie\u0161a\u0165."
+        },
+        {
+            "@language": "sk",
+            "@value": "4. \u017del\u00e9: 900ml vody, jeden TANG pomaran\u010dov\u00fd, 2 Zlat\u00e9 klasy, 120g cukru - uvar\u00edme ako puding."
+        },
+        {
+            "@language": "sk",
+            "@value": "3. Postupne pridajte 250g Helie alebo masla, natrite na upe\u010den\u00fd pl\u00e1t."
+        },
+        {
+            "@language": "sk",
+            "@value": "5. Nech\u00e1me ochladn\u00fa\u0165 a vylejeme na tvarohov\u00fa plnku, d\u00e1me stuhn\u00fa\u0165 do chladni\u010dky."
+        },
+        {
+            "@language": "sk",
+            "@value": "1. 3 cel\u00e9 vajcia, 150g pr\u00e1\u0161kov\u00e9ho cukru, 100ml oleja, 200ml mlieka, 2 ly\u017eice kakaa, 300g polohrubej m\u00faky, 1 pr\u00e1\u0161ok do pe\u010diva - vymie\u0161a\u0165 a da\u0165 upiec\u0165."
+        }
+    ],
+    "recipeYield": {
+        "@language": "sk",
+        "@value": "-"
+    },
+    "@id": "http://example.org/recipe"
+}

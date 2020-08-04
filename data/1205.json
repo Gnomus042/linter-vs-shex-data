@@ -1,0 +1,99 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Van's Kitchen"
+    },
+    "image": {
+        "@id": "https://www.vanskitchen.com/wp-content/uploads/2019/04/1.png"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon Worcestershire sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 cloves garlic, minced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons brown sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups plums, pitted and sliced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup apple juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons Sriracha sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup finely diced red onion"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 teaspoon salt, to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Van\u2019s Kitchen Vegetable Egg Rolls"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/42 cup apple cider vinegar"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Grilled Egg Rolls & Spicy Plum BBQ Sauce"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Dipping Sauce"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Asian Fusion"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Grill the egg rolls: Preheat a grill to medium or medium-low heat. Place the egg rolls on direct heat to create grill marks, then transfer to a grill pan or aluminum foil and grill on indirect heat, turning periodically, for about 8 minutes, or until crispy and the internal temperature of the egg rolls is 165\u00b0F."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add plums to the sauce and let it cook down until soft. Transfer sauce to a blender and blend until smooth. Pass the sauce through a sieve and return to the stove to simmer for about 5 minutes more, or until nicely thickened. Season to taste with more salt, if necessary."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Enjoy!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add water, vinegar, Worcestershire sauce, juice, sugar, Sriracha sauce and salt, and stir well. Bring to a boil over medium heat, then lower to a simmer. Let it simmer for about 15 minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Make the sauce: In a saucepan, heat olive oil over medium low heat. Add red onion and cook until translucent, stirring periodically. Stir in the garlic and cook for about 1 to 2 minutes more."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

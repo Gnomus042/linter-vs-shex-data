@@ -1,0 +1,73 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT15M"
+    },
+    "image": {
+        "@id": "https://bakeorbreak.com/wp-content/uploads/2011/03/chchpck1k3-200x200.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 large eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 cup granulated sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3/4 cup brown sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups semi-sweet chocolate chunks or chips"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 teaspoons vanilla extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups coarsely chopped pecans, toasted"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup unsalted butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 & 1/4 cups all-purpose flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 teaspoon baking powder"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Chocolate Chunk Pecan Cookies"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT20M"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\nPlace butter in a large microwave safe bowl. Microwave until melted, about 1 minute.\nAdd both sugars to melted butter and stir until combined. Add salt, vanilla, and eggs, stirring until smooth. Stir in flour, baking soda, and baking powder until just combined and a soft dough forms. Fold in chocolate and pecans.\nScoop dough in desired cookie size onto lined baking sheets. Refrigerate until firm, about 30-45 minutes, depending on the size of the cookies. Leave room between cookies for some spreading.\nPreheat oven to 350\u00b0. Bake cookies until golden around the edges but a little soft in the center. Baking time will vary depending on the size of the cookies. Smaller cookies (2-inch diameter) bake for 13-15 minutes. Larger cookies may require up to 18 minutes.\nCool on baking sheets on wire racks for a few minutes. Then, transfer from baking sheets to wire racks to cool completely.\n\n"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "about 48 2-inch cookies"
+    },
+    "@id": "http://example.org/recipe"
+}

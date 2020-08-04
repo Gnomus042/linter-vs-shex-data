@@ -1,0 +1,31 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "sv-SE",
+        "@value": "sporth\u00e4lsa"
+    },
+    "datePublished": {
+        "@language": "sv-SE",
+        "@value": "2019-11-04 11:41:00"
+    },
+    "description": {
+        "@language": "sv-SE",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://www.sporthalsa.se/wp-content/uploads/2018/04/pasta_spenat-600x338.jpg"
+    },
+    "name": {
+        "@language": "sv-SE",
+        "@value": "N\u00e4ringsber\u00e4knade recept f\u00f6r hela veckan"
+    },
+    "recipeYield": {
+        "@language": "sv-SE",
+        "@value": "Null"
+    },
+    "url": {
+        "@language": "sv-SE",
+        "@value": "https://www.sporthalsa.se/recept/kaloriberaeknade-recept-foer-hela-veckan-0/"
+    },
+    "@id": "http://example.org/recipe"
+}

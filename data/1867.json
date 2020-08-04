@@ -1,0 +1,96 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-gb",
+            "@value": "Null"
+        },
+        "reviewCount": {
+            "@language": "en-gb",
+            "@value": "0"
+        },
+        "worstRating": {
+            "@language": "en-gb",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-gb",
+            "@value": "cooking with nonna"
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2014-08-12"
+    },
+    "description": {
+        "@language": "en-gb",
+        "@value": "Summer Minestrone... with all the fresh vegetables from your garden!\n"
+    },
+    "ingredients": [
+        {
+            "@language": "en-gb",
+            "@value": "onion"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "eggplant"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "Ricotta Salata (optional)"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "green pepper"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "red pepper"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "extra virgin olive oil"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "tomatoes"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "salt & pepper"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "zucchine"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "yellow pepper"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "fresh parsley"
+        },
+        {
+            "@language": "en-gb",
+            "@value": "potatoes"
+        }
+    ],
+    "name": {
+        "@language": "en-gb",
+        "@value": "\n                    Summer Minestrone                    "
+    },
+    "recipeInstructions": {
+        "@language": "en-gb",
+        "@value": "\n\t\t\tWash and cut all your vegetables in small cubes.\n\nIn a pot, add 4 Tbs of EV olive oil and the chopped onion.\n\nSaute the onion for a few minutes and add the potatoes.\n\nAfter 2-3 mins. add all the other vegetables and saute for an additional 2-3 mins. by often stirring them all together.\n\nAdd salt & pepper as desired.\n\nCover all the vegetables with boiling water. Cover the pot and cook at medium flame for 15-20 mins. Stir occasionally.\n\nTaste the potatoes, if they are done, the Minestrone is done.\n\nServe with Ricotta Salata.\n\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-gb",
+        "@value": "4 Person(s)"
+    },
+    "@id": "http://example.org/recipe"
+}

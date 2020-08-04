@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ko",
+        "@value": "Professional Lighting co., LTD"
+    },
+    "brand": {
+        "@language": "ko",
+        "@value": "cnam.me"
+    },
+    "image": {
+        "@language": "ko",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1oZPWRXXXXXcPXVXXq6xXFXXXn/Fumat-\ubc84\ube14-\uc720\ub9ac-\uc0f9\ub4e4\ub9ac\uc5d0-\ud604\ub300-\uace8\ub4dc-\ucca0-\uc11c\uc2a4\ud39c\uc158-\uc870\uba85-\ub2e4\uc774\ub2dd-\ub8f8-\uac70\uc2e4-\ud654\uc774\ud2b8-\uc720\ub9ac-\uadf8\ub298-\ub9e4\ub2ec\ub824.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "ko",
+            "@value": "32808197031"
+        },
+        {
+            "@language": "ko",
+            "@value": "2098-12-31"
+        }
+    ],
+    "name": {
+        "@language": "ko",
+        "@value": "Fumat \ubc84\ube14 \uc720\ub9ac \uc0f9\ub4e4\ub9ac\uc5d0 \ud604\ub300 \uace8\ub4dc \ucca0 \uc11c\uc2a4\ud39c\uc158 \uc870\uba85 \ub2e4\uc774\ub2dd \ub8f8 \uac70\uc2e4 \ud654\uc774\ud2b8 \uc720\ub9ac \uadf8\ub298 \ub9e4\ub2ec\ub824 \ub7a8\ud504"
+    },
+    "@id": "http://example.org/recipe"
+}

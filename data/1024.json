@@ -1,0 +1,73 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "itemreviewed": {
+            "@language": "da",
+            "@value": " Citron kylling "
+        },
+        "ratingCount": {
+            "@language": "da",
+            "@value": "133"
+        },
+        "ratingValue": {
+            "@language": "da",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "da",
+        "@value": "Fnuggi"
+    },
+    "description": {
+        "@language": "da",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "da",
+        "@value": "\nCitron kylling\n"
+    },
+    "recipeCategory": {
+        "@language": "da",
+        "@value": "\n\n \nMadopskrifter\n \nKylling (387)\n"
+    },
+    "recipeIngredient": {
+        "@language": "da",
+        "@value": "\n8 kyllingelaar\n3 citroner\n2 fed hvidlog\n2 spsk. oregano\n3 spsk. olivenolie\nsalt og peber\n1 log\n2 dl honsebouillon\n2 spsk. tomatpure\n"
+    },
+    "recipeInstructions": {
+        "@language": "da",
+        "@value": "\nSaet ovnen paa 225 grader. Skyl kyllingelaarene i koldt vand og tor dem. Skrub 2 af citronerne godt riv skalen. Pres saften af dem. Skaer den 3. citron i skiver til garnering.\nPres hvidlogsfeddene og bland med citronskal og citronsaft. Krydr med salt og peber. Stryg citronblandingen paa kyllingelaarene, laeg dem i et fad og ovnsteg ca. 15 min.\nHak loget fint og lad det stege kort paa en pande i resten af olien. Kom bouillon og tomatpure paa og lad alt koge sammen.\nTag kyllingen ud af ovnen og haeld bouillonblandingen over. Saet fadet tilbage i ovnen nogle minutter. Naar kodet er stegt anretes det paa en tallerken og pyntes med citronskiverne.\n"
+    },
+    "url": {
+        "title": {
+            "@language": "da",
+            "@value": "Citron kylling | L\u00e6kker opskrift | Find den p\u00e5 Maduniverset"
+        },
+        "item": [
+            {
+                "@id": "_:Neb5bc8b6e3c54facb92e74b53598cd2c"
+            },
+            {
+                "@id": "_:Nbfbb79fc82974166b09e42083b9238a3"
+            },
+            {
+                "@id": "_:N2c2aff7f1dbd4414bb28142f4e2c89ef"
+            },
+            {
+                "@id": "_:N5253c3ace62a4e3abc45ac1ddbe777be"
+            }
+        ]
+    },
+    "yield": [
+        {
+            "@language": "da",
+            "@value": "til 4 pers."
+        },
+        {
+            "@language": "da",
+            "@value": "Tid ialt: 1 time."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

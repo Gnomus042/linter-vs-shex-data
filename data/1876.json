@@ -1,0 +1,103 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-GB",
+        "@value": "Nadia Lim"
+    },
+    "cookTime": {
+        "@language": "en-GB",
+        "@value": "5 minutes"
+    },
+    "description": {
+        "@language": "en-GB",
+        "@value": "\n                            Make lots of these tasty, smoky, garlicky prawns because\u00a0they\u2019ll be popular!\nSimply delicious charred on the barbecue and served with a squeeze of lime and a bowl of chipotle mayo to dip into. To get these prawns nicely charred, make sure the barbecue or fry pan is super hot, and don\u2019t put too many on at once to avoid crowding the pan. Adding yoghurt to the chipotle mayo is a great way to add some acidity and also lighten it up a bit. If you have time, let these prawns marinate in the fridge before cooking them.\nThis recipe comes from NADIA magazine.\n                        "
+    },
+    "image": [
+        {
+            "@id": "https://nadialim.com/recipe/smoky-prawns-with-creamy-chipotle-mayo/Null"
+        },
+        {
+            "@id": "_:N1765f6c1ad784f8ea8070aea757c65e1"
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "en-GB",
+            "@value": "large raw prawn cutlets"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "chipotle sauce"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "tomato paste"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "lemon or lime wedges"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "natural unsweetened yoghurt"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "garlic"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "chilli powder"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "mayonnaise"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "smoked paprika"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "olive oil"
+        }
+    ],
+    "name": {
+        "@language": "en-GB",
+        "@value": "Smoky prawns with creamy chipotle mayo"
+    },
+    "prepTime": {
+        "@language": "en-GB",
+        "@value": "10 minutes"
+    },
+    "recipeCategory": [
+        {
+            "@id": "https://nadialim.com/recipe/smoky-prawns-with-creamy-chipotle-mayo//recipe-category/appetizers-and-starters/"
+        },
+        {
+            "@id": "https://nadialim.com/recipe/smoky-prawns-with-creamy-chipotle-mayo//recipe-category/seafood/"
+        },
+        {
+            "@id": "https://nadialim.com/recipe/smoky-prawns-with-creamy-chipotle-mayo//recipe-category/diabetes-friendly/"
+        },
+        {
+            "@id": "https://nadialim.com/recipe/smoky-prawns-with-creamy-chipotle-mayo//recipe-category/gluten-free/"
+        },
+        {
+            "@id": "https://nadialim.com/recipe/smoky-prawns-with-creamy-chipotle-mayo//recipe-category/entertaining/"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-GB",
+        "@value": "\nMix paprika, chilli powder, tomato paste, garlic and olive oil together and combine with prawns, making sure the prawns are well coated. If you want to prep in advance, you can leave the prawns to marinate for up to a few hours in the fridge. Or otherwise they can be cooked straight away.\nMix all the chipotle mayo ingredients together and season to taste with a little salt.\nWhen ready to cook the prawns, season them with salt and heat a drizzle of olive oil on the barbecue hotplate or in a large frying pan on high heat. Cook prawns for a few minutes, turning once or twice, until just cooked through and slightly charred on the outside.\nServe prawns on a platter with toothpicks, chipotle mayo in a bowl and lime or lemon wedges on the side.\n\nTips:\n\nIf prawns have been marinating in the fridge, bring them up to room temperature before cooking so they cook faster and char better on the barbecue.\nIf using a frying pan, cook prawns in two or three batches to avoid overcrowding (and cooling down) the pan.\n\n"
+    },
+    "recipeYield": {
+        "@language": "en-GB",
+        "@value": "4-6"
+    },
+    "thumbnailUrl": {
+        "@language": "en-GB",
+        "@value": "https://nadialim.com/wp-content/uploads/2017/02/prawns-100x100.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

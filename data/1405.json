@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "ru-RU",
+            "@value": "JAMnews | \u0411\u0430\u043a\u0443"
+        }
+    },
+    "datePublished": {
+        "@language": "ru-RU",
+        "@value": "\n\u043d\u043e\u044f\u0431\u0440\u044c 26, 2018"
+    },
+    "name": {
+        "@language": "ru-RU",
+        "@value": "\u041e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0438 \u043a\u0440\u0430\u0441\u043e\u0442\u0430 \u043d\u043e\u0447\u043d\u043e\u0433\u043e \u0411\u0430\u043a\u0443 \u0432 \u0444\u043e\u0442\u043e \u0438 \u0438\u0441\u0442\u043e\u0440\u0438\u044f\u0445"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,26 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "sk",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "sk",
+            "@value": "Null"
+        }
+    },
+    "datePublished": {
+        "@language": "sk",
+        "@value": "\n                        11. 1. 2017\n                    "
+    },
+    "name": {
+        "@language": "sk",
+        "@value": "Om\u00e1\u010dka so \u0161ampi\u0148\u00f3nmi"
+    },
+    "url": {
+        "@id": "https://www.ketodiet.sk/recepty/?p=4//recepty/detail/omacka-so-sampinonmi"
+    },
+    "@id": "http://example.org/recipe"
+}

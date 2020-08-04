@@ -1,0 +1,44 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@value": "Pyracantha Jelly"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 small lemon"
+        },
+        {
+            "@value": "2 pints pyracantha berries"
+        },
+        {
+            "@value": "1 package Sure-Jell"
+        },
+        {
+            "@value": "1 small grapefruit"
+        },
+        {
+            "@value": "5 1/2 cups granulated sugar"
+        },
+        {
+            "@value": "2 pints water"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Add 1 package of Sure-Jell to juices and bring to a boil.\nBoil for 1 minute and then add sugar."
+        },
+        {
+            "@value": "Boil berries in water for 20 minutes."
+        },
+        {
+            "@value": "Drain and measure juice. Add\njuice of lemon and grapefruit. There should be 4 1/2 cups of combined\njuices."
+        },
+        {
+            "@value": "Boil to jell, about 2 minutes at a rolling boil."
+        },
+        {
+            "@value": "Pour into prepared sterilized jars, then seal."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

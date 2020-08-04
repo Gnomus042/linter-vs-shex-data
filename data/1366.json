@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "http://www.lestoquesducaillou.nc/wp-content/uploads/2017/04/Logo_Fb_blanc-300x300.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "500g de champignons"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "200g d'oignons (revenus dans une po\u00eale)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "50g de levure"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1kg de farine aux c\u00e9r\u00e9ales"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "50g d'eau"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "100g de farine blanche (pour le levain)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "250g de lardons"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "150g d'eau"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "200g d'ail (revenus dans une po\u00eale)"
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Pain aux champignons"
+    },
+    "prepTime": {
+        "@language": "fr-FR",
+        "@value": "30 minutes"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "fr-FR",
+            "@value": "P\u00e9trissez \u00e0 la main et rajoutez une pinc\u00e9e de sel environ 15 minutes. "
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Passez-les dans un four pr\u00e9chauff\u00e9 \u00e0 200 C\u00b0 pendant 25 minutes."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Faites des p\u00e2tons de 250g environ. Faites des barquettes avec vos p\u00e2tons. Laissez-les pousser une heure"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Rajoutez l\u2019ail, l\u2019oignon, les lardons revenus et les champignons dans l\u2019appareil. P\u00e9trissez \u00e0 nouveau votre p\u00e2te."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "M\u00e9langez \u00e0 la main les 100g de farine et la levure avec les 50g d\u2019eau."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\u00a9 Cr\u00e9dits Photos - Les Toqu\u00e9s du Caillou - Remerciements au chef et au producteur CHAMPI POUSS"
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

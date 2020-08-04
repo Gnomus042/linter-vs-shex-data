@@ -1,0 +1,59 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Alex Idov"
+    },
+    "image": {
+        "@id": "https://w3.chabad.org/media/images/812/YNjq8120667.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Non-Dairy Strawberry Ice Cream"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Dessert"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "2 egg whites"
+        },
+        {
+            "@language": "en",
+            "@value": "14-16 oz. frozen strawberries"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd cup white sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "16 oz. non-dairy whipping cream"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\nSlightly defrost strawberries. \nMix all ingredients together for about 5 minutes, until the mixture is stiff and creamy. The end result should resemble fluffy cotton candy. Freeze. \nWhip the cream separately. Let the frozen mixture defrost partially, then whip the cream into the frozen mixture. \n\n"
+    },
+    "suitableForDiet": [
+        {
+            "@language": "en",
+            "@value": "Nut-Free"
+        },
+        {
+            "@language": "en",
+            "@value": "Egg-Free"
+        },
+        {
+            "@language": "en",
+            "@value": "Pareve"
+        },
+        {
+            "@language": "en",
+            "@value": "Dairy-Free"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

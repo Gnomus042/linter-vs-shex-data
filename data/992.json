@@ -1,0 +1,95 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "de",
+            "@value": "5.0"
+        },
+        "ratingValue": {
+            "@language": "de",
+            "@value": "3.5"
+        },
+        "reviewCount": {
+            "@language": "de",
+            "@value": "635"
+        },
+        "worstRating": {
+            "@language": "de",
+            "@value": "0.5"
+        }
+    },
+    "author": [
+        {
+            "@id": "_:N3ed9bd9a30e34da7a33d74ee333f30c8"
+        },
+        {
+            "@id": "_:N2448bd182727487a833bf283ea414156"
+        },
+        {
+            "@id": "_:N71090c2c55704f75bca43dc654b2814a"
+        }
+    ],
+    "cookTime": {
+        "@language": "de",
+        "@value": "PT15M"
+    },
+    "description": {
+        "@language": "de",
+        "@value": "schnelle Ausstechkekse ohne Ruhezeit "
+    },
+    "image": {
+        "@id": "https://www.kochenohne.de/rezept/blitzkekse-ohne-ei-zum-ausstechen/uploads/tx_kochenohne/blitzkekse-ohne-Ei-2.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "de",
+            "@value": "Vanille"
+        },
+        {
+            "@language": "de",
+            "@value": "Zucker"
+        },
+        {
+            "@language": "de",
+            "@value": "Zitronensaft"
+        },
+        {
+            "@language": "de",
+            "@value": "Weizenmehl"
+        },
+        {
+            "@language": "de",
+            "@value": "Salz"
+        },
+        {
+            "@language": "de",
+            "@value": "Butter"
+        }
+    ],
+    "name": {
+        "@language": "de",
+        "@value": "\n\t\t\t\t\tBlitzkekse ohne Ei zum Ausstechen\n\t\t\t\t"
+    },
+    "nutrition": [
+        {
+            "@id": "_:N59742db914d04ac887546e8c8f4b3d3f"
+        },
+        {
+            "@id": "_:Nbab752ab13e8454daac1c6eec44b7267"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "de",
+        "@value": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t1.Zimmerwarme Butter mit dem Zucker verr\u00fchren. Danach Mehl, Zitronensaft, Salz und Vanille verr\u00fchren.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t2.Den Teig 30 Minuten im K\u00fchlschrank ruhen lassen. \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t3.Mit einem Nudelholz ausrollen und nach Belieben mit F\u00f6rmchen ausstechen und dekorieren. Als Deko eignen sich gehackte Mandeln. Es gehen aber auch bunte Streusel oder Schokostreusel, die haben aber meiste viele Zusatzstoffe.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t4.Auf einem mit Backpapier ausgelegtem Backblech legen und bei 180 Grad Ober-/Unterhitze ca. 4 Minuten backen. Vorsicht! Sie werden schnell sehr hart und dunkel.\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t5.Die Teigmenge reicht f\u00fcr ca. 40 kleine Blitzkekse, die alle auf ein Backblech passen. Wer Vorr\u00e4te anlegen will oder die Blitzkekse als Weihnachtskekse verschenken will, sollte die Menge verdoppeln oder verdreifachen.\n\t\t\t\t\t\t\n\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "de",
+        "@value": "4"
+    },
+    "totalTime": {
+        "@language": "de",
+        "@value": "PT19M"
+    },
+    "@id": "http://example.org/recipe"
+}

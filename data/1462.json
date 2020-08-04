@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "pt",
+        "@value": "DX Drop Shipping Store"
+    },
+    "brand": {
+        "@language": "pt",
+        "@value": "vnv.me"
+    },
+    "image": {
+        "@language": "pt",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/UTB8f0cDiTzIXKJkSafVq6yWgXXax/DX-Modern-Led-Luzes-de-Teto-Lumin\u00e1ria-Para-Sala-de-estar-Hall-Estilo-Minimalista-Regul\u00e1vel-L\u00e2mpada.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "pt",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "pt",
+            "@value": "32901206481"
+        }
+    ],
+    "name": {
+        "@language": "pt",
+        "@value": "DX Modern Led Luzes de Teto Lumin\u00e1ria Para Sala de estar Hall Estilo Minimalista Regul\u00e1vel L\u00e2mpada Lustre Simples Arte Branco Quente"
+    },
+    "@id": "http://example.org/recipe"
+}

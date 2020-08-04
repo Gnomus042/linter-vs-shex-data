@@ -1,0 +1,86 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "fr",
+            "@value": "Rapide Sans Gluten"
+        }
+    },
+    "description": {
+        "@language": "fr",
+        "@value": "Craquez pour notre recette sans gluten d\u2019avocat au c\u0153ur de crevettes ! Le fondant de l\u2019avocat m\u00e9lang\u00e9 au moelleux de la crevette en fait une entr\u00e9e sans gluten douce aux saveurs de la mer ! A tester d\u2019urgence !"
+    },
+    "image": {
+        "@id": "https://rapidesansgluten.com/images/recette/avocat-au-coeur-de-crevettes-sans-gluten.jpg"
+    },
+    "keywords": {
+        "@language": "fr",
+        "@value": "Avocat au coeur de crevettes sans gluten, Entr\u00e9e sans gluten, recette sans gluten"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Avocat au coeur de crevettes sans gluten"
+    },
+    "prepTime": {
+        "@language": "fr",
+        "@value": "PT5M"
+    },
+    "recipeCategory": {
+        "@language": "fr",
+        "@value": "Entr\u00e9e sans gluten"
+    },
+    "recipeCuisine": {
+        "@language": "fr",
+        "@value": "French"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "fr",
+            "@value": "1 Tomate ronde"
+        },
+        {
+            "@language": "fr",
+            "@value": "1/2 Citron jaune"
+        },
+        {
+            "@language": "fr",
+            "@value": "1 Avocat"
+        },
+        {
+            "@language": "fr",
+            "@value": "8 Crevettes cuites"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "fr",
+            "@value": "Couper l'avocat en deux et enlever le noyau. Extraire la majorit\u00e9 de la chair en prenant soin d'en laisser sur le pourtour."
+        },
+        {
+            "@language": "fr",
+            "@value": "Placer ce m\u00e9lange dans l'avocat. Presser l'\u00e9quivalent d'une cuill\u00e8re \u00e0 soupe de jus de citron sur chaque demi-avocat. Servir bien frais."
+        },
+        {
+            "@language": "fr",
+            "@value": "Couper la chair de l'avocat en petits d\u00e9s. Couper les crevettes et les m\u00e9langer avec la chair de l'avocat."
+        },
+        {
+            "@language": "fr",
+            "@value": "Couper la tomate en deux, retirer les p\u00e9pins, la couper en cubes et l'ajouter au m\u00e9lange."
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr",
+        "@value": "2 Personnes"
+    },
+    "totalTime": {
+        "@language": "fr",
+        "@value": "PT0H5M"
+    },
+    "url": {
+        "@language": "fr",
+        "@value": "https://rapidesansgluten.com/recettes-sans-gluten/avocat-au-coeur-de-crevettes.html"
+    },
+    "@id": "http://example.org/recipe"
+}

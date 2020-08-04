@@ -1,0 +1,43 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "ru",
+            "@value": "100"
+        },
+        "ratingCount": {
+            "@language": "ru",
+            "@value": "Null"
+        },
+        "ratingValue": {
+            "@language": "ru",
+            "@value": "Null"
+        }
+    },
+    "author": {
+        "@language": "ru",
+        "@value": "\u041d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u0430\u044f \u041b\u0430\u043c\u043f\u0430"
+    },
+    "description": {
+        "@language": "ru",
+        "@value": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d Lampart \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0412\u0430\u0448\u0435\u043c\u0443 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u044e \u0432\u044b\u0433\u043e\u0434\u043d\u043e\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u0430\u044f \u043b\u0430\u043c\u043f\u0430 \u0430\u0440\u0442\u043f\u0440\u043e\u043c fiora t1 12 02 \u043f\u043e \u0446\u0435\u043d\u0435 3065."
+    },
+    "image": {
+        "@language": "ru",
+        "@value": "http://g-metin2.pl/wp-content/4117.jpg"
+    },
+    "ingredients": {
+        "@language": "ru",
+        "@value": "19084117"
+    },
+    "keywords": {
+        "@language": "ru",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "ru",
+        "@value": "\u041d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u0430\u044f \u041b\u0430\u043c\u043f\u0430 \u0410\u0440\u0442\u043f\u0440\u043e\u043c Fiora Black Fiora T1 12 02"
+    },
+    "@id": "http://example.org/recipe"
+}

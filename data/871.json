@@ -1,0 +1,15 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "nl",
+            "@value": "Energie keuzes"
+        }
+    },
+    "name": {
+        "@language": "nl",
+        "@value": "Gasflessen vullen"
+    },
+    "@id": "http://example.org/recipe"
+}

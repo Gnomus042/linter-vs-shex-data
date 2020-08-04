@@ -1,0 +1,38 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "schema.orgAggregateRating"
+    },
+    "bestRating": {
+        "@language": "fr",
+        "@value": "5"
+    },
+    "cookTime": {
+        "@language": "fr",
+        "@value": "0min"
+    },
+    "image": {
+        "@id": "http://www.yanncook.com/recette_girolles-a-la-paysanne_47535.html/img/miniature_recette/_defaut-cuisineaz.jpg"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Girolles \u00ef\u00bf\u00bd la paysanne"
+    },
+    "prepTime": {
+        "@language": "fr",
+        "@value": "40min"
+    },
+    "ratingCount": {
+        "@language": "fr",
+        "@value": "39"
+    },
+    "ratingValue": {
+        "@language": "fr",
+        "@value": "3.1"
+    },
+    "totalTime": {
+        "@language": "fr",
+        "@value": "40min"
+    },
+    "@id": "http://example.org/recipe"
+}

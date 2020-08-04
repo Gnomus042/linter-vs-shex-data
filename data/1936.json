@@ -1,0 +1,103 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Nada E."
+    },
+    "image": {
+        "@id": "http://www.onearabvegan.com/wp-content/uploads/2017/03/roasted-cauliflower-tahini-cumin-dressing-10.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp tahini"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cloves of garlic, crushed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp lemon juice"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Sea salt and black pepper to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 large head of cauliflower, washed and cut into medium-size florets"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup non-dairy yoghurt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd tbsp olive or coconut oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp sliced pistachios (optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp chopped parsley (optinal)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp cumin powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup pomegranate tendrils (optional)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tsp white or apple cider vinegar"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Roasted Cauliflower with Tahini Yoghurt Sauce"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Sides and snacks"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "Middle Eastern"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Once cooked, transfer the cauliflower to a large mixing bowl and fold in the tahini yoghurt sauce. Stir until well coated."
+        },
+        {
+            "@language": "en-US",
+            "@value": "While the cauliflower is roasting, prepare the dressing by combining the garlic, vinegar, lemon juice, tahini and yoghurt in a medium mixing bowl. Whisk everything together until well combined, taste and adjust seasonings with salt and pepper as desired."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large roasting pan, toss together the cauliflower, olive or coconut oil and salt and pepper."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Start by preheating your oven to 215\u00b0C/420\u00b0F."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Garnish with pistachios, pomegranate and chopped parsley before serving."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Roast for 25-35 minutes or until tender, tossing occasionally to avoid burning."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "Serves 4"
+    },
+    "@id": "http://example.org/recipe"
+}

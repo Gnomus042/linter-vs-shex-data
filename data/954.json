@@ -1,0 +1,55 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@value": "143"
+        },
+        "ratingValue": {
+            "@value": "4.69"
+        },
+        "worstRating": {
+            "@value": "1"
+        }
+    },
+    "articleBody": {
+        "@value": "\nDavid Taylor, a business psychologist, told workers at design and marketing onebestway, in Newcastle upon Tyne, that a Naked Friday idea would boost their team spirit. Better stop fantasying about your celebrity crushes while typing away on your keyboard. Sure, this type of experiment could have merely been a publicity stunt.\t\n\t\t\nCompanies join forces to support businesses in China and around the world\n       \t\nOver time, it seems, the bulk of the would-be office nudists got comfortable in their very exposed skin. Founders Grant Horsfield and Delphine Yip-Horsfield and the entire naked team have built an amazing business on the back of great hospitality. Newsletter sign up Get the latest career advice and insight from eFinancialCareers straight to your inbox Sign up. Sunday 12 May "
+    },
+    "author": {
+        "@value": "admin"
+    },
+    "dateModified": {
+        "@value": "2019-02-09T21:15:14"
+    },
+    "datePublished": {
+        "@value": "2019-02-09T21:15:14+00:00"
+    },
+    "description": {
+        "@value": "\nOver the past eight years, we have reinvented the modern office space and the ways in which people approach work every day for creators and mission-based companies of all sizes. In , we launched Powered by We, an operating system that brings our design, tech, and culture directly to companies.    "
+    },
+    "mainEntityOfPage": {
+        "@value": "naked officwe The"
+    },
+    "name": {
+        "@value": "naked officwe The"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "address": {
+            "@value": "https://threadsofgold.info"
+        },
+        "logo": {
+            "@id": "_:Nc44579f675a24d349c0453ad33ae6370"
+        },
+        "name": {
+            "@value": "Adult"
+        },
+        "telephone": {
+            "@value": "Adult"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,137 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "sv",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "sv",
+            "@value": "0"
+        },
+        "ratingValue": {
+            "@language": "sv",
+            "@value": "0"
+        },
+        "worstRating": {
+            "@language": "sv",
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@language": "sv",
+        "@value": "Av Gun-Marie - \u00d6rnsk\u00f6ldsvik"
+    },
+    "container": {
+        "@language": "sv",
+        "@value": "Filetto di mucca cotto con una salsa a base di basilico insieme\ncon una torta di formaggio di capra. Kokt oxfil\u00e9 med basilikas\u00e5s\noch getostpajReceptet \u00e4r fr\u00e5n tv-programmet Halv \u00e5tta hos mig och\nrecepten d\u00e4rifr\u00e5n \u00e4r komponerade av amat\u00f6rkockar. K\u00f6ket.se kan\nd\u00e4rf\u00f6r inte g\u00e5 i god f\u00f6r receptet.\n\nSe fler recept fr\u00e5n\nHalv \u00e5tta hos mig\n"
+    },
+    "image": {
+        "@language": "sv",
+        "@value": "https://img.koket.se/microdata/filetto-di-mucca-cotto.jpg"
+    },
+    "name": {
+        "@language": "sv",
+        "@value": "Filetto di mucca cotto"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "sv",
+            "@value": "1 dl gr\u00e4dde"
+        },
+        {
+            "@language": "sv",
+            "@value": "0,5 dl buljong fr\u00e5n oxfil\u00e9n"
+        },
+        {
+            "@language": "sv",
+            "@value": "  salt"
+        },
+        {
+            "@language": "sv",
+            "@value": "2  \u00e4gg"
+        },
+        {
+            "@language": "sv",
+            "@value": "  peppar"
+        },
+        {
+            "@language": "sv",
+            "@value": "2-3 klyftor vitl\u00f6k"
+        },
+        {
+            "@language": "sv",
+            "@value": "0,5 tsk salt"
+        },
+        {
+            "@language": "sv",
+            "@value": "2,5 dl mj\u00f6l, dinkel eller graham"
+        },
+        {
+            "@language": "sv",
+            "@value": "100 g basilikablad, ca 5 krukor"
+        },
+        {
+            "@language": "sv",
+            "@value": "1,5 dl cr\u00e8me fraiche"
+        },
+        {
+            "@language": "sv",
+            "@value": "200 g ch\u00e8vre"
+        },
+        {
+            "@language": "sv",
+            "@value": "3 msk balsamvin\u00e4ger"
+        },
+        {
+            "@language": "sv",
+            "@value": "  n\u00e5gra lagerblad"
+        },
+        {
+            "@language": "sv",
+            "@value": "  vatten"
+        },
+        {
+            "@language": "sv",
+            "@value": "0,5 dl olivolja"
+        },
+        {
+            "@language": "sv",
+            "@value": "1 dl gr\u00e4sl\u00f6k, hackad"
+        },
+        {
+            "@language": "sv",
+            "@value": "3-4  buljongt\u00e4rningar"
+        },
+        {
+            "@language": "sv",
+            "@value": "100 g sm\u00f6r"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 klyftor vitl\u00f6k"
+        },
+        {
+            "@language": "sv",
+            "@value": "0,5 kg oxfil\u00e9"
+        },
+        {
+            "@language": "sv",
+            "@value": "2 msk vatten"
+        },
+        {
+            "@language": "sv",
+            "@value": "300 g potatis, kokt"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "sv",
+        "@value": "Oxfil\u00e9Koka upp buljongen med lagerblad och vitl\u00f6k.L\u00e4gg i k\u00f6ttet, sjud sakta ca 12-15 min. Tag upp k\u00f6ttet, l\u00e4gg \u00e5t sidan f\u00f6r att kallna.\nBasilikas\u00e5sBlanda allt i en mixer, ta ev. mera olivolja.\nSk\u00e4r oxfil\u00e9n i tunna skivor.H\u00e4ll s\u00e5s \u00f6ver.PajBlanda pajdeg, vila en timme. Tryck ut i en pajform.Nagga.F\u00f6rgr\u00e4dda 10 minuter i 200 grader\nTa ut botten efter 8 minuter, pensla botten med ett uppvispat \u00e4gg och st\u00e4ll sen in igen i 2 minuter.\n\nS\u00e4nk v\u00e4rmen till 175 grader.\nVispa upp \u00e4ggen, tills\u00e4tt creme fraiche och gr\u00e4dde. Riv potatisen och osten grovt. R\u00f6r ner gr\u00e4sl\u00f6k, salt, peppar, potatis och ost i \u00e4ggblandningen.Fyll pajformen och gr\u00e4dda i ca 50 minuter."
+    },
+    "recipeYield": {
+        "@language": "sv",
+        "@value": "4 "
+    },
+    "@id": "http://example.org/recipe"
+}

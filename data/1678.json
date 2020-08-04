@@ -1,0 +1,28 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@value": "685"
+        },
+        "ratingValue": {
+            "@value": "4"
+        }
+    },
+    "description": {
+        "@value": "T\u1ea1i H\u1ed9i ngh\u1ecb k\u1ef3 2 c\u1ee7a H\u0110TS GHPGVN k\u1ec3 t\u1eeb sau \u0110\u1ea1i h\u1ed9i \u0111\u1ea1i bi\u1ec3u Ph\u1eadt gi\u00e1o to\u00e0n qu\u1ed1c l\u1ea7n th\u1ee9 VIII di\u1ec5n ra v\u00e0o cu\u1ed1i th\u00e1ng 11 n\u0103m ngo\u00e1i t\u1ea1i H\u00e0 N\u1ed9i, Ban Th\u01b0\u1eddng tr\u1ef1c H\u0110TS, v\u00e0o gi\u1eefa th\u00e1ng 1 v\u00e0 \u0111\u1ea7u th\u00e1ng 2-2018 \u0111\u00e3 ban h\u00e0nh 2 v\u0103n b\u1ea3n ph\u00e2n c\u00f4ng \u0111\u1ed1i v\u1edbi 2 Ph\u00f3 Ch\u1ee7 t\u1ecbch Th\u01b0\u1eddng tr\u1ef1c v\u00e0 14 Ph\u00f3 Ch\u1ee7 t\u1ecbch H\u0110TS."
+    },
+    "image": {
+        "@value": "/phatgiao_images/nghien%20cuu/HNHDTS2.jpg"
+    },
+    "name": {
+        "@value": "H\u0110TS ph\u00e2n c\u00f4ng tr\u00e1ch nhi\u1ec7m c\u00e1c Ph\u00f3 Ch\u1ee7 t\u1ecbch"
+    },
+    "url": {
+        "@value": "/nghien-cuu/cac-van-de-quan-tam/hdts-phan-cong-trach-nhiem-cac-pho-chu-tich.html"
+    },
+    "@id": "http://example.org/recipe"
+}

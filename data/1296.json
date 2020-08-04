@@ -1,0 +1,115 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "2 sisters recipes"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Tuscan Swiss Chard and Beans Soup is made in under 30 minutes and bursts with so much flavor everyone will want a second bowl of this healthy green soup! Perfect for a light starter and easy enough to make during busy weeknights."
+    },
+    "image": {
+        "@id": "https://2sistersrecipes.com/wp-content/uploads/2018/12/DSC_0036-1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 ripe tomato- chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 + \u00bd tsp. salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups water"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u215b tsp. garlic powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "dash of dried oregano"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 garlic cloves - sliced"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cans (15-ounce) cannellini beans or great northern beans - rinsed, drained"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup extra virgin olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u215b tsp. crushed red pepper flakes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Optional: 1 Parmigiano-Reggiano rind"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups vegetable broth"
+        },
+        {
+            "@language": "en-US",
+            "@value": "fresh cracked black pepper to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 bunches of Swiss Chard"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Tuscan Swiss Chard and Beans Soup"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Soup / Dinner or Lunch"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "In a large sauce pot, heat olive oil over medium heat, add the garlic and red pepper flakes and saute the garlic for 2 minutes to soften. Turn off the heat. (have the lid to the pot nearby)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Toss in the wet Swiss Chard and cover with the lid. Turn back on the heat, on medium heat. Allow the chard to saute and simmer for about 5 minutes. Stirring occasionally. The liquid on the bottom with be watery and that's good. Add salt, garlic powder and dried oregano."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cover with lid and simmer the soup for 8 minutes more. Turn off the soup. Here is where you can drop 1 rind of Parmigiano-Reggiano into the soup. Leave it in the soup for 10 minutes. It will slowly melt and give more flavor to this soup. Then fish it out and discard before serving."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Taste and season with black pepper to taste. Feel free to add more salt, if you prefer."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pour in the water and vegetable broth and bring to a low simmer. Then toss in the chopped tomato."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Thinly chop the Swiss Chard and submerge into a large pot of cold water, rinse under running water as needed and transfer to a colander to drain. Do the same with the second bunch. Set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add the beans. Cover again with lid, and allow the beans to saute with the chard for 2 minutes. Add an additional tablespoon of extra virgin olive oil to the chard and beans."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Yields: 4 to 6 servings."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 to 6 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

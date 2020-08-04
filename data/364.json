@@ -1,0 +1,93 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@value": "3"
+        },
+        "ratingValue": {
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@id": "https://www.cocinasana.com/author/nayeli/"
+    },
+    "cookTime": {
+        "@value": "PT10M"
+    },
+    "dateModified": {
+        "@value": "2019-06-19"
+    },
+    "datePublished": {
+        "@value": "2013-09-07"
+    },
+    "description": {
+        "@value": "\u00a0Puedes preparar esta misma receta o cualquier en licuadora o con un robot de cocina, cuida que no quede muy l\u00edquida para una consistencia ideal."
+    },
+    "image": {
+        "@id": "https://i0.wp.com/www.cocinasana.com/wp-content/uploads/2013/09/salsa-verde.jpg?resize=150%2C150&ssl=1"
+    },
+    "keywords": {
+        "@value": "ajo, cebolla, chile serrano, cilantro, sal, Tomatillo o tomate verde"
+    },
+    "name": {
+        "@value": "Salsa verde con Tomatillos"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "Calor\u00edas: 350; "
+        }
+    },
+    "prepTime": {
+        "@value": "PT10M"
+    },
+    "recipeCategory": {
+        "@value": "Preparar Salsas, Aderezos y Dips"
+    },
+    "recipeCuisine": {
+        "@value": "mexicana"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "Cebolla - 1/2 pza."
+        },
+        {
+            "@value": "Ajo - 1 diente"
+        },
+        {
+            "@value": "Chile serrano - 1 a 2 pzas."
+        },
+        {
+            "@value": "Sal - Cantidad suficiente"
+        },
+        {
+            "@value": "Tomatillo o tomate verde - 400 gr."
+        },
+        {
+            "@value": "Cilantro - 3 cdas."
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "Limpiar los tomates.Asar en una plancha o sart\u00e9n plano junto con el chile, hasta que se suavicen y cambien ligeramente de color, dar vuelta de forma constante.Picar la cebolla y el cilantro finamente. Reservar.En el molcajete o mortero mezcla el ajo con la sal hasta forma un pur\u00e9.Agregar el chile serrano y triturar; a\u00f1ade los tomates hasta formar una salsa.Agregar el cilantro y la cebolla, mezclar y servir.Recomendaciones de la cocina:Puedes agregar distintos chiles a la preparaci\u00f3n el chile de \u00e1rbol o morita puede ser una gran opci\u00f3n para esta salsa.Puedes asar el ajo para un sabor m\u00e1s sutil.Utiliza esta salsa para acompa\u00f1ar guisados, tacos o simplemente para acompa\u00f1ar con tostadas o frituras de ma\u00edz"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@value": "<p>\u00a0Puedes preparar esta misma receta o cualquier en licuadora o con un robot de cocina, cuida que no quede muy l\u00edquida para una consistencia ideal.</p> "
+        },
+        "embedURL": {
+            "@value": "https://youtube.googleapis.com/v/xOPlva3Q60s"
+        },
+        "name": {
+            "@value": "Salsa verde con Tomatillos"
+        },
+        "thumbnailURL": {
+            "@value": "https://i.ytimg.com/vi/xOPlva3Q60s/hqdefault.jpg"
+        },
+        "uploadDate": {
+            "@value": "2013-09-07"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

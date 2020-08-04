@@ -1,0 +1,50 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "BeingIndiansAwesomeSauce"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "Cook Time:"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Learn how to make this yummy  tasty Mango And Rabri Parfait in a Jar Recipe."
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Mango Loaded With Rabri In A Jar - Yummy Dessert"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "Pistachio - 1 Teaspoon , chop"
+        },
+        {
+            "@language": "en",
+            "@value": "Mango chunk - 1/2 Cup (8 tbs) "
+        },
+        {
+            "@language": "en",
+            "@value": "Rose petals - 5   (for garnish)"
+        },
+        {
+            "@language": "en",
+            "@value": "Almond - 1 Tablespoon , chop"
+        },
+        {
+            "@language": "en",
+            "@value": "Cardamom seed - 1/2 Teaspoon "
+        },
+        {
+            "@language": "en",
+            "@value": "Rabri - 1 Cup (16 tbs) "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "Please watch video for directions!"
+    },
+    "@id": "http://example.org/recipe"
+}

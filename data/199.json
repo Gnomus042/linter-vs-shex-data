@@ -1,0 +1,45 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2018-06-07 18:19:45"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Watermelon Cheesecake Milkshake"
+    },
+    "image": {
+        "@id": "https://fruits.com/wp-content/uploads/2018/06/Milkshake_650x450.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "2 tbsp honey"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 cups Del Monte seedless watermelon, cut into 1-inch cubes and frozen"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tsp vanilla extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd cup coconut milk, frozen into ice cubes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd coconut milk"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Watermelon Cheesecake Milkshake"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\t\t\t\tAdd frozen watermelon, coconut milk ice cubes, coconut milk, honey and vanilla to a blender. Blend on high speed until smooth, combined, thick and slushy.\t\t\t\tServe immediately. Enjoy!\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

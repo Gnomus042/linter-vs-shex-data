@@ -1,0 +1,64 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "4866"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Sam Sifton"
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT15M"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n                This is what we call around here a no-recipe recipe, the sort of meal you can cook once off a card and you'll know it by heart: salmon glazed with brown sugar and mustard. The preparation could not be simpler. Heat your oven to 400. Make a mixture of Dijon mustard and brown sugar to the degree of spicy-sweetness that pleases you. Salt and pepper the salmon fillets. Place them skin-side down on a lightly oiled, foil-lined baking sheet, slather the tops with the mustard and brown sugar glaze and slide them into the top half of your oven. They ought to be done in 12 minutes or so, and they pair beautifully with simple braised greens.\n                \n\n                    \n                      \n                      Learn: How to Cook Salmon\n                    \n\n              "
+    },
+    "image": {
+        "@id": "https://static01.nyt.com/images/2018/08/17/dining/sifton-brown-sugar-mustard-salmon-horizontal/merlin_142427754_87be060f-648e-4783-a9ab-dec1ff12b722-articleLarge.jpg"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "\n              Roasted Salmon Glazed With Brown Sugar and Mustard\n        "
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Dijon mustard\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Salmon fillets, preferably wild or farmed organically\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Salt and black pepper\n                  \n                "
+        },
+        {
+            "@language": "en-US",
+            "@value": "\n                  \n                    \n                  \n                  \n                    Brown sugar\n                  \n                "
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n                Heat your oven to 400 degrees.\n                Make a mixture of Dijon mustard and brown sugar to the degree of spicy-sweetness that pleases you. Salt and pepper the salmon fillets.\n                Place the salmon fillets skin-side down on a lightly oiled, foil-lined baking sheet. Slather the tops of the fillets with the mustard and brown sugar glaze and slide them into the top half of your oven. Roast for about 12 minutes, then serve.\n              "
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "Number of servings vary"
+    },
+    "@id": "http://example.org/recipe"
+}

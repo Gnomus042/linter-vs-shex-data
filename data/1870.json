@@ -1,0 +1,106 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.5"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "887"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "William Shakespeare"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT2H"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "William Shakespeare Was An English Poet, Playwright, And Actor, Widely Regarded As The Greatest Writer In The English Language And The World S Pre Eminent Dramatist He Is Often Called England S National Poet, And The Bard Of Avon His Extant Works, Including Collaborations, Consist Of Approximately Plays, Sonnets, Two Long Narrative Poems, And A Few Other Verses, Some Of Uncertain Authorship His Plays Have Been Translated Into Every Major Living Language And Are Performed Often Than Those Of Any Other Playwright"
+    },
+    "image": {
+        "@id": "http://www.johndore.co.uk/wp-content/upload/2017/f3b75763a8ececa469ad6142d9f3fe1ei3f62a980c2cb9d55ca389ecd24a8b277gr-assets3f62a980c2cb9d55ca389ecd24a8b277com/images/S/compressed3f62a980c2cb9d55ca389ecd24a8b277photo3f62a980c2cb9d55ca389ecd24a8b277goodreads3f62a980c2cb9d55ca389ecd24a8b277com/books/1541912049i/427494893f62a980c2cb9d55ca389ecd24a8b277_UX75_3f62a980c2cb9d55ca389ecd24a8b277jpg.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@language": "en-US",
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@language": "en-US",
+            "@value": "887"
+        }
+    },
+    "keywords": {
+        "@language": "en-US",
+        "@value": "The Complete Works of Shakespeare (Annotated) ,download, read online, e-pub, pdf, free, kindle ebook"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "The Complete Works of Shakespeare (Annotated) "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "[Download] \u27b5 The Complete Works Of Shakespeare (Annotated)  \u27be William Shakespeare \u2013 Johndore.co.uk William Shakespeare Was An English Poet, Playwright, And Actor, Widely Regarded As The Greatest Writer In The English Language And The World S Pre Eminent Dramatist He Is Often Called England S Nation"
+        }
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT45M"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "polish literature"
+    },
+    "recipeCuisine": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeIngredient": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "null"
+    },
+    "video": {
+        "@type": "VideoObject",
+        "description": {
+            "@language": "en-US",
+            "@value": "[Download] \u27b5 The Complete Works Of Shakespeare (Annotated)  \u27be William Shakespeare \u2013 Johndore.co.uk William Shakespeare Was An English Poet, Playwright, And Actor, Widely Regarded As The Greatest Writer In The English Language And The World S Pre Eminent Dramatist He Is Often Called England S Nation"
+        },
+        "name": {
+            "@language": "en-US",
+            "@value": "The Complete Works of Shakespeare (Annotated) "
+        },
+        "thumbnailUrl": {
+            "@language": "en-US",
+            "@value": "http://www.johndore.co.uk/wp-content/upload/2017/f3b75763a8ececa469ad6142d9f3fe1ei3f62a980c2cb9d55ca389ecd24a8b277gr-assets3f62a980c2cb9d55ca389ecd24a8b277com/images/S/compressed3f62a980c2cb9d55ca389ecd24a8b277photo3f62a980c2cb9d55ca389ecd24a8b277goodreads3f62a980c2cb9d55ca389ecd24a8b277com/books/1541912049i/427494893f62a980c2cb9d55ca389ecd24a8b277_UX75_3f62a980c2cb9d55ca389ecd24a8b277jpg.jpg"
+        },
+        "uploadDate": {
+            "@language": "en-US",
+            "@value": "2018-11-09T08:26+02:00"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

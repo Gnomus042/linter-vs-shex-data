@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@value": "4.0"
+    },
+    "description": {
+        "@value": "Very delicious salad for fans of witty)))"
+    },
+    "image": [
+        {
+            "@id": "https://www.povarenok.ru/data/cache/2012oct/02/57/329710_41143-300x0.jpg"
+        },
+        {
+            "@id": "https://en.edunclub.ru/recipe/32823-salad-snack///edunclub.ru/upload/5e71819bbb0719fe5676de67f14179db.jpg"
+        }
+    ],
+    "ingredients": {
+        "@value": "\n                \n                                    \n                                        Figure\n                                                    \n                                    \n                                        Tomato\n                                                    \n                                    \n                                        Sausage\n                                                    \n                                    \n                                        Cheese\n                                                    \n                                    \n                                        Chicken egg\n                                                    \n                                    \n                                        Garlic\n                                                    \n                                    \n                                        Mayonnaise\n                                                    \n                                    \n                                        Dill\n                                                    \n                                \n            "
+    },
+    "keywords": {
+        "@value": "Null"
+    },
+    "name": {
+        "@value": "Salad \"Snack\""
+    },
+    "recipeCategory": [
+        {
+            "@id": "https://en.edunclub.ru/catalog/44-soup/"
+        },
+        {
+            "@id": "https://en.edunclub.ru/catalog/2-broths-and-soups/"
+        },
+        {
+            "@id": "https://en.edunclub.ru/catalog/3-hot-soups/"
+        },
+        {
+            "@id": "https://en.edunclub.ru/catalog/104-ukrainian/"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@value": "\n                                        Dill\n                                                    "
+        },
+        {
+            "@value": "\n                                        Chicken egg\n                                                    "
+        },
+        {
+            "@value": "\n                                        Cheese\n                                                    "
+        },
+        {
+            "@value": "\n                                        Figure\n                                                    "
+        },
+        {
+            "@value": "\n                                        Sausage\n                                                    "
+        },
+        {
+            "@value": "\n                                        Mayonnaise\n                                                    "
+        },
+        {
+            "@value": "\n                                        Tomato\n                                                    "
+        },
+        {
+            "@value": "\n                                        Garlic\n                                                    "
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "Null"
+    },
+    "recipeYield": {
+        "@value": "-"
+    },
+    "resultPhoto": {
+        "@id": "https://en.edunclub.ru/recipe/32823-salad-snack///edunclub.ru/upload/5e71819bbb0719fe5676de67f14179db.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

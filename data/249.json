@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "pl-PL",
+            "@value": "8"
+        },
+        "ratingValue": {
+            "@language": "pl-PL",
+            "@value": "5.0"
+        }
+    },
+    "image": {
+        "@id": "https://karolinagawronska.pl/wp-content/uploads/2017/04/IMG_20170331_172202.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "pl-PL",
+            "@value": "375ml mleczka kokosowego z puszki"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "aromat waniliowy"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "100ml wody"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "100g gorzkiej czekolady (wega\u0144skiej)"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "szklaneczki lubczekoladowe jajka z tego przepisu"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "+2 \u0142y\u017cki kakao na czekoladow\u0105 warstw\u0119"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "100g bia\u0142ego ry\u017cu (ja u\u017cy\u0142am basmati, lubi\u0119 jego smak*)"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "\u2153 \u0142y\u017ceczki soli"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "4 cienkie wafle kukurydziane"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "25ml mleczka kokosowego (oko\u0142o 2 \u0142y\u017cki)"
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "75g syropu z agawy (lub wi\u0119cej je\u015bli chcesz)"
+        }
+    ],
+    "name": {
+        "@language": "pl-PL",
+        "@value": "Wega\u0144ski deser a'la Kinder Joy - najlepszy domowy budy\u0144 z ry\u017cu, krem bez mleka i glutenu"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "pl-PL",
+            "@value": "Podczas gdy ry\u017c si\u0119 gotuje, mo\u017cesz przygotowa\u0107 kuleczki. W tym celu rozpu\u015b\u0107 w k\u0105pieli wodnej czekolad\u0119 i dodaj pozosta\u0142e 2 \u0142y\u017cki mleczka kokosowego. Czekolada zg\u0119stnieje i zrobi si\u0119 z niej masa, podobna jak ciastolina. Zdjemij j\u0105 z gazu i gdy troch\u0119 ostygnie, dodaj pokruszone wafle kukurydziane. Wszystko dok\u0142adnie wymieszaj przy pomocy d\u0142oni, a\u017c czekolada utworzy \u0142atw\u0105 do formowania mas\u0119. Nast\u0119pnie ulep z niej ma\u0142e kuleczki."
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "Na dno szklaneczek lub czekoladowych jajek u\u0142\u00f3\u017c warstw\u0119 budyniu z kakao, a na niej jasn\u0105 warstw\u0119. Udekoruj czekoladowymi kuleczkami. Deser smakuje najlepiej gdy jest sch\u0142odzony. Wtedy r\u00f3wnie\u017c odrobin\u0119 zg\u0119stnieje. Polecam wi\u0119c umie\u015bci\u0107 gotowy krem w lod\u00f3wce i podawa\u0107 po kilku godzinach, gdy b\u0119dzie dobrze sch\u0142odzony."
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "Przelej mleczko kokosowe do ma\u0142ego garnuszka i dosyp ry\u017c (je\u015bli masz ry\u017c w woreczku, przetnij go i wysyp zawarto\u015b\u0107). Doprowad\u017a do zagotowania i gotuj pod przykryciem na ma\u0142ym ogniu przez oko\u0142o 17 minut. Co jaki\u015b czas przemieszaj ry\u017c by nie przywiera\u0142 do dna. Po 17 minutach ry\u017c b\u0119dzie rozgotowany i bardzo mi\u0119kki. Zdejmij go z gazu i pozostaw pod przykryciem na oko\u0142o 3 minuty by odpocz\u0105\u0142."
+        },
+        {
+            "@language": "pl-PL",
+            "@value": "Nast\u0119pnie prze\u0142\u00f3\u017c ry\u017c do misy blendera i dodaj pozosta\u0142e sk\u0142adniki na krem: syrop z agawy, wod\u0119, odrobin\u0119 aromatu waniliowego, oraz s\u00f3l Zblenudj wszystko na aksamitny i g\u0119sty krem. Blenduj tak d\u0142ugo a\u017c uzyskasz konsystencj\u0119 bez grudek. Nast\u0119pnie prze\u0142\u00f3\u017c oko\u0142o \u2153 masy do innej miseczki i wmieszaj w ni\u0105 kakao."
+        }
+    ],
+    "recipeYield": {
+        "@language": "pl-PL",
+        "@value": "5 porcji"
+    },
+    "@id": "http://example.org/recipe"
+}

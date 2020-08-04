@@ -1,0 +1,15 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "pl",
+        "@value": "Chyba uwielbiam wszystkie zupy o konsystencji kremu.Tym razem polecam Wam pyszny krem z cukinii - z dodatkiem serka topionego.Smakuje rewelacyjnie, jest lekki, a jednoczesnie syty i bardzo tani..."
+    },
+    "image": {
+        "@id": "https://aduparosnie.pl/przepis,zupa-krem-z-cukinii-z-serkiem-topionym.html/./files/483/fb/130375.jpg"
+    },
+    "name": {
+        "@language": "pl",
+        "@value": "Zupa krem z cukinii z serkiem topionym"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "da-DK",
+        "@value": "Ketchup er jo normalt en sukkerbombe af rang, men laver man det selv, kan man lave en mere anst\u00e6ndig version. Man kommer dog ikke udenom at der skal noget til at skabe s\u00f8dmen, og er man hardcore lowcarber skal man nok bare springe ketchuppen helt over. Men hvis man gerne vil have noget at dyppe sine grillp\u00f8lser i her i sommerferien, s\u00e5 er denne version et godt bud p\u00e5 et sundere valg.\nDen smager bedre end nogen anden ketchup, jeg har smagt. Faktisk er jeg ikke ketchupfan normalt, hvilket er underligt, for det er jo flydende sukker og burde v\u00e6re right up my alley. Men denne her kan jeg lide. Opskriften er taget fra en af mine yndlingskogeb\u00f8ger, nemlig K\u00f8kkenrevolution for hele familien af Oscar Umahro Cadogan og Telma Piil Jespersen. Den bog er simpelthen fyldt med familiefavoritter med et twist. Herfra kommer fx ogs\u00e5 id\u00e9en med at putte hasseln\u00f8dder i k\u00f8dsovs, og hvis du ikke har pr\u00f8vet det endnu, s\u00e5 er det bare om at komme i gang. Hvis jeg skulle tage \u00e9n kogebog med p\u00e5 en \u00f8de \u00f8, kunne det godt blive denne her. Hvad man lige skulle med en kogebog p\u00e5 en \u00f8de \u00f8, ved jeg\u00a0s\u00e5 godt nok\u00a0ikke. I stedet tror jeg, jeg vil tage den med i sommerhus.\nMen nu til ketchuppen.\n\nOriginalopskriften lyder s\u00e5dan her:\n1 l\u00f8g, finthakket\n1 fed hvidl\u00f8g, finthakket\n2 spsk olivenolie\nHavsalt\nFriskkv\u00e6rnet sort peber\n2-3 d\u00e5ser fl\u00e5ede tomater\n\u00bd tsk paprika\n3 spsk hvidvinseddike\n3-4 spsk m\u00f8rke rosiner\n1 banan i grove bidder (jeg bytter ofte for 1-2 spsk kokossukker)\n1 \u00e6ble i tern\n\nS\u00e5dan:Sauter l\u00f8g og hvidl\u00f8g i olien ved middel varme, indtil l\u00f8gene er klare, bl\u00f8de og s\u00f8de. De m\u00e5 ikke blive brune. Tils\u00e6t resten og lad hele molevitten sm\u00e5simre i\u00a0ca. 30 min. uden\u00a0l\u00e5g, til den er blevet tyk og dejlig. Det ser omtrent s\u00e5dan her ud:\n\nBlend den, hvis du foretr\u00e6kker det eller lad den forblive chunky. Jeg blender min og f\u00e5r dette forrygende glas:\n\nDen er s\u00e5 l\u00e6kker, at den ogs\u00e5 lige fortjener et close-up:\nDen, jeg lavede i dag, var en spontanversion, og jeg havde ingen blommer, s\u00e5 dem udelod jeg bare, og det gik helt fint uden. Jeg synes, der er rigeligt med s\u00f8dme fra banan, \u00e6ble og rosiner. Ellers kunne man jo tils\u00e6tte lidt sukrin. Jeg puttede 1 spsk sambal oelek i, s\u00e5 det blev en voksenketchup, og det kan alts\u00e5 varmt anbefales.\nP\u00e5 l\u00f8rdag drager vi i sommerhus, og s\u00e5 skal vi\u00a0saftsuseme grille. Uagtet at vejret ikke ligefrem er lovende.\n\n"
+    },
+    "image": {
+        "@id": "https://www.madbanditten.dk/wp-content/uploads/2011/07/ketchup2-700x933.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "da-DK",
+            "@value": "3-4 spsk m\u00f8rke rosiner"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "2-3 d\u00e5ser fl\u00e5ede tomater"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "1 l\u00f8g, finthakket"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "3 spsk hvidvinseddike"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "Friskkv\u00e6rnet sort peber"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "\u00bd tsk paprika"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "1 \u00e6ble i tern"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "1 fed hvidl\u00f8g, finthakket"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "2 spsk olivenolie"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "Havsalt"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "1 banan i grove bidder (jeg bytter ofte for 1-2 spsk kokossukker)"
+        }
+    ],
+    "name": {
+        "@language": "da-DK",
+        "@value": "Hjemmelavet ketchup"
+    },
+    "recipeCategory": [
+        {
+            "@language": "da-DK",
+            "@value": "B\u00f8rnemad"
+        },
+        {
+            "@language": "da-DK",
+            "@value": "Tilbeh\u00f8r"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "da-DK",
+        "@value": "Sauter l\u00f8g og hvidl\u00f8g i olien ved middel varme, indtil l\u00f8gene er klare, bl\u00f8de og s\u00f8de. De m\u00e5 ikke blive brune. Tils\u00e6t resten og lad hele molevitten sm\u00e5simre i\u00a0ca. 30 min. uden\u00a0l\u00e5g, til den er blevet tyk og dejlig. "
+    },
+    "@id": "http://example.org/recipe"
+}

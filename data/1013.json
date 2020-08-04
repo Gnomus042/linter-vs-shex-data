@@ -1,0 +1,134 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "fr-FR",
+            "@value": "10"
+        },
+        "ratingValue": {
+            "@language": "fr-FR",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "fr-FR",
+        "@value": "Samar"
+    },
+    "image": {
+        "@id": "http://www.mesinspirationsculinaires.com/wp-content/uploads/2014/06/chorba-langues-d-oiseaux10.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "fr-FR",
+            "@value": "1 branche c\u00e8leri (j'ajoute les feuilles aussi)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "4 feuille de menthe"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 c-a-soupe de sauce tomate"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "huile"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 poign\u00e9e de langues d'oiseaux"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "une pinc\u00e9e de cannelle"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "250 g viande d'agneau (ou au gout)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "un bouquet de coriandre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 poign\u00e9e de pois chiche"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "sel, poivre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "4 tomates fraiches (ou enti\u00e8re en conserve pour moi)"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Smen ou beurre"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 oignons"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 c-a-soupe de paprika"
+        }
+    ],
+    "name": {
+        "@language": "fr-FR",
+        "@value": "Chorba aux langues d'oiseaux"
+    },
+    "recipeCategory": {
+        "@language": "fr-FR",
+        "@value": "Soupe Ramadan"
+    },
+    "recipeCuisine": {
+        "@language": "fr-FR",
+        "@value": "Algerienne"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "fr-FR",
+            "@value": "S'il n y a pas assez de liquide ajouter de l'eau chaude."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Ajouter le m\u00e9lange oignons-celeri-coriandre."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Verser les p\u00e2tes (langue d'oiseaux)."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Remuer afin que \u00e7a ne colle au fond de la marmite."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Commencer par couper la viande en cube. Hacher l'oignons ainsi que la coriandre et le celeri."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Ajouter 1,5 L d'eau, plonger les pois chiches tremp\u00e9es la veille. Couvrir la marmite et laisser cuire jusqu\u2019\u00e0 ce que la viande se d\u00e9tache facilement. En fin de cuisson ajouter la sauce tomate."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Ajouter les tomates r\u00e9duites en pur\u00e9e. M\u00e9langer bien."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Faire chauffer l'huile et smen (beurre) dans une marmite. Ajouter la viande faire revenir."
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Ajouter la menthe (fraiche pour moi) le paprika, sel et poivre ainsi que la pinc\u00e9e de cannelle. Laisser revenir quelques minutes pour que les saveurs se m\u00e9langent."
+        }
+    ],
+    "recipeYield": {
+        "@language": "fr-FR",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

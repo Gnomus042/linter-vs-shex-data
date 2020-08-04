@@ -1,0 +1,113 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Jess (Paleo Grubs)"
+    },
+    "description": {
+        "@value": "One of the best things about making your own homemade paleo recipes is having the ability to add a healthy spin on some of your favorite candy snacks. Take this recipe for paleo milky way for example\u00e2\u0080\u0094homemade chocolate nougat, caramel, and just enough sweetness to quell any sweet tooth. You would never guess that this is 100% paleo approved."
+    },
+    "image": {
+        "@id": "https://paleogrubs.com/wp-content/uploads/2019/04/5a-milky-way-paleo-candy-bar-1024x1024.jpg"
+    },
+    "name": {
+        "@value": "Homemade Paleo Milky Way Candy Bars (Try these!)"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": " 361"
+        },
+        "carbohydrateContent": {
+            "@value": " 28.7 g"
+        },
+        "fatContent": {
+            "@value": " 27.2 g"
+        },
+        "fiberContent": {
+            "@value": " 3.7 g"
+        },
+        "proteinContent": {
+            "@value": " 7.2 g"
+        },
+        "sugarContent": {
+            "@value": " 21.4 g"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 cup cashew nuts, soaked for 4 hours then drained and rinsed"
+        },
+        {
+            "@value": "\u00c2\u00bd cup honey"
+        },
+        {
+            "@value": "1 tbsp solid coconut oil"
+        },
+        {
+            "@value": "\u00c2\u00bd cup Enjoy life semi-sweet chocolate chips, melted"
+        },
+        {
+            "@value": "1 tsp pure vanilla extract"
+        },
+        {
+            "@value": "\u00c2\u00bc cup melted coconut oil"
+        },
+        {
+            "@value": "1 \u00c2\u00bd tbsp melted coconut oil"
+        },
+        {
+            "@value": "3 tbsp maple syrup"
+        },
+        {
+            "@value": "\u00c2\u00bd cup almond butter"
+        },
+        {
+            "@value": "1 cup Enjoy semi sweet chocolate mini chips"
+        },
+        {
+            "@value": "1 cup almond butter"
+        }
+    ],
+    "recipeInstructions": {
+        "@type": "ItemList",
+        "itemListElement": [
+            {
+                "@value": "To make the caramel, place all ingredients in the food processor and process until smooth."
+            },
+            {
+                "@value": "Line an 8\u00c3\u00978 inch baking pan with parchment paper and set aside."
+            },
+            {
+                "@value": "Press the mixture into the prepared pan and freeze for 2 hours."
+            },
+            {
+                "@value": "Smooth the caramel over the nougat and freeze for 2 hours."
+            },
+            {
+                "@value": "Place on a sheet pan lined with parchment paper and pop back into the freezer until the chocolate sets."
+            },
+            {
+                "@value": "Remove the pan from the freezer and cut the mixture into 16 bars."
+            },
+            {
+                "@value": "To make the glaze, melt the chocolate chips and coconut oil together, in a double broiler or microwave, until smooth. If you microwave, stir every 30 seconds until the chocolate mixture is completely smooth. Let it cool slightly."
+            },
+            {
+                "@value": "Keep refrigerated in an airtight container until serving."
+            },
+            {
+                "@value": "To make the chocolate nougat place all the ingredients in a food processor and process until smooth."
+            },
+            {
+                "@value": "Use two forks to dip each bar into the chocolate. Shake a little to let the excess chocolate drip."
+            }
+        ]
+    },
+    "recipeYield": {
+        "@value": "1"
+    },
+    "yield": {
+        "@value": "1"
+    },
+    "@id": "http://example.org/recipe"
+}

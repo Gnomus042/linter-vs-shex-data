@@ -1,0 +1,58 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Holly"
+    },
+    "image": [
+        {
+            "@id": "http://www.thesemisweetsisters.com/2015/11/13/crock-pot-cream-corn-recipe/?replytocom=4928/data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+        },
+        {
+            "@id": "https://i1.wp.com/www.thesemisweetsisters.com/wp-content/uploads/2015/11/IMG_71211.jpg?w=205"
+        }
+    ],
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u00bd teaspoon of pepper (or to taste)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cream cheese 8 oz"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup milk or half half"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon salt (or to taste)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tablespoon sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "20-30 oz of frozen corn"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Crock Pot Cream Corn Recipe"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "side"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "Put all the ingredients in the crockpot. Cook on high 2-4 hours or low 4-6. Stir after about an hour."
+    },
+    "@id": "http://example.org/recipe"
+}

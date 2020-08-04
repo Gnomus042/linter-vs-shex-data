@@ -1,0 +1,76 @@
+{
+    "@type": "Recipe",
+    "ingredients": [
+        {
+            "@language": "it-IT",
+            "@value": "15 ml di succo di limone (1 cucchiaio)\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "5 ml di caglio * (1 cucchiaino)\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1 litro di latte intero\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "1.4 litri di panna fresca (con almeno il 35% di grassi)\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Null"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "600 ml di kefir (yogurt, oppure latticello)\n"
+        }
+    ],
+    "name": {
+        "@language": "it-IT",
+        "@value": "Cream cheese casalingo"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "it-IT",
+            "@value": "Aggiungere il kefir, il succo di limone, il caglio e mescolare. \n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Foderare una colapasta con un telo di garza per formaggi bagnato e ben strizzato e porlo su una pentola che possa raccogliere il siero che colera\u2019.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Annodare la stoffa per chiudereil sacchetto, poi lasciar passare uno stecco di legno nel nodo e poggiare lo stecco sui bordi della pentola, in modo che il sacchetto possa rimanere appeso nella pentola stessa. Coprire e mettere in frigo per una notte.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Versare il composto nella colapasta preparata e lasciar colare il siero per un\u2019ora circa.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Il mattino successivo  (comunque dopo almeno 8 ore) la cagliata dovrebbe essere pronta.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Coprire la pentola e lasciar riposare a temperature ambiente per tutta la notte.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Mescolare velocemente con una grossa frusta ( per rompere la cagliata)\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Unire il latte e la panna in un\u2019ampia pentola d\u2019acciaio.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Passato quel tempo, sollevare I lembi della tela di garza per formare una specie di sacchetto.\n"
+        },
+        {
+            "@language": "it-IT",
+            "@value": "Cuocere a fuoco medio fino a che la mistura abbia raggiunto 21\u00b0C. Non lasciare che il latte arrivi ad ebollizione. Spegnere il fuoco.\n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

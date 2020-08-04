@@ -1,0 +1,8 @@
+{
+    "@type": "Recipe",
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "try it"
+    },
+    "@id": "http://example.org/recipe"
+}

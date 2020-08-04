@@ -1,0 +1,53 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "AMMA"
+        }
+    },
+    "description": {
+        "@value": "\n        \u6674\u6717\u4e86\u4e00\u5468\u591a\u7684\u5317\u4eac\u4eca\u5929\u9aa4\u7136\u964d\u6e29\uff01\u5927\u98ce\u6a2a\u626b\uff0c\u6f2b\u5929\u6c99\u5c18\uff0c\u522e\u4e86\u4e00\u6574\u5929\u3002\u771f\u4e0d\u77e5\u9053\u4eca\u5929\u79cb\u98ce\u80fd\u626b\u4e0b\u591a\u5c11\u843d\u53f6\u6765\u3002\n\u5317\u4eac\u5c31\u662f\u8fd9\u70b9\u4e0d\u597d\uff0c\u4e00\u522e\u98ce\u5fc5\u5b9a\u8d77\u6c99\uff0c\u6700\u4ee4\u6211\u90c1\u95f7\u7684\u662f\u5c0f\u533a\u95e8\u53e3\u884c\u9053\u6811\u7684\u6811\u53f6\u6811\u5e72\u90fd\u88ab\u7ef4\u62a4\u90e8\u95e8\u780d\u4e86\uff0c\u98ce\u6c99\u662f\u7545\u901a\u65e0\u963b\u554a\uff01\u5e78\u597dJH\u540c\u5b66\u5f00\u8f66\u6765\u63a5\u6211\u4eec\u4e86\uff0c\u8981\u4e0d\u6211\u5230\u4e86XQ\u5bb6\u5c31\u771f\u6210\u4e86\u5175\u9a6c\u4fd1\u4e86\u3002\n\u559d\u70b9\u6c64\u5427\u4eca\u5929\uff0c\u5927\u51b7\u5929\u7684\u3002\u524d\u51e0\u5929AMMA\u53bb\u5927\u5e02\u573a\u4e70\u4e86\u4e00\u4e9b\u5927\u9aa8\u5934\u56de\u6765\u7172\u6c64\uff0c\u8fd9\u6b21AMMA\u9009\u7684\u5927\u9aa8\u5934\u662f\u4e0d\u5e26\u8089\u7684\uff0c\u9009\u7684\u5168\u662f\u767d\u8272\u7684\u9aa8\u80f6\u539f\uff0c\u591a\u5403\u80f6\u539f\u86cb\u767d\u517b\u989c\u554a\uff01\u6765\u5427\uff01\n\u8981\u60f3\u5403\u5230\u65e2\u80fd\u7f8e\u5bb9\u53c8\u4e0d\u7528\u62c5\u5fc3\u4f1a\u53d1\u80d6\u7684\u68d2\u9aa8\uff0c\u9009\u62e9\u5f88\u91cd\u8981\u3002\u4e00\u5b9a\u8981\u9009\u62e9\u4e0a\u9762\u8fd9\u79cd\u8089\u5c11\u7684\u767d\u8272\u9aa8\u5934\uff0c\u767d\u8272\u7684\u5c31\u662f\u9aa8\u80f6\u539f\u3002\u9aa8\u80f6\u539f\u770b\u4f3c\u50cf\u80a5\u6cb9\u4e00\u6837\u767d\u5566\u5427\u5527\u7684\uff0c\u5176\u5b9e\u5403\u8d77\u6765\u5f88\u6709\u53e3\u611f\uff0c\u6709\u56bc\u52b2\uff0c\u4e00\u70b9\u90fd\u4e0d\u817b\u3002\u7f8e\u5bb9\u7684\u540c\u65f6\u8fd8\u80fd\u8865\u9499\u4e00\u4e3e\u4e24\u5f97\uff01\n      "
+    },
+    "image": {
+        "@id": "http://i2.chuimg.com/6ad1e012872011e6b87c0242ac110003_461w_690h.jpg?imageView2/2/w/660/interlace/1/q/90"
+    },
+    "name": {
+        "@value": "\n      \u83b2\u85d5\u68d2\u9aa8\u6c64\n    "
+    },
+    "recipeIngredient": [
+        {
+            "@value": "\n                \n                  \n\n    \u516b\u89d2\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u8471\u6bb5\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u83b2\u85d5\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u76d0\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u68d2\u9aa8\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u59dc\u7247\n\n                \n                \n                \n              "
+        },
+        {
+            "@value": "\n                \n                  \n\n    \u6599\u9152\n\n                \n                \n                \n              "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "\n              \u68d2\u9aa8\u4e70\u56de\u6765\u540e\u5148\u7528\u6e05\u6c34\u6ce1\uff0c\u6700\u597d\u80fd\u6ce1\u534a\u5929\uff0c\u4e2d\u95f4\u8981\u4e0d\u65ad\u7684\u6362\u6c34\uff0c\u8fd9\u6837\u9aa8\u5934\u4e2d\u7684\u6742\u8d28\u5c31\u80fd\u6ce1\u7684\u6bd4\u8f83\u5e72\u51c0\u4e86\n            "
+        },
+        {
+            "@value": "\n              \u5c0f\u65f6\u540e\uff0c\u653e\u5165\u83b2\u85d5\u76d6\u76d6\u7096\u716e30\u5206\u949f\u540e\u653e\u5165\u9002\u91cf\u7684\u76d0\uff0c\u518d\u6587\u706b\u7096\u716e30\u5206\u949f\u540e\u5173\u706b\u71165\u5206\u949f\u5373\u53ef\u98df\u7528\n            "
+        },
+        {
+            "@value": "\n              \u7136\u540e\u6e29\u6c34\u4e0b\u9505\uff0c\u653e\u5165\u59dc\u7247\u3001\u9002\u91cf\u6599\u9152\uff08\u53bb\u9664\u8840\u8165\u5473\uff09\u716e\u5f00\u540e\u6487\u5e72\u51c0\u6d6e\u6cab\u3002\u7136\u540e\u653e\u5165\u8471\u6bb5\u3001\u5012\u5165\u5c11\u91cf\u7684\u918b\uff08\u53ef\u4ee5\u4f7f\u9aa8\u5934\u4e2d\u7684\u9499\u8d28\u5145\u5206\u7684\u7096\u51fa\u6765\uff09\u76d6\u76d6\u6587\u706b\u7096\u716e2\u5c0f\u65f6\n            "
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

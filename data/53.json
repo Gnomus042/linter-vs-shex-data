@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingCount": {
+            "@value": "177"
+        },
+        "ratingValue": {
+            "@value": "7"
+        }
+    },
+    "description": {
+        "@value": "Tin T\u1ee9c Qu\u1ed1c t\u1ebf - Th\u00f4ng tin truy\u1ec1n th\u00f4ng - Ph\u1eadt Gi\u00e1o Qu\u1ea3ng Nam"
+    },
+    "name": {
+        "@value": "Tin T\u1ee9c Qu\u1ed1c t\u1ebf"
+    },
+    "url": {
+        "@value": "/tin-tuc/quoc-te/"
+    },
+    "@id": "http://example.org/recipe"
+}

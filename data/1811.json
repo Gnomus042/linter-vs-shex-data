@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingValue": {
+            "@value": "9"
+        },
+        "reviewCount": {
+            "@value": "1"
+        }
+    },
+    "description": {
+        "@value": "\nTr\u1ea7n ph\u00f2ng kh\u00e1ch l\u00e0 m\u1ed9t trong nh\u1eefng y\u1ebfu t\u1ed1 \u0111\u1eb7c bi\u1ec7t g\u00f3p ph\u1ea7n t\u1ea1o n\u00ean v\u1ebb \u0111\u1eb9p t\u1ed5ng th\u1ec3 c\u1ee7a ng\u00f4i nh\u00e0, mang l\u1ea1i m\u1ef9 quan chung cho c\u0103n h\u1ed9.\n"
+    },
+    "image": {
+        "@id": "https://1.bp.blogspot.com/-SrAoRc0TujI/Vt2t8QiZniI/AAAAAAAAAxs/vJNY2hT3rF4/s72-c/tran-phong-khach-mau-trang-8.jpg"
+    },
+    "name": {
+        "@value": "M\u1eabu tr\u1ea7n ph\u00f2ng kh\u00e1ch m\u00e0u tr\u1eafng"
+    },
+    "@id": "http://example.org/recipe"
+}

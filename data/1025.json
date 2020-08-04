@@ -1,0 +1,24 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "en",
+        "@value": "\n            \n                    This guacamole is irresistibly tasty! The perfect dip for tortilla chips or as a side dish for other Mexican dishes.\n                "
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "25 min."
+    },
+    "recipeIngredient": {
+        "@language": "en",
+        "@value": "\n                                    2 EAT ME avocados\u00bd EAT ME lime\u00bd Jalape\u00f1o pepper1 EAT ME mango1 EAT ME pomegranate1 clove garlic1 shallot1 tomatosalt & pepper\n            \n                                "
+    },
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n                        Cut the avocado all the way around, going as deep as the stone. Twist until you can pull the 2 halves apart. Remove the stone with a spoon.Spoon the flesh out of the avocado into a bowl.Slice the lime in half. Squeeze the juice from the fruit on top of the avocado flesh.Mash the avocado with a fork but keep some texture.Chop the shallot and the garlic finely.Rinse the pepper, cut in half and remove the seeds. Slice half of the pepper very finely.Add the shallot, garlic and pepper to the avocado mixture.Finely slice the tomato and add to the mixture.Cut the mango along both sides of the stone or use a mango slicer. Then cut some strips in the seedless flesh, without cutting through the skin. Also slice in the opposite direction so you get a crosshatch pattern. Use a spoon to remove the cubes from the mango and add to the mixture.Cut the top off the pomegranate. Cut gently along the ridges from the top to the bottom. Open the fruit. Then remove the pomegranate seeds from the fruit and add to the mixture.Mix all ingredients well and season with salt and pepper.\n                    "
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "4"
+    },
+    "@id": "http://example.org/recipe"
+}

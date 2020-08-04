@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en-US",
+            "@value": "+SVB"
+        }
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "Wednesday, June 20, 2018"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "\n                                                                    Android Play Store provides users to auto-download updates to their apps but it also provides users to stop that auto download. The update to a mobile app does not work like an update to a website i.e while in case of websites the updated website is available to a user without any effort (effort at user\u2019s end), in case of a mobile app the user has to download the updated version of app (if auto download is off).\nSo are you concerned with how to make your user aware that an update to your app is available on Android Play Store? Well, you can prompt your users by showing them an \u201cUpdate your App\u201d Screen based on the version of App using Firebase Remote Config. In this post, we are going to implement this functionality. Just follow the steps given below.\n\n\n\n     (adsbygoogle = window.adsbygoogle || []).push({});\n\n\n\u00a0\nNOTE:\nWe are going to use Firebase Remote Config in this post, so if you are not familiar with Firebase Remote Config or want to learn more about it you can read my previous post,\u00a0Firebase Remote Config \u2013 Android.\n\u00a0\nPre-requisites:\nBefore following the points given below there are some pre-requisites that you need to complete.\n\nYou should have connected your Android App to Firebase i.e. you must have created a project on firebase console and connected it your Android Application. If you have not, then follow the instructions on Firebase Android Setup page and then return to this post.\nYou should be developing your Android Project on Android Studio.\n\n\u00a0\nSTEP 1Add Dependencies\nAdd below-given dependencies to your app-level build.gradle file.\n\n\u00a0\nSTEP 2Create In-App Default Values\nWe will create in-app default parameter values so that your app behaves predictably before it fetches values from the Remote Config service.\n\nTo create default values, we need to define all the parameter names and default parameter values in an XML resource file that is stored your app\u2019s res/xml folder. In our case, we will save app version code which needs to be same as defined in build.gradle file. Copy the content from the below-given xml file and paste it in your file and replace the value of app_vesion_code with your app\u2019s version.\n\n\n\u00a0\nSTEP 3Add Logic to Launcher Activity\n\nThe logic to show Update your App Screen is implemented in your App\u2019s Launcher Activity.\nLauncher Activity is an activity which is launched when your App starts. In most of the cases, this activity is named as MainActivity and works as a Splash Screen.\nIn our case, this launcher activity will work as a Splash Screen i.e it should not contain any UI element that involves any user interaction.\nNow copy the whole code given below or copy the necessary blocks of code and paste in your launcher activity.\n\n\n\u00a0\nSTEP 4Create \u201cUpdate App Screen\u201d Layout File\nNow we will create an xml file to define the layout for the Update App Screen. Copy the whole code given below or you can define your own layout.\n\nThe xml file above must be showing many errors that is because we have not defined the color and string resources used above in their respective files. Also, the image resource and the button background are not defined yet. While I expect that you can add string and color resources on your own, I am providing the xml file contents for image resource and button background below.\n\n\n\u00a0\nSTEP 5Create JAVA File for \u201cUpdate App Screen\u201d\n\nNow define the java file for the Update App Screen. Copy the whole code given below if you have defined the same layout given in Step 4 for Update App Screen otherwise copy the necessary blocks of code as per your requirement. I have well commented the code given below so you won\u2019t face any problem.\n\n\n\n\n     (adsbygoogle = window.adsbygoogle || []).push({});\n\nNOTE:\n* Don\u2019t forget to make an entry for the Launcher Activity and the Update your App Activity in AndroidManifest file.\n* Update the value for app_version_code in Firebase Remote Config Dashboard every time you publish a new version of your App.\n\u00a0\nNow I have covered all the necessary steps to make your users aware of the App Update using Firebase Remote Config. But you can always tweak the code given above as per your requirements following the same order of steps.\n\u00a0\n\nIf you face any problem in the tutorial above, you can always leave a reply or reach me through the chat option given in bottom right corner of the window.\n                                                                                                    \n                        \n                             android Firebase Remote Config Update App Screen                         \n                                    \n                \n                            "
+    },
+    "image": {
+        "@id": "http://knowmywork.com/wp-content/uploads/2018/06/Web-Poster-2560-x-1440-800x500.png"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Show \u201cUpdate your App Screen\u201d using Firebase Remote Config"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Android, Firebase"
+    },
+    "@id": "http://example.org/recipe"
+}

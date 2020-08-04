@@ -1,0 +1,25 @@
+{
+    "@type": "Recipe",
+    "carbohydrateContent": {
+        "@value": "26.5313751571"
+    },
+    "cholesterolContent": {
+        "@value": "14.3402503371"
+    },
+    "fatContent": {
+        "@value": "8.96340002924"
+    },
+    "fiberContent": {
+        "@value": "0.474821622274"
+    },
+    "name": {
+        "@value": "\u00c7ikolatal\u0131 \u015earlot"
+    },
+    "proteinContent": {
+        "@value": "4.10787093315"
+    },
+    "sodiumContent": {
+        "@value": "152.23715982"
+    },
+    "@id": "http://example.org/recipe"
+}

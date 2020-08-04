@@ -1,0 +1,18 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@value": "Nem s\u00f3 de am\u00eandoas coloridas se enche a P\u00e1scoa. H\u00e1 tamb\u00e9m am\u00eandoas ao natural, peladas e laminadas, com um toque especial Sidul."
+    },
+    "image": [
+        {
+            "@id": "_:Nc6fe85cf20284e6a808536de42fb42ef"
+        },
+        {
+            "@id": "_:N3abbb0089b194e8ebe52ab19938ec0a9"
+        }
+    ],
+    "name": {
+        "@value": "Tarte de requeij\u00e3o com am\u00eandoa"
+    },
+    "@id": "http://example.org/recipe"
+}

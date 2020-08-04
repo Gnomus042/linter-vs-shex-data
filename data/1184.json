@@ -1,0 +1,79 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "2 sisters recipes"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Asian-Style Capellini Pasta with Vegetables takes on a new twist when capellini pasta is tossed with fresh chopped vegetables that have been quickly stir-fried with Trader Joe's teriyaki sauce!"
+    },
+    "image": {
+        "@id": "https://2sistersrecipes.com/wp-content/uploads/2015/04/DSC_0756.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 pound (16-ounce) Healthy 8 chopped veggie mix"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd pound Capellini Pasta (or Gluten-Free white rice angel hair pasta)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup teriyaki sauce (preservative-free), divided (I used Trader Joes Soyaki)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tbsp. olive oil"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Asian-Style Capellini Pasta with Vegetables"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Dinner"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Bring a 2-quart pot filled with water to boil. Add the capellini pasta. Boil, stirring for only 3 minutes. Drain."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Then return the pasta back into the pot and pour \u00bd cup of teriyaki sauce. Stir the pasta and sauce until well combined. Taste, and add additional sauce to your liking."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Serves 3 to 4"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add \u00bd cup of teriyaki sauce to the vegetables. While stirring, cook veggies for additional 1 to 2 minutes more to flavor the veggies. Turn off the heat."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Serve immediately."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a very large, deep skillet, and on medium heat. Add vegetables, and olive oil."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cook on medium heat for about 3 minutes, until they soften."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Ladle the capellini pasta into individual plates, with the vegetables on top."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "3 to 4 servings"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "ru-RU",
+        "@value": "\u041f\u0440\u043e\u0441\u0442\u043e\u0439 \u0438 \u0432\u043a\u0443\u0441\u043d\u044b\u0439 \u043f\u043e\u0448\u0430\u0433\u043e\u0432\u044b\u0439 \u0440\u0435\u0446\u0435\u043f\u0442 "
+    },
+    "image": {
+        "@id": "https://povarenok.by/ingredients/pechene//uploads/cache/images/recepty/big/tiramisu-500x230.jpg"
+    },
+    "name": {
+        "@language": "ru-RU",
+        "@value": "\u0422\u0438\u0440\u0430\u043c\u0438\u0441\u0443"
+    },
+    "position": {
+        "@language": "ru-RU",
+        "@value": "2573"
+    },
+    "prepTime": {
+        "@language": "ru-RU",
+        "@value": "PT20M"
+    },
+    "recipeCategory": {
+        "@language": "ru-RU",
+        "@value": "\u0412\u043a\u0443\u0441\u043d\u044f\u0448\u043a\u0438"
+    },
+    "url": {
+        "@id": "https://povarenok.by/ingredients/pechene//recept/tiramisu"
+    },
+    "@id": "http://example.org/recipe"
+}

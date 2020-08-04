@@ -1,0 +1,86 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.anediblemosaic.com/wp-content/uploads//2014/11/Christmas-Morning-Scones-aka-Vanilla-Bean-Nutmeg-and-Rosemary-Scented-Scones-300X199.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "\u00bd teaspoon freshly ground nutmeg"
+        },
+        {
+            "@value": "2 tablespoons unsweetened dried cranberries, chopped small"
+        },
+        {
+            "@value": "2\u00bd cups (320 g) all-purpose flour"
+        },
+        {
+            "@value": "\u00be teaspoon salt"
+        },
+        {
+            "@value": "\u00bc teaspoon freshly ground nutmeg"
+        },
+        {
+            "@value": "1 tablespoon baking powder"
+        },
+        {
+            "@value": "6 tablespoons (75 g) sugar"
+        },
+        {
+            "@value": "1 teaspoon vanilla bean paste"
+        },
+        {
+            "@value": "Unsweetened dried cranberries"
+        },
+        {
+            "@value": "6 tablespoons (80 g) unsalted butter, chilled and diced"
+        },
+        {
+            "@value": "1 cup (237 ml) half and half (or milk or cream), plus 2 tablespoons more for brushing on top"
+        },
+        {
+            "@value": "Fresh rosemary leaves"
+        },
+        {
+            "@value": "2 to 3 tablespoons water"
+        },
+        {
+            "@value": "\u00bd teaspoon vanilla bean paste"
+        },
+        {
+            "@value": "4 teaspoons minced fresh rosemary"
+        },
+        {
+            "@value": "1 cup (115 g) powdered sugar"
+        }
+    ],
+    "name": {
+        "@value": "Christmas Morning Scones {aka Vanilla Bean, Nutmeg, and Rosemary-Scented Scones}"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Cut in the butter with a fork or using two butter knives until it looks like coarse meal. Whisk together the half and half and vanilla bean paste, and stir it into the flour mixture. (The dough should come together, but not be too wet.)"
+        },
+        {
+            "@value": "Turn the dough out onto a lightly floured surface. Roll or press the dough out to a circle about 7 to 8 inches in diameter and \u00be inch thick. Cut the circle of dough into 8 equal wedges."
+        },
+        {
+            "@value": "Transfer the scones to the prepared baking sheet, lightly brush the tops with a little half and half (or milk), and bake until puffed and light golden brown on top and bottom, about 14 to 16 minutes. Cool completely."
+        },
+        {
+            "@value": "Shape the dough into a ball, then flatten it into a disk; wrap it in plastic wrap and chill 10 minutes in the freezer."
+        },
+        {
+            "@value": "Whisk together the flour, sugar, baking powder, salt, nutmeg, dried cranberries, and rosemary in a large bowl."
+        },
+        {
+            "@value": "Once cooled, whisk together all ingredients for the glaze, adding the water a little at a time until it reaches your desired consistency. Dip the tops of the scones into the glaze, letting it run down the sides; sprinkle a few dried cranberries and rosemary leaves on top, if desired. Place the scones onto a wire rack and let the glaze set completely before serving."
+        },
+        {
+            "@value": "Preheat oven to 450F; line a baking sheet with parchment paper or a silpat liner."
+        }
+    ],
+    "recipeYield": {
+        "@value": "8 large scones"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,61 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "PT20M"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@language": "en-US",
+            "@value": "528"
+        },
+        "url": {
+            "@language": "en-US",
+            "@value": "https://www.cscassets.com/recipes/large_cknew/large_27140.jpg"
+        },
+        "width": {
+            "@language": "en-US",
+            "@value": "610"
+        }
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Hearty Grilled Turkey & Cheese Panini"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "PT15M"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en-US",
+            "@value": "1/4 cup light sun-dried tomato mayonnaise"
+        },
+        {
+            "@language": "en-US",
+            "@value": "12 slices Pepperidge Farm\u00ae Whole Grain Honey Oat Bread"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1   large tomato, cut into 6 thin slices"
+        },
+        {
+            "@language": "en-US",
+            "@value": "12   thin slices Muenster cheese(about 6 ounces)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "24   slices deli turkey breast(about 1 1/4 pounds)"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "\n\t\t\t\tSpread 1 teaspoon mayonnaise spread on each bread slice. Top each of 6 bread slices with\u00a04 slices\u00a0turkey, 2 slices cheese and 1\u00a0slice tomato. Top with the remaining bread slices, mayonnaise spread-side down.Spray a 10-inch skillet with vegetable cooking spray and heat over medium heat for 1 minute.\u00a0 Add the sandwiches in batches and cook until they're lightly browned on both sides and the cheese is melted.\t\t\t\t\t\t\t\t\tTips\n\n\t\t\t\t\tServing Suggestion: Serve with Campbell's\u00ae\u00a0Tomato soup and a tossed salad with your favorite dressing.\u00a0\n\t\t\t\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

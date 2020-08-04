@@ -1,0 +1,94 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Kathy Schowe"
+        }
+    },
+    "image": {
+        "@id": "https://kansasmobilesolutions.loginportal.site/uploads/1/2/7/0/127022336/kkr-mahi-mahi-fish-tacos.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Mahi Mahi Fish Tacos"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "6 corn tortillas fried\u00a0or small flour"
+        },
+        {
+            "@language": "en",
+            "@value": "chopped cilantro for garnish"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00bd cup shredded cheddar cheese"
+        },
+        {
+            "@language": "en",
+            "@value": "\u00a01 lime zested and juiced"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tablespoon vegetable oil"
+        },
+        {
+            "@language": "en",
+            "@value": "1 sliced avocado"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tablespoon\u00a0salsa"
+        },
+        {
+            "@language": "en",
+            "@value": "3-\u00a06 ounce\u00a0mahi\u00a0mahi filets"
+        },
+        {
+            "@language": "en",
+            "@value": "1 teaspoon chili powder"
+        },
+        {
+            "@language": "en",
+            "@value": "2 teaspoons ground cumin"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup\u00a0 shredded cabbage and lettuce"
+        },
+        {
+            "@language": "en",
+            "@value": "3 tablespoons\u00a0mayonnaise"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "\u00a0Slice fish on cutting board and assemble tacos."
+        },
+        {
+            "@language": "en",
+            "@value": "\u00a0Spread sauce on warm tortilla, add fish and cheese, and top with shredded cabbage, avocado, cilantro, and a squeeze of lime juice."
+        },
+        {
+            "@language": "en",
+            "@value": "\u00a0Dust the fish lightly with cumin, chili powder, salt & pepper."
+        },
+        {
+            "@language": "en",
+            "@value": "\u00a0Make sauce by blending mayonnaise, salsa, lime zest, and juice. Refrigerate until tacos are ready."
+        },
+        {
+            "@language": "en",
+            "@value": "Wrap the tortillas in foil and warm in a 250\u00b0 oven."
+        },
+        {
+            "@language": "en",
+            "@value": "\u00a0Heat vegetable oil and add fish to saut\u00e9. Turn once. Cook for 10 minutes until barely cooked through."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

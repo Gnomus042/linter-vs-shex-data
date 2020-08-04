@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "http://images.snapguide.com/guides/blanch-asparagus-before-storing-in-freezer///d1alt1wkdk73qo.cloudfront.net/images/profile/5a9d2df172bb4e14932d3d6a1500e9b9/100x100_ac.jpg"
+        },
+        "name": {
+            "@value": "\n        \n          J. Angel\n        \n      "
+        },
+        "url": {
+            "@id": "http://production-ssl-195224908.us-west-1.elb.amazonaws.com/j-angel/"
+        }
+    },
+    "description": {
+        "@value": "Keep that fresh crispy taste asparagus by blanching them first before storing in freezer."
+    },
+    "image": [
+        {
+            "@id": "http://d1alt1wkdk73qo.cloudfront.net/images/guide/f0243a5fc51349f8bd6fde1b2bea61d8/640x478_ac.jpg"
+        },
+        {
+            "@value": "http://d1alt1wkdk73qo.cloudfront.net/images/guide/f0243a5fc51349f8bd6fde1b2bea61d8/640x478_ac.jpg"
+        }
+    ],
+    "interactionCount": [
+        {
+            "@value": "UserLikes:76"
+        },
+        {
+            "@value": "UserPageVisits:5128"
+        }
+    ],
+    "name": {
+        "@value": "How to Blanch Asparagus Before Storing in Freezer"
+    },
+    "recipeInstructions": {
+        "@value": "1. Cut and wash with cool water. 2. Dump them in hot boiling water. Be careful! 3. Let it boil for 1-2 minutes. Do not let them sit in there too long! 4. After the 1-2 minute is up, remove from hot water by either poor them out in container or spoon them out. Place in a container with ice cold water. Let sit and cool. 5. Dry them. Put in freezer bags. 6. Put in freezer and safe for future use. They will taste like  fresh asparagus! 7. A month later, I took them out of freezer and made saut\u00e9ed asparagus with garlic and olive oil. They tasted just like fresh asparagus."
+    },
+    "@id": "http://example.org/recipe"
+}

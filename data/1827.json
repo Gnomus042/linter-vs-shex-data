@@ -1,0 +1,47 @@
+{
+    "@type": "Recipe",
+    "name": {
+        "@value": "Early American Rum Egg Nog"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "2 cups granulated sugar"
+        },
+        {
+            "@value": "2 quarts milk"
+        },
+        {
+            "@value": "24 egg yolks (save whites for your favorite meringue recipes; they can be frozen indefinitely)"
+        },
+        {
+            "@value": "2 fifths Mount Gay Eclipse rum (Barbados' finest!)"
+        },
+        {
+            "@value": "2 quarts heavy cream"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Whip heavy cream until it forms semi-stiff peaks (you can add a little sugar\nto the cream, if you like)."
+        },
+        {
+            "@value": "Beat egg yolks until they are light in color."
+        },
+        {
+            "@value": "Gradually add milk and rum (we never use all the rum the recipe calls for;\nfor the full recipe, using Mount Gay, only about one fifth is really needed!)."
+        },
+        {
+            "@value": "Chill mixture for at least 3 hours or overnight."
+        },
+        {
+            "@value": "Sprinkle with nutmeg and drink yourself into a rosy glow!"
+        },
+        {
+            "@value": "Gradually add sugar and continue beating until mixture is thick and pale."
+        },
+        {
+            "@value": "Fold whipped cream into chilled nog and chill another hour."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,88 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "\nReceptm\u0171hely\n"
+        },
+        "url": {
+            "@id": "https://www.receptmuhely.hu/recept/csirkehusleves-spenottal-es-tortellinivel//felhasznaloi-profil/receptmuhely"
+        }
+    },
+    "dateCreated": {
+        "@value": "Null"
+    },
+    "dateModified": {
+        "@value": "Null"
+    },
+    "datePublished": {
+        "@value": "2015-10-17"
+    },
+    "description": {
+        "@value": "\nT\u00e1lal\u00e1skor tehet\u00fcnk a levesbe egy kis pest\u00f3t is."
+    },
+    "image": {
+        "@id": "https://images.receptmuhely.hu/media/cache/vich_show/images/recipe/7be86af0-2713-44c1-bd2c-10c663538444.jpg"
+    },
+    "keywords": [
+        {
+            "@value": "Ty\u00fakh\u00fasleves"
+        },
+        {
+            "@value": "H\u00fasleves"
+        }
+    ],
+    "name": {
+        "@value": "Csirkeh\u00fasleves spen\u00f3ttal \u00e9s tortellinivel"
+    },
+    "recipeCategory": {
+        "@value": " Levesek "
+    },
+    "recipeIngredient": [
+        {
+            "@value": "fokhagyma gerezd 1 darab"
+        },
+        {
+            "@value": "sajttal t\u00f6lt\u00f6tt tortellini 200 gramm"
+        },
+        {
+            "@value": "Knorr Ty\u00fakh\u00fasleveskocka 2 darab"
+        },
+        {
+            "@value": "f\u0151tt csirkemell fil\u00e9 1 darab"
+        },
+        {
+            "@value": "Hagyma 1 darab"
+        },
+        {
+            "@value": "friss, fiatal spen\u00f3tlev\u00e9l 1 mar\u00e9k"
+        },
+        {
+            "@value": "reszelt parmez\u00e1n 1 ev\u0151kan\u00e1l"
+        },
+        {
+            "@value": "Rama Classic 1 ev\u0151kan\u00e1l"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Forr\u00f3s\u00edtsunk fel egy liter vizet, majd oldjuk f\u00f6l benne a leveskock\u00e1kat."
+        },
+        {
+            "@value": "A f\u0151z\u00e9s v\u00e9g\u00e9n adjuk hozz\u00e1 a spen\u00f3tleveleket \u00e9s f\u0151zz\u00fck m\u00e9g egy percig. A k\u00e9sz levest t\u00e1laljuk reszelt parmez\u00e1nnal."
+        },
+        {
+            "@value": "Egy faz\u00e9kban forr\u00f3s\u00edtsuk fel a margarint \u00e9s pir\u00edtsuk meg rajta a finomra v\u00e1gott hagym\u00e1t \u00e9s fokhagym\u00e1t."
+        },
+        {
+            "@value": "F\u0151zz\u00fck meg a levesben a tortellinit. Kock\u00e1zzuk fel a f\u0151tt csirkemellet kisebb kock\u00e1kra, majd adjuk a leveshez."
+        }
+    ],
+    "totalTime": {
+        "@value": "PT30M"
+    },
+    "yield": {
+        "@value": "4 adag"
+    },
+    "@id": "http://example.org/recipe"
+}

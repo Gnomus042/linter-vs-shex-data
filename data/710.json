@@ -1,0 +1,24 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@language": "pl-PL",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "pl-PL",
+        "@value": "Tarta na orzechowym spodzie"
+    },
+    "recipeIngredient": {
+        "@language": "pl-PL",
+        "@value": "Sk\u0142adniki Ciasto\n20 dag m\u0105ki pszennej,\n10 dag margaryny,\n1 jajko,\n5 dag orzech\u00f3w w\u0142oskich,\n2 \u0142y\u017cki zimnej wody,\n1/4 \u0142y\u017ceczki soli.\nFarsz\n2 ugotowane buraki (oko\u0142o 40 dag),\n2 \u015bredniej wielko\u015bci czerwone cebule (oko\u0142o 30 dag),\n15 dag sera typu feta,\n3 \u0142y\u017cki octu balsamicznego,\n2 jajka,\n1 kwa\u015bna \u015bmietana 18% (200 g),\ngar\u015b\u0107 rukoli,\n2 \u0142y\u017cki oleju do sma\u017cenia,\ns\u00f3l, pieprz do smaku.\n"
+    },
+    "recipeInstructions": {
+        "@language": "pl-PL",
+        "@value": "PrzygotowanieOrzechy w\u0142oskie upra\u017cy\u0107 na suchej patelni na \u015brednim ogniu przez 4-5 minut. Ostudzi\u0107 i drobno posieka\u0107.\nPrzesia\u0107 m\u0105k\u0119, doda\u0107 mas\u0142o i posieka\u0107 no\u017cem. Nast\u0119pnie doda\u0107 orzechy, s\u00f3l, jajko i 2 \u0142y\u017cki zimnej wody. Zagnie\u015b\u0107 szybko ciasto, owin\u0105\u0107 foli\u0105 i w\u0142o\u017cy\u0107 do lod\u00f3wki na co najmniej 30 min.\nPrzygotowa\u0107 form\u0119 na tart\u0119 o \u015brednicy 28 cm. Ciasto wyj\u0105\u0107 z lod\u00f3wki, rozwa\u0142kowa\u0107 mi\u0119dzy dwoma kawa\u0142kami foli i przenie\u015b\u0107 do formy. Ciastem wy\u0142o\u017cy\u0107 dno i boki formy. Dno podziurkowa\u0107 widelcem.\nPiekarnik nagrza\u0107 do 190oC. Ciasto os\u0142onic foli\u0105 aluminiow\u0105, na sp\u00f3d wysypa\u0107 np. such\u0105 fasol\u0119. Wstawi\u0107 do nagrzanego piekarnika i piec 15 min. Nast\u0119pnie \u015bci\u0105gn\u0105\u0107 foli\u0119 z obci\u0105\u017ceniem i piec jeszcze ok. 10 minut. Wyj\u0105\u0107 z piekarnika i lekko przestudzi\u0107.\nW tym czasie przygotowa\u0107 nadzienie.\nCzerwon\u0105 cebul\u0119 obra\u0107 i pokroi\u0107 w drobn\u0105 kostk\u0119. Na patelni rozgrza\u0107 2 \u0142y\u017cki oleju, doda\u0107 przygotowan\u0105 cebul\u0119. Sma\u017cy\u0107, mieszaj\u0105c od czasu do czasu, na niewielkim ogniu przez oko\u0142o 20 minut, a\u017c b\u0119dzie mi\u0119kka.\nUgotowane buraki obra\u0107 i zetrze\u0107 na tarce o du\u017cych oczkach. Doda\u0107 do cebuli. Sma\u017cy\u0107 razem przez 3 minuty, doda\u0107 ocet balsamiczny, przyprawi\u0107 sol\u0105 i pieprzem wed\u0142ug uznania.\nJajka i \u015bmietan\u0119 roztrzepa\u0107, lekko posoli\u0107. Na podpieczony sp\u00f3d od tarty wy\u0142o\u017cy\u0107 buraki, doda\u0107 pokrojon\u0105 na kawa\u0142ki fet\u0119 i zala\u0107 mas\u0105 jajeczn\u0105.\nPiec w piekarniku nagrzanym do 180oC przez oko\u0142o 30 minut. Upieczon\u0105 tart\u0119 przed podaniem posypa\u0107 umytymi i osuszonymi listkami rukoli.\n"
+    },
+    "recipeYield": {
+        "@language": "pl-PL",
+        "@value": "4 porcje"
+    },
+    "@id": "http://example.org/recipe"
+}

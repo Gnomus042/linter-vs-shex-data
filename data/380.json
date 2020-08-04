@@ -1,0 +1,115 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.foodista.com/sites/default/files/styles/recype/public/IMG_2016.JPG"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "For the filling: Set 1:"
+        },
+        {
+            "@language": "en",
+            "@value": "2 cups of cubed squash (I used butternut)"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup of pumpkin seeds"
+        },
+        {
+            "@language": "en",
+            "@value": "Pinch of himalayan sea salt"
+        },
+        {
+            "@language": "en",
+            "@value": "Just over 1/4 cup of melted coconut oil- around 85ml"
+        },
+        {
+            "@language": "en",
+            "@value": "Zest of 1 lime"
+        },
+        {
+            "@language": "en",
+            "@value": "For the filling: Set 2:"
+        },
+        {
+            "@language": "en",
+            "@value": "Juice of two big limes (3 smaller)"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 cup maple syrup (you could use raw honey or yacon syrup)"
+        },
+        {
+            "@language": "en",
+            "@value": "3/4 tsp ground ginger"
+        },
+        {
+            "@language": "en",
+            "@value": "Pinch of himalayan or fine sea salt"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 tsp ground cloves"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup of nut milk- I used a mix of homemade cashew and hemp milk"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup of walnuts"
+        },
+        {
+            "@language": "en",
+            "@value": "The seeds of 1 vanilla pod or 1/4 tsp alcohol and sugar free vanilla extract"
+        },
+        {
+            "@language": "en",
+            "@value": "2 tsp ground cinnamon"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup of cashew nuts soaked overnight and drained"
+        },
+        {
+            "@language": "en",
+            "@value": "For the base:"
+        },
+        {
+            "@language": "en",
+            "@value": "7 meejool dates, pitted"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Raw pumpkin pie"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Pour the mixture into the pie dish  and pop in the fridge for around 6 hours (or overnight) until it has set. That's it! Serve with some raw vanilla ice cream for a perfect Halloween treat."
+        },
+        {
+            "@language": "en",
+            "@value": "First of all make your base. Blitz the nuts and seeds first until they re fine crumbs, then add the dates. Pulse the mixture until it forms a 'dough'. Press this out into a 22cm loose bottom flan/pie dish to form the crust and set aside while you make the filling."
+        },
+        {
+            "@language": "en",
+            "@value": "The filling for this recipe is assembled in two parts to achieve maximum creamyness!"
+        },
+        {
+            "@language": "en",
+            "@value": "Tip set 2 ingredients into a blender and blend until creamy smooth. Although this is quicker in a high speed blender, any blender will do, it will just take a little longer. Take the processed set 1 ingredients and add these also to the blender. Continue blending until well mixed and creamy- you don't want any lumps at this stage as this is the final stage of the filling."
+        },
+        {
+            "@language": "en",
+            "@value": "Tip set 1 ingredients into a food processor and blitz until as smooth a texture as you can achieve. It will still look quite 'rustic' at this stage, but don't worry-They'll get blended up later on to make it completely smooth. The smoother texture you can achieve now, the easier that will be!"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Makes one 22cm pie"
+    },
+    "@id": "http://example.org/recipe"
+}

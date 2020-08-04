@@ -1,0 +1,108 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "image": {
+            "@id": "https://homechef.imgix.net/https%3A%2F%2Fasset.homechef.com%2Fuploads%2Fchef%2Fchef_photo%2F21%2FChef-David%252BPadilla.jpg?ixlib=rails-1.1.0&auto=format&blur=250&q=0&w=50&s=34e3dcdb2ff4f24da5712d1a360a5b6d"
+        },
+        "name": {
+            "@language": "en",
+            "@value": "\nChef\nDavid Padilla\n\n\n\n"
+        }
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\nJalape\u00f1o jelly adds a nice hit of heat and sweet to this flaky, tender salmon. To be honest, we're a bit jelly that you get to purchase and eat this awesome meal. \n\n"
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://homechef.imgix.net/https%3A%2F%2Fasset.homechef.com%2Fuploads%2Fmeal%2Fplated%2F6561%2F6561HotJalapen%25CC%2583oJelly-GlazedSalmonwithCrispyOnionAsparagus_Ecomm__1_of_1_.jpg?ixlib=rails-1.1.0&w=600&auto=format&s=c1bf2773eeede780c542a55519f6c5b3"
+    },
+    "logo": {
+        "@language": "en",
+        "@value": "\n\n  Home Chef: Fresh Ingredient Delivery To Cook At Home\n  \n\n\n"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "\nHot Jalape\u00f1o Jelly-Glazed Salmon with Crispy Onion Asparagus\nready in 15 minutes\n"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "576"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "27g"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "38g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "38g"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "1008mg"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n\n  Info\n  \n\n\n12\noz.\nSalmon Fillets\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\u00bd\ntsp.\nSeasoned Salt Blend\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\n  Info\n  \n\n\n\u00bd\noz.\nRoasted Pecans\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n12\noz.\nAsparagus\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n\n  Info\n  \n\n\n1\noz.\nCrispy Fried Onions\n"
+        },
+        {
+            "@language": "en",
+            "@value": "\n2\noz.\nHot Jalape\u00f1o Jelly\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@type": "ItemList",
+        "itemListElement": [
+            {
+                "@id": "_:N972d7dfad5334171afdb818b49a6bfb8"
+            },
+            {
+                "@id": "_:N75f243f2d0c6492fbea3e2be87ab0ee3"
+            },
+            {
+                "@id": "_:Na67c9014e9b74493bd8de1a39c2ee002"
+            },
+            {
+                "@id": "_:N34379c1f4f6148d3a3c180efecffeec5"
+            }
+        ],
+        "numberOfItems": {
+            "@language": "en",
+            "@value": "4"
+        }
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "2 servings"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT15M"
+    },
+    "@id": "http://example.org/recipe"
+}

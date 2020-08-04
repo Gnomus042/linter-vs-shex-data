@@ -1,0 +1,50 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en-us",
+            "@value": "Null"
+        },
+        "reviewCount": {
+            "@language": "en-us",
+            "@value": "Null"
+        }
+    },
+    "cookingMethod": {
+        "@language": "en-us",
+        "@value": "Prepare in the glass"
+    },
+    "datePublished": {
+        "@language": "en-us",
+        "@value": "2011-02-12 13:40:57"
+    },
+    "description": {
+        "@language": "en-us",
+        "@value": "A great Black Russian variant"
+    },
+    "image": {
+        "@id": "http://mybestcocktails.com/image-249-Dirty-Mother.jpg"
+    },
+    "ingredients": {
+        "@language": "en-us",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "en-us",
+        "@value": "Dirty Mother"
+    },
+    "recipeCategory": {
+        "@language": "en-us",
+        "@value": "Null"
+    },
+    "recipeInstructions": {
+        "@language": "en-us",
+        "@value": "Build in a short glass over ice.\nStir well."
+    },
+    "recipeyield": {
+        "@language": "en-us",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

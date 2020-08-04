@@ -1,0 +1,104 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "fr-FR",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "fr-FR",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "fr-FR",
+            "@value": "4"
+        },
+        "worstRating": {
+            "@language": "fr-FR",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@id": "https://www.likeachef.fr/recette/soupe-aux-epinards-et-brie-de-melun//chef/les-recettes-coup-de-coeur"
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2017-03-16"
+    },
+    "description": {
+        "@language": "fr-FR",
+        "@value": "\n\t\tD\u00e9couvrez la recette coup de coeur Likeachef : La Soupe aux \u00e9pinards et Brie de Melun du chef Hissa.\t"
+    },
+    "image": {
+        "@id": "https://www.likeachef.fr/recette/soupe-aux-epinards-et-brie-de-melun//dimg/36175/soupe-aux-epinards-et-brie-de-melun.jpg"
+    },
+    "name": [
+        {
+            "@language": "fr-FR",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t100 g de miso blanc\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUn peu de cr\u00e8me liquide\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 litre de fumet de poisson ou fond de volaille\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t100 g de Brie de Meaux ou de Melun\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUn peu de feuille de nori froiss\u00e9e\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Soupe aux \u00e9pinards et Brie de Melun du chef Hissa"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUn peu de caviar\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t300 g d\u2019\u00e9pinards\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "fr-FR",
+            "@value": "100 g de miso blanc"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Un peu de cr\u00e8me liquide"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Un peu de feuille de nori froiss\u00e9e"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "100 g de Brie de Meaux ou de Melun"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "Un peu de caviar"
+        },
+        {
+            "@language": "fr-FR",
+            "@value": "1 litre de fumet de poisson ou fond de volaille"
+        },
+        {
+            "@id": "https://www.likeachef.fr/recette/soupe-aux-epinards-et-brie-de-melun//ingredient/epinard"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "fr-FR",
+        "@value": "\n\t\t\t\t\t\t\tLavez les \u00e9pinards puis passez-les\u00a0au mixeur avec le fumet de poisson,\u00a0puis versez le tout dans une casserole\u00a0et faites chauffer. Petit \u00e0 petit, la\nchlorophylle remonte en surface.\n\u00c9cumez et r\u00e9servez le liquide dans un\u00a0cul-de-poule (saladier rond en m\u00e9tal).\n\t\t\t\t\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

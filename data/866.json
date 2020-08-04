@@ -1,0 +1,70 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5.0"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Cyd Converse"
+    },
+    "image": {
+        "@id": "https://thesweetestoccasion.com/wp-content/uploads/2018/10/friendsgiving-ideas-thanksgiving-leftovers-recipes-leftover-stuffing-dumplings-4-300x300.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 cup flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 cups leftover stuffing"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 large eggs"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Leftover Stuffing Dumplings"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Soups"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Add all ingredients to a large mixing bowl."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Simmer over medium to medium-high heat for 20 minutes, then serve"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Form stuffing mixture into balls approximately 1-1/2\" in diameter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Drop dumplings into a pot of hot turkey or vegetable soup, then cover"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Depending on your stuffing, you may need to add extra flour in which case do so a little at a time"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Use a rubber spatula or wooden spoon to combine, mixture will be slightly sticky"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

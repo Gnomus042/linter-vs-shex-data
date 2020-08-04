@@ -1,0 +1,93 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@id": "http://allerezepte.v22015012394022726.yourvserver.net/rezept/fruehstuecksfladen-1000013//mitglieder/21/KocHchamP1"
+        }
+    },
+    "description": {
+        "@language": "de",
+        "@value": "Warmer Leckerbissen zum Fr\u00fchst\u00fcck         "
+    },
+    "ingredients": [
+        {
+            "@language": "de",
+            "@value": "Salz"
+        },
+        {
+            "@language": "de",
+            "@value": "Mehl"
+        },
+        {
+            "@language": "de",
+            "@value": "Eier"
+        },
+        {
+            "@language": "de",
+            "@value": "Sonnenblumen\u00f6l "
+        },
+        {
+            "@language": "de",
+            "@value": "Mozzarella "
+        },
+        {
+            "@language": "de",
+            "@value": "Zucker"
+        },
+        {
+            "@language": "de",
+            "@value": "Frische Kr\u00e4uter nach Geschmack"
+        },
+        {
+            "@language": "de",
+            "@value": "Frischk\u00e4se (naturell, mit Kr\u00e4utern oder Knoblauch nach Geschmack)"
+        },
+        {
+            "@language": "de",
+            "@value": "gekochter Schinken"
+        },
+        {
+            "@language": "de",
+            "@value": "Salz und Pfeffer"
+        },
+        {
+            "@language": "de",
+            "@value": "lauwarmes Wasser"
+        },
+        {
+            "@language": "de",
+            "@value": "Trockenhefe"
+        }
+    ],
+    "name": {
+        "@language": "de",
+        "@value": "Fr\u00fchst\u00fccksfladen"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "de",
+            "@value": "250"
+        }
+    },
+    "recipeCategory": {
+        "@id": "http://allerezepte.v22015012394022726.yourvserver.net/rezept/fruehstuecksfladen-1000013//rezepte/art/Beilage"
+    },
+    "recipeInstructions": {
+        "@language": "de",
+        "@value": "\n            Am Vorabend Hefeteig zubereiten: Das Hefepulver mit Zucker und Wasser mischen und in einem Sch\u00fcttelbecher gut durchsch\u00fctteln. Zu dem mit Salz vermischten Mehl geben und kr\u00e4ftig zu einem nicht klebenden Teig kneten. Gegebenenfalls etwas lauwarmes Wasser hinzuf\u00fcgen. Zum Schluss das \u00d6l unterkneten. Zugedeckt eine halbe Stunde gehen lassen und dann \u00fcber Nacht in den K\u00fchlschrank stellen. Der Teig muss nicht schon am Vorabend vorbereitet werden. Wenn gen\u00fcgend Zeit vor dem Essen ist, gen\u00fcgt auch eine Ruhezeit von 30 Minuten, bevor er weiter verarbeitet wird. Morgens den Ofen vorheizen und den Teig aus dem K\u00fchlschrank holen und an einen warmen Ort stellen, w\u00e4hrend der Belag vorbereitet wird. Schinken in Streifen, Mozarella in W\u00fcrfel oder Scheiben und Kr\u00e4uter in kleine St\u00fcckchen schneiden. Ein Backblech mit Backpapier belegen und den Teig darauf ausrollen. Mit Frischk\u00e4se bestreichen und mit Schinken und K\u00e4se belegen. Die Eier aufschlagen, mit etwas Abstand voneinander auf den Teig setzen und nach Geschmack leicht salzen und pfeffern. In den vorgeheizten Ofen schieben und backen. Vor dem Servieren die frischen Kr\u00e4uter \u00fcber den Fladen streuen.  \n        "
+    },
+    "reviews": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "de",
+            "@value": "38"
+        },
+        "ratingValue": {
+            "@language": "de",
+            "@value": "2.6052631578947"
+        }
+    },
+    "@id": "http://example.org/recipe"
+}

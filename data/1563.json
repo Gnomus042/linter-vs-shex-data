@@ -1,0 +1,157 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "ru-RU",
+        "@value": "\u0410\u0432\u0442\u043e\u0440: \u0424\u0438\u0434\u0430\u043d \u0410\u043c\u0438\u0440\u0431\u0435\u043a\u043e\u0432\u0430"
+    },
+    "comment": [
+        {
+            "@id": "_:N9cf93010dbcc405aa11bcf0cf1d1cbbf"
+        },
+        {
+            "@id": "_:N7108692d9246474d8048cbcedd2e509d"
+        },
+        {
+            "@id": "_:N7a03d5fb975a4dffa1343294a45c6b77"
+        },
+        {
+            "@id": "_:N8329f9d18f9848589d9fa50ba1d7c1ef"
+        },
+        {
+            "@id": "_:Ne66ff18b63e64eed85e3f70dce3307aa"
+        },
+        {
+            "@id": "_:N3d83ec24db94449bbc0a5ab1ce9e1c42"
+        },
+        {
+            "@id": "_:N77ca1edc10fa4254af49ab3c80bba78b"
+        },
+        {
+            "@id": "_:N53dce07d0ff54a6ea5344a9c170ffb37"
+        },
+        {
+            "@id": "_:N1add0b37157e4209b21acfd32a1ba1d8"
+        },
+        {
+            "@id": "_:N39778908fbee4a7c86b820ab489fe098"
+        },
+        {
+            "@id": "_:N271472b15a5d4c639b1b9e35ff7fa684"
+        },
+        {
+            "@id": "_:Nd7375b474ff54463915d2ce96c84c765"
+        },
+        {
+            "@id": "_:N552f2ba4ddc442b783381df29789182a"
+        },
+        {
+            "@id": "_:N43aedff62f314173838be988b30a7446"
+        },
+        {
+            "@id": "_:N6be54a604b7f4160ac36130ac076f3e9"
+        },
+        {
+            "@id": "_:N3427093a9eb8404c81272dc4fb3a077e"
+        },
+        {
+            "@id": "_:N83e214f2e2e64f9aa241d9e8df05e969"
+        },
+        {
+            "@id": "_:N2b42d75bcf014e3283fce888c03a2347"
+        },
+        {
+            "@id": "_:N9a588523201546d88084563fa4a1f13f"
+        },
+        {
+            "@id": "_:N7b888313959049859cb5cb91bf0a3978"
+        }
+    ],
+    "dateModified": {
+        "@language": "ru-RU",
+        "@value": "2018-04-15T18:39:27+02:00"
+    },
+    "datePublished": {
+        "@language": "ru-RU",
+        "@value": "15.04.2018 | 18:36"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "contentUrl": {
+            "@id": "https://sladkiexroniki.ru/wp-content/uploads/2018/04/kartofelnyie-draniki-1.jpg"
+        },
+        "height": {
+            "@language": "ru-RU",
+            "@value": "527"
+        },
+        "url": {
+            "@id": "https://sladkiexroniki.ru/wp-content/uploads/2018/04/kartofelnyie-draniki-1.jpg"
+        },
+        "width": {
+            "@language": "ru-RU",
+            "@value": "640"
+        }
+    },
+    "ingredients": [
+        {
+            "@language": "ru-RU",
+            "@value": "1 \u043a\u0433. \u043a\u0430\u0440\u0442\u043e\u0448\u043a\u0438"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "2-4 \u0441\u0442. \u043b\u043e\u0436\u043a\u0438 \u043c\u0443\u043a\u0438"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043c\u0430\u0441\u043b\u043e \u0434\u043b\u044f \u0436\u0430\u0440\u043a\u0438"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "1 \u044f\u0439\u0446\u043e"
+        },
+        {
+            "@language": "ru-RU",
+            "@value": "\u0441\u043e\u043b\u044c, \u0441\u043f\u0435\u0446\u0438\u0438 \u043f\u043e \u0432\u043a\u0443\u0441\u0443"
+        }
+    ],
+    "mainEntityOfPage": {
+        "@language": "ru-RU",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "ru-RU",
+        "@value": "\u0414\u0440\u0430\u043d\u0438\u043a\u0438 \u0438\u0437 \u043a\u0430\u0440\u0442\u043e\u0448\u043a\u0438"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "address": {
+            "@language": "ru-RU",
+            "@value": "\u0410\u0444\u0438\u043d\u044b"
+        },
+        "logo": {
+            "@id": "_:N25aab41c421c4912b08f4076e73b1a65"
+        },
+        "name": {
+            "@language": "ru-RU",
+            "@value": "\u0421\u043b\u0430\u0434\u043a\u0438\u0435 \u0445\u0440\u043e\u043d\u0438\u043a\u0438"
+        },
+        "telephone": {
+            "@language": "ru-RU",
+            "@value": "+7 000 00 00"
+        }
+    },
+    "resultPhoto": {
+        "@id": "https://sladkiexroniki.ru/wp-content/uploads/2018/04/kartofelnyie-draniki-1.jpg"
+    },
+    "url": [
+        {
+            "@id": "https://sladkiexroniki.ru/"
+        },
+        {
+            "@id": "https://sladkiexroniki.ru/category/vse-recepti/vegetarianskie-retseptyi/"
+        },
+        {
+            "@id": "https://sladkiexroniki.ru/category/vse-recepti/"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,68 @@
+{
+    "@type": "Recipe",
+    "image": {
+        "@id": "https://www.hezzi-dsbooksandcooks.com/wp-content/uploads/2014/10/red-wine-chocolate-bread-3.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "2 eggs"
+        },
+        {
+            "@value": "1 t. baking powder"
+        },
+        {
+            "@value": "1 t. vanilla"
+        },
+        {
+            "@value": "1\u00bc c. flour"
+        },
+        {
+            "@value": "1 t. salt"
+        },
+        {
+            "@value": "\u00bd c. chocolate chips"
+        },
+        {
+            "@value": "\u00bd c. sugar"
+        },
+        {
+            "@value": "\u00bd c. brown sugar"
+        },
+        {
+            "@value": "\u00bd c. cocoa powder"
+        },
+        {
+            "@value": "1 stick butter, room temperature"
+        },
+        {
+            "@value": "\u00be c. sweet red wine (I used Gallo Family Vineyards Sweet Red)"
+        }
+    ],
+    "name": {
+        "@value": "Double Chocolate Red Wine Bread"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Add the dry ingredients to the wet ingredients and mix well."
+        },
+        {
+            "@value": "In a large bowl combine the butter, brown sugar, and sugar.  Mix until smooth.  Add the eggs one at a time, mixing until combined."
+        },
+        {
+            "@value": "Remove from the oven and cool on a wire rack."
+        },
+        {
+            "@value": "Fold in the chocolate chips.   Fill the small loaf pans \u00bd-3/4 of the way full.  Place the paper loaf pans on a baking sheet and bake for 40 minutes or until a toothpick inserted into the center comes out clean.  (If you are making the bread in a regular sized loaf pan bake for 1 hour)."
+        },
+        {
+            "@value": "In a medium bowl combine the flour, cocoa powder, baking powder, and salt."
+        },
+        {
+            "@value": "Preheat the oven to 350 degrees.  Spray 3 small loaf pans with cooking spray."
+        },
+        {
+            "@value": "Add in the red wine and vanilla and mix until combined."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,61 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "en",
+            "@value": " 3.2"
+        },
+        "reviewCount": {
+            "@language": "en",
+            "@value": "11"
+        }
+    },
+    "comment": {
+        "@language": "en",
+        "@value": "Cooking times are approximate, make sure pork is cooked well, look for it to turn white rather than the pink it starts out as. Enjoy!!!"
+    },
+    "cookingMethod": {
+        "@language": "en",
+        "@value": "Features"
+    },
+    "copyrightHolder": {
+        "@language": "en",
+        "@value": "Tomahawk Sky, LLC"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2001-03-05"
+    },
+    "genre": {
+        "@language": "en",
+        "@value": "Recipes"
+    },
+    "ingredients": {
+        "@language": "en",
+        "@value": "6 to 8 pork chops\n\u00a01 to 2 cans pork-n-beans\n\u00a01 medium sized red onion\n\u00a02 to 6 tablespoons catsup (to taste)\n\u00a02 to 6 tablespoons mustard (to taste)\n\u00a02 to 3 tablespoons molases, may substitute honey"
+    },
+    "isFamilyFriendly": {
+        "@language": "en",
+        "@value": "True"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Phred's Pork Chop Surprise"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Section"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "12\" Dutch Oven\n\u00a0Lid Holder\n\u00a0Hot Pad Gloves\n\u00a0Charcoal"
+        },
+        {
+            "@language": "en",
+            "@value": "place pork-n-beans in dutch oven, stir in catsup, mustard, and molases.  Dice half the onion and stir in with the beans.  Place the chops on top of the beans, arrange as to get all the chops in the Dutch Oven. Spread a bit more mustard and catsup over the top of the chops.  Slice the remainder of the onion in thin slices and place over the chops.\n\u00a0Salt and Pepper to taste, add a pinch of garlic powder over the top, and a pinch or two of oregano.  Place th lid on the oven add approximately 10 to 12 pieces of charcoal above and below.  Cook until chops are done.  Takes about 20 to 30 minutes to cook. May take a bit longer depending on the outside humidity and temperature.  Feeds 6 to 8, 1 chop per person."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

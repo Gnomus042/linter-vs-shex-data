@@ -1,0 +1,108 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@value": "20 Minutes"
+    },
+    "description": {
+        "@value": "Mixed pulses biryani recipe- Sunday Lunch Recipes Series 21"
+    },
+    "image": {
+        "@id": "https://farm1.staticflickr.com/436/19258116675_e289dea05b_o.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "Curd - 1 tbsp"
+        },
+        {
+            "@value": "Ginger - 1 inch piece"
+        },
+        {
+            "@value": "Big onion - 2 nos(medium sized)"
+        },
+        {
+            "@value": "Tomato -2 nos(medium sized)"
+        },
+        {
+            "@value": "Mixed pulses- 3/4 cup(I used white chana,black chana,Green peas,Kashmiri Rajma and Kidney beans)"
+        },
+        {
+            "@value": "Fennel seeds -1/2 tsp"
+        },
+        {
+            "@value": "Garam masala powder- 1/2 tsp"
+        },
+        {
+            "@value": "Ghee - 2 tbsp"
+        },
+        {
+            "@value": "Turmeric powder - 1/4 tsp"
+        },
+        {
+            "@value": "Kasuri methi - 2 pinches"
+        },
+        {
+            "@value": "Salt - as needed"
+        },
+        {
+            "@value": "Whole garam masala - 1 cinnamon,2 cloves,1 cardamom"
+        },
+        {
+            "@value": "Garlic - 5 cloves"
+        },
+        {
+            "@value": "Big onion - 1 nos"
+        },
+        {
+            "@value": "Red chillies - 4-5 nos"
+        },
+        {
+            "@value": "Mint leaves - 2 tbsp(finely chopped)"
+        },
+        {
+            "@value": "Water - 1.5 cups"
+        },
+        {
+            "@value": "Bayleaf,black stone flower - 1 each"
+        },
+        {
+            "@value": "Cooking oil - 1 tbsp"
+        },
+        {
+            "@value": "Basmati rice-1 cup (I use India gate)"
+        },
+        {
+            "@value": "Coriander leaves - 2tbsp(finely chopped)"
+        },
+        {
+            "@value": "Garlic cloves - 5 nos"
+        }
+    ],
+    "keywords": {
+        "@value": "Null"
+    },
+    "name": {
+        "@value": "\nMulti Pulses biryani recipe"
+    },
+    "prepTime": {
+        "@value": "4 hours"
+    },
+    "recipeCategory": {
+        "@value": "Lunch"
+    },
+    "recipeCuisine": {
+        "@value": "Indian"
+    },
+    "recipeInstructions": {
+        "@value": "\n\n\n              \nWash and soak the pulses overnight or for 8 hours.But I forgot to soak it.So I soaked the pulses at around 9am and made this biryani at 1pm.I soaked only for 4 hours following this technique.I boiled 3 cups of water in a bowl and poured the hot water in a hot pack/Casserole to retain the heat.I added a big pinch of cooking soda to it.Add the pulses,mix well using a ladle and close the hot pack tightly with a lid.Leave it for 4 hours.The pulses would turn soft and it is ready for pressure cooking.Before pressure cooking,drain the soaked water and wash the pulses twice to remove the cooking soda completely as you see in the picture.I hope this method works for you too to soak the pulses quickly.Do leave your feedback if it works.It would help others too! ( Beware : This method may not work for low quality pulses/Legumes.Thanks Sindhuja for mentioning this point)\n\n\n\n\n\n\n\n\nChop the onions and tomatoes. Heat oil in a kadai and saute the whole garam masala,fennel seeds,ginger,garlic,red chillies,big onions and tomatoes.Saute well till tomato turns mushy.Let it cool and then grind to a smooth paste.\n\n\n\u00a0\n\nHeat ghee in a cooker base and saute bayleaf,black stone flower. Add big onions and saute till it turns transparent.Add mint+coriander leaves.Mix well.\n\n\n\n\nAdd the ground tomato paste,turmeric powder,garam masala powder,salt and saute until its raw smell goes off.\n\n\n\n\nLastly add the soaked grains,water,curd and kasuri methi.Add the drained rice and pressure cook in low flame for one whistle.Switch off the flame and open the cooker after the steam is released completely.\n\n\n\n\n\n\n\n\n            \n\n"
+    },
+    "recipeYield": {
+        "@value": "Serves 3"
+    },
+    "thumbnailUrl": {
+        "@value": "Null"
+    },
+    "totalTime": {
+        "@value": "4H20Minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

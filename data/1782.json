@@ -1,0 +1,101 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Annie"
+        }
+    },
+    "description": {
+        "@value": "Si on aime le m\u00e9lange sucr\u00e9-sal\u00e9, c'est un d\u00e9lice que cette recette en provenance du Maroc !"
+    },
+    "image": {
+        "@id": "https://cdn.lacuisinedannie.com/images/569.jpg"
+    },
+    "keywords": [
+        {
+            "@value": "F\u00eates"
+        },
+        {
+            "@value": "Maghreb"
+        },
+        {
+            "@value": "Restes"
+        }
+    ],
+    "name": {
+        "@value": "Recette Pastilla au poulet                                      \n                                    "
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "\n                                    505 kCal"
+        },
+        "servingSize": {
+            "@value": "1 part"
+        }
+    },
+    "recipeCategory": {
+        "@value": "Viandes"
+    },
+    "recipeCuisine": {
+        "@value": "Volailles"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 cuiller\u00e9e \u00e0 soupe de sucre glace.                            "
+        },
+        {
+            "@value": "1 cuill\u00e8re \u00e0 caf\u00e9 de safran"
+        },
+        {
+            "@value": "1 jaune pour dorer"
+        },
+        {
+            "@value": "3 \u0153ufs"
+        },
+        {
+            "@value": "1 paquet de brick (10 feuilles)"
+        },
+        {
+            "@value": "1 cuill\u00e8re \u00e0 caf\u00e9 de cannelle"
+        },
+        {
+            "@value": "Sel, poivre"
+        },
+        {
+            "@value": "2 cuill\u00e8res \u00e0 caf\u00e9 de ras el hanout"
+        },
+        {
+            "@value": "125 g amandes concass\u00e9es "
+        },
+        {
+            "@value": "3 oignons"
+        },
+        {
+            "@value": "1/2 bouquet de coriandre"
+        },
+        {
+            "@value": "75 g sucre"
+        },
+        {
+            "@value": "1 poulet (750 g environ de blanc de poulet)"
+        },
+        {
+            "@value": "2 cuill\u00e8res \u00e0 soupe d\u2019huile"
+        },
+        {
+            "@value": ". "
+        },
+        {
+            "@value": "1 cuill\u00e8re \u00e0 caf\u00e9 de sucre"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "\n                        Faire chauffer l\u2019huile dans une cocotte et faire dorer le poulet et les oignons \u00e9minc\u00e9s   Ajouter sucre, coriandre hach\u00e9e, safran, ras el hanout, un petit verre d\u2019eau (200 ml environ), sel et poivre. Couvrir et laisser cuire 45 mn \u00e0 feu doux environ D\u00e9sosser le poulet et remettre la chair \"\u00e9miett\u00e9e\" dans la cocotte  Ajouter les \u0153ufs un \u00e0 un et bien les m\u00e9langer avec la chair du poulet, les oignons et le jus de cuisson; laisser cuire jusqu\u2019au d\u00e9but de la coagulation, puis retirer du feu Dans un bol ou 1 assiette, m\u00e9langer cannelle, amandes et sucre  Pr\u00e9chauffer le four \u00e0 200\u00b0Tapisser le fond d\u2019un plat rond de 4 feuilles de bricks en les faisant d\u00e9border du plat. \u00c9taler une partie de la pr\u00e9paration au poulet Recouvrir de couches de feuilles de brick huil\u00e9es (4 feuilles) zn allternant les couches brick et le poulet jusqu\u2019en haut du plat en r\u00e9servant les 2 derni\u00e8res feuilles pour le dessus Sur l\u2019avant derni\u00e8re couche, ajouter une grande partie du m\u00e9lange amandes, cannelle, sucre Recouvrir des 2 derni\u00e8res feuilles en les repliant pour envelopper l\u2019ensemble Passer le jaune d\u2019\u0153uf battu \u00e0 la surface et ajouter dessus le reste du m\u00e9lange d\u2019amandesEnfourner 25 mn environ. Saupoudrer d'un peu de sucre glace \u00e0 la sortie du four et servir bien chaud :)Truc : Pour une recette plus rapide on peut utiliser des blancs de poulet coup\u00e9s en petits morceaux; mais c\u2019est un peu plus sec! attention \u00e0 la sauce!                        "
+    },
+    "recipeYield": {
+        "@value": "6"
+    },
+    "@id": "http://example.org/recipe"
+}

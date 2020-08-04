@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "nl-NL",
+        "@value": "Lekkere zelfgemaakte zoet, fris en pittige spiesen."
+    },
+    "image": {
+        "@id": "http://www.ginious.nl/wp-content/gallery/vlees/pittige-honing-limoen-kip-spiesjes.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "nl-NL",
+            "@value": "1,5 el limoensap"
+        },
+        {
+            "@language": "nl-NL",
+            "@value": "1 tl siracha saus"
+        },
+        {
+            "@language": "nl-NL",
+            "@value": "1 tl olie"
+        },
+        {
+            "@language": "nl-NL",
+            "@value": "zout & peper"
+        },
+        {
+            "@language": "nl-NL",
+            "@value": "1,5 el ketjap "
+        },
+        {
+            "@language": "nl-NL",
+            "@value": "1 tl geraspte gember"
+        },
+        {
+            "@language": "nl-NL",
+            "@value": "&#189 tl limoenrasp"
+        },
+        {
+            "@language": "nl-NL",
+            "@value": "500g kip"
+        },
+        {
+            "@language": "nl-NL",
+            "@value": "2 teentjes knoflook "
+        },
+        {
+            "@language": "nl-NL",
+            "@value": "2 el honing"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "nl-NL",
+        "@value": "\nMix in een keukenmachine (blender, staafmixer, bullet) ketjap, honing, olie, limoenrasp en sap, (geperste) knoflook, siracha en wat peper en zout tot een gladde saus.\nZet 60 ml van de marinade apart, om later als saus te gebruiken.\nSnij de kip in hapklare stukjes.\nMarineer de kip in de marinade.\nHet lekkerste is als je de kip een nacht laat marineren, maar na 10 minuten is de kip al lekker.\nServeer eventueel met een partje limoen en wat verse koriander.\n"
+    },
+    "recipeYield": {
+        "@language": "nl-NL",
+        "@value": "6 spiesjes"
+    },
+    "totalTime": {
+        "@language": "nl-NL",
+        "@value": "20 minuten"
+    },
+    "@id": "http://example.org/recipe"
+}

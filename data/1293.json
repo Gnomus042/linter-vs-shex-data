@@ -1,0 +1,80 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://devbakespace.bakespace.com/recipes/detail/Custard-Bread-Pudding/8417//members/profile/niki/998/"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "Null"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Comfort at it's best. I love it. It is very simple and old fashion like. I usually don't even put the sauce on it, but it is very good with the sauce, and easy too. I have made this recipe for years."
+    },
+    "image": {
+        "@id": "http://devbakespace.bakespace.com/recipes/detail/Custard-Bread-Pudding/8417//images/large/default_recipe.gif"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Custard Bread Pudding"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "Null"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "7 Tabls butter\n"
+        },
+        {
+            "@language": "en",
+            "@value": "2 eggs\n"
+        },
+        {
+            "@language": "en",
+            "@value": "2 Tbls flour\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp vanilla"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup water\n"
+        },
+        {
+            "@language": "en",
+            "@value": "Sauce:\n"
+        },
+        {
+            "@language": "en",
+            "@value": "2 cup milk\n"
+        },
+        {
+            "@language": "en",
+            "@value": "2/3 cup sugar\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup raisins\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 cup sugar\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp cinnamon\n"
+        },
+        {
+            "@language": "en",
+            "@value": "10 slices bread, cubed\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tbls butter\n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

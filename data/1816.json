@@ -1,0 +1,169 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "18"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "3.5"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Betty Crocker Kitchens"
+        }
+    },
+    "dateCreated": {
+        "@language": "en",
+        "@value": "07/16/2004"
+    },
+    "dateModified": {
+        "@language": "en",
+        "@value": "10/20/2014"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Twice-baked Italian-inspired cookies are a snap when you start with a cake mix. "
+    },
+    "image": {
+        "@language": "en",
+        "@value": "https://images-gmi-pmc.edge-generalmills.com/af0aa5ce-2382-47de-8bd6-7d8b72483a0c.jpg"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "cake mix citrus biscotti"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Cake Mix Citrus Biscotti"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "80 "
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "15 g"
+        },
+        "cholesterolContent": {
+            "@language": "en",
+            "@value": "15 mg"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "1/2 "
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "0 g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "1 g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "1/2 g"
+        },
+        "servingSize": {
+            "@language": "en",
+            "@value": "1 Biscotti "
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "115 mg"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "8 g"
+        },
+        "transFatContent": {
+            "@language": "en",
+            "@value": "0 g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT0H25M"
+    },
+    "recipeCategory": {
+        "@language": "en",
+        "@value": "Dessert"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoon grated lime peel\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoon grated orange peel\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/4\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup Betty Crocker\u2122 Rich & Creamy lemon frosting\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoon vegetable oil\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    tablespoons grated lemon peel\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1/2\n                \n            \n            \n                \n                    \n                        \n                    \n                    cup Gold Medal\u2122 all-purpose flour\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    eggs\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    1\n                \n            \n            \n                \n                    \n                        \n                    \n                    box Betty Crocker\u2122 Super Moist\u2122 lemon cake mix\n                \n                \n                \n                \n                \n            \n            \n        "
+        },
+        {
+            "@language": "en",
+            "@value": "\n            \n                \n                    2\n                \n            \n            \n                \n                    \n                        \n                    \n                    to 4 teaspoons lemon juice\n                \n                \n                \n                \n                \n            \n            \n        "
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@id": "_:Ne9e40882a7314e11b49127bfbd72f5e5"
+        },
+        {
+            "@id": "_:N8a5d49fa408942108637364894209451"
+        },
+        {
+            "@id": "_:N8fa7bf0477674ff69d5143593272d156"
+        },
+        {
+            "@id": "_:Ncba2502796b2449684128a9d023e336c"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "30"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT1H45M"
+    },
+    "@id": "http://example.org/recipe"
+}

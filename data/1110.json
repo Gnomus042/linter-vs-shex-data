@@ -1,0 +1,178 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Suzanne Capizzano"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "The original recipe is from the book, True Foods by Andrew Weil MD. I have modified it by using our exceptional quality extra virgin olive oil and aged balsamic vinegar adding a creative flavorful twist."
+    },
+    "image": {
+        "@id": "http://capizzanoco.com/wp-content/uploads/2016/10/asparagus-frittata-35776-ss-300x250.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 package of silken firm organic tofu, cut up"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 TB Blood Orange Fused EVOO"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Asparagus, cut into \u00bd inch lengths, use tender pieces"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup fresh orange juice squeezed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tsp fresh grated lemon zest"
+        },
+        {
+            "@language": "en-US",
+            "@value": "8 large eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 slices rye bread (non gmo) cut into small cubes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "4 ounces Mild Gruyere or Manchego Cheese, grated or sliced thinly"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tsp caraway seeds"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup milk (I used unsweetened almond milk non dairy alternative)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Leek, sliced thinly"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Caraway Tofu makes 1 \u00bd cups"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Caraway Tofu Cream"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 TB Sicilian Lemon White Aged Balsamic"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup shredded Napa Cabbage"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Quiche"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup fresh lemon juice squeezed"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 TB UP Extra Virgin Olive Oil (Don Carlo or Koroneiki)"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Crustless Quiche with Caraway Creamed Tofu"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Brunch Breakfast"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Add leeks saut\u00e9 until softened. Add asparagus saut\u00e9 for about a minute."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Process until smooth and set aside to stay cold put in the refrigerator until ready to serve."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add milk and mix thoroughly."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Put in Oven uncovered, bake for 20 minutes or until set."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In large oven proof skillet, heat the olive oil on Medium High heat."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Let rest for 5 minutes before cutting in sections. Servings 4 \u2013 6."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In bowl, whisk the eggs until smooth."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Drizzle a little Extra Virgin Olive oil over the greens."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Oven 375 degrees, preheat"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Put all ingredients in a food processor or blender."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add bread cubes let soak for 3 minutes."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Quiche:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Store any unused portions up to 3 days."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Caraway Tofu Cream:"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add egg mixture to leeks and asparagus in skillet. Reduce heat to Medium and stir in Cheese and Cabbage."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Place quiche on top of tender greens then top the quiche with 1 Tablespoon of Caraway Tofu Cream. Grind a bit of Makai Celtic Sea Salt and Fresh Ground Pepper on top seasoning to taste."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "4 - 6"
+    },
+    "@id": "http://example.org/recipe"
+}

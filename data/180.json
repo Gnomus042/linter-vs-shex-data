@@ -1,0 +1,49 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "10"
+        },
+        "ratingValue": {
+            "@value": "0.00"
+        },
+        "reviewCount": {
+            "@value": "1"
+        },
+        "worstRating": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "ADMIN"
+        }
+    },
+    "cookTime": {
+        "@value": "P0Y0M0DT0H20M0S"
+    },
+    "datePublished": {
+        "@value": "09/26/2007 "
+    },
+    "description": {
+        "@value": "Baby Bok Choy Steamed with Orange Zest and Ginger"
+    },
+    "image": {
+        "@id": "https://completerecipes.com/baby-bok-choy-steamed-with-orange-zest-and-ginger.html//static/images/noimage.gif"
+    },
+    "ingredients": {
+        "@value": "\n                        \n                            \n                                2    Baby bok choy; each-6-to-8-inches long1 tb Orange zest; julienne or-grated1/4 ts Ginger infused sesame oil OR-minced ginger; to taste\n                            \n                        \n                    "
+    },
+    "name": {
+        "@value": "Baby Bok Choy Steamed with Orange Zest and Ginger"
+    },
+    "prepTime": {
+        "@value": "P0Y0M0DT0H20M0S"
+    },
+    "recipeInstructions": {
+        "@value": "\n                \n                    \n                        Rinse the boy choy well. Cut in half lengthwise Place bok choy in a singlelayer on a rack in a steamer, cut side up. Sprinkle with the orange zestand put a portion of the ginger-oil on the heart of the vegetable. Coverand cook over for 6 to 8 minutes, or when fork tender. Serve with the zest.\n                    \n                \n            "
+    },
+    "@id": "http://example.org/recipe"
+}

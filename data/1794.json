@@ -1,0 +1,150 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en-US",
+            "@value": "4"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "0"
+        },
+        "reviewCount": {
+            "@language": "en-US",
+            "@value": "Null"
+        }
+    },
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "1 hr 30 min "
+    },
+    "datePublished": {
+        "@language": "en-US",
+        "@value": "2015-10-06 16:58:57"
+    },
+    "image": {
+        "@id": "http://disneymeals.me/wp-content/uploads/2015/10/IMG_20151006_210115.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "4 large eggs"
+        },
+        {
+            "@language": "en-US",
+            "@value": "5 Tbsp (70 g) unsalted butter (if using salted butter, omit the pinch of salt), melted"
+        },
+        {
+            "@language": "en-US",
+            "@value": "A large, high-sided roasting pan"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pinch salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pinch of salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 pounds cream cheese (900 g), room temperature"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/3 cup powdered sugar (35 g)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups sour cream (475 ml)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup granulated sugar (100 g)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2/3 cup heavy whipping cream (160 ml)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "12 ounces (340 g) fresh raspberries"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1/2 cup water (120 ml)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Tbsp sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "9-inch, 2 3/4-inch high springform pan"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Heavy-duty, 18-inch wide aluminum foil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2/3 cup sour cream (160 ml)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 teaspoons vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 cups (475 ml) of Graham cracker crumbs (from a little less than 2 packages Graham crackers"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 1/3 cup granulated sugar (270 g)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon vanilla"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Cheesecake"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "30 min "
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\tPrepare the springform pan so that no water leaks into it while cooking.\t\t\t\tPlace a large 18-inch by 18-inch square of heavy duty aluminum foil on a flat surface.\t\t\t\tPlace the springform pan in the middle of the foil.\t\t\t\tGently fold up the sides of the foil around the pan.\t\t\t\tMake sure to do this gently so that you don't create any holes in the foil.\t\t\t\tIf there are any holes, water will get into the pan and ruin the crust.\t\t\t\tPress the foil around the edges of the pan.\t\t\t\tPlace a second large square of foil underneath the pan, and repeat, gently folding up the sides of the foil around the pan and pressing the foil against the pan.\t\t\t\tTo be triply safe, repeat with a third layer of heavy duty foil.\t\t\t\tGently crimp the top of the foil sheets around the top edge of the pan.\t\t\t\tPreheat oven to 350\u00b0F, with rack in lower third of oven.\t\t\t\tPulse the graham crackers in a food processor or blender until finely ground. (Or use pre-crushed graham cracker crumbs)\t\t\t\tPut in a large bowl, and stir in the sugar and salt.\t\t\t\tUse your (clean) hands to stir in the melted butter.\t\t\t\tPut all but 1/4 cup of the graham cracker crumbs in the bottom of the springform pan. (Save the remaining 1/4 cup for if you happen to have any holes that need to be filled in, either while you are making the crust, or after the cake has cooked and you've unmolded it.)\t\t\t\tGently press down on the crumbs using your fingers, until the crumbs are a nice even layer at the bottom of the pan, with maybe just a slight rise along the inside edges of the pan.\t\t\t\tBe careful as you do this, as not to tear the aluminum foil.\t\t\t\tPlace in the oven for 10 minutes.\t\t\t\tRemove from the oven and let cool. Reduce the oven temperature to 325\u00b0F.\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\tPlace sour cream in a medium sized bowl, stir in the powdered sugar and vanilla, until smooth.\t\t\t\tChill until you are ready to serve the cake.\t\t\t\tNote that this recipe produces enough sour cream topping for a thick topping and some extra to spoon over individual pieces of cheesecake, if desired. If you would like a thinner layer of topping and no extra, reduce the sour cream topping ingredients in half.\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\tPlace raspberries, sugar, and water in a small saucepan.\t\t\t\tUse a potato masher to mash the raspberries.\t\t\t\tHeat on medium, whisking, about 5 minutes, until the sauce begins to thicken.\t\t\t\tRemove from heat. Let cool.\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\tCut the cream cheese into chunks and place in the bowl of an electric mixer, with the paddle attachment. (We softened the cream cheese in the microwave at a low setting, stirring every 45 seconds)\t\t\t\tMix on medium speed for 4 minutes until smooth, soft and creamy.\t\t\t\tAdd the sugar, beat for 4 minutes more.\t\t\t\tAdd the salt and vanilla, beating after each addition.\t\t\t\tAdd the eggs, one at a time, beating for one minute after each addition.\t\t\t\tAdd the sour cream, beat until incorporated.\t\t\t\tAdd the heavy cream, beat until incorporated.\t\t\t\tRemember to scrape down the sides of the mixer bowl, and scrape up any thicker bits of cream cheese that have stuck to the bottom of the mixer that paddle attachment has failed to incorporate.\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\tRemove the cake from the refrigerator.\t\t\t\tRemove the foil from the sides of the pan, and place the cake on your cake serving dish.\t\t\t\tRun the side of a blunt knife between the edge of the cake and the pan.\t\t\t\tYou can use a hair dryer to heat the sides of the pan to make it easier to remove.\t\t\t\tOpen the springform latch and gently open the pan and lift up the sides.\t\t\t\tSpread the top with the sour cream mixture.\t\t\t\tServe plain or drizzled with raspberry sauce.\t\t\t"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\t\t\t\tPlace the foil-wrapped springform pan in a large, high-sided roasting pan. (We didn't have a pan that big so we used a cookie sheet and a lot of aluminum foil to make walls)\t\t\t\tPrepare 2 quarts of boiling water.\t\t\t\tPour the cream cheese filling into the springform pan, over the graham cracker bottom layer.\t\t\t\tSmooth the top with a rubber spatula.\t\t\t\tPlace the roasting pan with the springform pan in it, in the oven, on the lower rack.\t\t\t\tCarefully pour the hot water into the roasting pan (without touching the hot oven), to create a water bath for the cheesecake, pouring until the water reaches halfway up the side of the springform pan, about 1 1/4 inches. (Alternatively you can add the water before putting the pan in the oven, whichever is easier for you.)\t\t\t\tCook at 325\u00b0F for 1 1/2 hours.\t\t\t\tTurn off the heat of the oven.\t\t\t\tCrack open the oven door 1-inch, and let the cake cool in the oven, as the oven cools, for another hour.\t\t\t\tThis gentle cooling will help prevent the cheesecake surface from cracking.\t\t\t\tCover the top of the cheesecake with foil, so that it doesn't actually touch the cheesecake.\t\t\t\tChill in the refrigerator for a minimum of 4 hours, or overnight.\t\t\t"
+        }
+    ],
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "5 hr "
+    },
+    "@id": "http://example.org/recipe"
+}

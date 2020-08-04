@@ -1,0 +1,19 @@
+{
+    "@type": "Recipe",
+    "datePublished": {
+        "@language": "da",
+        "@value": "2018-05-27T12:36:45"
+    },
+    "image": {
+        "@id": "https://www.rosekylling.dk/opskrifter/1213/stegte-underlar-varm-bonnesalat-og-cremet-makaronisalat//Static/Images/ffffff-0.png?preset=roseRecipe"
+    },
+    "name": {
+        "@language": "da",
+        "@value": "Stegte underl\u00e5r, varm b\u00f8nnesalat og cremet makaronisalat"
+    },
+    "recipeInstructions": {
+        "@language": "da",
+        "@value": "\n                                \nMakaroni salat: Kog makar\u00adonien, skyld den med koldt vand og s\u00e6t til side.\u00a0\nHak chili og koriander fint og vend det med creme fraiche og mayonnaise. Smag til med limesaft, salt og peber.\nSk\u00e6r peberfrugt, jalape\u00d1o og l\u00f8g i sm\u00e5 tern.\nBland makaroni, dressing, gr\u00f8ntsager og majs. S\u00e6t p\u00e5 k\u00f8l.\nKylling: Kom l\u00e5rene i en bradepande, h\u00e6ld lidt olie over og krydr med allround krydderi.\nSteg dem i ovnen ved 180\u00b0 i cirka 40 minutter, indtil de er gennem\u00adstegte.\nB\u00f8nnesalat: Sigt vandet fra b\u00f8nnerne og skyl dem.\nVarm en lille pande op, kom olie p\u00e5 panden og derefter b\u00f8nnerne.\nPres hvidl\u00f8g i panden og drys med salt og peber. Steg b\u00f8nnerne ved h\u00f8j varme, i cirka 6 minutter, imens du hele tiden r\u00f8r.\u00a0\nDe sidste minutter tils\u00e6ttes grofthakket persille og citronsaft presses over.\nServeres straks.\n\n                            "
+    },
+    "@id": "http://example.org/recipe"
+}

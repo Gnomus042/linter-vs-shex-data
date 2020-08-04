@@ -1,0 +1,32 @@
+{
+    "@type": "Recipe",
+    "cookTime": {
+        "@language": "en-US",
+        "@value": "12 minutes"
+    },
+    "ingredients": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "en-US",
+        "@value": "Green Mint Chai Tea Recipe"
+    },
+    "prepTime": {
+        "@language": "en-US",
+        "@value": "3 minutes"
+    },
+    "recipeInstructions": {
+        "@language": "en-US",
+        "@value": "Null"
+    },
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "3 cups"
+    },
+    "totalTime": {
+        "@language": "en-US",
+        "@value": "15 minutes"
+    },
+    "@id": "http://example.org/recipe"
+}

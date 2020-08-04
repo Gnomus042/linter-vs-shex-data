@@ -1,0 +1,90 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "chef"
+    },
+    "headline": {
+        "@value": "Cheesy burger"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "height": {
+            "@value": "1438"
+        },
+        "url": {
+            "@value": "http://homekonserv.ru/wp-content/uploads/2017/02/burger-cheesy-960x1438.jpg"
+        },
+        "width": {
+            "@value": "960"
+        }
+    },
+    "mainEntityOfPage": {
+        "@value": "Null"
+    },
+    "name": {
+        "@value": "Cheesy burger"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@value": "533"
+        }
+    },
+    "recipeCategory": {
+        "@id": "http://homekonserv.ru/recipe-category/grill/"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "1 jalapeno pepper"
+        },
+        {
+            "@value": "seeded and diced"
+        },
+        {
+            "@value": "1 teaspoon fresh lime juice"
+        },
+        {
+            "@value": "1 cup bottled teriyaki sauce"
+        },
+        {
+            "@value": "6 (5 ounce) mahi mahi fillets"
+        },
+        {
+            "@value": "1 tablespoon chopped fresh cilantro"
+        },
+        {
+            "@value": "2 mangos - peeled"
+        },
+        {
+            "@value": "chopped"
+        },
+        {
+            "@value": "4 green onions"
+        },
+        {
+            "@value": "1 cedar plank"
+        },
+        {
+            "@value": "1 teaspoon hot-pepper sauce"
+        },
+        {
+            "@value": "salt and pepper to taste"
+        },
+        {
+            "@value": "1 teaspoon lemon juice"
+        },
+        {
+            "@value": "2 teaspoons olive oil"
+        },
+        {
+            "@value": "1 teaspoon red pepper flakes"
+        },
+        {
+            "@value": "1/2 teaspoon garlic powder"
+        },
+        {
+            "@value": "1 teaspoon chipotle seasoning"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

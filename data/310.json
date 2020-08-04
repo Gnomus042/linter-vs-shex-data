@@ -1,0 +1,80 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@value": "Melissa King"
+        }
+    },
+    "description": {
+        "@value": "A whole food version of this classic dessert!"
+    },
+    "image": {
+        "@id": "https://mywholefoodlife.com/wp-content/uploads/2014/11/Salted-Caramel-Chocolate-Tarts-My-Whole-Food-Life-copy.jpg"
+    },
+    "ingredients": [
+        {
+            "@value": "  1/3   cup almond milk or milk of choice "
+        },
+        {
+            "@value": "  1 3.5   oz dark chocolate bar "
+        },
+        {
+            "@value": "     homemade vegan sweetened condensed milk  "
+        },
+        {
+            "@value": "  1 1/2   cup  raw pecans  "
+        },
+        {
+            "@value": "  1/2   -3/4 tsp  sea salt  "
+        },
+        {
+            "@value": "  5    medjool dates  (pits removed) "
+        }
+    ],
+    "name": {
+        "@value": "Salted Caramel Chocolate Tarts"
+    },
+    "prepTime": {
+        "@value": "2019-11-23T00:20:00+00:00"
+    },
+    "recipeInstructions": [
+        {
+            "@value": "Once it's smooth, pour it onto the top of the caramel in the tart shells."
+        },
+        {
+            "@value": "Place them in the fridge."
+        },
+        {
+            "@value": "Stir in the sea salt."
+        },
+        {
+            "@value": "In a  food processor , grind up the pecans for a minute. Be careful not to over process them and turn them into pecan butter. Add the dates and pulse a few more times until everything looks like it's starting to clump together."
+        },
+        {
+            "@value": "Cook the vegan sweetened condensed milk down even further so it resembles a caramel."
+        },
+        {
+            "@value": "You can also add a little more coarse ground salt to the top of the chocolate for garnish if you like."
+        },
+        {
+            "@value": "Press the pecan/date mixture into each  tart shell ."
+        },
+        {
+            "@value": "Place the tarts back in the fridge. They should be ready to eat in about 20 minutes."
+        },
+        {
+            "@value": "To make the chocolate, use a double boiler to gently melt the chocolate and the milk together."
+        },
+        {
+            "@value": "Grease your  tart shells  with a little coconut oil."
+        },
+        {
+            "@value": "Pour the mixture into each tart shell and place them back in the fridge."
+        }
+    ],
+    "recipeYield": {
+        "@value": "4 4 inch tarts"
+    },
+    "@id": "http://example.org/recipe"
+}

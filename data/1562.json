@@ -1,0 +1,89 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@value": "4"
+        },
+        "reviewCount": {
+            "@value": "2"
+        },
+        "worstRating": {
+            "@value": "0"
+        }
+    },
+    "author": {
+        "@value": "QuakerOats.ca"
+    },
+    "description": {
+        "@value": "It\u2019s mid\u2011week and everyone\u2019s slowly getting up. But then someone notices the time. That\u2019s when the crazy starts. Socks are missing, teeth need to be brushed and breakfast needs to be on the table in less than ten minutes. That\u2019s when it\u2019s time to harness the deliciousness of bananas and crunchy goodness of pecans and serve up bowls of banana bread oatmeal. Then sit back and watch just how quickly crazy turns into cozy."
+    },
+    "image": {
+        "@value": "https://www.quakeroats.ca/sites/quakeroats.ca/files/Sweet%20and%20Nutty%20Banana%20Bread%20Oatmeal-026-min.jpg"
+    },
+    "keywords": {
+        "@value": "banana, pecans, That&rsquos, breakfast, bread"
+    },
+    "name": {
+        "@value": "Sweet & Nutty Banana Bread Oatmeal"
+    },
+    "recipeCategory": {
+        "@value": "Breakfast"
+    },
+    "recipeCuisine": {
+        "@value": "Canadian"
+    },
+    "recipeIngredient": [
+        {
+            "@value": " Vanilla non\u2011fat yogurt (optional)"
+        },
+        {
+            "@value": " Pecan halves (optional)"
+        },
+        {
+            "@value": " Banana slices (optional)"
+        },
+        {
+            "@value": " 3 tablespoons firmly packed brown sugar"
+        },
+        {
+            "@value": " 2 cups Large Flake Quaker\u00ae Oats or Quick Quaker\u00ae Oats (uncooked)"
+        },
+        {
+            "@value": " 3/4 teaspoon ground cinnamon"
+        },
+        {
+            "@value": " 2 medium\u2011size ripe bananas, mashed (about 1 cup)"
+        },
+        {
+            "@value": " 2 tablespoons coarsely chopped toasted pecans"
+        },
+        {
+            "@value": " 1/4 teaspoon ground nutmeg"
+        },
+        {
+            "@value": "Null"
+        },
+        {
+            "@value": " 3 cups fat\u2011free milk"
+        }
+    ],
+    "recipeInstructions": {
+        "@type": "ItemList"
+    },
+    "step": [
+        {
+            "@id": "_:N2ef1be2033664871af247b5396c6048d"
+        },
+        {
+            "@id": "_:Nb49a7cf25abe46eb8113381aebc6d75f"
+        },
+        {
+            "@id": "_:N56f0b0abe09641869db12cc9510b4a5c"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

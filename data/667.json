@@ -1,0 +1,79 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Naive Cook Cooks"
+    },
+    "image": {
+        "@id": "http://www.naivecookcooks.com/wp-content/uploads/2014/07/Popcorn-Pudding.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "Pinch of salt"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1.5 egg yolk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1.5 Tbsp cold unsalted butter, cut in pieces"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tsp corn starch"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup plus 2 Tbsp whole milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup plus 2 Tbsp heavy cream"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u215b tsp pure vanilla extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 Tbsp sugar (I used organic cane sugar)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2.5 Tbsp corn kernels"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Popcorn Vanilla Pudding"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "In a pot, add whole milk, heavy cream,sugar and salt. Bring to a boil over moderate heat stirring until all the sugar dissolves. Keep it aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "I another deep pot, heat olive oil. To it add corn kernels. Cover with a lid and once you hear popping of kernels, start to shake the pot keeping it covered and shaking it on top of the flame so all the kernels get popped properly and do not burn. Once you hear popping stop take it off heat."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add all but \u00bd cup popped corn to the above milk mix. Cover and let it sit for good 10-15 mins to let the corn flavor infuse the milk. Strain the milk mixture and discard the solids. Bring it to a boil over moderate heat by stirring occasionally. In a bowl, mix egg yolks and corn starch and whisk until it gets smooth.Add very very slowly \u00bc cup of this warmed milk to the egg mix with CONSTANT stirring. This is very important- to add hot milk very slowly and keep stirring vigorously or you will get cooked eggs which you don't want!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Transfer this mix from the bowl to the pot of milk and keep stirring constantly. Cook it on low-moderate heat for next 2-3 mins. You will see it getting thick and it will coat the back of your spatula. Take it off heat. Add vanilla and butter. Whisk until butter melts. Transfer it to a dish and cover using a plastic wrap on top touching the top of the pudding. Chill for few hours. When chilled and ready to serve, serve garnished with leftover popped corn."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "Serves 2"
+    },
+    "@id": "http://example.org/recipe"
+}

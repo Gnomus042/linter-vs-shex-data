@@ -1,0 +1,65 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "it",
+        "@value": "Margherita"
+    },
+    "image": {
+        "@id": "https://www.adessocucina.com/immagini_cms/2011041118020841104083_1.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "it",
+            "@value": "3 uova\n"
+        },
+        {
+            "@language": "it",
+            "@value": "1 kg erbette\n"
+        },
+        {
+            "@language": "it",
+            "@value": "sale\n"
+        },
+        {
+            "@language": "it",
+            "@value": "30 g burro\n"
+        },
+        {
+            "@language": "it",
+            "@value": "fette di pancarr\u00ef\u00bf\u00bd\n"
+        },
+        {
+            "@language": "it",
+            "@value": "60 g speck in un unica fetta\n"
+        },
+        {
+            "@language": "it",
+            "@value": "poco latte"
+        },
+        {
+            "@language": "it",
+            "@value": "120 g provolone dolce\n"
+        }
+    ],
+    "name": {
+        "@language": "it",
+        "@value": "Terrina di erbette e speck"
+    },
+    "prepTime": {
+        "@language": "it",
+        "@value": "PT25M"
+    },
+    "recipeCategory": {
+        "@language": "it",
+        "@value": "Contorni"
+    },
+    "recipeInstructions": {
+        "@language": "it",
+        "@value": "\nPreparazione della ricetta \"Terrina di erbette e speck\":\n\n\nFate lessare le erbette in acqua bollente salata per 2/3 minuti.\nScolatele e strizzatele bene. Poi tagliatele grossolanamente.\n\nTagliate a dadini lo speck e fatelo rosolare in una padella antiaderente senza condimenti.\n\nUnite in una ciotola le erbette, lo speck, i tuorli d'uovo e il formaggio taglaito a listarelle sottili.\nIn un'altra ciotola montate a neve gli albumi d'uovo e poi uniteli al composto.\n\nPrendete una terrina da forno rettangolare, imburratela e foderate tutto intorno con le fette di pancarr\u00ef\u00bf\u00bd  e poi bagnate  leggermente spruzzandole con il latte (cosi' rimangono morbide ma \u00ef\u00bf\u00bd facoltativo, se vi piace piu' secco non mettetelo).\n\nA questo punto riempite la vostra teglia con il composto.\n\nMettete in forno preriscaldato a 190\u00ef\u00bf\u00bd per circa 10 minuti.\n\nNote: Buona sia calda che fredda, se volete renderla piu' carina mettete altre fette di pancarr\u00ef\u00bf\u00bd  inserendole tra le verdure per renderla piu' divertente... "
+    },
+    "thumbnailUrl": {
+        "@language": "it",
+        "@value": "https://www.adessocucina.com/immagini_cms/2011041118020841104083_0.jpg"
+    },
+    "@id": "http://example.org/recipe"
+}

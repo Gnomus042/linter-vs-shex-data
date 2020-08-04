@@ -1,0 +1,87 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "For My Family Nutrition"
+    },
+    "cookTime": {
+        "@value": "PT60M"
+    },
+    "datePublished": {
+        "@value": "Null"
+    },
+    "description": {
+        "@value": "When I was\u00a0pregnant with my 1st child, Austin, I instantly craved chilli. Literally the night my husband and I found out we were pregnant, I made my first batch. I found this odd, since I rarely ate chilli and had never made it before. In hindsight, I believe it was my body\u2019s way of telling me I needed more iron and folic acid. Almost two years and dozens of modifications later, I think I have mastered the art of chilli. It has become a weekly staple in our house and my husband\u2019s favourite dish. I not only enjoy the act of cooking chilli, there is just something about stirring a big pot of savoury goodness on the stove that soothes the soul, but I love that one bowl is equivalent to a balanced meal, loaded with dozens of vitamins and minerals and it means leftovers for tomorrow\u2019s lunch and dinner!\n \n"
+    },
+    "image": {
+        "@id": "https://mouthsofmums.com.au/wp-content/uploads/2016/04/21/mums_infamous_chilli.jpg"
+    },
+    "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": {
+            "@value": "http://schema.org/CommentAction"
+        },
+        "userInteractionCount": {
+            "@value": "17"
+        }
+    },
+    "name": {
+        "@value": "A Mum\u2019s infamous chilli"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "Optional Topping Low Fat Shredded Cheese"
+        },
+        {
+            "@value": "1 Red Capsicum (Red Bell Pepper), Diced"
+        },
+        {
+            "@value": "435g Old El Paso Refried Beans"
+        },
+        {
+            "@value": "800g Canned Diced Tomatoes"
+        },
+        {
+            "@value": "1 kilo Extra Lean Beef Mince"
+        },
+        {
+            "@value": "To Taste Garlic Salt"
+        },
+        {
+            "@value": "To Taste Paprika Ground"
+        },
+        {
+            "@value": "To Taste Cumin Seeds Ground"
+        },
+        {
+            "@value": "Optional Topping Tostado Corn Chips or Tortillas"
+        },
+        {
+            "@value": "To Taste Worcheshire Sauce"
+        },
+        {
+            "@value": "To Taste Chilli Ground"
+        },
+        {
+            "@value": "Optional Topping Low Fat Sour Cream"
+        },
+        {
+            "@value": "120g Baby Spinach Leaves"
+        },
+        {
+            "@value": "Optional Topping Jalapenos"
+        },
+        {
+            "@value": "To Taste Bay Leaves"
+        },
+        {
+            "@value": "2 Zucchini, Diced"
+        },
+        {
+            "@value": "1 Onion, Diced"
+        }
+    ],
+    "recipeInstructions": {
+        "@value": "In a large stock pot, start by browning extra lean beef mince with diced onion. To keep the meat moist, add 1 cup water and several splashes of worcheshire sauce. Then sprinkle meat and onion with generous portion of cumin, paprika, chilli (modify as needed) and garlic salt.Once browned, add diced zucchini, capsicum and tomatoes. Sprinkle additional cumin, paprika and chilli to the mix. Allow to simmer for a few minutes then stir in refried beans and baby spinach leaves. Place 2 bay leaves in chilli pot, cover and let simmer for 45 minutes, stirring regularly.Portion into bowls, top with low fat shredded cheese, sour cream and jalapenos (optional) and serve with Tostado corn chips or tortilla shells."
+    },
+    "@id": "http://example.org/recipe"
+}

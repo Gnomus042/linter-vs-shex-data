@@ -1,0 +1,41 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {
+            "@language": "es-ES",
+            "@value": "4.5"
+        },
+        "reviewCount": {
+            "@language": "es-ES",
+            "@value": "12 "
+        }
+    },
+    "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2017-08-26"
+    },
+    "description": {
+        "@language": "es-ES",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "https://www.factorgastronomic.com/wp-content/uploads/2017/08/truita-de-carbasso-i-ceba.jpg"
+    },
+    "name": {
+        "@language": "es-ES",
+        "@value": "Tortilla de calabac\u00edn y cebolla"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "es-ES",
+            "@value": "Null"
+        }
+    },
+    "recipeIngredient": {
+        "@language": "es-ES",
+        "@value": "Null"
+    },
+    "@id": "http://example.org/recipe"
+}

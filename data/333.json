@@ -1,0 +1,69 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "cannedfood"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2013-06-18"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Serve warm with watercress accompanied by mango or lime chutney."
+    },
+    "image": {
+        "@id": "https://www.bbcgoodfood.com/recipes/2148643/spiced-mackerel-empanadas///www.bbcgoodfood.com/sites/default/files/styles/bbcgf_recipe/public/user-recipe/Spiced%20mackerel%20empanadas_4.jpg?itok=qV4Bee7e"
+    },
+    "keywords": {
+        "@language": "en",
+        "@value": "Easy"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Spiced Mackerel Empanadas"
+    },
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Mexican"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "On a lightly floured surface, roll out the pastry to \u00c2\u00bdcm thick. Using a 15cm (6\u00e2\u0080\u009d) saucer cut out ten rounds. Whisk together the egg, egg yolk, salt and sugar for the glaze and set to one side."
+        },
+        {
+            "@language": "en",
+            "@value": "In a bowl, combine the mackerel fillets with the spring onions, borlotti beans, lime juice and zest, and curry paste. Season with black pepper."
+        },
+        {
+            "@language": "en",
+            "@value": "Preheat the oven to Gas mark 6, 200\u00c2\u00baC, 400\u00c2\u00baF."
+        },
+        {
+            "@language": "en",
+            "@value": "Bake in the oven for 15-20 minutes until golden brown. Serve warm."
+        },
+        {
+            "@language": "en",
+            "@value": "To make each empanada, place a dessertspoon of the fish mixture on one half of each pastry round. Dampen the edges of the pastry with water and fold over to form a turnover, sealing the edges together. Gently bend each filled pastry to form a crescent shape."
+        },
+        {
+            "@language": "en",
+            "@value": "Place the empanadas on a baking tray and brush with the glaze."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Serves 1 - 10 Portions"
+    },
+    "sourceOrganization": {
+        "@language": "en",
+        "@value": "BBC Good Food"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT25M"
+    },
+    "@id": "http://example.org/recipe"
+}

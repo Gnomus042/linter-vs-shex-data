@@ -1,0 +1,38 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "schema.orgAggregateRating"
+    },
+    "bestRating": {
+        "@language": "fr",
+        "@value": "5"
+    },
+    "cookTime": {
+        "@language": "fr",
+        "@value": "15min"
+    },
+    "image": {
+        "@id": "http://www.yanncook.com/recette_gratin-de-poireaux_48156.html/img/miniature_recette/_defaut-cuisineaz.jpg"
+    },
+    "name": {
+        "@language": "fr",
+        "@value": "Gratin de poireaux"
+    },
+    "prepTime": {
+        "@language": "fr",
+        "@value": "10min"
+    },
+    "ratingCount": {
+        "@language": "fr",
+        "@value": "3"
+    },
+    "ratingValue": {
+        "@language": "fr",
+        "@value": "2"
+    },
+    "totalTime": {
+        "@language": "fr",
+        "@value": "25min"
+    },
+    "@id": "http://example.org/recipe"
+}

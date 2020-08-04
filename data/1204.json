@@ -1,0 +1,30 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "he",
+        "@value": "vyeofar Light control Store"
+    },
+    "brand": {
+        "@language": "he",
+        "@value": "brandnewmedia.asia"
+    },
+    "image": {
+        "@language": "he",
+        "@value": "https://i0.wp.com/ae01.alicdn.com/kf/HTB1vHw4aPDuK1RjSszdq6xGLpXaz/\u05d7\u05d3\u05e9-led-\u05d3\u05d9\u05de\u05e8-220-V-LED-\u05e7\u05d9\u05e8-\u05d4\u05e8-\u05d9\u05d3\u05e0\u05d9-\u05d9\u05d3\u05d9\u05ea-\u05e4\u05e0\u05dc-4-\u05d0\u05d6\u05d5\u05e8-\u05d8\u05e8\u05d9\u05d0\u05e7-\u05d3\u05d9\u05de\u05e8-110.jpg_350x350.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "he",
+            "@value": "2098-12-31"
+        },
+        {
+            "@language": "he",
+            "@value": "32970540594"
+        }
+    ],
+    "name": {
+        "@language": "he",
+        "@value": "\u05d7\u05d3\u05e9 led \u05d3\u05d9\u05de\u05e8 220 V LED \u05e7\u05d9\u05e8 \u05d4\u05e8 \u05d9\u05d3\u05e0\u05d9 \u05d9\u05d3\u05d9\u05ea \u05e4\u05e0\u05dc 4 \u05d0\u05d6\u05d5\u05e8 \u05d8\u05e8\u05d9\u05d0\u05e7 \u05d3\u05d9\u05de\u05e8 110 V-240 V \u05e2\u05de\u05e2\u05d5\u05dd \u05e2\u05d1\u05d5\u05e8 led \u05de\u05e0\u05d5\u05e8\u05ea \u05de\u05ea\u05d2 \u05d9\u05d3\u05d9\u05ea R6 \u05de\u05e8\u05d7\u05d5\u05e7"
+    },
+    "@id": "http://example.org/recipe"
+}

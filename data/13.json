@@ -1,0 +1,56 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@id": "http://devbakespace.bakespace.com/recipes/detail/Oh-my%21-Pie-Crust/43987//members/profile/bobs1joy/31157/"
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "12 - 15 minutes"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "These days, a recipe using animal fat in our diets is considered unhealthy and \"just wrong\".  However, this recipe for pie crust is the best I have ever used.  Since pie is not a food our household consumes very frequently, we allow it in our \"diets\" as a festive, celebratory food.  This really will produce the flakiest and most tender pie crust you have ever made and/or eaten.  It works equally well for desserts and for savory dishes.  The only difference between the two is 2 Tablespoons of sugar.\n"
+    },
+    "image": {
+        "@id": "http://devbakespace.bakespace.com/recipes/detail/Oh-my%21-Pie-Crust/43987//images/large/default_recipe.gif"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "Oh my! Pie Crust"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "20 - 30 minutes"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "2 T. sugar*\n"
+        },
+        {
+            "@language": "en",
+            "@value": "for one 10-inch, deep pie dish; or two 9-inch pie pans; or one 9-inch double-crust pie\n"
+        },
+        {
+            "@language": "en",
+            "@value": "1/4 C. icy cold water"
+        },
+        {
+            "@language": "en",
+            "@value": "2/3 C. lard - spread onto wax paper and frozen solid\n"
+        },
+        {
+            "@language": "en",
+            "@value": "2 C. flour\n"
+        },
+        {
+            "@language": "en",
+            "@value": "Null"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp. salt\n"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

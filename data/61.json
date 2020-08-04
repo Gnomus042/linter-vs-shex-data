@@ -1,0 +1,31 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "pl-pl",
+            "@value": "5"
+        },
+        "itemreviewed": {
+            "@language": "pl-pl",
+            "@value": "Zupa z borowik\u00f3w "
+        },
+        "ratingValue": {
+            "@language": "pl-pl",
+            "@value": "4.65"
+        }
+    },
+    "datePublished": {
+        "@language": "pl-pl",
+        "@value": "\n\n\n\t \n\tZupa z borowik\u00f3w \t\n\n\n\n\n\n\n\n\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\u00ab poprz.\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tnast. \u00bb\n\t\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t16600\n\t\t\tcom_content.article\n\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\u00a0\n\t\t\t\t\t\t1\n\t\t\t\t\t\t2\n\t\t\t\t\t\t3\n\t\t\t\t\t\t4\n\t\t\t\t\t\t5\n\t\t\t\t\t\n\t\t\t\t(Oddano 129 g\u0142os\u00f3w z \u015bredni\u0105 4.65 z 5)Zupa z borowik\u00f3w 4.65 out of 5"
+    },
+    "name": {
+        "@language": "pl-pl",
+        "@value": "\n\tZupa z borowik\u00f3w \t"
+    },
+    "reviewCount": {
+        "@language": "pl-pl",
+        "@value": "129"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,137 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@value": "Whats4Chow"
+    },
+    "description": {
+        "@value": "Bolognese is an all-time favorite, however the real thing is not simply fried ground beef and tomato, and this fact is what separates the men from the boys. True bolognese has an incredible depth of flavor, aroma and texture..... and this is how to do it."
+    },
+    "name": {
+        "@value": "Bolognese - How to Make the Best Bolognese Ever - The Real Deal Bolognese Recipe!!!"
+    },
+    "recipeCategory": {
+        "@value": "Sauce"
+    },
+    "recipeCuisine": {
+        "@value": "Italian"
+    },
+    "recipeIngredient": [
+        {
+            "@value": "2.5ml Cracked black pepper"
+        },
+        {
+            "@value": "7.5ml Dried sage"
+        },
+        {
+            "@value": "Pasta of your choice for serving"
+        },
+        {
+            "@value": "250ml Dry white wine"
+        },
+        {
+            "@value": "5ml Salt"
+        },
+        {
+            "@value": "450g Lean ground beef"
+        },
+        {
+            "@value": "2.5ml Dried chilli flakes"
+        },
+        {
+            "@value": "45ml Olive oil"
+        },
+        {
+            "@value": "10ml Garlic (4 cloves)"
+        },
+        {
+            "@value": "800g Italian style crushed tomatoes"
+        },
+        {
+            "@value": "200g Streaky bacon"
+        },
+        {
+            "@value": "225g Lean pork shoulder"
+        },
+        {
+            "@value": "250ml Beef stock"
+        },
+        {
+            "@value": "1 Large carrot"
+        },
+        {
+            "@value": "1 Medium onion"
+        },
+        {
+            "@value": "60g Butter"
+        },
+        {
+            "@value": "250ml Full cream milk"
+        },
+        {
+            "@value": "1 Celery stalk"
+        },
+        {
+            "@value": "1.25ml Ground nutmeg"
+        },
+        {
+            "@value": "15ml Dried oregano"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "@value": "Turn the heat down to a simmer and add the mixed herbs and spices. Stir this in thoroughly and allow this simmer gently for 20 minutes."
+        },
+        {
+            "@value": "In addition, you need an 800g can of Italian style crushed tomatoes, and 250ml or a cup of full cream milk."
+        },
+        {
+            "@value": "Measure out 45ml or 3 tablespoons of olive oil and 60g of butter."
+        },
+        {
+            "@value": "Bring this to a boil and continue cokoing until the liquid has almost reduced to nothing."
+        },
+        {
+            "@value": "Thanks for joining us today, please subscribe to our channel, give us a thumbs up, and share this with your family and friends, and we'll see you again tomorrow."
+        },
+        {
+            "@value": "Fry these until the onion is translucent.... about 6 to 8 minutes."
+        },
+        {
+            "@value": "Finely chop 200g of streaky bacon and 225g of lean pork shoulder and place this in a mixing bowl along with 450g of lean ground beef. Massage these together until completely combined."
+        },
+        {
+            "@value": "Combine 250ml of beef stock with 250ml of dry white wine and put this aside."
+        },
+        {
+            "@value": "Increase the heat to high and pour in the combined beef stock and wine."
+        },
+        {
+            "@value": "Pour in the crushed tomato, raise the heat to a boil, reduce the heat to a low simmer and allow this to simmer away gently for 2 to 4 hours, partially covered. Give the pot a stir every so often, and add a dash of wine every time the mixture gets too dry. The 2 to 4 hours simmering time is up to you. 2 hours being the minimum, however the longer you simmer the deeper the flavor and texture of the bolognese will become."
+        },
+        {
+            "@value": "About 10 minutes before serving, pour in the milk and continue cooking until the sauce reaches your preferred consistency and you're done."
+        },
+        {
+            "@value": "Serve the bolognese with the pasta of your choice topped with a generous dose of finely shredded Parmesan cheese and enjoy."
+        },
+        {
+            "@value": "Combine 5ml or a teaspoon of salt with 2.5ml or a half teaspoon of cracked black pepper, 7.5ml or one and a half tespoon of dried sage, 15ml or a tablespoon of dried oregano, 2.5ml of dried chilli flakes and 1.25ml or a quarter teaspoon of ground nutmeg, and put this aside."
+        },
+        {
+            "@value": "Add the three ground meats and fry these until lightly browned.... this will take another 6 to 8 minutes."
+        },
+        {
+            "@value": "This recipe will make 4 to 6 portions, and can be scaled up to any size with the limiting factor being the size of your pot or pan."
+        },
+        {
+            "@value": "To start, finely chop a celery stalk, a large carrot, a medium onion and 4 cloves of garlic."
+        },
+        {
+            "@value": "Heat the butter and oil over medium high heat until bubbling and add the finely chopped onion, garlic, celery and carrot."
+        }
+    ],
+    "recipeYield": {
+        "@value": "4-6"
+    },
+    "@id": "http://example.org/recipe"
+}

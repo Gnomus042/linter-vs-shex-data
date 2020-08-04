@@ -1,0 +1,75 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en",
+        "@value": "Del Monte"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2015-04-09"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "\n                            \n\t\t\t\t\t\t\t  Sweet, creamy centers in crisp, flaky crusts are topped with colorful, tangy fruit. No one will guess that these mini dessert tarts are so quick to assemble from canned fruit you have in your pantry.\n\n\n\t\t\t\t\t\t"
+    },
+    "image": [
+        {
+            "@language": "en",
+            "@value": "https://www.delmonte.com/sites/default/files/festive-fruit-tartlets.jpg"
+        },
+        {
+            "@id": "https://www.delmonte.com/recipes/collections/spring-summer-celebrations/festive-fruit-tartlets//sites/default/files/festive-fruit-tartlets.jpg"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Festive Fruit Tartlets"
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "Prep time   15 min.\n"
+    },
+    "recipeIngredient": [
+        {
+            "@language": "en",
+            "@value": "mint leaves, optional"
+        },
+        {
+            "@language": "en",
+            "@value": "15 frozen phyllo shells, thawed"
+        },
+        {
+            "@language": "en",
+            "@value": "4 oz. neufchatel"
+        },
+        {
+            "@language": "en",
+            "@value": "1 can (8.25oz.) Del Monte\u00ae Mandarin Oranges in Light Syrup, well drained"
+        },
+        {
+            "@language": "en",
+            "@value": "1 can (8oz.) Del Monte\u00ae Pineapple Tidbits in 100% Juice, well drained"
+        },
+        {
+            "@language": "en",
+            "@value": "2 Tbsps. sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "1 tsp. vanilla extract"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "en",
+        "@value": "\n\t\t\t\t\t\t    Place cream cheese in a small microwave-safe bowl. Microwave on HIGH 20 to 30 seconds or until softened.\n    Stir in sugar and vanilla until well blended.\n    Spoon about 2 tsp. cream cheese mixture in each of the phyllo shells. Top with oranges and pineapple. Serve immediately. Garnish with mint, if desired.\n\n\t\t\t\t\t"
+    },
+    "recipeYield": {
+        "@language": "en",
+        "@value": "Serves   15\n"
+    },
+    "url": {
+        "@language": "en",
+        "@value": "https://www.delmonte.com/recipes/collections/spring-summer-celebrations/festive-fruit-tartlets"
+    },
+    "@id": "http://example.org/recipe"
+}

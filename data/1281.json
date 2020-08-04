@@ -1,0 +1,123 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Naive Cook Cooks"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Delicious baked peppers filled with meaty-cheesy filling!"
+    },
+    "image": {
+        "@id": "http://www.naivecookcooks.com/wp-content/uploads/2014/11/stuffed-bell-peppers-7title.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "1 tsp olive oil"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup, chopped onion"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 garlic cloves, chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp red chilli flakes"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 chicken sausage, chopped fine (I used spicy jalapeno chicken sausage but you can use basically any kind of meat you want. You can also replace sausage with ground meat BUT remember to season it really well while cooking.)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tomatoes, chopped"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 cup red wine (I used moscato)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup uncooked quinoa"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup mozzarella, shredded"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 large bell peppers (I used one each of red, yellow and orange but you can use any color you prefer)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup finely chopped kale (You can use any green such as spinach, collard greens, etc)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Salt to taste"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Black Pepper to taste"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Sausage, Kale & Quinoa Stuffed Peppers"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "Add quinoa and stir again to make sure everything gets mixed up properly."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a microwave safe bowl, add \u00bd cup water. Place bell peppers (head chopped off, cleaned from inside) cut side up and sprinkle with some salt. Cover with a plastic wrap and microwave for 5 mins. Once done, uncover and take them out of the bowl."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Meanwhile cook quinoa as per package directions. Keep it aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add sausage or any meat you are using. Saute well until meat starts to brown."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a skillet, add oil. Once hot, add garlic and onions. Saute until onions are softened."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a baking pan, arrange all the bell peppers. Stuff them up with 1 tbsp cheese first in each one of them and then with the filling. Make sure filling is upto your taste as filling is what's going to make these peppers shine!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Serve with rice, as a side dish or make a meal out of it."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add chopped kale and stir. Add salt, black pepper and chilli flakes. Cook for another 5 minutes until kale wilts a bit."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Cover with some more cheese. Close the lid and bake them in a 400F oven for 10-15 minutes or until tender."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Pre heat oven to 400F."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add wine and continue cooking for another 5-7 minutes. Taste and adjust seasoning if needed. Turn off the gas."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Add tomatoes and stir. Cook for 5 minutes."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

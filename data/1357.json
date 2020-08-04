@@ -1,0 +1,111 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "en-US",
+        "@value": "Crystal"
+    },
+    "description": {
+        "@language": "en-US",
+        "@value": "Soft and chewy cookies made with wholesome ingredients in under 20 minutes. Perfect for a healthier sweet craving."
+    },
+    "image": {
+        "@id": "http://crystalhiggins.com/wp-content/uploads/2018/01/IMG_2593-e1515615402285-1024x1024.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u2153 - \u00bd cup raisins, soaked"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup coconut oil or butter"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 cup oats"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup coconut sugar **"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 egg ***"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u2153 cup chocolate chips, optional but recommended"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 Tbsp molasses"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd tsp baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup whole wheat or spelt flour *"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tsp vanilla"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 tsp cinnamon"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Classic Oatmeal Raisin Cookies"
+    },
+    "recipeCategory": {
+        "@language": "en-US",
+        "@value": "Cookies"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "In a large mixing bowl, add the dry ingredients: oats, flour, cinnamon, baking soda and coconut sugar."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Make a hole in the middle and add the wet ingredients: coconut oil, vanilla, egg, molasses"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Stir until all the ingredients are mixed."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Measure out \u00bd cup raisins and place in a bowl with warm water to moisten and plump up!"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Line a baking sheet with parchment paper and heat oven to 350 F"
+        },
+        {
+            "@language": "en-US",
+            "@value": "Fold in the raisins and chocolate chips."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Once all the batter has been rolled into cookies on the parchment paper sheet, flatten each ball with your hand. Ensure there is enough room between the cookies as they will spread in the oven."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Take a heaping Tbsp measure or cookie dough scoop and roll into balls."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Enjoy!"
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "12 cookies"
+    },
+    "@id": "http://example.org/recipe"
+}

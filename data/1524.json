@@ -1,0 +1,268 @@
+{
+    "@type": "Recipe",
+    "accountablePerson": {
+        "@language": "en",
+        "@value": "BBC Good Food"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "174"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4.62069"
+        },
+        "worstRating": {
+            "@language": "en",
+            "@value": "1"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": {
+            "@language": "en",
+            "@value": "Good Food"
+        }
+    },
+    "cookTime": {
+        "@language": "en",
+        "@value": "PT25M"
+    },
+    "datePublished": {
+        "@language": "en",
+        "@value": "2012-02-01"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Want a curry without too many\u00a0calories? Use\u00a0fat-free Greek yogurt instead of cream for a\u00a0healthy\u00a0korma that will give your local takeaway a run for its money"
+    },
+    "image": {
+        "@id": "https://www.bbcgoodfood.com/recipes/chicken-korma///www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1081535_11.jpg?itok=O3B-UJr3"
+    },
+    "ingredients": [
+        {
+            "@language": "en",
+            "@value": "\u00bc tsp golden caster sugar"
+        },
+        {
+            "@language": "en",
+            "@value": "4 tbsp sultanas"
+        },
+        {
+            "@language": "en",
+            "@value": "2 garlic cloves, roughly chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "thumb-sized piece ginger, roughly chopped Ginger jin-jerMainly grown in Jamaica, Africa, India, China and Australia, ginger is the root of the plant. It\u2026 "
+        },
+        {
+            "@language": "en",
+            "@value": "4 tbsp korma paste"
+        },
+        {
+            "@language": "en",
+            "@value": "50g ground almonds, plus extra to serve (optional)"
+        },
+        {
+            "@language": "en",
+            "@value": "150g pot 0% fat Greek yogurt"
+        },
+        {
+            "@language": "en",
+            "@value": "small bunch coriander, chopped"
+        },
+        {
+            "@language": "en",
+            "@value": "400ml chicken stock"
+        },
+        {
+            "@language": "en",
+            "@value": "1 onion, chopped Onion un-yunOnions are endlessly versatile and an essential ingredient in countless recipes. Native to Asia\u2026 "
+        },
+        {
+            "@language": "en",
+            "@value": "4 skinless, boneless chicken breasts, cut into bite-sized pieces"
+        }
+    ],
+    "keywords": [
+        {
+            "@language": "en",
+            "@value": "Freezable"
+        },
+        {
+            "@language": "en",
+            "@value": "Everyday cooking"
+        },
+        {
+            "@language": "en",
+            "@value": "Healthy makeover"
+        },
+        {
+            "@language": "en",
+            "@value": "Diet"
+        },
+        {
+            "@language": "en",
+            "@value": "Healthy"
+        },
+        {
+            "@language": "en",
+            "@value": "New Year"
+        },
+        {
+            "@language": "en",
+            "@value": "Quick chicken curry"
+        },
+        {
+            "@language": "en",
+            "@value": "January"
+        },
+        {
+            "@language": "en",
+            "@value": "Light curry"
+        },
+        {
+            "@language": "en",
+            "@value": "Counts as 1 of 5-a-day"
+        },
+        {
+            "@language": "en",
+            "@value": "Low calorie"
+        },
+        {
+            "@language": "en",
+            "@value": "Midweek meal"
+        },
+        {
+            "@language": "en",
+            "@value": "Everyday"
+        },
+        {
+            "@language": "en",
+            "@value": "Low fat curry"
+        },
+        {
+            "@language": "en",
+            "@value": "Curried"
+        },
+        {
+            "@language": "en",
+            "@value": "Coronation chicken"
+        },
+        {
+            "@language": "en",
+            "@value": "Easy"
+        },
+        {
+            "@language": "en",
+            "@value": "Family meal"
+        },
+        {
+            "@language": "en",
+            "@value": "Detox"
+        },
+        {
+            "@language": "en",
+            "@value": "Quick curry"
+        }
+    ],
+    "name": {
+        "@language": "en",
+        "@value": "Chicken korma"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en",
+            "@value": "376"
+        },
+        "carbohydrateContent": {
+            "@language": "en",
+            "@value": "28g"
+        },
+        "fatContent": {
+            "@language": "en",
+            "@value": "11g"
+        },
+        "fiberContent": {
+            "@language": "en",
+            "@value": "3g"
+        },
+        "proteinContent": {
+            "@language": "en",
+            "@value": "40g"
+        },
+        "saturatedFatContent": {
+            "@language": "en",
+            "@value": "1g"
+        },
+        "sodiumContent": {
+            "@language": "en",
+            "@value": "1.1g"
+        },
+        "sugarContent": {
+            "@language": "en",
+            "@value": "26g"
+        }
+    },
+    "prepTime": {
+        "@language": "en",
+        "@value": "PT10M"
+    },
+    "recipeCategory": [
+        {
+            "@language": "en",
+            "@value": "Main course"
+        },
+        {
+            "@language": "en",
+            "@value": "Dinner"
+        }
+    ],
+    "recipeCuisine": {
+        "@language": "en",
+        "@value": "Indian"
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en",
+            "@value": "Put 1 chopped onion, 2 roughly chopped\u00a0garlic cloves and a roughly chopped thumb-sized piece of ginger in a food processor and whizz to a paste."
+        },
+        {
+            "@language": "en",
+            "@value": "Tip the paste into a large high-sided frying pan with 3 tbsp water and cook for 5 mins.\u00a0Add 4 tbsp korma paste and cook for a further 2 mins until aromatic."
+        },
+        {
+            "@language": "en",
+            "@value": "Remove the pan from the heat, stir in a 150g pot Greek yogurt and some seasoning, then scatter over a small bunch of chopped coriander and more ground almonds, if using. Serve with brown or white basmati rice."
+        },
+        {
+            "@language": "en",
+            "@value": "Stir 4 skinless, boneless chicken breasts, cut into bite-sized pieces, into the sauce. Add 50g ground almonds, 4 tbsp sultanas, 400ml chicken stock and \u00bc tsp golden caster sugar."
+        },
+        {
+            "@language": "en",
+            "@value": "Give everything a good mix, then cover and simmer for 10 mins or until the chicken is cooked through."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en",
+        "@value": " Serves 4 "
+    },
+    "sourceOrganization": {
+        "@language": "en",
+        "@value": "BBC Good Food"
+    },
+    "totalTime": {
+        "@language": "en",
+        "@value": "PT35M"
+    },
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,83 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "es",
+            "@value": "5"
+        },
+        "ratingValue": {
+            "@language": "es",
+            "@value": "5"
+        },
+        "reviewCount": {
+            "@language": "es",
+            "@value": "3"
+        }
+    },
+    "datePublished": {
+        "@language": "es",
+        "@value": "9 Octubre 2013"
+    },
+    "description": {
+        "@language": "es",
+        "@value": "\n\t\t\t\t\tDescripci\u00f3n\n\t\t\t\t\t\tCuando tu familia o tus invitados prueben este postre\u2026 no podr\u00e1n creer que su receta es tan sencilla. \u00a1Delicioso, vistoso y f\u00e1cil de hacer! \u00bfqu\u00e9 m\u00e1s se le puede pedir a un postre?\nPaso 1:\nPela la manzana, qu\u00edtale el coraz\u00f3n y c\u00f3rtala en gajos. Salt\u00e9ala con la mantequilla, el az\u00facar y la canela (ya sea una pizca molida o un trozo de rama). Cuando haya adquirido un bonito color tostado y se haya ablandado un poco, ret\u00edrala.\nPaso 2:\nPor otro lado, mezcla la almendra molida con la mantequilla, el az\u00facar moreno, la harina y la sal. Tambi\u00e9n puedes utilizar almendras enteras, pero en este caso tendr\u00e1s que triturarlas en la picadora para hacer una harina de almendra. Sin embargo, tendr\u00e1 m\u00e1s sabor.\nPaso 3:\nReparte la mezcla en una bandeja y m\u00e9telo en el horno a 180\u00b0 unos 15 minutos. Saca la preparaci\u00f3n, remu\u00e9vela y vuelve a meterla en el horno otros 10 minutos. Debe quedar como una especie de harina. Cuando ya est\u00e9 hecho el crumble, s\u00e1calo y d\u00e9jalo atemperar.\nPresentaci\u00f3n:\nPara servirlo, elige un vaso bonito y pon la manzana en el fondo, reparte el crumble por encima y adorna con una hojita de hierbabuena.\n\u00bfQu\u00e9 manzana es la m\u00e1s adecuada?\nLa manzana tipo reineta, de forma aplanada y un color amarronado es la mejor para cocinar. Su sabor es agradablemente \u00e1cido, pero no en exceso y tiene la ventaja de no deshacerse f\u00e1cilmente durante la cocci\u00f3n. La manzana tipo Golden, de piel amarilla, carne blanda y tambi\u00e9n un poco \u00e1cida pero no demasiado, tambi\u00e9n sirve para cocinar en postres como \u00e9ste.\n\n\t\t\t\t"
+    },
+    "image": {
+        "@id": "http://www.demoslavueltaaldia.com/sites/default/files/styles/recetas_listado/public/detalle_1.jpg?itok=87V0hyZz"
+    },
+    "instructions": {
+        "@language": "es",
+        "@value": "Null"
+    },
+    "name": {
+        "@language": "es",
+        "@value": "Salteado de manzana a la canela con crumble"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "es",
+            "@value": "301-500"
+        }
+    },
+    "recipeIngredient": [
+        {
+            "@language": "es",
+            "@value": "harina 50 gr."
+        },
+        {
+            "@language": "es",
+            "@value": "az\u00facar moreno 50 gr."
+        },
+        {
+            "@language": "es",
+            "@value": "canela molida una pizca"
+        },
+        {
+            "@language": "es",
+            "@value": "mantequilla 50 gr."
+        },
+        {
+            "@language": "es",
+            "@value": "sal una pizca"
+        },
+        {
+            "@language": "es",
+            "@value": "manzana 1 ud."
+        },
+        {
+            "@language": "es",
+            "@value": "mantequilla 25 gr."
+        },
+        {
+            "@language": "es",
+            "@value": "az\u00facar 25 gr."
+        },
+        {
+            "@language": "es",
+            "@value": "almendra molida 50 gr."
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

@@ -1,0 +1,133 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": {
+            "@language": "en-US",
+            "@value": "2"
+        },
+        "ratingValue": {
+            "@language": "en-US",
+            "@value": "4.5"
+        }
+    },
+    "author": {
+        "@language": "en-US",
+        "@value": "Kelly Morrison"
+    },
+    "image": {
+        "@id": "http://www.foodiefiasco.com/wp-content/uploads/2015/08/Almond-Cake-7.jpg"
+    },
+    "ingredients": [
+        {
+            "@language": "en-US",
+            "@value": "\u00be cup erythritol or sugar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 square dark chocolate (we used sugar free)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 tablespoons powdered sugar or erythritol"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1- 1\u00bd cups almond milk"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon vanilla extract"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup unsweetened apple sauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "2 teaspoons baking soda"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup coconut oil or unsweetened applesauce"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bd cup protein powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 cups almond flour"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1\u00bd cups powdered peanut butter (such as PB2)"
+        },
+        {
+            "@language": "en-US",
+            "@value": "1 teaspoon cinnamon"
+        },
+        {
+            "@language": "en-US",
+            "@value": "? cup unsweetened cocoa powder"
+        },
+        {
+            "@language": "en-US",
+            "@value": "3 tablespoons apple cider vinegar"
+        },
+        {
+            "@language": "en-US",
+            "@value": "\u00bc cup almond milk"
+        }
+    ],
+    "name": {
+        "@language": "en-US",
+        "@value": "Chocolate Almond Flour Cake with Peanut Butter Frosting"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "en-US",
+            "@value": "210"
+        },
+        "carbohydrateContent": {
+            "@language": "en-US",
+            "@value": "5 grams"
+        },
+        "fatContent": {
+            "@language": "en-US",
+            "@value": "8 grams"
+        },
+        "proteinContent": {
+            "@language": "en-US",
+            "@value": "13 grams"
+        },
+        "servingSize": {
+            "@language": "en-US",
+            "@value": "1 slice (1/12 cake)"
+        }
+    },
+    "recipeInstructions": [
+        {
+            "@language": "en-US",
+            "@value": "To make a layer cake, you can carefully slice the cake in half. Using an offset spatula, you then spread a thin layer of frosting on top of one of the halves, then carefully set the second half on top. Spread the remaining frosting on top of the cake, bringing it to the edges of the top and carefully spreading it across the sides. If you want to save some time and make a single layer cake, simply spread the frosting on top of the cake and on the sides. Shave the square of chocolate on top of the cake for an elegant finish. Cut into 12 slices and devour."
+        },
+        {
+            "@language": "en-US",
+            "@value": "In a large bowl, combine the almond flour, cocoa powder, baking soda, cinnamon, and erythritol or sugar and stir until completely combined. Add in the coconut oil or applesauce, vanilla extract, applesauce, almond milk, and apple cider vinegar and still until everything is incorporated and the batter in uniform. Pour the batter into the prepared cake pan and bake in the oven at 325\u00b0F for 30-35 minutes, or until a toothpick inserted into the center comes out clean."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Preheat oven to 325\u00b0F. Thoroughly grease an 8-inch cake pan and set aside."
+        },
+        {
+            "@language": "en-US",
+            "@value": "Meanwhile, combine the powdered peanut butter, protein powder, and sugar or erythritol in a bowl. Slowly add in the almond milk, stopping when you've reached a frosting consistency. Place in the fridge until ready to use."
+        }
+    ],
+    "recipeYield": {
+        "@language": "en-US",
+        "@value": "12 slices"
+    },
+    "@id": "http://example.org/recipe"
+}

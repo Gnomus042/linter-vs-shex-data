@@ -1,0 +1,34 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "en",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "en",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "en",
+            "@value": "4"
+        }
+    },
+    "author": {
+        "@language": "en",
+        "@value": "abcya3.net"
+    },
+    "description": {
+        "@language": "en",
+        "@value": "Null"
+    },
+    "image": {
+        "@id": "http://media.abcya3.net/images/99-balls.jpg"
+    },
+    "name": {
+        "@language": "en",
+        "@value": "99 Balls"
+    },
+    "@id": "http://example.org/recipe"
+}

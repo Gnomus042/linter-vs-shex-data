@@ -1,0 +1,58 @@
+{
+    "@type": "Recipe",
+    "description": {
+        "@language": "nl",
+        "@value": "\n\t\t\t Snijbiet tref je niet zo snel aan in de supermarkt omdat het niet makkelijk houdbaar is. Het echter een heerlijke groente met vele toepassingsmogelijkheden en ook nog eens makkelijk verteerbaar en daardoor zeer geschikt voor kleine kinderen.\u00a0Dit gerecht\u00a0combineert\u00a0de aardse smaak van snijbiet met het zachte van de slagroom. De slagroom voeg je aan het einde toe en zo heb je meteen een lekkere saus voor over de pasta. Door de kleuren van de snijbiet ziet het er ook nog eens prachtig uit. \n\n\n\t\t\t\u00a0\n\t\t\tDe snijbiet komt van de volle grond van de Horsterhof. Ook de uien en knoflook komen daar vandaan.\u00a0De pasta en slagroom ingekocht bij De Nieuwe Band\u00a0natuurvoeding (bio) en de heerlijke kastanjechampignons komen van De Middelwaard uit Loo. De kaas is van Aurora uit Ven-Zelderheide en raspen we zelf.\n\t\t"
+    },
+    "ingredients": [
+        {
+            "@language": "nl",
+            "@value": "\n\t\t\t\t\t\t\u00a0\n\t\t\t\t\t\t1 st\n\t\t\t\t\t\tUi, gesnipperd\n\t\t\t\t\t"
+        },
+        {
+            "@language": "nl",
+            "@value": "\n\t\t\t\t\t\t\u00a0\n\t\t\t\t\t\t1 st\n\t\t\t\t\t\tKnoflookteen\n\t\t\t\t\t"
+        },
+        {
+            "@language": "nl",
+            "@value": "\n\t\t\t\t\t\t\u00a0\n\t\t\t\t\t\t100 ml\n\t\t\t\t\t\tSlagroom\n\t\t\t\t\t"
+        },
+        {
+            "@language": "nl",
+            "@value": "\n\t\t\t\t\t\t\u00a0\n\t\t\t\t\t\t600 g\n\t\t\t\t\t\tSnijbiet\n\t\t\t\t\t"
+        },
+        {
+            "@language": "nl",
+            "@value": "\n\t\t\t\t\t\t\u00a0\n\t\t\t\t\t\t80 g\n\t\t\t\t\t\tKaas, geraspt\n\t\t\t\t\t"
+        },
+        {
+            "@language": "nl",
+            "@value": "\n\t\t\t\t\t\t\u00a0\n\t\t\t\t\t\t  \n\t\t\t\t\t\tZout, peper\n\t\t\t\t\t"
+        },
+        {
+            "@language": "nl",
+            "@value": "\n\t\t\t\t\t\t\u00a0\n\t\t\t\t\t\t300 g\n\t\t\t\t\t\tPasta\n\t\t\t\t\t"
+        },
+        {
+            "@language": "nl",
+            "@value": "\n\t\t\t\t\t\t\u00a0\n\t\t\t\t\t\t200 g\n\t\t\t\t\t\tKastanjechampignons\n\t\t\t\t\t"
+        },
+        {
+            "@language": "nl",
+            "@value": "\n\t\t\t\t\t\t\u00a0\n\t\t\t\t\t\t  \n\t\t\t\t\t\tOlijfolie\n\t\t\t\t\t"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Pasta met snijbiet, room en kastanjechampignons"
+    },
+    "prepTime": {
+        "@language": "nl",
+        "@value": "PT30M"
+    },
+    "recipeInstructions": {
+        "@language": "nl",
+        "@value": "\n\t\t\t\n\tZet een pan water op voor de pasta en kook deze volgens de gebruiksaanwijzing.\n\tSnipper de ui. Snijd de de knoflook in plakjes. Snijd de champignons in plakjes.\n\tWas de snijbiet. Snijd de stelen van de snijbiet in kleine stukjes van een halve centimeter en bewaar het apart. Snijd het blad grof en bewaar het apart.\n\tVerwarm een pan met dikke bodem. Doe er een scheutje olie in en bak de knoflook tot hij lichtbruin is. Verwijder de knoflook. Bak de ui licht aan in de knoflook-olie. Voeg nu de champignons\u00a0toe en bak nog 5 minuten mee.\n\tVoeg de snijbietstelen toe en bak het 3 minuten mee. Voeg nu het blad toe en bak het nog een minuut of 5 of tot het zacht is.\n\tZet het vuur hoog en giet de slagroom erdoor. Warm het geheel nog even goed door. Breng op smaak met peper en zout.\n\tSchep het snijbietmengsel door de afgegoten pasta. Roer goed,\u00a0schep het op de borden of in een grote schaal.\n\tBestrooi voor de liefhebbers met kaas\u00a0en serveer meteen.\n\n\n\t\t"
+    },
+    "@id": "http://example.org/recipe"
+}

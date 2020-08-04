@@ -1,0 +1,52 @@
+{
+    "@type": "Recipe",
+    "author": {
+        "@language": "nl",
+        "@value": "Rutger Bakt"
+    },
+    "cookingMethod": {
+        "@language": "nl",
+        "@value": "Keukenmachine"
+    },
+    "description": {
+        "@language": "nl",
+        "@value": "Zwitserse room is een combinatie van banketbakkersroom en slagroom en is daardoor luchtig van structuur en vol van smaak. Je kunt het in veel verschillende recepten gebruiken; vul er soesjes of eclairs mee, gebruik het als vulling in een tompouce of open confituretaart, serveer het bij vers fruit of gebruik het als topping op een taart of vlaai."
+    },
+    "image": {
+        "@language": "nl",
+        "@value": "Null"
+    },
+    "ingredients": [
+        {
+            "@id": "http://www.foody.nl/recepten/zwitserse-room-41928.html//ingredienten/bakproducten/banketbakkersroom.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zwitserse-room-41928.html//ingredienten/zuivel-en-zuivelvervangers/slagroom.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zwitserse-room-41928.html//ingredienten/bakproducten/klopfix.html"
+        },
+        {
+            "@id": "http://www.foody.nl/recepten/zwitserse-room-41928.html//ingredienten/smaakmaker/suiker.html"
+        }
+    ],
+    "name": {
+        "@language": "nl",
+        "@value": "Zwitserse room"
+    },
+    "recipeCategory": [
+        {
+            "@language": "nl",
+            "@value": "Gebak"
+        },
+        {
+            "@language": "nl",
+            "@value": "Toetjes"
+        },
+        {
+            "@language": "nl",
+            "@value": "Taart"
+        }
+    ],
+    "@id": "http://example.org/recipe"
+}

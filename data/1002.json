@@ -1,0 +1,129 @@
+{
+    "@type": "Recipe",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": {
+            "@language": "de",
+            "@value": "5"
+        },
+        "ratingCount": {
+            "@language": "de",
+            "@value": "1"
+        },
+        "ratingValue": {
+            "@language": "de",
+            "@value": "5"
+        }
+    },
+    "author": {
+        "@language": "de",
+        "@value": "\nMax Stiegl\n"
+    },
+    "copyrightHolder": {
+        "@language": "de",
+        "@value": "\u00a9 GUSTO / Dieter Brasch"
+    },
+    "image": {
+        "@id": "https://www.gusto.at/rezepte/safran-nudeln-mit-gemuese-12585739//_storage/asset/7690805/storage/womanat:slideshow-large/file/151062110/2008-09-080.jpg"
+    },
+    "name": {
+        "@language": "de",
+        "@value": "Safran-Nudeln mit Gem\u00fcse"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": {
+            "@language": "de",
+            "@value": "431 kcal"
+        },
+        "carbohydrateContent": {
+            "@language": "de",
+            "@value": "47 g"
+        },
+        "cholesterolContent": {
+            "@language": "de",
+            "@value": "117 mg"
+        },
+        "fatContent": {
+            "@language": "de",
+            "@value": "22 g"
+        },
+        "proteinContent": {
+            "@language": "de",
+            "@value": "10 g"
+        }
+    },
+    "recipeCategory": [
+        {
+            "@language": "de",
+            "@value": "Pasta & Pizza"
+        },
+        {
+            "@language": "de",
+            "@value": "Gem\u00fcse"
+        },
+        {
+            "@language": "de",
+            "@value": "Gew\u00fcrz"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "@language": "de",
+            "@value": "\nZucchini\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nSenfk\u00f6rner\n(2\u20133)\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nH\u00fchnersuppe\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nBasilikum\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nFleischparadeiser\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nButter\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nSafran\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nPernod\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nSalz\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nEier-Tagliatelle\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nSchlagobers\n"
+        },
+        {
+            "@language": "de",
+            "@value": "\nZwiebel\n"
+        }
+    ],
+    "recipeInstructions": {
+        "@language": "de",
+        "@value": "\n\nZwiebel sch\u00e4len, hacken, in Butter hell anschwitzen. Senfk\u00f6rner zugeben, mit Suppe und Pernod aufgie\u00dfen und einige Minuten einkochen. Zerriebene Safranf\u00e4den und Obers zugeben, aufkochen und am Herdrand ziehen lassen.\n\n\n\n\nParadeiser \u00fcberbr\u00fchen, enth\u00e4uten, entkernen und w\u00fcrfelig schneiden. Zucchinischale mit einem Sch\u00e4ler in d\u00fcnnen Streifen abziehen, in Salzwasser kurz \u00fcberkochen, abseihen.\n\n\n\nif(typeof adition !== 'undefined' && typeof displayAd !== 'undefined' && displayAd('Content_mobile')){\nadition.srq.push(function(api) {\napi.renderSlot('Content_mobile');\n})\n}\n\n\n\n\nOptanon.InsertScript('//a.teads.tv/page/80589/tag', 'teadsWrapper', null, null, 4);\n\n\n\n\n\n\nTagliatelle in Salzwasser bissfest kochen.\n\n\n\n\nSauce erhitzen und fein p\u00fcrieren. Nudeln abseihen, mit Sauce, Zucchinistreifen und Paradeiserw\u00fcrfeln vermischen. Eventuell nochmals erhitzen, \u00fcber eine Fleischgabel zu einer Rolle drehen und anrichten. Mit Basilikum garnieren.\n\n"
+    },
+    "recipeYield": {
+        "@language": "de",
+        "@value": "4 Portionen"
+    },
+    "@id": "http://example.org/recipe"
+}
