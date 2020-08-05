@@ -12,7 +12,9 @@
 
 1001.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 1002.json
 
@@ -34,6 +36,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1007.json
 error: Value provided for property http://schema.org/recipeYield has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1008.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -51,6 +54,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1012.json
 
@@ -80,6 +84,7 @@ error: Value provided for property http://schema.org/recipeCuisine has a wrong t
 
 102.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1020.json
 error: Value provided for property http://schema.org/recipeIngredient has a wrong type
@@ -92,9 +97,11 @@ error: Value provided for property http://schema.org/recipeIngredient has a wron
 
 1023.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 1024.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 1025.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -113,11 +120,16 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 103.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
 
 1030.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/author has a wrong type
+error: Value provided for property http://schema.org/name has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1031.json
@@ -133,6 +145,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1036.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -164,6 +177,7 @@ error: Value provided for property http://schema.org/keywords has a wrong type
 
 1044.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -173,7 +187,10 @@ error: Value provided for property http://schema.org/ingredients has a wrong typ
 
 1046.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/author has a wrong type
+error: Value provided for property http://schema.org/name has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1047.json
@@ -181,10 +198,12 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1048.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1049.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 105.json
@@ -192,11 +211,14 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1050.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1051.json
 error: Value provided for property http://schema.org/about has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1052.json
 
@@ -206,6 +228,7 @@ error: Value provided for property http://schema.org/about has a wrong type
 
 1054.json
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1055.json
 
@@ -235,10 +258,14 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1075.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/author has a wrong type
+error: Value provided for property http://schema.org/name has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1076.json
@@ -246,9 +273,11 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1077.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1078.json
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1079.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -268,6 +297,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 1083.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1084.json
 
@@ -283,6 +313,7 @@ error: Value provided for property http://schema.org/nutrition has a wrong type
 
 1088.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1089.json
 error: Value provided for property http://schema.org/additionalType has a wrong type
@@ -310,6 +341,7 @@ error: Value provided for property http://schema.org/additionalType has a wrong 
 
 1096.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -323,9 +355,11 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1099.json
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 11.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 110.json
 
@@ -351,6 +385,7 @@ error: Value provided for property http://schema.org/dateModified has a wrong ty
 
 111.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -360,6 +395,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1111.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1112.json
 
@@ -372,7 +408,9 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 1118.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/review has a wrong type
 
 1119.json
@@ -380,15 +418,21 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 112.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/name has a wrong type
+error: Value provided for property http://www.w3.org/1999/02/22-rdf-syntax-ns#type has a wrong type
 
 1120.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1121.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1122.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1123.json
 
@@ -398,10 +442,12 @@ error: Value provided for property http://schema.org/offers has a wrong type
 
 1125.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1126.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1127.json
 
@@ -424,12 +470,14 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1131.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/review has a wrong type
 
 1132.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/review has a wrong type
@@ -442,11 +490,13 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1135.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1136.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -459,6 +509,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 1139.json
 error: Value provided for property http://schema.org/url has a wrong type
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 114.json
@@ -472,6 +523,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1142.json
 
@@ -481,18 +533,25 @@ error: Value provided for property http://schema.org/recipeInstructions has a wr
 
 1144.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1145.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1146.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/author has a wrong type
+error: Value provided for property http://schema.org/name has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1147.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/author has a wrong type
+error: Value provided for property http://schema.org/name has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1148.json
@@ -509,6 +568,8 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1151.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/itemReviewed has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1152.json
 
@@ -521,6 +582,7 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 1155.json
 error: Value provided for property http://schema.org/about has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1156.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -530,6 +592,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 116.json
 error: Value provided for property http://schema.org/comment has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -555,17 +618,20 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1178.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1179.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1180.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1184.json
@@ -579,15 +645,18 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1187.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1188.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1189.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 119.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -600,6 +669,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1193.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
 
 1195.json
@@ -629,6 +699,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1202.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 1203.json
@@ -651,6 +722,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 1209.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1210.json
 
@@ -669,12 +741,15 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 1215.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1216.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1217.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1218.json
 error: Value provided for property http://schema.org/name has a wrong type
@@ -682,6 +757,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 1219.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1220.json
 
@@ -705,18 +781,22 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1239.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1240.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1241.json
 
 
 1242.json
 error: Value provided for property http://schema.org/comment has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1243.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -728,6 +808,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1246.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1247.json
 
@@ -737,10 +818,12 @@ error: Value provided for property http://schema.org/offers has a wrong type
 
 1249.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1250.json
 error: Value provided for property http://schema.org/url has a wrong type
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1251.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -758,10 +841,12 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1255.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1256.json
 error: Value provided for property http://schema.org/reviews has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1257.json
 
@@ -789,10 +874,13 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1285.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/itemReviewed has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1286.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1287.json
 
@@ -808,9 +896,11 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 1291.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1292.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1293.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -827,6 +917,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1297.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -842,6 +933,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1311.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -853,9 +945,11 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1321.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1322.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1323.json
 
@@ -880,6 +974,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1330.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -907,12 +1002,15 @@ error: Value provided for property http://schema.org/url has a wrong type
 
 1337.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1338.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1339.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1340.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -925,21 +1023,29 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1346.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1347.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1348.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1349.json
 
 
 1350.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1351.json
 
@@ -952,6 +1058,7 @@ error: Value provided for property http://schema.org/image has a wrong type
 
 1354.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/ingredients has a wrong type
 
 1355.json
@@ -959,6 +1066,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1356.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -979,6 +1087,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1386.json
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1387.json
 
@@ -988,6 +1097,7 @@ error: Value provided for property http://schema.org/nutrition has a wrong type
 
 1389.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -1011,7 +1121,9 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1396.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1397.json
 
@@ -1060,12 +1172,15 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1411.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1412.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1413.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/ingredients has a wrong type
 
 1414.json
@@ -1097,6 +1212,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1422.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -1111,9 +1227,12 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 1427.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/itemReviewed has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1428.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -1142,9 +1261,12 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1436.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1437.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1438.json
@@ -1160,6 +1282,8 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1453.json
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
+undefined: undefined
 
 1454.json
 
@@ -1184,6 +1308,7 @@ error: Value provided for property http://schema.org/recipeInstructions has a wr
 
 1461.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/video has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -1193,6 +1318,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 1463.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1464.json
 
@@ -1232,6 +1358,8 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 error: Value provided for property http://schema.org/recipeCuisine has a wrong type
 error: Value provided for property http://schema.org/recipeIngredient has a wrong type
 error: Value provided for property http://schema.org/suitableForDiet has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1475.json
 
@@ -1254,6 +1382,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1481.json
 error: Value provided for property http://schema.org/comment has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/keywords has a wrong type
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
@@ -1263,12 +1392,15 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1483.json
 error: Value provided for property http://schema.org/suitableForDiet has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1484.json
 
 
 1485.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1486.json
@@ -1278,9 +1410,11 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1488.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -1298,6 +1432,9 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1493.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1494.json
 error: Value provided for property http://schema.org/recipeIngredient has a wrong type
@@ -1313,6 +1450,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 1498.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1499.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -1325,15 +1463,18 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1501.json
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1502.json
 
 
 1503.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1504.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -1359,25 +1500,30 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1511.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1512.json
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1513.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1514.json
 error: Value provided for property http://schema.org/video has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/prepTime has a wrong type
 
 1515.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1516.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -1393,7 +1539,9 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 1520.json
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/interactionStatistic has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/interactivityType has a wrong type
+undefined: undefined
 
 1521.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -1403,6 +1551,8 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1523.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/itemReviewed has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -1410,9 +1560,11 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1524.json
 error: Value provided for property http://schema.org/sourceOrganization has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1525.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -1450,6 +1602,7 @@ error: Value provided for property http://schema.org/ingredients has a wrong typ
 
 1550.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -1478,9 +1631,11 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1558.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 1559.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -1496,15 +1651,18 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1562.json
 error: Value provided for property http://schema.org/step has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1563.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/comment has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1564.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 1565.json
 
@@ -1526,6 +1684,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1570.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -1554,6 +1713,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 1578.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1579.json
 
@@ -1584,14 +1744,19 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 1588.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 1589.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 1590.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1591.json
 
@@ -1607,6 +1772,7 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 1600.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/review has a wrong type
 
 1601.json
@@ -1617,10 +1783,13 @@ error: Value provided for property http://schema.org/review has a wrong type
 
 1603.json
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1604.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/review has a wrong type
 
 1605.json
@@ -1630,9 +1799,11 @@ error: Value provided for property http://schema.org/review has a wrong type
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1607.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -1645,6 +1816,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1610.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -1662,6 +1834,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1615.json
 error: Value provided for property http://schema.org/video has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/prepTime has a wrong type
 
 1616.json
@@ -1682,13 +1855,16 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1621.json
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1622.json
 
 
 1623.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1624.json
 error: Value provided for property http://schema.org/keywords has a wrong type
@@ -1698,6 +1874,7 @@ error: Value provided for property http://schema.org/keywords has a wrong type
 
 1626.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/comment has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -1722,6 +1899,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1633.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1634.json
 
@@ -1736,6 +1914,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1637.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -1751,9 +1930,11 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1642.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1643.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1644.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -1766,6 +1947,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1647.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 1648.json
 
@@ -1778,6 +1960,7 @@ error: Value provided for property http://schema.org/url has a wrong type
 
 1650.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 1651.json
 
@@ -1793,6 +1976,7 @@ error: Value provided for property http://schema.org/url has a wrong type
 
 1660.json
 error: Value provided for property http://schema.org/sourceOrganization has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1661.json
 
@@ -1820,6 +2004,7 @@ error: Value provided for property http://schema.org/recipeCuisine has a wrong t
 
 1668.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1669.json
 
@@ -1838,6 +2023,9 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1672.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/name has a wrong type
+error: Value provided for property http://www.w3.org/1999/02/22-rdf-syntax-ns#type has a wrong type
 error: Value provided for property http://schema.org/reviews has a wrong type
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
@@ -1855,9 +2043,11 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1677.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1678.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
 
 1679.json
@@ -1872,6 +2062,7 @@ error: Value provided for property http://schema.org/dateCreated has a wrong typ
 1681.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1682.json
 
@@ -1890,6 +2081,7 @@ error: Value provided for property http://schema.org/name has a wrong type
 
 1687.json
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1688.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -1905,6 +2097,8 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1691.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/itemReviewed has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -1933,12 +2127,14 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1699.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 17.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 170.json
 
@@ -1951,12 +2147,14 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 1702.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1703.json
 
 
 1704.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
@@ -1983,6 +2181,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1710.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -2008,6 +2207,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1717.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -2019,15 +2219,21 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 172.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/name has a wrong type
+error: Value provided for property http://www.w3.org/1999/02/22-rdf-syntax-ns#type has a wrong type
 
 1720.json
 
 
 1721.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/itemReviewed has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1722.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1723.json
 
@@ -2057,6 +2263,7 @@ error: Value provided for property http://schema.org/dateModified has a wrong ty
 1730.json
 error: Value provided for property http://schema.org/url has a wrong type
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1731.json
 
@@ -2081,6 +2288,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1738.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1739.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -2106,6 +2314,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1745.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1746.json
 
@@ -2114,6 +2323,7 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1748.json
 
@@ -2121,6 +2331,7 @@ error: Value provided for property http://schema.org/recipeInstructions has a wr
 1749.json
 error: Value provided for property http://schema.org/description has a wrong type
 error: Value provided for property http://schema.org/review has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 175.json
 
@@ -2148,6 +2359,7 @@ error: Value provided for property http://schema.org/recipeIngredient has a wron
 
 1757.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1758.json
 
@@ -2169,6 +2381,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1763.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1764.json
 
@@ -2184,6 +2397,7 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 1774.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1775.json
 
@@ -2244,6 +2458,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1794.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -2251,6 +2466,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1795.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1796.json
 
@@ -2260,6 +2476,7 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 1798.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 1799.json
@@ -2276,9 +2493,11 @@ error: Value provided for property http://schema.org/ingredients has a wrong typ
 
 1801.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1802.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
@@ -2302,7 +2521,9 @@ error: Value provided for property http://schema.org/url has a wrong type
 
 1809.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 181.json
 
@@ -2322,6 +2543,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1814.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/prepTime has a wrong type
 
 1815.json
@@ -2334,9 +2556,11 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1817.json
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1818.json
 
@@ -2367,6 +2591,7 @@ error: Value provided for property http://schema.org/recipeInstructions has a wr
 
 1826.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/video has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -2379,12 +2604,14 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 1829.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 183.json
 
 
 1830.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1831.json
 
@@ -2425,10 +2652,13 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1841.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/itemReviewed has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1842.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/prepTime has a wrong type
 
 1843.json
@@ -2436,6 +2666,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1844.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1845.json
 error: Value provided for property http://schema.org/name has a wrong type
@@ -2446,6 +2677,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1847.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/video has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -2470,6 +2702,8 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1853.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -2478,19 +2712,25 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1855.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
+undefined: undefined
 
 1856.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 1857.json
 
 
 1858.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1859.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 186.json
 
@@ -2539,6 +2779,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1873.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
@@ -2547,16 +2788,22 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1875.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 1876.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 1877.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/itemReviewed has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -2595,12 +2842,14 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1887.json
 error: Value provided for property http://schema.org/sourceOrganization has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1888.json
 
 
 1889.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 189.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -2616,6 +2865,7 @@ error: Value provided for property http://schema.org/recipeCuisine has a wrong t
 
 1892.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/ingredients has a wrong type
 
 1893.json
@@ -2627,9 +2877,11 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1895.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1896.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1897.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -2639,6 +2891,8 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1899.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
+undefined: undefined
 
 19.json
 
@@ -2651,6 +2905,7 @@ error: Value provided for property http://schema.org/mainEntityOfPage has a wron
 
 1901.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1902.json
 
@@ -2683,6 +2938,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1910.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1911.json
 
@@ -2692,6 +2948,7 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 1913.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -2708,6 +2965,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 1917.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1918.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -2759,6 +3017,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 1930.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1931.json
 
@@ -2782,15 +3041,19 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 1937.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 1938.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1939.json
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 194.json
 
@@ -2800,6 +3063,7 @@ error: Value provided for property http://schema.org/nutrition has a wrong type
 
 1941.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 1942.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -2810,11 +3074,16 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1944.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 1945.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/author has a wrong type
+error: Value provided for property http://schema.org/name has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/suitableForDiet has a wrong type
 
@@ -2844,6 +3113,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1953.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -2900,6 +3170,8 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1988.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/itemReviewed has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1989.json
@@ -2937,7 +3209,9 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1999.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 2.json
 
@@ -2947,6 +3221,7 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 200.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -2968,6 +3243,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 205.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 206.json
@@ -2975,6 +3251,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 207.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 208.json
@@ -2985,6 +3262,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 21.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 210.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -3004,7 +3282,9 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 215.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 216.json
 
@@ -3014,12 +3294,15 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 218.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 219.json
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 error: Value provided for property http://schema.org/suitableForDiet has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 22.json
 
@@ -3032,6 +3315,7 @@ error: Value provided for property http://schema.org/suitableForDiet has a wrong
 
 222.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 223.json
@@ -3060,30 +3344,36 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 230.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 231.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 232.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 233.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 234.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 235.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -3145,6 +3435,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 251.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -3156,6 +3447,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 254.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -3187,6 +3479,8 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/cookingMethod has a wrong type
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 error: Value provided for property http://schema.org/suitableForDiet has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 263.json
 error: Value provided for property http://schema.org/dateModified has a wrong type
@@ -3196,12 +3490,14 @@ error: Value provided for property http://schema.org/dateModified has a wrong ty
 
 265.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 266.json
 
 
 267.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -3214,12 +3510,14 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 27.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 270.json
 
 
 272.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -3240,25 +3538,32 @@ error: Value provided for property http://schema.org/ingredients has a wrong typ
 
 28.json
 error: Value provided for property http://schema.org/comment has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 280.json
 
 
 281.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 282.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 283.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/homeLocation has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 284.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
 
 285.json
@@ -3266,11 +3571,13 @@ error: Value provided for property http://schema.org/ingredients has a wrong typ
 
 286.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 29.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 299.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -3280,13 +3587,17 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 3.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 30.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 307.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 308.json
 
@@ -3302,6 +3613,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 311.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -3316,9 +3628,11 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 316.json
 error: Value provided for property http://schema.org/review has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 317.json
 error: Value provided for property http://schema.org/sourceOrganization has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 318.json
 
@@ -3332,22 +3646,28 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 320.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 321.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 322.json
 
 
 323.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/review has a wrong type
 
 324.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/review has a wrong type
 
 325.json
@@ -3368,15 +3688,18 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 329.json
 error: Value provided for property http://schema.org/sourceOrganization has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 33.json
 error: Value provided for property http://schema.org/comment has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 330.json
 
 
 333.json
 error: Value provided for property http://schema.org/sourceOrganization has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 334.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -3386,7 +3709,9 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 336.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/review has a wrong type
 
 337.json
@@ -3415,11 +3740,14 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 343.json
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/interactionStatistic has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/interactivityType has a wrong type
+undefined: undefined
 
 344.json
 
@@ -3429,7 +3757,9 @@ error: Value provided for property http://schema.org/interactivityType has a wro
 
 346.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/review has a wrong type
 
 347.json
@@ -3445,6 +3775,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 35.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 350.json
 
@@ -3509,12 +3840,14 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 369.json
 error: Value provided for property http://schema.org/name has a wrong type
 
 37.json
 error: Value provided for property http://schema.org/comment has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 370.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -3538,6 +3871,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 375.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 376.json
 
@@ -3553,6 +3887,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 38.json
 
@@ -3567,9 +3902,11 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 382.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 383.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 384.json
 
@@ -3580,15 +3917,18 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 386.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 387.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 388.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 389.json
 
@@ -3637,13 +3977,17 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 400.json
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 401.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/author has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 402.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -3672,6 +4016,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 417.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 418.json
@@ -3691,6 +4036,7 @@ error: Value provided for property http://schema.org/recipeCuisine has a wrong t
 
 422.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 423.json
 
@@ -3718,16 +4064,19 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 430.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 431.json
 error: Value provided for property http://schema.org/url has a wrong type
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 432.json
 error: Value provided for property http://schema.org/url has a wrong type
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 433.json
@@ -3750,6 +4099,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 439.json
 
@@ -3761,9 +4111,13 @@ error: Value provided for property http://schema.org/recipeInstructions has a wr
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 441.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/url has a wrong type
+error: Value provided for property http://www.w3.org/1999/02/22-rdf-syntax-ns#type has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -3775,6 +4129,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 443.json
 error: Value provided for property http://schema.org/url has a wrong type
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 444.json
@@ -3795,6 +4150,8 @@ error: Value provided for property http://schema.org/dateModified has a wrong ty
 
 449.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
+undefined: undefined
 error: Value provided for property http://schema.org/author has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -3802,12 +4159,14 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 45.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 450.json
 error: Value provided for property http://schema.org/url has a wrong type
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 451.json
@@ -3852,6 +4211,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 463.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 464.json
 
@@ -3871,6 +4231,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 469.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 47.json
 
@@ -3880,11 +4241,13 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 471.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 472.json
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 473.json
 
@@ -3900,9 +4263,11 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 477.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 479.json
 error: Value provided for property http://schema.org/video has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/suitableForDiet has a wrong type
 
 48.json
@@ -3919,6 +4284,8 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 483.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/itemReviewed has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -3939,9 +4306,11 @@ error: Value provided for property http://schema.org/dateModified has a wrong ty
 
 49.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 490.json
 error: Value provided for property http://schema.org/comment has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 491.json
 
@@ -3981,6 +4350,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 501.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 502.json
@@ -3988,6 +4358,9 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 503.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/homeLocation has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 504.json
 
@@ -4027,6 +4400,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 52.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 528.json
@@ -4034,12 +4408,14 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 529.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 53.json
 error: Value provided for property http://schema.org/url has a wrong type
 
 530.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 531.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -4069,6 +4445,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 539.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 54.json
 
@@ -4093,10 +4470,14 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 57.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 578.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/author has a wrong type
+error: Value provided for property http://schema.org/name has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 579.json
@@ -4104,6 +4485,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 58.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 580.json
@@ -4186,13 +4568,16 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 601.json
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 602.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 603.json
 
@@ -4211,6 +4596,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 62.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 621.json
 
@@ -4223,12 +4609,15 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 624.json
 error: Value provided for property http://schema.org/reviews has a wrong type
+error: Value provided for property http://www.w3.org/1999/02/22-rdf-syntax-ns#type has a wrong type
+undefined: undefined
 
 625.json
 
 
 629.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 63.json
@@ -4237,6 +4626,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 630.json
 error: Value provided for property http://schema.org/url has a wrong type
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 631.json
 
@@ -4246,6 +4636,7 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 633.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 634.json
 
@@ -4261,12 +4652,15 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 638.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 639.json
 
 
 64.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 640.json
@@ -4277,9 +4671,11 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 642.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 643.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 644.json
 error: Value provided for property http://schema.org/name has a wrong type
@@ -4289,6 +4685,7 @@ error: Value provided for property http://schema.org/name has a wrong type
 
 646.json
 error: Value provided for property http://schema.org/comment has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 647.json
 
@@ -4305,6 +4702,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 650.json
 error: Value provided for property http://schema.org/offers has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 651.json
 
@@ -4320,6 +4718,7 @@ error: Value provided for property http://schema.org/offers has a wrong type
 
 655.json
 error: Value provided for property http://schema.org/comment has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 656.json
 
@@ -4344,6 +4743,7 @@ error: Value provided for property http://schema.org/comment has a wrong type
 
 666.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 667.json
 
@@ -4356,9 +4756,11 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 67.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 670.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -4382,11 +4784,13 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 676.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 
 677.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -4401,6 +4805,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 680.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 681.json
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -4413,6 +4818,9 @@ error: Value provided for property http://schema.org/dateCreated has a wrong typ
 
 684.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/name has a wrong type
+error: Value provided for property http://www.w3.org/1999/02/22-rdf-syntax-ns#type has a wrong type
 
 685.json
 
@@ -4434,6 +4842,9 @@ error: Value provided for property http://schema.org/author has a wrong type
 
 690.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/name has a wrong type
+error: Value provided for property http://www.w3.org/1999/02/22-rdf-syntax-ns#type has a wrong type
 
 691.json
 
@@ -4443,6 +4854,7 @@ error: Value provided for property http://schema.org/url has a wrong type
 
 693.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 694.json
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -4490,16 +4902,22 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 709.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 71.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 710.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 711.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 712.json
@@ -4507,6 +4925,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 713.json
 error: Value provided for property http://schema.org/comment has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 714.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -4514,6 +4933,8 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 715.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/itemReviewed has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 716.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -4531,10 +4952,12 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 72.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 720.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/ingredients has a wrong type
 
 721.json
@@ -4548,10 +4971,13 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 724.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/ratingCount has a wrong type
 
 725.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 726.json
@@ -4604,6 +5030,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 739.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -4621,6 +5048,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 743.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -4639,6 +5067,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 748.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 749.json
 
@@ -4651,6 +5080,7 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 751.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -4665,6 +5095,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 77.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
@@ -4677,6 +5108,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 79.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 798.json
 
@@ -4711,6 +5143,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 806.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -4728,23 +5161,34 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 810.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 811.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 812.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/name has a wrong type
+error: Value provided for property http://www.w3.org/1999/02/22-rdf-syntax-ns#type has a wrong type
 
 813.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/name has a wrong type
+error: Value provided for property http://www.w3.org/1999/02/22-rdf-syntax-ns#type has a wrong type
 
 814.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 815.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 816.json
 
@@ -4757,11 +5201,14 @@ error: Value provided for property http://schema.org/recipeCuisine has a wrong t
 
 818.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 819.json
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 82.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -4790,9 +5237,13 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 83.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 830.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/name has a wrong type
+error: Value provided for property http://www.w3.org/1999/02/22-rdf-syntax-ns#type has a wrong type
 error: Value provided for property http://schema.org/reviews has a wrong type
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
@@ -4801,6 +5252,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 832.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -4816,6 +5268,8 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 841.json
 error: Value provided for property http://schema.org/image has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
@@ -4830,29 +5284,36 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 845.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 846.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 847.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
+undefined: undefined
 
 848.json
 
 
 849.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 85.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/ingredients has a wrong type
 
 850.json
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 851.json
 
@@ -4872,6 +5333,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 855.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -4894,6 +5356,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 861.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 862.json
@@ -4913,6 +5376,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 867.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -4927,6 +5391,9 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 87.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/name has a wrong type
+error: Value provided for property http://www.w3.org/1999/02/22-rdf-syntax-ns#type has a wrong type
 
 870.json
 
@@ -4957,9 +5424,11 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 879.json
 error: Value provided for property http://schema.org/recipeYield has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 88.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 880.json
 
@@ -4978,11 +5447,13 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 
 885.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 886.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 887.json
@@ -4991,12 +5462,16 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 888.json
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/interactionStatistic has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/interactivityType has a wrong type
+undefined: undefined
 
 889.json
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/interactionStatistic has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/interactivityType has a wrong type
+undefined: undefined
 
 89.json
 
@@ -5030,6 +5505,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 899.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 9.json
 
@@ -5040,9 +5516,11 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 900.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 901.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/review has a wrong type
 
 906.json
@@ -5050,6 +5528,7 @@ error: Value provided for property http://schema.org/review has a wrong type
 
 91.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 912.json
 
@@ -5059,11 +5538,13 @@ error: Value provided for property http://schema.org/mainEntityOfPage has a wron
 
 918.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 919.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -5075,6 +5556,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 921.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 922.json
@@ -5086,6 +5568,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 924.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -5097,6 +5580,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 927.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 928.json
@@ -5107,6 +5591,9 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 93.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Value provided for property http://schema.org/name has a wrong type
+error: Value provided for property http://www.w3.org/1999/02/22-rdf-syntax-ns#type has a wrong type
 
 930.json
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -5125,6 +5612,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 935.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
@@ -5139,7 +5627,9 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 939.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/review has a wrong type
 
 94.json
@@ -5147,6 +5637,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 940.json
 error: Value provided for property http://schema.org/recipeYield has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 941.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -5166,12 +5657,15 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/dateCreated has a wrong type
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 946.json
 error: Value provided for property http://schema.org/sourceOrganization has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 947.json
 error: Value provided for property http://schema.org/sourceOrganization has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 948.json
 
@@ -5187,6 +5681,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 951.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 952.json
 
@@ -5196,11 +5691,13 @@ error: Value provided for property http://schema.org/url has a wrong type
 
 954.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/dateModified has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 955.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 956.json
@@ -5232,6 +5729,7 @@ error: Value provided for property http://schema.org/url has a wrong type
 
 964.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/reviewCount has a wrong type
 
 965.json
 
@@ -5242,13 +5740,16 @@ error: Value provided for property http://schema.org/aggregateRating has a wrong
 967.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 968.json
 
 
 969.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 error: Value provided for property http://schema.org/review has a wrong type
 
 97.json
@@ -5256,6 +5757,8 @@ error: Value provided for property http://schema.org/review has a wrong type
 
 970.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Value provided for property http://schema.org/itemReviewed has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -5264,11 +5767,13 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 971.json
 error: Value provided for property http://schema.org/url has a wrong type
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 972.json
 error: Value provided for property http://schema.org/url has a wrong type
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 973.json
@@ -5294,13 +5799,16 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 98.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/ingredients has a wrong type
 
 980.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 981.json
 error: Value provided for property http://schema.org/url has a wrong type
+undefined: undefined
 
 982.json
 
@@ -5310,10 +5818,12 @@ error: Value provided for property http://schema.org/url has a wrong type
 
 987.json
 error: Value provided for property http://schema.org/sourceOrganization has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 988.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 989.json
 
@@ -5329,6 +5839,8 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 992.json
 error: Value provided for property http://schema.org/author has a wrong type
+undefined: undefined
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 error: Value provided for property http://schema.org/nutrition has a wrong type
 
 993.json
@@ -5340,6 +5852,7 @@ error: Value provided for property http://schema.org/nutrition has a wrong type
 995.json
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/nutrition has a wrong type
+error: Property http://www.w3.org/1999/02/22-rdf-syntax-ns#type not found
 
 997.json
 
