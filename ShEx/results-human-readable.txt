@@ -79,7 +79,7 @@ error: Value provided for property http://schema.org/recipeCuisine has a wrong t
 
 
 102.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1020.json
 error: Value provided for property http://schema.org/recipeIngredient has a wrong type
@@ -163,6 +163,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 error: Value provided for property http://schema.org/keywords has a wrong type
 
 1044.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -179,6 +180,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 1048.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1049.json
@@ -243,7 +245,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 1077.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1078.json
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
@@ -307,6 +309,7 @@ error: Value provided for property http://schema.org/additionalType has a wrong 
 
 
 1096.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -356,7 +359,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 
 1111.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1112.json
 
@@ -398,7 +401,7 @@ error: Value provided for property http://schema.org/image has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1126.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1127.json
 
@@ -477,7 +480,7 @@ error: Value provided for property http://schema.org/recipeInstructions has a wr
 
 
 1144.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1145.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -505,7 +508,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 
 1151.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1152.json
 
@@ -575,6 +578,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 
 1187.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -646,7 +650,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 
 1209.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1210.json
 
@@ -664,13 +668,13 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 
 1215.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1216.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1217.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1218.json
 error: Value provided for property http://schema.org/name has a wrong type
@@ -703,7 +707,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/offers has a wrong type
 
 1240.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1241.json
 
@@ -732,10 +736,11 @@ error: Value provided for property http://schema.org/offers has a wrong type
 
 
 1249.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1250.json
 error: Value provided for property http://schema.org/url has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1251.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -752,6 +757,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1255.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1256.json
@@ -782,10 +788,11 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 1285.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1286.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1287.json
 
@@ -848,7 +855,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
 
 1322.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1323.json
 
@@ -860,7 +867,6 @@ error: Value provided for property http://schema.org/mainEntityOfPage has a wron
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1326.json
-error: Value provided for property http://schema.org/commentCount has a wrong type
 error: Value provided for property http://schema.org/keywords has a wrong type
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
@@ -919,12 +925,15 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1346.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1347.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1348.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1349.json
 
@@ -1002,6 +1011,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 1396.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1397.json
 
@@ -1100,7 +1110,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 
 1427.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1428.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
@@ -1134,6 +1144,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 error: Value provided for property http://schema.org/image has a wrong type
 
 1437.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1438.json
@@ -1286,7 +1297,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 1493.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1494.json
 error: Value provided for property http://schema.org/recipeIngredient has a wrong type
@@ -1301,7 +1312,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 
 1498.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1499.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -1319,9 +1330,10 @@ error: Value provided for property http://schema.org/nutrition has a wrong type
 
 
 1503.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1504.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -1390,6 +1402,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1523.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -1436,6 +1449,7 @@ error: Value provided for property http://schema.org/ingredients has a wrong typ
 
 
 1550.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -1618,6 +1632,7 @@ error: Value provided for property http://schema.org/dateModified has a wrong ty
 error: Value provided for property http://schema.org/recipeInstructions has a wrong type
 
 1607.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -1673,6 +1688,7 @@ error: Value provided for property http://schema.org/recipeInstructions has a wr
 
 1623.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1624.json
 error: Value provided for property http://schema.org/keywords has a wrong type
@@ -1719,6 +1735,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1637.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -1733,10 +1750,10 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 
 1642.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1643.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1644.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -1802,7 +1819,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 error: Value provided for property http://schema.org/recipeCuisine has a wrong type
 
 1668.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1669.json
 
@@ -1837,7 +1854,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 
 1677.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1678.json
 error: Value provided for property http://schema.org/image has a wrong type
@@ -1887,6 +1904,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 
 1691.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -1914,12 +1932,13 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 1699.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 17.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 170.json
 
@@ -1931,7 +1950,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 
 1702.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1703.json
 
@@ -2005,10 +2024,10 @@ error: Value provided for property http://schema.org/author has a wrong type
 
 
 1721.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1722.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1723.json
 
@@ -2037,6 +2056,7 @@ error: Value provided for property http://schema.org/dateModified has a wrong ty
 
 1730.json
 error: Value provided for property http://schema.org/url has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1731.json
 
@@ -2085,7 +2105,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 
 1745.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1746.json
 
@@ -2148,7 +2168,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 1763.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1764.json
 
@@ -2163,7 +2183,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 1774.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1775.json
 
@@ -2223,13 +2243,14 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1794.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1795.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1796.json
 
@@ -2254,7 +2275,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 error: Value provided for property http://schema.org/ingredients has a wrong type
 
 1801.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1802.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
@@ -2281,6 +2302,7 @@ error: Value provided for property http://schema.org/url has a wrong type
 
 1809.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 181.json
 
@@ -2356,13 +2378,13 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 
 1829.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 183.json
 
 
 1830.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1831.json
 
@@ -2402,6 +2424,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 1841.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1842.json
@@ -2533,6 +2556,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 error: Value provided for property http://schema.org/recipeCategory has a wrong type
 
 1877.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -2602,7 +2626,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1895.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1896.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
@@ -2658,7 +2682,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 1910.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1911.json
 
@@ -2775,7 +2799,7 @@ error: Value provided for property http://schema.org/nutrition has a wrong type
 
 
 1941.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1942.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -2786,6 +2810,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1944.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 1945.json
 error: Value provided for property http://schema.org/image has a wrong type
@@ -2874,6 +2899,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 1988.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
 
 1989.json
@@ -2911,6 +2937,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 1999.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 2.json
 
@@ -2940,6 +2967,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 205.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 206.json
@@ -2976,6 +3004,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 215.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 216.json
 
@@ -3166,7 +3195,7 @@ error: Value provided for property http://schema.org/dateModified has a wrong ty
 
 
 265.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 266.json
 
@@ -3184,7 +3213,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 
 27.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 270.json
 
@@ -3241,7 +3270,7 @@ error: Value provided for property http://schema.org/dateModified has a wrong ty
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 29.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 299.json
 error: Value provided for property http://schema.org/datePublished has a wrong type
@@ -3250,13 +3279,14 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 3.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 30.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 307.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 308.json
 
@@ -3414,7 +3444,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 35.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 350.json
 
@@ -3507,7 +3537,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 375.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 376.json
 
@@ -3549,6 +3579,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 386.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 387.json
@@ -3820,7 +3851,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 463.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 464.json
 
@@ -3839,7 +3870,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 469.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 47.json
 
@@ -3868,7 +3899,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 477.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 479.json
 error: Value provided for property http://schema.org/video has a wrong type
@@ -3887,6 +3918,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 
 483.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
@@ -3906,7 +3938,7 @@ error: Value provided for property http://schema.org/dateCreated has a wrong typ
 error: Value provided for property http://schema.org/dateModified has a wrong type
 
 49.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 490.json
 error: Value provided for property http://schema.org/comment has a wrong type
@@ -3994,19 +4026,20 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 52.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 528.json
 
 
 529.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 53.json
 error: Value provided for property http://schema.org/url has a wrong type
 
 530.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 531.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -4059,7 +4092,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 
 
 57.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 578.json
 error: Value provided for property http://schema.org/image has a wrong type
@@ -4070,6 +4103,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 58.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 580.json
@@ -4158,6 +4192,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 602.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 603.json
 
@@ -4175,7 +4210,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 62.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 621.json
 
@@ -4193,6 +4228,7 @@ error: Value provided for property http://schema.org/reviews has a wrong type
 
 
 629.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 63.json
@@ -4200,6 +4236,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 630.json
 error: Value provided for property http://schema.org/url has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 631.json
 
@@ -4208,7 +4245,7 @@ error: Value provided for property http://schema.org/url has a wrong type
 
 
 633.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 634.json
 
@@ -4223,7 +4260,7 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 
 
 638.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 639.json
 
@@ -4248,7 +4285,7 @@ error: Value provided for property http://schema.org/mainEntityOfPage has a wron
 error: Value provided for property http://schema.org/name has a wrong type
 
 645.json
-error: Value provided for property http://schema.org/commentCount has a wrong type
+
 
 646.json
 error: Value provided for property http://schema.org/comment has a wrong type
@@ -4306,7 +4343,7 @@ error: Value provided for property http://schema.org/comment has a wrong type
 
 
 666.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 667.json
 
@@ -4318,7 +4355,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 67.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 670.json
 error: Value provided for property http://schema.org/mainEntityOfPage has a wrong type
@@ -4344,6 +4381,7 @@ error: Value provided for property http://schema.org/recipeCategory has a wrong 
 
 
 676.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 
@@ -4362,7 +4400,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 680.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 681.json
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -4404,7 +4442,7 @@ error: Value provided for property http://schema.org/author has a wrong type
 error: Value provided for property http://schema.org/url has a wrong type
 
 693.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 694.json
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -4451,15 +4489,17 @@ error: Value provided for property http://schema.org/totalTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 709.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 71.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 710.json
 error: Value provided for property http://schema.org/image has a wrong type
 
 711.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 712.json
@@ -4473,7 +4513,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 715.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 716.json
 error: Value provided for property http://schema.org/prepTime has a wrong type
@@ -4490,6 +4530,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
 
 72.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 720.json
@@ -4507,6 +4548,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 724.json
 error: Value provided for property http://schema.org/image has a wrong type
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 725.json
 error: Value provided for property http://schema.org/aggregateRating has a wrong type
@@ -4555,7 +4597,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 
 737.json
-error: Value provided for property http://schema.org/commentCount has a wrong type
+
 
 738.json
 
@@ -4596,7 +4638,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 
 748.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 749.json
 
@@ -4803,7 +4845,7 @@ error: Value provided for property http://schema.org/mainEntityOfPage has a wron
 
 
 849.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 85.json
 error: Value provided for property http://schema.org/image has a wrong type
@@ -4829,6 +4871,7 @@ error: Value provided for property http://schema.org/dateModified has a wrong ty
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 855.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/cookTime has a wrong type
@@ -4850,6 +4893,7 @@ error: Value provided for property http://schema.org/cookTime has a wrong type
 
 
 861.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 862.json
@@ -4915,7 +4959,7 @@ error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/recipeYield has a wrong type
 
 88.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 880.json
 
@@ -5030,6 +5074,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 
 
 921.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 922.json
@@ -5051,6 +5096,7 @@ error: Value provided for property http://schema.org/datePublished has a wrong t
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 927.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 928.json
@@ -5154,6 +5200,7 @@ error: Value provided for property http://schema.org/dateModified has a wrong ty
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 955.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 
 956.json
@@ -5184,7 +5231,7 @@ error: Value provided for property http://schema.org/url has a wrong type
 
 
 964.json
-
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 
 965.json
 
@@ -5208,6 +5255,7 @@ error: Value provided for property http://schema.org/review has a wrong type
 
 
 970.json
+error: Value provided for property http://schema.org/aggregateRating has a wrong type
 error: Value provided for property http://schema.org/datePublished has a wrong type
 error: Value provided for property http://schema.org/prepTime has a wrong type
 error: Value provided for property http://schema.org/totalTime has a wrong type
